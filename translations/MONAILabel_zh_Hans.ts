@@ -270,42 +270,42 @@ Are you sure to continue?</source>
 确定要继续吗？</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1104"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1108"/>
         <source>Please upgrade the monai server to latest version</source>
         <translation>请将monai服务器升级至最新版本</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1115"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1119"/>
         <source>Failed to fetch models from remote server. Make sure server address is correct and &lt;server_uri&gt;/info/ is accessible in browser.
 {message}</source>
         <translation>无法从远程服务器获取模型。请确保服务器地址正确，并且在浏览器中可以访问 &lt;server_uri&gt;/info/。
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1149"/>
-        <location filename="MONAILabel/MONAILabel.py" line="1154"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1153"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1158"/>
         <source>Wait...</source>
         <translation>等待...</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1170"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1174"/>
         <source>No Model selected is to run the training</source>
         <translation>未选择模型进行训练</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1178"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1182"/>
         <source>Training: STARTED</source>
         <translation>训练：开始</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1185"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1189"/>
         <source>Failed to run training in MONAI Label Server.
 {message}</source>
         <translation>在 MONAI 标签服务器中运行训练失败。
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1192"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1196"/>
         <source>ID: {id}
 Status: {status}
 Start Time: {start_time}
@@ -316,19 +316,19 @@ Start Time: {start_time}
 </translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1207"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1211"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
         <translation>这将终止/停止当前的训练任务。您确定要继续吗？</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1217"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1221"/>
         <source>Failed to stop Training Task.
 {message}</source>
         <translation>停止训练任务失败。
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1224"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1228"/>
         <source>Status: {status}
 Start Time: {start_time}
 End Time: {end_time}
@@ -339,33 +339,33 @@ Result: {result}</source>
 结果：{result}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1252"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1256"/>
         <source>This will close current scene.  Please make sure you have saved your current work.
 Are you sure to continue?</source>
         <translation>这将关闭当前场景。请确保您已保存当前的工作。
 您确定要继续吗？</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1265"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1269"/>
         <source>No Strategy Found/Selected</source>
         <translation>未找到/未选择策略</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1276"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1280"/>
         <source>Unlabeled samples or images not found at server.
 Instead please go to File -&gt; Add Data to load image.</source>
         <translation>服务器未找到未标记的样本或图像。
 请改为转到 文件 -&gt; 添加数据 来加载图像。</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1334"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1338"/>
         <source>Failed to fetch Sample from MONAI Label Server.
 {message}</source>
         <translation>从 MONAI 标签服务器获取样本失败。
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1387"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1391"/>
         <source>Source volume - without any additional patient information - will be sent to remote data processing server: {server_url}.
 
 Click &apos;OK&apos; to proceed with the segmentation.
@@ -378,7 +378,7 @@ Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 </translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1428"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1432"/>
         <source>Server Error: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
@@ -387,75 +387,75 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
 请升级到最新的 monailabel 版本（&gt; 0.2.0）</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1434"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1438"/>
         <source>Failed to upload volume to Server.
 {message}</source>
         <translation>上传体积到服务器失败。
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1441"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1445"/>
         <source>Label File not selected</source>
         <translation>标签文件未选择</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1450"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1454"/>
         <source>Failed to import label</source>
         <translation>导入标签失败</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1521"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1525"/>
         <source>Failed to save Label to MONAI Label Server.
 {message}</source>
         <translation>保存标签到 MONAI Label 服务器失败。
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1532"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1536"/>
         <source>Label-Mask saved into MONAI Label Server</source>
         <translation>标签掩码已保存到 MONAI 标签服务器中</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1577"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1581"/>
         <source>Failed to run inference in MONAI Label Server.
 {message}</source>
         <translation>在 MONAI 标签服务器中运行推理失败。
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1594"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1598"/>
         <source>Please select a model</source>
         <translation>请选择一个模型</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1599"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1603"/>
         <source>Please add the required label to run interactive model</source>
         <translation>请添加运行交互式模型所需的标签</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1616"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1620"/>
         <source>Run Inference for segment: {label}; model: {model}; 3d {in3d}</source>
         <translation>对分割：{label} ；模型：{model}；3D：{in3d} 运行推理</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1617"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1621"/>
         <source>enabled</source>
         <translation>已启用</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1618"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1622"/>
         <source>disabled</source>
         <translation>已禁用</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="2051"/>
+        <location filename="MONAILabel/MONAILabel.py" line="2055"/>
         <source>Failed to post process label on MONAI Label Server using {scribbles_method}.
 {message}</source>
         <translation>在 MONAI 标签服务器上使用 {scribbles_method} 进行标签后处理失败。
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="2418"/>
+        <location filename="MONAILabel/MONAILabel.py" line="2422"/>
         <source>User Login</source>
         <translation>用户登录</translation>
     </message>

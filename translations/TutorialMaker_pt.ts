@@ -320,54 +320,54 @@
         <translation>Data da versão: {}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="244"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Tutorial Captured</source>
         <translation>Tutorial capturado</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="244"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Captured Tutorial: {tutorialName}</source>
         <translation>Tutorial capturado: {tutorialName}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="249"/>
-        <source>Failed to capture tutorial: {e}</source>
-        <translation>Falha ao capturar o tutorial: {e}</translation>
+        <location filename="TutorialMaker/TutorialMaker.py" line="251"/>
+        <source>Failed to generate tutorial</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="273"/>
+        <source>Failed to fetch tutorials from {repo}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Tutorial Generated</source>
         <translation>Tutorial gerado</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Generated Tutorial: {tutorialName}</source>
         <translation>Tutorial gerado: {tutorialName}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="281"/>
-        <source>Failed to fetch tutorials from {repo}. Please try again later.</source>
-        <translation>Falha ao obter tutoriais de {repo}. Por favor, tente novamente mais tarde.</translation>
-    </message>
-    <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="328"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="322"/>
         <source>No Tests Found</source>
         <translation>Nenhum teste encontrado</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="375"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="369"/>
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
         <translation>Falha na execução do tutorial: {unit_tutorials} - Erro: {e}. 
 </translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="379"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="373"/>
         <source>Tutorial Tested</source>
         <translation>Tutorial testado</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="382"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="376"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
         <translation>{tutorials_failed} os tutoriais não foram executados. Erros: {error_message}</translation>
     </message>

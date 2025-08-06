@@ -7733,47 +7733,57 @@ This file was originally developed by Andras Lasso
         <translation>معلمات</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="72"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="67"/>
+        <source>Sequence</source>
+        <translation type="unfinished">تسلسل</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
         <translation>اختر عقدة متسلسلة من الأحجام التي سيتم قصها وإعادة تصميمها.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="73"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="76"/>
         <source>Input volume sequence: </source>
         <translation>تسلسل حجم المدخلات: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="85"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="88"/>
         <source>(Overwrite input)</source>
         <translation>(مدخلات الكتابة الفوقية)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="88"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="92"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
         <translation>اختر عقدة متسلسلة حيث سيتم تخزين الأحجام القصيرة والمعاد تجميعها.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="89"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="93"/>
         <source>Output volume sequence: </source>
         <translation>تسلسل حجم المخرج: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="104"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="108"/>
+        <source>Crop volume parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Select a crop volumes parameters.</source>
         <translation>حدد معلمات أحجام المحاصيل.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="111"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="116"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
         <translation>انتقل إلى وحدة حجم المحاصيل لتحرير معلمات المحاصيل.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="114"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
         <source>Crop volume settings: </source>
         <translation>إعدادات حجم المحاصيل: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="121"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="126"/>
         <source>Run the algorithm.</source>
         <translation>تشغيل الخوارزمية.</translation>
     </message>
@@ -8400,42 +8410,42 @@ This file was originally developed by Andras Lasso
         <translation>لا توجد سمة بيانات بكسل لكائنات DICOM ، ولكن قد تكون قابلة للقراءة كصور التقاط ثانوية.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="639"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="649"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
         <translation>ينشئ سلسلة من ملفات DICOM من وحدات تخزين قياسية</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="667"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="677"/>
         <source>Invalid subject hierarchy</source>
         <translation>التسلسل الهرمي للموضوع غير صالح</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="671"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="681"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
         <translation>لا يمكن تصدير السلسلة &apos;{itemName}&apos;</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="688"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="698"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
         <translation>تعذر الحصول على الدراسة للسلسلة &quot;{volumeName}&quot;</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="693"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="703"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
         <translation>يتعذر التحلي بالصبر لسلسلة &quot;{volumeName}&quot;</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="742"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="752"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
         <translation>طريقة فارغة للسلسلة &apos;{volumeName}&apos;</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="756"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="766"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
         <translation>توجد سلسلة بالفعل في قاعدة البيانات بواسطة UID مثيل السلسلة {seriesInstanceUID}.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="768"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="778"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
         <translation>فشل إنشاء ملفات DICOM من وحدة تخزين قياسية. راجع سجل التطبيق للحصول على التفاصيل.</translation>
     </message>
@@ -8603,18 +8613,23 @@ indicated by the mouse position.
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
-        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="500"/>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="343"/>
+        <source>{description} [slice: {instanceNumber}]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="425"/>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="515"/>
         <source>Go to the DataProbe module for more information and options</source>
         <translation>انتقل إلى وحدة مسبار البيانات لمزيد من المعلومات والخيارات</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="439"/>
         <source>Show Zoomed Slice</source>
         <translation>أظهر شريحة التكبير</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="541"/>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="556"/>
         <source>Slice View Annotations Settings</source>
         <translation>إعدادات التعليقات التوضيحية لعرض الشرائح</translation>
     </message>
@@ -9226,29 +9241,14 @@ You can save the camera position at any point by clicking &quot;Save camera posi
 <context>
     <name>QObject</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="107"/>
         <source>Markups</source>
         <translation>علامات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="78"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="76"/>
         <source>Sequence browser</source>
         <translation>متصفح التسلسل</translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="50"/>
-        <source>Create new </source>
-        <translation>إنشاء جديد </translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="51"/>
-        <source> as...</source>
-        <translation> ك...</translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="52"/>
-        <source>Rename </source>
-        <translation>إعادة تسمية </translation>
     </message>
 </context>
 <context>
@@ -12077,7 +12077,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 <context>
     <name>SomeContext</name>
     <message>
-        <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="59"/>
+        <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="58"/>
         <source>SomeMessage</source>
         <translation>بعض الرسائل</translation>
     </message>
@@ -12358,12 +12358,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
         <translation>تطبيق</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="59"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="58"/>
         <source>Vector to Scalar Volume</source>
         <translation>المتجه إلى الحجم القياسي</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="75"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="74"/>
         <source>
     &lt;p&gt;Make a scalar (1 component) volume from a vector volume.&lt;/p&gt;
 
@@ -12388,7 +12388,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="87"/>
         <source>
 Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
@@ -12401,77 +12401,77 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
 NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="89"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
         <source>Luminance</source>
         <translation>الإنارة</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="90"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="89"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
         <translation>(RGB، RGBA) الإنارة من المكونات الثلاثة الأولى: 0.30 * R + 0.59 * G + 0.11 * B + 0.0 * A)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="93"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="92"/>
         <source>Average</source>
         <translation>معدل</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="94"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="93"/>
         <source>Average all the components.</source>
         <translation>متوسط جميع المكونات.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="97"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="96"/>
         <source>Single Component Extraction</source>
         <translation>استخراج عنصر واحد</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="98"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="97"/>
         <source>Extract single component</source>
         <translation>استخراج مكون واحد</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="257"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="256"/>
         <source>Please select Input Vector Volume</source>
         <translation>الرجاء تحديد حجم متجه الإدخال</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="259"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="258"/>
         <source>Please select Output Scalar Volume</source>
         <translation>الرجاء تحديد حجم الإخراج القياسي</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="261"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="260"/>
         <source>Please select a component to extract</source>
         <translation>الرجاء تحديد عنصر لاستخراجه</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="285"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="284"/>
         <source>Failed to compute results.</source>
         <translation>فشل في حساب النتائج.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="321"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="320"/>
         <source>no input volume node defined</source>
         <translation>لم يتم تحديد عقدة حجم المدخلات</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="325"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="324"/>
         <source>no output volume node defined</source>
         <translation>لم يتم تحديد عقدة حجم الإخراج</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="330"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="329"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
         <translation>حجم المدخلات والمخرجات هو نفسه. قم بإنشاء وحدة تخزين جديدة للإخراج لتجنب هذا الخطأ.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="347"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
         <translation>المكون المراد استخراجه({componentSelected}) غير صالح. تحتوي الصورة على مكونات {componentsTotal} فقط.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="357"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="356"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
         <translation>تحتوي المدخلات فقط على مكونات {componentsTotal} ولكنها تتطلب 3 مكونات على الأقل لتحويل الإضاءة.</translation>
     </message>
@@ -12552,142 +12552,142 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
 <context>
     <name>WebServer</name>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="31"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
         <source>Web Server</source>
         <translation>خادم ويب</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="35"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="36"/>
         <source>Provides an embedded web server in Slicer that allows control of the application via web services API (HTTP requests).</source>
         <translation>يوفر خادم ويب مدمج في Slicer يسمح بالتحكم في التطبيق عبر واجهة برمجة التطبيقات لخدمات الويب (طلبات HTTP).</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="44"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="45"/>
         <source>This work was partially funded by NIH grant 3P41RR013218.</source>
         <translation>تم تمويل هذا العمل جزئيًا من قبل 3P41RR013218 منح المعاهد الوطنية للصحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="65"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="66"/>
         <source>Start server</source>
         <translation>تشغيل خادم</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="68"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="69"/>
         <source>Start web server with the selected options.</source>
         <translation>ابدأ خادم الويب مع الخيارات المحددة.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="71"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="72"/>
         <source>Stop server</source>
         <translation>أوقف الخادم</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="74"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="75"/>
         <source>Stop the web server.</source>
         <translation>أوقف خادم الويب.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="77"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="78"/>
         <source>Open static pages in external browser</source>
         <translation>افتح صفحات ثابتة في متصفح خارجي</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="79"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="80"/>
         <source>Open a connection to the server on the local machine with your system browser.</source>
         <translation>افتح اتصالاً بالخادم الموجود على الجهاز المحلي باستخدام متصفح نظامك.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="82"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="83"/>
         <source>Open static pages in internal browser</source>
         <translation>افتح صفحات ثابتة في متصفح داخلي</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="84"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="85"/>
         <source>Open a connection with Qt to the server on the local machine.</source>
         <translation>فتح اتصال مع Qt إلى الخادم على الجهاز المحلي.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="94"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="95"/>
         <source>Clear Log</source>
         <translation>مسح سجل</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="96"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="97"/>
         <source>Clear the log window.</source>
         <translation>امسح نافذة السجل.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="104"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="105"/>
         <source>Advanced</source>
         <translation>متقدم</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
         <source>Enable Cross Origin Resource Sharing (stop server to change option). Warning: this option allows any web page to access the server.</source>
         <translation>تمكين مشاركة الموارد عبر الأصل (إيقاف الخادم لتغيير الخيار). تحذير: يسمح هذا الخيار لأي صفحة ويب بالوصول إلى الخادم.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
         <source>Enable CORS: </source>
         <translation>تمكين مشاركة الموارد عبر الأصل </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
         <source>Enable remote control of Slicer application (stop server to change option)</source>
         <translation>تمكين التحكم عن بعد في تطبيق Slicer (إيقاف الخادم لتغيير الخيار)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
         <source>Slicer API: </source>
         <translation>واجهة برمجة التطبيقات Slicer: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
         <translation>تمكين تنفيذ أمر بايثون التعسفي باستخدام واجهة برمجة التطبيقات Slicer . لا يكون له تأثير إلا إذا تم تمكين واجهة برمجة التطبيقات Slicer أيضًا (توقف الخادم عن تغيير الخيار).</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
         <source>Slicer API exec: </source>
         <translation>تنفيذ واجهة برمجة التطبيقات Slicer. </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="126"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
         <source>Enable serving Slicer DICOM database content via DICOMweb (stop server to change option)</source>
         <translation>تمكين تقديم محتوى قاعدة بيانات Slicer DICOM عبر DICOMweb (إيقاف الخادم لتغيير الخيار)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="128"/>
         <source>DICOMweb API: </source>
         <translation>واجهة برمجة التطبيقات DICOMweb: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
         <source>Enable serving static pages (stop server to change option)</source>
         <translation>تمكين تقديم صفحات ثابتة (إيقاف الخادم لتغيير الخيار)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
         <source>Static pages: </source>
         <translation>صفحات ثابتة: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Copy log messages to the python console and parent terminal (disable to improve performance)</source>
         <translation>نسخ رسائل السجل إلى وحدة التحكم البايثون والطرفية الأصلية (تعطيل لتحسين الأداء)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Log to Console: </source>
         <translation>سجل إلى وحدة التحكم: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Copy log messages to the log widget (disable to improve performance)</source>
         <translation>نسخ سجل الرسائل إلى سجل الأدوات (تعطيل لتحسين الأداء)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Log to GUI: </source>
         <translation>تسجيل الدخول إلى واجهة المستخدم الرسومية: </translation>
     </message>
@@ -12695,12 +12695,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
 <context>
     <name>qMRMLCaptureToolBar</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="105"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="107"/>
         <source>Screenshot</source>
         <translation>لقطة للشاشة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="106"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="108"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
         <translation>التقط لقطة شاشة للتخطيط الكامل أو عرض 3D أو طرق عرض الشريحة. استخدم ملف ، حفظ لحفظ الصورة.</translation>
@@ -12716,22 +12716,22 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <translation>التقاط وتسمية عرض مشهد.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="124"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="123"/>
         <source>Restore view</source>
         <translation>استعادة العرض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="126"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="125"/>
         <source>Restore or delete saved scene views.</source>
         <translation>استعادة طرق عرض المشهد المحفوظة أو حذفها.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="181"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="175"/>
         <source>SceneView Name</source>
         <translation>اسم عرض المشهد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="182"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="175"/>
         <source>SceneView Name:</source>
         <translation>اسم عرض المشهد:</translation>
     </message>
@@ -12966,7 +12966,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <translation>تنسيق:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="80"/>
+        <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="83"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;يستخدم حقل التنسيق بناء جملة الدالة printf. أمثلة على التنسيقات: - عرض بأرقام كسرية واحدة: ٪ .1f - عدد صحيح للعرض: ٪ .&lt;b&gt;0f&lt;/b&gt;&lt;br&gt;&lt;br&gt; - عرض مع 4 أرقام معنوية: &lt;b&gt;٪ .4g&lt;/b&gt;&lt;br&gt; - تعليق توضيحي لتسمية السلسلة&lt;b&gt;&lt;/b&gt;:&lt;br&gt; &lt;b&gt;٪s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -12999,8 +12999,8 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="550"/>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="577"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="542"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="569"/>
         <source>%2 %1</source>
         <extracomment>For formatting of terminology entry with a modifier in simplified mode. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
@@ -13008,8 +13008,8 @@ For formatting of terminology entry name in simplified mode. %1 is region name (
         <translation type="unfinished">%2 %1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="555"/>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="582"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="547"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="574"/>
         <source>%1, %2</source>
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
@@ -13017,19 +13017,19 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation type="unfinished">%1, %2</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="593"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="585"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
         <translation>%1 في %2</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="605"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="597"/>
         <source>Unknown in %1</source>
         <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
         <translation>غير معروف في %1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="625"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="617"/>
         <source>%1: %2</source>
         <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
         <translation>%1: %2</translation>
@@ -13296,57 +13296,57 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>منحنى إعادة العينة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="125"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="111"/>
         <source>Linear</source>
         <translation>خطى</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="129"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="115"/>
         <source>Spline</source>
         <translation>منحنى</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="133"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="119"/>
         <source>Kochanek spline</source>
         <translation>منحنى كوشانيك</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="137"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="123"/>
         <source>Polynomial</source>
         <translation>متعدد الحدود</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="141"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="127"/>
         <source>Shortest distance on surface</source>
         <translation>أقصر مسافة على السطح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="146"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="132"/>
         <source>Unknown</source>
         <translation>مجهول</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="158"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="144"/>
         <source>Distance</source>
         <translation>مسافة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="162"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="148"/>
         <source>Additive</source>
         <translation>مضاف</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="166"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="152"/>
         <source>Multiplicative</source>
         <translation>المضاعف</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="170"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="156"/>
         <source>Inverse squared</source>
         <translation>معكوس تربيع</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="262"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="248"/>
         <source>distance</source>
         <extracomment>Used in mathematical expression of cost function of the curve</extracomment>
         <translation>مسافة</translation>
@@ -13547,12 +13547,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>مقابض التفاعل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="117"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="102"/>
         <source>unconstrained</source>
         <translation>غير مقيد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="118"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="103"/>
         <source>snap to visible surface</source>
         <translation>التشبث بالسطح المرئي</translation>
     </message>
@@ -13759,17 +13759,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>التعتيم:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="108"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="97"/>
         <source>Three points</source>
         <translation>ثلاث نقاط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="110"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="98"/>
         <source>Point normal</source>
         <translation>نقطة عادية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="112"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="99"/>
         <source>Plane fit</source>
         <translation>توافق الطائرة</translation>
     </message>
@@ -13852,7 +13852,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>حدد الترميز النشط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="501"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="483"/>
         <source>Create new %1</source>
         <translation>أنشئ جديد %1</translation>
     </message>
@@ -14224,7 +14224,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>قيمة السمة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="194"/>
         <source>There is already an attribute with the same name</source>
         <translation>هناك بالفعل سمة بنفس الاسم</translation>
     </message>
@@ -14270,49 +14270,58 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLNodeComboBox</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="71"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="62"/>
         <source>None</source>
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="251"/>
-        <source>Select a </source>
-        <translation>اختر </translation>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="233"/>
+        <source>Select a %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="309"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="485"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1126"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1129"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1348"/>
-        <source>Rename current </source>
-        <translation>إعادة تسمية الحالي </translation>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="292"/>
+        <source>Rename current %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="313"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="480"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1100"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1103"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1346"/>
-        <source>Edit current </source>
-        <translation>تحرير الحالي </translation>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="298"/>
+        <source>Edit current %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="747"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="306"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="695"/>
+        <source>Create new %1</source>
+        <translation type="unfinished">أنشئ جديد %1</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="310"/>
+        <source>Create new %1 as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="318"/>
+        <source>Delete current %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="680"/>
+        <source>Rename %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished">إعادة تسمية%1</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="714"/>
         <source>New name:</source>
         <translation>اسم جديد:</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1074"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1077"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1344"/>
-        <source>Delete current </source>
-        <translation>حذف الحالي </translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="621"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="586"/>
         <source>node</source>
         <translation>عقدة</translation>
     </message>
@@ -14594,7 +14603,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLPlotSeriesPropertiesWidgetPrivate</name>
     <message>
-        <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="167"/>
+        <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="157"/>
         <source>This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</source>
         <translation>يستخدم نوع الرسم هذا الفهارس كقيم المحور X. قم بالتبديل إلى نوع مخطط التشتت للسماح بتحديد العمود.</translation>
     </message>
@@ -14727,17 +14736,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>اضبط مجال رؤية عارض المخطط لمطابقة مدى محاور المخطط</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="108"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="107"/>
         <source>P</source>
         <translation>P</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="337"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="330"/>
         <source>Save as SVG</source>
         <translation>احفظ ك SVG</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="338"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="330"/>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>رسومات ناقلات قابلة للتطوير (* .svg)</translation>
     </message>
@@ -14778,7 +14787,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLRangeWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLRangeWidget.cxx" line="70"/>
+        <location filename="Libs/MRML/Widgets/qMRMLRangeWidget.cxx" line="67"/>
         <source>Symmetric handles</source>
         <translation>مقابض متماثلة</translation>
     </message>
@@ -14900,7 +14909,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
 <context>
     <name>qMRMLSceneHierarchyModel</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="395"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="384"/>
         <source>Checked: Force color to children</source>
         <translation>فحص: قوة اللون للأطفال</translation>
     </message>
@@ -14908,7 +14917,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
 <context>
     <name>qMRMLSceneViewMenu</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLSceneViewMenu.cxx" line="198"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLSceneViewMenu.cxx" line="199"/>
         <source>No scene views</source>
         <translation>لا مناظر للمشهد</translation>
     </message>
@@ -14916,77 +14925,77 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
 <context>
     <name>qMRMLScreenShotDialog</name>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="189"/>
         <source>Name:</source>
         <translation>الإسم:</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
-        <source>Thumbnail:</source>
-        <translation>صورة مصغرة:</translation>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
+        <source>Thumbnail</source>
+        <translation type="unfinished">صورة مصغرة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
         <source>Full layout</source>
         <translation>تخطيط كامل</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
         <source>3D View</source>
         <translation>العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="72"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
         <source>Red Slice View</source>
         <translation>عرض الشريحة الحمراء</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="83"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="69"/>
         <source>Yellow Slice View</source>
         <translation>منظر الشرائح الصفراء</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="94"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="80"/>
         <source>Green Slice View</source>
         <translation>منظر الشريحة الخضراء</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="138"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="126"/>
         <source>Scale factor:</source>
         <translation>عامل المقياس:</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="145"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="139"/>
         <source>Adjust the Magnification factor.</source>
         <translation>اضبط عامل التكبير.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="154"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="142"/>
         <source>x</source>
         <translation>x</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="173"/>
-        <source>Save As...:</source>
-        <translation>حفظ مثل...:</translation>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="174"/>
+        <source>Save As...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="180"/>
-        <source>Description:</source>
-        <translation>الوصف:</translation>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="206"/>
+        <source>Description</source>
+        <translation type="unfinished">وصف</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="196"/>
         <source>Save snapshot via File Save. Edit in Annotations module.</source>
         <translation>حفظ لقطة عبر حفظ الملفات. تحرير في وحدة الشروح.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="425"/>
+        <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="432"/>
         <source>Save File</source>
         <translation>حفظ ملف</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
+        <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="432"/>
         <source>Images (*.png *.jpg)</source>
         <translation>الصور (* .png * .jpg)</translation>
     </message>
@@ -15062,7 +15071,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="147"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="426"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="427"/>
         <source>Segmentations</source>
         <translation>التقسيمات</translation>
     </message>
@@ -15132,72 +15141,72 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>يتحكم في الشرائح التي سيتم استبدال المقطع الحالي فوقها. قد تتداخل المقاطع التي لم تتم الكتابة فوقها مع المقطع المحدد.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="412"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="413"/>
         <source>Everywhere</source>
         <translation>في كل مكان</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="413"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="414"/>
         <source>Inside all segments</source>
         <translation>داخل جميع القطاعات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="414"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="415"/>
         <source>Inside all visible segments</source>
         <translation>داخل جميع الأجزاء المرئية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="415"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="416"/>
         <source>Outside all segments</source>
         <translation>خارج جميع القطاعات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="416"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="417"/>
         <source>Outside all visible segments</source>
         <translation>خارج جميع الأجزاء المرئية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="420"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="421"/>
         <source>Overwrite all</source>
         <translation>شطب فوق الكل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="421"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="422"/>
         <source>Overwrite visible</source>
         <translation>الكتابة فوق مرئية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="422"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="423"/>
         <source>Allow overlap</source>
         <translation>السماح بالتداخل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="428"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="429"/>
         <source>Import/export nodes...</source>
         <translation>عقد الاستيراد/التصدير...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="431"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="432"/>
         <source>Export to files...</source>
         <translation>تصدير إلى ملفات...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="434"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="435"/>
         <source>Export to color table</source>
         <translation>تصدير إلى جدول الألوان</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1056"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1052"/>
         <source>None</source>
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1057"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1053"/>
         <source>No editing</source>
         <translation>لا تحرير</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1390"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1383"/>
         <source>Editing requires binary labelmap source representation, but currently the source representation is %1. Changing the source representation requires conversion. Some details may be lost during conversion process.
 
 Change source representation to binary labelmap?</source>
@@ -15209,30 +15218,30 @@ Change master representation to binary labelmap?</oldsource>
 تغيير تمثيل المصدر لخريطة الملصقات الثنائية ؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1395"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1388"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
         <translation>تغيير التمثيل الرئيسي إلى خريطة التسمية الثنائية؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1416"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1408"/>
         <source>Failed to create binary labelmap representation in segmentation %1 for editing!
 Please see Segmentations module for details.</source>
         <translation>فشل في إنشاء تمثيل خريطة التسمية الثنائية في تجزئة %1 للتحرير!
 يرجى الاطلاع على وحدة التقسيم للحصول على التفاصيل.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1418"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1409"/>
         <source>Failed to create binary labelmap for editing</source>
         <translation>فشل في إنشاء خريطة تسمية ثنائية للتحرير</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2429"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2387"/>
         <source>Inside </source>
         <translation>داخل </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3517"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3460"/>
         <source>Export segments to files</source>
         <translation>قطاعات التصدير إلى الملفات</translation>
     </message>
@@ -15279,9 +15288,9 @@ Please see Segmentations module for details.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="107"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="238"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="272"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="237"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="271"/>
         <source>Path</source>
         <translation>مسار</translation>
     </message>
@@ -15292,19 +15301,19 @@ Please see Segmentations module for details.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="112"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="340"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="424"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="339"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="422"/>
         <source>Name</source>
         <translation>اسم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="184"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="112"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="305"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="324"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="365"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="372"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="304"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="323"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="363"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="370"/>
         <source>Value</source>
         <translation>قيمة</translation>
     </message>
@@ -15314,48 +15323,48 @@ Please see Segmentations module for details.</source>
         <translation>تحويل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="107"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="254"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="253"/>
         <source>Cost</source>
         <translation>التكلفة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="159"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="158"/>
         <source>Invalid segmentation</source>
         <translation>تجزئة غير صالحة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="187"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="186"/>
         <source>Invalid representation</source>
         <translation>تمثيل غير صالح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="233"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="232"/>
         <source>No path available!</source>
         <translation>لا يوجد مسار متاح!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="300"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="299"/>
         <source>No path selected</source>
         <translation>لم يتم تحديد مسار</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="319"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="318"/>
         <source>No parameters for selected path</source>
         <translation>لا توجد معلمات للمسار المحدد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="355"/>
         <source>Specify geometry</source>
         <translation>تحديد الهندسة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="403"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="401"/>
         <source>Failed to convert %1 to %2!</source>
         <translation>فشل تحويل %1 إلى %2!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="402"/>
         <source>Conversion failed</source>
         <translation>فشل التحويل</translation>
     </message>
@@ -15475,12 +15484,12 @@ Please see Segmentations module for details.</source>
         <translation>عقدة القص:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="209"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="204"/>
         <source>Selected segment: none</source>
         <translation>الجزء المحدد: لا شيء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="261"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="245"/>
         <source>Selected segment: %1</source>
         <translation>الجزء المحدد: %1</translation>
     </message>
@@ -15613,12 +15622,12 @@ Please see Segmentations module for details.</source>
         <translation>الحجم المرجعي:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="297"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="288"/>
         <source>Exporting may erase data</source>
         <translation>التصدير قد يمحو البيانات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="303"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="294"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
@@ -15630,27 +15639,27 @@ Do you want to crop the segmentation?
 <context>
     <name>qMRMLSegmentationGeometryDialog</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="85"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="88"/>
         <source>Segmentation geometry</source>
         <translation>هندسة التجزئة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="101"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="104"/>
         <source>OK</source>
         <translation>موافق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="104"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="107"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="161"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="164"/>
         <source>Set reference image geometry and resample all segment labelmaps</source>
         <translation>تعيين هندسة الصورة المرجعية وإعادة تشكيل جميع خرائط تسمية الجزء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="165"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="168"/>
         <source>Set reference image geometry (do not resample)</source>
         <translation>تعيين هندسة الصورة المرجعية (لا إعادة تشكيل)</translation>
     </message>
@@ -15735,12 +15744,12 @@ Do you want to crop the segmentation?
         <translation>أبعاد:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="177"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="169"/>
         <source>The current segmentation may not fit into the new geometry.</source>
         <translation>قد لا يتناسب التجزئة الحالية مع الهندسة الجديدة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="411"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="399"/>
         <source>No segmentation node specified!</source>
         <translation>لا توجد عقدة تجزئة محددة!</translation>
     </message>
@@ -15758,12 +15767,12 @@ Do you want to crop the segmentation?
         <translation>لم يتم تحديد عقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="171"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="167"/>
         <source>No node is selected</source>
         <translation>لم يتم تحديد أي عقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="210"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="207"/>
         <source>This is the source representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</source>
@@ -15775,22 +15784,22 @@ Do you want to crop the segmentation?
   2. إذا تم تعديل هذا التمثيل ، يتم مسح الآخرين</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="215"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="212"/>
         <source>This representation is present</source>
         <translation>هذا التمثيل موجود</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="223"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="220"/>
         <source>This representation is not present</source>
         <translation>هذا التمثيل غير موجود</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="235"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="232"/>
         <source>Update</source>
         <translation>تحديث</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="236"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="233"/>
         <source>Update %1 representation using custom conversion parameters.
 
 Click the down-arrow button for additional operations.</source>
@@ -15799,28 +15808,28 @@ Click the down-arrow button for additional operations.</source>
 انقر فوق زر السهم لأسفل لعمليات إضافية.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="247"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="245"/>
         <source>Remove</source>
         <translation>إزالة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="248"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="246"/>
         <source>Remove %1 representation from segmentation</source>
         <translation>إزالة تمثيل %1 من التجزئة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="258"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="256"/>
         <source>Make source</source>
         <oldsource>Make master</oldsource>
         <translation>جعل المصدر</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="268"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="266"/>
         <source>Create</source>
         <translation>إنشاء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="269"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="267"/>
         <source>Create %1 representation using default conversion parameters.
 
 Press and hold button to access advanced conversion and removal options.</source>
@@ -15829,17 +15838,17 @@ Press and hold button to access advanced conversion and removal options.</source
 اضغط مع الاستمرار على الزر للوصول إلى خيارات التحويل والإزالة المتقدمة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="279"/>
         <source>Advanced create...</source>
         <translation>إنشاء متقدم...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="281"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
         <source>Create %1 representation using custom conversion parameters</source>
         <translation>إنشاء تمثيل %1 باستخدام معلمات التحويل المخصصة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="316"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="315"/>
         <source>Failed to convert %1 to %2!
 
 Probably there is no valid conversion path between the source representation and %2</source>
@@ -15881,48 +15890,48 @@ Do you wish to proceed with changing source representation?</source>
 <context>
     <name>qMRMLSegmentationShow3DButton</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="76"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="79"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="78"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="81"/>
         <source>Show 3D</source>
         <translation>عرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="81"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="83"/>
         <source>Surface smoothing</source>
         <translation>تجانس السطح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="83"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="84"/>
         <source>Apply smoothing when converting binary labelmap to closed surface representation.</source>
         <translation>قم بتطبيق التنعيم عند تحويل خريطة الملصقات الثنائية إلى تمثيل سطح مغلق.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="88"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="89"/>
         <source>Smoothing factor</source>
         <translation>عامل التنعيم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="92"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="93"/>
         <source>Experimental</source>
         <translation>تجريبي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="96"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="97"/>
         <source>Use Surface Nets (fast)</source>
         <translation>استخدم الشبكات السطحية (بسرعة)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="98"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="99"/>
         <source>Create closed surface using surface nets. By default, flying edges is used. Surface nets are more performant.</source>
         <translation>إنشاء سطح مغلق باستخدام الشباك السطحية. بشكل افتراضي، يتم استخدام الحواف الطائرة. الشباك السطحية أكثر أداءً.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="104"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="105"/>
         <source>Use Surface Nets Smoothing (faster)</source>
         <translation>استخدم تنعيم الشباك السطحية (أسرع)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="107"/>
         <source>Use surface nets internal smoothing (more performant). vtkWindowedSincPolyDataFilter is used by default.</source>
         <translation>استخدم الشباك السطحية لتنعيم داخلي (أكثر أداءً). vtkWindowedSincPolyDataFilter يستخدم افتراضيًا.</translation>
     </message>
@@ -15975,32 +15984,32 @@ Do you wish to proceed with changing source representation?</source>
         <translation>حالة القطعة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="482"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="481"/>
         <source>Not started</source>
         <translation>لم يبدأ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="487"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="486"/>
         <source>In progress</source>
         <translation>قيد التنفيذ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="491"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="490"/>
         <source>Completed</source>
         <translation>اكتمل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="495"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="494"/>
         <source>Flagged</source>
         <translation>وضع علامة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1061"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1047"/>
         <source>No terminology information</source>
         <translation>لا توجد معلومات المصطلحات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1066"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1052"/>
         <source>Invalid terminology information</source>
         <translation>معلومات المصطلحات غير الصالحة</translation>
     </message>
@@ -16043,117 +16052,117 @@ Do you wish to proceed with changing source representation?</source>
         <translation>إظهار/إخفاء الشرائح التي تم وضع علامة عليها</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="578"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="567"/>
         <source>Choose new segment color</source>
         <translation>اختر لون الجزء الجديد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="604"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="594"/>
         <source>Stop using terminologies?</source>
         <translation>توقف عن استخدام المصطلحات؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="605"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="595"/>
         <source>You frequently enter custom name or color. How do you prefer setting name and color next time?</source>
         <translation>أنت تدخل غالبًا اسمًا أو لونًا مخصصًا. كيف تفضل تعيين الاسم واللون في المرة القادمة؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="610"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="601"/>
         <source>Switch to direct editing</source>
         <translation>التبديل إلى التحرير المباشر</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="611"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="602"/>
         <source>Keep using terminology selector</source>
         <translation>استمر في استخدام محدد المصطلحات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="612"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="603"/>
         <source>Ask me later</source>
         <translation>اسألني لاحقًا</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="644"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="635"/>
         <source>No node is selected</source>
         <translation>لم يتم تحديد أي عقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="649"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="640"/>
         <source>Empty segmentation</source>
         <translation>تجزئة فارغة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1188"/>
         <source>Toggle selected segments visibility</source>
         <translation>تبديل رؤية الأجزاء المحددة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1202"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1192"/>
         <source>Show only selected segments</source>
         <translation>إظهار المقاطع المختارة فقط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1208"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
         <source>Jump slices</source>
         <translation>الانتقال إلى الشرائح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1214"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1204"/>
         <source>Move selected segments up</source>
         <translation>تحريك المقاطع المحددة لأعلى</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1218"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1208"/>
         <source>Move selected segments down</source>
         <translation>نقل المقاطع المحددة لأسفل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1225"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1215"/>
         <source>Show filter bar</source>
         <translation>إظهار شريط التصفية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1231"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1221"/>
         <source>Show layer column</source>
         <translation>إظهار عمود الطبقة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1252"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1242"/>
         <source>Show in 3D</source>
         <translation>عرض في ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1259"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1249"/>
         <source>Show in 2D as fill</source>
         <translation>إظهار في 2D كتعبئة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1266"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1256"/>
         <source>Show in 2D as outline</source>
         <translation>إظهار في 2D كمخطط تفصيلي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1290"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1280"/>
         <source>Clear selected segments</source>
         <translation>مسح المقاطع المحددة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1298"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1288"/>
         <source>Use standard terminology for name and color selection</source>
         <translation>استخدم المصطلحات القياسية لاختيار الأسماء والألوان</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1370"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1360"/>
         <source>Clear</source>
         <translation>واضح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1371"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1361"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1373"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1363"/>
         <source>Are you sure you want to clear the contents of the selected segments?</source>
         <translation>هل تريد بالتأكيد مسح محتويات الشرائح المحددة؟</translation>
     </message>
@@ -16211,17 +16220,17 @@ Do you wish to proceed with changing source representation?</source>
         <translation>سجل لقطة من الحالة الحالية لجميع العقد الوكيل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="317"/>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="318"/>
         <source>Play/Pause (%1)</source>
         <translation>تشغيل/إيقاف (%1)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="333"/>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="334"/>
         <source>Previous frame (%1)</source>
         <translation>الإطار السابق (%1)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="349"/>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="350"/>
         <source>Next frame (%1)</source>
         <translation>الإطار التالي (%1)</translation>
     </message>
@@ -16325,7 +16334,7 @@ Do you wish to proceed with changing source representation?</source>
         <translation>نوع العقدة:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceEditWidget.cxx" line="356"/>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceEditWidget.cxx" line="349"/>
         <source>Name</source>
         <translation>اسم</translation>
     </message>
@@ -16838,12 +16847,12 @@ Do you wish to proceed with changing source representation?</source>
         <translation>عرض حافة الشريحة في العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="345"/>
         <source>Slice distance from RAS origin</source>
         <translation>مسافة الشريحة من أصل RAS</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2744"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2578"/>
         <source>Continue</source>
         <translation>استمر</translation>
     </message>
@@ -16851,122 +16860,122 @@ Do you wish to proceed with changing source representation?</source>
 <context>
     <name>qMRMLSliceControllerWidgetPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="491"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="418"/>
         <source>Linked</source>
         <translation>مرتبط</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="506"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="432"/>
         <source>Reformat</source>
         <translation>اعاده</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="521"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="446"/>
         <source>Lightbox view</source>
         <translation>عرض العرض المبسط</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="533"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="458"/>
         <source>Custom</source>
         <translation>تقليد</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="543"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="468"/>
         <source>Apply</source>
         <translation>طبق</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="570"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="494"/>
         <source>Compositing</source>
         <translation>تركيب</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="593"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="516"/>
         <source>Slice spacing mode</source>
         <translation>وضع التباعد بين الشرائح</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="597"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="520"/>
         <source>Manual spacing</source>
         <translation>التباعد اليدوي</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="612"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="534"/>
         <source>Field of view</source>
         <translation>مجال الرؤية</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="637"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="558"/>
         <source>Slice model mode</source>
         <translation>شريحة نموذج الوضع</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="657"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="578"/>
         <source>Manual FOV</source>
         <translation>دليل مجال الرؤية</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="682"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="601"/>
         <source>Manual Dimensions</source>
         <translation>الأبعاد اليدوية</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="707"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="624"/>
         <source>Manual Origin</source>
         <translation>الأصل اليدوي</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="739"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="654"/>
         <source>Segmentation</source>
         <translation>تجزئة:</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="748"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="663"/>
         <source>LabelMap</source>
         <translation>خريطة التسمية</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="757"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="672"/>
         <source>Advanced</source>
         <translation>متقدم</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="920"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="823"/>
         <source>Hide label volume outlines</source>
         <translation>يوضح حجم ملصق الإخفاء</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="920"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="823"/>
         <source>Show label volume outlines</source>
         <translation>أظهر حجم الملصق الخطوط العريضة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="925"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="827"/>
         <source>Hide reformat widget</source>
         <translation>إخفاء أداة إعادة التنسيق</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="925"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="827"/>
         <source>Show reformat widget</source>
         <translation>إظهار أداة إعادة التنسيق</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1557"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1418"/>
         <source>Orientation marker</source>
         <translation>علامة التوجيه</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1593"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1454"/>
         <source>Ruler</source>
         <translation>مسطرة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1605"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1466"/>
         <source>Thick slab reconstruction</source>
         <translation>إعادة بناء الألواح السميكة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1615"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1476"/>
         <source>Slab thickness</source>
         <translation>سمك الألواح</translation>
     </message>
@@ -17151,82 +17160,82 @@ Do you wish to proceed with changing source representation?</source>
 <context>
     <name>qMRMLSubjectHierarchyModel</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="71"/>
         <source>None</source>
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="127"/>
         <source>Node</source>
         <translation>عقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="129"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
         <source>Description</source>
         <translation>وصف</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
         <source>IDs</source>
         <translation>هويات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
         <source>Node name and type</source>
         <translation>اسم العقدة ونوعها</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node description</source>
         <translation>وصف العقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
         <source>Show/hide branch or node</source>
         <translation>إظهار/إخفاء الفرع أو العقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="138"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
         <source>Node color</source>
         <translation>لون العقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="139"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="138"/>
         <source>Applied transform</source>
         <translation>التحويل التطبيقي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="140"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="139"/>
         <source>Node ID</source>
         <translation>هوية العقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1065"/>
         <source>No subject hierarchy role assigned! Please report error</source>
         <translation>لم يتم تعيين دور التسلسل الهرمي للموضوع! الرجاء الإبلاغ عن الخطأ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1158"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1230"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1168"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1240"/>
         <source>Apply transform to children</source>
         <translation>تطبيق التحويل على الأطفال</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1172"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1244"/>
         <source>This node is not transformable</source>
         <translation>هذه العقدة غير قابلة للتحويل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1371"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1443"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>بعض العقد في الفرع تحولت بالفعل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1372"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1444"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
@@ -17238,62 +17247,62 @@ Do you wish to proceed with changing source representation?</source>
 <context>
     <name>qMRMLSubjectHierarchyTreeView</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="222"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="220"/>
         <source>Rename</source>
         <translation>إعادة تسمية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="227"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="224"/>
         <source>Delete</source>
         <translation>حذف</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="232"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="228"/>
         <source>Edit properties...</source>
         <translation>تحرير الخصائص...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="237"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="232"/>
         <source>Hide</source>
         <translation>إخفاء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="240"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="235"/>
         <source>Show</source>
         <translation>عرض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="243"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="238"/>
         <source>Toggle visibility</source>
         <translation>تبديل الرؤية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="350"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="345"/>
         <source>Create new %1</source>
         <translation type="unfinished">أنشئ جديد %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2567"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2533"/>
         <source>node</source>
         <translation type="unfinished">عقدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="68"/>
         <source>Expand tree to level...</source>
         <translation>وسع الشجرة إلى المستوى...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="399"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="394"/>
         <source>Select plugin</source>
         <translation>انتقِ ملحق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1865"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1843"/>
         <source>Delete subject hierarchy branch?</source>
         <translation>حذف فرع التدرج الهرمي للموضوع؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1866"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1844"/>
         <source>The deleted subject hierarchy item has children. Do you want to remove those too?
 
 If you choose yes, the whole branch will be deleted, including all children.
@@ -17307,12 +17316,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
 <context>
     <name>qMRMLTableModel</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="138"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="140"/>
         <source>Unit: %1</source>
         <translation>الوحدة:%1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="171"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="173"/>
         <source>Properties:</source>
         <translation>خصائص:</translation>
     </message>
@@ -17320,34 +17329,34 @@ If you choose Yes to All, this question never appears again, and all subject hie
 <context>
     <name>qMRMLTableView</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="481"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="476"/>
         <source>Column %1 is invalid. Failed to generate a plot</source>
         <translation>العمود%1 غير صالح. فشل في توليد مؤامرة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="483"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="493"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="509"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="478"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="489"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="505"/>
         <source>Failed to create Plot</source>
         <translation>فشل في إنشاء مخطط</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="489"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="484"/>
         <source>Type of column %1 is &apos;bit&apos;. Plotting of these types are currently not supported. Please convert the data type of this column to numeric using Table module&apos;s Column properties section, or select different columns for plotting.</source>
         <translation>نوع العمود%1 هو «بت». لا يتم دعم التخطيط لهذه الأنواع حاليًا. يرجى تحويل نوع البيانات لهذا العمود إلى رقم باستخدام قسم خصائص عمود الجدول، أو اختيار أعمدة مختلفة للتخطيط.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="505"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="501"/>
         <source>Multiple &apos;string&apos; type of columns are selected for plotting (%1, %2) but only one is allowed. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
         <translation>يتم اختيار نوع «سلسلة» متعددة من الأعمدة للتخطيط (%1،%2) ولكن يسمح بواحد فقط. يرجى تغيير اختيار أو تحويل نوع البيانات لهذا العمود إلى رقم باستخدام قسم «خصائص العمود» في الجدول.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="521"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="517"/>
         <source>A single &apos;string&apos; type column is selected. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
         <translation>يتم اختيار عمود واحد من نوع «سلسلة». يرجى تغيير اختيار أو تحويل نوع البيانات لهذا العمود إلى رقم باستخدام قسم «خصائص العمود» في الجدول.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="520"/>
         <source>Failed to plot data</source>
         <translation>فشل في رسم البيانات</translation>
     </message>
@@ -17366,7 +17375,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="84"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="83"/>
         <source>Copy</source>
         <translation>نسخ</translation>
     </message>
@@ -17384,13 +17393,13 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="91"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="90"/>
         <source>Paste</source>
         <translation>لصق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="98"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="97"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation>قم بإنشاء مخطط تفاعلي بناءً على اختيار المستخدم لأعمدة الجدول.</translation>
     </message>
@@ -17425,12 +17434,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>قفل الصف الأول</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="369"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation>انقر لإلغاء تأمين هذا الجدول بحيث يمكن تعديل القيم</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="381"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="374"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
         <translation>انقر لتأمين هذا الجدول لمنع تعديل القيم في واجهة المستخدم</translation>
     </message>
@@ -17487,7 +17496,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="150"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="140"/>
         <source>Orientation marker</source>
         <translation>علامة الاتجاه</translation>
     </message>
@@ -17783,77 +17792,77 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>اجعل الأشياء تلقي بظلالها لتحسين إدراك العمق</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="230"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="211"/>
         <source>Stereo Modes</source>
         <translation>أوضاع Stereo</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="108"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="100"/>
         <source>Visibility</source>
         <translation>رؤية</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="184"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="174"/>
         <source>Ruler</source>
         <translation>مسطرة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="192"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="182"/>
         <source>More</source>
         <translation>أكثر</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="275"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="248"/>
         <source>Shadows</source>
         <translation>ظلال</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="284"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="256"/>
         <source>Size scale</source>
         <translation>مقياس النطاق</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="287"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="259"/>
         <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
         <translation>حجم الميزات التي يجب التأكيد عليها من خلال الظلال. المقياس لوغاريتمي، الافتراضي (0.0) يتوافق مع حجم الجسم حوالي 100 مم.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="304"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="274"/>
         <source>Volume opacity threshold</source>
         <translation>عتبة عتامة الحجم</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="308"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="277"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
         <translation>الحجم الذي يجعل التعتيم فوق هذا سيلقي بظلاله.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="324"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="291"/>
         <source>Intensity scale</source>
         <translation>مقياس شدة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="327"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="294"/>
         <source>Intensity of darkening by shadows. Larger value means more darkening. Default is 1.</source>
         <translation>شدة الظلام بالظلال. القيمة الأكبر تعني المزيد من الظلام. الافتراضي هو 1.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="344"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="309"/>
         <source>Intensity shift</source>
         <translation>تحول الكثافة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="347"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="312"/>
         <source>Minimum amount of occlusion required for visible darkening by shadows. Larger value means more occlusion is needed to darkening. Default is 0.</source>
         <translation>الحد الأدنى من الانسداد المطلوب للظلام المرئي بواسطة الظلال. تعني القيمة الأكبر أن هناك حاجة إلى مزيد من الانسداد للتعتيم. الافتراضي هو 0.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="366"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="328"/>
         <source>Reset settings to default</source>
         <translation>إعادة تعيين الإعدادات إلى الوضع الافتراضي</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="385"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="346"/>
         <source>1</source>
         <translation>1</translation>
     </message>
@@ -18407,17 +18416,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
 <context>
     <name>qMRMLTreeView</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="110"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="107"/>
         <source>Rename</source>
         <translation>إعادة تسمية</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="117"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="112"/>
         <source>Delete</source>
         <translation>حذف</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="123"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="116"/>
         <source>Edit properties...</source>
         <translation>تحرير الخصائص...</translation>
     </message>
@@ -18561,12 +18570,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qMRMLViewControllerBar</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="358"/>
+        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="355"/>
         <source>Restore view layout</source>
         <translation>استعادة تخطيط العرض</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="363"/>
+        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="360"/>
         <source>Maximize view</source>
         <translation>تكبير العرض</translation>
     </message>
@@ -18574,7 +18583,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qMRMLViewControllerBarPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="132"/>
+        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="130"/>
         <source>Maximize/restore view</source>
         <translation>تكبير/استعادة العرض</translation>
     </message>
@@ -18669,6 +18678,26 @@ p, li { white-space: pre-wrap; }
         <source>Volume Property Node</source>
         <translation>حجم خاصية العقدة</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="38"/>
+        <source>Components:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="45"/>
+        <source>RGBA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="55"/>
+        <source>Independent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="75"/>
+        <source>Component Index:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
@@ -18706,8 +18735,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qMRMLVolumeWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="83"/>
-        <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="93"/>
+        <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="81"/>
+        <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="89"/>
         <source>Set the range boundaries to control large numbers or allow fine tuning</source>
         <translation>اضبط حدود النطاق للتحكم في الأعداد الكبيرة أو السماح بضبط دقيق</translation>
     </message>
@@ -18763,17 +18792,17 @@ p, li { white-space: pre-wrap; }
         <translation>حول Slicer ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="67"/>
+        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="65"/>
         <source>New application version is available: %1</source>
         <translation>يتوفر إصدار جديد من التطبيق: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="75"/>
+        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="72"/>
         <source>download site</source>
         <translation>موقع تنزيل</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="76"/>
+        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="73"/>
         <source>Visit the %1 to check if a new version is available.</source>
         <translation>قم بزيارة%1 للتحقق مما إذا كان الإصدار الجديد متاحًا.</translation>
     </message>
@@ -18782,7 +18811,7 @@ p, li { white-space: pre-wrap; }
     <name>qSlicerAbstractCoreModule</name>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="50"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="85"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="89"/>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="56"/>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="45"/>
         <source>Developer Tools</source>
@@ -18792,39 +18821,39 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="33"/>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="19"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="78"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="74"/>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="82"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="74"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="193"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="195"/>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="94"/>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.cxx" line="102"/>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="100"/>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="91"/>
-        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="65"/>
-        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="99"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="99"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="90"/>
+        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="64"/>
+        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="94"/>
         <source>Informatics</source>
         <translation>المعلوماتية</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="73"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
         <source>Wizards</source>
         <translation>المعالجات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
         <source>IGT</source>
         <translation>IGT</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="34"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
         <source>Endoscopy</source>
         <translation>التنظير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="27"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="28"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="84"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="88"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="4"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="3"/>
@@ -18840,7 +18869,7 @@ p, li { white-space: pre-wrap; }
         <translation>العقول</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="82"/>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="3"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="3"/>
@@ -18848,19 +18877,19 @@ p, li { white-space: pre-wrap; }
         <translation>انتشار</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="75"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="3"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="3"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="72"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="71"/>
         <source>Registration</source>
         <translation>تسجيل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="16"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="76"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="80"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="3"/>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
@@ -18879,7 +18908,7 @@ p, li { white-space: pre-wrap; }
         <translation>الاستيراد والتصدير</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="80"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="84"/>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="3"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="3"/>
@@ -18913,11 +18942,11 @@ p, li { white-space: pre-wrap; }
         <translation>حساب</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="60"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="82"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="59"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="86"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="3"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="3"/>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.cxx" line="77"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.cxx" line="75"/>
         <source>Converters</source>
         <translation>محولات</translation>
     </message>
@@ -18931,7 +18960,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="32"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="91"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="3"/>
         <source>Testing</source>
         <translation>اختبار</translation>
@@ -18943,7 +18972,7 @@ p, li { white-space: pre-wrap; }
         <translation>مورفولوجيا</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="81"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="85"/>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="3"/>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="3"/>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="3"/>
@@ -18956,13 +18985,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="26"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="24"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="81"/>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="3"/>
         <source>Quantification</source>
         <translation>التحديد الكمي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="86"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="90"/>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="3"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="3"/>
@@ -18970,28 +18999,28 @@ p, li { white-space: pre-wrap; }
         <translation>إرث</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="81"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="82"/>
         <source>Registration.Specialized</source>
         <translation>مسجل.متخصص</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="27"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="193"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="188"/>
         <source>Sequences</source>
         <translation>تسلسل</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
+        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="344"/>
         <source>For more information see the %1.</source>
         <translation>لمزيد من المعلومات، انظر %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="347"/>
+        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="344"/>
         <source>online documentation</source>
         <translation>الوثائق عبر الإنترنت</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="33"/>
         <source>Servers</source>
         <translation>خوادم</translation>
     </message>
@@ -19045,7 +19074,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerAnnotationsModule</name>
     <message>
-        <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="41"/>
+        <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="40"/>
         <source>Annotations</source>
         <translation>شروح</translation>
     </message>
@@ -19053,12 +19082,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerAnnotationsReader</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="84"/>
+        <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="83"/>
         <source>Annotation</source>
         <translation>تعليق توضيحي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="97"/>
+        <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="96"/>
         <source>Annotations</source>
         <translation>التعليقات التوضيحية</translation>
     </message>
@@ -19173,66 +19202,66 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerApplication</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="424"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="417"/>
         <source>General</source>
         <translation>عام</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="931"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="427"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="917"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="885"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="420"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="894"/>
         <source>Modules</source>
         <translation>وحدات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="431"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="423"/>
         <source>Appearance</source>
         <translation>مظهر</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="435"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="426"/>
         <source>Views</source>
         <translation>المشاهدات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="439"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="430"/>
         <source>User</source>
         <translation>مستخدم</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="443"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="434"/>
         <source>Extensions</source>
         <translation>ملحقات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="447"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="438"/>
         <source>Cache</source>
         <translation>تخزين مؤقت</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="452"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="442"/>
         <source>Internationalization</source>
         <translation>تدويل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="458"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="448"/>
         <source>Python</source>
         <translation>بايثون</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="463"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="453"/>
         <source>Developer</source>
         <translation>المطور</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="581"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="617"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="563"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="599"/>
         <source>%1 has caught an application error, </source>
         <translation>%1 اشتعلت خطأ في التطبيق ، </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="582"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="618"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="564"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="600"/>
         <source>please save your work and restart.
 
 </source>
@@ -19241,12 +19270,12 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="583"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="565"/>
         <source>The application has run out of memory. </source>
         <translation>نفدت ذاكرة التطبيق. </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="586"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="568"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -19255,7 +19284,7 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="590"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="572"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -19264,7 +19293,7 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="576"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
@@ -19273,7 +19302,7 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="598"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="580"/>
         <source>Adding more RAM may fix this issue.
 
 </source>
@@ -19282,14 +19311,14 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="600"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="619"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="582"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="601"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
         <translation>إذا كان لديك تسلسل قابل للتكرار من الخطوات التي تسبب هذه الرسالة، </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="601"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="620"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="583"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="602"/>
         <source>please report the issue following instructions available at https://slicer.org
 
 
@@ -19300,8 +19329,8 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="602"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="621"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="584"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="603"/>
         <source>The message detail is:
 
 </source>
@@ -19310,49 +19339,49 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="603"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="622"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="585"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="604"/>
         <source>Exception thrown in event: </source>
         <translation>تم طرح الاستثناء في الحدث: </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="611"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="630"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="593"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="612"/>
         <source>Application Error</source>
         <translation>خطأ في التطبيق</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="795"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="772"/>
         <source>Are you sure you want to restart?</source>
         <translation>هل أنت متأكد من أنك تريد إعادة التشغيل؟</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="197"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="191"/>
         <source>Initializing...</source>
         <translation>استهلال...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="233"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="227"/>
         <source>Registering modules...</source>
         <translation>تسجيل الوحدات...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="241"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="234"/>
         <source>Instantiating modules...</source>
         <translation>وحدات إثبات...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="246"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="240"/>
         <source>Instantiating module &quot;%1&quot;...</source>
         <translation>وحدة إثبات &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="279"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="272"/>
         <source>Initializing user interface...</source>
         <translation>تهيئة واجهة المستخدم...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="302"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="295"/>
         <source>Loading module &quot;%1&quot;...</source>
         <translation>وحدة التحميل «%1»...</translation>
     </message>
@@ -19360,12 +19389,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerApplicationHelper</name>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="259"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="252"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
         <translation>قدرة الرسومات لهذا الكمبيوتر غير كافية لتشغيل هذا التطبيق. التطبيق على الأرجح لن يعمل بشكل صحيح.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="262"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="255"/>
         <source>See more information and help at:
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
@@ -19380,7 +19409,7 @@ Graphics capabilities of this computer:
 </translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="271"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="263"/>
         <source>Insufficient graphics capability</source>
         <translation>قدرة رسومات غير كافية</translation>
     </message>
@@ -19388,95 +19417,95 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCLIModule</name>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
+        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="186"/>
         <source>online documentation</source>
         <translation>الوثائق عبر الإنترنت</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
+        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
         <source>For more information see the %1.</source>
         <translation>لمزيد من المعلومات، انظر %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="88"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="85"/>
         <source>Failed to find python interpreter for CLI: %1</source>
         <translation>فشل في العثور على مترجم python ل CLI: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="113"/>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="111"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="110"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="108"/>
         <source>CLI description: %1</source>
         <translation>وصف CLI: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="114"/>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="112"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="111"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="109"/>
         <source>Failed to read XML Description</source>
         <translation>فشلت قراءة وصف XML</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="151"/>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="189"/>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="201"/>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="207"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="148"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="186"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="192"/>
         <source>CLI executable: %1</source>
         <translation>CLI قابل للتنفيذ: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="153"/>
         <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
         <translation>فشلت العملية في البدء. إما أن البرنامج الذي تم استدعاؤه مفقود أو قد يكون لديك أذونات غير كافية لاستدعاء البرنامج.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="161"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
         <source>The process crashed some time after starting successfully.</source>
         <translation>تعطلت العملية بعض الوقت بعد البدء بنجاح.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="165"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="157"/>
         <source>The process timed out after %1 msecs.</source>
         <translation>انتهت مهلة العملية بعد %1 مللي ثانية.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="169"/>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="159"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="163"/>
         <source>An error occurred when attempting to read from the process. For example, the process may not be running.</source>
         <translation>حدث خطأ عند محاولة القراءة من العملية. على سبيل المثال، قد لا تكون العملية قيد التشغيل.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="179"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="166"/>
         <source>Failed to execute process. An unknown error occurred.</source>
         <translation>فشل تنفيذ العملية. حدث خطأ غير معروف.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="202"/>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="158"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="187"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="153"/>
         <source>Failed to retrieve XML Description</source>
         <translation>فشل استرداد وصف XML</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="208"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="193"/>
         <source>XML description doesn&apos;t start right away.</source>
         <translation>لا يبدأ وصف XML على الفور.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="194"/>
         <source>Output before &apos;&lt;?xml&apos; is [%1]</source>
         <translation>الإخراج قبل &quot;&lt;?xml&quot; هو [%1]</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="175"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="152"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="168"/>
         <source>CLI loadable: %1</source>
         <translation>واجهة سطر الأوامر (CLI) قابلة للتحميل: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="176"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="169"/>
         <source>Failed to retrieve Module Entry Point</source>
         <translation>فشل استرداد نقطة إدخال الوحدة النمطية</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="236"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="226"/>
         <source>Failed to resolve expected symbol &apos;%1&apos;</source>
         <translation>فشل في حل الرمز المتوقع &apos;%1&apos;</translation>
     </message>
@@ -19484,12 +19513,12 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCLIModuleUIHelper</name>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="932"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="919"/>
         <source>Compatible Files</source>
         <translation>الملفات المتوافقة</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="931"/>
         <source>All Files</source>
         <translation>جميع الملفات</translation>
     </message>
@@ -19523,7 +19552,7 @@ Graphics capabilities of this computer:
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="94"/>
         <source>AutoRun</source>
         <translation>التشغيل التلقائي</translation>
     </message>
@@ -19548,65 +19577,73 @@ Graphics capabilities of this computer:
         <translation>طبق</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="101"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="96"/>
         <source>AutoRun on changed parameter</source>
         <translation>التشغيل التلقائي على المعلمة التي تم تغييرها</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="97"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
         <translation>طالما أن زر التشغيل التلقائي معطل، يتم تشغيل الوحدة في أي وقت يتم فيه تغيير قيمة المعلمة.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="110"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="102"/>
         <source>AutoRun on modified input</source>
         <translation>التشغيل التلقائي على الإدخال المعدل</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="112"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
         <translation>طالما أن زر التشغيل التلقائي معطل ، يتم تشغيل الوحدة في أي وقت يتم فيه تعديل عقدة الإدخال.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="119"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="108"/>
         <source>AutoRun on other input events</source>
         <translation>التشغيل التلقائي على أحداث الإدخال الأخرى</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="121"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="109"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
         <translation>طالما أن زر التشغيل التلقائي معطل، يتم تشغيل الوحدة النمطية في أي وقت تقوم فيه عقدة الإدخال بتشغيل حدث آخر غير حدث معدل.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="128"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="114"/>
         <source>AutoRun cancels running process</source>
         <translation>التشغيل التلقائي يلغي عملية التشغيل</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="130"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="115"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
         <translation>عند تحديده ، عند التطبيق ، تقوم الوحدة بإلغاء / إيقاف مثيل التشغيل الحالي إن وجد ، وإلا فإنها تنتظر الانتهاء لبدء تشغيل جديد.</translation>
     </message>
 </context>
 <context>
+    <name>qSlicerCLIModuleWidgetPrivate</name>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="89"/>
+        <source>Parameter set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerCLIProgressBar</name>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="129"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="130"/>
         <source>Show details</source>
         <translation>اظهر التفاصيل</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Status:</source>
         <translation>حالة:</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="156"/>
         <source>Idle</source>
         <translation>معطل</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="372"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="367"/>
         <source>%1 (%2s)</source>
         <translation>%1 (%2s)</translation>
     </message>
@@ -19629,17 +19666,17 @@ Graphics capabilities of this computer:
         <translation>حدد تقنية صب الشعاع للمشاهد حيث يكون الحجم الحالي مرئيًا</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="75"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="67"/>
         <source>Composite With Shading</source>
         <translation>مركب مع التظليل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="77"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"/>
         <source>Maximum Intensity Projection</source>
         <translation>أقصى كثافة الإسقاط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="79"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Minimum Intensity Projection</source>
         <translation>الحد الأدنى من كثافة الإسقاط</translation>
     </message>
@@ -19652,7 +19689,7 @@ Graphics capabilities of this computer:
         <translation>إدارة المشاهدات والكاميرات ثلاثية الأبعاد. &lt; br &gt; يمكن استخدام قائمة العرض المسحوبة أدناه لإنشاء مناظر جديدة وتحديد العرض النشط. قم بتبديل التصميم إلى «تخطيط Tabbed 3D» من أيقونة التخطيط في شريط الأدوات للوصول إلى مناظر متعددة. يصبح العرض المختار في «تخطيط Tabbed 3D» هو العرض النشط ويحل محل العرض ثلاثي الأبعاد في جميع التخطيطات الأخرى. يمكن استخدام قائمة سحب الكاميرا أدناه لضبط الكاميرا النشطة للعرض المحدد. &lt; br &gt; تحذير: هذا تجريبي إلى حد ما في الوقت الحالي (الإئتمانات، الإدخال/ الإخراج/البيانات، إغلاق المشهد ربما يكون مكسورًا لمناظر جديدة). &lt; br &gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
+        <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="85"/>
         <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;هذا العمل مدعوم من NA-MIC و NAC و BIRN و NCIGT و مجتمع Slicer.</translation>
     </message>
@@ -19688,17 +19725,17 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerColorsModule</name>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="48"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="47"/>
         <source>Colors</source>
         <translation>الألوان</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="166"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="158"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
         <translation>&lt;b&gt;وحدة الألوان (Colors Module)&lt;/b&gt; تدير جداول البحث اللوني، والتي تُخزَّن في عقد الألوان.&lt;br&gt;تُستخدم هذه الجداول لترجمة القيم الرقمية إلى ألوان لعرض أنواع مختلفة من البيانات، مثل الأحجام والنماذج.&lt;br&gt;تتوفر نوعان من جداول البحث اللوني:&lt;br&gt;&lt;ul&gt;&lt;li&gt;جدول منفصل: يتم تحديد قائمة من الألوان المسماة (مثال: GenericAnatomyColors). يمكن استخدام الجداول المنفصلة أيضًا لرسم خرائط مستمرة، وفي هذه الحالة تُستخدم الألوان كنقاط عينة على مسافات متساوية ضمن النطاق المحدد، ويتم التدرج بينها بسلاسة (مثال: Grey).&lt;/li&gt;&lt;li&gt;مقياس مستمر: يتم تحديد اللون لقيم رقمية مختارة بشكل عشوائي، ويمكن حساب اللون من خلال التدرج السلس بين هذه القيم (مثال: PET-DICOM). لا يتم تحديد أسماء للألوان.&lt;/li&gt;جميع جداول الألوان المدمجة هي للقراءة فقط. لتحرير الألوان، أنشئ نسخة من جدول الألوان بالنقر على أيقونة المجلد مع رمز النسخ.&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="179"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT والمجتمع Slicer.</translation>
     </message>
@@ -19788,12 +19825,12 @@ Graphics capabilities of this computer:
         <translation>إخفاء الألوان الفارغة: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="317"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="323"/>
         <source>Add new color to color table</source>
         <translation>إضافة لون جديد إلى جدول الألوان</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="333"/>
         <source>Delete currently selected color</source>
         <translation>حذف اللون المحدد حاليا</translation>
     </message>
@@ -19803,27 +19840,27 @@ Graphics capabilities of this computer:
         <translation>إظهار/إخفاء إدخالات الألوان غير المسماة في القائمة أدناه.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="263"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="266"/>
         <source>Scalar Range:</source>
         <translation>النطاق العددي:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="276"/>
         <source>The range of scalars that are mapped to the full range of colors.</source>
         <translation>نطاق الأعداد القياسية التي يتم تعيينها إلى النطاق الكامل للألوان.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="223"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="214"/>
         <source>Discrete table</source>
         <translation>جدول منفصل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="285"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="274"/>
         <source>Continuous scale</source>
         <translation>مقياس مستمر</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="439"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="424"/>
         <source>Unnamed</source>
         <extracomment>This is the default name for a new color in a color table</extracomment>
         <translation type="unfinished">غير مسمى</translation>
@@ -19832,32 +19869,32 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCoreApplication</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="887"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="870"/>
         <source>Failed to create %1 directory</source>
         <translation>فشل في إنشاء مجلد %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1828"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1814"/>
         <source>Built on top of:</source>
         <translation>تم بناؤه فوق:</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1848"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1833"/>
         <source>Licensing Information</source>
         <translation>معلومات الترخيص</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1849"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1834"/>
         <source>Website</source>
         <translation>الموقع الإلكتروني</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1850"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1835"/>
         <source>Acknowledgments</source>
         <translation>الاعترافات</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1857"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1841"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
         <translation>Slicer ليس جهازًا طبيًا معتمدًا من إدارة الغذاء والدواء. &lt; br &gt; &lt; br &gt; مدعوم من: NA-MIC و NAC و BIRN و NCIGT و مجتمع Slicer. &lt; br &lt; هذا الجزء الطبي &lt; br &gt; خاص بفضل الحوسبة (NA-MIC)، بتمويل من المعاهد الوطنية للصحة من خلال خريطة طريق المعاهد الوطنية للصحة للبحوث الطبية، Grant U54 EB005149. يمكن الحصول على معلومات عن المراكز الوطنية للحوسبة الطبية الحيوية من &lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
     </message>
@@ -19865,55 +19902,55 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCoreIOManager</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="646"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="631"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
         <translation>تحميل %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="682"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="665"/>
         <source>%1 load failed.</source>
         <translation>فشل تحميل %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="852"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="835"/>
         <source>No writer found to write file %1 of type %2.</source>
         <translation>لم يتم العثور على كاتب لكتابة ملف %1 من النوع %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="867"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="849"/>
         <source>Unable to create directory &apos;%1&apos;</source>
         <translation>غير قادر على إنشاء دليل &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="900"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="881"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
         <translation>فشل الحفظ مع العثور على جميع الكتاب للملف &quot;%1&quot; من النوع &quot;%2&quot;.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="913"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="894"/>
         <source>No nodes were saved in the scene</source>
         <translation>لم يتم حفظ أي عقد في المشهد</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="984"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="960"/>
         <source>Unable to find a storable node with ID %1</source>
         <translation>تعذر العثور على عقدة قابلة للتخزين بمعرف %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="997"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1033"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1091"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="971"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1004"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1056"/>
         <source>Error encountered while exporting %1.</source>
         <translation>حدث خطأ أثناء تصدير %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1059"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1028"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
         <translation>تعذر إنشاء عقدة تخزين افتراضية ل %1 في مشهد مؤقت.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1081"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1047"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
         <translation>غير قادر على حفظ خصائص العرض ل %1 في مشهد مؤقت.</translation>
     </message>
@@ -19921,7 +19958,7 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCropVolumeModule</name>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="24"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="22"/>
         <source>Crop Volume</source>
         <translation>حجم المحاصيل</translation>
     </message>
@@ -20130,42 +20167,42 @@ Graphics capabilities of this computer:
         <translation>تطبيق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="83"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="85"/>
         <source>Select or create a new parameter node.</source>
         <translation>حدد أو أنشئ عقدة معلمة جديدة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="94"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="96"/>
         <source>Select an input volume.</source>
         <translation>حدد حجم الإدخال.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="101"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="103"/>
         <source>Output volume type does not match input volume type.</source>
         <translation>نوع حجم الإخراج لا يتطابق مع نوع حجم الإدخال.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="124"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="126"/>
         <source>Input ROI is under a non-linear transform.</source>
         <translation>منطقة المدخلات ذات الاهتمام تخضع لتحول غير خطي.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="137"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="139"/>
         <source>Output volume is under a non-linear transform.</source>
         <translation>حجم الخرج تحت تحويل غير خطي.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="148"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="150"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
         <translation>يتم تعطيل الاستيفاء وحجم المدخلات تحت تحويل غير خطي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="130"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="132"/>
         <source>Select or create a new input ROI.</source>
         <translation>حدد أو أنشئ عائد استثمار إدخال جديد.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="154"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="156"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
         <translation>يتم تعطيل الاستيفاء وعدم محاذاة منطقة الإدخال ذات الأهمية مع محاور حجم الإدخال.</translation>
     </message>
@@ -20375,7 +20412,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>إظهار الخيارات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="586"/>
+        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="561"/>
         <source>Any Data</source>
         <translation>أي بيانات</translation>
     </message>
@@ -20383,12 +20420,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
 <context>
     <name>qSlicerDataDialogPrivate</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="509"/>
+        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="485"/>
         <source>Open archive?</source>
         <translation>أرشيف مفتوح؟</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="510"/>
+        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="485"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
         <translation>الملف المحدد هو أرشيف .مضغوط ، افتحه وقم بتحميل المحتويات؟</translation>
     </message>
@@ -20396,13 +20433,13 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
 <context>
     <name>qSlicerDataModule</name>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="133"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
         <translation>وحدة البيانات هي النقطة المركزية لتنظيم البيانات حيث يتم تقديم جميع البيانات المحملة للوصول إليها ومعالجتها. يسمح بتنظيم البيانات في المجلدات أو أشجار المريض/الدراسة (يتم إجراؤها تلقائيًا لـ DICOM)، وتصور أي بيانات قابلة للعرض، وتحويل فروع كاملة، والعديد من ميزات نوع البيانات المحددة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="152"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
         <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT و CTSC ومجتمع Slicer.</translation>
     </message>
@@ -20453,7 +20490,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="462"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="438"/>
         <source>No item selected</source>
         <translation>لم يتم تحديد أي عنصر</translation>
     </message>
@@ -20479,24 +20516,24 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>معلومات عقدة MRML</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="194"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="225"/>
         <source>Nodes</source>
         <translation>العقد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="194"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="225"/>
         <source>IDs</source>
         <translation>معرفات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="204"/>
         <source>Insert transform</source>
         <translation>إدراج تحويل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="209"/>
         <source>Harden transform</source>
         <translation>تحويل هاردن</translation>
     </message>
@@ -20620,7 +20657,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>تم تطوير هذه الوحدة بواسطة Julien Finet، Kitware Inc. تم دعم هذا العمل من قبل 3P41RR013218-12S1 منح المعاهد الوطنية للصحة ومجتمع NA-MIC و NAC و Slicer.</translation>
     </message>
     <message>
-        <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="47"/>
+        <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="45"/>
         <source>Event Broker</source>
         <translation>وسيط الحدث</translation>
     </message>
@@ -20721,27 +20758,27 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>تطبيق التحويلات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="134"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="130"/>
         <source>Select a format</source>
         <translation>حدد تنسيقا</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="169"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="164"/>
         <source>Export format:</source>
         <translation>تنسيق التصدير:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="409"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="403"/>
         <source>Output folder:</source>
         <translation>مجلد الإخراج:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="426"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="420"/>
         <source>&amp;Export</source>
         <translation>التصدير</translation>
     </message>
     <message numerus="yes">
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="727"/>
         <source>Export %n node(s)</source>
         <translation>
             <numerusform>Export %n node</numerusform>
@@ -20753,95 +20790,95 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="741"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="731"/>
         <source>When exporting multiple nodes, filenames are automatically set</source>
         <translation>عند تصدير عقد متعددة ، يتم تعيين أسماء الملفات تلقائيا</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="733"/>
         <source>&lt;automatic&gt;</source>
         <translation>&lt;تلقائي&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="747"/>
         <source>Export </source>
         <translation>تصدير </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="868"/>
         <source>Filename not standard</source>
         <translation>اسم الملف غير قياسي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="869"/>
         <source>The following filename is recommended:</source>
         <translation>يوصى باستخدام اسم الملف التالي:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="884"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="873"/>
         <source>Accept recommended</source>
         <translation>قبول الموصى بها</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="885"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="874"/>
         <source>Keep my filename</source>
         <translation>احتفظ باسم الملف الخاص بي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="948"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1050"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1058"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="936"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1037"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1045"/>
         <source>Export Error</source>
         <translation>خطأ في التصدير</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="936"/>
         <source>Failed to export node %1; filename is empty.</source>
         <translation>فشل تصدير العقدة %1 ؛ اسم الملف فارغ.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="956"/>
         <source>File Exists</source>
         <translation>الملف موجود</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="957"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
         <translation>الملف %1 موجود بالفعل. هل تريد استبداله؟</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1070"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1004"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1057"/>
         <source>Export Information</source>
         <translation>معلومات التصدير</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1004"/>
         <source>Nothing was exported.</source>
         <translation>لم يتم تصدير أي شيء.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1044"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1031"/>
         <source>Error encountered while exporting.</source>
         <translation>تمت مصادفة خطأ أثناء التصدير.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1065"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1052"/>
         <source>Export Warning</source>
         <translation>تحذير التصدير</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1232"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1217"/>
         <source>Export an individual node</source>
         <translation>تصدير عقدة فردية</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1254"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1239"/>
         <source>Export error</source>
         <translation>خطأ في التصدير</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1254"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1239"/>
         <source>There is nothing to export.</source>
         <translation>لا يوجد شيء للتصدير.</translation>
     </message>
@@ -20952,47 +20989,47 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>إلغاء التثبيت في انتظار إعادة التشغيل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="346"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="344"/>
         <source>More...</source>
         <translation>أكثر...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="388"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="380"/>
         <source>unknown</source>
         <translation>مجهول</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="425"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="417"/>
         <source>Not found for this version of the application (r%1)</source>
         <translation>لم يتم العثور على هذا الإصدار من التطبيق (r%1)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="432"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="424"/>
         <source>Incompatible with Slicer r%1 [built for r%2]</source>
         <translation>غير متوافق مع Slicer r%1 [بُني لـ r%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="448"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="438"/>
         <source>Change log...</source>
         <translation>تغيير السجل ...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="453"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="444"/>
         <source>An update is available. Installed: %1. Available: %2.</source>
         <translation>يتوفر تحديث. تثبيت: %1. متاح: %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="469"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="458"/>
         <source>Version: %1. Disabled.</source>
         <translation>الإصدار: %1. معطل.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="476"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="465"/>
         <source>Version: %1</source>
         <translation>الإصدار: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="484"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="473"/>
         <source>Not installed.</source>
         <translation>غير مثبت.</translation>
     </message>
@@ -21018,320 +21055,320 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
 <context>
     <name>qSlicerExtensionsManagerModel</name>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="459"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="453"/>
         <source>Failed to parse %1: error at %2: %3</source>
         <translation>فشل تحليل %1: خطأ في %2: %3</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="716"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="704"/>
         <source>Failed to open extensions settings file %1</source>
         <translation>فشل فتح ملف إعدادات الامتدادات %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="754"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="737"/>
         <source>Failed to open extensions settings file: %1</source>
         <translation>فشل فتح ملف إعدادات الامتدادات %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="792"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="769"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
         <translation>دليل تثبيت الملحقات غير موجود: &lt;strong&gt; %1 &lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="809"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="786"/>
         <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
         <translation>من المتوقع أن يكون دليل تثبيت الملحقات قابلا للقراءة / الكتابة / قابل للتنفيذ: &lt;strong&gt; %1 &lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="884"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="859"/>
         <source>Failed to extract %1 into %2</source>
         <translation>فشل استخراج %1 في %2</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="889"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="864"/>
         <source>Archive %1 doesn&apos;t contain any files</source>
         <translation>لا يحتوي الأرشيف %1 على أي ملفات</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1036"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1009"/>
         <source>&apos;slicerRevision&apos; parameter is not specified</source>
         <oldsource>slicerRevision is not specified</oldsource>
         <translation>لم يتم تحديد معلمة &apos;slicerRevision&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1040"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1013"/>
         <source>&apos;slicerOs&apos; parameter is not specified</source>
         <oldsource>slicerOs is not specified</oldsource>
         <translation>لم يتم تحديد معلمة &apos;slicerOs&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1044"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1017"/>
         <source>&apos;slicerArch&apos; parameter is not specified</source>
         <oldsource>slicerArch is not specified</oldsource>
         <translation>لم يتم تحديد معلمة &apos;slicerArch&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1050"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1023"/>
         <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
         <translation>extensionSlicerRevision [%1] يختلف عن slicerRevision [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1056"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1028"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
         <translation>extensionArch [%1] يختلف عن slicerArch [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1061"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1033"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
         <translation>extensionOs [%1] يختلف عن slicerOs [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1410"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1379"/>
         <source>Failed to add bookmark extension: %1</source>
         <translation>فشل إضافة ملحق إشارة مرجعية: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1577"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1542"/>
         <source>Retrieving extension metadata for %1 extension</source>
         <translation>استرداد البيانات الوصفية للامتداد للملحق %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1589"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1554"/>
         <source>Failed to get metadata from server for extension: %1</source>
         <translation>فشل الحصول على البيانات الوصفية من الخادم للامتداد: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1606"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1571"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
         <translation>استرداد ملفات الملحق %1 (معرف الملحق: %2)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1637"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1602"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
         <translation>تنزيل ملحق %1 (item_id: %2، file_id: %3)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1670"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1633"/>
         <source>Download of extension failed, id is invalid.</source>
         <translation>فشل تنزيل الامتداد ، المعرف غير صالح.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1691"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1654"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
         <translation>فشل تنزيل الامتداد ، تعذر العثور على امتداد بمعرف = %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1708"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2488"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1671"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2412"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>فشل استرداد البيانات الوصفية لملحق %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1772"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1733"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
         <translation>هل تريد تثبيت &apos;%1&apos; الآن ؟</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1773"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1734"/>
         <source>Install extension ?</source>
         <translation>تثبيت التمديد ؟</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1790"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1751"/>
         <source>Failed to install %1 extension</source>
         <translation>فشل في تثبيت تمديد%1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1813"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1774"/>
         <source>Extension %1 has been installed from server.</source>
         <translation>تم تثبيت التمديد%1 من الخادم.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1815"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1776"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
         <translation>يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1816"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1777"/>
         <source>Restart slicer ?</source>
         <translation>إعادة تشغيل slicer ؟</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1853"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1812"/>
         <source>Failed downloading: %1</source>
         <translation>فشل التنزيل: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1864"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1823"/>
         <source>Could not create temporary file for writing: %1</source>
         <translation>لا يمكن إنشاء ملف مؤقت للكتابة: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1885"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1843"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
         <translation>فشل إدراج أرشيف الملحق &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1902"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1858"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
         <translation>لم يتم العثور على وصف ملحق في أرشيف &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1915"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1873"/>
         <source>InstallExtension failed: extensionName is not set</source>
         <translation>فشل تثبيت الملحق: لم يتم تعيين اسم التمديد</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1920"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1878"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
         <translation>تخطي تثبيت ملحق %1. تم تثبيته بالفعل.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1926"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1884"/>
         <source>Extensions/InstallPath setting is not set</source>
         <translation>لم يتم تعيين إعداد الملحقات/InstallPath</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1932"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1890"/>
         <source>Failed to create extension installation directory %1</source>
         <translation>فشل إنشاء دليل تثبيت الملحق %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2047"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1993"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
         <translation>خطأ أثناء تثبيت الملحقات التابعة: &lt;ul&gt;%1&lt;ul&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2070"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2012"/>
         <source>%1 depends on the following extensions, which could not be found:</source>
         <extracomment>%1 is the extension name</extracomment>
         <translation>%1 يعتمد على الامتدادات التالية ، والتي لا يمكن العثور عليها:</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2075"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2017"/>
         <source>The extension may not function properly.</source>
         <translation>قد لا يعمل الملحق بشكل صحيح.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2076"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2018"/>
         <source>Unresolved dependencies</source>
         <translation>التبعيات التي لم يتم حلها</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2995"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2908"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
         <translation>لم يتم تحديد معلمة &quot;اسم الامتداد&quot;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2100"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2040"/>
         <source>Installed extension %1</source>
         <translation>ملحق مثبت %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2182"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2118"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
         <translation>فشل تحديث معلومات الملحق من الخادم: انتهت المهلة أثناء انتظار استجابة الخادم من %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2237"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2171"/>
         <source>Failed to download extension metadata from server</source>
         <translation>فشل تنزيل البيانات الوصفية للملحق من الخادم</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2255"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2189"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
         <translation>غاب عن استجابة بيانات تعريف الامتداد حقل &quot;اسم الملحق&quot; المطلوب</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2287"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2221"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
         <translation>تحديث التحقق من الاستجابة للملحق %1 غاب عن حقل &quot;extension_id&quot; أو &quot;مراجعة&quot; المطلوب</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2298"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2232"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
         <translation>تم العثور على تحديث لملحق %1: &apos;%2&apos; مثبت ، &apos;%3&apos; متوفر ، </translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2373"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2303"/>
         <source>Failed downloading %1 extension from %2</source>
         <translation>فشل تنزيل ملحق %1 من %2</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2389"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2318"/>
         <source>Could not create .updates directory for update archive in %1</source>
         <translation>تعذر إنشاء دليل .updates لأرشيف التحديث في %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2410"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2336"/>
         <source>Could not write file: &apos;%1&apos; (%2)</source>
         <extracomment>%1 is the path name, %2 is the error message</extracomment>
         <translation>تعذر كتابة الملف: &quot;%1&quot; (%2)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2474"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2398"/>
         <source>Missing download information for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>معلومات التنزيل مفقودة لملحق %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2506"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2428"/>
         <source>%1 extension scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>%1 تمديد مجدول للتحديث</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2552"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2472"/>
         <source>Failed to update %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>فشل تحديث ملحق %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2559"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2479"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>فشل تحديث ملحق %1: لم تتم جدولته للتحديث</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2683"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2599"/>
         <source>Failed to uninstall %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>فشل إلغاء تثبيت ملحق %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2690"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2606"/>
         <source>Failed to uninstall %1 extension: extension is already loaded</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>فشل إلغاء تثبيت ملحق %1: الملحق محمل بالفعل</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2965"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2877"/>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>الملحق %1 غير متوافق</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3094"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>حزمة ملحق %1 تالفة</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3197"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3102"/>
         <source>Failed to extract %1 extension archive %2 into directory %3</source>
         <extracomment>%1 is extension name, %2 is extension package file path, %3 is destination path</extracomment>
         <translation>فشل استخراج أرشيف ملحق %1 %2 إلى الدليل %3</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3242"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3249"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3144"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3151"/>
         <source>Failed to copy directory %1 into directory %2</source>
         <translation>فشل نسخ الدليل %1 إلى الدليل %2</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3256"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3263"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3158"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3165"/>
         <source>Failed to remove directory %1</source>
         <translation>فشل إزالة الدليل %1</translation>
     </message>
@@ -21349,65 +21386,65 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>تثبيت الملحقات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="260"/>
         <source>Extensions Manager</source>
         <translation>مدير الملحقات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="415"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="401"/>
         <source>Update all (%1)</source>
         <translation>تحديث الكل (%1)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="446"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="432"/>
         <source>Install bookmarked (%1)</source>
         <translation>تثبيت إشارة مرجعية (%1)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="451"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="437"/>
         <source>Install bookmarked</source>
         <translation>تثبيت إشارة مرجعية</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="457"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="443"/>
         <source>Manage Extensions (%1)</source>
         <extracomment>%1 represents the number of managed extensions</extracomment>
         <translation>إدارة الملحقات (%1)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="487"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="472"/>
         <source>Bookmarked extensions</source>
         <translation>ملحقات مرجعية</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="488"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="472"/>
         <source>List of bookmarked extensions:</source>
         <translation>قائمة ملحقات الإشارات المرجعية:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="718"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="698"/>
         <source>Select extension archive file(s)...</source>
         <translation>حدد ملف (ملفات) أرشيف الامتداد ...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="719"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="698"/>
         <source>Archives</source>
         <translation>أرشيف</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="720"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="698"/>
         <source>All files</source>
         <translation>جميع الملفات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="728"/>
         <source>Install/uninstall/update operations are still in progress:</source>
         <oldsource>Install/uninstall/update operations are still in progress:
 - </oldsource>
         <translation>عمليات التثبيت / إلغاء التثبيت / التحديث لا تزال جارية:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="729"/>
         <source>Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
         <oldsource>
 
@@ -21418,32 +21455,32 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerExtensionsServerWidget</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="95"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="96"/>
         <source>Slicer Extensions</source>
         <translation>ملحقات Slicer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="102"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="105"/>
         <source>Extensions can not be installed.</source>
         <translation>لا يمكن تثبيت الملحقات.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="112"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
         <translation>تتطلب إدارة الملحقات تثبيت &lt;em&gt; 3D Slicer &lt;/em&gt;. افتح ملف صورة القرص (.dmg) ، واسحب &lt;em&gt; Slicer.app &lt;/em&gt; إلى مجلد &lt;em&gt; التطبيقات &lt;/em&gt; ، وقم بتشغيل &lt;em&gt; 3D Slicer &lt;/em&gt; من مجلد &lt;em&gt; التطبيقات &lt;/em&gt;.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="118"/>
         <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
         <translation>تحقق من تثبيت &lt;b&gt; 3D Slicer &lt;/b&gt; بشكل صحيح.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="114"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="122"/>
         <source>Read more...</source>
         <translation>قراءة المزيد...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="117"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="126"/>
         <source>Try Again</source>
         <translation>حاول مرة أخرى</translation>
     </message>
@@ -21551,7 +21588,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerFileDialog</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="78"/>
+        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="76"/>
         <source>All</source>
         <translation>كل</translation>
     </message>
@@ -21648,17 +21685,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>تنعيم السطح:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="76"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"/>
         <source>Composite With Shading</source>
         <translation>مركب مع التظليل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="78"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Maximum Intensity Projection</source>
         <translation>أقصى كثافة الإسقاط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="80"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="70"/>
         <source>Minimum Intensity Projection</source>
         <translation>الحد الأدنى من كثافة الإسقاط</translation>
     </message>
@@ -21666,7 +21703,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerGeneralizedReformatModule</name>
     <message>
-        <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="43"/>
+        <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="40"/>
         <source>GeneralizedReformat</source>
         <translation>إعادة التنسيق المعمم</translation>
     </message>
@@ -21674,63 +21711,63 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerIOManager</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
         <source>Loading file... </source>
         <translation>تحميل الملف... </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="98"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="95"/>
         <source>Loading ...</source>
         <translation>تحميل ...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="320"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="304"/>
         <source>Select a reader</source>
         <translation>اختر قارئ</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="305"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
         <translation>حدد قارئا لاستخدامه في البيانات الخاصة بك:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"/>
         <source>Loading file </source>
         <translation>تحميل الملف </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="566"/>
         <source>Adding data succeeded</source>
         <translation>نجحت إضافة البيانات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="592"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="568"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
         <translation>تم تحميل الملفات المحددة بنجاح ولكن تم الإبلاغ عن أخطاء أو تحذيرات.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="596"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="572"/>
         <source>Adding data failed</source>
         <translation>فشل إضافة البيانات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="598"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="574"/>
         <source>Error occurred while loading the selected files.</source>
         <translation>حدث خطأ أثناء تحميل الملفات المحددة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="603"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="579"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
         <translation>انقر على زر &apos;إظهار التفاصيل&apos; وتحقق من سجل التطبيق لمزيد من المعلومات.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="610"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="586"/>
         <source>Check the application log for more information.</source>
         <translation>تحقق من سجل التطبيق لمزيد من المعلومات.</translation>
     </message>
@@ -21779,7 +21816,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLoadableModuleTemplateModule</name>
     <message>
-        <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="42"/>
+        <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerLoadableModuleTemplateModule</source>
         <translation>qSlicerLoadableModuleTemplateModule</translation>
     </message>
@@ -21868,7 +21905,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="242"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="329"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="304"/>
         <source>Layout</source>
         <translation>تخطيط</translation>
     </message>
@@ -21959,7 +21996,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>قم برفع مستعرض ملفات قياسي يسمح لك بتحديد تحويل إلى المشهد الحالي.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="614"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="574"/>
         <source>Save</source>
         <translation>حفظ</translation>
     </message>
@@ -22164,12 +22201,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Ctrl+6</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="365"/>
         <source>&amp;Error Log</source>
         <translation>سجل الخطأ</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="400"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="367"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
@@ -22477,135 +22514,135 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>أظهر شريط الحالة</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="158"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="153"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
         <translation>طي / توسيع لوحة واجهة المستخدم الرسومية ويسمح لمشاهدي Slicer بشغل نافذة التطبيق بالكامل</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="284"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="298"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="312"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="262"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="275"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="288"/>
         <source>Select number of viewers...</source>
         <translation>حدد عدد المشاهدين...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="156"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="152"/>
         <source>Show &amp;Module Panel</source>
         <translation>أظهر لوحة الوحدة</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="184"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="176"/>
         <source>Module Selection</source>
         <translation>اختيار الوحدة</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="389"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="356"/>
         <source>Error Log</source>
         <translation>سجل الأخطاء</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="399"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="366"/>
         <source>Show/hide Error Log window</source>
         <translation>إظهار / إخفاء نافذة سجل الأخطاء</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="423"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="387"/>
         <source>Python Console</source>
         <translation>وحدة تحكم بايثون</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="435"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="399"/>
         <source>Slicer Python Console</source>
         <translation>وحدة تحكم بايثون Slicer</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="446"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="409"/>
         <source>&amp;Python Console</source>
         <translation>وحدة تحكم بايثون</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="447"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="410"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
         <translation>إظهار نافذة Python Console للتحكم في بيانات التطبيق وواجهة المستخدم والأجزاء الداخلية</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="449"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="411"/>
         <source>Ctrl+3</source>
         <translation>Ctrl+3</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="449"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="411"/>
         <source>Ctrl+`</source>
         <translation>Ctrl+`</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="549"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="507"/>
         <source>Clear History</source>
         <translation>مسح السجل</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="662"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="621"/>
         <source>Modifications in data files:</source>
         <translation>التعديلات في ملفات البيانات:</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="683"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="642"/>
         <source>Modifications in the scene file:</source>
         <translation>التعديلات في ملف المشهد:</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="612"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="571"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="666"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
         <translation>تم تعديل المشهد. هل تريد حفظه قبل الخروج ؟</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="611"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="570"/>
         <source>Save before exit?</source>
         <translation>حفظ قبل الخروج ؟</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="616"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="575"/>
         <source>Exit (discard modifications)</source>
         <translation>خروج (تجاهل التعديلات)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="617"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="576"/>
         <source>Cancel exit</source>
         <translation>إلغاء الخروج</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="706"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="665"/>
         <source>Save before closing scene?</source>
         <translation>حفظ قبل إغلاق المشهد؟</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="711"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="670"/>
         <source>Close scene (discard modifications)</source>
         <translation>إغلاق المشهد (تجاهل التعديلات)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="712"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="671"/>
         <source>Save scene</source>
         <translation>حفظ المشهد</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="989"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="942"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
         <translation>دليل حزمة بيانات Slicer (حدد الدليل الفارغ)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1021"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
         <source>Save Data Bundle File</source>
         <translation>احفظ ملف حزمة البيانات</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1022"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
         <source>Medical Reality Bundle (*.mrb)</source>
         <translation>حزمة الواقع الطبي (* .mrb)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1053"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1001"/>
         <source>MRML Scene</source>
         <translation>مشهد MRML</translation>
     </message>
@@ -22614,8 +22651,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <name>qSlicerMarkupsModule</name>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="20"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="142"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="55"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="143"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="51"/>
         <source>Markups</source>
         <translation>علامات</translation>
     </message>
@@ -22641,8 +22678,9 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
-        <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation>حفظ إعدادات خاصية العرض الحالية إلى الإعدادات الافتراضية ، سيتم حفظها عند إعادة تشغيل أداة تقطيع الشرائح (انظر إعدادات التطبيق)</translation>
+        <source>Save current display properties to defaults. These properties will be used even after application restart.</source>
+        <oldsource>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</oldsource>
+        <translation type="unfinished">حفظ إعدادات خاصية العرض الحالية إلى الإعدادات الافتراضية ، سيتم حفظها عند إعادة تشغيل أداة تقطيع الشرائح (انظر إعدادات التطبيق)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -22923,12 +22961,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>اليسار-الخلفي-العلوي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="204"/>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
         <translation>وحدة لإنشاء وإدارة العلامات ثنائية الأبعاد وثلاثية الأبعاد. حلت هذه الوحدة محل وحدة التعليقات التوضيحية السابقة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="212"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="213"/>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
         <translation>تم دعم هذا العمل من قبل NAMIC و NAC ومجتمع Slicer.</translation>
     </message>
@@ -22936,153 +22974,153 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerMarkupsModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="268"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="266"/>
         <source>Visibility</source>
         <translation>الرؤية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="298"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="301"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="289"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="291"/>
         <source>Lock</source>
         <translation>قفل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="326"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="199"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="312"/>
         <source>Selected</source>
         <translation>مختارة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="199"/>
         <source>Locked</source>
         <translation>مغلق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="199"/>
         <source>Visible</source>
         <translation>مرئي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3095"/>
         <source>Name</source>
         <translation>اسم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>Description</source>
         <translation>وصف</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>R</source>
         <translation>يمين</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>A</source>
         <translation>أمامي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>S</source>
         <translation>متفوق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>Position</source>
         <translation>المنصب</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="271"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="268"/>
         <source>Visibility On</source>
         <translation>الرؤية على</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="269"/>
         <source>Set visibility flag to on for all control points in the active markup</source>
         <translation>اضبط علامة الرؤية على تشغيل لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="280"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="274"/>
         <source>Visibility Off</source>
         <translation>الرؤية معطلة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="275"/>
         <source>Set visibility flag to off for all control points in the active markup</source>
         <translation>اضبط علامة الرؤية على إيقاف لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="302"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="292"/>
         <source>Set lock flag to on for all control points in the active markup</source>
         <translation>اضبط علامة القفل على تشغيل لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="309"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="297"/>
         <source>Unlock</source>
         <translation>الغاء القفل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="310"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="298"/>
         <source>Set lock flag to off for all control points in the active markup</source>
         <translation>اضبط علامة القفل على إيقاف لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="329"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="314"/>
         <source>Selected On</source>
         <translation>تم التحديد على</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="330"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="315"/>
         <source>Set selected flag to on for all control points in the active markup</source>
         <translation>قم بتعيين العلامة المحددة على تشغيل لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="338"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="320"/>
         <source>Selected Off</source>
         <translation>تم تحديد إيقاف التشغيل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="339"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="321"/>
         <source>Set selected flag to off for all control points in the active markup</source>
         <translation>تعيين العلم المحدد إلى إيقاف لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="374"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="378"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="346"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="350"/>
         <source>Cut</source>
         <translation>قص</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="384"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="388"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="356"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="360"/>
         <source>Copy</source>
         <translation>نسخ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="394"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="398"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="366"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="370"/>
         <source>Paste</source>
         <translation>لصق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="479"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="441"/>
         <source>Click in this column to select/deselect control points for passing to CLI modules</source>
         <translation>انقر في هذا العمود لتحديد / إلغاء تحديد نقاط التحكم لتمريرها إلى وحدات كلي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="485"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="447"/>
         <source>Click in this column to lock/unlock control points to prevent them from being moved by mistake</source>
         <translation>انقر في هذا العمود لقفل / فتح نقاط التحكم لمنع نقلها عن طريق الخطأ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="491"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="453"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
         <translation>انقر في هذا العمود لإظهار / إخفاء نقاط التحكم في 2د و 3د</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="497"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="459"/>
         <source>Click in this column to modify the control point position state.
 
 - Edit: Enter place mode to modify the control point position in the slice views
@@ -23097,134 +23135,134 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - واضح: امسح موضع نقطة التحكم المحددة ، لكن لا تحذف نقطة التحكم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="815"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="756"/>
         <source>Create %1</source>
         <translation>إنشاء %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1005"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="933"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
         <translation>انقر لإلغاء قفل قائمة نقاط التحكم هذه حتى يمكن تحريك النقاط بالماوس</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1010"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="938"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
         <translation>انقر لقفل قائمة نقاط التحكم هذه بحيث لا يمكن تحريك النقاط بواسطة الماوس</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1016"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="944"/>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
         <translation>انقر لإلغاء تأمين عدد نقاط التحكم حتى يمكن إضافة النقاط أو حذفها</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1023"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="951"/>
         <source>Click to lock the number of control points so no points can be added or deleted</source>
         <translation>انقر لقفل عدد نقاط التحكم حتى لا يمكن إضافة أو حذف أي نقاط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1616"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1824"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1544"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1751"/>
         <source>Confirm control point deletion</source>
         <translation>تأكيد حذف نقطة التحكم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1545"/>
         <source>Delete %1 control points from this list?</source>
         <translation>حذف %1 نقاط التحكم من هذه القائمة؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1623"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1550"/>
         <source>Delete</source>
         <translation>يحذف</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1825"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1752"/>
         <source>Delete all %1 control points from this list?</source>
         <translation>احذف الكل %1 نقاط التحكم من هذه القائمة؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1832"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1758"/>
         <source>Delete All</source>
         <translation>حذف الكل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2292"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2214"/>
         <source>Delete highlighted control point(s)</source>
         <translation>حذف نقطة(نقاط)التحكم المميزة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2299"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2219"/>
         <source>Jump slices</source>
         <translation>الانتقال إلى شرائح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2306"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2224"/>
         <source>Refocus all cameras</source>
         <translation>إعادة تركيز جميع الكاميرات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2324"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2240"/>
         <source>Edit position of highlighted control point(s)</source>
         <translation>تحرير موضع نقطة (نقاط) التحكم المميزة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2330"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2244"/>
         <source>Skip placement of highlighted control point(s)</source>
         <translation>تخطي موضع نقطة(نقاط)التحكم المميزة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2336"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2248"/>
         <source>Restore position of highlighted control point(s)</source>
         <translation>استعادة موضع نقطة (نقاط) التحكم المميزة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2342"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2252"/>
         <source>Clear position of highlighted control point(s)</source>
         <translation>موضع واضح لنقطة (نقاط) التحكم المميزة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2456"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2362"/>
         <source>Summed linear distance: %1</source>
         <translation>لخص المسافة الخطية: %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3160"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3188"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3052"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3079"/>
         <source>No measurement</source>
         <translation>لا قياس</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3095"/>
         <source>Enabled</source>
         <translation>ممكن</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3161"/>
         <source>Output table:</source>
         <translation>جدول الإخراج:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3274"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3162"/>
         <source>Export</source>
         <translation>تصدير</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3275"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3163"/>
         <source>Export control points coordinates and properties to table.</source>
         <translation>نقاط مراقبة الصادرات الإحداثيات والخصائص إلى الجدول.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3280"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3168"/>
         <source>Input table:</source>
         <translation>جدول الإدخال:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3281"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3169"/>
         <source>Import</source>
         <translation>استيراد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3283"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3170"/>
         <source>Import control points coordinates and properties from table node.
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
@@ -23259,7 +23297,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="83"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="549"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="550"/>
         <source>Delete last added control point</source>
         <translation>حذف آخر نقطة تحكم مضافة</translation>
     </message>
@@ -23335,22 +23373,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>تبديل نقطة تحكم قفل الرقم. إذا كان مغلقا فلا يمكن إضافة أو حذف نقاط التحكم. بدلاً من الحذف، يمكن حذف نقاط التحكم في الموقع.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="137"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="138"/>
         <source>Place options</source>
         <translation>خيارات المكان</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="148"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="149"/>
         <source>Delete options</source>
         <translation>حذف الخيارات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="165"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="166"/>
         <source>More options</source>
         <translation>المزيد من الخيارات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="543"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="544"/>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
         <translation>الموضع غير المأذون به لنقطة التحكم الأخيرة الموضوعة (لن تحذف نقطة التحكم).</translation>
     </message>
@@ -23360,12 +23398,11 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="78"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
         <source>Markups</source>
         <translation>علامات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
         <source>Markups Fiducials</source>
         <translation>علامات المَرْجَعِيّات</translation>
     </message>
@@ -23511,17 +23548,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>أضف دليل النموذج</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="64"/>
+        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="61"/>
         <source>Select Model file(s)</source>
         <translation>حدد ملف (ملفات) النموذج</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="78"/>
+        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="74"/>
         <source>Select a Model directory</source>
         <translation>حدد دليل النموذج</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="107"/>
         <source>Models</source>
         <translation>نماذج</translation>
     </message>
@@ -23562,7 +23599,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
+        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="45"/>
         <source>Models</source>
         <translation>نماذج</translation>
     </message>
@@ -23572,7 +23609,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>تقوم وحدة النماذج بتحميل وضبط معلمات العرض للنماذج مثل اللون والشفافية والقص.&lt;br&gt;حفظ النماذج عبر قائمة الملفات، حفظ الزر.&lt;br&gt;سيسمح لك طراز إضافة ثلاثية الأبعاد أو زر دليل الطراز بتحميل أي طراز يمكن لـ Slicer قراءته، بالإضافة إلى جميع طرازات VTK في الدليل. أضف Scalar Complay سيقوم بتحميل ملف قياسي وربطه بالنموذج النشط حاليًا.&lt;br&gt;يمكنك ضبط خصائص العرض للطرازات في لوحة العرض. حدد النموذج الذي ترغب في العمل عليه من قائمة إسقاط محدد النموذج. يتم تحميل تراكبات قياسية بطاولة افتراضية للبحث عن الألوان، ولكن يمكن إعادة تعيينها يدويًا. بمجرد اختيار تراكب قياسي جديد، لا تزال خريطة الألوان القديمة تستخدم حاليًا، بحيث يجب ضبطها جنبًا إلى جنب مع التراكب.&lt;br&gt;يتم تشغيل القصاصة لنموذج في لوحة العرض، ويتم تحديد شرائح الطائرات التي ستقص النموذج في لوحة القصاصة.&lt;br&gt;تتيح لك لوحة التسلسل الهرمي النموذجي تجميع النماذج معًا وتعيين خصائص المجموعة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="96"/>
+        <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"/>
         <source>This work was partially funded by NIH grants 3P41RR013218-12S1 and R01CA184354.</source>
         <translation>تم تمويل هذا العمل جزئيًا من خلال منح المعاهد الوطنية للصحة 3P41RR013218-12S1 و R01CA184354.</translation>
     </message>
@@ -23668,67 +23705,67 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>اختبار</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="105"/>
         <source>Switch to module</source>
         <translation>تبديل إلى وحدة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="201"/>
         <source>Category:</source>
         <translation>الفئة:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="237"/>
         <source>Contributors:</source>
         <translation>المساهمين:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="251"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
         <source>Internal name:</source>
         <translation>الاسم الداخلي:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="255"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="248"/>
         <source>Unknown type</source>
         <translation>نوع غير معروف</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="252"/>
         <source>Python Scripted Loadable</source>
         <translation>بايثون كتابتها للتحميل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="256"/>
         <source>C++ Loadable</source>
         <translation>C++ قابل للتحميل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="260"/>
         <source>Command-Line Interface (CLI)</source>
         <translation>واجهة خط الأوامر (CLI)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="264"/>
         <source>built-in</source>
         <translation>مدمج</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="266"/>
         <source>Type:</source>
         <translation>نوع:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
         <source>Require:</source>
         <translation>تطلب:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="282"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="275"/>
         <source>Location:</source>
         <translation>الموقع:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="291"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="284"/>
         <source>%1 module is not loaded</source>
         <translation>لم يتم تحميل وحدة %1</translation>
     </message>
@@ -23756,7 +23793,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>اعتراف</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
+        <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="189"/>
         <source>Contributors:</source>
         <translation>المساهمين:</translation>
     </message>
@@ -23764,22 +23801,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerModuleSelectorToolBar</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="102"/>
         <source>Modules:</source>
         <translation>وحدات:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="112"/>
         <source>Module Finder</source>
         <translation>مكتشف الوحدة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="114"/>
         <source>Find module</source>
         <translation>البحث عن وحدة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="139"/>
         <source>Select a module from the module list</source>
         <translation>حدد وحدة نمطية من قائمة الوحدات النمطية</translation>
     </message>
@@ -23789,43 +23826,43 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>وحدات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="152"/>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="151"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="155"/>
         <source>Modules history</source>
         <translation>تاريخ الوحدات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="154"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="153"/>
         <source>History</source>
         <translation>السّجل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="164"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="162"/>
         <source>Modules Previous History</source>
         <translation>الوحدات النمطية السابقة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="165"/>
         <source>Previous</source>
         <translation>السابق</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="168"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="166"/>
         <source>Previous modules</source>
         <translation>وحدات سابقة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="181"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="177"/>
         <source>Modules Next History</source>
         <translation>وحدات التاريخ المقبل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="184"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="180"/>
         <source>Next</source>
         <translation>التالي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="185"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="181"/>
         <source>Next modules</source>
         <translation>الوحدات التالية</translation>
     </message>
@@ -23833,7 +23870,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerModulesListView</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="152"/>
+        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="149"/>
         <source>Requires:</source>
         <translation>يتطلب:</translation>
     </message>
@@ -23841,85 +23878,85 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerMouseModeToolBar</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="80"/>
         <source>Translate/rotate view, adjust displayed objects</source>
         <translation>ترجمة/تدوير طريقة العرض ، ضبط العناصر المعروضة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="82"/>
         <source>View</source>
         <translation>عرض</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="95"/>
         <source>Adjust</source>
         <translation>ضبط</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="96"/>
         <source>Adjust window/level by click-and-drag in a slice viewer.</source>
         <translation>اضبط النافذة / المستوى بالنقر والسحب في عارض شرائح.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="100"/>
         <source>Select region</source>
         <translation>حدد المنطقة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="103"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
         <translation>قم بتعيين مستوى النافذة بناءً على منطقة مستطيلة، محددة بالنقر والسحب في عارض الشريحة. يتم استخدام وضع النقر كركن المنطقة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="106"/>
         <source>Select region - centered</source>
         <translation>حدد المنطقة - مركزها</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="109"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
         <translation>قم بتعيين مستوى النافذة بناءً على منطقة مستطيلة، محددة بالنقر والسحب في عارض الشريحة. يتم استخدام وضع النقر كمركز المنطقة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="123"/>
         <source>Adjust window/level</source>
         <translation>ضبط النافذة / المستوى</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="129"/>
         <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</source>
         <translation>اضبط نافذة / مستوى الصوت عن طريق النقر بزر الماوس الأيسر والسحب في طرق عرض الشريحة. اضغط باستمرار على مفتاح Ctrl / Cmd للتبديل مؤقتا بين الضبط والإعداد المستند إلى المنطقة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="135"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="132"/>
         <source>Window/level</source>
         <translation>نافذة/مستوى</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="149"/>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="178"/>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="179"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="144"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="145"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="173"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="174"/>
         <source>Toggle Markups Toolbar</source>
         <translation>تبديل شريط أدوات العلامات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="151"/>
         <source>Place Menu</source>
         <translation>ضع القائمة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="163"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="158"/>
         <source>Create and Place</source>
         <translation>أنشئ و ضعه</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="159"/>
         <source>Place</source>
         <translation>وضع</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="360"/>
         <source>Place a control point</source>
         <translation>ضع نقطة تحكم</translation>
     </message>
@@ -23953,17 +23990,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>تنعيم السطح:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="77"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Composite With Shading</source>
         <translation>مركب مع التظليل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="79"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="70"/>
         <source>Maximum Intensity Projection</source>
         <translation>أقصى كثافة الإسقاط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="81"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="71"/>
         <source>Minimum Intensity Projection</source>
         <translation>الحد الأدنى من كثافة الإسقاط</translation>
     </message>
@@ -23984,7 +24021,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerPlotsModule</name>
     <message>
-        <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="46"/>
+        <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="44"/>
         <source>Plots</source>
         <translation>مسار</translation>
     </message>
@@ -24040,12 +24077,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerPresetComboBox</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="149"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="146"/>
         <source>Preset</source>
         <translation>مسبقا</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="272"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="267"/>
         <source>Select a Preset</source>
         <translation>حدد إعدادا مسبقا</translation>
     </message>
@@ -24053,7 +24090,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerReformatModule</name>
     <message>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="44"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="42"/>
         <source>Reformat</source>
         <translation>إعادة تهيئة</translation>
     </message>
@@ -24063,7 +24100,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>تقوم وحدة أداة إعادة صياغة التحويلات بإنشاء وتحرير تحويلات عقدة الشريحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="69"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="70"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
     </message>
@@ -24073,7 +24110,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="494"/>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="106"/>
         <source>Reformat</source>
         <oldsource>Form</oldsource>
         <translation>إعادة تهيئة</translation>
@@ -24347,85 +24384,85 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;حدثت أخطاء أو تحذيرات أثناء التوفير. انظر أيقونات الحالة للحصول على التفاصيل.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="587"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1217"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1231"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1238"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="553"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1158"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1174"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1180"/>
         <source>Modified</source>
         <translation>تعديل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="587"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="911"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="553"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="864"/>
         <source>Not Modified</source>
         <translation>لم يعدل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="640"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="601"/>
         <source>Select a format</source>
         <translation>حدد تنسيقا</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="666"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="624"/>
         <source>Output folder</source>
         <translation>مجلد الإخراج</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="717"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="676"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
         <translation>لم يتم حفظ ملف المشهد لأن المستخدم اختار عدم الكتابة فوق الملف الموجود:%1.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="815"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="772"/>
         <source>Node %1 not saved, file name is empty.</source>
         <translation>العقدة%1 غير محفوظة، اسم الملف فارغ.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="825"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="785"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
         <translation>لم يتم حفظ العقدة%1 لأن المستخدم اختار عدم الكتابة فوق الملف الموجود:%2.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="863"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1000"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="819"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="951"/>
         <source>Cannot write data file: %1.</source>
         <translation>لا يمكن كتابة ملف البيانات:%1.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="873"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1010"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="829"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="961"/>
         <source>File writing may have failed because filename is too long: &apos;%1&apos;</source>
         <translation>ربما فشلت عملية كتابة الملف لأن اسم الملف طويل جدًا: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="880"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1017"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="837"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="969"/>
         <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
         <translation>ربما فشلت عملية كتابة الملف لأن اسم مجلد الإخراج طويل جدًا: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="845"/>
         <source>Failed to save node %1 to file %2.</source>
         <translation>فشل في حفظ العقدة%1 إلى ملف %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1055"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1218"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1005"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1159"/>
         <source>Scene</source>
         <translation>مشهد</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1530"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1463"/>
         <source>Any Data</source>
         <translation>أي بيانات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1563"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1497"/>
         <source>Saving file...</source>
         <translation>حفظ الملف...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1564"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1498"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
         <translation>الملف: %1 موجود بالفعل. هل تريد استبداله ؟</translation>
     </message>
@@ -24519,28 +24556,28 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerSceneReader</name>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="65"/>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="103"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="64"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="102"/>
         <source>MRML Scene</source>
         <translation>مشهد MRML</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="131"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
         <translation>تم حفظ ملف المشهد مع تطبيق%1 (هذا التطبيق هو%2).</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="142"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="139"/>
         <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
         <translation>تم إنشاء ملف المشهد مع إصدار أحدث من التطبيق (%1) من الإصدار الحالي (%2).</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="145"/>
         <source>The scene may not load correctly.</source>
         <translation>قد لا يتم تحميل المشهد بشكل صحيح.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="172"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="168"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
         <translation>تم تثبيت هذه الامتدادات عندما تم حفظ المشهد ولكن لم يتم تثبيته الآن:%1. قد تكون هذه الامتدادات مطلوبة لنجاح تحميل المشهد.</translation>
     </message>
@@ -24548,7 +24585,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerSceneViewsModule</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="41"/>
+        <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="40"/>
         <source>Scene Views</source>
         <oldsource>Views</oldsource>
         <translation>طرق عرض</translation>
@@ -24557,7 +24594,48 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerSceneViewsModuleDialog</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="31"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="87"/>
+        <source>Update existing nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="89"/>
+        <source>If checked, the nodes already contained in the scene view will be updated to match the current state of the scene.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="95"/>
+        <source>Capture display nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
+        <source>If checked, all display nodes in the scene will be added or updated in the current scene view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="103"/>
+        <source>Capture view nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="104"/>
+        <source>If checked, all view nodes in the scene will be added or updated in the current scene view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="110"/>
+        <source>Advanced</source>
+        <translation type="unfinished">متقدم</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="111"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="120"/>
+        <source>Select the nodes to be captured in the scene view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="138"/>
         <source>3D Slicer SceneView</source>
         <translation>3D القطاعة مشهدالعرض</translation>
     </message>
@@ -24576,30 +24654,30 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>صورة مصغرة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
         <source>Description</source>
         <translation>وصف</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="118"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
         <source>Actions</source>
         <translation>الإجراءات</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="184"/>
         <source>Restore</source>
         <translation>يستعيد</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="188"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="190"/>
         <source>Edit</source>
         <translation>حرر</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="195"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="196"/>
         <source>Delete</source>
         <translation>حذف</translation>
     </message>
@@ -24624,33 +24702,33 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="177"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="176"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
         <translation>فشل في حفظ المشهد ك %1 (المسار %2 غير قابل للكتابة)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="149"/>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="194"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="148"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="192"/>
         <source>Failed to save scene as %1</source>
         <translation>فشل في حفظ المشهد ك %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="232"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="228"/>
         <source>fails to be created</source>
         <translation>فشل في الإنشاء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="235"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="229"/>
         <source>contains 1 file or directory</source>
         <translation>يحتوي على ملف واحد أو دليل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="238"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="230"/>
         <source>contains %1 files or directories</source>
         <translation>يحتوي على %1 ملفات أو أدلة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="241"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="232"/>
         <source>Selected directory
 &quot;%1&quot;
 %2.
@@ -24664,12 +24742,12 @@ Please choose an empty directory.</source>
 <context>
     <name>qSlicerSegmentEditorAbstractEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1075"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1087"/>
         <source>Operate on invisible segment?</source>
         <translation>تعمل على شريحة غير مرئية؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1076"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1088"/>
         <source>The currently selected segment is hidden. Would you like to make it visible?</source>
         <translation>الجزء المحدد حاليا مخفي. هل ترغب في جعلها مرئية؟</translation>
     </message>
@@ -24677,12 +24755,12 @@ Please choose an empty directory.</source>
 <context>
     <name>qSlicerSegmentEditorEraseEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="56"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="59"/>
         <source>Erase</source>
         <translation>مسح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="75"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="79"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
         <translation>امسح من الجزء الحالي بفرشاة مستديرة&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;سحب وإسقاط الزر الأيسر:&lt;/b&gt;محو من مقطع حول مؤشر الفأر.&lt;li&gt;&lt;b&gt;Shift + عجلة الفأر&lt;/b&gt; أو &lt;b&gt;+/- مفاتيح:&lt;/b&gt; ضبط حجم الفرشاة.&lt;li&gt;&lt;b&gt;Ctrl + عجلة الفأر:&lt;/b&gt; شريحة عرض التكبير / التصغير.&lt;/ul&gt;&lt;p&gt;التحرير متاح في كل من مشاهدات الشريحة والثلاثية الأبعاد.&lt;p&gt;</translation>
     </message>
@@ -24690,80 +24768,80 @@ Please choose an empty directory.</source>
 <context>
     <name>qSlicerSegmentEditorPaintEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="960"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="929"/>
         <source>Paint</source>
         <translation>طلاء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="980"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="950"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
         <translation>طلاء بفرشاة مستديرة&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;سحب وإسقاط الزر الأيسر:&lt;/b&gt; ضربات الطلاء.&lt;li&gt;&lt;b&gt;Shift + عجلة الفأرة&lt;/b&gt; أو &lt;b&gt;+/- مفاتيح:&lt;/b&gt;ضبط حجم الفرشاة.&lt;li&gt;&lt;b&gt;Ctrl + عجلة الفأرة:&lt;/b&gt; شريحة عرض التكبير / التصغير.&lt;/ul&gt;&lt;p&gt;التحرير متاح في كل من مشاهدات الشريحة والثلاثية الأبعاد.&lt;p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1415"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1372"/>
         <source>Diameter:</source>
         <translation>القطر:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1417"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1423"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1426"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1374"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1380"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1383"/>
         <source>Set the paint brush size as a percentage of screen height or physical size</source>
         <oldsource>Set the paint brush size as percentage of screen size or as fixed length</oldsource>
         <translation>تعيين حجم فرشاة الطلاء كنسبة مئوية من حجم الشاشة أو طول ثابت</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1436"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1393"/>
         <source>Sphere brush</source>
         <translation>فرشاة كروية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1437"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1394"/>
         <source>Use a 3D spherical brush rather than a 2D circular brush.</source>
         <translation>استخدام فرشاة كروية ثلاثة أبعاد بدلا من فرشاة دائرية ثنائية الأبعاد.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1440"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1397"/>
         <source>Edit in 3D views</source>
         <translation>تحرير وجهات النظر في ثلاثة أبعاد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1441"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1398"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
         <translation>السماح اللوحة في ثلاثة أبعاد وجهات النظر. في حالة التمكين ، انقر واسحب في عرض ثلاثي الأبعاد يرسم في العرض بدلا من تدوير العرض.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1445"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1402"/>
         <source>Color smudge</source>
         <translation>لطخة اللون</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1446"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1404"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
         <translation>حدد المقطع عن طريق أخذ عينات من موقع البكسل حيث تبدأ ضربة الفرشاة. إذا بدأت ضربة الفرشاة في منطقة فارغة ، فإن الفرشاة تمحو المنطقة المميزة من المقطع المحدد.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1453"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1411"/>
         <source>Erase all segments</source>
         <translation>محو جميع الشرائح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1454"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1412"/>
         <source>If not checked then highlighted area is erased from all segments. If unchecked then only area is only erased from selected segment.</source>
         <translation>إذا لم يتم التحقق ، فسيتم مسح المنطقة المميزة من جميع الأجزاء. إذا لم يتم التحقق ، فسيتم مسح المنطقة فقط من الجزء المحدد.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1419"/>
         <source>Pixel mode</source>
         <translation>وضع البكسل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1462"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1420"/>
         <source>Paint exactly the pixel under the cursor, ignoring the diameter, threshold, and paint over.</source>
         <translation>قم بطلاء البكسل الموجود أسفل المؤشر تماما ، متجاهلا القطر والعتبة والطلاء.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1565"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1523"/>
         <source>mm</source>
         <translation>مم</translation>
     </message>
@@ -24771,132 +24849,132 @@ Please choose an empty directory.</source>
 <context>
     <name>qSlicerSegmentEditorScissorsEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1163"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1158"/>
         <source>Scissors</source>
         <translation>مقص</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1177"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
         <translation>قطع الجزء بأكمله من وجهة النظر الحالية&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;سحب وإسقاط الزر الأيسر:&lt;/b&gt; اكتساح الخطوط العريضة.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; إلغاء.&lt;/ul&gt;&lt;p&gt;التحرير متاح في كل من مشاهدات الشريحة والثلاثية الأبعاد. في عرض الشرائح سيتم تطبيق القطع على جميع الشرائح.&lt;p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1199"/>
         <source>Erase inside</source>
         <translation>محو داخل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1200"/>
         <source>Erase outside</source>
         <translation>محو خارج</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1205"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1201"/>
         <source>Fill inside</source>
         <translation>ملء داخل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1206"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
         <source>Fill outside</source>
         <translation>ملء خارج</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1208"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
         <source>Operation:</source>
         <translation>العملية:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1221"/>
         <source>Free-form</source>
         <translation>شكل حر</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1226"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1222"/>
         <source>Circle</source>
         <translation>الدائرة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1223"/>
         <source>Rectangle</source>
         <translation>مستطيل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1228"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1224"/>
         <source>Centered</source>
         <translation>تتركز</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1230"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
         <translation>إذا تم تحديده ، فانقر فوق موضع يحدد مركز الدائرة أو المستطيل ، وإلا فإن موضع النقر يكون عند حدود الشكل.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1232"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
         <source>Shape:</source>
         <translation>الشكل:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1244"/>
         <source>Unlimited</source>
         <translation>غير محدود</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1245"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
         <translation>قطع من خلال تجزئة كامل. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1246"/>
         <source>Positive</source>
         <translation>إيجابي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1252"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1247"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
         <translation>يتم تضمين الجانب الإيجابي فقط من الطائرة شريحة في منطقة قطع. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1253"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1248"/>
         <source>Negative</source>
         <translation>سلبي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
         <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
         <translation>يتم تضمين الجانب السلبي فقط من الطائرة شريحة في منطقة قطع. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1255"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
         <source>Symmetric</source>
         <translation>متماثل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1256"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
         <translation>تقتصر منطقة القطع على السماكة المحددة حول مستوى الشريحة. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1259"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
         <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
         <translation>سمك منطقة القطع. 0 يعني أنه يتم تضمين الشريحة الحالية فقط. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1266"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1261"/>
         <source>Slice cut:</source>
         <translation>قطع شريحة:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1267"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1262"/>
         <source>Restrict cut region in slice views.</source>
         <translation>تقييد منطقة القطع في طرق عرض الشرائح.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1270"/>
         <source>Apply to visible segments:</source>
         <translation>تنطبق على شرائح مرئية:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1276"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1271"/>
         <source>Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </source>
         <translation>قم بتطبيق تأثير المقص على جميع الأجزاء المرئية من أعلى إلى أسفل.                                           بعد الضغط على &quot;تطبيق&quot;: يرجى التحلي بالصبر - قد يستغرق ذلك وقتا طويلا.                                           سيتم عرض التقدم كرسالة حالة. </translation>
     </message>
@@ -24938,8 +25016,8 @@ Please choose an empty directory.</source>
     <name>qSlicerSegmentationsModule</name>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="14"/>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="180"/>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="47"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="178"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="46"/>
         <source>Segmentations</source>
         <translation>التقسيمات</translation>
     </message>
@@ -25211,7 +25289,7 @@ Please choose an empty directory.</source>
         <translation>وحدة التجزئة تدير التقسيمات. يمكن أن يحتوي كل تجزئة على أجزاء متعددة، والتي تتوافق مع بنية واحدة أو ROI. يمكن أن يحتوي كل قطاع على تمثيلات بيانات متعددة لنفس الهيكل، وتدعم الوحدة التحويل التلقائي بين هذه التمثيلات بالإضافة إلى إعدادات العرض المتقدمة وميزات الاستيراد/التصدير.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="112"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="111"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
         <translation>هذا العمل جزء من مشروع SparKit ،بتمويل من برنامج ACRU التابع لرعاية مرضى السرطان في أونتاريو (CCO) واتحاد أونتاريو للتدخلات التكيفية في علاج الأورام بالإشعاع (OCAIRO).</translation>
     </message>
@@ -25219,47 +25297,62 @@ Please choose an empty directory.</source>
 <context>
     <name>qSlicerSegmentationsModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="641"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="316"/>
+        <source>Segmentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="319"/>
+        <source>Volume</source>
+        <translation type="unfinished">حجم</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="320"/>
+        <source>Color Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="616"/>
         <source>Output type:</source>
         <translation>نوع الإخراج:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="642"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="617"/>
         <source>Output node:</source>
         <translation>عقدة الإخراج:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="643"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="618"/>
         <source>Export</source>
         <translation>تصدير</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="649"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="624"/>
         <source>Input type:</source>
         <translation>نوع الإدخال:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="650"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="625"/>
         <source>Input node:</source>
         <translation>عقدة الإدخال:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="651"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="626"/>
         <source>Import</source>
         <translation>استيراد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="668"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="642"/>
         <source>Export to new labelmap</source>
         <translation>تصدير إلى خريطة التسمية الجديدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="676"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="650"/>
         <source>Export models to new folder</source>
         <translation>تصدير النماذج إلى مجلد جديد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="787"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="760"/>
         <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
@@ -25277,32 +25370,32 @@ Note: This may result in unwanted data loss in %5.</oldsource>
 ملاحظة: قد يؤدي هذا إلى فقدان البيانات غير المرغوب فيها في%5.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="793"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="768"/>
         <source>Failed to copy segment</source>
         <translation>فشل نسخ المقطع</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="801"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
         <source>Failed to convert %1 to %2!</source>
         <translation>فشل تحويل %1 إلى %2!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="802"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="776"/>
         <source>Conversion failed</source>
         <translation>فشل التحويل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="926"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="895"/>
         <source>Export may erase data</source>
         <translation>قد يؤدي التصدير إلى مسح البيانات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="931"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="900"/>
         <source>Segmentations/AlwaysCropDuringSegmentationNodeExport</source>
         <translation>الانقسامات / الاقتصاص دائمًا أثناء تصدير العقدة المجزأة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="932"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="901"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
@@ -25311,7 +25404,7 @@ Do you want to crop the segmentation?
 </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1008"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="973"/>
         <source>Failed to export segments from segmentation %1 to labelmap node %2!
 
 Most probably the segment cannot be converted into binary labelmap representation.</source>
@@ -25320,12 +25413,12 @@ Most probably the segment cannot be converted into binary labelmap representatio
 على الأرجح لا يمكن تحويل المقطع إلى تمثيل ثنائي لخريطة التسمية.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1012"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="978"/>
         <source>Failed to export segments to labelmap</source>
         <translation>فشل تصدير الشرائح إلى labelmap</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1024"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="990"/>
         <source>Failed to export segments from segmentation %1 to models in folder %2!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
@@ -25334,37 +25427,37 @@ Most probably the segment cannot be converted into closed surface representation
 على الأرجح لا يمكن تحويل المقطع إلى تمثيل السطح المغلق.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1028"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="995"/>
         <source>Failed to export segments to models</source>
         <translation>فشل تصدير الشرائح إلى النماذج</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1085"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1046"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
         <translation>فشل نسخ التسميات من عقدة وحدة تخزين مخطط التسمية%1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1087"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1048"/>
         <source>Failed to import labelmap volume</source>
         <translation>فشل استيراد وحدة تخزين خريطة التسمية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1096"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1057"/>
         <source>Failed to copy polydata from model node %1!</source>
         <translation>فشل نسخ polydata من نموذج العقدة%1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1098"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1059"/>
         <source>Failed to import model node</source>
         <translation>فشل استيراد العقدة النموذجية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1107"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1068"/>
         <source>Failed to copy polydata from models under folder %1!</source>
         <translation>فشل نسخ polydata من النماذج الموجودة ضمن المجلد%1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1109"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1070"/>
         <source>Failed to import models</source>
         <translation>فشل استيراد النماذج</translation>
     </message>
@@ -25372,12 +25465,12 @@ Most probably the segment cannot be converted into closed surface representation
 <context>
     <name>qSlicerSegmentationsNodeWriterOptionsWidget</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="46"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="45"/>
         <source>Crop to minimum extent</source>
         <translation>قص إلى الحد الأدنى</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="47"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
         <translation>في حالة التمكين ، يتم اقتصاص تمثيل مخطط تسمية التجزئة إلى الحد الأدنى للحجم الضروري. هذا يوفر مساحة التخزين ولكن يغير نظام إحداثيات فوكسل (لا يتأثر نظام الإحداثيات المادية).</translation>
     </message>
@@ -25448,7 +25541,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="106"/>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="207"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="213"/>
         <source>(set)</source>
         <translation>(تعيين)</translation>
     </message>
@@ -25475,52 +25568,52 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <translation>وضع الكتابة الفوقية الافتراضي:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="94"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="95"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
         <translation>تعيين عتامة المقاطع تلقائيا بناء على أي منها يحتوي ، بحيث لا يحجب أي مقطع آخر</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="98"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="102"/>
         <source>Enable closed surface representation smoothing by default</source>
         <translation>تمكين تجانس تمثيل السطح المغلق بشكل افتراضي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="101"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
         <source>Use standard terminology for segments</source>
         <translation>استخدم المصطلحات القياسية للقطاعات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="104"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="114"/>
         <source>Default terminology entry</source>
         <translation>إدخال المصطلحات الافتراضية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="117"/>
         <source>Ask user</source>
         <translation>اسأل المستخدم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="107"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="118"/>
         <source>Always make visible</source>
         <translation>اجعله مرئيًا دائمًا</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="119"/>
         <source>Always allow</source>
         <translation>السماح دائما</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="112"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="122"/>
         <source>Overwrite all</source>
         <translation>شطب فوق الكل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="113"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="123"/>
         <source>Overwrite visible</source>
         <translation>الكتابة فوق مرئية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="114"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="124"/>
         <source>Allow overlap</source>
         <translation>السماح بالتداخل</translation>
     </message>
@@ -25528,22 +25621,22 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
 <context>
     <name>qSlicerSequencesModule</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="60"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="52"/>
         <source>Sequences</source>
         <translation>تسلسل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="106"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="104"/>
         <source>Sequence browser</source>
         <translation>متصفح التسلسل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="167"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="162"/>
         <source>This is a module for creating, recording, and replaying node sequences.</source>
         <translation>هذه وحدة لإنشاء تسلسلات العقدة وتسجيلها وإعادة تشغيلها.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="173"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="168"/>
         <source>This work was funded by CCO ACRU and OCAIRO grants.</source>
         <translation>تم تمويل هذا العمل من خلال منح CCO ACRU و OCAIRO.</translation>
     </message>
@@ -25735,53 +25828,53 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <translation>تسلسل:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="298"/>
         <source>Signal Intensity</source>
         <translation>شدة الإشارة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="302"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="333"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="299"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="330"/>
         <source>Time</source>
         <translation>الوقت</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="332"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="329"/>
         <source>Displacement</source>
         <translation>الإزاحة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="882"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="868"/>
         <source>M</source>
         <translation>ذكر</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="883"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="869"/>
         <source>Master sequence</source>
         <translation>التسلسل الرئيسي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="888"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="874"/>
         <source>Synchronized sequence</source>
         <translation>تسلسل متزامن</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="894"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="880"/>
         <source>Include this node in synchronized playback</source>
         <translation>تضمين هذه العقدة في التشغيل المتزامن</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="898"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="884"/>
         <source>Overwrite the associated node&apos;s name during playback</source>
         <translation>الكتابة فوق اسم العقدة المقترنة أثناء التشغيل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="902"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="888"/>
         <source>Save changes to the node into the sequence</source>
         <translation>حفظ التغييرات على العقدة في التسلسل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="906"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="892"/>
         <source>Include this node in synchronized recording</source>
         <translation>تضمين هذه العقدة في التسجيل المتزامن</translation>
     </message>
@@ -25795,8 +25888,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <translation>تسلسل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
         <source>Volume Sequence</source>
         <translation>تسلسل الحجم</translation>
     </message>
@@ -25890,12 +25982,12 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <translation>مسح ذاكرة التخزين المؤقت</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="144"/>
+        <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="132"/>
         <source>%1MB used</source>
         <translation>%1 ميغا بايت مستخدمة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="148"/>
+        <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="134"/>
         <source>%1MB free</source>
         <translation>%1 ميغابايت مجانا</translation>
     </message>
@@ -25929,7 +26021,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
-        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="91"/>
         <source>Time to wait before resuming self-test execution and hiding messages displayed to the user</source>
         <translation>وقت الانتظار قبل استئناف تنفيذ الاختبار الذاتي وإخفاء الرسائل المعروضة للمستخدم</translation>
     </message>
@@ -25959,17 +26051,17 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <translation>الاحتفاظ بملفات الإدخال والبيانات التي تم إنشاؤها أثناء تنفيذ وحدة CLI</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="75"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="77"/>
         <source>Enable/Disable developer mode</source>
         <translation>تمكين / تعطيل وضع المطور</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="79"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="84"/>
         <source>Preserve CLI module input/output files</source>
         <translation>الحفاظ على ملفات إدخال / إخراج وحدة CLI</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="87"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="97"/>
         <source>Enable/Disable QtTesting</source>
         <translation>تمكين / تعطيل اختبار Qt</translation>
     </message>
@@ -26052,22 +26144,22 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <translation>تثبيت الملحقات الإضافية المطلوبة تلقائيا عند تثبيت ملحق</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="91"/>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="94"/>
         <source>Enable/Disable extensions manager</source>
         <translation>تمكين / تعطيل مدير الامتدادات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="103"/>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="113"/>
         <source>Automatic update check</source>
         <translation>التحقق من التحديث التلقائي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="105"/>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="115"/>
         <source>Automatic update install</source>
         <translation>تثبيت التحديث التلقائي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="107"/>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="120"/>
         <source>Automatic install of dependencies</source>
         <translation>التثبيت التلقائي للتبعيات</translation>
     </message>
@@ -26199,28 +26291,28 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <translation>عنوان URL لخادم تحديث التطبيق</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="157"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="153"/>
         <source>Default scene path</source>
         <translation>مسار المشهد الافتراضي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="188"/>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="192"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="181"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="187"/>
         <source>Documentation location</source>
         <translation>موقع التوثيق</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="196"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="193"/>
         <source>Enable/Disable languages</source>
         <translation>تمكين/تعطيل اللغات</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="200"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="199"/>
         <source>Max. number of &apos;Recent&apos; menu items</source>
         <translation>الحد الأقصى لعدد عناصر القائمة &quot;الحديثة&quot;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="214"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="212"/>
         <source>Max. filename length</source>
         <translation>الحد الأقصى لطول اسم الملف</translation>
     </message>
@@ -26238,7 +26330,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <translation>تمكين التدويل:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="68"/>
+        <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="69"/>
         <source>Enable/Disable Internationalization</source>
         <translation>تمكين / تعطيل التدويل</translation>
     </message>
@@ -26464,17 +26556,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <translation>تحرك يمينا</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="180"/>
+        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="178"/>
         <source>Additional module paths</source>
         <translation>مسارات الوحدة النمطية الإضافية</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="188"/>
+        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="189"/>
         <source>Modules to ignore</source>
         <translation>وحدات لتجاهلها</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="322"/>
+        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="314"/>
         <source>Select folder</source>
         <translation>تحديد مجلد</translation>
     </message>
@@ -26544,7 +26636,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <translation>محرر بايثون.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="103"/>
+        <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="105"/>
         <source>Display Python console in a window that can be placed inside the main window.</source>
         <translation>عرض وحدة التحكم بيثون في النافذة التي يمكن وضعها داخل النافذة الرئيسية.</translation>
     </message>
@@ -26714,17 +26806,17 @@ p, li { مسافة بيضاء: التفاف مسبق; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; عند التمكين ، سيتم تذكر حجم التطبيق وموضعه في المرة التالية التي يتم فيها بدء تشغيل التطبيق. &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="102"/>
+        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="97"/>
         <source>Additional style paths</source>
         <translation>مسارات نمط إضافية</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="112"/>
+        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="104"/>
         <source>Current style</source>
         <translation>النمط الحالي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
+        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="238"/>
         <source>Select a path containing a &quot;styles&quot; plugin directory</source>
         <translation>حدد مسارا يحتوي على دليل المكون الإضافي &quot;الأنماط&quot;</translation>
     </message>
@@ -26777,7 +26869,7 @@ p, li { مسافة بيضاء: التفاف مسبق; }
         <translation>البريد الإلكتروني:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="169"/>
+        <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="161"/>
         <source>Invalid format</source>
         <translation>تنسيق غير صالح</translation>
     </message>
@@ -26804,25 +26896,25 @@ p, li { مسافة بيضاء: التفاف مسبق; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="94"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="193"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="264"/>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="86"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="82"/>
         <source>none</source>
         <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="198"/>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="87"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
         <source>cube</source>
         <translation>مكعب</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="203"/>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="88"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="84"/>
         <source>human</source>
         <translation>بشري</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="208"/>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="89"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="85"/>
         <source>axes</source>
         <translation>المحاور</translation>
     </message>
@@ -26961,102 +27053,102 @@ p, li { مسافة بيضاء: التفاف مسبق; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; استخدم أخذ العينات المتعددة للصقل بملء الشاشة. &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="80"/>
         <source>Multisampling (MSAA)</source>
         <translation>أخذ العينات المتعددة (MSAA)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="95"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="92"/>
         <source>Slice view orientation marker type</source>
         <translation>نوع علامة اتجاه عرض الشريحة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="101"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="99"/>
         <source>Slice view orientation marker size</source>
         <translation>حجم علامة اتجاه عرض الشريحة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="107"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
         <source>Slice view ruler type</source>
         <translation>نوع مسطرة عرض الشريحة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="109"/>
         <source>patient right is screen left (default)</source>
         <translation>المريض الأيمن يسار الشاشة (افتراضي)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
         <source>patient right is screen right</source>
         <translation>يمين المريض يمين الشاشة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="114"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="115"/>
         <source>Default slice view orientation</source>
         <translation>اتجاه عرض الشريحة الافتراضي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="121"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="123"/>
         <source>Slice edge visibility in 3D views</source>
         <translation>رؤية حواف الشرائح في العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="126"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="130"/>
         <source>3D view cube visibility</source>
         <translation>رؤية مكعب عرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="129"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="135"/>
         <source>3D view axis label visibility</source>
         <translation>رؤية تسمية محور العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="134"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="141"/>
         <source>3D view orientation marker type</source>
         <translation>نوع علامة اتجاه العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="140"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="148"/>
         <source>3D view orientation marker size</source>
         <translation>حجم علامة اتجاه العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="146"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="155"/>
         <source>3D view ruler type</source>
         <translation>نوع مسطرة العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="150"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="161"/>
         <source>3D depth peeling</source>
         <translation>تقشير عمق ثلاثي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="153"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="166"/>
         <source>Orthographic projection</source>
         <translation>إسقاط عمودي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="171"/>
         <source>Shadows visibility</source>
         <translation>رؤية الظلال</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="159"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="176"/>
         <source>Ambient shadows size scale</source>
         <translation>مقياس حجم الظلال المحيطة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="162"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="181"/>
         <source>Ambient shadows volume opacity threshold</source>
         <translation>عتبة عتامة حجم الظلال المحيطة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="165"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="186"/>
         <source>Ambient shadows intensity scale</source>
         <translation>مقياس شدة الظلال المحيطة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="168"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="191"/>
         <source>Ambient shadows intensity shift</source>
         <translation>تغير شدة الظلال المحيطة</translation>
     </message>
@@ -27083,45 +27175,45 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="601"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="598"/>
         <source>Label</source>
         <translation>تسمية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="602"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="598"/>
         <source>R</source>
         <translation>R</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="129"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="603"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="599"/>
         <source>A</source>
         <translation>A</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="130"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="604"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="129"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="600"/>
         <source>S</source>
         <translation>S</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="408"/>
         <source>Delete highlighted control points</source>
         <translation>احذف نقاط التحكم المبرز</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="409"/>
         <source>Move current control point up</source>
         <translation>حرك نقطة التحكم الحالية لأعلى</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="412"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
         <source>Move current control point down</source>
         <translation>حرك نقطة التحكم الحالية لأسفل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="413"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
         <source>Jump slices to control point</source>
         <translation>شرائح القفز للتحكم في نقطة</translation>
     </message>
@@ -27129,7 +27221,7 @@ p, li { مسافة بيضاء: التفاف مسبق; }
 <context>
     <name>qSlicerStandardFileDialog</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="294"/>
+        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="282"/>
         <source>Options:</source>
         <translation>خيارات:</translation>
     </message>
@@ -27137,12 +27229,12 @@ p, li { مسافة بيضاء: التفاف مسبق; }
 <context>
     <name>qSlicerSubjectHierarchyCloneNodePlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="71"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
         <source>Clone</source>
         <translation>استنساخ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="73"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="75"/>
         <source>Clone this item and its data node if any along with display and storage options</source>
         <translation>استنساخ هذا العنصر وعقدة البيانات الخاصة به إن وجدت بالإضافة إلى خيارات العرض والتخزين</translation>
     </message>
@@ -27150,7 +27242,7 @@ p, li { مسافة بيضاء: التفاف مسبق; }
 <context>
     <name>qSlicerSubjectHierarchyColorLegendPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="86"/>
+        <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="88"/>
         <source>Show color legend</source>
         <translation>إظهار وسيلة إيضاح الألوان</translation>
     </message>
@@ -27158,17 +27250,17 @@ p, li { مسافة بيضاء: التفاف مسبق; }
 <context>
     <name>qSlicerSubjectHierarchyDICOMPlugin</name>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="105"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="108"/>
         <source>Create new subject</source>
         <translation>إنشاء موضوع جديد</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="110"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="112"/>
         <source>Create child study</source>
         <translation>إنشاء دراسة الطفل</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="115"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="116"/>
         <source>Convert folder to subject</source>
         <translation>حوّل مجلد إلى موضوع</translation>
     </message>
@@ -27178,12 +27270,12 @@ p, li { مسافة بيضاء: التفاف مسبق; }
         <translation>حوّل مجلد إلى دراسة</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="125"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="124"/>
         <source>Export to DICOM...</source>
         <translation>تصدير إلى DICOM ...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="514"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="509"/>
         <source>Data to export need to be under a study item, placed under a patient item in the subject hierarchy.
 Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
 
@@ -27198,17 +27290,17 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 انقر فوق إلغاء، لإنشاء التسلسل الهرمي للمريض/الدراسة يدويًا وسحب وإسقاط البيانات القابلة للتصدير في إطار الدراسة.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="519"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="514"/>
         <source>Create new patient and study for DICOM export?</source>
         <translation>إنشاء مريض جديد ودراسة لتصدير DICOM؟</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="615"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="608"/>
         <source>Anonymous</source>
         <translation>مجهول</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="643"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="636"/>
         <source>No study description</source>
         <translation>لا يوجد وصف للدراسة</translation>
     </message>
@@ -27216,17 +27308,17 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyDefaultPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="81"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="84"/>
         <source>Show all children</source>
         <translation>أظهر جميع الأطفال</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="84"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="87"/>
         <source>Hide all children</source>
         <translation>إخفاء جميع الأطفال</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="133"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="136"/>
         <source>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Rename item&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Double-click the item name, or right-click the item and select &apos;Rename&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deform any branch using a transform (registration result)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Make sure the transform column is shown using the &apos;Show transforms&apos; checkbox. To transform a branch, right-click on the cell in the transform column of the row in question, and choose a transform.&lt;/span&gt;&lt;/p&gt;</source>
         <translation>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;أعد تسمية العنصر&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;انقر مرتين على اسم العنصر، أو انقر يمينًا على العنصر وحدد &apos;إعادة التسمية&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;تشويه أي فرع باستخدام تحويل (نتيجة التسجيل)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;تأكد من عرض عمود التحويل باستخدام صندوق الاختيار &apos;تحويل العرض&apos;. لتحويل فرع، انقر يمينًا على الخلية في عمود تحويل الصف المعني، واختر التحويل.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
@@ -27234,22 +27326,22 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="92"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="95"/>
         <source>Tractography labelmap seeding...</source>
         <translation>بذر خرائط التتبع...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="94"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="97"/>
         <source>Tractography interactive seeding...</source>
         <translation>التتبع التفاعلي البذر...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="173"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="176"/>
         <source>Invalid!</source>
         <translation>غير صالح!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="179"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="182"/>
         <source>Error!</source>
         <translation>خطأ!</translation>
     </message>
@@ -27257,12 +27349,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyExportPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="83"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="85"/>
         <source>Export to file...</source>
         <translation>تصدير إلى ملف...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="84"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="86"/>
         <source>Export this node to a file</source>
         <translation>صدّر هذه العقدة إلى ملفّ</translation>
     </message>
@@ -27270,12 +27362,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyFolderPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="98"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="100"/>
         <source>Create new folder</source>
         <translation>إنشاء مجلد جديد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="103"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="104"/>
         <source>Create child folder</source>
         <translation>إنشاء مجلد تابع</translation>
     </message>
@@ -27290,12 +27382,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <translation>في حالة التشغيل ، سترث العناصر الفرعية خصائص العرض (مثل اللون أو التعتيم) المعينة إلى المجلد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="116"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="115"/>
         <source>Show empty folders</source>
         <translation>أظهر مجلدات فارغة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="118"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
         <translation>إذا كان يعمل، فسيتم عرض المجلدات التي لا تحتوي على عقد (مسموح بها بواسطة أي مرشح) ، وإلا فلن يتم عرضها</translation>
     </message>
@@ -27303,7 +27395,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyLabelMapsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="89"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="92"/>
         <source>2D outline visibility</source>
         <translation>رؤية مخطط تفصيلي ثنائي الأبعاد</translation>
     </message>
@@ -27311,120 +27403,163 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyMarkupsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="140"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="142"/>
         <source>Rename control point...</source>
         <translation>إعادة تسمية نقطة التحكم...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="145"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="147"/>
         <source>Refocus camera on this point</source>
         <translation>أعد تركيز الكاميرا على هذه النقطة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="150"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="152"/>
         <source>Toggle select control point</source>
         <translation>تبديل تحديد نقطة التحكم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="155"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="157"/>
         <source>Jump to previous control point</source>
         <translation>الانتقال إلى نقطة التحكم السابقة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="156"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="158"/>
         <source>Jump slice views to the previous control point</source>
         <translation>الانتقال بين طرق عرض الشرائح إلى نقطة التحكم السابقة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="161"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="163"/>
         <source>Jump to next control point</source>
         <translation>الانتقال إلى نقطة التحكم التالية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="162"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="164"/>
         <source>Jump slice views to the next control point</source>
         <translation>الانتقال بين طرق عرض الشرائح إلى نقطة التحكم التالية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="167"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="169"/>
         <source>Jump to closest control point</source>
         <translation>الانتقال إلى أقرب نقطة تحكم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="168"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="170"/>
         <source>Jump slice views to the closest control point</source>
         <translation>الانتقال بين طرق عرض الشرائح إلى أقرب نقطة تحكم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="173"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="547"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="175"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="545"/>
         <source>Delete control point</source>
         <translation>حذف نقطة التحكم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="178"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="180"/>
         <source>Delete markup</source>
         <translation>حذف العلامات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="183"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="185"/>
         <source>Edit markup terminology...</source>
         <translation>تحرير مصطلحات العلامات...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="190"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="223"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="192"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="225"/>
         <source>Interaction</source>
         <translation>تفاعل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="196"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="228"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="198"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="230"/>
         <source>Translate</source>
         <translation>ترجمة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="201"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="233"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="235"/>
         <source>Rotate</source>
         <translation>استدارة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="206"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="238"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="208"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="240"/>
         <source>Scale</source>
         <translation>مقياس</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="216"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="248"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="218"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="250"/>
         <source>Interaction options</source>
         <translation>خيارات التفاعل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="543"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="541"/>
         <source>Clear control point position</source>
         <translation>محو موقع نقطة التحكم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="596"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="594"/>
         <source>Delete %1</source>
         <translation>حذف%1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="597"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="595"/>
         <source>Edit %1 terminology...</source>
         <translation>تحرير %1 المصطلحات...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="688"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="686"/>
         <source>Rename %1</source>
         <translation>إعادة تسمية%1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="688"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="686"/>
         <source>New name:</source>
         <translation>اسم جديد:</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyModelsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="186"/>
+        <source>Invalid item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="192"/>
+        <source>Error</source>
+        <translation type="unfinished">خطأ</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="198"/>
+        <source>Invalid model node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="200"/>
+        <source>Poly data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="205"/>
+        <source>Unstructured grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="209"/>
+        <source>Model node does not contain data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="214"/>
+        <source>Points: %1  Cells: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="223"/>
+        <source>Color: %1,%2,%3  Opacity: %4%</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -27435,7 +27570,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <translation>التدرج الهرمي للموضوع</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="50"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="49"/>
         <source>Subject Hierarchy</source>
         <translation>التدرج الهرمي للموضوع</translation>
     </message>
@@ -27443,13 +27578,13 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyOpacityPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="81"/>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="91"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="84"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="94"/>
         <source>Opacity</source>
         <translation>العتامة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="92"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="95"/>
         <source>Set item opacity in the sub-menu</source>
         <translation>ضبط عنصر عتمة في القائمة الفرعية</translation>
     </message>
@@ -27457,7 +27592,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyParseLocalDataPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="77"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="79"/>
         <source>Create hierarchy from loaded directory structure</source>
         <translation>أنشئ التسلسل الهرمي من هيكل الدليل المحمّل</translation>
     </message>
@@ -27465,12 +27600,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyPluginLogic</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="97"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="99"/>
         <source>Edit properties...</source>
         <translation>تحرير الخصائص...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="265"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="257"/>
         <source>Equal confidence number found for more than one subject hierarchy plugin for adding new node to subject hierarchy.
 
 Select plugin to add node named
@@ -27486,63 +27621,63 @@ Select plugin to add node named
 <context>
     <name>qSlicerSubjectHierarchyRegisterPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="93"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="96"/>
         <source>Register this...</source>
         <translation>سجل هذا...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="97"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
         <translation>حدد الحجم كصورة متحركة للتسجيل. يمكن تحديد المجلد الثاني من قائمة السياق بعد تعيين المجلد الأول.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="99"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="102"/>
         <source>Register * to this using...</source>
         <translation>سجل * لهذا باستخدام ...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="104"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="107"/>
         <source>Rigid image-based registration</source>
         <translation>تسجيل صارم يستند إلى الصور</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="108"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="111"/>
         <source>BSpline image-based registration</source>
         <translation>BSpline التسجيل القائم على الصورة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="112"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="115"/>
         <source>Interactive landmark registration</source>
         <translation>تسجيل المعلم التفاعلي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="117"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="120"/>
         <source>Cancel registration (or right-click another volume to start registration)</source>
         <translation>إلغاء التسجيل (أو انقر بزر الماوس الأيمن فوق وحدة تخزين أخرى لبدء التسجيل)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="118"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="121"/>
         <source>Right-click another volume to select second volume and start registration</source>
         <translation>انقر بزر الماوس الأيمن فوق وحدة تخزين أخرى لتحديد وحدة التخزين الثانية وبدء التسجيل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="216"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="219"/>
         <source>Register %1 to this using...</source>
         <translation>سجل %1 في هذا باستخدام ...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="260"/>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="346"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="262"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="340"/>
         <source>BRAINSRegistration_%1_To_%2</source>
         <translation>تسجيل الدماغ_%1_إلى_%2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="276"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="274"/>
         <source>LinearTransform_%1_To_%2</source>
         <translation>تحويل خطي_%1_إلى_%2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="362"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="352"/>
         <source>BSplineTransform_%1_To_%2</source>
         <translation>تحويل BSpline_%1_إلى_%2</translation>
     </message>
@@ -27550,62 +27685,62 @@ Select plugin to add node named
 <context>
     <name>qSlicerSubjectHierarchySegmentationsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="109"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="112"/>
         <source>Export visible segments to binary labelmap</source>
         <translation>تصدير المقاطع المرئية إلى خريطة التسمية الثنائية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="112"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="115"/>
         <source>Export visible segments to models</source>
         <translation>تصدير الشرائح المرئية إلى النماذج</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="115"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="118"/>
         <source>Convert labelmap to segmentation node</source>
         <translation>تحويل خريطة التسمية إلى عقدة تجزئة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="118"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="121"/>
         <source>Convert model to segmentation node</source>
         <translation>تحويل النموذج إلى عقدة تجزئة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="121"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="124"/>
         <source>Convert models to segmentation node</source>
         <translation>تحويل النماذج إلى عقدة تجزئة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="124"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
         <source>Create binary labelmap representation</source>
         <translation>إنشاء تمثيل لمخطط تفصيلي ثنائي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="126"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="129"/>
         <source>Create closed surface representation</source>
         <translation>إنشاء تمثيل سطح مغلق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="129"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="132"/>
         <source>Remove binary labelmap representation</source>
         <translation>إزالة تمثيل خريطة التسمية الثنائية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="131"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="134"/>
         <source>Remove closed surface representation</source>
         <translation>إزالة تمثيل السطح المغلق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="134"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="137"/>
         <source>2D fill visibility</source>
         <translation>رؤية تعبئة ثنائية الأبعاد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="139"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="142"/>
         <source>2D outline visibility</source>
         <translation>رؤية مخطط تفصيلي ثنائي الأبعاد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="281"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="283"/>
         <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to import node &apos;%3&apos; to segmentation &apos;%4&apos;.
 
 Would you like to change the source representation of &apos;%4&apos; to &apos;%1&apos;?
@@ -27623,17 +27758,17 @@ Note: This may result in unwanted data loss in %4.</oldsource>
 ملاحظة: قد يؤدي ذلك إلى فقدان البيانات غير المرغوب فيها في %4.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="289"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="291"/>
         <source>Failed to import data to segmentation</source>
         <translation>فشل استيراد البيانات إلى التجزئة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="297"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
         <source>Failed to convert %1 to %2</source>
         <translation>فشل تحويل %1 إلى %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
         <source>Conversion failed</source>
         <translation>فشل التحويل</translation>
     </message>
@@ -27649,24 +27784,24 @@ Note: This may result in unwanted data loss in %4.</oldsource>
         <translation> (التمثيلات: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="381"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="380"/>
         <source>None)</source>
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="396"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="394"/>
         <source> (Source representation: %1)</source>
         <oldsource> (Master representation: %1)</oldsource>
         <translation> (تمثيل المصدر:%1)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="399"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
         <source> (Number of segments: %1)</source>
         <extracomment>parameter is the representation name</extracomment>
         <translation> (عدد المقاطع: %1)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1001"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1058"/>
         <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
@@ -27675,17 +27810,17 @@ Please visit the Segmentation module and try the advanced create representation 
 يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء تمثيل متقدمة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1005"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1062"/>
         <source>Failed to export segmentation to labelmap node</source>
         <translation>فشل تصدير التجزئة إلى عقدة خريطة التسمية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1025"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1080"/>
         <source>-label</source>
         <translation>-تسميه</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1041"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
         <source>Failed to export segments from segmentation %1 to labelmap node!
 
 Most probably the segment cannot be converted into binary labelmap representation</source>
@@ -27694,13 +27829,13 @@ Most probably the segment cannot be converted into binary labelmap representatio
 على الأرجح لا يمكن تحويل المقطع إلى تمثيل ثنائي لخريطة التسمية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1045"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1100"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1152"/>
         <source>Failed to export segments</source>
         <translation>فشل تصدير الشرائح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1066"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1120"/>
         <source>Failed to create closed surface representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
@@ -27709,18 +27844,18 @@ Please visit the Segmentation module and try the advanced create representation 
 يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء تمثيل متقدمة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1070"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1340"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1124"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1386"/>
         <source>Failed to export segmentation to models</source>
         <translation>فشل تصدير التجزئة إلى النماذج</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1075"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1130"/>
         <source>-models</source>
         <translation>-نماذج</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1148"/>
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
@@ -27729,7 +27864,7 @@ Most probably the segment cannot be converted into closed surface representation
 على الأرجح لا يمكن تحويل القطعة إلى تمثيل سطح مغلق.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1335"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1381"/>
         <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
@@ -27741,51 +27876,51 @@ Please visit the Segmentation module and try the advanced create representation 
 <context>
     <name>qSlicerSubjectHierarchySegmentsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="99"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="102"/>
         <source>Show only this segment</source>
         <translation>إظهار هذا المقطع فقط</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="103"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="106"/>
         <source>Show all segments</source>
         <translation>عرض جميع القطاعات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="107"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="110"/>
         <source>Jump slices</source>
         <translation>الانتقال إلى شرائح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="114"/>
         <source>Clone</source>
         <translation>استنساخ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="116"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="126"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="121"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="131"/>
         <source>Opacity</source>
         <translation>العتامة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="127"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="132"/>
         <source>Set segment opacity in the sub-menu</source>
         <translation>تعيين عتامة المقطع في القائمة الفرعية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="230"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="239"/>
         <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
 Please check the error window for details.</source>
         <translation>قد يكون معرف المقطع للمقطع المنقول (%1) موجودا في التقسيم المستهدف.
 يرجى التحقق من نافذة الخطأ للحصول على التفاصيل.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="232"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="245"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="242"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="257"/>
         <source>Failed to move segment between segmentations</source>
         <translation>فشل نقل المقطع بين الأجزاء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="237"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="247"/>
         <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
@@ -27803,30 +27938,30 @@ Note: This may result in unwanted data loss in %5.</oldsource>
 ملاحظة: قد يؤدي ذلك إلى فقدان البيانات غير المرغوب فيها في %5.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="254"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="264"/>
         <source>Failed to convert %1 to %2</source>
         <translation>فشل تحويل %1 إلى %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="256"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="265"/>
         <source>Conversion failed</source>
         <translation>فشل التحويل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="323"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="329"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="335"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="331"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="337"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="343"/>
         <source>Invalid</source>
         <translation>غير صالح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="369"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="393"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="376"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="399"/>
         <source>None</source>
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="406"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="412"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
         <translation>الشريحة - المعرف:%1، التمثيلات:%2، اللون: (%3،%4،%5)
@@ -27903,32 +28038,32 @@ Tags: %6</source>
         <translation>  تاريخ الميلاد:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="75"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="77"/>
         <source>Enable/disable automatic subject hierarchy children deletion</source>
         <translation>تمكين/تعطيل الحذف التلقائي للأطفال في تسلسل الموضوعات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="79"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="84"/>
         <source>Include patient ID in the name of the patient item</source>
         <translation>يجب تضمين رقم الهوية للمريض في اسم عنصر المريض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="82"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="90"/>
         <source>Include patient birth date in the name of the patient item</source>
         <translation>تضمين تاريخ ميلاد المريض في اسم عنصر المريض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="85"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="96"/>
         <source>Include study ID in the name of the study item</source>
         <translation>قم بتضمين رقم الدراسة في اسم عنصر الدراسة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="88"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="102"/>
         <source>Include study date in the name of the study item</source>
         <translation>قم بتضمين تاريخ الدراسة في اسم عنصر الدراسة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="91"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="108"/>
         <source>Use standard terminology for color selection</source>
         <translation>استخدم المصطلحات القياسية لاختيار الألوان</translation>
     </message>
@@ -27936,53 +28071,53 @@ Tags: %6</source>
 <context>
     <name>qSlicerSubjectHierarchyTransformsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="168"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="170"/>
         <source>Invert transform</source>
         <translation>عكس التحويل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="173"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="175"/>
         <source>Reset transform to identity</source>
         <translation>إعادة تعيين التحويل إلى الهوية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="178"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="180"/>
         <source>Transform origin</source>
         <translation>تحويل الأصل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="182"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="184"/>
         <source>Transformed nodes</source>
         <translation>العقد المحولة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="192"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="193"/>
         <source>Reset center of transformation</source>
         <translation>مركز إعادة الضبط للتحول</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="199"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="200"/>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="237"/>
         <source>Interaction</source>
         <translation>تفاعل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="206"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="207"/>
         <source>Translate</source>
         <translation>ترجمة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="212"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="213"/>
         <source>Rotate</source>
         <translation>تدوير</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="218"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="219"/>
         <source>Scale</source>
         <translation>مقياس</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="230"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="231"/>
         <source>Interaction options</source>
         <translation>خيارات التفاعل</translation>
     </message>
@@ -27992,52 +28127,52 @@ Tags: %6</source>
         <translation>السماح بتعديل التحويل تفاعليًا في عرضي 2D و 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="246"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="243"/>
         <source>Edit transform properties...</source>
         <translation>تحرير تحويل الخصائص...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="249"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="245"/>
         <source>Edit properties of the current transform</source>
         <translation>تحرير خصائص التحويل الحالي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="253"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="248"/>
         <source>Harden transform</source>
         <translation>تحويل هاردن</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="256"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="250"/>
         <source>Harden current transform on this node and all children nodes</source>
         <translation>تحويل التيار المتصلب على هذه العقدة وجميع العقد الفرعية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="260"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="253"/>
         <source>Create new transform</source>
         <translation>قم بإنشاء تحويل جديد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="263"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="255"/>
         <source>Create and apply new transform</source>
         <translation>إنشاء وتطبيق تحويل جديد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="267"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="258"/>
         <source>None</source>
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="273"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="263"/>
         <source>Remove parent transform from all the nodes in this branch</source>
         <translation>إزالة التحويل الأصل من جميع العقد في هذا الفرع</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="622"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="605"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>تم بالفعل تحويل بعض العقد في الفرع</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="623"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="606"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
@@ -28046,12 +28181,12 @@ Tags: %6</source>
   ملاحظة: إذا اخترت &quot;لا&quot; ، فسيتم ببساطة استبدال التحويل المطبق.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="721"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="702"/>
         <source>Transform to parent:</source>
         <translation>التحويل إلى الوالد:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="723"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="702"/>
         <source>Transform from parent:</source>
         <translation>التحويل من الوالد:</translation>
     </message>
@@ -28059,12 +28194,12 @@ Tags: %6</source>
 <context>
     <name>qSlicerSubjectHierarchyViewContextMenuPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="117"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="119"/>
         <source>View transform</source>
         <translation>عرض التحويل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="123"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="124"/>
         <source>Adjust window/level</source>
         <translation>ضبط النافذة / المستوى</translation>
     </message>
@@ -28074,133 +28209,133 @@ Tags: %6</source>
         <translation>مكان</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="151"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="150"/>
         <source>Center view</source>
         <translation>عرض المركز</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="153"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="152"/>
         <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
         <translation>توسيط الشريحة على محتوى العرض ثلاثي الأبعاد المرئي حاليا وكافة وحدات التخزين المحملة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="157"/>
         <source>Refocus camera on this point</source>
         <translation>أعد تركيز الكاميرا على هذه النقطة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
         <source>Set the camera focus to rotate around this point.</source>
         <translation>اضبط تركيز الكاميرا للتدوير حول هذه النقطة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="163"/>
         <source>Reset field of view</source>
         <translation>إعادة تعيين مجال الرؤية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="168"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="165"/>
         <source>Center the slice view on the currently displayed volume.</source>
         <translation>توسيط عرض الشريحة على وحدة التخزين المعروضة حاليا.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="173"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="169"/>
         <source>Refocus cameras on this point</source>
         <translation>أعد تركيز الكاميرات على هذه النقطة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="171"/>
         <source>Set the focus of all cameras to rotate around this point.</source>
         <translation>اضبط تركيز جميع الكاميرات للتدوير حول هذه النقطة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="183"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
         <source>Show this view maximized in the view layout</source>
         <translation>إظهار طريقة العرض هذه مكبرة في تخطيط طريقة العرض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="188"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="181"/>
         <source>Tilt lock</source>
         <translation>قفل الإمالة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="183"/>
         <source>Prevent rotation around the horizontal axis when rotating this view.</source>
         <translation>منع الدوران حول المحور الأفقي عند تدوير هذا العرض.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="192"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="185"/>
         <source>Ctrl+b</source>
         <translation>Ctrl+b</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="198"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
         <source>Configure slice view annotations...</source>
         <translation>تكوين التعليقات التوضيحية لعرض الشرائح...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="200"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="192"/>
         <source>Configures display of corner annotations and color legend.</source>
         <translation>تكوين عرض التعليقات التوضيحية الركنية وأدلة الألوان.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="206"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="197"/>
         <source>Copy image</source>
         <translation>نسخ الصورة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="208"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="199"/>
         <source>Copy a screenshot of this view to the clipboard</source>
         <translation>نسخ لقطة شاشة لطريقة العرض هذه إلى الحافظة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="216"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="207"/>
         <source>Slice intersections</source>
         <translation>تقاطعات الشرائح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="218"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="209"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
         <translation>اعرض كيف تتقاطع مستويات الشرائح الأخرى مع كل مستوى شريحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="226"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="216"/>
         <source>Interaction</source>
         <translation>تفاعل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="228"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="218"/>
         <source>Show handles for slice interaction.</source>
         <translation>إظهار مقابض تفاعل الشريحة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="238"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="227"/>
         <source>Thick slab reconstruction</source>
         <translation>إعادة بناء بلاطة سميكة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="240"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="229"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
         <translation>مكّن إعادة بناء الألواح السميكة (TSR). يستخدم TSR لدمج الشرائح المتجاورة ضمن نطاق معين.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="249"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="236"/>
         <source>Interactive</source>
         <translation>تفاعلية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="251"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="239"/>
         <source>Show handles for interactively adjusting slab reconstruction thickness.</source>
         <translation>أظهر مقابض لتعديل سمك إعادة بناء البلاطة بشكل تفاعلي.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="366"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="340"/>
         <source>Restore view layout</source>
         <translation>استعادة تخطيط العرض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="181"/>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="370"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="344"/>
         <source>Maximize view</source>
         <translation>تكبير العرض</translation>
     </message>
@@ -28208,17 +28343,17 @@ Tags: %6</source>
 <context>
     <name>qSlicerSubjectHierarchyVisibilityPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="80"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="83"/>
         <source>Show in all views</source>
         <translation>إظهار في جميع طرق العرض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="83"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="86"/>
         <source>2D visibility</source>
         <translation>رؤية ثنائية الأبعاد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="88"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="91"/>
         <source>3D visibility</source>
         <translation>رؤية ثلاثية الأبعاد</translation>
     </message>
@@ -28226,17 +28361,17 @@ Tags: %6</source>
 <context>
     <name>qSlicerSubjectHierarchyVolumeRenderingPlugin</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="92"/>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="95"/>
         <source>Show in 3D views as volume rendering</source>
         <translation>إظهار في طرق العرض الثلاثية الأبعاد كعرض وحدة التخزين</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="97"/>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="100"/>
         <source>Volume rendering options...</source>
         <translation>خيارات عرض وحدة التخزين...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="101"/>
         <source>Switch to Volume Rendering module to manage display options</source>
         <translation>التبديل إلى وحدة عرض الحجم لإدارة خيارات العرض</translation>
     </message>
@@ -28244,47 +28379,47 @@ Tags: %6</source>
 <context>
     <name>qSlicerSubjectHierarchyVolumesPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="135"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="137"/>
         <source>Show volumes in folder</source>
         <translation>إظهار وحدات التخزين في مجلد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="138"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="140"/>
         <source>Show in slice views as foreground</source>
         <translation>إظهار في طرق عرض الشرائح كمقدمة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="141"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="143"/>
         <source>Reset field of view on show</source>
         <translation>إعادة تعيين مجال الرؤية عند العرض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="146"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="148"/>
         <source>Reset view orientation on show</source>
         <translation>إعادة تعيين اتجاه العرض في العرض</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="153"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="155"/>
         <source>Show color legend</source>
         <translation>إظهار وسيلة إيضاح الألوان</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="162"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="164"/>
         <source>Window/level presets</source>
         <translation>الإعدادات المسبقة للنافذة/المستوى</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="186"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="188"/>
         <source>Default preset for the selected volume</source>
         <translation>الإعداد الافتراضي للمجلد المحدد</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="194"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="196"/>
         <source>Automatic</source>
         <translation>تلقائي</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="196"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="198"/>
         <source>Display the full intensity range of the volume.</source>
         <translation>عرض النطاق الكامل للحجم.</translation>
     </message>
@@ -28294,27 +28429,27 @@ Tags: %6</source>
         <translation>الافتراضي (WW = %1 ، WL = %2)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="466"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="464"/>
         <source>Invalid</source>
         <translation>غير صالح</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="472"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="470"/>
         <source>Error</source>
         <translation>خطأ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="487"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="485"/>
         <source>Dimensions:</source>
         <translation>أبعاد:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="488"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="489"/>
         <source>Spacing:</source>
         <translation>تباعد:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="492"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="496"/>
         <source> Empty volume</source>
         <translation> حجم فارغ</translation>
     </message>
@@ -28335,7 +28470,7 @@ Tags: %6</source>
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModule</name>
     <message>
-        <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="42"/>
+        <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
         <translation>qSlicerSuperLoadableModuleTemplateModule</translation>
     </message>
@@ -28540,17 +28675,17 @@ Tags: %6</source>
 <context>
     <name>qSlicerTablesModule</name>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="46"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="44"/>
         <source>Tables</source>
         <translation>الجداول</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="75"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="74"/>
         <source>The Tables module allows displaying and editing of spreadsheets.</source>
         <translation>تسمح وحدة الجداول بعرض وتحرير جداول البيانات.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="83"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="82"/>
         <source>This work was was partially funded by OCAIRO, the Applied Cancer Research Unit program of Cancer Care Ontario, and Department of Anesthesia and Critical Care Medicine, Children&apos;s Hospital of Philadelphia.</source>
         <translation>تم تمويل هذا العمل جزئيًا من قبل OCAIRO، وبرنامج وحدة أبحاث السرطان التطبيقية لرعاية مرضى السرطان في أونتاريو، وقسم التخدير وطب الرعاية الحرجة، مستشفى الأطفال في فيلادلفيا.</translation>
     </message>
@@ -28574,7 +28709,7 @@ Tags: %6</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="119"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="121"/>
         <source>Copy</source>
         <translation>نسخ</translation>
     </message>
@@ -28592,7 +28727,7 @@ Tags: %6</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="127"/>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="126"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="128"/>
         <source>Paste</source>
         <translation>لصق</translation>
     </message>
@@ -28642,17 +28777,17 @@ Tags: %6</source>
         <translation>الإعدادات الافتراضية للأعمدة الجديدة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="134"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="135"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation>قم بإنشاء مخطط تفاعلي بناء على اختيار المستخدم لأعمدة الجدول.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="207"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="208"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation>انقر لإلغاء تأمين هذا الجدول بحيث يمكن تعديل القيم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="213"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
         <translation>انقر لتأمين هذا الجدول لمنع تعديل القيم في واجهة المستخدم</translation>
     </message>
@@ -28660,22 +28795,22 @@ Tags: %6</source>
 <context>
     <name>qSlicerTablesReader</name>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="147"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="144"/>
         <source>Table reading failed: no file extension specified: %1</source>
         <translation>فشلت قراءة الجدول: لم يتم تحديد امتداد الملف: %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="162"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="158"/>
         <source>QInputDialog::getText()</source>
         <translation>QInputDialog::getText()</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="163"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="158"/>
         <source>Database Password:</source>
         <translation>كلمة مرور قاعدة البيانات:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="188"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
         <translation>فشل في قراءة الجدول من &quot;%1&quot;</translation>
     </message>
@@ -28696,8 +28831,8 @@ Tags: %6</source>
 <context>
     <name>qSlicerTemplateKeyModule</name>
     <message>
-        <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="42"/>
-        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="42"/>
+        <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="39"/>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="40"/>
         <source>TemplateKey</source>
         <translation>مفتاح القالب</translation>
     </message>
@@ -28719,17 +28854,17 @@ Tags: %6</source>
     <name>qSlicerTerminologiesModule</name>
     <message>
         <location filename="Modules/Loadable/Terminologies/Resources/UI/qSlicerTerminologiesModule.ui" line="14"/>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.h" line="46"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.h" line="44"/>
         <source>Terminologies</source>
         <translation>المصطلحات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="68"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="67"/>
         <source>The Terminologies module enables viewing and editing terminology dictionaries used for segmentation.</source>
         <translation>تتيح وحدة المصطلحات عرض وتحرير قواميس المصطلحات المستخدمة للتجزئة.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="76"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="75"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
         <translation>هذا العمل جزء من مشروع SparKit ،بتمويل من برنامج ACRU التابع لرعاية مرضى السرطان في أونتاريو (CCO) واتحاد أونتاريو للتدخلات التكيفية في علاج الأورام بالإشعاع (OCAIRO).</translation>
     </message>
@@ -28820,14 +28955,14 @@ Tags: %6</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="274"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="884"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="861"/>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation>لا يوجد نوع تعديل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1351"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1321"/>
         <source>No region modifier</source>
         <oldsource>Select anatomic region modifier...</oldsource>
         <translation>لا توجد منطقة معدلة</translation>
@@ -28859,30 +28994,30 @@ Tags: %6</source>
         <translation>لون:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="249"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="253"/>
         <source>None</source>
         <translation>لا شيء</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1902"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1874"/>
         <source>%1, %2</source>
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)</extracomment>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1919"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1889"/>
         <source>%1 in %2, %3</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
         <translation>%1 في%2,%3</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1927"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1894"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;)</extracomment>
         <translation>%1 في%2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1212"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1186"/>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
@@ -28891,7 +29026,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
 هل ترغب في تحديث ملف السياق المخزن بالملف الذي تم تحميله للتو؟</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1215"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1190"/>
         <source>Context file exists</source>
         <translation>ملف السياق موجود</translation>
     </message>
@@ -28904,12 +29039,12 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <translation>النصوص</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="89"/>
+        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="88"/>
         <source>A module to create, edit and manage text data in the scene.</source>
         <translation>وحدة لإنشاء وتحرير وإدارة بيانات النص في المشهد.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="97"/>
+        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="96"/>
         <source>This work was supported through CANARIE&apos;s Research Software Program, and Cancer Care Ontario. The Texts module was contributed by Kyle Sunderland and Andras Lasso (Perk Lab, Queen&apos;s University)</source>
         <translation>تم دعم هذا العمل من خلال برنامج البرمجيات البحثية لكَنارِي، ورعاية السرطان في أونتاريو. تم تقديم وحدة النصوص بواسطة Kyle Sunderland و Andras Lasso (Perk Lab, Queen&apos;s University)</translation>
     </message>
@@ -28955,17 +29090,17 @@ Do you wish to update the stored context file with the just loaded one?</source>
 <context>
     <name>qSlicerTransformsModule</name>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="55"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="54"/>
         <source>Transforms</source>
         <translation>التحويلات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="98"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="97"/>
         <source>The Transforms Module creates and edits transforms.</source>
         <translation>وحدة التحويلات تقوم بإنشاء وتحرير التحويلات.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="106"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="105"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
     </message>
@@ -29145,22 +29280,22 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <translation>طبق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="132"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="131"/>
         <source>Copy</source>
         <translation>نسخ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="138"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="137"/>
         <source>Paste</source>
         <translation>لصق</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="780"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="736"/>
         <source>Conversion failed</source>
         <translation>فشل التحويل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="780"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="736"/>
         <source>Failed to convert transform. See application log for details.</source>
         <translation>فشل تحويل التحويل. راجع سجل التطبيق للحصول على التفاصيل.</translation>
     </message>
@@ -29168,7 +29303,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
 <context>
     <name>qSlicerUnitsModule</name>
     <message>
-        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="47"/>
+        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="45"/>
         <source>Units</source>
         <translation>الوحدات</translation>
     </message>
@@ -29209,7 +29344,7 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>qSlicerViewControllersModule</name>
     <message>
-        <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="50"/>
+        <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="48"/>
         <source>View Controllers</source>
         <translation>عرض وحدات التحكم</translation>
     </message>
@@ -29275,203 +29410,203 @@ This should only used by advanced users who understand the consequences of chang
         <translation>يتم إزاحة مستويات عرض الشريحة لمطابقة موضع الخطوط المتقاطعة (حتى إذا لم يتم عرض الخطوط المتقاطعة).</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="72"/>
         <source>Jump slices - centered</source>
         <translation>شرائح القفز - في المنتصف</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="74"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
         <translation>تتمركز عروض الشريحة في موضع الخطوط المتقاطعة (حتى إذا لم يتم عرض الخطوط المتقاطعة).</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="92"/>
         <source>No crosshair</source>
         <translation>لا يوجد تقاطع</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="93"/>
         <source>No crosshair displayed.</source>
         <translation>لا يوجد تقاطع معروض.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="97"/>
         <source>Basic crosshair</source>
         <translation>التقاطع الأساسي</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="98"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
         <translation>يمتد التقاطع الأساسي عبر مجال الرؤية مع وجود فجوة صغيرة في موضع التقاطع .</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="102"/>
         <source>Basic + intersection</source>
         <translation>أساسي + تقاطع</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="103"/>
         <source>Basic crosshair extending across the field of view.</source>
         <translation>التقاطع الأساسي الممتد عبر مجال الرؤية.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="107"/>
         <source>Small basic crosshair</source>
         <translation>خط التقاطع الأساسي الصغير</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="108"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
         <translation>تقاطع صغير مع وجود فجوة صغيرة في موضع التقاطع .</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="112"/>
         <source>Small basic + intersection</source>
         <translation>أساسي صغير + تقاطع</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="113"/>
         <source>Small crosshair.</source>
         <translation>تقاطع صغير.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="136"/>
         <source>Fine crosshair</source>
         <translation>خط متقاطع ناعم</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="137"/>
         <source>Fine crosshair.</source>
         <translation>خط متقاطع ناعم.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="141"/>
         <source>Medium crosshair</source>
         <translation>خط متقاطع متوسط</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="142"/>
         <source>Medium crosshair.</source>
         <translation>خط متقاطع متوسط.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Thick crosshair</source>
         <translation>التقاطع السميك</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Thick crosshair.</source>
         <translation>تقاطع سميك.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="176"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="186"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="187"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="161"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="171"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="172"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="181"/>
         <source>Crosshair</source>
         <translation>التقاطع</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="180"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
         <translation>تبديل رؤية الخطوط المتقاطعة. اضغط مع الاستمرار على مفتاح Shift وحرك الماوس في طريقة عرض لتعيين موضع الخطوط المتقاطعة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="213"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="193"/>
         <source>Full lines</source>
         <translation>خطوط كاملة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="215"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="194"/>
         <source>Full slice intersection lines extending across the field of view.</source>
         <translation>خطوط تقاطع كاملة الشريحة تمتد عبر مجال الرؤية.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="220"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="199"/>
         <source>Skip line crossings</source>
         <translation>تخطي تقاطعات الخطوط</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="222"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="201"/>
         <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
         <translation>شريحة خطوط التقاطع الممتدة عبر مجال الرؤية مع وجود فجوة عند التقاطع.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="243"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="218"/>
         <source>Fine lines</source>
         <translation>الخطوط الدقيقة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="219"/>
         <source>Fine lines.</source>
         <translation>الخطوط الدقيقة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="224"/>
         <source>Medium lines</source>
         <translation>خطوط متوسطة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="225"/>
         <source>Medium lines.</source>
         <translation>خطوط متوسطة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="254"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="229"/>
         <source>Thick lines</source>
         <translation>خطوط سميكة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="255"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="230"/>
         <source>Thick lines.</source>
         <translation>خطوط سميكة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="275"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="245"/>
         <source>Interaction</source>
         <translation>تفاعل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="276"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="246"/>
         <source>Show handles for slice interaction.</source>
         <translation>إظهار المقابض للتفاعل مع الشرائح.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="252"/>
         <source>Translate</source>
         <translation>ترجمة</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="253"/>
         <source>Control visibility of translation handles for slice intersection.</source>
         <translation>التحكم في رؤية مقابض الترجمة لتقاطع الشريحة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="258"/>
         <source>Rotate</source>
         <translation>تدوير</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="259"/>
         <source>Control visibility of rotation handles for slice intersection.</source>
         <translation>التحكم في رؤية مقابض الدوران لتقاطع الشريحة.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="299"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="264"/>
         <source>Interaction options</source>
         <translation>خيارات التفاعل</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="304"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="319"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="327"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="269"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
         <source>Slice intersections</source>
         <translation>تقاطعات الشرائح</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
         <translation>تبديل رؤية تقاطع الشريحة. اضغط باستمرار على مفتاح Shift وحرك الماوس في العرض لتعيين موضع تقاطع الشريحة.</translation>
     </message>
@@ -29484,27 +29619,27 @@ This should only used by advanced users who understand the consequences of chang
         <translation>عرض الحجم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="81"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="80"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
         <translation>توفر وحدة عرض الحجم أدوات متقدمة لتبديل عرض الحجم التفاعلي لمجموعات البيانات..&lt;br/&gt;إذا كان مدعومًا ، فسيتم توفير عرض وحدة الحجم المسرَّع بالأجهزة.تسمح الوحدة بتحديد وظائف النقل المحددة مسبقًا لتلوين وتعيين عتامة البيانات بطريقة مناسبة للمهمة ،وأدوات لتخصيص وظائف النقل التي تحدد هذه المعلمات.&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="102"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="100"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
         <translation>هذا العمل مدعوم من NA-MIC و NAC و BIRN و NCIGT و Slicer Community. ساهمت شركة Kitware Inc. في بعض وظائف النقل. (VolView)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="143"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="139"/>
         <source>Volume rendering</source>
         <translation>عرض وحدة تخزين</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="150"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="146"/>
         <source>Transfer Function</source>
         <translation>وظيفة النقل</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="155"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="150"/>
         <source>Shader Property</source>
         <translation>خاصية تظليل</translation>
     </message>
@@ -29577,94 +29712,120 @@ This should only used by advanced users who understand the consequences of chang
         <translation type="unfinished">قص</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="323"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="340"/>
         <source>Clipping:</source>
         <translation type="unfinished">قص:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="347"/>
         <source>Clip node:</source>
         <translation type="unfinished">عقدة القص:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="374"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
         <source>Soft edge:</source>
         <translation type="unfinished">حافة ناعمة:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="409"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="320"/>
+        <source>Auto</source>
+        <translation type="unfinished">تلقائي</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="357"/>
+        <source>Blank value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="471"/>
         <source>Advanced...</source>
         <translation>متقدم...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="437"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="499"/>
         <source>Techniques</source>
         <translation>التقنيات</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="443"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="505"/>
         <source>GPU memory size:</source>
         <translation>حجم ذاكرة وحدة معالجة الرسومات:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="450"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="512"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
         <translation>مقدار الذاكرة المخصصة لعرض الحجم على بطاقة الرسومات. يمكن تعديل &quot;الافتراضي&quot; في الإعدادات.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="460"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="522"/>
         <source>Quality:</source>
         <translation>جودة:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="474"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="536"/>
         <source>Interactive speed:</source>
         <translation>السرعة التفاعلية:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="493"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="555"/>
         <source> fps</source>
         <translation> لقطة في الثانية</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="500"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="562"/>
         <source>Advanced rendering properties</source>
         <translation>خصائص التحصيير المتقدمة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="531"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="593"/>
         <source>Auto-release resources:</source>
         <translation>موارد الإصدار التلقائي:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="538"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="600"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
         <translation>قم بتفريغ وحدات التخزين على الفور من ذاكرة الرسومات عندما لا تكون مرئية. يقلل من استخدام الذاكرة ولكنه يجعل تبديل مستوى الصوت أبطأ.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="549"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="611"/>
         <source>Volume properties</source>
         <translation>‮خصائص الحجم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="578"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="640"/>
         <source>Synchronize with Volumes module</source>
         <translation>تزامن مع وحدات الحجم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="591"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="653"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
         <translation>لا تستخدم قيم الحد. قم بتعيين منحدر التعتيم من نطاق النافذة / المستوى بدلا من ذلك.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="594"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="656"/>
         <source>Ignore threshold</source>
         <translation>تجاهل العتبة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="621"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="683"/>
         <source>ROI</source>
         <translation>ROI</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="509"/>
+        <source>Clipping disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="513"/>
+        <source>Using fast clipping method.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="518"/>
+        <source>Using slow clipping method.
+%1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -29700,9 +29861,14 @@ This should only used by advanced users who understand the consequences of chang
     <name>qSlicerVolumeRenderingReader</name>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="83"/>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="97"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
         <source>Transfer Function</source>
         <translation>وظيفة النقل</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
+        <source>Volume Property</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -29849,7 +30015,7 @@ This should only used by advanced users who understand the consequences of chang
         <translation>وحدة وحدات التخزين هي واجهة لضبط النافذة والمستوى والعتبة ولون LUT والمعلمات الأخرى التي تتحكم في عرض بيانات صورة وحدة التخزين في المشهد.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="92"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="91"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
     </message>
@@ -29892,12 +30058,12 @@ This should only used by advanced users who understand the consequences of chang
         <translation>وسيلة إيضاح اللون</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="130"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="124"/>
         <source>Convert to label map:</source>
         <translation>تحويل إلى خريطة التسمية:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="136"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="130"/>
         <source>Convert to scalar volume:</source>
         <translation>التحويل إلى الحجم القياسي:</translation>
     </message>
@@ -29911,17 +30077,17 @@ This should only used by advanced users who understand the consequences of chang
         <translation>حجم</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Dicom</source>
         <translation>Dicom</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="110"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>Image</source>
         <translation>صورة</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="111"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>All Files</source>
         <translation>جميع الملفات</translation>
     </message>
@@ -29930,7 +30096,7 @@ This should only used by advanced users who understand the consequences of chang
     <name>qSlicerWebDownloadWidget</name>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="179"/>
         <source>Web download</source>
         <translation>تنزيل من الويب</translation>
     </message>
@@ -29961,7 +30127,7 @@ This should only used by advanced users who understand the consequences of chang
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="138"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="139"/>
         <source>Cancel</source>
         <translation>لالغاء</translation>
     </message>
@@ -29971,13 +30137,13 @@ This should only used by advanced users who understand the consequences of chang
         <translation>حفظ الملف</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="124"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="126"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="125"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="127"/>
         <source>Downloading %1</source>
         <translation>تحميل%1</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="179"/>
         <source>Download complete</source>
         <translation>تم التحميل</translation>
     </message>
@@ -30008,17 +30174,17 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>qSlicerWebWidget</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="387"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="376"/>
         <source>bytes/sec</source>
         <translation>بايت/ثانية</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="391"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="381"/>
         <source>kB/s</source>
         <translation>كيلوبايت/ثانية</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="396"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="386"/>
         <source>MB/s</source>
         <translation>ميجابايت/ ثانية</translation>
     </message>
@@ -30031,7 +30197,7 @@ This should only used by advanced users who understand the consequences of chang
         <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT و CTSC و Slicer Community. راجع &lt;a href=&quot;https://www.slicer.org&quot;&gt; https://www.slicer.org &lt;/a&gt; للحصول على التفاصيل. نود أيضًا أن نعرب عن خالص شكرنا لأعضاء مجتمع مستخدمي Slicer الذين ساعدونا في تصميم محتويات وحدة الترحيب هذه ، والتي تستمر ملاحظاتهم في تحسين الوظائف وسهولة الاستخدام وتجربة مستخدم Slicer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="47"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="45"/>
         <source>Welcome to Slicer</source>
         <translation>مرحبا بكم في Slicer</translation>
     </message>
@@ -30250,27 +30416,27 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;تم تطوير هذه الوحدة من قبل جان كريستوف فيليون روبن وجوليان فينيت في Kitware، Inc.، وويندي بليسنياك وسونيا بوجول وستيف بيبر ورون كيكينيس في مستشفى بريجهام والنساء.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="106"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
         <source>Checking for updates...</source>
         <translation>جاري التحقق من وجود تحديثات...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="109"/>
         <source>No updates were found.</source>
         <translation>لم يتم العثور على تحديثات.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="179"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Raising %1 Module:</source>
         <translation>رفع %1 وحدة:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="182"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
         <translation>لسوء الحظ ، لا تتوفر هذه الوحدة النمطية المطلوبة في جلسة عمل Slicer هذه.</translation>
     </message>
     <message numerus="yes">
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="387"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="372"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation>
@@ -30283,120 +30449,385 @@ This should only used by advanced users who understand the consequences of chang
         </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="373"/>
         <source>Use Extensions Manager to update these extensions:</source>
         <translation>استخدم مدير الملحقات لتحديث هذه الملحقات:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="423"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="406"/>
         <source>New application version is available: %1</source>
         <translation>يتوفر إصدار جديد من التطبيق: %1</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLBSplineTransformNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLBSplineTransformNode.cxx" line="28"/>
+        <source>B-Spline Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLCPURayCastVolumeRenderingDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLCPURayCastVolumeRenderingDisplayNode.cxx" line="36"/>
+        <source>CPU Ray-Cast Volume Rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLCameraNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLCameraNode.cxx" line="43"/>
+        <source>Camera</source>
+        <translation type="unfinished">آلة تصوير</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLClipModelsNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLClipModelsNode.cxx" line="30"/>
+        <source>Clip Models</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLClipNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="52"/>
+        <source>Clip</source>
+        <translation type="unfinished">قص</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="728"/>
+        <source>%name (%id) cannot be represented using only planes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLColorLegendDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/Colors/MRML/vtkMRMLColorLegendDisplayNode.cxx" line="44"/>
+        <source>Color Legend Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLColorNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorNode.cxx" line="35"/>
+        <source>Color</source>
+        <translation type="unfinished">لون</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLColorTableNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableNode.cxx" line="36"/>
+        <source>Color Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLColorTableStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="74"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="76"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="87"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="89"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="47"/>
+        <source>Color Table Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="75"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="77"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="88"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="90"/>
         <source>CSV Color Table</source>
         <extracomment>File format name</extracomment>
         <translation>جدول ألوان CSV</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="78"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="80"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="91"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="93"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="79"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="81"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="92"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="94"/>
         <source>MRML Color Table</source>
         <extracomment>File format name</extracomment>
         <translation>جدول ألوان MRML</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="268"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="230"/>
+        <source>Column &apos;%1&apos; was not found in color table file: &apos;%2&apos;. Color component is set to 0.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="263"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
         <translation>لم يتم تحديد قيمة التسمية في ملف الألوان في السطر %1. سيتم تخطي هذا السطر.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="277"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="272"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2. Skipping this line.</source>
         <translation>قيمة التسمية &apos;%1&apos; غير صالحة في ملف الألوان في السطر %2. تخطي هذا السطر.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="286"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="283"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must be positive (&gt;0). Skipping this line.</source>
         <translation>قيمة التسمية &apos;%1&apos; غير صالحة في ملف الألوان في السطر %2: يجب أن تكون القيمة موجبة (&gt;0). تخطي هذا السطر.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="300"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="299"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must not go above be %3.</source>
         <translation>القيمة labelValue &apos;%1&apos; غير صالحة في ملف الألوان في السطر %2: يجب ألا تزيد القيمة عن %3.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="350"/>
-        <source>Failed to parse color values (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) in line %5</source>
-        <translation>فشل تحليل قيم الألوان (&apos;%1&apos;، &apos;%2&apos;، &apos;%3&apos;، &apos;%4&apos;) في السطر %5</translation>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="359"/>
+        <source>Failed to read color from column %1 in line %2, value: &apos;%3&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="360"/>
-        <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, breaking the loop over &apos;%3&apos; lines in the file %4.</source>
-        <translation>غير قادر على تعيين اللون &apos;%1&apos; مع الاسم &apos;%2&apos;، مما يؤدي إلى كسر الحلقة على أسطر &apos;%3&apos; في الملف %4.</translation>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="379"/>
+        <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, stopped processing after &apos;%3&apos; lines in the file %4.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>vtkMRMLCommandLineModuleNode</name>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="682"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="95"/>
+        <source>Command Line Module</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="647"/>
         <source>Idle</source>
         <translation>معطل</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="683"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="648"/>
         <source>Scheduled</source>
         <translation>مقرر</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="684"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="649"/>
         <source>Running</source>
         <translation>قيد التنفيذ</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="685"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="650"/>
         <source>Cancelling</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="686"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="651"/>
         <source>Cancelled</source>
         <translation>ألغيت</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="687"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="652"/>
         <source>Completing</source>
         <translation>إكمال</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="688"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="653"/>
         <source>Completed</source>
         <translation>اكتمل</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="689"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="654"/>
         <source>Completed with errors</source>
         <translation>اكتمل بأخطاء</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="693"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="657"/>
         <source>Unknown</source>
         <translation>مجهول</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLCropVolumeParametersNode</name>
+    <message>
+        <location filename="Modules/Loadable/CropVolume/MRML/vtkMRMLCropVolumeParametersNode.cxx" line="40"/>
+        <source>Crop Volume Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLCrosshairNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLCrosshairNode.cxx" line="31"/>
+        <source>Crosshair</source>
+        <translation type="unfinished">التقاطع</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionImageVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionImageVolumeNode.cxx" line="31"/>
+        <source>Diffusion Image Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionTensorDisplayPropertiesNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorDisplayPropertiesNode.cxx" line="34"/>
+        <source>Diffusion Tensor Display Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionTensorVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeDisplayNode.cxx" line="48"/>
+        <source>Diffusion Tensor Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionTensorVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeNode.cxx" line="31"/>
+        <source>Diffusion Tensor Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionTensorVolumeSliceDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeSliceDisplayNode.cxx" line="37"/>
+        <source>Diffusion Tensor Volume Slice Display Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionWeightedVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionWeightedVolumeDisplayNode.cxx" line="36"/>
+        <source>Diffusion Weighted Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionWeightedVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionWeightedVolumeNode.cxx" line="36"/>
+        <source>Diffusion Weighted Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDisplayableHierarchyNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDisplayableHierarchyNode.cxx" line="35"/>
+        <source>Displayable Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLFolderDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLFolderDisplayNode.cxx" line="35"/>
+        <source>Folder Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLGPURayCastVolumeRenderingDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLGPURayCastVolumeRenderingDisplayNode.cxx" line="36"/>
+        <source>GPU Ray-Cast Volume Rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLGlyphableVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeDisplayNode.cxx" line="37"/>
+        <source>Glyphable Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLGlyphableVolumeSliceDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeSliceDisplayNode.cxx" line="32"/>
+        <source>Glyphable Volume Slice Display Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLGridTransformNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLGridTransformNode.cxx" line="33"/>
+        <source>Grid Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLHierarchyNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLHierarchyNode.cxx" line="58"/>
+        <source>Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLHierarchyStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLHierarchyStorageNode.cxx" line="28"/>
+        <source>Hierarchy Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLInteractionNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLInteractionNode.cxx" line="16"/>
+        <source>Interaction</source>
+        <translation type="unfinished">تفاعل</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLLabelMapVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeDisplayNode.cxx" line="36"/>
+        <source>Label Map Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLLabelMapVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeNode.cxx" line="39"/>
+        <source>Label Map Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLLayoutNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLayoutNode.cxx" line="19"/>
+        <source>Layout</source>
+        <translation type="unfinished">تخطيط</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLLinearTransformNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformNode.cxx" line="32"/>
+        <source>Linear Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLLinearTransformSequenceStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="603"/>
-        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="614"/>
+        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="49"/>
+        <source>Linear Transform Sequence Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="608"/>
+        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="619"/>
         <source>Linear transform sequence</source>
         <extracomment>File format name</extracomment>
         <translation>تسلسل التحويل الخطي</translation>
@@ -30431,25 +30862,41 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsCurveNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="78"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="77"/>
         <source>Curve</source>
         <translation>منحنى</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="81"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="80"/>
         <source>OC</source>
         <translation>الكأس البصرية</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLMarkupsDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsDisplayNode.cxx" line="48"/>
+        <source>Markups Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsFiducialDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialDisplayNode.cxx" line="34"/>
+        <source>Markups Fiducial Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLMarkupsFiducialNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="41"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="40"/>
         <source>Point List</source>
         <translation>قائمة النقاط</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="43"/>
         <source>F</source>
         <translation type="unfinished">أنثى</translation>
     </message>
@@ -30457,14 +30904,19 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsFiducialStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="788"/>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="797"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="247"/>
+        <source>Markups Fiducial Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="789"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="798"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
         <translation>الشروح الإيمانية CSV</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="790"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="791"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
         <translation>الشرح الإيماني CSV</translation>
@@ -30473,10 +30925,15 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsJsonStorageNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="346"/>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="348"/>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="355"/>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="357"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="59"/>
+        <source>Markups JSON Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="332"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="334"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="341"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="343"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
         <translation>ترميز JSON</translation>
@@ -30485,12 +30942,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsLineNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="47"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="46"/>
         <source>Line</source>
         <translation>خط</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="50"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="49"/>
         <source>L</source>
         <translation>اليسرى</translation>
     </message>
@@ -30498,14 +30955,30 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="536"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="63"/>
         <source>M</source>
         <translation type="unfinished">ذكر</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="546"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="64"/>
         <source>Markup</source>
         <translation>ترميز</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsPlaneDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneDisplayNode.cxx" line="30"/>
+        <source>Markups Plane Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsPlaneJsonStorageNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneJsonStorageNode.cxx" line="39"/>
+        <source>Markups Plane JSON Storage</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -30522,6 +30995,22 @@ This should only used by advanced users who understand the consequences of chang
     </message>
 </context>
 <context>
+    <name>vtkMRMLMarkupsROIDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsROIDisplayNode.cxx" line="30"/>
+        <source>Markups ROI Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsROIJsonStorageNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROIJsonStorageNode.cxx" line="38"/>
+        <source>Markups ROI JSON Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLMarkupsROINode</name>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="57"/>
@@ -30535,125 +31024,384 @@ This should only used by advanced users who understand the consequences of chang
     </message>
 </context>
 <context>
+    <name>vtkMRMLMarkupsTestLineNode</name>
+    <message>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.cxx" line="33"/>
+        <source>Test Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.h" line="52"/>
+        <source>TL</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLModelDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLModelDisplayNode.cxx" line="44"/>
+        <source>Model Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLModelHierarchyNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLModelHierarchyNode.cxx" line="31"/>
+        <source>Model Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLModelNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLModelNode.cxx" line="53"/>
+        <source>Model</source>
+        <translation type="unfinished">نموذج</translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLModelStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="787"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="817"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="98"/>
+        <source>Model Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="782"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="812"/>
         <source>VTK Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>الشبكة المضلعة VTK</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="789"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="819"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="784"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="814"/>
         <source>VTK XML Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>الشبكة المضلعة VTK XML</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="791"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="834"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="786"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="829"/>
         <source>VTK Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>شبكة VTK غير المنظمة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="793"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="836"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="788"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="831"/>
         <source>VTK XML Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>شبكة VTK XML غير منظمة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="795"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="797"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="790"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="792"/>
         <source>Movie.BYU Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>شبكة Movie.BYU</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="799"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="794"/>
         <source>MetaIO Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>شبكة MetaIO</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="801"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="825"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="796"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="820"/>
         <source>Stereolithography Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>شبكة الطباعة الحجرية المجسمة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="803"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="827"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="798"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="822"/>
         <source>Stanford Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>شبكة مضلع ستانفورد</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="805"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="800"/>
         <source>AVS Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>شبكة AVS الغير منظمة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="807"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="829"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="802"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="824"/>
         <source>Wavefront Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>شبكة الأمام الموجية</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLMultiVolumeRenderingDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLMultiVolumeRenderingDisplayNode.cxx" line="37"/>
+        <source>Multi Volume Rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLNRRDStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLNRRDStorageNode.cxx" line="44"/>
+        <source>NRRD Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLPETProceduralColorNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLPETProceduralColorNode.cxx" line="14"/>
+        <source>PET Procedural Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLPlotChartNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLPlotChartNode.cxx" line="50"/>
+        <source>Plot Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLPlotSeriesNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLPlotSeriesNode.cxx" line="59"/>
+        <source>Plot Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLPlotViewNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLPlotViewNode.cxx" line="48"/>
+        <source>Plot View</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLProceduralColorNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorNode.cxx" line="35"/>
+        <source>Procedural Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLProceduralColorStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="221"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="223"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="230"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="232"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="35"/>
+        <source>Procedural Color Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="220"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="222"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="229"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="231"/>
         <source>MRML Color Function</source>
         <extracomment>File format name</extracomment>
         <translation>وظيفة اللون MRML</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLScalarVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeDisplayNode.cxx" line="50"/>
+        <source>Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLScalarVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeNode.cxx" line="37"/>
+        <source>Volume</source>
+        <translation type="unfinished">حجم</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSceneViewNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSceneViewNode.cxx" line="42"/>
+        <source>Scene View</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSceneViewStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSceneViewStorageNode.cxx" line="46"/>
+        <source>Scene View Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSegmentEditorNode</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/MRML/vtkMRMLSegmentEditorNode.cxx" line="50"/>
+        <source>Segment Editor</source>
+        <translation type="unfinished">محرر المقطع</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSegmentationDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationDisplayNode.cxx" line="63"/>
+        <source>Segmentation Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSegmentationNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationNode.cxx" line="69"/>
+        <source>Segmentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLSegmentationStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="147"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="178"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="106"/>
+        <source>Segmentation Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="149"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="180"/>
         <source>Segmentation</source>
         <extracomment>File format name</extracomment>
         <translation>تجزئة</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLSelectionNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSelectionNode.cxx" line="43"/>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSequenceBrowserNode</name>
+    <message>
+        <location filename="Modules/Loadable/Sequences/MRML/vtkMRMLSequenceBrowserNode.cxx" line="140"/>
+        <source>Sequence Browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSequenceNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceNode.cxx" line="63"/>
+        <source>Sequence</source>
+        <translation type="unfinished">تسلسل</translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLSequenceStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="200"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="202"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="209"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="211"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="40"/>
+        <source>Sequence Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="190"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="192"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="199"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="201"/>
         <source>MRML Sequence Bundle</source>
         <extracomment>File format name</extracomment>
         <translation>حزمة تسلسل MRML</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLShaderPropertyNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyNode.cxx" line="39"/>
+        <source>Shader Property</source>
+        <translation type="unfinished">خاصية تظليل</translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLShaderPropertyStorageNode</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="490"/>
-        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="497"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="49"/>
+        <source>Shader Property Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="491"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="498"/>
         <source>MRML Shader Property</source>
         <extracomment>File format name</extracomment>
         <translation>خاصية تظليل MRML</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLSliceCompositeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSliceCompositeNode.cxx" line="45"/>
+        <source>Slice Composite</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSliceDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSliceDisplayNode.cxx" line="29"/>
+        <source>Slice Display</source>
+        <translation type="unfinished">عرض شريحة</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSliceNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSliceNode.cxx" line="47"/>
+        <source>Slice</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSnapshotClipNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSnapshotClipNode.cxx" line="33"/>
+        <source>Snapshot Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLStreamingVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLStreamingVolumeNode.cxx" line="49"/>
+        <source>Streaming Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLTableNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTableNode.cxx" line="66"/>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLTableSQLiteStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="307"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="318"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="50"/>
+        <source>SQLite Table Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="305"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="316"/>
         <source>SQLight database</source>
         <extracomment>File format name</extracomment>
         <translation>قاعدة بيانات SQLight</translation>
@@ -30662,96 +31410,175 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLTableStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="242"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="246"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="253"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="257"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="80"/>
+        <source>Table Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="236"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="243"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="247"/>
         <source>Tab-separated values</source>
         <extracomment>File format name</extracomment>
         <translation>قيم منفصلة عن علامة التبويب</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="244"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="255"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="234"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="245"/>
         <source>Comma-separated values</source>
         <extracomment>File format name</extracomment>
         <translation>قيم مفصولة بفواصل</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLTensorVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTensorVolumeNode.cxx" line="32"/>
+        <source>Tensor Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLTextNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTextNode.cxx" line="34"/>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLTextStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="220"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="231"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="44"/>
+        <source>Text Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="226"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="237"/>
         <source>Text file</source>
         <extracomment>File format name</extracomment>
         <translation>ملف نصي</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="222"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="233"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="228"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="239"/>
         <source>XML document</source>
         <extracomment>File format name</extracomment>
         <translation>وثيقة XML</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="224"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="235"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="230"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="241"/>
         <source>JSON document</source>
         <extracomment>File format name</extracomment>
         <translation>وثيقة JSON</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="270"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="284"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="276"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="290"/>
         <source>Text file (.%1)</source>
         <translation>ملف نصي (.%1)</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLTransformDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTransformDisplayNode.cxx" line="55"/>
+        <source>Transform Display Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLTransformNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTransformNode.cxx" line="54"/>
+        <source>Transform</source>
+        <translation type="unfinished">تحول</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLTransformStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTransformStorageNode.cxx" line="41"/>
+        <source>Transform Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLUnitNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLUnitNode.cxx" line="38"/>
+        <source>Unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLVectorVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeDisplayNode.cxx" line="39"/>
+        <source>Vector Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLVectorVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeNode.cxx" line="36"/>
+        <source>Vector Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLVolumeArchetypeStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="417"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="60"/>
+        <source>Volume Archetype Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="410"/>
         <source>Cannot read &apos;%1&apos; file as a volume of type &apos;%2&apos;. Details: %3.</source>
         <translation>لا يمكن قراءة &apos;%1&apos; ملف كحجم من نوع &apos;%2&apos;. التفاصيل:%3.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="432"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="426"/>
         <source>Unable to read data from file: &apos;%1&apos;</source>
         <translation>غير قادر على قراءة البيانات من الملف: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="442"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="438"/>
         <source>Unable to read DiffusionTensorVolume data from file: &apos;%1&apos;</source>
         <translation>غير قادر على قراءة بيانات DiffusionTensorVolume من الملف: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="451"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="448"/>
         <source>Unable to read ScalarVolume data from file: &apos;%1&apos;</source>
         <translation>غير قادر على قراءة بيانات ScalarVolume من الملف: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="461"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="459"/>
         <source>Not a scalar volume file: &apos;%1&apos;</source>
         <translation>ليس ملف حجم عددي: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="504"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="501"/>
         <source>Cannot read file: &apos;%1&apos;</source>
         <translation>لا يمكن قراءة الملف: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="532"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="528"/>
         <source>Image reader provided invalid RAS to IJK matrix</source>
         <translation>قدم قارئ الصور مصفوفة RAS إلى IJK غير صالحة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="585"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="583"/>
         <source>Voxel vector type is spatial but number of scalar components is not 3. Saved vector type will be non-spatial.</source>
         <translation>نوع المتجه Voxel مكاني ولكن عدد المكونات القياسية ليس 3. نوع المتجه المحفوظ سيكون غير مكاني.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="594"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="592"/>
         <source>Spatial vectors will be written to non-NRRD file format (%1). In this format, voxels are saved as regular vectors. If the file is imported again then vector axis directions may be flipped. It is recommended to save volumes that contain spatial vectors in NRRD file format.</source>
         <translation>سيتم كتابة المتجهات المكانية إلى تنسيق ملف غير NRRD (%1). في هذا الشكل، يتم حفظ voxels كمتجهات عادية. إذا تم استيراد الملف مرة أخرى، فيمكن قلب اتجاهات محور المتجه. يوصى بحفظ الأحجام التي تحتوي على متجهات مكانية بتنسيق ملف NRRD.</translation>
     </message>
@@ -30761,7 +31588,7 @@ This should only used by advanced users who understand the consequences of chang
         <translation>غير قادر على إزالة النسخة القديمة من الملف: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="647"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="648"/>
         <source>Error renaming file to &apos;%1&apos;, rename returned code %2</source>
         <translation>خطأ في إعادة تسمية الملف إلى&apos; %1 &apos; ، إعادة تسمية الكود المرتجع %2</translation>
     </message>
@@ -30771,58 +31598,94 @@ This should only used by advanced users who understand the consequences of chang
         <translation>تنسيق ملف VTK يحفظ الصور الموجهة بمحور LPS فقط. قد يكون اتجاه الصورة المحفوظة غير صحيح. يُنصح باستخدام تنسيق ملف NRRD لحفظ هذه الصورة.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="764"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="766"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
         <translation>سيؤدي حفظ هذه الصورة بتنسيق TIFF إلى فقدان المعلومات (موضع الصورة، أو اتجاهها، أو المسافة على طول المحور الثالث للصورة). يُنصح باستخدام تنسيق ملف NRRD لتخزين هذه الصورة.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="776"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="779"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
         <translation>لا يُنصح باستخدام تنسيق ملف التحليل، نظرًا لعدم وضوح مواصفات اتجاه الصورة. يُنصح باستخدام تنسيق ملف NRRD لتخزين هذه الصورة.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="816"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="818"/>
         <source>Cannot write volume, image data is empty</source>
         <translation>لا يمكن كتابة المجلد، بيانات الصورة فارغة</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="864"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="867"/>
         <source>Failed to delete directory &apos;%1&apos;</source>
         <translation>فشل حذف الدليل &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="871"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="875"/>
         <source>Failed to create directory &apos;%1&apos;</source>
         <translation>فشل إنشاء الدليل &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="931"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="934"/>
         <source>Failed to write &apos;%1&apos;</source>
         <translation>فشل في كتابة &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="942"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="946"/>
         <source>Failed to open directory &apos;%1&apos;</source>
         <translation>فشل في فتح المجلد &apos;1%&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1056"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1059"/>
         <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
         <translation>لم يُكتب ملف النموذج الأصلي &apos;%1&apos; عند كتابة &apos;%2&apos; في &apos;%3&apos;. تمت كتابة هذه الملفات الـ %4 فقط: %5. الاسم القديم هو &apos;%6&apos;.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1079"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1087"/>
         <source>Failed to remove temporary directory &apos;%1&apos;</source>
         <translation>فشل في إزالة المجلد المؤقت &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1128"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1142"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
         <translation>من المتوقع تخزين الإزاحات كقيمة مزدوجة أو عائمة. لن تُحوّل قيم المتجهات من LPS إلى RAS.</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLVolumeHeaderlessStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeHeaderlessStorageNode.cxx" line="43"/>
+        <source>Volume Headerless Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLVolumePropertyJsonStorageNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="55"/>
+        <source>Volume Property Json Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="610"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="617"/>
+        <source>MRML Volume Property</source>
+        <extracomment>File format name</extracomment>
+        <translation type="unfinished">خاصية حجم MRML</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLVolumePropertyNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyNode.cxx" line="29"/>
+        <source>Volume Property</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLVolumePropertyStorageNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="34"/>
+        <source>Volume Property Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="207"/>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="214"/>
@@ -30833,19 +31696,60 @@ This should only used by advanced users who understand the consequences of chang
     </message>
 </context>
 <context>
+    <name>vtkMRMLVolumeRenderingDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="337"/>
+        <source>Fast clipping cannot be used with cropping enabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="346"/>
+        <source>Fast clipping cannot be used with soft edge voxels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="372"/>
+        <source>Fast clipping cannot use intersection clip type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="390"/>
+        <source>Fast method cannot use positive space of an ROI.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="406"/>
+        <source>No planes found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="415"/>
+        <source>Fast method cannot clip with more than 6 planes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLVolumeSequenceStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="617"/>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="628"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="621"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="632"/>
         <source>Volume Sequence</source>
         <extracomment>File format name</extracomment>
         <translation>تسلسل الحجم</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLdGEMRICProceduralColorNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLdGEMRICProceduralColorNode.cxx" line="28"/>
+        <source>d GEMRIC Procedural Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkSlicerSegmentationsModuleLogic</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1087"/>
+        <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1072"/>
         <source>background</source>
         <translation>خلفية</translation>
     </message>
@@ -30853,12 +31757,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkSlicerSequencesLogic</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="715"/>
+        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="712"/>
         <source>Unnamed</source>
         <translation>غير مسمى</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="717"/>
+        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="714"/>
         <source>Sequence</source>
         <translation>تسلسل</translation>
     </message>

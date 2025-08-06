@@ -270,42 +270,42 @@ Are you sure to continue?</source>
 தொடர நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1104"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1108"/>
         <source>Please upgrade the monai server to latest version</source>
         <translation>மோனாய் சேவையகத்தை அண்மைக் கால பதிப்பிற்கு மேம்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1115"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1119"/>
         <source>Failed to fetch models from remote server. Make sure server address is correct and &lt;server_uri&gt;/info/ is accessible in browser.
 {message}</source>
         <translation>தொலை சேவையகத்திலிருந்து மாதிரிகளைப் பெறுவதில் தோல்வி. சேவையக முகவரி சரியானது என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள் மற்றும் &lt;server_uri&gt;/ தகவல்/ உலாவியில் அணுகக்கூடியது. 
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1149"/>
-        <location filename="MONAILabel/MONAILabel.py" line="1154"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1153"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1158"/>
         <source>Wait...</source>
         <translation>காத்திருங்கள் ...</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1170"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1174"/>
         <source>No Model selected is to run the training</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட எந்த மாதிரியும் பயிற்சியை இயக்குவது அல்ல</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1178"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1182"/>
         <source>Training: STARTED</source>
         <translation>பயிற்சி: தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1185"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1189"/>
         <source>Failed to run training in MONAI Label Server.
 {message}</source>
         <translation>மோனாய் சிட்டை சேவையகத்தில் பயிற்சியை இயக்குவதில் தோல்வி. 
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1192"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1196"/>
         <source>ID: {id}
 Status: {status}
 Start Time: {start_time}
@@ -316,19 +316,19 @@ Start Time: {start_time}
 </translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1207"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1211"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
         <translation>இது தற்போதைய பயிற்சி பணியை கொல்லும்/நிறுத்தும். தொடர நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1217"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1221"/>
         <source>Failed to stop Training Task.
 {message}</source>
         <translation>Failed பெறுநர் நிறுத்து Training Task.
  {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1224"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1228"/>
         <source>Status: {status}
 Start Time: {start_time}
 End Time: {end_time}
@@ -339,33 +339,33 @@ Result: {result}</source>
 முடிவு: {result}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1252"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1256"/>
         <source>This will close current scene.  Please make sure you have saved your current work.
 Are you sure to continue?</source>
         <translation>இது தற்போதைய காட்சியை மூடும். உங்கள் தற்போதைய வேலையை நீங்கள் சேமித்துள்ளீர்கள் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள். 
 தொடர நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1265"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1269"/>
         <source>No Strategy Found/Selected</source>
         <translation>இல்லை Strategy Found/Selected</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1276"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1280"/>
         <source>Unlabeled samples or images not found at server.
 Instead please go to File -&gt; Add Data to load image.</source>
         <translation>Unlabeled samples or படங்கள் not found at server.
 Instead please go பெறுநர் கோப்பு -&gt; கூட்டு தகவல்கள் பெறுநர் load image.</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1334"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1338"/>
         <source>Failed to fetch Sample from MONAI Label Server.
 {message}</source>
         <translation>மோனாய் சிட்டை சேவையகத்திலிருந்து மாதிரியைப் பெறுவதில் தோல்வி. 
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1387"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1391"/>
         <source>Source volume - without any additional patient information - will be sent to remote data processing server: {server_url}.
 
 Click &apos;OK&apos; to proceed with the segmentation.
@@ -378,7 +378,7 @@ Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 </translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1428"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1432"/>
         <source>Server Error: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
@@ -387,75 +387,75 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
 Please மேம்படுத்தல் பெறுநர் latest monailabel version (&gt; 0.2.0)</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1434"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1438"/>
         <source>Failed to upload volume to Server.
 {message}</source>
         <translation>சேவையகத்தில் அளவை பதிவேற்றுவதில் தோல்வி. 
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1441"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1445"/>
         <source>Label File not selected</source>
         <translation>சிட்டை கோப்பு தேர்ந்தெடுக்கப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1450"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1454"/>
         <source>Failed to import label</source>
         <translation>லேபிளை இறக்குமதி செய்வதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1521"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1525"/>
         <source>Failed to save Label to MONAI Label Server.
 {message}</source>
         <translation>லேபிளை மோனாய் சிட்டை சேவையகத்தில் சேமிப்பதில் தோல்வி. 
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1532"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1536"/>
         <source>Label-Mask saved into MONAI Label Server</source>
         <translation>லேபிள்-மாச்க் மோனாய் சிட்டை சேவையகத்தில் சேமிக்கப்பட்டது</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1577"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1581"/>
         <source>Failed to run inference in MONAI Label Server.
 {message}</source>
         <translation>மோனாய் சிட்டை சேவையகத்தில் அனுமானத்தை இயக்குவதில் தோல்வி. 
 {message}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1594"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1598"/>
         <source>Please select a model</source>
         <translation>ஒரு மாதிரியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1599"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1603"/>
         <source>Please add the required label to run interactive model</source>
         <translation>ஊடாடும் மாதிரியை இயக்க தேவையான லேபிளைச் சேர்க்கவும்</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1616"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1620"/>
         <source>Run Inference for segment: {label}; model: {model}; 3d {in3d}</source>
         <translation>ஓடு Inference க்கு segment: {label}; model: {model}; 3d {in3d}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1617"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1621"/>
         <source>enabled</source>
         <translation>இயக்கப்பட்டது</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1618"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1622"/>
         <source>disabled</source>
         <translation>முடக்கப்பட்டது</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="2051"/>
+        <location filename="MONAILabel/MONAILabel.py" line="2055"/>
         <source>Failed to post process label on MONAI Label Server using {scribbles_method}.
 {message}</source>
         <translation>{Scribbles_method bey ஐப் பயன்படுத்தி மோனாய் சிட்டை சேவையகத்தில் செயல்முறை லேபிளை இடுகையிடுவதில் தோல்வி. 
 {scribbles_method}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="2418"/>
+        <location filename="MONAILabel/MONAILabel.py" line="2422"/>
         <source>User Login</source>
         <translation>பயனர் உள்நுழைவு</translation>
     </message>

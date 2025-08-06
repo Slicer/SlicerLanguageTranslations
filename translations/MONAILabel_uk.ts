@@ -270,42 +270,42 @@ Are you sure to continue?</source>
 Ви впевнені, що продовжите?</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1104"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1108"/>
         <source>Please upgrade the monai server to latest version</source>
         <translation>Оновіть сервер monai до останньої версії</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1115"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1119"/>
         <source>Failed to fetch models from remote server. Make sure server address is correct and &lt;server_uri&gt;/info/ is accessible in browser.
 {message}</source>
         <translation>Не вдалося отримати моделі з віддаленого сервера. Переконайтеся, що адреса сервера правильна, а &lt;server_uri&gt;/info/ доступний у браузері.
 {повідомлення}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1149"/>
-        <location filename="MONAILabel/MONAILabel.py" line="1154"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1153"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1158"/>
         <source>Wait...</source>
         <translation>Зачекайте...</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1170"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1174"/>
         <source>No Model selected is to run the training</source>
         <translation>Не вибрана модель для проведення навчання</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1178"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1182"/>
         <source>Training: STARTED</source>
         <translation>Навчання: ПОЧАТО</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1185"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1189"/>
         <source>Failed to run training in MONAI Label Server.
 {message}</source>
         <translation>Не вдалося виконати навчання на сервері міток MONAI.
 {повідомлення}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1192"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1196"/>
         <source>ID: {id}
 Status: {status}
 Start Time: {start_time}
@@ -316,19 +316,19 @@ Start Time: {start_time}
 </translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1207"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1211"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
         <translation>Це призупинить поточне навчальне завдання.  Ви впевнені, що продовжите?</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1217"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1221"/>
         <source>Failed to stop Training Task.
 {message}</source>
         <translation>Не вдалося зупинити навчальне завдання.
 {повідомлення}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1224"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1228"/>
         <source>Status: {status}
 Start Time: {start_time}
 End Time: {end_time}
@@ -339,33 +339,33 @@ Result: {result}</source>
 Результат: {результат}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1252"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1256"/>
         <source>This will close current scene.  Please make sure you have saved your current work.
 Are you sure to continue?</source>
         <translation>Це закриє поточну сцену.  Переконайтеся, що ви зберегли свою поточну роботу.
 Ви впевнені, що продовжите?</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1265"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1269"/>
         <source>No Strategy Found/Selected</source>
         <translation>Стратегію не знайдено/вибрано</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1276"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1280"/>
         <source>Unlabeled samples or images not found at server.
 Instead please go to File -&gt; Add Data to load image.</source>
         <translation>Зразки або зображення без міток не знайдено на сервері.
 Натомість перейдіть у меню Файл -&gt; Додати дані, щоб завантажити зображення.</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1334"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1338"/>
         <source>Failed to fetch Sample from MONAI Label Server.
 {message}</source>
         <translation>Не вдалося отримати зразок із сервера міток MONAI.
 {повідомлення}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1387"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1391"/>
         <source>Source volume - without any additional patient information - will be sent to remote data processing server: {server_url}.
 
 Click &apos;OK&apos; to proceed with the segmentation.
@@ -378,7 +378,7 @@ Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 </translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1428"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1432"/>
         <source>Server Error: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
@@ -387,75 +387,75 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
 Будь ласка, оновіть до останньої версії monailabel (&gt; 0.2.0)</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1434"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1438"/>
         <source>Failed to upload volume to Server.
 {message}</source>
         <translation>Не вдалося завантажити том на сервер.
 {повідомлення}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1441"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1445"/>
         <source>Label File not selected</source>
         <translation>Файл мітки не вибрано</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1450"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1454"/>
         <source>Failed to import label</source>
         <translation>Не вдалося імпортувати мітку</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1521"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1525"/>
         <source>Failed to save Label to MONAI Label Server.
 {message}</source>
         <translation>Не вдалося зберегти мітку на сервері міток MONAI.
 {повідомлення}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1532"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1536"/>
         <source>Label-Mask saved into MONAI Label Server</source>
         <translation>Маска мітки збережена на сервері міток MONAI</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1577"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1581"/>
         <source>Failed to run inference in MONAI Label Server.
 {message}</source>
         <translation>Не вдалося виконати висновок на сервері міток MONAI.
 {повідомлення}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1594"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1598"/>
         <source>Please select a model</source>
         <translation>Будь ласка, виберіть модель</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1599"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1603"/>
         <source>Please add the required label to run interactive model</source>
         <translation>Додайте необхідну мітку для запуску інтерактивної моделі</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1616"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1620"/>
         <source>Run Inference for segment: {label}; model: {model}; 3d {in3d}</source>
         <translation>Виконати висновок для сегмента: {label}; модель: {модель}; 3d {in3d}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1617"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1621"/>
         <source>enabled</source>
         <translation>увімкмено</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="1618"/>
+        <location filename="MONAILabel/MONAILabel.py" line="1622"/>
         <source>disabled</source>
         <translation>вимкнено</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="2051"/>
+        <location filename="MONAILabel/MONAILabel.py" line="2055"/>
         <source>Failed to post process label on MONAI Label Server using {scribbles_method}.
 {message}</source>
         <translation>Не вдалося опублікувати мітку процесу на сервері міток MONAI за допомогою {scribbles_method}.
 {повідомлення}</translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="2418"/>
+        <location filename="MONAILabel/MONAILabel.py" line="2422"/>
         <source>User Login</source>
         <translation>Вхід користувача</translation>
     </message>

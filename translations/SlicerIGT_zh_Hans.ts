@@ -1014,7 +1014,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高级</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="156"/>
@@ -1079,7 +1079,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="80"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本工作由Cancer Care Ontario和安大略省自适应放疗干预联盟（OCAIRO）资助</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.h" line="44"/>
@@ -1246,7 +1246,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本工作由Cancer Care Ontario和安大略省自适应放疗干预联盟（OCAIRO）资助</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
@@ -1296,7 +1296,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="113"/>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="140"/>
@@ -1376,7 +1376,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本工作由Cancer Care Ontario和安大略省自适应放疗干预联盟（OCAIRO）资助</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
@@ -1464,7 +1464,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="22"/>
@@ -1582,7 +1582,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="25"/>
@@ -1630,7 +1630,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="22"/>
@@ -1668,7 +1668,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="23"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="32"/>
@@ -1684,7 +1684,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="48"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="64"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="57"/>
@@ -1786,7 +1786,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="408"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="417"/>
@@ -1986,7 +1986,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="77"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本工作由Cancer Care Ontario和安大略省自适应放疗干预联盟（OCAIRO）资助</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="84"/>
@@ -2054,7 +2054,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
@@ -2159,7 +2159,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="48"/>
@@ -2225,7 +2225,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="452"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="563"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
@@ -2498,7 +2498,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="26"/>
@@ -2548,7 +2548,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本工作由Cancer Care Ontario和安大略省自适应放疗干预联盟（OCAIRO）资助</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
@@ -2574,7 +2574,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="22"/>
@@ -2963,7 +2963,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="20"/>
@@ -3006,7 +3006,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本工作由Cancer Care Ontario和安大略省自适应放疗干预联盟（OCAIRO）资助</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
@@ -3019,7 +3019,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表单</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="37"/>

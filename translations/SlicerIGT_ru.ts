@@ -278,17 +278,17 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выходное преобразование: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запустить алгоритм.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вывод</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
@@ -303,7 +303,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Число повторений:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
@@ -771,7 +771,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="19"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Путеводитель</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
@@ -1764,7 +1764,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="408"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="417"/>

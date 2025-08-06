@@ -26,32 +26,32 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
@@ -94,12 +94,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsparametrar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatad bildvolym</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatade bilder</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
@@ -748,7 +748,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
@@ -758,12 +758,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
@@ -783,17 +783,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cosinus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
@@ -803,7 +803,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
@@ -945,7 +945,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Antal prover</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
@@ -955,7 +955,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transformera typ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
@@ -1048,7 +1048,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
@@ -1083,7 +1083,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Antal trådar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
@@ -1198,7 +1198,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
@@ -1213,7 +1213,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsbild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
@@ -1273,17 +1273,17 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ROIAuto Dilatat Storlek</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsbild Pixeltyp</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Antal trådar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
@@ -1339,12 +1339,12 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">uchar</translation>
     </message>
 </context>
 <context>
@@ -1382,7 +1382,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bild till varp</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
@@ -1407,12 +1407,12 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsbild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pixel-typ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
@@ -1438,7 +1438,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
@@ -1448,7 +1448,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
@@ -1458,12 +1458,12 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">binär</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">input</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
@@ -1488,7 +1488,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolationsläge</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
@@ -1534,17 +1534,17 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Närmaste granne</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sampla om på plats</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
@@ -1564,7 +1564,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="49"/>
@@ -1574,7 +1574,7 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
@@ -1599,12 +1599,12 @@ OBSERVERA att det är rekommenderat att använda samplingPercentage istället f�
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Antal trådar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ange uttryckligen det maximala antalet trådar som ska användas.</translation>
     </message>
 </context>
 <context>
@@ -1626,7 +1626,7 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utvecklingen av detta verktyg stöddes genom finansiering från anslag NS050568 och NS40068 från National Institute of Neurological Disorders and Stroke och anslag MH31593, MH40856, från National Institute of Mental Health.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
@@ -1636,7 +1636,7 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för att specificera bilden som ska warpas och resulterande bildrymd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
@@ -1661,7 +1661,7 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsbild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
@@ -1692,7 +1692,7 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
@@ -1707,7 +1707,7 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
@@ -1756,22 +1756,22 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bild till varp</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsbild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transformera fil</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resulterande deformerad bild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
@@ -1806,7 +1806,7 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
@@ -1910,17 +1910,17 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
@@ -1951,7 +1951,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OsigneradChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
@@ -1961,7 +1961,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
@@ -1971,12 +1971,12 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
@@ -2034,22 +2034,22 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
@@ -2064,7 +2064,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrerad utgång</translation>
     </message>
 </context>
 <context>
@@ -2082,22 +2082,22 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Denna kommandomodul har hämtats från Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för inmatning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
@@ -2107,7 +2107,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utmatning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
@@ -2189,12 +2189,12 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Röding</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OsigneradShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
@@ -2275,12 +2275,12 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="47"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">M</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="48"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">F</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="49"/>
@@ -2335,7 +2335,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
@@ -2381,7 +2381,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="68"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CT</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"/>
@@ -2698,7 +2698,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Denna kommandomodul har hämtats från Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
@@ -2740,7 +2740,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tidssteget beror på bildens dimensionalitet. I Slicer är bilderna 3D och standardtidssteget (.0625) ger en stabil lösning.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
@@ -2750,27 +2750,27 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska filtreras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrerad utgång</translation>
     </message>
 </context>
 <context>
@@ -3314,7 +3314,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för omvandling</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"/>
@@ -3459,7 +3459,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsmodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
@@ -3474,7 +3474,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsmodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
@@ -3677,7 +3677,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
@@ -3692,7 +3692,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatad bild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"/>
@@ -3796,7 +3796,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
@@ -3877,7 +3877,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="26"/>
         <source>Affine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Affine</translation>
     </message>
 </context>
 <context>
@@ -3905,22 +3905,22 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
@@ -3957,42 +3957,42 @@ Anisotropiska diffusionsmetoder reducerar brus (eller oönskade detaljer) i bild
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Denna kommandomodul har hämtats från Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för anisotropisk diffusion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för algoritmen för anisotropisk diffusion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konduktans</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iterationer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tidssteg</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conductance styr känsligheten hos conductance-termen. Som en allmän regel gäller att ju lägre värdet är, desto starkare bevarar filtret kanterna. Ett högt värde orsakar diffusion (utjämning) över kanterna. Observera att antalet iterationer styr hur mycket utjämning som görs inom områden som avgränsas av kanter.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ju fler iterationer, desto mer utjämning. Varje iteration tar lika lång tid. Om det tar 10 sekunder för en iteration tar det 100 sekunder för 10 iterationer. Observera att konduktansen styr hur mycket varje iteration jämnar ut kanterna.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
@@ -4012,17 +4012,17 @@ Anisotropiska diffusionsmetoder reducerar brus (eller oönskade detaljer) i bild
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska filtreras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
@@ -4100,17 +4100,17 @@ Det här filtret använder itkGrayscaleGeodesicErodeImageFilter.  Det ger sin eg
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
@@ -4120,7 +4120,7 @@ Det här filtret använder itkGrayscaleGeodesicErodeImageFilter.  Det ger sin eg
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrerad utgång</translation>
     </message>
 </context>
 <context>
@@ -4168,27 +4168,27 @@ Ett kompletterande filter, Grayscale Fill Hole, fyller igen hål i gråskalebild
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska filtreras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrerad utgång</translation>
     </message>
 </context>
 <context>
@@ -4216,12 +4216,12 @@ Ett kompletterande filter, Grayscale Fill Hole, fyller igen hål i gråskalebild
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
@@ -4246,17 +4246,17 @@ Ett kompletterande filter, Grayscale Fill Hole, fyller igen hål i gråskalebild
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar som används för att göra modeller.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tröskel</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modellnamn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"/>
@@ -4266,7 +4266,7 @@ Ett kompletterande filter, Grayscale Fill Hole, fyller igen hål i gråskalebild
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Decimera</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"/>
@@ -4316,7 +4316,7 @@ Ett kompletterande filter, Grayscale Fill Hole, fyller igen hål i gråskalebild
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Debugg</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="29"/>
@@ -4401,12 +4401,12 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
@@ -4416,12 +4416,12 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska filtreras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
@@ -4454,7 +4454,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
@@ -4598,17 +4598,17 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
@@ -4646,12 +4646,12 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
@@ -4681,7 +4681,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inställningar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"/>
@@ -4691,7 +4691,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etikettvärde</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
@@ -4754,27 +4754,27 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska filtreras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrerad utgång</translation>
     </message>
 </context>
 <context>
@@ -4802,7 +4802,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingång/utgång</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"/>
@@ -4832,7 +4832,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsmodell</translation>
     </message>
 </context>
 <context>
@@ -4861,12 +4861,12 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
@@ -4956,7 +4956,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smidig</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
@@ -5131,7 +5131,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
@@ -5141,7 +5141,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
@@ -5151,7 +5151,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsmodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
@@ -5184,12 +5184,12 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
@@ -5224,17 +5224,17 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrollera hur modulen fungerar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolationsordning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolationsordning om två bilder är i olika koordinatramar eller har olika sampling.</translation>
     </message>
 </context>
 <context>
@@ -5262,12 +5262,12 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatad bild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"/>
@@ -5277,7 +5277,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
@@ -5352,7 +5352,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"/>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Antal iterationer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="27"/>
@@ -5441,22 +5441,22 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
@@ -5476,7 +5476,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientering</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="16"/>
@@ -5765,7 +5765,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för inmatning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"/>
@@ -5805,7 +5805,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utmatning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
@@ -5825,7 +5825,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="20"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgång Etikett Värde</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="21"/>
@@ -5889,7 +5889,8 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -5970,7 +5971,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MSE</translation>
     </message>
 </context>
 <context>
@@ -5998,7 +5999,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
@@ -6009,7 +6010,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsmodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"/>
@@ -6052,7 +6053,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detta arbete är en del av National Alliance for Medical Image Computing (NAMIC), som finansieras av National Institutes of Health genom NIH Roadmap for Medical Research, Grant U54 EB005149. Information om National Centers for Biomedical Computing kan erhållas från http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
@@ -6062,17 +6063,17 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
@@ -6082,27 +6083,27 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska omsamplas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Återhämtad volym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="15"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Referensvolym (avstånd,storlek,orientering,ursprung)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="16"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för omvandling</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar som används för att omvandla ingångsbilden till utgångsbilden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"/>
@@ -6138,7 +6139,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"/>
         <source>displacement</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">förskjutning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="26"/>
@@ -6148,7 +6149,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="27"/>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="28"/>
@@ -6179,13 +6180,13 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="35"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">linjär</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">noll</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
@@ -6195,12 +6196,12 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
         <source>bs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
@@ -6250,7 +6251,7 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avancerade transformatorparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
@@ -6265,17 +6266,17 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inte en bulktransformator</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inkonsekvens i rymdorienteringen (mellan transform och bild)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Välj i vilken ordning transformationerna ska läsas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
@@ -6285,7 +6286,7 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rymdorienteringen mellan transform och bild är olika (RAS/LPS) (varning: om transformen är en Transform Node i Slicer3, välj inte)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
@@ -6311,12 +6312,12 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrerad omvandling</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
         <source>Image Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bildcenter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
@@ -6336,7 +6337,7 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bild som ska användas för att centrera transformationen (används endast om &quot;Centrerad transform&quot; har valts)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
@@ -6347,17 +6348,17 @@ Bevarande av huvudriktningen (PPD)</translation>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">input</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">utmatning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för manuell utgång</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
@@ -6367,7 +6368,7 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avstånd</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
@@ -6387,7 +6388,7 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avstånd längs varje dimension (0 betyder använd inmatningsavstånd)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
@@ -6402,17 +6403,17 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9 parametrar för riktningsmatrisen per rad (ijk till LPS om LPS-transformation, ijk till RAS om RAS-transformation)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avancerade parametrar för omsampling</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="83"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar som används för omprovtagning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
@@ -6422,12 +6423,12 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standard pixelvärde</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Antal trådar som används för att beräkna utdatabilden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
@@ -6447,7 +6448,7 @@ Bevarande av huvudriktningen (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fönsterfunktion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
@@ -6463,33 +6464,38 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fönsterfunktion
+h = Hamming
+c = Cosinus
+w = Welch
+l = Lanczos
+b = Blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="92"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="94"/>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="93"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">t</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="95"/>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">v</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="96"/>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="97"/>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
@@ -6499,7 +6505,7 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar som används för BSpline-interpolering</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
@@ -6524,7 +6530,7 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transformera typ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
@@ -6544,7 +6550,7 @@ a = Affin transform</translation>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="107"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="109"/>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">en</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"/>
@@ -6585,12 +6591,12 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingång/utgång</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
@@ -6600,12 +6606,12 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Referensvolym (för att ställa in utgångsparametrar)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
@@ -6615,7 +6621,7 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="13"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Återhämtad volym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="14"/>
@@ -6635,12 +6641,12 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"/>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transformera nod</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="18"/>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deformation Fältvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="19"/>
@@ -6650,7 +6656,7 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fil som innehåller deformationsfältet (3D-vektorbild som innehåller vektorer med 3 komponenter)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
@@ -6661,7 +6667,7 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"/>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">h-Fält</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"/>
@@ -6687,12 +6693,12 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="28"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="29"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">linjär</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="30"/>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="31"/>
@@ -6712,12 +6718,12 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="34"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dessa parametrar bör normalt inte ändras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"/>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transformerar ordning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"/>
@@ -6737,7 +6743,7 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Den transform som följer på BSpline-transformen är inte inställd som en bulktransform för BSpline-transformen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
@@ -6748,12 +6754,12 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="43"/>
         <source>output-to-input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">utmatning till inmatning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="42"/>
         <source>input-to-output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">inmatning till utmatning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="44"/>
@@ -6819,17 +6825,17 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="57"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för den utgående bilden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avstånd</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="59"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Storlek</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
@@ -6839,22 +6845,22 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Riktningsmatris</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="62"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avstånd längs varje dimension (0 betyder använd inmatningsavstånd)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="63"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Storlek längs varje dimension (0 betyder använd inmatningsstorlek)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ursprung för utdata Bild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
@@ -6869,7 +6875,7 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="67"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar som används för omprovtagning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
@@ -6889,17 +6895,17 @@ Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standardpixelvärde för prover som faller utanför inmatningsområdet</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för Sinc Interpolate-funktionen med fönster</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar som används för Windowed Sinc-interpolation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
@@ -6956,7 +6962,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för BSpline Interpolate-funktionen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
@@ -6967,7 +6973,7 @@ b = Blackman</translation>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spline Beställning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
@@ -6987,14 +6993,16 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">12 parametrar för transformationsmatrisen radvis ( --sista 3 är översättning-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="90"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algoritm för transformering
+rt = Styv transform
+a = Affin transform</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="91"/>
@@ -7005,7 +7013,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="92"/>
         <source>rt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">rt</translation>
     </message>
 </context>
 <context>
@@ -7043,7 +7051,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="11"/>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="12"/>
@@ -7104,22 +7112,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska omsamplas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"/>
@@ -7147,7 +7155,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar för segmentering</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"/>
@@ -7187,7 +7195,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgång Etikett Värde</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"/>
@@ -7222,7 +7230,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
@@ -7237,7 +7245,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
@@ -7335,7 +7343,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Frön</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
@@ -7370,27 +7378,27 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska filtreras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrerad utgång</translation>
     </message>
 </context>
 <context>
@@ -7418,7 +7426,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
@@ -7428,22 +7436,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inmatningsvolym 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
@@ -7453,7 +7461,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontroller</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
@@ -7463,7 +7471,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolationsordning</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
@@ -7496,17 +7504,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
@@ -7521,7 +7529,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filterinställningar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
@@ -7536,7 +7544,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lägre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
@@ -7675,27 +7683,27 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utgångsvolym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingångsvolym som ska filtreras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrerad utgång</translation>
     </message>
 </context>
 <context>
@@ -7725,47 +7733,57 @@ Den här filen utvecklades ursprungligen av Andras Lasso
         <translation>Parametrar</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="72"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="67"/>
+        <source>Sequence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
         <translation>Välj en sekvensnod för volymer som ska beskäras och omsamplas.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="73"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="76"/>
         <source>Input volume sequence: </source>
         <translation>Sekvens för inmatningsvolym: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="85"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="88"/>
         <source>(Overwrite input)</source>
         <translation>(Överskrivningsingång)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="88"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="92"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
         <translation>Välj en sekvensnod där de beskurna och omsamplade volymerna ska lagras.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="89"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="93"/>
         <source>Output volume sequence: </source>
         <translation>Volymsekvens för utmatning: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="104"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="108"/>
+        <source>Crop volume parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Select a crop volumes parameters.</source>
         <translation>Välj parametrar för en grödvolym.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="111"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="116"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
         <translation>Gå till Crop Volume-modulen för att redigera beskärningsparametrar.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="114"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
         <source>Crop volume settings: </source>
         <translation>Volyminställningar för beskärning: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="121"/>
+        <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="126"/>
         <source>Run the algorithm.</source>
         <translation type="unfinished">Run the algorithm.</translation>
     </message>
@@ -7880,7 +7898,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="448"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM-katalog</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="449"/>
@@ -8049,7 +8067,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="233"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ladda</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="236"/>
@@ -8090,7 +8108,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="329"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="497"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="470"/>
@@ -8194,7 +8212,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="54"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="62"/>
@@ -8308,7 +8326,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="37"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skalär volym</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
@@ -8392,42 +8410,42 @@ Den här filen utvecklades ursprungligen av Andras Lasso
         <translation>Det finns inget pixeldataattribut för DICOM-objekten, men de kan vara läsbara som sekundära fångstbilder.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="639"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="649"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
         <translation>Skapar en serie DICOM-filer från skalära volymer</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="667"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="677"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ogiltig ämneshierarki</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="671"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="681"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
         <translation>Serien &apos;{itemName}&apos; kan inte exporteras</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="688"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="698"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
         <translation>Det går inte att hämta studie för serien &apos;{volumeName}&apos;</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="693"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="703"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
         <translation>Det går inte att hämta patient för serien &apos;{volumeName}&apos;</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="742"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="752"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
         <translation>Tom modalitet för serien &apos;{volumeName}&apos;</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="756"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="766"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
         <translation>En serie finns redan i databasen med SeriesInstanceUID {seriesInstanceUID}.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="768"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="778"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
         <translation>Skapandet av DICOM-filer från skalär volym misslyckades. Se programloggen för mer information.</translation>
     </message>
@@ -8437,7 +8455,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="28"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer Data Bundle</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="76"/>
@@ -8457,7 +8475,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="182"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ogiltig ämneshierarki</translation>
     </message>
 </context>
 <context>
@@ -8465,7 +8483,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="26"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volymsekvens</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="96"/>
@@ -8507,17 +8525,17 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Det går inte att hämta studie för serien &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="186"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Det går inte att hämta patient för serien &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="215"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tom modalitet för serien &apos;{volumeName}&apos;</translation>
     </message>
 </context>
 <context>
@@ -8556,7 +8574,7 @@ som indikeras av musens position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="145"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okänd</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="157"/>
@@ -8595,18 +8613,23 @@ som indikeras av musens position.
         <translation type="unfinished">None</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
-        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="500"/>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="343"/>
+        <source>{description} [slice: {instanceNumber}]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="425"/>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="515"/>
         <source>Go to the DataProbe module for more information and options</source>
         <translation>Gå till DataProbe-modulen för mer information och alternativ</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="439"/>
         <source>Show Zoomed Slice</source>
         <translation>Visa Zoomad skiva</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="541"/>
+        <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="556"/>
         <source>Slice View Annotations Settings</source>
         <translation>Inställningar för anteckningar i skivvy</translation>
     </message>
@@ -8851,7 +8874,7 @@ Du kan spara kamerans position när som helst genom att klicka på &quot;Save ca
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="54"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detta arbete stöds av NA-MIC, NAC, BIRN, NCIGT och Slicer Community.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"/>
@@ -9218,29 +9241,14 @@ Du kan spara kamerans position när som helst genom att klicka på &quot;Save ca
 <context>
     <name>QObject</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="107"/>
         <source>Markups</source>
         <translation type="unfinished">Markups</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="78"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="76"/>
         <source>Sequence browser</source>
         <translation type="unfinished">Sequence browser</translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="50"/>
-        <source>Create new </source>
-        <translation>Skapa nytt </translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="51"/>
-        <source> as...</source>
-        <translation> som...</translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="52"/>
-        <source>Rename </source>
-        <translation>Byt namn </translation>
     </message>
 </context>
 <context>
@@ -9650,7 +9658,7 @@ och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="175"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utmatning</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
@@ -9675,7 +9683,7 @@ och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="178"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ av utgång:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"/>
@@ -10461,7 +10469,7 @@ Effekten använder &lt;a href=&quot;https://insight-journal.org/browse/publicati
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Applicera på synliga segment:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="74"/>
@@ -10481,12 +10489,12 @@ Effekten använder &lt;a href=&quot;https://insight-journal.org/browse/publicati
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="134"/>
         <source>Actual:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faktiskt:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="139"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tomt segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="251"/>
@@ -10686,7 +10694,7 @@ segmentlistan i effektalternativen - nedan.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rensa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
@@ -10805,7 +10813,7 @@ segmentlistan i effektalternativen - nedan.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="69"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Applicera på synliga segment:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="72"/>
@@ -10820,7 +10828,7 @@ segmentlistan i effektalternativen - nedan.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="122"/>
         <source>Not feasible at current resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inte genomförbart med nuvarande upplösning.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="125"/>
@@ -10835,7 +10843,7 @@ segmentlistan i effektalternativen - nedan.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="242"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bearbetning {segmentName}...</translation>
     </message>
 </context>
 <context>
@@ -10859,12 +10867,12 @@ Med funktionen Fill inside and outside skapas en binär labelmap-volym som utdat
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fylla inuti</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fylla utsidan</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
@@ -11078,7 +11086,7 @@ Om segmenten överlappar varandra prioriteras det segment som ligger högre upp 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="95"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Applicera på synliga segment:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="98"/>
@@ -11259,17 +11267,17 @@ Om segmenten överlappar varandra prioriteras det segment som ligger högre upp 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="203"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirkel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="210"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oavgjort</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="217"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rad</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="278"/>
@@ -11291,13 +11299,13 @@ Om segmenten överlappar varandra prioriteras det segment som ligger högre upp 
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="302"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="320"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genomsnitt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="311"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="327"/>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Övre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="334"/>
@@ -11519,7 +11527,7 @@ Med stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Se https://www.slice
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="60"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="61"/>
@@ -11551,7 +11559,7 @@ Med stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Se https://www.slice
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="75"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volym</translation>
     </message>
 </context>
 <context>
@@ -11564,7 +11572,7 @@ Med stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Se https://www.slice
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="404"/>
         <source>Voxel count</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Antal voxlar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="405"/>
@@ -11575,7 +11583,7 @@ Med stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Se https://www.slice
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="412"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="420"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volym</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
@@ -11586,12 +11594,12 @@ Med stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Se https://www.slice
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
         <source>mm3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="422"/>
         <source>cm3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="429"/>
@@ -11627,7 +11635,7 @@ Med stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Se https://www.slice
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="441"/>
         <source>mm2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mm2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="447"/>
@@ -11792,12 +11800,12 @@ Med stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Se https://www.slice
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="180"/>
         <source>mm3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="188"/>
         <source>cm3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="194"/>
@@ -11883,12 +11891,12 @@ Med stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Se https://www.slice
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="208"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genomsnitt</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="258"/>
         <source>Median</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Median</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="216"/>
@@ -11949,7 +11957,10 @@ om deras installerade version av slicer fungerar som den ska.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Detta arbete är en del av SparKit-projektet, finansierat av Cancer Care Ontario (CCO):s ACRU-program
+och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
 </context>
 <context>
@@ -12063,7 +12074,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 <context>
     <name>SomeContext</name>
     <message>
-        <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="59"/>
+        <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="58"/>
         <source>SomeMessage</source>
         <translation>Något meddelande</translation>
     </message>
@@ -12311,7 +12322,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="17"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parametrar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="23"/>
@@ -12344,12 +12355,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
         <translation type="unfinished">Apply</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="59"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="58"/>
         <source>Vector to Scalar Volume</source>
         <translation>Vektor till skalär volym</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="75"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="74"/>
         <source>
     &lt;p&gt;Make a scalar (1 component) volume from a vector volume.&lt;/p&gt;
 
@@ -12374,7 +12385,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="87"/>
         <source>
 Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
@@ -12387,77 +12398,77 @@ för medicinsk bildberäkning (NA-MIC), finansierad av National Institutes of He
 NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="89"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
         <source>Luminance</source>
         <translation>Luminans</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="90"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="89"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
         <translation>(RGB,RGBA) Luminans från de tre första komponenterna: 0.30*R + 0,59*G + 0,11*B + 0,0*A)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="93"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="92"/>
         <source>Average</source>
         <translation>Medel</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="94"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="93"/>
         <source>Average all the components.</source>
         <translation>Medelvärde för alla komponenter.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="97"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="96"/>
         <source>Single Component Extraction</source>
         <translation>Extrahering av en enda komponent</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="98"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="97"/>
         <source>Extract single component</source>
         <translation>Extrahera enstaka komponent</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="257"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="256"/>
         <source>Please select Input Vector Volume</source>
         <translation>Vänligen välj Input Vector Volume</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="259"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="258"/>
         <source>Please select Output Scalar Volume</source>
         <translation>Vänligen välj Output Scalar Volume</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="261"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="260"/>
         <source>Please select a component to extract</source>
         <translation>Välj en komponent som ska extraheras</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="285"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="284"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Misslyckades med att beräkna resultat.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="321"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="320"/>
         <source>no input volume node defined</source>
         <translation>ingen nod för inmatningsvolym definierad</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="325"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="324"/>
         <source>no output volume node defined</source>
         <translation>ingen nod för utmatningsvolym definierad</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="330"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="329"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
         <translation>inmatnings- och utmatningsvolymen är densamma. Skapa en ny volym för utdata för att undvika detta fel.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="347"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
         <translation>komponent som ska extraheras ({componentSelected}) är ogiltig. Bilden har endast {componentsTotal} komponenter.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="357"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="356"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
         <translation>inmatningen har bara {componentsTotal} komponenter men kräver minst 3 komponenter för luminansomvandling.</translation>
     </message>
@@ -12538,142 +12549,142 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
 <context>
     <name>WebServer</name>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="31"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
         <source>Web Server</source>
         <translation>Webbserver</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="35"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="36"/>
         <source>Provides an embedded web server in Slicer that allows control of the application via web services API (HTTP requests).</source>
         <translation>Tillhandahåller en inbäddad webbserver i Slicer som gör det möjligt att styra programmet via webbtjänster API (HTTP-förfrågningar).</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="44"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="45"/>
         <source>This work was partially funded by NIH grant 3P41RR013218.</source>
         <translation>Detta arbete finansierades delvis av NIH-anslag 3P41RR013218.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="65"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="66"/>
         <source>Start server</source>
         <translation>Starta server</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="68"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="69"/>
         <source>Start web server with the selected options.</source>
         <translation>Starta webbservern med de valda alternativen.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="71"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="72"/>
         <source>Stop server</source>
         <translation>Stoppa servern</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="74"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="75"/>
         <source>Stop the web server.</source>
         <translation>Stoppa webbservern.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="77"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="78"/>
         <source>Open static pages in external browser</source>
         <translation>Öppna statiska sidor i en extern webbläsare</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="79"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="80"/>
         <source>Open a connection to the server on the local machine with your system browser.</source>
         <translation>Öppna en anslutning till servern på den lokala maskinen med systemets webbläsare.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="82"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="83"/>
         <source>Open static pages in internal browser</source>
         <translation>Öppna statiska sidor i den interna webbläsaren</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="84"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="85"/>
         <source>Open a connection with Qt to the server on the local machine.</source>
         <translation>Öppna en anslutning med Qt till servern på den lokala maskinen.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="94"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="95"/>
         <source>Clear Log</source>
         <translation>Töm logg</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="96"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="97"/>
         <source>Clear the log window.</source>
         <translation>Rensa loggfönstret.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="104"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="105"/>
         <source>Advanced</source>
         <translation type="unfinished">Advanced</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
         <source>Enable Cross Origin Resource Sharing (stop server to change option). Warning: this option allows any web page to access the server.</source>
         <translation>Aktivera Cross Origin Resource Sharing (stoppa servern för att ändra alternativet). Varning: detta alternativ gör att alla webbsidor kan komma åt servern.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
         <source>Enable CORS: </source>
         <translation>Aktivera CORS: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
         <source>Enable remote control of Slicer application (stop server to change option)</source>
         <translation>Aktivera fjärrstyrning av Slicer-applikationen (stoppa servern för att ändra alternativet)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
         <source>Slicer API: </source>
         <translation>Slicer API: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
         <translation>Möjliggör exekvering av godtyckligt Python-kommando med hjälp av Slicer API. Det har bara effekt om Slicer API också är aktiverat (stoppa servern för att ändra alternativet).</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
         <source>Slicer API exec: </source>
         <translation>Slicer API exekvering: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="126"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
         <source>Enable serving Slicer DICOM database content via DICOMweb (stop server to change option)</source>
         <translation>Gör det möjligt att visa innehållet i Slicers DICOM-databas via DICOMweb (stoppa servern för att ändra alternativet)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="128"/>
         <source>DICOMweb API: </source>
         <translation>DICOMweb API: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
         <source>Enable serving static pages (stop server to change option)</source>
         <translation>Aktivera servering av statiska sidor (stoppa servern för att ändra alternativet)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
         <source>Static pages: </source>
         <translation>Statiska sidor: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Copy log messages to the python console and parent terminal (disable to improve performance)</source>
         <translation>Kopiera loggmeddelanden till pythonkonsolen och den överordnade terminalen (inaktivera för att förbättra prestandan)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Log to Console: </source>
         <translation>Logga till konsolen: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Copy log messages to the log widget (disable to improve performance)</source>
         <translation>Kopiera loggmeddelanden till loggwidgeten (inaktivera för att förbättra prestandan)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Log to GUI: </source>
         <translation>Logga till GUI: </translation>
     </message>
@@ -12681,12 +12692,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
 <context>
     <name>qMRMLCaptureToolBar</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="105"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="107"/>
         <source>Screenshot</source>
         <translation>Skärmdump</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="106"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="108"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
         <translation>Ta en skärmdump av den fullständiga layouten, 3D-vyn eller snittvyerna. Använd Arkiv, Spara för att spara bilden.</translation>
@@ -12702,22 +12713,22 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <translation>Fånga och namnge en scenvy.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="124"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="123"/>
         <source>Restore view</source>
         <translation>Återställ vy</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="126"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="125"/>
         <source>Restore or delete saved scene views.</source>
         <translation>Återställ eller radera sparade scenvyer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="181"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="175"/>
         <source>SceneView Name</source>
         <translation>SceneView Namn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="182"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="175"/>
         <source>SceneView Name:</source>
         <translation>SceneView Namn:</translation>
     </message>
@@ -12952,7 +12963,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <translation>Format:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="80"/>
+        <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="83"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;Formatfältet använder printf-funktionens syntax. Exempel på format:&lt;br&gt;   - visning med 1 fraktionerade siffror: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;   - visa heltal: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;   - visning med 4 signifikanta siffror: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;   - sträng etikett anteckning: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -12977,7 +12988,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="76"/>
         <source>Terminology</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Terminologi</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="160"/>
@@ -12985,8 +12996,8 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <translation type="unfinished">None</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="550"/>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="577"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="542"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="569"/>
         <source>%2 %1</source>
         <extracomment>For formatting of terminology entry with a modifier in simplified mode. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
@@ -12994,28 +13005,28 @@ For formatting of terminology entry name in simplified mode. %1 is region name (
         <translation>%2 %1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="555"/>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="582"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="547"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="574"/>
         <source>%1, %2</source>
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1, %2</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="593"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="585"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
         <translation>%1 i %2</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="605"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="597"/>
         <source>Unknown in %1</source>
         <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
         <translation>Okänd i %1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="625"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="617"/>
         <source>%1: %2</source>
         <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
         <translation>%1: %2</translation>
@@ -13282,57 +13293,57 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>Ny kurva för provtagning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="125"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="111"/>
         <source>Linear</source>
         <translation type="unfinished">Linear</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="129"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="115"/>
         <source>Spline</source>
         <translation>Spline</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="133"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="119"/>
         <source>Kochanek spline</source>
         <translation>Kochanek spline</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="137"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="123"/>
         <source>Polynomial</source>
         <translation>Polynom</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="141"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="127"/>
         <source>Shortest distance on surface</source>
         <translation>Kortaste avståndet på ytan</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="146"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="132"/>
         <source>Unknown</source>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="158"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="144"/>
         <source>Distance</source>
         <translation>Avstånd</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="162"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="148"/>
         <source>Additive</source>
         <translation>Additiv</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="166"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="152"/>
         <source>Multiplicative</source>
         <translation>Multiplikativ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="170"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="156"/>
         <source>Inverse squared</source>
         <translation>Invers kvadrerad</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="262"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="248"/>
         <source>distance</source>
         <extracomment>Used in mathematical expression of cost function of the curve</extracomment>
         <translation>avstånd</translation>
@@ -13533,12 +13544,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>Handtag för interaktion</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="117"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="102"/>
         <source>unconstrained</source>
         <translation>obegränsad</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="118"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="103"/>
         <source>snap to visible surface</source>
         <translation>snäpper fast på synlig yta</translation>
     </message>
@@ -13654,7 +13665,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="242"/>
         <source>View plane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visa planet</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="285"/>
@@ -13745,17 +13756,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation type="unfinished">Opacity:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="108"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="97"/>
         <source>Three points</source>
         <translation>Tre poäng</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="110"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="98"/>
         <source>Point normal</source>
         <translation>Punkt normal</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="112"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="99"/>
         <source>Plane fit</source>
         <translation>Passform för flygplan</translation>
     </message>
@@ -13838,9 +13849,9 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>Välj aktiv markering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="501"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="483"/>
         <source>Create new %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skapa ny %1</translation>
     </message>
 </context>
 <context>
@@ -14210,7 +14221,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>Attributvärde(n)</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="194"/>
         <source>There is already an attribute with the same name</source>
         <translation>Det finns redan ett attribut med samma namn</translation>
     </message>
@@ -14256,49 +14267,58 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLNodeComboBox</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="71"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="62"/>
         <source>None</source>
         <translation type="unfinished">None</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="251"/>
-        <source>Select a </source>
-        <translation>Välj en </translation>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="233"/>
+        <source>Select a %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="309"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="485"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1126"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1129"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1348"/>
-        <source>Rename current </source>
-        <translation>Byt namn på nuvarande </translation>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="292"/>
+        <source>Rename current %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="313"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="480"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1100"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1103"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1346"/>
-        <source>Edit current </source>
-        <translation>Redigera aktuell </translation>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="298"/>
+        <source>Edit current %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="747"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="306"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="695"/>
+        <source>Create new %1</source>
+        <translation type="unfinished">Skapa ny %1</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="310"/>
+        <source>Create new %1 as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="318"/>
+        <source>Delete current %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="680"/>
+        <source>Rename %1</source>
+        <extracomment>%1 refers to the node type label</extracomment>
+        <translation type="unfinished">Byt namn på %1</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="714"/>
         <source>New name:</source>
         <translation>Nytt namn:</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1074"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1077"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1344"/>
-        <source>Delete current </source>
-        <translation>Radera aktuell </translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="621"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="586"/>
         <source>node</source>
         <translation>nod</translation>
     </message>
@@ -14580,7 +14600,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLPlotSeriesPropertiesWidgetPrivate</name>
     <message>
-        <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="167"/>
+        <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="157"/>
         <source>This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</source>
         <translation>Denna plottyp använder index som X-axelvärden. Byt till spridningsdiagramtyp för att tillåta kolumnval.</translation>
     </message>
@@ -14713,17 +14733,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>Justera Plot Viewer&apos;s synfält för att matcha omfattningen av Plot-axlarna</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="108"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="107"/>
         <source>P</source>
         <translation>P</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="337"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="330"/>
         <source>Save as SVG</source>
         <translation>Spara som SVG</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="338"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="330"/>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Skalbar vektorgrafik (*.svg)</translation>
     </message>
@@ -14764,7 +14784,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLRangeWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLRangeWidget.cxx" line="70"/>
+        <location filename="Libs/MRML/Widgets/qMRMLRangeWidget.cxx" line="67"/>
         <source>Symmetric handles</source>
         <translation>Symmetriska handtag</translation>
     </message>
@@ -14886,7 +14906,7 @@ bör du ställa in &quot;backface&quot; och &quot;frontface&quot; till OFF i alt
 <context>
     <name>qMRMLSceneHierarchyModel</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="395"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="384"/>
         <source>Checked: Force color to children</source>
         <translation>Kontrollerad: Tvinga färg till barn</translation>
     </message>
@@ -14894,7 +14914,7 @@ bör du ställa in &quot;backface&quot; och &quot;frontface&quot; till OFF i alt
 <context>
     <name>qMRMLSceneViewMenu</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLSceneViewMenu.cxx" line="198"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLSceneViewMenu.cxx" line="199"/>
         <source>No scene views</source>
         <translation>Inga scenvyer</translation>
     </message>
@@ -14902,77 +14922,77 @@ bör du ställa in &quot;backface&quot; och &quot;frontface&quot; till OFF i alt
 <context>
     <name>qMRMLScreenShotDialog</name>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="189"/>
         <source>Name:</source>
         <translation type="unfinished">Name:</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
-        <source>Thumbnail:</source>
-        <translation>Tumbild:</translation>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
+        <source>Thumbnail</source>
+        <translation type="unfinished">Miniatyr</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
         <source>Full layout</source>
         <translation>Fullständig layout</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
         <source>3D View</source>
         <translation>3D-vy</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="72"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
         <source>Red Slice View</source>
         <translation>Röd skiva vy</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="83"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="69"/>
         <source>Yellow Slice View</source>
         <translation>Gul skiva vy</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="94"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="80"/>
         <source>Green Slice View</source>
         <translation>Grön skiva vy</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="138"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="126"/>
         <source>Scale factor:</source>
         <translation type="unfinished">Scale factor:</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="145"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="139"/>
         <source>Adjust the Magnification factor.</source>
         <translation>Justera förstoringsfaktorn.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="154"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="142"/>
         <source>x</source>
         <translation type="unfinished">x</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="173"/>
-        <source>Save As...:</source>
-        <translation>Spara som...:</translation>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="174"/>
+        <source>Save As...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="180"/>
-        <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="206"/>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="196"/>
         <source>Save snapshot via File Save. Edit in Annotations module.</source>
         <translation>Spara ögonblicksbilden via File Save. Redigera i modulen Annotations.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="425"/>
+        <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="432"/>
         <source>Save File</source>
         <translation type="unfinished">Save File</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
+        <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="432"/>
         <source>Images (*.png *.jpg)</source>
         <translation>Bilder (*.png *.jpg)</translation>
     </message>
@@ -15048,7 +15068,7 @@ bör du ställa in &quot;backface&quot; och &quot;frontface&quot; till OFF i alt
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="147"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="426"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="427"/>
         <source>Segmentations</source>
         <translation>Segmenteringar</translation>
     </message>
@@ -15118,72 +15138,72 @@ bör du ställa in &quot;backface&quot; och &quot;frontface&quot; till OFF i alt
         <translation>Styr vilka segment som det aktuella segmentet ska skriva över. Segment som inte skrivs över kan överlappa med det valda segmentet.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="412"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="413"/>
         <source>Everywhere</source>
         <translation>Överallt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="413"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="414"/>
         <source>Inside all segments</source>
         <translation>Inom alla segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="414"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="415"/>
         <source>Inside all visible segments</source>
         <translation>Inuti alla synliga segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="415"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="416"/>
         <source>Outside all segments</source>
         <translation>Utanför alla segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="416"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="417"/>
         <source>Outside all visible segments</source>
         <translation>Utanför alla synliga segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="420"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="421"/>
         <source>Overwrite all</source>
         <translation type="unfinished">Overwrite all</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="421"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="422"/>
         <source>Overwrite visible</source>
         <translation>Skriva över synligt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="422"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="423"/>
         <source>Allow overlap</source>
         <translation type="unfinished">Allow overlap</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="428"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="429"/>
         <source>Import/export nodes...</source>
         <translation>Importera/exportera noder...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="431"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="432"/>
         <source>Export to files...</source>
         <translation>Exportera till filer...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="434"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="435"/>
         <source>Export to color table</source>
         <translation>Exportera till färgtabell</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1056"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1052"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1057"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1053"/>
         <source>No editing</source>
         <translation>Ingen redigering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1390"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1383"/>
         <source>Editing requires binary labelmap source representation, but currently the source representation is %1. Changing the source representation requires conversion. Some details may be lost during conversion process.
 
 Change source representation to binary labelmap?</source>
@@ -15195,30 +15215,30 @@ Change master representation to binary labelmap?</oldsource>
 Ändra källrepresentation till binär etikettmapp?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1395"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1388"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
         <translation>Ändra källrepresentationen till binär labelmap?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1416"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1408"/>
         <source>Failed to create binary labelmap representation in segmentation %1 for editing!
 Please see Segmentations module for details.</source>
         <translation>Misslyckades med att skapa binär etikettmapprepresentation i segmentering %1 feller redigering!
 Se modulen Segmenteringar för mer information.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1418"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1409"/>
         <source>Failed to create binary labelmap for editing</source>
         <translation>Misslyckades med att skapa binär etikettmapp för redigering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2429"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2387"/>
         <source>Inside </source>
         <translation>Insida </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3517"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3460"/>
         <source>Export segments to files</source>
         <translation>Exportera segment till filer</translation>
     </message>
@@ -15265,9 +15285,9 @@ Se modulen Segmenteringar för mer information.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="107"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="238"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="272"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="237"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="271"/>
         <source>Path</source>
         <translation type="unfinished">Path</translation>
     </message>
@@ -15278,19 +15298,19 @@ Se modulen Segmenteringar för mer information.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="112"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="340"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="424"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="339"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="422"/>
         <source>Name</source>
         <translation type="unfinished">Name</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="184"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="112"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="305"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="324"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="365"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="372"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="304"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="323"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="363"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="370"/>
         <source>Value</source>
         <translation type="unfinished">Value</translation>
     </message>
@@ -15300,48 +15320,48 @@ Se modulen Segmenteringar för mer information.</translation>
         <translation>Konvertera</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="107"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="254"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="253"/>
         <source>Cost</source>
         <translation>Kostnad</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="159"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="158"/>
         <source>Invalid segmentation</source>
         <translation>Ogiltig segmentering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="187"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="186"/>
         <source>Invalid representation</source>
         <translation>Ogiltig representation</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="233"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="232"/>
         <source>No path available!</source>
         <translation>Ingen väg tillgänglig!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="300"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="299"/>
         <source>No path selected</source>
         <translation>Ingen sökväg vald</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="319"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="318"/>
         <source>No parameters for selected path</source>
         <translation>Inga parametrar för vald bana</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="355"/>
         <source>Specify geometry</source>
         <translation>Ange geometri</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="403"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="401"/>
         <source>Failed to convert %1 to %2!</source>
         <translation>Misslyckades med att konvertera %1 till %2!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="402"/>
         <source>Conversion failed</source>
         <translation type="unfinished">Conversion failed</translation>
     </message>
@@ -15453,20 +15473,20 @@ Se modulen Segmenteringar för mer information.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="511"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klippning</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="529"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clip node:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="209"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="204"/>
         <source>Selected segment: none</source>
         <translation>Valt segment: inget</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="261"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="245"/>
         <source>Selected segment: %1</source>
         <translation>Valt segment: %1</translation>
     </message>
@@ -15599,12 +15619,12 @@ Se modulen Segmenteringar för mer information.</translation>
         <translation type="unfinished">Reference volume:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="297"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="288"/>
         <source>Exporting may erase data</source>
         <translation>Export kan radera data</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="303"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="294"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
@@ -15616,27 +15636,27 @@ Vill du beskära segmenteringen?
 <context>
     <name>qMRMLSegmentationGeometryDialog</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="85"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="88"/>
         <source>Segmentation geometry</source>
         <translation>Geometri för segmentering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="101"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="104"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="104"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="107"/>
         <source>Cancel</source>
         <translation type="unfinished">Cancel</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="161"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="164"/>
         <source>Set reference image geometry and resample all segment labelmaps</source>
         <translation>Ställ in referensbildsgeometri och omprova alla segmentets labelmaps</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="165"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="168"/>
         <source>Set reference image geometry (do not resample)</source>
         <translation>Ställ in referensbildgeometri (gör inte om samplingen)</translation>
     </message>
@@ -15721,12 +15741,12 @@ Vill du beskära segmenteringen?
         <translation type="unfinished">Dimensions:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="177"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="169"/>
         <source>The current segmentation may not fit into the new geometry.</source>
         <translation>Den nuvarande segmenteringen kanske inte passar in i den nya geometrin.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="411"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="399"/>
         <source>No segmentation node specified!</source>
         <translation>Ingen segmenteringsnod specificerad!</translation>
     </message>
@@ -15744,12 +15764,12 @@ Vill du beskära segmenteringen?
         <translation type="unfinished">No node selected</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="171"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="167"/>
         <source>No node is selected</source>
         <translation type="unfinished">No node is selected</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="210"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="207"/>
         <source>This is the source representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</source>
@@ -15761,22 +15781,22 @@ Vill du beskära segmenteringen?
   2. Om denna representation ändras, raderas de andra</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="215"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="212"/>
         <source>This representation is present</source>
         <translation>Denna representation är närvarande</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="223"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="220"/>
         <source>This representation is not present</source>
         <translation>Denna representation är inte närvarande</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="235"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="232"/>
         <source>Update</source>
         <translation type="unfinished">Update</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="236"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="233"/>
         <source>Update %1 representation using custom conversion parameters.
 
 Click the down-arrow button for additional operations.</source>
@@ -15785,28 +15805,28 @@ Click the down-arrow button for additional operations.</source>
 Klicka på knappen med nedåtpilen för ytterligare åtgärder.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="247"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="245"/>
         <source>Remove</source>
         <translation type="unfinished">Remove</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="248"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="246"/>
         <source>Remove %1 representation from segmentation</source>
         <translation>Ta bort %1-representationen från segmenteringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="258"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="256"/>
         <source>Make source</source>
         <oldsource>Make master</oldsource>
         <translation>Gör källa</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="268"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="266"/>
         <source>Create</source>
         <translation>Skapa</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="269"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="267"/>
         <source>Create %1 representation using default conversion parameters.
 
 Press and hold button to access advanced conversion and removal options.</source>
@@ -15815,17 +15835,17 @@ Press and hold button to access advanced conversion and removal options.</source
 Håll knappen intryckt för att få tillgång till avancerade alternativ för konvertering och borttagning.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="279"/>
         <source>Advanced create...</source>
         <translation>Avancerad skapa...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="281"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
         <source>Create %1 representation using custom conversion parameters</source>
         <translation>Skapa %1-representation med hjälp av anpassade konverteringsparametrar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="316"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="315"/>
         <source>Failed to convert %1 to %2!
 
 Probably there is no valid conversion path between the source representation and %2</source>
@@ -15867,48 +15887,48 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
 <context>
     <name>qMRMLSegmentationShow3DButton</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="76"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="79"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="78"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="81"/>
         <source>Show 3D</source>
         <translation type="unfinished">Show 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="81"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="83"/>
         <source>Surface smoothing</source>
         <translation>Utjämning av ytor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="83"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="84"/>
         <source>Apply smoothing when converting binary labelmap to closed surface representation.</source>
         <translation>Tillämpa utjämning vid konvertering av binär labelmap till representation av sluten yta.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="88"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="89"/>
         <source>Smoothing factor</source>
         <translation>Utjämningsfaktor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="92"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="93"/>
         <source>Experimental</source>
         <translation>Experiment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="96"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="97"/>
         <source>Use Surface Nets (fast)</source>
         <translation>Använd ytnät (snabbt)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="98"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="99"/>
         <source>Create closed surface using surface nets. By default, flying edges is used. Surface nets are more performant.</source>
         <translation>Skapa en sluten yta med hjälp av ytnät. Som standard används flygande kanter. Ytanät är mer högpresterande.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="104"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="105"/>
         <source>Use Surface Nets Smoothing (faster)</source>
         <translation>Använd Surface Nets Utjämning (snabbare)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="107"/>
         <source>Use surface nets internal smoothing (more performant). vtkWindowedSincPolyDataFilter is used by default.</source>
         <translation>Använd ytnätets interna utjämning (bättre prestanda). vtkWindowedSincPolyDataFilter används som standard.</translation>
     </message>
@@ -15961,32 +15981,32 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
         <translation>Segmentets status</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="482"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="481"/>
         <source>Not started</source>
         <translation>Ej påbörjad</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="487"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="486"/>
         <source>In progress</source>
         <translation>Påbörjad</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="491"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="490"/>
         <source>Completed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slutförd</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="495"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="494"/>
         <source>Flagged</source>
         <translation>Flaggat</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1061"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1047"/>
         <source>No terminology information</source>
         <translation>Ingen information om terminologi</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1066"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1052"/>
         <source>Invalid terminology information</source>
         <translation>Ogiltig terminologiinformation</translation>
     </message>
@@ -16029,117 +16049,117 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
         <translation>Visa/dölj flaggade segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="578"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="567"/>
         <source>Choose new segment color</source>
         <translation>Välj ny färg på segmentet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="604"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="594"/>
         <source>Stop using terminologies?</source>
         <translation>Sluta använda terminologier?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="605"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="595"/>
         <source>You frequently enter custom name or color. How do you prefer setting name and color next time?</source>
         <translation>Du anger ofta anpassat namn eller färg. Hur skulle du vilja ställa in namn och färg nästa gång?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="610"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="601"/>
         <source>Switch to direct editing</source>
         <translation>Byt till direktredigering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="611"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="602"/>
         <source>Keep using terminology selector</source>
         <translation>Fortsätt använda terminologiväljaren</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="612"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="603"/>
         <source>Ask me later</source>
         <translation>Fråga mig senare</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="644"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="635"/>
         <source>No node is selected</source>
         <translation>Ingen nod är vald</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="649"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="640"/>
         <source>Empty segmentation</source>
         <translation>Segmentering av tomma ytor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1188"/>
         <source>Toggle selected segments visibility</source>
         <translation>Växla synlighet för valda segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1202"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1192"/>
         <source>Show only selected segments</source>
         <translation>Visa endast valda segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1208"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hoppa över skivor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1214"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1204"/>
         <source>Move selected segments up</source>
         <translation>Flytta valda segment uppåt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1218"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1208"/>
         <source>Move selected segments down</source>
         <translation>Flytta valda segment nedåt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1225"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1215"/>
         <source>Show filter bar</source>
         <translation>Visa filterfält</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1231"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1221"/>
         <source>Show layer column</source>
         <translation>Visa kolumn för lager</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1252"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1242"/>
         <source>Show in 3D</source>
         <translation>Visa i 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1259"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1249"/>
         <source>Show in 2D as fill</source>
         <translation>Visa i 2D som fyllning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1266"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1256"/>
         <source>Show in 2D as outline</source>
         <translation>Visa i 2D som kontur</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1290"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1280"/>
         <source>Clear selected segments</source>
         <translation>Rensa valda segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1298"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1288"/>
         <source>Use standard terminology for name and color selection</source>
         <translation>Använda standardterminologi för namn- och färgval</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1370"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1360"/>
         <source>Clear</source>
         <translation>Rensa</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1371"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1361"/>
         <source>Cancel</source>
         <translation type="unfinished">Cancel</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1373"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1363"/>
         <source>Are you sure you want to clear the contents of the selected segments?</source>
         <translation>Är du säker på att du vill rensa innehållet i de valda segmenten?</translation>
     </message>
@@ -16197,17 +16217,17 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
         <translation>Registrera ögonblicksbild av aktuellt tillstånd för alla proxy-noder</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="317"/>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="318"/>
         <source>Play/Pause (%1)</source>
         <translation>Spela upp/Pausa (%1)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="333"/>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="334"/>
         <source>Previous frame (%1)</source>
         <translation>Föregående ram (%1)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="349"/>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="350"/>
         <source>Next frame (%1)</source>
         <translation>Nästa bildruta (%1)</translation>
     </message>
@@ -16311,7 +16331,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
         <translation>Typ av nod:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceEditWidget.cxx" line="356"/>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceEditWidget.cxx" line="349"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
@@ -16419,7 +16439,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="650"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktivera TSR (Thick Slab Reconstruction). TSR används för att sammanfoga sammanhängande skivor inom ett visst intervall.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="667"/>
@@ -16824,12 +16844,12 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
         <translation>Visa skivans kant i 3D-vyn</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="345"/>
         <source>Slice distance from RAS origin</source>
         <translation>Skivans avstånd från RAS-ursprung</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2744"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2578"/>
         <source>Continue</source>
         <translation>Fortsätt</translation>
     </message>
@@ -16837,122 +16857,122 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
 <context>
     <name>qMRMLSliceControllerWidgetPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="491"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="418"/>
         <source>Linked</source>
         <translation>Länkad</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="506"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="432"/>
         <source>Reformat</source>
         <translation type="unfinished">Reformat</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="521"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="446"/>
         <source>Lightbox view</source>
         <translation>Lightbox-vy</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="533"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="458"/>
         <source>Custom</source>
         <translation>Anpassad</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="543"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="468"/>
         <source>Apply</source>
         <translation type="unfinished">Apply</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="570"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="494"/>
         <source>Compositing</source>
         <translation>Komposition</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="593"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="516"/>
         <source>Slice spacing mode</source>
         <translation>Läge för skivavståndet</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="597"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="520"/>
         <source>Manual spacing</source>
         <translation>Manuellt avstånd</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="612"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="534"/>
         <source>Field of view</source>
         <translation>Synfält</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="637"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="558"/>
         <source>Slice model mode</source>
         <translation>Läge för skivmodell</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="657"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="578"/>
         <source>Manual FOV</source>
         <translation>Manuell FOV</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="682"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="601"/>
         <source>Manual Dimensions</source>
         <translation>Manuella mått</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="707"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="624"/>
         <source>Manual Origin</source>
         <translation>Manuell Ursprung</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="739"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="654"/>
         <source>Segmentation</source>
         <translation type="unfinished">Segmentation</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="748"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="663"/>
         <source>LabelMap</source>
         <translation type="unfinished">LabelMap</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="757"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="672"/>
         <source>Advanced</source>
         <translation type="unfinished">Advanced</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="920"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="823"/>
         <source>Hide label volume outlines</source>
         <translation>Dölj etikettvolymens konturer</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="920"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="823"/>
         <source>Show label volume outlines</source>
         <translation>Visa etikettvolymens konturer</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="925"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="827"/>
         <source>Hide reformat widget</source>
         <translation>Dölj widget för omformatering</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="925"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="827"/>
         <source>Show reformat widget</source>
         <translation type="unfinished">Show reformat widget</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1557"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1418"/>
         <source>Orientation marker</source>
         <translation type="unfinished">Orientation marker</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1593"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1454"/>
         <source>Ruler</source>
         <translation type="unfinished">Ruler</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1605"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1466"/>
         <source>Thick slab reconstruction</source>
         <translation>Rekonstruktion av tjock platta</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1615"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1476"/>
         <source>Slab thickness</source>
         <translation>Plattans tjocklek</translation>
     </message>
@@ -17137,82 +17157,82 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
 <context>
     <name>qMRMLSubjectHierarchyModel</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="71"/>
         <source>None</source>
         <translation type="unfinished">None</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="127"/>
         <source>Node</source>
         <translation>Nod</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="129"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
         <source>Description</source>
         <translation>Beskrivning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
         <source>IDs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IDn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
         <source>Node name and type</source>
         <translation>Nodens namn och typ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node description</source>
         <translation>Beskrivning av noden</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
         <source>Show/hide branch or node</source>
         <translation>Visa/dölj gren eller nod</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="138"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
         <source>Node color</source>
         <translation>Nodens färg</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="139"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="138"/>
         <source>Applied transform</source>
         <translation>Tillämpad omvandling</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="140"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="139"/>
         <source>Node ID</source>
         <translation>Nodens ID</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1065"/>
         <source>No subject hierarchy role assigned! Please report error</source>
         <translation>Ingen ämneshierarkisk roll tilldelad! Vänligen rapportera felet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1158"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1230"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1168"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1240"/>
         <source>Apply transform to children</source>
         <translation>Tillämpa transform på barn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1172"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1244"/>
         <source>This node is not transformable</source>
         <translation>Denna nod är inte transformerbar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1371"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1443"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>Vissa noder i grenen är redan omvandlade</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1372"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1444"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
@@ -17224,62 +17244,62 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
 <context>
     <name>qMRMLSubjectHierarchyTreeView</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="222"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="220"/>
         <source>Rename</source>
         <translation>Byt namn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="227"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="224"/>
         <source>Delete</source>
         <translation type="unfinished">Delete</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="232"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="228"/>
         <source>Edit properties...</source>
         <translation>Redigera egenskaper...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="237"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="232"/>
         <source>Hide</source>
         <translation>Dölj</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="240"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="235"/>
         <source>Show</source>
         <translation>Visa</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="243"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="238"/>
         <source>Toggle visibility</source>
         <translation>Växla synlighet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="350"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="345"/>
         <source>Create new %1</source>
         <translation>Skapa ny %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2567"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2533"/>
         <source>node</source>
         <translation type="unfinished">node</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="68"/>
         <source>Expand tree to level...</source>
         <translation>Expandera träd till nivå...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="399"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="394"/>
         <source>Select plugin</source>
         <translation>Välj plugin</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1865"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1843"/>
         <source>Delete subject hierarchy branch?</source>
         <translation>Ta bort ämneshierarki gren?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1866"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1844"/>
         <source>The deleted subject hierarchy item has children. Do you want to remove those too?
 
 If you choose yes, the whole branch will be deleted, including all children.
@@ -17293,12 +17313,12 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
 <context>
     <name>qMRMLTableModel</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="138"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="140"/>
         <source>Unit: %1</source>
         <translation>Enhet: %1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="171"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="173"/>
         <source>Properties:</source>
         <translation>Fastighets:</translation>
     </message>
@@ -17306,34 +17326,34 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
 <context>
     <name>qMRMLTableView</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="481"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="476"/>
         <source>Column %1 is invalid. Failed to generate a plot</source>
         <translation>Kolumnen %1 är ogiltig. Misslyckades med att generera en plot</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="483"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="493"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="509"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="478"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="489"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="505"/>
         <source>Failed to create Plot</source>
         <translation>Misslyckades med att skapa Plot</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="489"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="484"/>
         <source>Type of column %1 is &apos;bit&apos;. Plotting of these types are currently not supported. Please convert the data type of this column to numeric using Table module&apos;s Column properties section, or select different columns for plotting.</source>
         <translation>Typ av kolumn %1 är &apos;bit&apos;. Plottning av dessa typer stöds inte för närvarande. Konvertera datatypen för den här kolumnen till numerisk med hjälp av avsnittet Kolumnegenskaper i modulen Table, eller välj andra kolumner för plottning.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="505"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="501"/>
         <source>Multiple &apos;string&apos; type of columns are selected for plotting (%1, %2) but only one is allowed. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
         <translation>Flera kolumner av typen &quot;string&quot; har valts för plottning (%1, %2), men endast en är tillåten. Ändra valet eller konvertera datatypen för den här kolumnen till numerisk med hjälp av avsnittet &quot;Kolumnegenskaper&quot; i modulen Table.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="521"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="517"/>
         <source>A single &apos;string&apos; type column is selected. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
         <translation>En enda kolumn av typen &apos;string&apos; har valts. Ändra valet eller konvertera datatypen för den här kolumnen till numerisk med hjälp av avsnittet &quot;Kolumnegenskaper&quot; i modulen Table.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="520"/>
         <source>Failed to plot data</source>
         <translation>Misslyckades med att plotta data</translation>
     </message>
@@ -17352,7 +17372,7 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="84"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="83"/>
         <source>Copy</source>
         <translation type="unfinished">Copy</translation>
     </message>
@@ -17370,13 +17390,13 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="91"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="90"/>
         <source>Paste</source>
         <translation type="unfinished">Paste</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="98"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="97"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
     </message>
@@ -17411,12 +17431,12 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
         <translation>Lås första raden</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="369"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klicka för att låsa upp denna tabell så att värdena kan ändras</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="381"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="374"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
         <translation>Klicka för att låsa tabellen och förhindra att värdena ändras i användargränssnittet</translation>
     </message>
@@ -17473,7 +17493,7 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="150"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="140"/>
         <source>Orientation marker</source>
         <translation>Orienteringsmarkör</translation>
     </message>
@@ -17761,7 +17781,7 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="611"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skuggor synlighet</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="614"/>
@@ -17769,77 +17789,77 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
         <translation>Få objekt att kasta skuggor för att förbättra djupseendet</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="230"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="211"/>
         <source>Stereo Modes</source>
         <translation>Stereolägen</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="108"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="100"/>
         <source>Visibility</source>
         <translation type="unfinished">Visibility</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="184"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="174"/>
         <source>Ruler</source>
         <translation>Linjal</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="192"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="182"/>
         <source>More</source>
         <translation>Mer</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="275"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="248"/>
         <source>Shadows</source>
         <translation>Skuggor</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="284"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="256"/>
         <source>Size scale</source>
         <translation>Storlek skala</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="287"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="259"/>
         <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
         <translation>Storlek på objekt som ska framhävas av skuggor. Skalan är logaritmisk, standardvärdet (0,0) motsvarar en objektstorlek på ca 100 mm.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="304"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="274"/>
         <source>Volume opacity threshold</source>
         <translation>Tröskelvärde för volymens opacitet</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="308"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="277"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
         <translation>Volymrenderingar med en opacitet över denna nivå kommer att kasta skuggor.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="324"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="291"/>
         <source>Intensity scale</source>
         <translation>Intensitetsskala</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="327"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="294"/>
         <source>Intensity of darkening by shadows. Larger value means more darkening. Default is 1.</source>
         <translation>Intensitet av mörkare skuggor. Större värde innebär mer mörkläggning. Standardvärdet är 1.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="344"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="309"/>
         <source>Intensity shift</source>
         <translation>Ändring av intensiteten</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="347"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="312"/>
         <source>Minimum amount of occlusion required for visible darkening by shadows. Larger value means more occlusion is needed to darkening. Default is 0.</source>
         <translation>Minsta mängd ocklusion som krävs för synlig mörkning av skuggor. Större värde innebär att mer ocklusion krävs för mörkläggning. Standardvärdet är 0.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="366"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="328"/>
         <source>Reset settings to default</source>
         <translation>Återställ inställningar till standard</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="385"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="346"/>
         <source>1</source>
         <translation>1</translation>
     </message>
@@ -18393,17 +18413,17 @@ Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshi
 <context>
     <name>qMRMLTreeView</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="110"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="107"/>
         <source>Rename</source>
         <translation type="unfinished">Rename</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="117"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="112"/>
         <source>Delete</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="123"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="116"/>
         <source>Edit properties...</source>
         <translation type="unfinished">Edit properties...</translation>
     </message>
@@ -18547,12 +18567,12 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qMRMLViewControllerBar</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="358"/>
+        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="355"/>
         <source>Restore view layout</source>
         <translation>Återställ vyn layout</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="363"/>
+        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="360"/>
         <source>Maximize view</source>
         <translation type="unfinished">Maximize view</translation>
     </message>
@@ -18560,7 +18580,7 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qMRMLViewControllerBarPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="132"/>
+        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="130"/>
         <source>Maximize/restore view</source>
         <translation>Maximera/återställ vyn</translation>
     </message>
@@ -18655,6 +18675,26 @@ p, li { blanksteg: pre-wrap; }
         <source>Volume Property Node</source>
         <translation>Volym Egenskapsnod</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="38"/>
+        <source>Components:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="45"/>
+        <source>RGBA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="55"/>
+        <source>Independent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="75"/>
+        <source>Component Index:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
@@ -18692,8 +18732,8 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qMRMLVolumeWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="83"/>
-        <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="93"/>
+        <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="81"/>
+        <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="89"/>
         <source>Set the range boundaries to control large numbers or allow fine tuning</source>
         <translation>Ställ in intervallgränserna för att kontrollera stora antal eller tillåta finjustering</translation>
     </message>
@@ -18749,17 +18789,17 @@ p, li { blanksteg: pre-wrap; }
         <translation>Om 3D Slicer</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="67"/>
+        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="65"/>
         <source>New application version is available: %1</source>
         <translation>Ny programversion finns tillgänglig: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="75"/>
+        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="72"/>
         <source>download site</source>
         <translation>nedladdningssida</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="76"/>
+        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="73"/>
         <source>Visit the %1 to check if a new version is available.</source>
         <translation>Besök %1 för att kontrollera om en ny version finns tillgänglig.</translation>
     </message>
@@ -18768,7 +18808,7 @@ p, li { blanksteg: pre-wrap; }
     <name>qSlicerAbstractCoreModule</name>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="50"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="85"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="89"/>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="56"/>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="45"/>
         <source>Developer Tools</source>
@@ -18778,27 +18818,27 @@ p, li { blanksteg: pre-wrap; }
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="33"/>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="19"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="78"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="74"/>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="82"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="74"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="193"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="195"/>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="94"/>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.cxx" line="102"/>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="100"/>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="91"/>
-        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="65"/>
-        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="99"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="99"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="90"/>
+        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="64"/>
+        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="94"/>
         <source>Informatics</source>
         <translation>Informatik</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="73"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
         <source>Wizards</source>
         <translation>Wizards</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="16"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="76"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="80"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="3"/>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
@@ -18814,7 +18854,7 @@ p, li { blanksteg: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="27"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="28"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="84"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="88"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="4"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="3"/>
@@ -18830,7 +18870,7 @@ p, li { blanksteg: pre-wrap; }
         <translation>HJÄRNAN</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="82"/>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="3"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="3"/>
@@ -18838,13 +18878,13 @@ p, li { blanksteg: pre-wrap; }
         <translation>Diffusion</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="75"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="3"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="3"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="72"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="71"/>
         <source>Registration</source>
         <translation>Registrering</translation>
     </message>
@@ -18854,7 +18894,7 @@ p, li { blanksteg: pre-wrap; }
         <translation>Import och export</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="80"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="84"/>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="3"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="3"/>
@@ -18888,11 +18928,11 @@ p, li { blanksteg: pre-wrap; }
         <translation>Aritmetik</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="60"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="82"/>
+        <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="59"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="86"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="3"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="3"/>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.cxx" line="77"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.cxx" line="75"/>
         <source>Converters</source>
         <translation>Omvandlare</translation>
     </message>
@@ -18906,7 +18946,7 @@ p, li { blanksteg: pre-wrap; }
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="32"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="91"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="3"/>
         <source>Testing</source>
         <translation>Testar</translation>
@@ -18918,7 +18958,7 @@ p, li { blanksteg: pre-wrap; }
         <translation>Morfologi</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="81"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="85"/>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="3"/>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="3"/>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="3"/>
@@ -18931,24 +18971,24 @@ p, li { blanksteg: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="26"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="24"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="81"/>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="3"/>
         <source>Quantification</source>
         <translation>Kvantifiering</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
         <source>IGT</source>
         <translation>IGT</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="34"/>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endoskopi</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="86"/>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="90"/>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="3"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="3"/>
@@ -18956,28 +18996,28 @@ p, li { blanksteg: pre-wrap; }
         <translation>Legat</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="81"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="82"/>
         <source>Registration.Specialized</source>
         <translation>Registrering.specialiserad</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="27"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="193"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="188"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekvenser</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
+        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="344"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">För mer information se %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="347"/>
+        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="344"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">online-dokumentation</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="33"/>
         <source>Servers</source>
         <translation>Servrar</translation>
     </message>
@@ -19031,7 +19071,7 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qSlicerAnnotationsModule</name>
     <message>
-        <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="41"/>
+        <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="40"/>
         <source>Annotations</source>
         <translation>Anteckningar</translation>
     </message>
@@ -19039,14 +19079,14 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qSlicerAnnotationsReader</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="84"/>
+        <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="83"/>
         <source>Annotation</source>
         <translation>Anteckning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="97"/>
+        <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="96"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anteckningar</translation>
     </message>
 </context>
 <context>
@@ -19102,7 +19142,7 @@ p, li { blanksteg: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="128"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tack och lov</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
@@ -19159,66 +19199,66 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qSlicerApplication</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="424"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="417"/>
         <source>General</source>
         <translation type="unfinished">General</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="931"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="427"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="917"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="885"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="420"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="894"/>
         <source>Modules</source>
         <translation type="unfinished">Modules</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="431"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="423"/>
         <source>Appearance</source>
         <translation>Utseende</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="435"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="426"/>
         <source>Views</source>
         <translation>Visningar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="439"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="430"/>
         <source>User</source>
         <translation>Användare</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="443"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="434"/>
         <source>Extensions</source>
         <translation type="unfinished">Extensions</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="447"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="438"/>
         <source>Cache</source>
         <translation type="unfinished">Cache</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="452"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="442"/>
         <source>Internationalization</source>
         <translation>Internationalisering</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="458"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="448"/>
         <source>Python</source>
         <translation>Python</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="463"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="453"/>
         <source>Developer</source>
         <translation>Utvecklare</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="581"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="617"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="563"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="599"/>
         <source>%1 has caught an application error, </source>
         <translation>%1 har drabbats av ett programfel, </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="582"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="618"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="564"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="600"/>
         <source>please save your work and restart.
 
 </source>
@@ -19227,12 +19267,12 @@ p, li { blanksteg: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="583"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="565"/>
         <source>The application has run out of memory. </source>
         <translation>Applikationen har slut på minne. </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="586"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="568"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -19241,7 +19281,7 @@ p, li { blanksteg: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="590"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="572"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -19250,7 +19290,7 @@ p, li { blanksteg: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="576"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
@@ -19259,7 +19299,7 @@ p, li { blanksteg: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="598"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="580"/>
         <source>Adding more RAM may fix this issue.
 
 </source>
@@ -19268,14 +19308,14 @@ p, li { blanksteg: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="600"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="619"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="582"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="601"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
         <translation>Om du har en repeterbar sekvens av steg som orsakar detta meddelande, </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="601"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="620"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="583"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="602"/>
         <source>please report the issue following instructions available at https://slicer.org
 
 
@@ -19286,8 +19326,8 @@ p, li { blanksteg: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="602"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="621"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="584"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="603"/>
         <source>The message detail is:
 
 </source>
@@ -19296,49 +19336,49 @@ p, li { blanksteg: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="603"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="622"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="585"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="604"/>
         <source>Exception thrown in event: </source>
         <translation>Exception kastad i händelse: </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="611"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="630"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="593"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="612"/>
         <source>Application Error</source>
         <translation>Fel i applikation</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="795"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="772"/>
         <source>Are you sure you want to restart?</source>
         <translation>Är du säker på att du vill starta om?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="197"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="191"/>
         <source>Initializing...</source>
         <translation>Initierar.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="233"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="227"/>
         <source>Registering modules...</source>
         <translation>Registrering av moduler...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="241"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="234"/>
         <source>Instantiating modules...</source>
         <translation>Instansiering av moduler...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="246"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="240"/>
         <source>Instantiating module &quot;%1&quot;...</source>
         <translation>Instansiering av modul &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="279"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="272"/>
         <source>Initializing user interface...</source>
         <translation>Initialisering av användargränssnittet...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="302"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="295"/>
         <source>Loading module &quot;%1&quot;...</source>
         <translation>Laddar modul &quot;%1&quot;...</translation>
     </message>
@@ -19346,12 +19386,12 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qSlicerApplicationHelper</name>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="259"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="252"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
         <translation>Den här datorns grafikkapacitet är inte tillräcklig för att köra det här programmet. Applikationen kommer troligen inte att fungera korrekt.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="262"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="255"/>
         <source>See more information and help at:
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
@@ -19366,7 +19406,7 @@ Den här datorns grafiska kapacitet:
 </translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="271"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="263"/>
         <source>Insufficient graphics capability</source>
         <translation>Otillräcklig grafikkapacitet</translation>
     </message>
@@ -19374,95 +19414,95 @@ Den här datorns grafiska kapacitet:
 <context>
     <name>qSlicerCLIModule</name>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
+        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="186"/>
         <source>online documentation</source>
         <translation>online-dokumentation</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
+        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
         <source>For more information see the %1.</source>
         <translation>För mer information se %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="88"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="85"/>
         <source>Failed to find python interpreter for CLI: %1</source>
         <translation>Hittade inte python-tolk för CLI: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="113"/>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="111"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="110"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="108"/>
         <source>CLI description: %1</source>
         <translation>CLI-beskrivning: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="114"/>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="112"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="111"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="109"/>
         <source>Failed to read XML Description</source>
         <translation>Misslyckades med att läsa XML-beskrivning</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="151"/>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="189"/>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="201"/>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="207"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="148"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="186"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="192"/>
         <source>CLI executable: %1</source>
         <translation>CLI-körbar fil: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="153"/>
         <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
         <translation>Processen kunde inte starta. Antingen saknas det anropade programmet eller så har du inte tillräckliga behörigheter för att anropa programmet.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="161"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
         <source>The process crashed some time after starting successfully.</source>
         <translation>Processen kraschade en stund efter att ha startat framgångsrikt.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="165"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="157"/>
         <source>The process timed out after %1 msecs.</source>
         <translation>Processen avbröts efter %1 msek.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="169"/>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="159"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="163"/>
         <source>An error occurred when attempting to read from the process. For example, the process may not be running.</source>
         <translation>Ett fel uppstod när man försökte läsa från processen. Det kan till exempel vara så att processen inte körs.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="179"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="166"/>
         <source>Failed to execute process. An unknown error occurred.</source>
         <translation>Misslyckades med att exekvera processen. Ett okänt fel inträffade.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="202"/>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="158"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="187"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="153"/>
         <source>Failed to retrieve XML Description</source>
         <translation>Misslyckades med att hämta XML-beskrivning</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="208"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="193"/>
         <source>XML description doesn&apos;t start right away.</source>
         <translation>XML-beskrivningen börjar inte direkt.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="194"/>
         <source>Output before &apos;&lt;?xml&apos; is [%1]</source>
         <translation>Utdata före &apos;&lt;?xml&apos; är [%1]</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="175"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="152"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="168"/>
         <source>CLI loadable: %1</source>
         <translation>CLI kan laddas: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="176"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="169"/>
         <source>Failed to retrieve Module Entry Point</source>
         <translation>Misslyckades med att hämta Module Entry Point</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="236"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="226"/>
         <source>Failed to resolve expected symbol &apos;%1&apos;</source>
         <translation>Misslyckades med att lösa förväntad symbol &apos;%1&apos;</translation>
     </message>
@@ -19470,12 +19510,12 @@ Den här datorns grafiska kapacitet:
 <context>
     <name>qSlicerCLIModuleUIHelper</name>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="932"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="919"/>
         <source>Compatible Files</source>
         <translation>Kompatibla filer</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="931"/>
         <source>All Files</source>
         <translation>Alla filer</translation>
     </message>
@@ -19509,7 +19549,7 @@ Den här datorns grafiska kapacitet:
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="94"/>
         <source>AutoRun</source>
         <translation>AutoRun</translation>
     </message>
@@ -19534,65 +19574,73 @@ Den här datorns grafiska kapacitet:
         <translation type="unfinished">Apply</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="101"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="96"/>
         <source>AutoRun on changed parameter</source>
         <translation>AutoRun på ändrad parameter</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="97"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
         <translation>Så länge AutoRun-knappen är nedtryckt körs modulen varje gång ett parametervärde ändras.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="110"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="102"/>
         <source>AutoRun on modified input</source>
         <translation>AutoRun på modifierad inmatning</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="112"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
         <translation>Så länge AutoRun-knappen är nedtryckt körs modulen varje gång en ingångsnod ändras.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="119"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="108"/>
         <source>AutoRun on other input events</source>
         <translation>AutoRun på andra ingångshändelser</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="121"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="109"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
         <translation>Så länge AutoRun-knappen är nedtryckt körs modulen varje gång en ingångsnod avfyrar en händelse som inte är en modifierad händelse.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="128"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="114"/>
         <source>AutoRun cancels running process</source>
         <translation>AutoRun avbryter pågående process</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="130"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="115"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
         <translation>När den är markerad avbryter/stannar modulen den befintliga körningen om någon sådan finns, annars väntar den på att en ny körning ska påbörjas.</translation>
     </message>
 </context>
 <context>
+    <name>qSlicerCLIModuleWidgetPrivate</name>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="89"/>
+        <source>Parameter set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerCLIProgressBar</name>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="129"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="130"/>
         <source>Show details</source>
         <translation>Visa detaljer</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Status:</source>
         <translation>Status:</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="156"/>
         <source>Idle</source>
         <translation type="unfinished">Idle</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="372"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="367"/>
         <source>%1 (%2s)</source>
         <translation>%1 (%2s)</translation>
     </message>
@@ -19615,19 +19663,19 @@ Den här datorns grafiska kapacitet:
         <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="75"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="67"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komposit med skuggning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="77"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projektion med maximal intensitet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="79"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projektion av lägsta intensitet</translation>
     </message>
 </context>
 <context>
@@ -19638,7 +19686,7 @@ Den här datorns grafiska kapacitet:
         <translation>Hantera 3D-vyer och kameror.&lt;br&gt;Rullgardinsmenyn nedan kan användas för att skapa nya vyer och välja den aktiva vyn. Växla layouten till &quot;Tabbed 3D Layout&quot; från layoutikonen i verktygsfältet för att få tillgång till flera vyer. Den vy som väljs i &quot;Tabbed 3D Layout&quot; blir den aktiva vyn och ersätter 3D-vyn i alla andra layouter. Rullgardinsmenyn för kamera nedan kan användas för att ställa in den aktiva kameran för den valda vyn.&lt;br&gt;VARNING: detta är ganska experimentellt för tillfället (referenspunkter, IO/data, stängning av scenen är förmodligen trasiga för nya vyer).&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
+        <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="85"/>
         <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;Detta arbete stöds av NA-MIC, NAC, BIRN, NCIGT och Slicer Community.</translation>
     </message>
@@ -19674,19 +19722,19 @@ Den här datorns grafiska kapacitet:
 <context>
     <name>qSlicerColorsModule</name>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="48"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="47"/>
         <source>Colors</source>
         <translation>Färger</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="166"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="158"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
         <translation>&lt;b&gt;Colors Module&lt;/b&gt; hanterar färguppslagstabeller som lagras i Color-noder.&lt;br&gt;Dessa tabeller översätter mellan ett numeriskt värde och en färg för visning av olika datatyper, t.ex. volymer och modeller.&lt;br&gt;Två typer av uppslagstabeller finns tillgängliga:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Diskret&lt;/li&gt; tabell:&lt;li&gt;En lista med namngivna färger anges (exempel: GenericAnatomyColors). Diskreta tabeller kan även användas för kontinuerlig mappning, i det här fallet används färgerna som prov på lika avstånd inom det angivna intervallet och interpoleras smidigt mellan dem (exempel: Grey).&lt;/li&gt;&lt;li&gt;Kontinuerlig skala: Färgen specificeras för godtyckligt valda numeriska värden och färgvärdet kan beräknas genom jämn interpolering mellan dessa värden (exempel: PET-DICOM). Inga namn anges för färgerna&lt;/li&gt;. alla inbyggda färgtabeller är skrivskyddade. Om du vill redigera färger skapar du en kopia av färgtabellen genom att klicka på mappikonen &quot;copy&quot;.&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="179"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detta arbete har fått stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community.</translation>
     </message>
 </context>
 <context>
@@ -19774,12 +19822,12 @@ Den här datorns grafiska kapacitet:
         <translation>Dölj tomma färger: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="317"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="323"/>
         <source>Add new color to color table</source>
         <translation>Lägg till ny färg i färgtabellen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="333"/>
         <source>Delete currently selected color</source>
         <translation>Ta bort aktuell vald färg</translation>
     </message>
@@ -19789,61 +19837,61 @@ Den här datorns grafiska kapacitet:
         <translation>Visa/dölj de icke namngivna färgposterna i listan nedan.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="263"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="266"/>
         <source>Scalar Range:</source>
         <translation type="unfinished">Scalar Range:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="276"/>
         <source>The range of scalars that are mapped to the full range of colors.</source>
         <translation>Det intervall av skalärer som mappas till hela färgskalan.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="223"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="214"/>
         <source>Discrete table</source>
         <translation>Diskret tabell</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="285"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="274"/>
         <source>Continuous scale</source>
         <translation>Kontinuerlig skala</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="439"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="424"/>
         <source>Unnamed</source>
         <extracomment>This is the default name for a new color in a color table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Namnlös</translation>
     </message>
 </context>
 <context>
     <name>qSlicerCoreApplication</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="887"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="870"/>
         <source>Failed to create %1 directory</source>
         <translation>Misslyckades med att skapa %1 directory</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1828"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1814"/>
         <source>Built on top of:</source>
         <translation>Byggt med hjälp av:</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1848"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1833"/>
         <source>Licensing Information</source>
         <translation>Licensinformation</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1849"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1834"/>
         <source>Website</source>
         <translation>Webbsida</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1850"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1835"/>
         <source>Acknowledgments</source>
         <translation>Tack och lov</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1857"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1841"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
         <translation>Slicer är INTE en FDA-godkänt medicinskt program.&lt;br&gt;&lt;br&gt;Det stöds av: NA-MIC, NAC, BIRN, NCIGT och Slicer Community.&lt;br&gt;&lt;br&gt;Ett särskilt tack till NIH och våra andra stödjare.&lt;br&gt;&lt;br&gt;Detta arbete är en del av National Alliance for Medical Image Computing (NA-MIC) och är finansierad av National Institutes of Health genom NIH Roadmap for Medical Research med Grant U54 EB005149. Information om National Centers for Biomedical Computing finns på &lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
     </message>
@@ -19851,55 +19899,55 @@ Den här datorns grafiska kapacitet:
 <context>
     <name>qSlicerCoreIOManager</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="646"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="631"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
         <translation>Laddar %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="682"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="665"/>
         <source>%1 load failed.</source>
         <translation>%1-laddningen misslyckades.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="852"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="835"/>
         <source>No writer found to write file %1 of type %2.</source>
         <translation>Ingen skrivare hittades för att skriva filen %1 of typ %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="867"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="849"/>
         <source>Unable to create directory &apos;%1&apos;</source>
         <translation>Det går inte att skapa katalogen &quot;%1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="900"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="881"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
         <translation>Sparandet misslyckades när alla skrivare hittades för filen &apos;%1&apos; av typen &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="913"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="894"/>
         <source>No nodes were saved in the scene</source>
         <translation>Inga noder sparades i scenen</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="984"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="960"/>
         <source>Unable to find a storable node with ID %1</source>
         <translation>Det går inte att hitta en lagringsbar nod med ID %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="997"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1033"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1091"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="971"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1004"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1056"/>
         <source>Error encountered while exporting %1.</source>
         <translation>Fel uppstod vid export av %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1059"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1028"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
         <translation>Det gick inte att skapa en standardlagringsnod för %1 i en temporär scen.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1081"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1047"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
         <translation>Det gick inte att spara visningsegenskaperna för %1 i en tillfällig scen.</translation>
     </message>
@@ -19907,7 +19955,7 @@ Den här datorns grafiska kapacitet:
 <context>
     <name>qSlicerCropVolumeModule</name>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="24"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="22"/>
         <source>Crop Volume</source>
         <translation type="unfinished">Crop Volume</translation>
     </message>
@@ -20116,42 +20164,42 @@ Den här datorns grafiska kapacitet:
         <translation type="unfinished">Apply</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="83"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="85"/>
         <source>Select or create a new parameter node.</source>
         <translation>Välj eller skapa en ny parameternod.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="94"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="96"/>
         <source>Select an input volume.</source>
         <translation>Välj en ingångsvolym.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="101"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="103"/>
         <source>Output volume type does not match input volume type.</source>
         <translation>Typ av utgångsvolym stämmer inte överens med typ av ingångsvolym.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="124"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="126"/>
         <source>Input ROI is under a non-linear transform.</source>
         <translation>IngångsROI är under en icke-linjär omvandling.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="137"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="139"/>
         <source>Output volume is under a non-linear transform.</source>
         <translation>Utgående volym är under en icke-linjär omvandling.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="148"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="150"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
         <translation>Interpolation är inaktiverad och inmatningsvolymen är under en icke-linjär omvandling</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="130"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="132"/>
         <source>Select or create a new input ROI.</source>
         <translation>Välj eller skapa en ny input ROI.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="154"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="156"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
         <translation>Interpolering är inaktiverad och inmatad ROI är inte i linje med inmatade volymaxlar.</translation>
     </message>
@@ -20361,7 +20409,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
         <translation>Visa alternativ</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="586"/>
+        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="561"/>
         <source>Any Data</source>
         <translation type="unfinished">Any Data</translation>
     </message>
@@ -20369,12 +20417,12 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
 <context>
     <name>qSlicerDataDialogPrivate</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="509"/>
+        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="485"/>
         <source>Open archive?</source>
         <translation>Öppet arkiv?</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="510"/>
+        <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="485"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
         <translation>Den valda filen är ett .zip-arkiv, öppna det och ladda innehållet?</translation>
     </message>
@@ -20382,13 +20430,13 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
 <context>
     <name>qSlicerDataModule</name>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="133"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
         <translation>Modulen Data utgör det centrala stället för organisering av all inläst data som är tillgängligt för åtkomst och modifiering. Den möjliggör organisering av data i mapp eller trädstruktur för patienter och studier (vilket automatiskt görs för DICOM), åskådlighet av all visualiserbar data, transformation av hela strukturer samt hantering av en mängd datatypspecifika egenskaper.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="152"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
         <translation>Detta arbete har fått stöd av NA-MIC, NAC, BIRN, NCIGT, CTSC och Slicer Community.</translation>
     </message>
@@ -20439,7 +20487,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="462"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="438"/>
         <source>No item selected</source>
         <translation>Ingen artikel vald</translation>
     </message>
@@ -20465,24 +20513,24 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
         <translation>Information om MRML-nod</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="194"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="225"/>
         <source>Nodes</source>
         <translation>Noder</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="194"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="225"/>
         <source>IDs</source>
         <translation>IDn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="204"/>
         <source>Insert transform</source>
         <translation>Infoga transformator</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
+        <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="209"/>
         <source>Harden transform</source>
         <translation>Härdningsomvandling</translation>
     </message>
@@ -20606,7 +20654,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
         <translation>Denna modul har utvecklats av Julien Finet, Kitware Inc. Detta arbete stöddes av NIH-anslag 3P41RR013218-12S1, NA-MIC, NAC och Slicer community.</translation>
     </message>
     <message>
-        <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="47"/>
+        <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="45"/>
         <source>Event Broker</source>
         <translation>Evenemangsmäklare</translation>
     </message>
@@ -20707,27 +20755,27 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
         <translation>Tillämpa transformationer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="134"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="130"/>
         <source>Select a format</source>
         <translation>Välj ett format</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="169"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="164"/>
         <source>Export format:</source>
         <translation>Exportformat:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="409"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="403"/>
         <source>Output folder:</source>
         <translation>Utmatningsmapp:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="426"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="420"/>
         <source>&amp;Export</source>
         <translation>&amp;Export</translation>
     </message>
     <message numerus="yes">
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="727"/>
         <source>Export %n node(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -20735,95 +20783,95 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
         </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="741"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="731"/>
         <source>When exporting multiple nodes, filenames are automatically set</source>
         <translation>Vid export av flera noder ställs filnamnen automatiskt in</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="733"/>
         <source>&lt;automatic&gt;</source>
         <translation>&lt;automatic&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="747"/>
         <source>Export </source>
         <translation>Exportera </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="868"/>
         <source>Filename not standard</source>
         <translation>Filnamnet är inte standard</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="869"/>
         <source>The following filename is recommended:</source>
         <translation>Följande filnamn rekommenderas:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="884"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="873"/>
         <source>Accept recommended</source>
         <translation>Acceptera rekommenderat</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="885"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="874"/>
         <source>Keep my filename</source>
         <translation>Behåll mitt filnamn</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="948"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1050"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1058"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="936"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1037"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1045"/>
         <source>Export Error</source>
         <translation>Exportfel</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="936"/>
         <source>Failed to export node %1; filename is empty.</source>
         <translation>Misslyckades med att exportera nod %1; filnamnet är tomt.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="956"/>
         <source>File Exists</source>
         <translation>Filen existerar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="957"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
         <translation>Filen %1 finns redan. Vill du ersätta den?</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1070"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1004"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1057"/>
         <source>Export Information</source>
         <translation>Information om export</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1004"/>
         <source>Nothing was exported.</source>
         <translation>Ingenting exporterades.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1044"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1031"/>
         <source>Error encountered while exporting.</source>
         <translation>Fel uppstod under export.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1065"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1052"/>
         <source>Export Warning</source>
         <translation>Exportvarning</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1232"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1217"/>
         <source>Export an individual node</source>
         <translation>Exportera en enskild nod</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1254"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1239"/>
         <source>Export error</source>
         <translation>Fel vid export</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1254"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1239"/>
         <source>There is nothing to export.</source>
         <translation>Det finns inget att exportera.</translation>
     </message>
@@ -20934,47 +20982,47 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
         <translation>Avinstallera i väntan på omstart</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="346"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="344"/>
         <source>More...</source>
         <translation>Mer...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="388"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="380"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">okänd</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="425"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="417"/>
         <source>Not found for this version of the application (r%1)</source>
         <translation>Hittades inte för denna version av programmet (r%1)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="432"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="424"/>
         <source>Incompatible with Slicer r%1 [built for r%2]</source>
         <translation>Inkompatibel med Slicer r%1 [byggd för r%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="448"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="438"/>
         <source>Change log...</source>
         <translation>Ändra loggen...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="453"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="444"/>
         <source>An update is available. Installed: %1. Available: %2.</source>
         <translation>En uppdatering är tillgänglig. Installerad: %1. Tillgänglig: %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="469"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="458"/>
         <source>Version: %1. Disabled.</source>
         <translation>Version: %1. Inaktiverad.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="476"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="465"/>
         <source>Version: %1</source>
         <translation>Version: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="484"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="473"/>
         <source>Not installed.</source>
         <translation>Ej installerad.</translation>
     </message>
@@ -21000,320 +21048,320 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
 <context>
     <name>qSlicerExtensionsManagerModel</name>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="459"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="453"/>
         <source>Failed to parse %1: error at %2: %3</source>
         <translation>Misslyckades med att analysera %1: fel vid %2: %3</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="716"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="704"/>
         <source>Failed to open extensions settings file %1</source>
         <translation>Misslyckades med att öppna filen Extensions Settings %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="754"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="737"/>
         <source>Failed to open extensions settings file: %1</source>
         <translation>Misslyckades med att öppna filen extensions settings: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="792"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="769"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
         <translation>Installationskatalogen för tillägg finns INTE: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="809"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="786"/>
         <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
         <translation>Installationskatalogen för tillägg förväntas vara läsbar/skrivbar/exekverbar: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="884"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="859"/>
         <source>Failed to extract %1 into %2</source>
         <translation>Misslyckades med att extrahera %1 till %2</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="889"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="864"/>
         <source>Archive %1 doesn&apos;t contain any files</source>
         <translation>Arkiv %1 dinnehåller inte några filer</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1036"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1009"/>
         <source>&apos;slicerRevision&apos; parameter is not specified</source>
         <oldsource>slicerRevision is not specified</oldsource>
         <translation>parametern &quot;slicerRevision&quot; är inte specificerad</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1040"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1013"/>
         <source>&apos;slicerOs&apos; parameter is not specified</source>
         <oldsource>slicerOs is not specified</oldsource>
         <translation>parametern &quot;slicerOs&quot; är inte specificerad</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1044"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1017"/>
         <source>&apos;slicerArch&apos; parameter is not specified</source>
         <oldsource>slicerArch is not specified</oldsource>
         <translation>parametern &apos;slicerArch&apos; är inte specificerad</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1050"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1023"/>
         <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
         <translation>extensionSlicerRevision [%1] skiljer sig från slicerRevision [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1056"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1028"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
         <translation>extensionArch [%1] skiljer sig från slicerArch [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1061"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1033"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
         <translation>extensionOs [%1] skiljer sig från slicerOs [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1410"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1379"/>
         <source>Failed to add bookmark extension: %1</source>
         <translation>Det gick inte att lägga till bokmärkestillägg: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1577"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1542"/>
         <source>Retrieving extension metadata for %1 extension</source>
         <translation>Hämta metadata för tillägg för %1 extension</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1589"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1554"/>
         <source>Failed to get metadata from server for extension: %1</source>
         <translation>Misslyckades med att hämta metadata från servern för tillägget: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1606"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1571"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
         <translation>Hämtar %1 extension-filer (extensionId: %2)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1637"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1602"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
         <translation>Nedladdning av %1 extension (item_id: %2, file_id: %3)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1670"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1633"/>
         <source>Download of extension failed, id is invalid.</source>
         <translation>Nedladdning av tillägget misslyckades, id är ogiltigt.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1691"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1654"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
         <translation>Nedladdning av tillägget misslyckades, kunde inte hitta ett tillägg med id = %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1708"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2488"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1671"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2412"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Misslyckades med att hämta metadata för %1 extension</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1772"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1733"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
         <translation>Vill du installera &quot;%1&quot; nu?</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1773"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1734"/>
         <source>Install extension ?</source>
         <translation>Installera förlängning?</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1790"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1751"/>
         <source>Failed to install %1 extension</source>
         <translation>Misslyckades med att installera %1 extension</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1813"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1774"/>
         <source>Extension %1 has been installed from server.</source>
         <translation>Extension %1 har installerats från servern.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1815"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1776"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
         <translation>Slicer måste startas om. Vill du starta om nu?</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1816"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1777"/>
         <source>Restart slicer ?</source>
         <translation>Starta om skärmaskinen?</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1853"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1812"/>
         <source>Failed downloading: %1</source>
         <translation>Misslyckades med nedladdningen: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1864"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1823"/>
         <source>Could not create temporary file for writing: %1</source>
         <translation>Det gick inte att skapa en temporär fil för skrivning: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1885"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1843"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
         <translation>Misslyckades med att lista tilläggsarkivet &quot;%1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1902"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1858"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
         <translation>Ingen tilläggsbeskrivning hittades i arkivet &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1915"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1873"/>
         <source>InstallExtension failed: extensionName is not set</source>
         <translation>InstallExtension misslyckades: extensionName är inte inställt</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1920"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1878"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
         <translation>Hoppa över installationen av %1 extension. Den är redan installerad.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1926"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1884"/>
         <source>Extensions/InstallPath setting is not set</source>
         <translation>Inställningen Extensions/InstallPath är inte inställd</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1932"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1890"/>
         <source>Failed to create extension installation directory %1</source>
         <translation>Misslyckades med att skapa installationskatalog för tillägg %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2047"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1993"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
         <translation>Fel vid installation av beroende tillägg:&lt;ul&gt;%1&lt;ul&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2070"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2012"/>
         <source>%1 depends on the following extensions, which could not be found:</source>
         <extracomment>%1 is the extension name</extracomment>
         <translation>%1 depends on the following extensions, which could not be found:</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2075"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2017"/>
         <source>The extension may not function properly.</source>
         <translation>Det kan hända att anknytningen inte fungerar som den ska.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2076"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2018"/>
         <source>Unresolved dependencies</source>
         <translation>Olösta beroenden</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2995"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2908"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
         <translation>parametern &apos;extensionName&apos; är inte specificerad</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2100"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2040"/>
         <source>Installed extension %1</source>
         <translation>Installerat tillägg %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2182"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2118"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
         <translation>Uppdatering av tilläggsinformation från servern misslyckades: tiden gick ut medan man väntade på svar från servern från %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2237"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2171"/>
         <source>Failed to download extension metadata from server</source>
         <translation>Misslyckades med att ladda ner metadata för tillägg från server</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2255"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2189"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
         <translation>Svar på metadata om förlängning saknade obligatoriskt fält &quot;extensionname</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2287"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2221"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
         <translation>Svar på uppdateringskontroll för tillägg %1 saknade obligatoriskt fält &quot;extension_id&quot; eller &quot;revision</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2298"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2232"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
         <translation>Uppdatering hittades för %1 tillägg: &apos;%2&apos; installerad, &apos;%3&apos; tillgänglig, </translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2373"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2303"/>
         <source>Failed downloading %1 extension from %2</source>
         <translation>Misslyckades med att ladda ner %1 extension från %2</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2389"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2318"/>
         <source>Could not create .updates directory for update archive in %1</source>
         <translation>Det gick inte att skapa .updates-katalogen för uppdateringsarkivet i %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2410"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2336"/>
         <source>Could not write file: &apos;%1&apos; (%2)</source>
         <extracomment>%1 is the path name, %2 is the error message</extracomment>
         <translation>Det gick inte att skriva filen: &apos;%1&apos; (%2)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2474"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2398"/>
         <source>Missing download information for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Saknar nedladdningsinformation för %1 extension</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2506"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2428"/>
         <source>%1 extension scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>%1 extension planerad för uppdatering</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2552"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2472"/>
         <source>Failed to update %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Misslyckades med att uppdatera %1 extension</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2559"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2479"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Misslyckades med att uppdatera %1 extension: den är inte schemalagd för uppdatering</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2683"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2599"/>
         <source>Failed to uninstall %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Misslyckades med att avinstallera %1 extension</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2690"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2606"/>
         <source>Failed to uninstall %1 extension: extension is already loaded</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Misslyckades med att avinstallera %1 extension: Extension är redan laddad</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2965"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2877"/>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Tillägg %1 är inkompatibelt</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3094"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Skadat %1 extension-paket</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3197"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3102"/>
         <source>Failed to extract %1 extension archive %2 into directory %3</source>
         <extracomment>%1 is extension name, %2 is extension package file path, %3 is destination path</extracomment>
         <translation>Misslyckades med att extrahera %1 extension-arkivet %2 till katalogen %3</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3242"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3249"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3144"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3151"/>
         <source>Failed to copy directory %1 into directory %2</source>
         <translation>Misslyckades med att kopiera katalogen %1 till katalogen %2</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3256"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3263"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3158"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3165"/>
         <source>Failed to remove directory %1</source>
         <translation>Misslyckades med att ta bort katalogen %1</translation>
     </message>
@@ -21331,65 +21379,65 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
         <translation>Installera tillägg</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="260"/>
         <source>Extensions Manager</source>
         <translation type="unfinished">Extensions Manager</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="415"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="401"/>
         <source>Update all (%1)</source>
         <translation>Uppdatera alla (%1)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="446"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="432"/>
         <source>Install bookmarked (%1)</source>
         <translation>Installera bokmärke (%1)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="451"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="437"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installera bokmärke</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="457"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="443"/>
         <source>Manage Extensions (%1)</source>
         <extracomment>%1 represents the number of managed extensions</extracomment>
         <translation>Hantera tillägg (%1)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="487"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="472"/>
         <source>Bookmarked extensions</source>
         <translation>Bokmärkta tillägg</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="488"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="472"/>
         <source>List of bookmarked extensions:</source>
         <translation>Lista över bokmärkta tillägg:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="718"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="698"/>
         <source>Select extension archive file(s)...</source>
         <translation>Välj arkivfil (er) med förlängning ...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="719"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="698"/>
         <source>Archives</source>
         <translation>Arkiv</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="720"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="698"/>
         <source>All files</source>
         <translation>Alla filer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="728"/>
         <source>Install/uninstall/update operations are still in progress:</source>
         <oldsource>Install/uninstall/update operations are still in progress:
 - </oldsource>
         <translation>Installation/avinstallation/uppdatering pågår fortfarande:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="729"/>
         <source>Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
         <oldsource>
 
@@ -21400,32 +21448,32 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerExtensionsServerWidget</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="95"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="96"/>
         <source>Slicer Extensions</source>
         <translation>Slicer-tillägg</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="102"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="105"/>
         <source>Extensions can not be installed.</source>
         <translation>Tillägg kan inte installeras.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="112"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
         <translation>Extensions Manager kräver att &lt;em&gt;3D Slicer&lt;/em&gt; är installerat. Öppna diskavbildningsfilen (.dmg), dra &lt;em&gt;Slicer.app till&lt;/em&gt; mappen &lt;em&gt;Program&lt;/em&gt; och starta &lt;em&gt;3D Slicer&lt;/em&gt; från mappen &lt;em&gt;Program&lt;/em&gt;.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="118"/>
         <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
         <translation>Kontrollera att &lt;b&gt;3D Slicer&lt;/b&gt; är korrekt installerad.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="114"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="122"/>
         <source>Read more...</source>
         <translation>Läs mer...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="117"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="126"/>
         <source>Try Again</source>
         <translation>Försök igen</translation>
     </message>
@@ -21512,7 +21560,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Öppna webbplatsen Extensions Catalog i standardwebbläsaren. Användbar för att ladda ner tilläggspaket för offline-användning.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
@@ -21522,7 +21570,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="171"/>
         <source>Automatically install required additional extensions when installing an extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installera automatiskt nödvändiga ytterligare tillägg när du installerar ett tillägg</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="77"/>
@@ -21533,7 +21581,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerFileDialog</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="78"/>
+        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="76"/>
         <source>All</source>
         <translation type="unfinished">All</translation>
     </message>
@@ -21630,17 +21678,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished">Surface smoothing:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="76"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"/>
         <source>Composite With Shading</source>
         <translation>Komposit med skuggning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="78"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Maximum Intensity Projection</source>
         <translation>Projektion med maximal intensitet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="80"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="70"/>
         <source>Minimum Intensity Projection</source>
         <translation>Projektion av lägsta intensitet</translation>
     </message>
@@ -21648,7 +21696,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerGeneralizedReformatModule</name>
     <message>
-        <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="43"/>
+        <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="40"/>
         <source>GeneralizedReformat</source>
         <translation>GeneraliseratReformat</translation>
     </message>
@@ -21656,63 +21704,63 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerIOManager</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
         <source>Loading file... </source>
         <translation>Läser in fil... </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
         <source>Cancel</source>
         <translation type="unfinished">Cancel</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="98"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="95"/>
         <source>Loading ...</source>
         <translation>Laddar ...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="320"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="304"/>
         <source>Select a reader</source>
         <translation>Välj en läsare</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="305"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
         <translation>Välj en läsare att använda för dina data:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"/>
         <source>Loading file </source>
         <translation>Läser in fil </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="566"/>
         <source>Adding data succeeded</source>
         <translation>Lägga till data lyckades</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="592"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="568"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
         <translation>De valda filerna laddades framgångsrikt men fel eller varningar rapporterades.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="596"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="572"/>
         <source>Adding data failed</source>
         <translation>Att lägga till data misslyckades</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="598"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="574"/>
         <source>Error occurred while loading the selected files.</source>
         <translation>Ett fel inträffade vid inläsning av de valda filerna.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="603"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="579"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
         <translation>Klicka på knappen &quot;Visa detaljer&quot; och kontrollera ansökningsloggen för mer information.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="610"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="586"/>
         <source>Check the application log for more information.</source>
         <translation>Kontrollera ansökningsloggen för mer information.</translation>
     </message>
@@ -21761,7 +21809,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLoadableModuleTemplateModule</name>
     <message>
-        <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="42"/>
+        <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerLoadableModuleTemplateModule</source>
         <translation>qSlicerLoadableModuleTemplateModule</translation>
     </message>
@@ -21850,7 +21898,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="242"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="329"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="304"/>
         <source>Layout</source>
         <translation>Layout</translation>
     </message>
@@ -21941,7 +21989,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Öppna en standardfilbläddrare som gör att du kan välja en omvandling till den befintliga scenen.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="614"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="574"/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
@@ -22146,12 +22194,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Ctrl+6</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="365"/>
         <source>&amp;Error Log</source>
         <translation>&amp;Feillogg</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="400"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="367"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
@@ -22459,135 +22507,135 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Visa statusrad</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="158"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="153"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
         <translation>Kollapsa/Expanderar GUI-panelen och låter Slicers visare ta upp hela programfönstret</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="284"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="298"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="312"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="262"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="275"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="288"/>
         <source>Select number of viewers...</source>
         <translation>Välj antal tittare...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="156"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="152"/>
         <source>Show &amp;Module Panel</source>
         <translation>Visa &amp;Modulera Panel</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="184"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="176"/>
         <source>Module Selection</source>
         <translation>Val av modul</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="389"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="356"/>
         <source>Error Log</source>
         <translation>Fellogg</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="399"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="366"/>
         <source>Show/hide Error Log window</source>
         <translation>Visa/dölj fönstret för fellogg</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="423"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="387"/>
         <source>Python Console</source>
         <translation>Python-konsol</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="435"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="399"/>
         <source>Slicer Python Console</source>
         <translation>Slicer Python-konsol</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="446"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="409"/>
         <source>&amp;Python Console</source>
         <translation>&amp;Python-konsol</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="447"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="410"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
         <translation>Visa Python Console-fönstret för styrning av programmets data, användargränssnitt och interna funktioner</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="449"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="411"/>
         <source>Ctrl+3</source>
         <translation>Ctrl+3</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="449"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="411"/>
         <source>Ctrl+`</source>
         <translation>Ctrl+`</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="549"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="507"/>
         <source>Clear History</source>
         <translation>Töm historik</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="662"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="621"/>
         <source>Modifications in data files:</source>
         <translation>Ändringar i datafiler:</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="683"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="642"/>
         <source>Modifications in the scene file:</source>
         <translation>Ändringar i scenfilen:</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="612"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="571"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="666"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
         <translation>Scenen har ändrats. Vill du spara den innan du avslutar?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="611"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="570"/>
         <source>Save before exit?</source>
         <translation>Spara före utgång?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="616"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="575"/>
         <source>Exit (discard modifications)</source>
         <translation>Exit (kassera ändringar)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="617"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="576"/>
         <source>Cancel exit</source>
         <translation>Avbryt utgång</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="706"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="665"/>
         <source>Save before closing scene?</source>
         <translation>Spara innan du stänger scenen?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="711"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="670"/>
         <source>Close scene (discard modifications)</source>
         <translation>Närbild (kassera modifieringar)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="712"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="671"/>
         <source>Save scene</source>
         <translation>Spara scen</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="989"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="942"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
         <translation>Slicer Data Bundle Directory (Välj tom katalog)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1021"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
         <source>Save Data Bundle File</source>
         <translation>Spara datapaketfil</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1022"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
         <source>Medical Reality Bundle (*.mrb)</source>
         <translation>Paket med medicinsk verklighet (*.mrb)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1053"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1001"/>
         <source>MRML Scene</source>
         <translation type="unfinished">MRML Scene</translation>
     </message>
@@ -22596,8 +22644,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <name>qSlicerMarkupsModule</name>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="20"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="142"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="55"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="143"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="51"/>
         <source>Markups</source>
         <translation>Markeringar</translation>
     </message>
@@ -22623,8 +22671,9 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
-        <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation>Spara aktuella inställningar för displayegenskaper till standardvärden, sparas till när Slicer startas om (se Programinställningar)</translation>
+        <source>Save current display properties to defaults. These properties will be used even after application restart.</source>
+        <oldsource>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</oldsource>
+        <translation type="unfinished">Spara aktuella inställningar för displayegenskaper till standardvärden, sparas till när Slicer startas om (se Programinställningar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -22905,12 +22954,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished">LPS</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="204"/>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
         <translation>En modul för att skapa och hantera markeringar i 2D och 3D. Den här modulen ersatte den tidigare modulen Annotations.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="212"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="213"/>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
         <translation>Detta arbete har fått stöd från NAMIC, NAC och Slicer Community.</translation>
     </message>
@@ -22918,153 +22967,153 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerMarkupsModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="268"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="266"/>
         <source>Visibility</source>
         <translation type="unfinished">Visibility</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="298"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="301"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="289"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="291"/>
         <source>Lock</source>
         <translation>Lås</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="326"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="199"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="312"/>
         <source>Selected</source>
         <translation>Vald</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="199"/>
         <source>Locked</source>
         <translation>Låst</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="199"/>
         <source>Visible</source>
         <translation>Synlig</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3095"/>
         <source>Name</source>
         <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>Description</source>
         <translation type="unfinished">Description</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>R</source>
         <translation>R</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>S</source>
         <translation>S</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>Position</source>
         <translation>Position</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="271"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="268"/>
         <source>Visibility On</source>
         <translation>Synlighet På</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="269"/>
         <source>Set visibility flag to on for all control points in the active markup</source>
         <translation>Sätt synlighetsflaggan till på för alla kontrollpunkter i den aktiva markeringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="280"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="274"/>
         <source>Visibility Off</source>
         <translation>Synlighet Av</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="275"/>
         <source>Set visibility flag to off for all control points in the active markup</source>
         <translation>Sätt synlighetsflaggan till off för alla kontrollpunkter i den aktiva markeringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="302"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="292"/>
         <source>Set lock flag to on for all control points in the active markup</source>
         <translation>Sätt låsflaggan till på för alla kontrollpunkter i den aktiva markeringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="309"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="297"/>
         <source>Unlock</source>
         <translation>Lås upp</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="310"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="298"/>
         <source>Set lock flag to off for all control points in the active markup</source>
         <translation>Sätt låsflaggan till off för alla kontrollpunkter i den aktiva markeringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="329"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="314"/>
         <source>Selected On</source>
         <translation>Vald på</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="330"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="315"/>
         <source>Set selected flag to on for all control points in the active markup</source>
         <translation>Sätt markerad flagga till på för alla kontrollpunkter i den aktiva markeringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="338"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="320"/>
         <source>Selected Off</source>
         <translation>Utvalda från</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="339"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="321"/>
         <source>Set selected flag to off for all control points in the active markup</source>
         <translation>Sätt markerad flagga till av för alla kontrollpunkter i den aktiva markeringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="374"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="378"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="346"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="350"/>
         <source>Cut</source>
         <translation>Klipp ut</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="384"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="388"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="356"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="360"/>
         <source>Copy</source>
         <translation type="unfinished">Copy</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="394"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="398"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="366"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="370"/>
         <source>Paste</source>
         <translation type="unfinished">Paste</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="479"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="441"/>
         <source>Click in this column to select/deselect control points for passing to CLI modules</source>
         <translation>Klicka i den här kolumnen för att välja/välja bort kontrollpunkter som ska skickas till CLI-moduler</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="485"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="447"/>
         <source>Click in this column to lock/unlock control points to prevent them from being moved by mistake</source>
         <translation>Klicka i denna kolumn för att låsa/låsa upp kontrollpunkter för att förhindra att de flyttas av misstag</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="491"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="453"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
         <translation>Klicka i den här kolumnen för att visa/dölja kontrollpunkter i 2D och 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="497"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="459"/>
         <source>Click in this column to modify the control point position state.
 
 - Edit: Enter place mode to modify the control point position in the slice views
@@ -23079,134 +23128,134 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Clear: Rensa den definierade kontrollpunktspositionen, men ta inte bort kontrollpunkten</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="815"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="756"/>
         <source>Create %1</source>
         <translation>Skapa %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1005"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="933"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
         <translation>Klicka för att låsa upp kontrollpunktslistan så att punkterna kan flyttas med musen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1010"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="938"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
         <translation>Klicka för att låsa den här kontrollpunktslistan så att punkterna inte kan flyttas med musen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1016"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="944"/>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
         <translation>Klicka för att låsa upp antalet kontrollpunkter så att punkter kan läggas till eller tas bort</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1023"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="951"/>
         <source>Click to lock the number of control points so no points can be added or deleted</source>
         <translation>Klicka för att låsa antalet kontrollpunkter så att inga punkter kan läggas till eller tas bort</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1616"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1824"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1544"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1751"/>
         <source>Confirm control point deletion</source>
         <translation>Bekräfta borttagning av kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1545"/>
         <source>Delete %1 control points from this list?</source>
         <translation>Ta bort %1 controllpunkter från den här listan?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1623"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1550"/>
         <source>Delete</source>
         <translation type="unfinished">Delete</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1825"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1752"/>
         <source>Delete all %1 control points from this list?</source>
         <translation>Ta bort alla %1 controllpunkter från den här listan?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1832"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1758"/>
         <source>Delete All</source>
         <translation>Radera alla</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2292"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2214"/>
         <source>Delete highlighted control point(s)</source>
         <translation>Ta bort markerad(a) kontrollpunkt(er)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2299"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2219"/>
         <source>Jump slices</source>
         <translation>Hoppa över skivor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2306"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2224"/>
         <source>Refocus all cameras</source>
         <translation>Fokusera om alla kameror</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2324"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2240"/>
         <source>Edit position of highlighted control point(s)</source>
         <translation>Redigera positionen för markerad(a) kontrollpunkt(er)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2330"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2244"/>
         <source>Skip placement of highlighted control point(s)</source>
         <translation>Hoppa över placering av markerad(a) kontrollpunkt(er)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2336"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2248"/>
         <source>Restore position of highlighted control point(s)</source>
         <translation>Återställ positionen för markerad(a) kontrollpunkt(er)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2342"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2252"/>
         <source>Clear position of highlighted control point(s)</source>
         <translation>Tydlig position för markerad(a) kontrollpunkt(er)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2456"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2362"/>
         <source>Summed linear distance: %1</source>
         <translation>Summerat linjärt avstånd: %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3160"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3188"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3052"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3079"/>
         <source>No measurement</source>
         <translation type="unfinished">No measurement</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3095"/>
         <source>Enabled</source>
         <translation>Aktiverad</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3161"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utmatningstabell:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3274"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3162"/>
         <source>Export</source>
         <translation type="unfinished">Export</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3275"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3163"/>
         <source>Export control points coordinates and properties to table.</source>
         <translation>Exportera koordinater och egenskaper för kontrollpunkter till tabell.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3280"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3168"/>
         <source>Input table:</source>
         <translation>Inmatningstabell:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3281"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3169"/>
         <source>Import</source>
         <translation type="unfinished">Import</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3283"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3170"/>
         <source>Import control points coordinates and properties from table node.
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
@@ -23241,7 +23290,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="83"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="549"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="550"/>
         <source>Delete last added control point</source>
         <translation>Ta bort senast tillagda kontrollpunkt</translation>
     </message>
@@ -23317,22 +23366,22 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>Växla låsning av kontrollpunktsnummer. Om det är låst går det inte att lägga till eller ta bort kontrollpunkter. I stället för att radera kan positionskontrollpunkterna avaktiveras.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="137"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="138"/>
         <source>Place options</source>
         <translation>Placera alternativ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="148"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="149"/>
         <source>Delete options</source>
         <translation>Radera alternativ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="165"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="166"/>
         <source>More options</source>
         <translation>Ytterligare inställningar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="543"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="544"/>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
         <translation>Oinställd position för den senast placerade kontrollpunkten (kontrollpunkten raderas inte).</translation>
     </message>
@@ -23342,12 +23391,11 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="78"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
         <source>Markups</source>
         <translation type="unfinished">Markups</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
         <source>Markups Fiducials</source>
         <translation>Markups Fiducials</translation>
     </message>
@@ -23493,17 +23541,17 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>Lägg till modellkatalog</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="64"/>
+        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="61"/>
         <source>Select Model file(s)</source>
         <translation>Välj modellfil(er)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="78"/>
+        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="74"/>
         <source>Select a Model directory</source>
         <translation>Välj en modellkatalog</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="107"/>
         <source>Models</source>
         <translation type="unfinished">Models</translation>
     </message>
@@ -23544,7 +23592,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
+        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="45"/>
         <source>Models</source>
         <translation type="unfinished">Models</translation>
     </message>
@@ -23554,7 +23602,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>Modulen Models laddar och justerar visningsparametrar för modeller, t.ex. färg, transparens och klippning.&lt;br&gt;Spara modeller via File-menyn, knappen Save.&lt;br&gt;Med knappen Add 3D model eller a model directory kan du ladda alla modeller som Slicer kan läsa, samt alla VTK-modeller i en katalog. Add Scalar Overlay laddar en skalärfil och kopplar den till den aktiva modellen.&lt;br&gt;Du kan justera modellernas visningsegenskaper i fönstret Display. Välj den modell som du vill arbeta med i rullgardinsmenyn Model Selector. Skalära överlägg laddas med en standardfärguppslagstabell, men kan omfördelas manuellt. När ett nytt skalärt överlägg väl har valts används fortfarande den gamla färgkartan, så den måste justeras i samband med överlägget.&lt;br&gt;Clipping är aktiverat för en modell i Display-fönstret och de snittplan som ska klippa modellen väljs i Clipping-fönstret.&lt;br&gt;I Model Hierarchy-fönstret kan du gruppera modeller och ställa in gruppens egenskaper.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="96"/>
+        <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"/>
         <source>This work was partially funded by NIH grants 3P41RR013218-12S1 and R01CA184354.</source>
         <translation>Detta arbete finansierades delvis av NIH-anslag 3P41RR013218-12S1 och R01CA184354.</translation>
     </message>
@@ -23604,7 +23652,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klippning</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
@@ -23650,67 +23698,67 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>&amp;Testning</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="105"/>
         <source>Switch to module</source>
         <translation>Byt till modul</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="201"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kategori:</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="237"/>
+        <source>Contributors:</source>
+        <translation type="unfinished">Bidragsgivare:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
-        <source>Contributors:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="251"/>
         <source>Internal name:</source>
         <translation>Internt namn:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="255"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="248"/>
         <source>Unknown type</source>
         <translation>Okänd typ</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="252"/>
         <source>Python Scripted Loadable</source>
         <translation>Python skriptad laddningsbar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="256"/>
         <source>C++ Loadable</source>
         <translation>C++ laddningsbar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="260"/>
         <source>Command-Line Interface (CLI)</source>
         <translation>Kommandoradsgränssnitt (CLI)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="264"/>
         <source>built-in</source>
         <translation>inbyggd</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="266"/>
         <source>Type:</source>
         <translation type="unfinished">Type:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
         <source>Require:</source>
         <translation>Kräv:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="282"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="275"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plats:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="291"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="284"/>
         <source>%1 module is not loaded</source>
         <translation>%1-modulen är inte inläst</translation>
     </message>
@@ -23738,30 +23786,30 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>Bekräftelse</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
+        <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="189"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bidragsgivare:</translation>
     </message>
 </context>
 <context>
     <name>qSlicerModuleSelectorToolBar</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="102"/>
         <source>Modules:</source>
         <translation>Moduler:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="112"/>
         <source>Module Finder</source>
         <translation>Hitta moduler</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="114"/>
         <source>Find module</source>
         <translation>Hitta modul</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="139"/>
         <source>Select a module from the module list</source>
         <translation>Välj en modul från modullistan</translation>
     </message>
@@ -23771,43 +23819,43 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>Moduler</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="152"/>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="151"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="155"/>
         <source>Modules history</source>
         <translation>Moduler historia</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="154"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="153"/>
         <source>History</source>
         <translation>Historik</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="164"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="162"/>
         <source>Modules Previous History</source>
         <translation>Moduler Tidigare historia</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="165"/>
         <source>Previous</source>
         <translation>Föregående</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="168"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="166"/>
         <source>Previous modules</source>
         <translation>Tidigare moduler</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="181"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="177"/>
         <source>Modules Next History</source>
         <translation>Moduler Nästa historia</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="184"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="180"/>
         <source>Next</source>
         <translation type="unfinished">Next</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="185"/>
+        <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="181"/>
         <source>Next modules</source>
         <translation>Nästa moduler</translation>
     </message>
@@ -23815,7 +23863,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerModulesListView</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="152"/>
+        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="149"/>
         <source>Requires:</source>
         <translation>Kräver:</translation>
     </message>
@@ -23823,85 +23871,85 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerMouseModeToolBar</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="80"/>
         <source>Translate/rotate view, adjust displayed objects</source>
         <translation>Översätt/rotera vy, justera visade objekt</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="82"/>
         <source>View</source>
         <translation>Visa</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="95"/>
         <source>Adjust</source>
         <translation>Justera</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="96"/>
         <source>Adjust window/level by click-and-drag in a slice viewer.</source>
         <translation>Justera fönster/nivå genom att klicka och dra i en skivvisare.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="100"/>
         <source>Select region</source>
         <translation>Välj region</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="103"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
         <translation>Ställ in fönsternivån baserat på en rektangulär region, specificerad genom att klicka och dra i en skivvisare. Klickpositionen används som regionens hörn.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="106"/>
         <source>Select region - centered</source>
         <translation>Välj region - centrerad</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="109"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
         <translation>Ställ in fönsternivån baserat på en rektangulär region som anges genom att klicka och dra i en skivvisare. Klickpositionen används som regionens mittpunkt.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="123"/>
         <source>Adjust window/level</source>
         <translation type="unfinished">Adjust window/level</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="129"/>
         <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</source>
         <translation>Justera fönster/volymnivå genom att vänsterklicka och dra i snittvyer. Håll ned Ctrl/Cmd-tangenten för att tillfälligt växla mellan justering och regionbaserad inställning.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="135"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="132"/>
         <source>Window/level</source>
         <translation>Fönster/plan</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="149"/>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="178"/>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="179"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="144"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="145"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="173"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="174"/>
         <source>Toggle Markups Toolbar</source>
         <translation>Växla till verktygsfältet Markups</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="151"/>
         <source>Place Menu</source>
         <translation>Plats Meny</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="163"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="158"/>
         <source>Create and Place</source>
         <translation>Skapa och placera</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="159"/>
         <source>Place</source>
         <translation type="unfinished">Place</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="360"/>
         <source>Place a control point</source>
         <translation>Placera en kontrollpunkt</translation>
     </message>
@@ -23935,19 +23983,19 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>Utjämning av ytor:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="77"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komposit med skuggning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="79"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="70"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projektion med maximal intensitet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="81"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="71"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projektion av lägsta intensitet</translation>
     </message>
 </context>
 <context>
@@ -23966,7 +24014,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerPlotsModule</name>
     <message>
-        <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="46"/>
+        <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="44"/>
         <source>Plots</source>
         <translation>Tomter</translation>
     </message>
@@ -24022,12 +24070,12 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerPresetComboBox</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="149"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="146"/>
         <source>Preset</source>
         <translation>Förval</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="272"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="267"/>
         <source>Select a Preset</source>
         <translation>Välj en förinställning</translation>
     </message>
@@ -24035,7 +24083,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerReformatModule</name>
     <message>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="44"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="42"/>
         <source>Reformat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24045,7 +24093,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>Widgetmodulen Transforms Reformat skapar och redigerar Slice Node-transformationer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="69"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="70"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation>Detta arbete har fått stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community.</translation>
     </message>
@@ -24055,7 +24103,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="494"/>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="106"/>
         <source>Reformat</source>
         <oldsource>Form</oldsource>
         <translation type="unfinished">Form</translation>
@@ -24329,85 +24377,85 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Fel eller varningar uppstod när du sparade. Se statusikonerna för mer information.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="587"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1217"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1231"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1238"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="553"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1158"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1174"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1180"/>
         <source>Modified</source>
         <translation>Ändrad</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="587"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="911"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="553"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="864"/>
         <source>Not Modified</source>
         <translation>Ej modifierad</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="640"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="601"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Välj ett format</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="666"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="624"/>
         <source>Output folder</source>
         <translation>Utmatningsmapp</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="717"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="676"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
         <translation>Scenfilen sparades inte eftersom användaren valde att inte skriva över den befintliga filen: %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="815"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="772"/>
         <source>Node %1 not saved, file name is empty.</source>
         <translation>Noden %1 sparades inte, filnamnet är tomt.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="825"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="785"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
         <translation>Noden %1 sparades inte eftersom användaren valde att inte skriva över den befintliga filen: %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="863"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1000"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="819"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="951"/>
         <source>Cannot write data file: %1.</source>
         <translation>Det går inte att skriva datafilen: %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="873"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1010"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="829"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="961"/>
         <source>File writing may have failed because filename is too long: &apos;%1&apos;</source>
         <translation>Filskrivning kan ha misslyckats eftersom filnamnet är för långt: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="880"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1017"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="837"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="969"/>
         <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
         <translation>Filskrivningen kan ha misslyckats eftersom namnet på utdatamappen är för långt: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="845"/>
         <source>Failed to save node %1 to file %2.</source>
         <translation>Misslyckades med att spara nod %1 till fil %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1055"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1218"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1005"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1159"/>
         <source>Scene</source>
         <translation>Scenen</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1530"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1463"/>
         <source>Any Data</source>
         <translation>Alla uppgifter</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1563"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1497"/>
         <source>Saving file...</source>
         <translation>Sparar fil...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1564"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1498"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
         <translation>Filen: %1 finns redan. Vill du ersätta den?</translation>
     </message>
@@ -24501,28 +24549,28 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerSceneReader</name>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="65"/>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="103"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="64"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="102"/>
         <source>MRML Scene</source>
         <translation>MRML-scen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="131"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
         <translation>Scenfilen sparades med programmet %1 (detta program är %2).</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="142"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="139"/>
         <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
         <translation>Scenfilen skapades med en nyare version av programmet (%1) än den aktuella versionen (%2).</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="145"/>
         <source>The scene may not load correctly.</source>
         <translation>Scenen kanske inte laddas korrekt.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="172"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="168"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
         <translation>Dessa tillägg installerades när scenen sparades men är inte installerade nu: %1. Dessa tillägg kan behövas för att scenen ska kunna laddas.</translation>
     </message>
@@ -24530,7 +24578,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerSceneViewsModule</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="41"/>
+        <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="40"/>
         <source>Scene Views</source>
         <oldsource>Views</oldsource>
         <translation>Utsikt över scenen</translation>
@@ -24539,7 +24587,48 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
 <context>
     <name>qSlicerSceneViewsModuleDialog</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="31"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="87"/>
+        <source>Update existing nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="89"/>
+        <source>If checked, the nodes already contained in the scene view will be updated to match the current state of the scene.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="95"/>
+        <source>Capture display nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
+        <source>If checked, all display nodes in the scene will be added or updated in the current scene view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="103"/>
+        <source>Capture view nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="104"/>
+        <source>If checked, all view nodes in the scene will be added or updated in the current scene view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="110"/>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="111"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="120"/>
+        <source>Select the nodes to be captured in the scene view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="138"/>
         <source>3D Slicer SceneView</source>
         <translation>3D-skärare SceneView</translation>
     </message>
@@ -24558,30 +24647,30 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
         <translation>Miniatyr</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
         <source>Description</source>
         <translation type="unfinished">Description</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="118"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
         <source>Actions</source>
         <translation type="unfinished">Actions</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="184"/>
         <source>Restore</source>
         <translation>Återställ</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="188"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="190"/>
         <source>Edit</source>
         <translation type="unfinished">Edit</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="195"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="196"/>
         <source>Delete</source>
         <translation type="unfinished">Delete</translation>
     </message>
@@ -24597,7 +24686,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Medicinsk verklighet Bundle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="85"/>
@@ -24606,33 +24695,33 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="177"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="176"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
         <translation>Misslyckades med att spara scenen som %1 (sökvägen %2 är inte skrivbar)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="149"/>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="194"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="148"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="192"/>
         <source>Failed to save scene as %1</source>
         <translation>Misslyckades med att spara scenen som %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="232"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="228"/>
         <source>fails to be created</source>
         <translation>misslyckas med att skapas</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="235"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="229"/>
         <source>contains 1 file or directory</source>
         <translation>innehåller 1 fil eller katalog</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="238"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="230"/>
         <source>contains %1 files or directories</source>
         <translation>innehåller %1 filer eller kataloger</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="241"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="232"/>
         <source>Selected directory
 &quot;%1&quot;
 %2.
@@ -24646,12 +24735,12 @@ Vänligen välj en tom katalog.</translation>
 <context>
     <name>qSlicerSegmentEditorAbstractEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1075"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1087"/>
         <source>Operate on invisible segment?</source>
         <translation>Operera på osynligt segment?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1076"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1088"/>
         <source>The currently selected segment is hidden. Would you like to make it visible?</source>
         <translation>Det för närvarande valda segmentet är dolt. Vill du göra det synligt?</translation>
     </message>
@@ -24659,12 +24748,12 @@ Vänligen välj en tom katalog.</translation>
 <context>
     <name>qSlicerSegmentEditorEraseEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="56"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="59"/>
         <source>Erase</source>
         <translation>Radera</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="75"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="79"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
         <translation>Radera från det aktuella segmentet med en rund pensel&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Dra och släpp med vänsterknappen&lt;/b&gt;: radera från segmentet runt muspekaren.&lt;li&gt;&lt;b&gt;Skift + mushjul&lt;/b&gt; eller &lt;b&gt;+/- tangenter&lt;/b&gt;: justera penselstorleken.&lt;li&gt;&lt;b&gt;Ctrl + mushjul&lt;/b&gt;: zoom in/ut i snittvyn&lt;/ul&gt;.&lt;p&gt;Redigering är tillgänglig både i snitt- och 3D-vyer.&lt;p&gt;</translation>
     </message>
@@ -24672,213 +24761,213 @@ Vänligen välj en tom katalog.</translation>
 <context>
     <name>qSlicerSegmentEditorPaintEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="960"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="929"/>
         <source>Paint</source>
         <translation>Färg</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="980"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="950"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
         <translation>Måla med rund pensel&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Dra och släpp med vänsterknappen&lt;/b&gt;&lt;/ul&gt;: måla&lt;ul style=&quot;margin: 0&quot;&gt;streck.&lt;li&gt;&lt;b&gt;Skift + mushjul&lt;/b&gt; eller &lt;b&gt;+/- tangenter&lt;/b&gt;: justera penselstorleken.&lt;li&gt;&lt;b&gt;Ctrl + mushjul&lt;/b&gt;: zoom in/ut i snittvyn&lt;/ul&gt;.&lt;p&gt;Redigering är tillgänglig både i snitt- och 3D-vyer.&lt;p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1415"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1372"/>
         <source>Diameter:</source>
         <translation type="unfinished">Diameter:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1417"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1423"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1426"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1374"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1380"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1383"/>
         <source>Set the paint brush size as a percentage of screen height or physical size</source>
         <oldsource>Set the paint brush size as percentage of screen size or as fixed length</oldsource>
         <translation>Ställ in penselstorleken som en procentandel av skärmhöjden eller den fysiska storleken</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1436"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1393"/>
         <source>Sphere brush</source>
         <translation>Sfärisk borste</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1437"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1394"/>
         <source>Use a 3D spherical brush rather than a 2D circular brush.</source>
         <translation>Använd en sfärisk 3D-pensel i stället för en cirkulär 2D-pensel.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1440"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1397"/>
         <source>Edit in 3D views</source>
         <translation>Redigera i 3D-vyer</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1441"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1398"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
         <translation>Tillåt målning i 3D-vyer. Om detta är aktiverat kan du genom att klicka och dra i en 3D-vy måla i vyn i stället för att rotera den.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1445"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1402"/>
         <source>Color smudge</source>
         <translation>Färgen smetas ut</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1446"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1404"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
         <translation>Välj segment genom att sampla pixelplatsen där penseldraget börjar. Om penseldraget börjar i ett tomt område raderar penseln det markerade området från det valda segmentet.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1453"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1411"/>
         <source>Erase all segments</source>
         <translation>Radera alla segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1454"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1412"/>
         <source>If not checked then highlighted area is erased from all segments. If unchecked then only area is only erased from selected segment.</source>
         <translation>Om den inte är markerad raderas det markerade området från alla segment. Om det inte är markerat raderas endast det markerade området från det valda segmentet.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1419"/>
         <source>Pixel mode</source>
         <translation>Pixel-läge</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1462"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1420"/>
         <source>Paint exactly the pixel under the cursor, ignoring the diameter, threshold, and paint over.</source>
         <translation>Måla exakt den pixel som finns under markören, utan hänsyn till diameter, tröskelvärde och övermålning.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1565"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1523"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mm</translation>
     </message>
 </context>
 <context>
     <name>qSlicerSegmentEditorScissorsEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1163"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1158"/>
         <source>Scissors</source>
         <translation>Saxar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1177"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
         <translation>Klipp igenom hela segmentet från aktuell vy&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Dra och släpp med vänsterknappen&lt;/b&gt;: svep ut en kontur.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; Avbryt&lt;/ul&gt;.&lt;p&gt;Redigering är tillgänglig både i snitt- och 3D-vyer. I snittvyn kommer klippningen att tillämpas på alla snitt.&lt;p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1199"/>
         <source>Erase inside</source>
         <translation>Radera inuti</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1200"/>
         <source>Erase outside</source>
         <translation>Radera utanför</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1205"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1201"/>
         <source>Fill inside</source>
         <translation>Fylla inuti</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1206"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
         <source>Fill outside</source>
         <translation>Fylla utsidan</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1208"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
         <source>Operation:</source>
         <translation type="unfinished">Operation:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1221"/>
         <source>Free-form</source>
         <translation>Fri form</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1226"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1222"/>
         <source>Circle</source>
         <translation>Cirkel</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1223"/>
         <source>Rectangle</source>
         <translation>Rektangel</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1228"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1224"/>
         <source>Centered</source>
         <translation type="unfinished">Centered</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1230"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
         <translation>Om kryssrutan är markerad anger klickpositionen cirkelns eller rektangelns mittpunkt, annars ligger klickpositionen vid formens gräns.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1232"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
         <source>Shape:</source>
         <translation>Form:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1244"/>
         <source>Unlimited</source>
         <translation>Obegränsad</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1245"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
         <translation>Skär genom hela segmenteringen. Används endast för snittvyer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1246"/>
         <source>Positive</source>
         <translation>Positiv</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1252"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1247"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
         <translation>Endast den positiva sidan av snittplanet ingår i snittregionen. Används endast för snittvyer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1253"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1248"/>
         <source>Negative</source>
         <translation>Negativ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
         <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
         <translation>Endast den negativa sidan av snittplanet ingår i snittregionen. Används endast för snittvyer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1255"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
         <source>Symmetric</source>
         <translation>Symmetrisk</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1256"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
         <translation>Klippområdet är begränsat till den angivna tjockleken runt snittplanet. Används endast för snittvyer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1259"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
         <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
         <translation>Tjockleken på den utskurna regionen. 0 innebär att endast det aktuella snittet inkluderas. Används endast för snittvyer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1266"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1261"/>
         <source>Slice cut:</source>
         <translation>Skiva skuren:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1267"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1262"/>
         <source>Restrict cut region in slice views.</source>
         <translation>Begränsa snittområdet i snittvyer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1270"/>
         <source>Apply to visible segments:</source>
         <translation>Applicera på synliga segment:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1276"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1271"/>
         <source>Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </source>
         <translation>Applicera saxeffekt på alla synliga segment från topp till botten.                                           Efter att du har tryckt på &quot;Apply&quot;: Ha tålamod - detta kan vara tidskrävande.                                           Framsteg kommer att visas som statusmeddelande. </translation>
     </message>
@@ -24920,8 +25009,8 @@ Vänligen välj en tom katalog.</translation>
     <name>qSlicerSegmentationsModule</name>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="14"/>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="180"/>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="47"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="178"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="46"/>
         <source>Segmentations</source>
         <translation type="unfinished">Segmentations</translation>
     </message>
@@ -25193,7 +25282,7 @@ Vänligen välj en tom katalog.</translation>
         <translation>Modulen Segmentations hanterar segmenteringar. Varje segmentering kan innehålla flera segment, som motsvarar en struktur eller ROI. Varje segment kan innehålla flera datarepresentationer för samma struktur, och modulen stöder automatisk konvertering mellan dessa representationer samt avancerade visningsinställningar och import-/exportfunktioner.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="112"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="111"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
         <translation>Detta arbete är en del av SparKit-projektet, som finansieras av Cancer Care Ontario (CCO):s ACRU-program och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
@@ -25201,47 +25290,62 @@ Vänligen välj en tom katalog.</translation>
 <context>
     <name>qSlicerSegmentationsModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="641"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="316"/>
+        <source>Segmentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="319"/>
+        <source>Volume</source>
+        <translation type="unfinished">Volym</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="320"/>
+        <source>Color Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="616"/>
         <source>Output type:</source>
         <translation>Typ av utgång:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="642"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="617"/>
         <source>Output node:</source>
         <translation>Utgångsnod:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="643"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="618"/>
         <source>Export</source>
         <translation type="unfinished">Export</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="649"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="624"/>
         <source>Input type:</source>
         <translation>Typ av ingång:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="650"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="625"/>
         <source>Input node:</source>
         <translation>Ingångsnod:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="651"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="626"/>
         <source>Import</source>
         <translation type="unfinished">Import</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="668"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="642"/>
         <source>Export to new labelmap</source>
         <translation>Exportera till ny etikettmapp</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="676"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="650"/>
         <source>Export models to new folder</source>
         <translation>Exportera modeller till ny mapp</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="787"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="760"/>
         <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
@@ -25259,39 +25363,41 @@ Vill du ändra källrepresentationen för &apos;%5&apos; till &apos;%1&apos;?
 Obs: Detta kan leda till oönskad dataförlust i %5.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="793"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="768"/>
         <source>Failed to copy segment</source>
         <translation>Misslyckades med att kopiera segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="801"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Misslyckades med att konvertera %1 till %2!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="802"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="776"/>
         <source>Conversion failed</source>
         <translation type="unfinished">Conversion failed</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="926"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="895"/>
         <source>Export may erase data</source>
         <translation>Export kan radera data</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="931"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="900"/>
         <source>Segmentations/AlwaysCropDuringSegmentationNodeExport</source>
         <translation>Segmenteringar/AltidCropDuringSegmentationNodeExport</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="932"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="901"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Den aktuella segmenteringen passar inte helt in i den nya geometrin.
+Vill du beskära segmenteringen?
+</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1008"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="973"/>
         <source>Failed to export segments from segmentation %1 to labelmap node %2!
 
 Most probably the segment cannot be converted into binary labelmap representation.</source>
@@ -25300,12 +25406,12 @@ Most probably the segment cannot be converted into binary labelmap representatio
 Troligen kan segmentet inte konverteras till en binär etikettmapprepresentation.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1012"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="978"/>
         <source>Failed to export segments to labelmap</source>
         <translation>Misslyckades med att exportera segment till labelmap</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1024"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="990"/>
         <source>Failed to export segments from segmentation %1 to models in folder %2!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
@@ -25314,37 +25420,37 @@ Most probably the segment cannot be converted into closed surface representation
 Troligen kan segmentet inte konverteras till en sluten ytrepresentation.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1028"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="995"/>
         <source>Failed to export segments to models</source>
         <translation>Misslyckades med att exportera segment till modeller</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1085"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1046"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
         <translation>Misslyckades med att kopiera etiketter från labelmap-volymnoden %1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1087"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1048"/>
         <source>Failed to import labelmap volume</source>
         <translation>Misslyckades med att importera labelmap-volym</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1096"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1057"/>
         <source>Failed to copy polydata from model node %1!</source>
         <translation>Misslyckades med att kopiera polydata från modellnoden %1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1098"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1059"/>
         <source>Failed to import model node</source>
         <translation>Misslyckades med att importera modellnod</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1107"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1068"/>
         <source>Failed to copy polydata from models under folder %1!</source>
         <translation>Misslyckades med att kopiera polydata från modeller under mappen %1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1109"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1070"/>
         <source>Failed to import models</source>
         <translation>Misslyckades med att importera modeller</translation>
     </message>
@@ -25352,12 +25458,12 @@ Troligen kan segmentet inte konverteras till en sluten ytrepresentation.</transl
 <context>
     <name>qSlicerSegmentationsNodeWriterOptionsWidget</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="46"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="45"/>
         <source>Crop to minimum extent</source>
         <translation>Skörd i minsta möjliga utsträckning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="47"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
         <translation>Om aktiverat beskärs representationen av segmenteringsetikettkartan till minsta nödvändiga storlek. Detta sparar lagringsutrymme men ändrar voxelkoordinatsystemet (det fysiska koordinatsystemet påverkas inte).</translation>
     </message>
@@ -25428,7 +25534,7 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="106"/>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="207"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="213"/>
         <source>(set)</source>
         <translation>(set)</translation>
     </message>
@@ -25455,52 +25561,52 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
         <translation>Standardläge för överskrivning:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="94"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="95"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
         <translation>Ställ automatiskt in opacitet för segmenten baserat på vilka som innehåller vilka, så att inget segment skymmer ett annat</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="98"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="102"/>
         <source>Enable closed surface representation smoothing by default</source>
         <translation>Aktivera utjämning av representation av slutna ytor som standard</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="101"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
         <source>Use standard terminology for segments</source>
         <translation>Använda standardterminologi för segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="104"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="114"/>
         <source>Default terminology entry</source>
         <translation>Standardterminologipost</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="117"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fråga användaren</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="107"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="118"/>
         <source>Always make visible</source>
         <translation>Gör alltid synliga</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="119"/>
         <source>Always allow</source>
         <translation>Tillåt alltid</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="112"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="122"/>
         <source>Overwrite all</source>
         <translation>Skriva över alla</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="113"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="123"/>
         <source>Overwrite visible</source>
         <translation type="unfinished">Overwrite visible</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="114"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="124"/>
         <source>Allow overlap</source>
         <translation>Tillåt överlappning</translation>
     </message>
@@ -25508,22 +25614,22 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
 <context>
     <name>qSlicerSequencesModule</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="60"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="52"/>
         <source>Sequences</source>
         <translation>Sekvenser</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="106"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="104"/>
         <source>Sequence browser</source>
         <translation>Sekvensbläddrare</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="167"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="162"/>
         <source>This is a module for creating, recording, and replaying node sequences.</source>
         <translation>Det här är en modul för att skapa, spela in och spela upp nodsekvenser.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="173"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="168"/>
         <source>This work was funded by CCO ACRU and OCAIRO grants.</source>
         <translation>Detta arbete finansierades av CCO ACRU- och OCAIRO-anslag.</translation>
     </message>
@@ -25533,7 +25639,7 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekvenser</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
@@ -25715,53 +25821,53 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
         <translation type="unfinished">Sequence:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="298"/>
         <source>Signal Intensity</source>
         <translation>Signalens intensitet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="302"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="333"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="299"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="330"/>
         <source>Time</source>
         <translation>Tid</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="332"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="329"/>
         <source>Displacement</source>
         <translation>Förskjutning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="882"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="868"/>
         <source>M</source>
         <translation>M</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="883"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="869"/>
         <source>Master sequence</source>
         <translation>Huvudsekvens</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="888"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="874"/>
         <source>Synchronized sequence</source>
         <translation>Synkroniserad sekvens</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="894"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="880"/>
         <source>Include this node in synchronized playback</source>
         <translation>Inkludera denna nod i synkroniserad uppspelning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="898"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="884"/>
         <source>Overwrite the associated node&apos;s name during playback</source>
         <translation>Skriva över den associerade nodens namn under uppspelning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="902"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="888"/>
         <source>Save changes to the node into the sequence</source>
         <translation>Spara ändringar i noden i sekvensen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="906"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="892"/>
         <source>Include this node in synchronized recording</source>
         <translation>Inkludera denna nod i synkroniserad inspelning</translation>
     </message>
@@ -25775,10 +25881,9 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
         <translation type="unfinished">Sequence</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volymsekvens</translation>
     </message>
 </context>
 <context>
@@ -25870,12 +25975,12 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
         <translation>Rensa cache</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="144"/>
+        <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="132"/>
         <source>%1MB used</source>
         <translation>%1MB används</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="148"/>
+        <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="134"/>
         <source>%1MB free</source>
         <translation>%1MB ledig</translation>
     </message>
@@ -25909,7 +26014,7 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
-        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="91"/>
         <source>Time to wait before resuming self-test execution and hiding messages displayed to the user</source>
         <translation>Tid att vänta innan självtestkörningen återupptas och dolda meddelanden visas för användaren</translation>
     </message>
@@ -25939,17 +26044,17 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
         <translation>Bevara indata- och datafiler som skapats under körning av CLI-modulen</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="75"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="77"/>
         <source>Enable/Disable developer mode</source>
         <translation>Aktivera/inaktivera utvecklarläge</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="79"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="84"/>
         <source>Preserve CLI module input/output files</source>
         <translation>Bevara CLI-modulens inmatnings-/utmatningsfiler</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="87"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="97"/>
         <source>Enable/Disable QtTesting</source>
         <translation>Aktivera/inaktivera QtTesting</translation>
     </message>
@@ -25974,7 +26079,7 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sök automatiskt efter uppdateringar:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="64"/>
@@ -26014,7 +26119,7 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="154"/>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Öppna webbplatsen för Extensions Catalog...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="157"/>
@@ -26032,22 +26137,22 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
         <translation>Installera automatiskt nödvändiga ytterligare tillägg när du installerar ett tillägg</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="91"/>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="94"/>
         <source>Enable/Disable extensions manager</source>
         <translation>Aktivera/inaktivera extensionshanteraren</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="103"/>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="113"/>
         <source>Automatic update check</source>
         <translation>Automatisk uppdateringskontroll</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="105"/>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="115"/>
         <source>Automatic update install</source>
         <translation>Automatisk installation av uppdateringar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="107"/>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="120"/>
         <source>Automatic install of dependencies</source>
         <translation>Automatisk installation av beroenden</translation>
     </message>
@@ -26179,28 +26284,28 @@ Standard: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</
         <translation>URL för server för programuppdatering</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="157"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="153"/>
         <source>Default scene path</source>
         <translation>Standard sökväg för scen</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="188"/>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="192"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="181"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="187"/>
         <source>Documentation location</source>
         <translation>Plats för dokumentation</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="196"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="193"/>
         <source>Enable/Disable languages</source>
         <translation>Aktivera/inaktivera språk</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="200"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="199"/>
         <source>Max. number of &apos;Recent&apos; menu items</source>
         <translation>Max. antal menyalternativ i &quot;Senaste</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="214"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="212"/>
         <source>Max. filename length</source>
         <translation>Max. längd på filnamn</translation>
     </message>
@@ -26218,7 +26323,7 @@ Standard: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</
         <translation>Aktivera internationalisering:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="68"/>
+        <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="69"/>
         <source>Enable/Disable Internationalization</source>
         <translation>Aktivera/inaktivera internationalisering</translation>
     </message>
@@ -26444,17 +26549,17 @@ Standard: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</
         <translation>Flytta höger</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="180"/>
+        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="178"/>
         <source>Additional module paths</source>
         <translation>Ytterligare modulvägar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="188"/>
+        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="189"/>
         <source>Modules to ignore</source>
         <translation>Moduler att ignorera</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="322"/>
+        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="314"/>
         <source>Select folder</source>
         <translation>Välj mapp</translation>
     </message>
@@ -26489,7 +26594,7 @@ Standard: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="52"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Python-konsol</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="64"/>
@@ -26524,7 +26629,7 @@ Standard: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</
         <translation>Python-redaktör.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="103"/>
+        <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="105"/>
         <source>Display Python console in a window that can be placed inside the main window.</source>
         <translation>Visa Python-konsolen i ett fönster som kan placeras inuti huvudfönstret.</translation>
     </message>
@@ -26694,17 +26799,17 @@ p, li { blanksteg: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;När denna funktion är aktiverad kommer applikationens storlek och position att sparas till nästa gång applikationen startas.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="102"/>
+        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="97"/>
         <source>Additional style paths</source>
         <translation>Ytterligare stilvägar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="112"/>
+        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="104"/>
         <source>Current style</source>
         <translation>Nuvarande stil</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
+        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="238"/>
         <source>Select a path containing a &quot;styles&quot; plugin directory</source>
         <translation>Välj en sökväg som innehåller en plugin-katalog för &quot;styles&quot;</translation>
     </message>
@@ -26757,7 +26862,7 @@ p, li { blanksteg: pre-wrap; }
         <translation>E-post:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="169"/>
+        <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="161"/>
         <source>Invalid format</source>
         <translation>Ogiltigt format</translation>
     </message>
@@ -26784,25 +26889,25 @@ p, li { blanksteg: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="94"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="193"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="264"/>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="86"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="82"/>
         <source>none</source>
         <translation type="unfinished">none</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="198"/>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="87"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
         <source>cube</source>
         <translation>kub</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="203"/>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="88"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="84"/>
         <source>human</source>
         <translation>människa</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="208"/>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="89"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="85"/>
         <source>axes</source>
         <translation>axlar</translation>
     </message>
@@ -26941,102 +27046,102 @@ p, li { blanksteg: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Använd multisampling för anti-aliasing i helskärmsläge.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="80"/>
         <source>Multisampling (MSAA)</source>
         <translation>Multisampling (MSAA)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="95"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="92"/>
         <source>Slice view orientation marker type</source>
         <translation>Skivvy orientering markörtyp</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="101"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="99"/>
         <source>Slice view orientation marker size</source>
         <translation>Skivans vy orientering markörstorlek</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="107"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
         <source>Slice view ruler type</source>
         <translation>Typ av linjal för skivvy</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="109"/>
         <source>patient right is screen left (default)</source>
         <translation>patientens höger är skärmens vänster (standard)</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
         <source>patient right is screen right</source>
         <translation>patientens rätt är skärmens rätt</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="114"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="115"/>
         <source>Default slice view orientation</source>
         <translation>Standardorientering för skivvy</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="121"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="123"/>
         <source>Slice edge visibility in 3D views</source>
         <translation>Synlighet för skivkanter i 3D-vyer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="126"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="130"/>
         <source>3D view cube visibility</source>
         <translation>3D-vy kub synlighet</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="129"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="135"/>
         <source>3D view axis label visibility</source>
         <translation>synlighet för axeletikett i 3D-vy</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="134"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="141"/>
         <source>3D view orientation marker type</source>
         <translation>3D-vy orientering markör typ</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="140"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="148"/>
         <source>3D view orientation marker size</source>
         <translation>3D-vy orientering markörstorlek</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="146"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="155"/>
         <source>3D view ruler type</source>
         <translation>3D-vy linjal typ</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="150"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="161"/>
         <source>3D depth peeling</source>
         <translation>peeling med 3D-djup</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="153"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="166"/>
         <source>Orthographic projection</source>
         <translation>Ortografisk projektion</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="171"/>
         <source>Shadows visibility</source>
         <translation>Skuggor synlighet</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="159"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="176"/>
         <source>Ambient shadows size scale</source>
         <translation>Storleksskala för omgivande skuggor</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="162"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="181"/>
         <source>Ambient shadows volume opacity threshold</source>
         <translation>Tröskelvärde för volymopacitet för omgivande skuggor</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="165"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="186"/>
         <source>Ambient shadows intensity scale</source>
         <translation>Skala för intensitet i omgivande skuggor</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="168"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="191"/>
         <source>Ambient shadows intensity shift</source>
         <translation>Omgivande skuggors intensitetsförändring</translation>
     </message>
@@ -27051,7 +27156,7 @@ p, li { blanksteg: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="96"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Shader-egenskap</translation>
     </message>
 </context>
 <context>
@@ -27063,45 +27168,45 @@ p, li { blanksteg: pre-wrap; }
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="601"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="598"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etikett</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="598"/>
+        <source>R</source>
+        <translation type="unfinished">R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="602"/>
-        <source>R</source>
-        <translation type="unfinished"></translation>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="599"/>
+        <source>A</source>
+        <translation type="unfinished">A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="129"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="603"/>
-        <source>A</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="130"/>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="604"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="600"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="408"/>
         <source>Delete highlighted control points</source>
         <translation>Ta bort markerade kontrollpunkter</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="409"/>
         <source>Move current control point up</source>
         <translation>Flytta aktuell kontrollpunkt uppåt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="412"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
         <source>Move current control point down</source>
         <translation>Flytta ner aktuell kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="413"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
         <source>Jump slices to control point</source>
         <translation>Hoppa skivor till kontrollpunkt</translation>
     </message>
@@ -27109,7 +27214,7 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qSlicerStandardFileDialog</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="294"/>
+        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="282"/>
         <source>Options:</source>
         <translation>Alternativ:</translation>
     </message>
@@ -27117,12 +27222,12 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qSlicerSubjectHierarchyCloneNodePlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="71"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klona</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="73"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="75"/>
         <source>Clone this item and its data node if any along with display and storage options</source>
         <translation>Klona detta objekt och dess eventuella datanod tillsammans med visnings- och lagringsalternativ</translation>
     </message>
@@ -27130,7 +27235,7 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qSlicerSubjectHierarchyColorLegendPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="86"/>
+        <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="88"/>
         <source>Show color legend</source>
         <translation>Visa färgförklaring</translation>
     </message>
@@ -27138,17 +27243,17 @@ p, li { blanksteg: pre-wrap; }
 <context>
     <name>qSlicerSubjectHierarchyDICOMPlugin</name>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="105"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="108"/>
         <source>Create new subject</source>
         <translation>Skapa nytt ämne</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="110"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="112"/>
         <source>Create child study</source>
         <translation>Skapa barnstudie</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="115"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="116"/>
         <source>Convert folder to subject</source>
         <translation>Konvertera mapp till ämne</translation>
     </message>
@@ -27158,12 +27263,12 @@ p, li { blanksteg: pre-wrap; }
         <translation>Konvertera mapp till studie</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="125"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="124"/>
         <source>Export to DICOM...</source>
         <translation>Exportera till DICOM...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="514"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="509"/>
         <source>Data to export need to be under a study item, placed under a patient item in the subject hierarchy.
 Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
 
@@ -27178,17 +27283,17 @@ En standardpatient och -studie skapas och de valda uppgifterna och deras relater
 Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och släppa de exporterbara uppgifterna under studien.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="519"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="514"/>
         <source>Create new patient and study for DICOM export?</source>
         <translation>Skapa ny patient och studie för DICOM-export?</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="615"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="608"/>
         <source>Anonymous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anonym</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="643"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="636"/>
         <source>No study description</source>
         <translation>Ingen beskrivning av studien</translation>
     </message>
@@ -27196,17 +27301,17 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyDefaultPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="81"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="84"/>
         <source>Show all children</source>
         <translation>Visa alla barn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="84"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="87"/>
         <source>Hide all children</source>
         <translation>Dölj alla barn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="133"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="136"/>
         <source>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Rename item&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Double-click the item name, or right-click the item and select &apos;Rename&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deform any branch using a transform (registration result)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Make sure the transform column is shown using the &apos;Show transforms&apos; checkbox. To transform a branch, right-click on the cell in the transform column of the row in question, and choose a transform.&lt;/span&gt;&lt;/p&gt;</source>
         <translation>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Byt namn på objekt&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Dubbelklicka på objektets namn eller högerklicka på objektet och välj &quot;Byt namn&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deformera en gren med hjälp av en transform (registreringsresultat)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Kontrollera att transformkolumnen visas med hjälp av kryssrutan &quot;Visa transformationer&quot;. Om du vill transformera en gren högerklickar du på cellen i transformkolumnen på raden i fråga och väljer en transform.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
@@ -27214,22 +27319,22 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="92"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="95"/>
         <source>Tractography labelmap seeding...</source>
         <translation>Traktografi, etikett, karta, sådd...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="94"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="97"/>
         <source>Tractography interactive seeding...</source>
         <translation>Traktografi interaktiv sådd...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="173"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="176"/>
         <source>Invalid!</source>
         <translation>Ogiltig!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="179"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="182"/>
         <source>Error!</source>
         <translation>Fel!</translation>
     </message>
@@ -27237,12 +27342,12 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyExportPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="83"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="85"/>
         <source>Export to file...</source>
         <translation>Exportera till fil...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="84"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="86"/>
         <source>Export this node to a file</source>
         <translation>Exportera denna nod till en fil</translation>
     </message>
@@ -27250,12 +27355,12 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyFolderPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="98"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="100"/>
         <source>Create new folder</source>
         <translation>Skapa ny mapp</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="103"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="104"/>
         <source>Create child folder</source>
         <translation>Skapa underordnad mapp</translation>
     </message>
@@ -27270,12 +27375,12 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
         <translation>Om den är aktiverad kommer underordnade objekt att ärva de visningsegenskaper (t.ex. färg eller opacitet) som ställts in för mappen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="116"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="115"/>
         <source>Show empty folders</source>
         <translation>Visa tomma mappar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="118"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
         <translation>Om på, visas mappar som inte innehåller noder (tillåtna av något filter), annars inte</translation>
     </message>
@@ -27283,7 +27388,7 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyLabelMapsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="89"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="92"/>
         <source>2D outline visibility</source>
         <translation>synlighet för 2D-kontur</translation>
     </message>
@@ -27291,119 +27396,162 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyMarkupsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="140"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="142"/>
         <source>Rename control point...</source>
         <translation>Byt namn på kontrollpunkt...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="145"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="147"/>
         <source>Refocus camera on this point</source>
         <translation>Fokusera om kameran på denna punkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="150"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="152"/>
         <source>Toggle select control point</source>
         <translation>Växla välj kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="155"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="157"/>
         <source>Jump to previous control point</source>
         <translation>Hoppa till föregående kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="156"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="158"/>
         <source>Jump slice views to the previous control point</source>
         <translation>Hoppa till föregående kontrollpunkt i slice-vyn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="161"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="163"/>
         <source>Jump to next control point</source>
         <translation>Hoppa till nästa kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="162"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="164"/>
         <source>Jump slice views to the next control point</source>
         <translation>Hoppa över slice-vyer till nästa kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="167"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="169"/>
         <source>Jump to closest control point</source>
         <translation>Hoppa till närmaste kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="168"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="170"/>
         <source>Jump slice views to the closest control point</source>
         <translation>Hoppa till närmaste kontrollpunkt med hjälp av slice-vyer</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="173"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="547"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="175"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="545"/>
         <source>Delete control point</source>
         <translation>Ta bort kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="178"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="180"/>
         <source>Delete markup</source>
         <translation>Ta bort markering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="183"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="185"/>
         <source>Edit markup terminology...</source>
         <translation>Redigera markup-terminologi...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="190"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="223"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="192"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="225"/>
         <source>Interaction</source>
         <translation type="unfinished">Interaction</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="196"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="228"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="198"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="230"/>
         <source>Translate</source>
         <translation type="unfinished">Translate</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="201"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="233"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="235"/>
         <source>Rotate</source>
         <translation type="unfinished">Rotate</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="206"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="238"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="208"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="240"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skala</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="216"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="248"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="218"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="250"/>
         <source>Interaction options</source>
         <translation type="unfinished">Interaction options</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="543"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="541"/>
         <source>Clear control point position</source>
         <translation>Tydlig position för kontrollpunkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="596"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="594"/>
         <source>Delete %1</source>
         <translation>Ta bort %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="597"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="595"/>
         <source>Edit %1 terminology...</source>
         <translation>Redigera %1 terminologi...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="688"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="686"/>
         <source>Rename %1</source>
         <translation>Byt namn på %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="688"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="686"/>
         <source>New name:</source>
+        <translation type="unfinished">Nytt namn:</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyModelsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="186"/>
+        <source>Invalid item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="192"/>
+        <source>Error</source>
+        <translation type="unfinished">Fel</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="198"/>
+        <source>Invalid model node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="200"/>
+        <source>Poly data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="205"/>
+        <source>Unstructured grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="209"/>
+        <source>Model node does not contain data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="214"/>
+        <source>Points: %1  Cells: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="223"/>
+        <source>Color: %1,%2,%3  Opacity: %4%</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -27415,7 +27563,7 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
         <translation>ÄmnesHierarki</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="50"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="49"/>
         <source>Subject Hierarchy</source>
         <translation>Ämneshierarki</translation>
     </message>
@@ -27423,13 +27571,13 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyOpacityPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="81"/>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="91"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="84"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="94"/>
         <source>Opacity</source>
         <translation type="unfinished">Opacity</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="92"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="95"/>
         <source>Set item opacity in the sub-menu</source>
         <translation>Ställ in opacitet för objekt i undermenyn</translation>
     </message>
@@ -27437,7 +27585,7 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyParseLocalDataPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="77"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="79"/>
         <source>Create hierarchy from loaded directory structure</source>
         <translation>Skapa hierarki från inläst katalogstruktur</translation>
     </message>
@@ -27445,12 +27593,12 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
 <context>
     <name>qSlicerSubjectHierarchyPluginLogic</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="97"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="99"/>
         <source>Edit properties...</source>
         <translation type="unfinished">Edit properties...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="265"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="257"/>
         <source>Equal confidence number found for more than one subject hierarchy plugin for adding new node to subject hierarchy.
 
 Select plugin to add node named
@@ -27466,63 +27614,63 @@ Välj plugin för att lägga till noden med namnet
 <context>
     <name>qSlicerSubjectHierarchyRegisterPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="93"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="96"/>
         <source>Register this...</source>
         <translation>Registrera detta...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="97"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
         <translation>Välj volym som rörlig bild för registrering. Den andra volymen kan väljas från snabbmenyn efter att den första har ställts in.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="99"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="102"/>
         <source>Register * to this using...</source>
         <translation>Registrera * till detta med hjälp av...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="104"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="107"/>
         <source>Rigid image-based registration</source>
         <translation>Rigid bildbaserad registrering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="108"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="111"/>
         <source>BSpline image-based registration</source>
         <translation>BSpline-bildbaserad registrering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="112"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="115"/>
         <source>Interactive landmark registration</source>
         <translation>Interaktiv registrering av landmärken</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="117"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="120"/>
         <source>Cancel registration (or right-click another volume to start registration)</source>
         <translation>Avbryt registreringen (eller högerklicka på en annan volym för att starta registreringen)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="118"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="121"/>
         <source>Right-click another volume to select second volume and start registration</source>
         <translation>Högerklicka på en annan volym för att välja andra volymen och starta registreringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="216"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="219"/>
         <source>Register %1 to this using...</source>
         <translation>Registrera %1 till detta med hjälp av...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="260"/>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="346"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="262"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="340"/>
         <source>BRAINSRegistration_%1_To_%2</source>
         <translation>BRAINSRegistrering_%1_To_%2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="276"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="274"/>
         <source>LinearTransform_%1_To_%2</source>
         <translation>LinjärTransform_%1_To_%2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="362"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="352"/>
         <source>BSplineTransform_%1_To_%2</source>
         <translation>BSplineTransform_%1_To_%2</translation>
     </message>
@@ -27530,62 +27678,62 @@ Välj plugin för att lägga till noden med namnet
 <context>
     <name>qSlicerSubjectHierarchySegmentationsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="109"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="112"/>
         <source>Export visible segments to binary labelmap</source>
         <translation>Exportera synliga segment till binär labelmap</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="112"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="115"/>
         <source>Export visible segments to models</source>
         <translation>Exportera synliga segment till modeller</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="115"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="118"/>
         <source>Convert labelmap to segmentation node</source>
         <translation>Konvertera labelmap till segmenteringsnod</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="118"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="121"/>
         <source>Convert model to segmentation node</source>
         <translation>Konvertera modell till segmenteringsnod</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="121"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="124"/>
         <source>Convert models to segmentation node</source>
         <translation>Konvertera modeller till segmenteringsnod</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="124"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
         <source>Create binary labelmap representation</source>
         <translation>Skapa binär labelmap-representation</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="126"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="129"/>
         <source>Create closed surface representation</source>
         <translation>Skapa representation av sluten yta</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="129"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="132"/>
         <source>Remove binary labelmap representation</source>
         <translation>Ta bort binär labelmap-representation</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="131"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="134"/>
         <source>Remove closed surface representation</source>
         <translation>Ta bort representation av slutna ytor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="134"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="137"/>
         <source>2D fill visibility</source>
         <translation>synlighet för 2D-fyllning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="139"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="142"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">synlighet för 2D-kontur</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="281"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="283"/>
         <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to import node &apos;%3&apos; to segmentation &apos;%4&apos;.
 
 Would you like to change the source representation of &apos;%4&apos; to &apos;%1&apos;?
@@ -27603,17 +27751,17 @@ Vill du ändra källrepresentationen för &apos;%4&apos; till &apos;%1&apos;?
 Obs: Detta kan leda till oönskad dataförlust i %4.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="289"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="291"/>
         <source>Failed to import data to segmentation</source>
         <translation>Misslyckades med att importera data till segmenteringen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="297"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Misslyckades med att konvertera %1 till %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
         <source>Conversion failed</source>
         <translation type="unfinished">Conversion failed</translation>
     </message>
@@ -27629,24 +27777,24 @@ Obs: Detta kan leda till oönskad dataförlust i %4.</translation>
         <translation> (Representationer: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="381"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="380"/>
         <source>None)</source>
         <translation>Ingen)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="396"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="394"/>
         <source> (Source representation: %1)</source>
         <oldsource> (Master representation: %1)</oldsource>
         <translation> (Källans representation: %1)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="399"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
         <source> (Number of segments: %1)</source>
         <extracomment>parameter is the representation name</extracomment>
         <translation> (Antal segment: %1)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1001"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1058"/>
         <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
@@ -27655,17 +27803,17 @@ Please visit the Segmentation module and try the advanced create representation 
 Besök modulen Segmentering och prova den avancerade funktionen för att skapa representation.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1005"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1062"/>
         <source>Failed to export segmentation to labelmap node</source>
         <translation>Misslyckades med att exportera segmentering till labelmap-nod</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1025"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1080"/>
         <source>-label</source>
         <translation>-etikett</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1041"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
         <source>Failed to export segments from segmentation %1 to labelmap node!
 
 Most probably the segment cannot be converted into binary labelmap representation</source>
@@ -27674,13 +27822,13 @@ Most probably the segment cannot be converted into binary labelmap representatio
 Troligtvis kan segmentet inte konverteras till binär etikettmapprepresentation</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1045"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1100"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1152"/>
         <source>Failed to export segments</source>
         <translation>Misslyckades med att exportera segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1066"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1120"/>
         <source>Failed to create closed surface representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
@@ -27689,18 +27837,18 @@ Please visit the Segmentation module and try the advanced create representation 
 Besök segmenteringsmodulen och prova den avancerade funktionen för att skapa representation.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1070"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1340"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1124"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1386"/>
         <source>Failed to export segmentation to models</source>
         <translation>Misslyckades med att exportera segmentering till modeller</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1075"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1130"/>
         <source>-models</source>
         <translation>-modeller</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1148"/>
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
@@ -27709,7 +27857,7 @@ Most probably the segment cannot be converted into closed surface representation
 Troligen kan segmentet inte konverteras till en sluten ytrepresentation.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1335"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1381"/>
         <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
@@ -27721,51 +27869,51 @@ Besök modulen Segmentering och prova den avancerade funktionen för att skapa r
 <context>
     <name>qSlicerSubjectHierarchySegmentsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="99"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="102"/>
         <source>Show only this segment</source>
         <translation>Visa endast detta segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="103"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="106"/>
         <source>Show all segments</source>
         <translation>Visa alla segment</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="107"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="110"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hoppa över skivor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="114"/>
         <source>Clone</source>
         <translation>Klona</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="116"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="126"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="121"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="131"/>
         <source>Opacity</source>
         <translation type="unfinished">Opacity</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="127"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="132"/>
         <source>Set segment opacity in the sub-menu</source>
         <translation>Ställ in segmentets opacitet i undermenyn</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="230"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="239"/>
         <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
 Please check the error window for details.</source>
         <translation>Segment-ID för det flyttade segmentet (%1) kan finnas i målsegmenteringen.
 Kontrollera felmeddelandet för mer information.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="232"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="245"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="242"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="257"/>
         <source>Failed to move segment between segmentations</source>
         <translation>Misslyckades med att flytta segment mellan segmenteringar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="237"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="247"/>
         <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
@@ -27783,30 +27931,30 @@ Skulle du vilja ändra källrepresentationen för &apos;%5&apos; till &apos;%1&a
 Obs: Detta kan leda till oönskad dataförlust i %5.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="254"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="264"/>
         <source>Failed to convert %1 to %2</source>
         <translation>Misslyckades med att konvertera %1 till %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="256"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="265"/>
         <source>Conversion failed</source>
         <translation type="unfinished">Conversion failed</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="323"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="329"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="335"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="331"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="337"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="343"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ogiltig</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="369"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="393"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="376"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="399"/>
         <source>None</source>
         <translation type="unfinished">None</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="406"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="412"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
         <translation>Segment - ID: %1, Representationer: %2, Färg: (%3, %4, %5)
@@ -27883,32 +28031,32 @@ Taggar: %6</translation>
         <translation>  Födelsedatum:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="75"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="77"/>
         <source>Enable/disable automatic subject hierarchy children deletion</source>
         <translation>Aktivera/avaktivera automatisk radering av barn i ämneshierarkin</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="79"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="84"/>
         <source>Include patient ID in the name of the patient item</source>
         <translation>Inkludera patient-ID i namnet på patientartikeln</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="82"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="90"/>
         <source>Include patient birth date in the name of the patient item</source>
         <translation>Inkludera patientens födelsedatum i namnet på patientartikeln</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="85"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="96"/>
         <source>Include study ID in the name of the study item</source>
         <translation>Inkludera studie-ID i namnet på studieobjektet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="88"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="102"/>
         <source>Include study date in the name of the study item</source>
         <translation>Inkludera studiedatum i namnet på studieobjektet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="91"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="108"/>
         <source>Use standard terminology for color selection</source>
         <translation>Använd standardterminologi för färgval</translation>
     </message>
@@ -27916,53 +28064,53 @@ Taggar: %6</translation>
 <context>
     <name>qSlicerSubjectHierarchyTransformsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="168"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="170"/>
         <source>Invert transform</source>
         <translation>Invertera transformationen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="173"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="175"/>
         <source>Reset transform to identity</source>
         <translation>Återställ transformera till identitet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="178"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="180"/>
         <source>Transform origin</source>
         <translation>Transformera start</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="182"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="184"/>
         <source>Transformed nodes</source>
         <translation>Transformerade noder</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="192"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="193"/>
         <source>Reset center of transformation</source>
         <translation>Återställ centrum för omvandling</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="199"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="200"/>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="237"/>
         <source>Interaction</source>
         <translation type="unfinished">Interaction</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="206"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="207"/>
         <source>Translate</source>
         <translation type="unfinished">Translate</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="212"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="213"/>
         <source>Rotate</source>
         <translation>Rotera</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="218"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="219"/>
         <source>Scale</source>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="230"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="231"/>
         <source>Interaction options</source>
         <translation>Alternativ för interaktion</translation>
     </message>
@@ -27972,52 +28120,52 @@ Taggar: %6</translation>
         <translation>Gör det möjligt att ändra transformationen interaktivt i 2D- och 3D-vyerna</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="246"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="243"/>
         <source>Edit transform properties...</source>
         <translation>Redigera transformatoregenskaper...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="249"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="245"/>
         <source>Edit properties of the current transform</source>
         <translation>Redigera egenskaper för den aktuella transformationen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="253"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="248"/>
         <source>Harden transform</source>
         <translation type="unfinished">Harden transform</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="256"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="250"/>
         <source>Harden current transform on this node and all children nodes</source>
         <translation>Härda aktuell transform på denna nod och alla underliggande noder</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="260"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="253"/>
         <source>Create new transform</source>
         <translation>Skapa ny omvandling</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="263"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="255"/>
         <source>Create and apply new transform</source>
         <translation>Skapa och tillämpa ny transform</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="267"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="258"/>
         <source>None</source>
         <translation type="unfinished">None</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="273"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="263"/>
         <source>Remove parent transform from all the nodes in this branch</source>
         <translation>Ta bort parent transform från alla noder i den här grenen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="622"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="605"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation type="unfinished">Some nodes in the branch are already transformed</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="623"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="606"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
@@ -28026,12 +28174,12 @@ Taggar: %6</translation>
   Obs: Om du väljer nej kommer den tillämpade transformationen helt enkelt att ersättas.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="721"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="702"/>
         <source>Transform to parent:</source>
         <translation>Transformera till förälder:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="723"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="702"/>
         <source>Transform from parent:</source>
         <translation type="unfinished">Transform from parent:</translation>
     </message>
@@ -28039,12 +28187,12 @@ Taggar: %6</translation>
 <context>
     <name>qSlicerSubjectHierarchyViewContextMenuPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="117"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="119"/>
         <source>View transform</source>
         <translation>Visa transformator</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="123"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="124"/>
         <source>Adjust window/level</source>
         <translation>Justera fönster/nivå</translation>
     </message>
@@ -28054,133 +28202,133 @@ Taggar: %6</translation>
         <translation>Plats</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="151"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="150"/>
         <source>Center view</source>
         <translation>Centrerad vy</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="153"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="152"/>
         <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
         <translation>Centrera skivan på det för närvarande synliga 3D-vyinnehållet och alla laddade volymer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="157"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fokusera om kameran på denna punkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
         <source>Set the camera focus to rotate around this point.</source>
         <translation>Ställ in kamerans fokus så att den roterar runt denna punkt.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="163"/>
         <source>Reset field of view</source>
         <translation>Återställ synfältet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="168"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="165"/>
         <source>Center the slice view on the currently displayed volume.</source>
         <translation>Centrera snittvyn på den volym som visas för tillfället.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="173"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="169"/>
         <source>Refocus cameras on this point</source>
         <translation>Fokusera om kamerorna på denna punkt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="171"/>
         <source>Set the focus of all cameras to rotate around this point.</source>
         <translation>Ställ in alla kamerors fokus så att de roterar runt denna punkt.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="183"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
         <source>Show this view maximized in the view layout</source>
         <translation>Visa den här vyn maximerad i vyn layout</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="188"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="181"/>
         <source>Tilt lock</source>
         <translation>Tiltlås</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="183"/>
         <source>Prevent rotation around the horizontal axis when rotating this view.</source>
         <translation>Förhindra rotation runt den horisontella axeln när du roterar den här vyn.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="192"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="185"/>
         <source>Ctrl+b</source>
         <translation>Ctrl+b</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="198"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
         <source>Configure slice view annotations...</source>
         <translation>Konfigurera anteckningar för skivvisning...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="200"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="192"/>
         <source>Configures display of corner annotations and color legend.</source>
         <translation>Konfigurerar visning av hörnanteckningar och färgförklaring.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="206"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="197"/>
         <source>Copy image</source>
         <translation>Kopiera bild</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="208"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="199"/>
         <source>Copy a screenshot of this view to the clipboard</source>
         <translation>Kopiera en skärmdump av denna vy till klippbordet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="216"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="207"/>
         <source>Slice intersections</source>
         <translation>Skiva korsningar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="218"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="209"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
         <translation>Visa hur de andra snittytorna skär varje snittyta.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="226"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="216"/>
         <source>Interaction</source>
         <translation type="unfinished">Interaction</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="228"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="218"/>
         <source>Show handles for slice interaction.</source>
         <translation>Visa handtag för interaktion med skivan.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="238"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="227"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rekonstruktion av tjock platta</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="240"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="229"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
         <translation>Aktivera TSR (Thick Slab Reconstruction). TSR används för att sammanfoga sammanhängande skivor inom ett visst intervall.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="249"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="236"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interaktiv</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="251"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="239"/>
         <source>Show handles for interactively adjusting slab reconstruction thickness.</source>
         <translation>Visa handtag för att interaktivt justera tjockleken på rekonstruktionen av plattan.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="366"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="340"/>
         <source>Restore view layout</source>
         <translation type="unfinished">Restore view layout</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="181"/>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="370"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="344"/>
         <source>Maximize view</source>
         <translation>Maximera vyn</translation>
     </message>
@@ -28188,17 +28336,17 @@ Taggar: %6</translation>
 <context>
     <name>qSlicerSubjectHierarchyVisibilityPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="80"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="83"/>
         <source>Show in all views</source>
         <translation>Visa i alla vyer</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="83"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="86"/>
         <source>2D visibility</source>
         <translation>2D-synlighet</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="88"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="91"/>
         <source>3D visibility</source>
         <translation>3D-synlighet</translation>
     </message>
@@ -28206,17 +28354,17 @@ Taggar: %6</translation>
 <context>
     <name>qSlicerSubjectHierarchyVolumeRenderingPlugin</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="92"/>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="95"/>
         <source>Show in 3D views as volume rendering</source>
         <translation>Visas i 3D-vyer som volymrendering</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="97"/>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="100"/>
         <source>Volume rendering options...</source>
         <translation>Alternativ för volymåtergivning...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="101"/>
         <source>Switch to Volume Rendering module to manage display options</source>
         <translation>Byt till modulen Volume Rendering för att hantera visningsalternativ</translation>
     </message>
@@ -28224,47 +28372,47 @@ Taggar: %6</translation>
 <context>
     <name>qSlicerSubjectHierarchyVolumesPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="135"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="137"/>
         <source>Show volumes in folder</source>
         <translation>Visa volymer i mappen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="138"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="140"/>
         <source>Show in slice views as foreground</source>
         <translation>Visa i snittvyer som förgrund</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="141"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="143"/>
         <source>Reset field of view on show</source>
         <translation>Återställ synfältet vid visning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="146"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="148"/>
         <source>Reset view orientation on show</source>
         <translation>Återställ visningsorientering på show</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="153"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="155"/>
         <source>Show color legend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visa färgförklaring</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="162"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="164"/>
         <source>Window/level presets</source>
         <translation>Förinställningar för fönster/nivå</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="186"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="188"/>
         <source>Default preset for the selected volume</source>
         <translation>Standardinställning för vald volym</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="194"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="196"/>
         <source>Automatic</source>
         <translation>Automatiskt</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="196"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="198"/>
         <source>Display the full intensity range of the volume.</source>
         <translation>Visar hela intensitetsområdet för volymen.</translation>
     </message>
@@ -28274,27 +28422,27 @@ Taggar: %6</translation>
         <translation>Standard (WW=%1, WL=%2)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="466"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="464"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ogiltig</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="472"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="470"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="487"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="485"/>
         <source>Dimensions:</source>
         <translation>Dimensioner:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="488"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="489"/>
         <source>Spacing:</source>
         <translation type="unfinished">Spacing:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="492"/>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="496"/>
         <source> Empty volume</source>
         <translation> Tom volym</translation>
     </message>
@@ -28315,7 +28463,7 @@ Taggar: %6</translation>
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModule</name>
     <message>
-        <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="42"/>
+        <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
         <translation>qSlicerSuperLoadableModuleTemplateModule</translation>
     </message>
@@ -28520,17 +28668,17 @@ Taggar: %6</translation>
 <context>
     <name>qSlicerTablesModule</name>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="46"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="44"/>
         <source>Tables</source>
         <translation>Tabeller</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="75"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="74"/>
         <source>The Tables module allows displaying and editing of spreadsheets.</source>
         <translation>Med modulen Tables kan du visa och redigera kalkylblad.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="83"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="82"/>
         <source>This work was was partially funded by OCAIRO, the Applied Cancer Research Unit program of Cancer Care Ontario, and Department of Anesthesia and Critical Care Medicine, Children&apos;s Hospital of Philadelphia.</source>
         <translation>Detta arbete finansierades delvis av OCAIRO, Applied Cancer Research Unit-programmet inom Cancer Care Ontario, och Department of Anesthesia and Critical Care Medicine, Children&apos;s Hospital of Philadelphia.</translation>
     </message>
@@ -28554,7 +28702,7 @@ Taggar: %6</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="119"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="121"/>
         <source>Copy</source>
         <translation type="unfinished">Copy</translation>
     </message>
@@ -28572,7 +28720,7 @@ Taggar: %6</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="127"/>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="126"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="128"/>
         <source>Paste</source>
         <translation type="unfinished">Paste</translation>
     </message>
@@ -28622,40 +28770,40 @@ Taggar: %6</translation>
         <translation>Nya standardvärden för kolumner</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="134"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="135"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation>Generera en interaktiv graf baserad på användarens val av kolumner i tabellen.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="207"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="208"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation>Klicka för att låsa upp denna tabell så att värdena kan ändras</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="213"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klicka för att låsa tabellen och förhindra att värdena ändras i användargränssnittet</translation>
     </message>
 </context>
 <context>
     <name>qSlicerTablesReader</name>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="147"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="144"/>
         <source>Table reading failed: no file extension specified: %1</source>
         <translation>Läsning av tabell misslyckades: ingen filändelse angiven: %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="162"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="158"/>
         <source>QInputDialog::getText()</source>
         <translation>QInputDialog::getText()</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="163"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="158"/>
         <source>Database Password:</source>
         <translation>Lösenord för databas:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="188"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
         <translation>Misslyckades med att läsa tabell från &apos;%1&apos;</translation>
     </message>
@@ -28676,8 +28824,8 @@ Taggar: %6</translation>
 <context>
     <name>qSlicerTemplateKeyModule</name>
     <message>
-        <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="42"/>
-        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="42"/>
+        <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="39"/>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="40"/>
         <source>TemplateKey</source>
         <translation>Mallnyckel</translation>
     </message>
@@ -28687,7 +28835,7 @@ Taggar: %6</translation>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mallnyckel</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
@@ -28699,19 +28847,19 @@ Taggar: %6</translation>
     <name>qSlicerTerminologiesModule</name>
     <message>
         <location filename="Modules/Loadable/Terminologies/Resources/UI/qSlicerTerminologiesModule.ui" line="14"/>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.h" line="46"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.h" line="44"/>
         <source>Terminologies</source>
         <translation>Terminologier</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="68"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="67"/>
         <source>The Terminologies module enables viewing and editing terminology dictionaries used for segmentation.</source>
         <translation>Terminologimodulen gör det möjligt att visa och redigera terminologiska ordlistor som används för segmentering.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="76"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="75"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detta arbete är en del av SparKit-projektet, som finansieras av Cancer Care Ontario (CCO):s ACRU-program och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
 </context>
 <context>
@@ -28753,7 +28901,7 @@ Taggar: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kategori:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
@@ -28800,14 +28948,14 @@ Taggar: %6</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="274"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="884"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="861"/>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation>Ingen typ modifierare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1351"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1321"/>
         <source>No region modifier</source>
         <oldsource>Select anatomic region modifier...</oldsource>
         <translation>Ingen regionmodifierare</translation>
@@ -28839,30 +28987,30 @@ Taggar: %6</translation>
         <translation>Färg:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="249"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="253"/>
         <source>None</source>
         <translation type="unfinished">None</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1902"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1874"/>
         <source>%1, %2</source>
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)</extracomment>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1919"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1889"/>
         <source>%1 in %2, %3</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
         <translation>%1 i %2, %3</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1927"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1894"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 i %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1212"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1186"/>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
@@ -28871,7 +29019,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
 Vill du uppdatera den lagrade kontextfilen med den som just har laddats?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1215"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1190"/>
         <source>Context file exists</source>
         <translation>Kontextfilen finns</translation>
     </message>
@@ -28884,12 +29032,12 @@ Vill du uppdatera den lagrade kontextfilen med den som just har laddats?</transl
         <translation type="unfinished">Texts</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="89"/>
+        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="88"/>
         <source>A module to create, edit and manage text data in the scene.</source>
         <translation>En modul för att skapa, redigera och hantera textdata i scenen.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="97"/>
+        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="96"/>
         <source>This work was supported through CANARIE&apos;s Research Software Program, and Cancer Care Ontario. The Texts module was contributed by Kyle Sunderland and Andras Lasso (Perk Lab, Queen&apos;s University)</source>
         <translation>Detta arbete har fått stöd genom CANARIEs Research Software Program och Cancer Care Ontario. Textmodulen har tagits fram av Kyle Sunderland och Andras Lasso (Perk Lab, Queen&apos;s University)</translation>
     </message>
@@ -28935,19 +29083,19 @@ Vill du uppdatera den lagrade kontextfilen med den som just har laddats?</transl
 <context>
     <name>qSlicerTransformsModule</name>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="55"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="54"/>
         <source>Transforms</source>
         <translation type="unfinished">Transforms</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="98"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="97"/>
         <source>The Transforms Module creates and edits transforms.</source>
         <translation>Modulen Transforms skapar och redigerar transformationer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="106"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="105"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detta arbete har fått stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community.</translation>
     </message>
 </context>
 <context>
@@ -29125,22 +29273,22 @@ Vill du uppdatera den lagrade kontextfilen med den som just har laddats?</transl
         <translation type="unfinished">Apply</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="132"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="131"/>
         <source>Copy</source>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="138"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="137"/>
         <source>Paste</source>
         <translation>Klistra in</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="780"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="736"/>
         <source>Conversion failed</source>
         <translation type="unfinished">Conversion failed</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="780"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="736"/>
         <source>Failed to convert transform. See application log for details.</source>
         <translation>Misslyckades med att konvertera transform. Se programloggen för detaljer.</translation>
     </message>
@@ -29148,7 +29296,7 @@ Vill du uppdatera den lagrade kontextfilen med den som just har laddats?</transl
 <context>
     <name>qSlicerUnitsModule</name>
     <message>
-        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="47"/>
+        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="45"/>
         <source>Units</source>
         <translation>Enheter</translation>
     </message>
@@ -29189,9 +29337,9 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>qSlicerViewControllersModule</name>
     <message>
-        <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="50"/>
+        <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="48"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visa styrenheter</translation>
     </message>
 </context>
 <context>
@@ -29255,203 +29403,203 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation>Skivans vyplan flyttas för att matcha hårkorsets position (även om hårkorset inte visas).</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="72"/>
         <source>Jump slices - centered</source>
         <translation>Hoppa skivor - centrerad</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="74"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
         <translation>Skivvyerna är centrerade på hårkorsets position (även om hårkorset inte visas).</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="92"/>
         <source>No crosshair</source>
         <translation>Inget hårkors</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="93"/>
         <source>No crosshair displayed.</source>
         <translation>Inget hårkors visas.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="97"/>
         <source>Basic crosshair</source>
         <translation>Grundläggande hårkors</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="98"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
         <translation>Enkelt hårkors som sträcker sig över hela synfältet med ett litet mellanrum vid hårkorsets position.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="102"/>
         <source>Basic + intersection</source>
         <translation>Grundläggande + korsning</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="103"/>
         <source>Basic crosshair extending across the field of view.</source>
         <translation>Enkelt hårkors som sträcker sig över hela synfältet.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="107"/>
         <source>Small basic crosshair</source>
         <translation>Litet grundläggande hårkors</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="111"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="108"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
         <translation>Litet hårkors med en liten lucka vid hårkorsets position.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="112"/>
         <source>Small basic + intersection</source>
         <translation>Liten grundläggande + korsning</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="113"/>
         <source>Small crosshair.</source>
         <translation>Litet hårkors.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="136"/>
         <source>Fine crosshair</source>
         <translation>Fint hårkors</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="137"/>
         <source>Fine crosshair.</source>
         <translation>Fint hårkors.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="141"/>
         <source>Medium crosshair</source>
         <translation>Medium hårkors</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="142"/>
         <source>Medium crosshair.</source>
         <translation>Medelstort hårkors.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Thick crosshair</source>
         <translation>Tjockt hårkors</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Thick crosshair.</source>
         <translation>Tjockt hårkors.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="176"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="186"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="187"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="161"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="171"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="172"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="181"/>
         <source>Crosshair</source>
         <translation>Hårkors</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="180"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
         <translation>Växla synlighet för hårkorset. Håll ned Shift-tangenten och flytta musen i en vy för att ställa in hårkorsets position.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="213"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="193"/>
         <source>Full lines</source>
         <translation>Fullständiga rader</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="215"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="194"/>
         <source>Full slice intersection lines extending across the field of view.</source>
         <translation>Skärningslinjer i hela skivan som sträcker sig över hela synfältet.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="220"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="199"/>
         <source>Skip line crossings</source>
         <translation>Hoppa över linjekorsningar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="222"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="201"/>
         <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
         <translation>Skiva skärningslinjer som sträcker sig över synfältet med ett mellanrum vid skärningen.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="243"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="218"/>
         <source>Fine lines</source>
         <translation>Fina linjer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="219"/>
         <source>Fine lines.</source>
         <translation>Fina linjer.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="224"/>
         <source>Medium lines</source>
         <translation>Medium linjer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="225"/>
         <source>Medium lines.</source>
         <translation>Medelhöga linjer.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="254"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="229"/>
         <source>Thick lines</source>
         <translation>Tjocka linjer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="255"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="230"/>
         <source>Thick lines.</source>
         <translation>Tjocka linjer.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="275"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="245"/>
         <source>Interaction</source>
         <translation>Interaktioner</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="276"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="246"/>
         <source>Show handles for slice interaction.</source>
         <translation type="unfinished">Show handles for slice interaction.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="252"/>
         <source>Translate</source>
         <translation>Översätt</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="253"/>
         <source>Control visibility of translation handles for slice intersection.</source>
         <translation>Kontrollera synligheten för översättningshandtag för skärning av skivor.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="258"/>
         <source>Rotate</source>
         <translation type="unfinished">Rotate</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="259"/>
         <source>Control visibility of rotation handles for slice intersection.</source>
         <translation>Kontrollera synligheten för rotationshandtag för skärning av snitt.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="299"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="264"/>
         <source>Interaction options</source>
         <translation type="unfinished">Interaction options</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="304"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="319"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="327"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="269"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
         <source>Slice intersections</source>
         <translation type="unfinished">Slice intersections</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
         <translation>Växla skärningspunktens synlighet. Håll ned Skift-tangenten och flytta musen i en vy för att ange skärningspunktens position.</translation>
     </message>
@@ -29464,27 +29612,27 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation>Rendering av volym</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="81"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="80"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
         <translation>Volume Rendering Module innehåller avancerade verktyg för att växla mellan interaktiv volymrendering av dataset.&lt;br/&gt;Om det stöds görs maskinvaruaccelererad volymrendering tillgänglig. Modulen gör det möjligt att välja förinställda överföringsfunktioner för att färglägga och ställa in opacitet för data på ett uppgiftsanpassat sätt, och verktyg för att anpassa överföringsfunktionerna som anger dessa parametrar.&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="102"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="100"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
         <translation>Detta arbete stöds av NA-MIC, NAC, BIRN, NCIGT och Slicer Community. Några av överföringsfunktionerna har tillhandahållits av Kitware Inc. (VolView)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="143"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="139"/>
         <source>Volume rendering</source>
         <translation>Rendering av volym</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="150"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="146"/>
         <source>Transfer Function</source>
         <translation>Överföringsfunktion</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="155"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="150"/>
         <source>Shader Property</source>
         <translation>Shader-egenskap</translation>
     </message>
@@ -29557,94 +29705,120 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation>Klippning</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="323"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="340"/>
         <source>Clipping:</source>
         <translation type="unfinished">Clipping:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="347"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clip node:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="374"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
         <source>Soft edge:</source>
+        <translation type="unfinished">Mjuk kant:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="320"/>
+        <source>Auto</source>
+        <translation type="unfinished">Auto</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="357"/>
+        <source>Blank value:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="409"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="471"/>
         <source>Advanced...</source>
         <translation>Avancerat...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="437"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="499"/>
         <source>Techniques</source>
         <translation>Tekniker</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="443"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="505"/>
         <source>GPU memory size:</source>
         <translation>GPU-minnesstorlek:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="450"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="512"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
         <translation>Mängd minne som tilldelats för volymrendering på grafikkortet. &quot;Standard&quot; kan ändras i inställningarna.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="460"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="522"/>
         <source>Quality:</source>
         <translation>Kvalitet:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="474"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="536"/>
         <source>Interactive speed:</source>
         <translation>Interaktiv hastighet:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="493"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="555"/>
         <source> fps</source>
         <translation type="unfinished"> fps</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="500"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="562"/>
         <source>Advanced rendering properties</source>
         <translation>Avancerade renderingsegenskaper</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="531"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="593"/>
         <source>Auto-release resources:</source>
         <translation type="unfinished">Auto-release resources:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="538"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="600"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
         <translation>Avlägsna omedelbart volymer från grafikminnet när de inte är synliga. Minskar minnesanvändningen men gör det långsammare att växla volymens synlighet.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="549"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="611"/>
         <source>Volume properties</source>
         <translation>Volymegenskaper</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="578"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="640"/>
         <source>Synchronize with Volumes module</source>
         <translation>Synkronisera med Volumes-modulen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="591"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="653"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
         <translation>Använd inte tröskelvärden. Ställ in opacitetsrampen från Window/Level-intervallet istället.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="594"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="656"/>
         <source>Ignore threshold</source>
         <translation>Ignorera tröskelvärde</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="621"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="683"/>
         <source>ROI</source>
         <translation type="unfinished">ROI</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="509"/>
+        <source>Clipping disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="513"/>
+        <source>Using fast clipping method.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="518"/>
+        <source>Using slow clipping method.
+%1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -29680,8 +29854,13 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <name>qSlicerVolumeRenderingReader</name>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="83"/>
-        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="97"/>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
         <source>Transfer Function</source>
+        <translation type="unfinished">Överföringsfunktion</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
+        <source>Volume Property</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -29829,9 +30008,9 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation>Volumes Module är gränssnittet för justering av Window, Level, Threshold, Color LUT och andra parametrar som styr visningen av volymbilddata i scenen.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="92"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="91"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detta arbete har fått stöd av NA-MIC, NAC, BIRN, NCIGT och Slicer Community.</translation>
     </message>
 </context>
 <context>
@@ -29872,12 +30051,12 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation type="unfinished">Color Legend</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="130"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="124"/>
         <source>Convert to label map:</source>
         <translation>Konvertera till etikettkarta:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="136"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="130"/>
         <source>Convert to scalar volume:</source>
         <translation>Konvertera till skalär volym:</translation>
     </message>
@@ -29888,29 +30067,29 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="94"/>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volym</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Dicom</source>
         <translation>Dicom</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="110"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="111"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alla filer</translation>
     </message>
 </context>
 <context>
     <name>qSlicerWebDownloadWidget</name>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="179"/>
         <source>Web download</source>
         <translation>Webbnedladdning</translation>
     </message>
@@ -29941,7 +30120,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="138"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="139"/>
         <source>Cancel</source>
         <translation type="unfinished">Cancel</translation>
     </message>
@@ -29951,13 +30130,13 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation>Spara fil</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="124"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="126"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="125"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="127"/>
         <source>Downloading %1</source>
         <translation>Nedladdning av %1</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="179"/>
         <source>Download complete</source>
         <translation>Ladda ner komplett</translation>
     </message>
@@ -29988,17 +30167,17 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>qSlicerWebWidget</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="387"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="376"/>
         <source>bytes/sec</source>
         <translation>byte/sek</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="391"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="381"/>
         <source>kB/s</source>
         <translation>kB/s</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="396"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="386"/>
         <source>MB/s</source>
         <translation>MB/s</translation>
     </message>
@@ -30011,7 +30190,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation>Detta arbete har fått stöd från NA-MIC, NAC, BIRN, NCIGT, CTSC och Slicer Community. Se https://www.slice &lt;a href=&quot;https://www.slicer.org&quot;&gt;r.org&lt;/a&gt; för detaljer. Vi vill också uttrycka vårt uppriktiga tack till medlemmarna i Slicer User Community som har hjälpt oss att utforma innehållet i denna välkomstmodul och vars feedback fortsätter att förbättra funktionaliteten, användbarheten och användarupplevelsen av Slicer.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="47"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="45"/>
         <source>Welcome to Slicer</source>
         <translation>Välkommen till Slicer</translation>
     </message>
@@ -30230,27 +30409,27 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 &lt;p&gt;Denna modul utvecklades av Jean-Christophe Fillion-Robin och Julien Finet på Kitware, Inc. samt av Wendy Plesniak, Sonia Pujol, Steve Pieper och Ron Kikinis på Brigham and Women&apos;s Hospital.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="106"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
         <source>Checking for updates...</source>
         <translation>Letar efter uppdateringar...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="109"/>
         <source>No updates were found.</source>
         <translation>Inga uppdateringar hittades.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="179"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Raising %1 Module:</source>
         <translation>Upphävande av %1 Modul:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="182"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
         <translation>Tyvärr är denna efterfrågade modul inte tillgänglig i denna Slicer-session.</translation>
     </message>
     <message numerus="yes">
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="387"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="372"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation>
@@ -30259,120 +30438,385 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="373"/>
         <source>Use Extensions Manager to update these extensions:</source>
         <translation>Använd Extensions Manager för att uppdatera dessa tillägg:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="423"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="406"/>
         <source>New application version is available: %1</source>
         <translation>Ny programversion finns tillgänglig: %1</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLBSplineTransformNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLBSplineTransformNode.cxx" line="28"/>
+        <source>B-Spline Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLCPURayCastVolumeRenderingDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLCPURayCastVolumeRenderingDisplayNode.cxx" line="36"/>
+        <source>CPU Ray-Cast Volume Rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLCameraNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLCameraNode.cxx" line="43"/>
+        <source>Camera</source>
+        <translation type="unfinished">Kamera</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLClipModelsNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLClipModelsNode.cxx" line="30"/>
+        <source>Clip Models</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLClipNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="52"/>
+        <source>Clip</source>
+        <translation type="unfinished">Klipp</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="728"/>
+        <source>%name (%id) cannot be represented using only planes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLColorLegendDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/Colors/MRML/vtkMRMLColorLegendDisplayNode.cxx" line="44"/>
+        <source>Color Legend Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLColorNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorNode.cxx" line="35"/>
+        <source>Color</source>
+        <translation type="unfinished">Färg</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLColorTableNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableNode.cxx" line="36"/>
+        <source>Color Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLColorTableStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="74"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="76"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="87"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="89"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="47"/>
+        <source>Color Table Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="75"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="77"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="88"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="90"/>
         <source>CSV Color Table</source>
         <extracomment>File format name</extracomment>
         <translation>CSV färgtabell</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="78"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="80"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="91"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="93"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="79"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="81"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="92"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="94"/>
         <source>MRML Color Table</source>
         <extracomment>File format name</extracomment>
         <translation>MRML färgtabell</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="268"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="230"/>
+        <source>Column &apos;%1&apos; was not found in color table file: &apos;%2&apos;. Color component is set to 0.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="263"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
         <translation>labelValue är inte specificerad i färgfilen på rad %1. Hoppa över den här raden.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="277"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="272"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2. Skipping this line.</source>
         <translation>labelValue &apos;%1&apos; är ogiltig i färgfilen på rad %2. Hoppa över den här raden.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="286"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="283"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must be positive (&gt;0). Skipping this line.</source>
         <translation>labelValue &apos;%1&apos; är ogiltigt i färgfilen på rad %2: värdet måste vara positivt (&gt;0). Hoppa över denna rad.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="300"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="299"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must not go above be %3.</source>
         <translation>labelValue &apos;%1&apos; är ogiltigt i färgfilen på rad %2: värdet får inte överstiga be %3.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="350"/>
-        <source>Failed to parse color values (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) in line %5</source>
-        <translation>Misslyckades med att analysera färgvärden (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) i rad %5</translation>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="359"/>
+        <source>Failed to read color from column %1 in line %2, value: &apos;%3&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="360"/>
-        <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, breaking the loop over &apos;%3&apos; lines in the file %4.</source>
-        <translation>Det gick inte att ställa in färg &apos;%1&apos; med namn &apos;%2&apos;, vilket bryter loopen över &apos;%3&apos; rader i filen %4.</translation>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="379"/>
+        <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, stopped processing after &apos;%3&apos; lines in the file %4.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>vtkMRMLCommandLineModuleNode</name>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="682"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="95"/>
+        <source>Command Line Module</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="647"/>
         <source>Idle</source>
         <translation>Sysslolös</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="683"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="648"/>
         <source>Scheduled</source>
         <translation>Schemalagd</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="684"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="649"/>
         <source>Running</source>
         <translation>Kör</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="685"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="650"/>
         <source>Cancelling</source>
         <translation>Avbryter</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="686"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="651"/>
         <source>Cancelled</source>
         <translation>Avbruten</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="687"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="652"/>
         <source>Completing</source>
         <translation>Komplettering</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="688"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="653"/>
         <source>Completed</source>
         <translation>Slutförd</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="689"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="654"/>
         <source>Completed with errors</source>
         <translation>Avslutad med fel</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="693"/>
+        <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="657"/>
         <source>Unknown</source>
+        <translation type="unfinished">Okänd</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLCropVolumeParametersNode</name>
+    <message>
+        <location filename="Modules/Loadable/CropVolume/MRML/vtkMRMLCropVolumeParametersNode.cxx" line="40"/>
+        <source>Crop Volume Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLCrosshairNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLCrosshairNode.cxx" line="31"/>
+        <source>Crosshair</source>
+        <translation type="unfinished">Hårkors</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionImageVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionImageVolumeNode.cxx" line="31"/>
+        <source>Diffusion Image Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionTensorDisplayPropertiesNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorDisplayPropertiesNode.cxx" line="34"/>
+        <source>Diffusion Tensor Display Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionTensorVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeDisplayNode.cxx" line="48"/>
+        <source>Diffusion Tensor Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionTensorVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeNode.cxx" line="31"/>
+        <source>Diffusion Tensor Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionTensorVolumeSliceDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeSliceDisplayNode.cxx" line="37"/>
+        <source>Diffusion Tensor Volume Slice Display Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionWeightedVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionWeightedVolumeDisplayNode.cxx" line="36"/>
+        <source>Diffusion Weighted Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDiffusionWeightedVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDiffusionWeightedVolumeNode.cxx" line="36"/>
+        <source>Diffusion Weighted Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLDisplayableHierarchyNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLDisplayableHierarchyNode.cxx" line="35"/>
+        <source>Displayable Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLFolderDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLFolderDisplayNode.cxx" line="35"/>
+        <source>Folder Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLGPURayCastVolumeRenderingDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLGPURayCastVolumeRenderingDisplayNode.cxx" line="36"/>
+        <source>GPU Ray-Cast Volume Rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLGlyphableVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeDisplayNode.cxx" line="37"/>
+        <source>Glyphable Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLGlyphableVolumeSliceDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeSliceDisplayNode.cxx" line="32"/>
+        <source>Glyphable Volume Slice Display Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLGridTransformNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLGridTransformNode.cxx" line="33"/>
+        <source>Grid Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLHierarchyNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLHierarchyNode.cxx" line="58"/>
+        <source>Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLHierarchyStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLHierarchyStorageNode.cxx" line="28"/>
+        <source>Hierarchy Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLInteractionNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLInteractionNode.cxx" line="16"/>
+        <source>Interaction</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLLabelMapVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeDisplayNode.cxx" line="36"/>
+        <source>Label Map Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLLabelMapVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeNode.cxx" line="39"/>
+        <source>Label Map Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLLayoutNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLayoutNode.cxx" line="19"/>
+        <source>Layout</source>
+        <translation type="unfinished">Layout</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLLinearTransformNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformNode.cxx" line="32"/>
+        <source>Linear Transform</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>vtkMRMLLinearTransformSequenceStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="603"/>
-        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="614"/>
+        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="49"/>
+        <source>Linear Transform Sequence Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="608"/>
+        <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="619"/>
         <source>Linear transform sequence</source>
         <extracomment>File format name</extracomment>
         <translation>Linjär transformationssekvens</translation>
@@ -30407,25 +30851,41 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>vtkMRMLMarkupsCurveNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="78"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="77"/>
         <source>Curve</source>
         <translation>Kurva</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="81"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="80"/>
         <source>OC</source>
         <translation>OC</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLMarkupsDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsDisplayNode.cxx" line="48"/>
+        <source>Markups Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsFiducialDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialDisplayNode.cxx" line="34"/>
+        <source>Markups Fiducial Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLMarkupsFiducialNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="41"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="40"/>
         <source>Point List</source>
         <translation>Punktlista</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="43"/>
         <source>F</source>
         <translation>F</translation>
     </message>
@@ -30433,14 +30893,19 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>vtkMRMLMarkupsFiducialStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="788"/>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="797"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="247"/>
+        <source>Markups Fiducial Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="789"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="798"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
         <translation>Markeringar Fiducial CSV</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="790"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="791"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
         <translation>Anteckning Fiducial CSV</translation>
@@ -30449,10 +30914,15 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>vtkMRMLMarkupsJsonStorageNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="346"/>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="348"/>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="355"/>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="357"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="59"/>
+        <source>Markups JSON Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="332"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="334"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="341"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="343"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
         <translation>Utmärkningar JSON</translation>
@@ -30461,12 +30931,12 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>vtkMRMLMarkupsLineNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="47"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="46"/>
         <source>Line</source>
         <translation>Rad</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="50"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="49"/>
         <source>L</source>
         <translation>L</translation>
     </message>
@@ -30474,14 +30944,30 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>vtkMRMLMarkupsNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="536"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="63"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">M</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="546"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="64"/>
         <source>Markup</source>
         <translation>Märkspråk</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsPlaneDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneDisplayNode.cxx" line="30"/>
+        <source>Markups Plane Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsPlaneJsonStorageNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneJsonStorageNode.cxx" line="39"/>
+        <source>Markups Plane JSON Storage</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -30498,6 +30984,22 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     </message>
 </context>
 <context>
+    <name>vtkMRMLMarkupsROIDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsROIDisplayNode.cxx" line="30"/>
+        <source>Markups ROI Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsROIJsonStorageNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROIJsonStorageNode.cxx" line="38"/>
+        <source>Markups ROI JSON Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLMarkupsROINode</name>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="57"/>
@@ -30507,129 +31009,388 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="60"/>
         <source>R</source>
+        <translation type="unfinished">R</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsTestLineNode</name>
+    <message>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.cxx" line="33"/>
+        <source>Test Line</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.h" line="52"/>
+        <source>TL</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLModelDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLModelDisplayNode.cxx" line="44"/>
+        <source>Model Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLModelHierarchyNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLModelHierarchyNode.cxx" line="31"/>
+        <source>Model Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLModelNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLModelNode.cxx" line="53"/>
+        <source>Model</source>
+        <translation type="unfinished">Modell</translation>
     </message>
 </context>
 <context>
     <name>vtkMRMLModelStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="787"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="817"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="98"/>
+        <source>Model Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="782"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="812"/>
         <source>VTK Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>VTK Polygon Mesh</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="789"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="819"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="784"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="814"/>
         <source>VTK XML Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>VTK XML Polygon Mesh</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="791"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="834"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="786"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="829"/>
         <source>VTK Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>VTK ostrukturerat rutnät</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="793"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="836"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="788"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="831"/>
         <source>VTK XML Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>VTK XML ostrukturerat rutnät</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="795"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="797"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="790"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="792"/>
         <source>Movie.BYU Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Film.BYU Mesh</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="799"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="794"/>
         <source>MetaIO Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>MetaIO Mesh</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="801"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="825"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="796"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="820"/>
         <source>Stereolithography Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Stereolitografiskt nät</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="803"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="827"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="798"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="822"/>
         <source>Stanford Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Stanford Polygon Mesh</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="805"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="800"/>
         <source>AVS Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>AVS ostrukturerat rutnät</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="807"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="829"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="802"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="824"/>
         <source>Wavefront Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Wavefront Mesh</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLMultiVolumeRenderingDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLMultiVolumeRenderingDisplayNode.cxx" line="37"/>
+        <source>Multi Volume Rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLNRRDStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLNRRDStorageNode.cxx" line="44"/>
+        <source>NRRD Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLPETProceduralColorNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLPETProceduralColorNode.cxx" line="14"/>
+        <source>PET Procedural Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLPlotChartNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLPlotChartNode.cxx" line="50"/>
+        <source>Plot Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLPlotSeriesNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLPlotSeriesNode.cxx" line="59"/>
+        <source>Plot Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLPlotViewNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLPlotViewNode.cxx" line="48"/>
+        <source>Plot View</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLProceduralColorNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorNode.cxx" line="35"/>
+        <source>Procedural Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLProceduralColorStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="221"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="223"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="230"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="232"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="35"/>
+        <source>Procedural Color Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="220"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="222"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="229"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="231"/>
         <source>MRML Color Function</source>
         <extracomment>File format name</extracomment>
         <translation>MRML Färgfunktion</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLScalarVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeDisplayNode.cxx" line="50"/>
+        <source>Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLScalarVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeNode.cxx" line="37"/>
+        <source>Volume</source>
+        <translation type="unfinished">Volym</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSceneViewNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSceneViewNode.cxx" line="42"/>
+        <source>Scene View</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSceneViewStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSceneViewStorageNode.cxx" line="46"/>
+        <source>Scene View Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSegmentEditorNode</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/MRML/vtkMRMLSegmentEditorNode.cxx" line="50"/>
+        <source>Segment Editor</source>
+        <translation type="unfinished">Segmentredaktör</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSegmentationDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationDisplayNode.cxx" line="63"/>
+        <source>Segmentation Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSegmentationNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationNode.cxx" line="69"/>
+        <source>Segmentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLSegmentationStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="147"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="178"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="106"/>
+        <source>Segmentation Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="149"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="180"/>
         <source>Segmentation</source>
         <extracomment>File format name</extracomment>
         <translation>Segmentering</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLSelectionNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSelectionNode.cxx" line="43"/>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSequenceBrowserNode</name>
+    <message>
+        <location filename="Modules/Loadable/Sequences/MRML/vtkMRMLSequenceBrowserNode.cxx" line="140"/>
+        <source>Sequence Browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSequenceNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceNode.cxx" line="63"/>
+        <source>Sequence</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLSequenceStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="200"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="202"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="209"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="211"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="40"/>
+        <source>Sequence Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="190"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="192"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="199"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="201"/>
         <source>MRML Sequence Bundle</source>
         <extracomment>File format name</extracomment>
         <translation>MRML Sekvenspaket</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLShaderPropertyNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyNode.cxx" line="39"/>
+        <source>Shader Property</source>
+        <translation type="unfinished">Shader-egenskap</translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLShaderPropertyStorageNode</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="490"/>
-        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="497"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="49"/>
+        <source>Shader Property Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="491"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="498"/>
         <source>MRML Shader Property</source>
         <extracomment>File format name</extracomment>
         <translation>MRML Shader-egenskap</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLSliceCompositeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSliceCompositeNode.cxx" line="45"/>
+        <source>Slice Composite</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSliceDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSliceDisplayNode.cxx" line="29"/>
+        <source>Slice Display</source>
+        <translation type="unfinished">Display för skivor</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSliceNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSliceNode.cxx" line="47"/>
+        <source>Slice</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLSnapshotClipNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSnapshotClipNode.cxx" line="33"/>
+        <source>Snapshot Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLStreamingVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLStreamingVolumeNode.cxx" line="49"/>
+        <source>Streaming Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLTableNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTableNode.cxx" line="66"/>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLTableSQLiteStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="307"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="318"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="50"/>
+        <source>SQLite Table Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="305"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="316"/>
         <source>SQLight database</source>
         <extracomment>File format name</extracomment>
         <translation>SQLight-databas</translation>
@@ -30638,96 +31399,175 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>vtkMRMLTableStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="242"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="246"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="253"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="257"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="80"/>
+        <source>Table Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="236"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="243"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="247"/>
         <source>Tab-separated values</source>
         <extracomment>File format name</extracomment>
         <translation>Tabb-separerade värden</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="244"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="255"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="234"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="245"/>
         <source>Comma-separated values</source>
         <extracomment>File format name</extracomment>
         <translation>Kommaseparerade värden</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLTensorVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTensorVolumeNode.cxx" line="32"/>
+        <source>Tensor Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLTextNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTextNode.cxx" line="34"/>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLTextStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="220"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="231"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="44"/>
+        <source>Text Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="226"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="237"/>
         <source>Text file</source>
         <extracomment>File format name</extracomment>
         <translation>Textfil</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="222"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="233"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="228"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="239"/>
         <source>XML document</source>
         <extracomment>File format name</extracomment>
         <translation>XML-dokument</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="224"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="235"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="230"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="241"/>
         <source>JSON document</source>
         <extracomment>File format name</extracomment>
         <translation>JSON-dokument</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="270"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="284"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="276"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="290"/>
         <source>Text file (.%1)</source>
         <translation>Textfil (.%1)</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLTransformDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTransformDisplayNode.cxx" line="55"/>
+        <source>Transform Display Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLTransformNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTransformNode.cxx" line="54"/>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLTransformStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLTransformStorageNode.cxx" line="41"/>
+        <source>Transform Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLUnitNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLUnitNode.cxx" line="38"/>
+        <source>Unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLVectorVolumeDisplayNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeDisplayNode.cxx" line="39"/>
+        <source>Vector Volume Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLVectorVolumeNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeNode.cxx" line="36"/>
+        <source>Vector Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLVolumeArchetypeStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="417"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="60"/>
+        <source>Volume Archetype Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="410"/>
         <source>Cannot read &apos;%1&apos; file as a volume of type &apos;%2&apos;. Details: %3.</source>
         <translation>Det går inte att läsa filen &quot;%1&quot; som en volym av typen &quot;%2&quot;. Mer information: %3.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="432"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="426"/>
         <source>Unable to read data from file: &apos;%1&apos;</source>
         <translation>Det gick inte att läsa data från filen: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="442"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="438"/>
         <source>Unable to read DiffusionTensorVolume data from file: &apos;%1&apos;</source>
         <translation>Det gick inte att läsa DiffusionTensorVolume-data från filen: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="451"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="448"/>
         <source>Unable to read ScalarVolume data from file: &apos;%1&apos;</source>
         <translation>Det gick inte att läsa ScalarVolume-data från filen: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="461"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="459"/>
         <source>Not a scalar volume file: &apos;%1&apos;</source>
         <translation>Inte en skalär volymfil: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="504"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="501"/>
         <source>Cannot read file: &apos;%1&apos;</source>
         <translation>Det går inte att läsa filen: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="532"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="528"/>
         <source>Image reader provided invalid RAS to IJK matrix</source>
         <translation>Bildläsare tillhandahöll ogiltig RAS till IJK-matris</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="585"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="583"/>
         <source>Voxel vector type is spatial but number of scalar components is not 3. Saved vector type will be non-spatial.</source>
         <translation>Voxelvektortypen är spatial men antalet skalära komponenter är inte 3. Sparad vektortyp kommer att vara icke-spatial.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="594"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="592"/>
         <source>Spatial vectors will be written to non-NRRD file format (%1). In this format, voxels are saved as regular vectors. If the file is imported again then vector axis directions may be flipped. It is recommended to save volumes that contain spatial vectors in NRRD file format.</source>
         <translation>Spatiala vektorer kommer att skrivas till ett icke-NRRD-filformat (%1). I det här formatet sparas voxlar som vanliga vektorer. Om filen importeras igen kan vektoraxlarnas riktningar bli omvända. Vi rekommenderar att volymer som innehåller rumsliga vektorer sparas i NRRD-filformat.</translation>
     </message>
@@ -30737,7 +31577,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation>Det gick inte att ta bort den gamla versionen av filen: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="647"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="648"/>
         <source>Error renaming file to &apos;%1&apos;, rename returned code %2</source>
         <translation>Fel vid omdöpning av fil till &quot;%1&quot;, omdöpning returnerade kod %2</translation>
     </message>
@@ -30747,58 +31587,94 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <translation>VTK-filformatet kan endast lagra LPS-axelorienterade bilder. Orienteringen av den sparade bilden kan vara felaktig. Filformatet NRRD rekommenderas för lagring av denna bild.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="764"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="766"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
         <translation>Om du sparar den här bilden i TIFF-format förlorar du information (bildposition, orientering eller avstånd längs den tredje bildaxeln). NRRD-filformat rekommenderas för lagring av den här bilden.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="776"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="779"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
         <translation>Analyze filformat rekommenderas inte, eftersom dess bildorienteringsspecifikation är tvetydig. Filformatet NRRD rekommenderas för lagring av denna bild.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="816"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="818"/>
         <source>Cannot write volume, image data is empty</source>
         <translation>Det går inte att skriva volymen, bilddata är tom</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="864"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="867"/>
         <source>Failed to delete directory &apos;%1&apos;</source>
         <translation>Misslyckades med att ta bort katalogen &quot;%1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="871"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="875"/>
         <source>Failed to create directory &apos;%1&apos;</source>
         <translation>Det gick inte att skapa katalogen &quot;%1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="931"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="934"/>
         <source>Failed to write &apos;%1&apos;</source>
         <translation>Misslyckades med att skriva &quot;%1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="942"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="946"/>
         <source>Failed to open directory &apos;%1&apos;</source>
         <translation>Det gick inte att öppna katalogen &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1056"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1059"/>
         <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
         <translation>Archetype-filen &apos;%1&apos; skrevs inte ut när &apos;%2&apos; skrevs i &apos;%3&apos;. Endast dessa %4 file(s) har skrivits: %5. Det gamla namnet är &apos;%6&apos;.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1079"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1087"/>
         <source>Failed to remove temporary directory &apos;%1&apos;</source>
         <translation>Misslyckades med att ta bort den temporära katalogen &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1128"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1142"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
         <translation>Förskjutningar förväntas lagras som dubbel eller float. Vektorvärden kommer inte att konverteras från LPS till RAS.</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLVolumeHeaderlessStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeHeaderlessStorageNode.cxx" line="43"/>
+        <source>Volume Headerless Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLVolumePropertyJsonStorageNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="55"/>
+        <source>Volume Property Json Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="610"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="617"/>
+        <source>MRML Volume Property</source>
+        <extracomment>File format name</extracomment>
+        <translation type="unfinished">MRML Volym Fastighet</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLVolumePropertyNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyNode.cxx" line="29"/>
+        <source>Volume Property</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLVolumePropertyStorageNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="34"/>
+        <source>Volume Property Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="207"/>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="214"/>
@@ -30809,19 +31685,60 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     </message>
 </context>
 <context>
+    <name>vtkMRMLVolumeRenderingDisplayNode</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="337"/>
+        <source>Fast clipping cannot be used with cropping enabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="346"/>
+        <source>Fast clipping cannot be used with soft edge voxels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="372"/>
+        <source>Fast clipping cannot use intersection clip type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="390"/>
+        <source>Fast method cannot use positive space of an ROI.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="406"/>
+        <source>No planes found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="415"/>
+        <source>Fast method cannot clip with more than 6 planes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLVolumeSequenceStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="617"/>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="628"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="621"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="632"/>
         <source>Volume Sequence</source>
         <extracomment>File format name</extracomment>
         <translation>Volymsekvens</translation>
     </message>
 </context>
 <context>
+    <name>vtkMRMLdGEMRICProceduralColorNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLdGEMRICProceduralColorNode.cxx" line="28"/>
+        <source>d GEMRIC Procedural Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkSlicerSegmentationsModuleLogic</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1087"/>
+        <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1072"/>
         <source>background</source>
         <translation>bakgrund</translation>
     </message>
@@ -30829,12 +31746,12 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
 <context>
     <name>vtkSlicerSequencesLogic</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="715"/>
+        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="712"/>
         <source>Unnamed</source>
         <translation>Namnlös</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="717"/>
+        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="714"/>
         <source>Sequence</source>
         <translation>Sekvens</translation>
     </message>

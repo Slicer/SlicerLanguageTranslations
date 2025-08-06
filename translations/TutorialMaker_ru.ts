@@ -320,54 +320,54 @@
         <translation>Дата версии: {}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="244"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Tutorial Captured</source>
         <translation>Учебное пособие Снято</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="244"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Captured Tutorial: {tutorialName}</source>
         <translation>Учебное пособие: {tutorialName}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="249"/>
-        <source>Failed to capture tutorial: {e}</source>
-        <translation>Не удалось захватить учебник: {e}</translation>
+        <location filename="TutorialMaker/TutorialMaker.py" line="251"/>
+        <source>Failed to generate tutorial</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="273"/>
+        <source>Failed to fetch tutorials from {repo}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Tutorial Generated</source>
         <translation>Созданный учебник</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Generated Tutorial: {tutorialName}</source>
         <translation>Сгенерированный учебник: {tutorialName}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="281"/>
-        <source>Failed to fetch tutorials from {repo}. Please try again later.</source>
-        <translation>Не удалось получить учебники из {repo}. Пожалуйста, повторите попытку позже.</translation>
-    </message>
-    <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="328"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="322"/>
         <source>No Tests Found</source>
         <translation>Тесты не найдены</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="375"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="369"/>
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
         <translation>Выполнение учебника не удалось: {unit_tutorials} - Ошибка: {e}. 
 </translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="379"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="373"/>
         <source>Tutorial Tested</source>
         <translation>Учебное пособие Проверено</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="382"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="376"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
         <translation>{tutorials_failed} Учебники не удалось выполнить. Ошибки: {error_message}</translation>
     </message>
