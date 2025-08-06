@@ -28220,12 +28220,12 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="92"/>
         <source>Show in 3D views as volume rendering</source>
-        <translation>在三维视图中以体绘制显示</translation>
+        <translation>在 3D 视图中以体渲染显示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="97"/>
         <source>Volume rendering options...</source>
-        <translation>体绘制选项...</translation>
+        <translation>体渲染选项...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
@@ -29488,7 +29488,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="143"/>
         <source>Volume rendering</source>
-        <translation>体绘制</translation>
+        <translation>体渲染</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="150"/>
