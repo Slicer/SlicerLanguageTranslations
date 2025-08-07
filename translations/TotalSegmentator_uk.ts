@@ -336,125 +336,127 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="823"/>
         <source>nnunetv2 package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Потрібен пакет nnunetv2. Встановлення... (це може тривати кілька хвилин)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="845"/>
         <source>This module requires TotalSegmentator Python package update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей модуль вимагає оновлення пакета TotalSegmentator на Python.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="846"/>
         <source>Currently installed: {downloadUrl}
 
 Required: {requiredUrl}</source>
-        <translation type="unfinished"></translation>
+        <translation>Наразі встановлено: {downloadUrl}
+
+Обов&apos;язково: {requiredUrl}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="853"/>
         <source>TotalSegmentator Python package is required. Installing it from {downloadUrl}... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Потрібен пакет TotalSegmentator для Python. Його встановлення з {downloadUrl}... (це може зайняти кілька хвилин)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="865"/>
         <source>TotalSegmentator installation completed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановлення TotalSegmentator успішно завершено.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="928"/>
         <source>Setting license...</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування ліцензії...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="948"/>
         <source>License has been successfully set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ліцензію успішно налаштовано.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="950"/>
         <source>This license update requires a 3D Slicer restart.</source>
         <comment>Press OK to restart.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Це оновлення ліцензії вимагає перезапуску 3D Slicer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="978"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Обробку розпочато</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1002"/>
         <source>No GPU is detected. Switch to &apos;fast&apos; mode to get low-resolution result in a few minutes or compute full-resolution result which may take 5 to 50 minutes (depending on computer configuration)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Графічний процесор не виявлено. Переключитися в «швидкий» режим, щоб отримати результат з низькою роздільною здатністю за кілька хвилин, або обчислити результат з повною роздільною здатністю, що може зайняти від 5 до 50 хвилин (залежно від конфігурації комп’ютера)?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1002"/>
         <source>Fast (~2 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Швидко (~2 хвилини)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1003"/>
         <source>Full-resolution (~5 to 50 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повна роздільна здатність (~5–50 хвилин)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1011"/>
         <source>You have less than 7 GB of GPU memory available. Enable &apos;fast&apos; mode to ensure segmentation can be completed successfully?</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас менше 7 ГБ доступної пам&apos;яті графічного процесора. Увімкнути «швидкий» режим, щоб забезпечити успішне завершення сегментації?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1059"/>
         <source>Processing completed in {time_elapsed:.2f} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Обробку завершено через {time_elapsed:.2f} секунд</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1062"/>
         <source>Cleaning up temporary folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищення тимчасової папки...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1066"/>
         <source>Not cleaning up temporary folder: {temp_folder}</source>
-        <translation type="unfinished"></translation>
+        <translation>Не очищається тимчасова папка: {temp_folder}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1074"/>
         <source>Writing input file to {input_file}</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис вхідного файлу в {input_file}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1118"/>
         <source>Creating segmentations with TotalSegmentator AI...</source>
-        <translation type="unfinished"></translation>
+        <translation>Створення сегментацій за допомогою штучного інтелекту TotalSegmentator...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1119"/>
         <source>Total Segmentator arguments: {options}</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальна кількість аргументів сегментатора: {options}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1124"/>
         <source>Importing segmentation results...</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпорт результатів сегментації...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1168"/>
         <source>Importing candidate {segment_name}</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпорт кандидата {segment_name}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1171"/>
         <source>Path {segment_name} not exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлях {segment_name} не існує.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1181"/>
         <source>Importing subset {segment_name}</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпортування підмножини {segment_name}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1188"/>
         <source>{segment_name} not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>{segment_name} не знайдено.</translation>
     </message>
 </context>
 <context>
