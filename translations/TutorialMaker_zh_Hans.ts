@@ -11,12 +11,12 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
         <source>Write your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>在这输入你的文本</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
         <source>Write something here</source>
-        <translation type="unfinished"></translation>
+        <translation>在这里写些什么</translation>
     </message>
 </context>
 <context>
@@ -39,13 +39,13 @@
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="33"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>路径不存在</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="68"/>
         <source>Message from {endpoint}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>来自 {endpoint} 的消息： {message}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
