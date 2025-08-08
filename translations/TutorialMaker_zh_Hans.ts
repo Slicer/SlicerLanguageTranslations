@@ -6,7 +6,7 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="31"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation type="unfinished"></translation>
+        <translation>标注需要控件引用和有效类型</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
@@ -31,7 +31,7 @@
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="39"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="52"/>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>按钮</translation>
     </message>
 </context>
 <context>
@@ -64,7 +64,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="34"/>
         <source>Institutional affiliation:</source>
-        <translation type="unfinished"></translation>
+        <translation>机构隶属：</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="41"/>
@@ -89,17 +89,17 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="29"/>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>标注</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="36"/>
         <source>Start Recording</source>
-        <translation type="unfinished">开始 Recording</translation>
+        <translation>开始录制</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="46"/>
         <source>Next Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>下一个控件</translation>
     </message>
 </context>
 <context>
@@ -122,7 +122,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="154"/>
         <source>Widget Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>控件标注器</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="290"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>教程制作器 - 标注器</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="318"/>
@@ -225,7 +225,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1021"/>
         <source> thick.</source>
-        <translation type="unfinished"></translation>
+        <translation> 粗。</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1031"/>
@@ -248,7 +248,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/ScreenshotAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">表单</translation>
+        <translation>表单</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="38"/>
@@ -288,7 +288,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="98"/>
         <source>Edit annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑标注</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="108"/>
@@ -310,7 +310,9 @@
         <source>
         The development of this module has been made possible in part by a grant from the Chan Zuckerberg Initiative
         </source>
-        <translation type="unfinished"></translation>
+        <translation>
+        本模块的开发部分得益于 Chan Zuckerberg 计划的资助
+        </translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="70"/>
@@ -320,22 +322,22 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Tutorial Captured</source>
-        <translation type="unfinished"></translation>
+        <translation>教程已捕获</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Captured Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>已捕获教程：{tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Tutorial Generated</source>
-        <translation type="unfinished"></translation>
+        <translation>教程已生成</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Generated Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>已生成教程：{tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="322"/>
@@ -350,7 +352,7 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="373"/>
         <source>Tutorial Tested</source>
-        <translation type="unfinished"></translation>
+        <translation>教程已测试</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="251"/>
@@ -367,7 +369,8 @@
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
         <oldsource>{tutorials_failed} tutorials failed to execute</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>教程执行失败：{unit_tutorials} - 错误：{e}。 
+</translation>
     </message>
 </context>
 <context>
