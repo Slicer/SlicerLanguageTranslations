@@ -31486,7 +31486,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="406"/>
         <source>No planes found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha trobat cap pla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="415"/>
@@ -31517,7 +31517,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1072"/>
         <source>background</source>
-        <translation type="unfinished"></translation>
+        <translation>fons</translation>
     </message>
 </context>
 <context>
@@ -31525,12 +31525,12 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="712"/>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Sense nom</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="714"/>
         <source>Sequence</source>
-        <translation type="unfinished">Seqüència</translation>
+        <translation>Seqüència</translation>
     </message>
 </context>
 </TS>
