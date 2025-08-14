@@ -455,22 +455,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"></location>
         <source>useMomentsAlign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">useMomentsAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"></location>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">useCenterOfHeadAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"></location>
         <source>useGeometryAlign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">useGeometryAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"></location>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>useCenterOfROIAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"></location>
@@ -1690,7 +1690,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"></location>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"></location>
