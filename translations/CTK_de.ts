@@ -747,7 +747,7 @@ wegen:
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"></location>
         <source>DICOM Browser</source>
         <oldsource>ctkDICOMBrowser</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Browser</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"></location>
@@ -992,7 +992,7 @@ Möchten Sie die Serien aus der DICOM-Datenbank entfernen?</translation>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1275"></location>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1353"></location>
         <source>Send to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>An DICOM-Server senden</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1204"></location>
@@ -1056,7 +1056,7 @@ Export wird angehalten.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1454"></location>
         <source>DICOM Export</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Export</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1454"></location>
@@ -1067,7 +1067,7 @@ Export wird angehalten.</translation>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1460"></location>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Exportieren der Serie %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1477"></location>
@@ -1205,7 +1205,7 @@ Export wird angehalten.</translation>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="14"></location>
         <source>DICOM Hosts</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Hosts</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="56"></location>
@@ -1422,7 +1422,7 @@ Export wird angehalten.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"></location>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausdruck</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"></location>
@@ -1804,7 +1804,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="196"></location>
         <source>Thumbnail generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturbildgenerator</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="325"></location>
@@ -4321,102 +4321,102 @@ Die Daten werden nicht vom PACS-Server gelöscht.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="400"></location>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Intravaskulärer Ultraschall</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="403"></location>
         <source>IVUS</source>
-        <translation type="unfinished"></translation>
+        <translation>IVUS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="410"></location>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Ophthalmologische Fotografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="413"></location>
         <source>OP</source>
-        <translation type="unfinished"></translation>
+        <translation>OP</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="420"></location>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>Augenärztliche Fotografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="423"></location>
         <source>SMR</source>
-        <translation type="unfinished"></translation>
+        <translation>SMR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="430"></location>
         <source>Optical Coherence Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Optische Kohärenztomographie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="433"></location>
         <source>OCT</source>
-        <translation type="unfinished"></translation>
+        <translation>OCT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="440"></location>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Augenärztliche Refraktion</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="443"></location>
         <source>OPR</source>
-        <translation type="unfinished"></translation>
+        <translation>OPR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="450"></location>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Ophthalmologisches Gesichtsfeld</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="453"></location>
         <source>OPV</source>
-        <translation type="unfinished"></translation>
+        <translation>OPV</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="460"></location>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ophthalmologische Kartierung</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="463"></location>
         <source>OPM</source>
-        <translation type="unfinished"></translation>
+        <translation>OPM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="470"></location>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl des Schlüsselobjekts</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="473"></location>
         <source>KO</source>
-        <translation type="unfinished"></translation>
+        <translation>KO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="480"></location>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentierung</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="483"></location>
         <source>SEG</source>
-        <translation type="unfinished"></translation>
+        <translation>SEG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="490"></location>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrierung</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="493"></location>
         <source>REG</source>
-        <translation type="unfinished"></translation>
+        <translation>REG</translation>
     </message>
 </context>
 <context>
@@ -4424,22 +4424,22 @@ Die Daten werden nicht vom PACS-Server gelöscht.
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="336"></location>
         <source>Open a dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld öffnen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="646"></location>
         <source>Select a file to save </source>
-        <translation type="unfinished"></translation>
+        <translation>Datei zum Speichern auswählen </translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="661"></location>
         <source>Open a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei öffnen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="677"></location>
         <source>Select a directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie ein Verzeichnis aus...</translation>
     </message>
 </context>
 <context>
@@ -4447,43 +4447,43 @@ Die Daten werden nicht vom PACS-Server gelöscht.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="14"></location>
         <source>Path list</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfadliste</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="23"></location>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="26"></location>
         <source>Add files</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien hinzufügen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="33"></location>
         <source>Add a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Add a directory</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="36"></location>
         <source>Add directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis hinzufügen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="43"></location>
         <source>Remove selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Einträge entfernen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"></location>
         <source>Remove</source>
-        <translation type="unfinished">Entfernen</translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"></location>
         <source>Edit current entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellen Eintrag bearbeiten</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="56"></location>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -4491,7 +4491,7 @@ Die Daten werden nicht vom PACS-Server gelöscht.
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="123"></location>
         <source>Editing the path failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Bearbeiten des Pfads ist fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="124"></location>
@@ -4504,27 +4504,35 @@ to path
 %2
 
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad konnte nicht geändert werden:
+
+%1
+
+zu Pfad
+
+%2
+
+Bitte überprüfen Sie Ihre Berechtigungen.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="152"></location>
         <source>Select one or more files</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie eine oder mehrere Dateien aus</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="156"></location>
         <source>Select a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie eine Datei aus</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="241"></location>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie ein Verzeichnis aus</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="316"></location>
         <source>Adding paths failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinzufügen von Pfaden fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="317"></location>
@@ -4532,7 +4540,10 @@ Please check your permissions.</source>
 
 %1
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgenden Pfade konnten nicht hinzugefügt werden:
+
+%1
+Bitte überprüfen Sie Ihre Berechtigungen.</translation>
     </message>
 </context>
 <context>
@@ -4540,67 +4551,67 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="52"></location>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installiert</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"></location>
         <source>Lazy Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>verzögerte Aktivierung</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"></location>
         <source>Resolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelöst</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="55"></location>
         <source>Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Begonnen</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="56"></location>
         <source>Starting</source>
-        <translation type="unfinished">Starten</translation>
+        <translation>Starten</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"></location>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestoppt</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="58"></location>
         <source>Stopping</source>
-        <translation type="unfinished"></translation>
+        <translation>Anhalten</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="59"></location>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Deinstalliert</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="60"></location>
         <source>Unresolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungelöst</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="61"></location>
         <source>Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisiert</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="115"></location>
         <source>Start Plugin (ignore activation policy)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin starten (Aktivierungsrichtlinie ignorieren)</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="116"></location>
         <source>Start Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin starten</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="117"></location>
         <source>Stop Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin beenden</translation>
     </message>
 </context>
 <context>
@@ -4608,52 +4619,52 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="14"></location>
         <source>Plugin Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin-Browser</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"></location>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="58"></location>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="122"></location>
         <source>Qt Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-Ressourcen</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="159"></location>
         <source>Plugin Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin-Ressourcen</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="193"></location>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienstleistungen</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="260"></location>
         <source>Link services</source>
-        <translation type="unfinished"></translation>
+        <translation>Link-Dienste</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="304"></location>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Veranstaltungen</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"></location>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolleiste</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"></location>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgang</translation>
     </message>
 </context>
 <context>
@@ -4662,47 +4673,47 @@ Please check your permissions.</source>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="162"></location>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="182"></location>
         <source>&lt;&lt; Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; Zurück</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="194"></location>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="209"></location>
         <source>Successfully create plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin erfolgreich erstellt</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="217"></location>
         <source>Creating the plugin failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Erstellen des Plugins ist fehlgeschlagen.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="246"></location>
         <source>Creating directory &quot;%1&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Erstellen des Verzeichnisses „%1“ ist fehlgeschlagen.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="279"></location>
         <source>Creating the preview failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Erstellung der Vorschau ist fehlgeschlagen.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"></location>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK-Plugin-Generator</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"></location>
         <source>Enter the name of your organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Namen Ihrer Organisation ein:</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"></location>
         <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Ihre Organisation&gt;</translation>
     </message>
 </context>
 <context>
@@ -4710,98 +4721,98 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="14"></location>
         <source>Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin-Generator</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"></location>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="39"></location>
         <source>Symbolic name</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolischer Name</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="46"></location>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="66"></location>
         <source>Activation policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivierungsrichtlinie</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"></location>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Faul</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"></location>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Eifrig</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"></location>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="105"></location>
         <source>Export directive</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportrichtlinie</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="115"></location>
         <source>Activator class name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name der Aktivierungsklasse</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="125"></location>
         <source>Activator header file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivator-Header-Datei</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="135"></location>
         <source>Activator source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivator-Quelldatei</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="35"></location>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="47"></location>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Haupt</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="94"></location>
         <source>Advanced (activator class: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten (Aktivator-Klasse: %1)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="102"></location>
         <source>The symbolic name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Der symbolische Name darf nicht leer sein</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="108"></location>
         <source>The export directive cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Exportrichtlinie darf nicht leer sein</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="114"></location>
         <source>The activator class name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Name der Aktivierungsklasse darf nicht leer sein</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="120"></location>
         <source>The activator header filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Dateiname des Aktivator-Headers darf nicht leer sein</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="126"></location>
         <source>The activator source filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Name der Aktivierungsdatei darf nicht leer sein</translation>
     </message>
 </context>
 <context>
@@ -4809,7 +4820,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="14"></location>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK-Plugin-Generator</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="74"></location>
@@ -4822,7 +4833,15 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="278"></location>
@@ -4835,48 +4854,56 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="370"></location>
         <source>Output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabeverzeichnis</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="383"></location>
         <source>Choose output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabeverzeichnis auswählen</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="431"></location>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="451"></location>
         <source>Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>Generieren</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="458"></location>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="489"></location>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgang</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="478"></location>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="492"></location>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="497"></location>
         <source>Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen...</translation>
     </message>
 </context>
 <context>
@@ -4884,77 +4911,77 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"></location>
         <source>Manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"></location>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"></location>
         <source>Symbolic Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolischer Name</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"></location>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"></location>
         <source>Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>Anbieter</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"></location>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"></location>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Urheberrecht</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"></location>
         <source>Activation Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivierungsrichtlinie</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"></location>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="107"></location>
         <source>Contact Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktadresse</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"></location>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Description</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"></location>
         <source>Doc URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument-URL</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"></location>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"></location>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Faul</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"></location>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Eifrig</translation>
     </message>
 </context>
 <context>
@@ -4962,12 +4989,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="14"></location>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="20"></location>
         <source>License template</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenzvorlage</translation>
     </message>
 </context>
 <context>
@@ -4975,37 +5002,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="100"></location>
         <source>UNINSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>DEINSTALLIERT</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="101"></location>
         <source>INSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>INSTALLIERT</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="102"></location>
         <source>RESOLVED</source>
-        <translation type="unfinished"></translation>
+        <translation>BESCHLOSSEN</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="103"></location>
         <source>STARTING</source>
-        <translation type="unfinished"></translation>
+        <translation>STARTEN</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="104"></location>
         <source>STOPPING</source>
-        <translation type="unfinished"></translation>
+        <translation>ANHALTEN</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="105"></location>
         <source>ACTIVE</source>
-        <translation type="unfinished"></translation>
+        <translation>AKTIV</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="115"></location>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>unbekannt</translation>
     </message>
 </context>
 <context>
@@ -5013,47 +5040,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"></location>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Beitrag von: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Tastaturbefehle:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: Beenden  &lt;em&gt;h&lt;/em&gt;: Diese Hilfe anzeigen  &lt;em&gt;i&lt;/em&gt;: Intensitäten umkehren  &lt;em&gt; [ ]&lt;/em&gt;: Vergrößern/Verkleinern  &lt;em&gt;x y&lt;/em&gt;: Entlang der x/y-Achse spiegeln  &lt;em&gt;r&lt;/em&gt;: Auf Anfangsbedingungen zurücksetzen  &lt;em&gt;Leertaste&lt;/em&gt;: Umschalten zwischen kontinuierlicher Cursorverfolgung  &lt;em&gt;Pfeil nach oben Pfeil nach unten&lt;/em&gt;: Wechsel zum nächsten/vorherigen Schnitt&lt;h3&gt;Mausbefehle:&lt;/h3&gt;  &lt;em&gt;Linke Maustaste&lt;/em&gt;: Fenster und Ebene  &lt;em&gt;Mittlere Maustaste&lt;/em&gt;: Zoom  &lt;em&gt;Rechte Maustaste&lt;/em&gt;: Zentrieren</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"></location>
         <source>Intensity Range = %1 .. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitätsbereich = %1 .. %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1064"></location>
         <source>W / L = %1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>W / L = %1 / %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1077"></location>
         <source>Spacing = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1090"></location>
         <source>Size = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1102"></location>
         <source>RAS = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1115"></location>
         <source>IJK = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>IJK = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1127"></location>
         <source>Value = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wert = %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1165"></location>
         <source>No Image Loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Bild geladen.</translation>
     </message>
 </context>
 <context>
@@ -5061,17 +5088,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="14"></location>
         <source>Qt Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-Testen</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="105"></location>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzeichnung</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="115"></location>
         <source>PlayBack</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiedergabe</translation>
     </message>
 </context>
 <context>
@@ -5079,7 +5106,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkRangeWidget.ui" line="20"></location>
         <source>Select range</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereich auswählen</translation>
     </message>
 </context>
 <context>
@@ -5087,133 +5114,133 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="20"></location>
         <source>Screen Capture Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmaufnahmeoptionen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="99"></location>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="105"></location>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="112"></location>
         <source>Select a directory in which screen captures will be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie ein Verzeichnis aus, in dem die Bildschirmaufnahmen gespeichert werden sollen.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="119"></location>
         <source>Image name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildname:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="126"></location>
         <source>Type in a base-name for the image file, or use the default provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie einen Basisnamen für die Bilddatei ein oder verwenden Sie den vorgegebenen Standardnamen.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="129"></location>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohne Titel</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="136"></location>
         <source>Image version number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildversionsnummer:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"></location>
         <source>Scale factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierungsfaktor:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"></location>
         <source>Select an integer scale factor (between 0.5 and 5) for the image file, e.g. a value of &quot;2&quot; will save an image twice the size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie einen ganzzahligen Skalierungsfaktor (zwischen 0,5 und 5) für die Bilddatei aus. Ein Wert von „2“ speichert beispielsweise ein Bild, das doppelt so groß ist.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="183"></location>
         <source>Output resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangsauflösung:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="190"></location>
         <source>Width of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Breite des Screenshots</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="193"></location>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="216"></location>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="203"></location>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="213"></location>
         <source>Height of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Höhe des Screenshots</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="229"></location>
         <source>Lock/unlock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenverhältnis sperren/entsperren</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="249"></location>
         <source>Overwrite:</source>
-        <translation type="unfinished"></translation>
+        <translation>Überschreiben:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="266"></location>
         <source>Screenshot delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmaufnahmeverzögerung:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="273"></location>
         <source> s</source>
-        <translation type="unfinished"></translation>
+        <translation> s</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="67"></location>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Erfassen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="172"></location>
         <source>Height of widget: %1 is invalid. Check widget dimensions. Using default aspect ratio (1.0).</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Höhe des Widgets: %1 ist ungültig. Überprüfen Sie die Abmessungen des Widgets. Es wird das Standard-Seitenverhältnis (1,0) verwendet.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="175"></location>
         <source>Invalid widget dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Widget-Abmessungen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="194"></location>
         <source>Aspect ratio: %1 is invalid. Check widget dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenverhältnis: %1 ist ungültig. Überprüfen Sie die Abmessungen des Widgets.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="196"></location>
         <source>Invalid aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiges Seitenverhältnis</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="396"></location>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmaufnahme</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="397"></location>
         <source>File already exists. Overwrite ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei existiert bereits. Überschreiben?</translation>
     </message>
 </context>
 <context>
@@ -5221,7 +5248,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSearchBox.cpp" line="72"></location>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen...</translation>
     </message>
 </context>
 <context>
@@ -5229,61 +5256,65 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSettingsDialog.ui" line="14"></location>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="78"></location>
         <source>Apply settings and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen übernehmen und Dialogfeld schließen.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="80"></location>
         <source>Reject settings changes and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen an den Einstellungen verwerfen und Dialogfeld schließen.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="82"></location>
         <source>Reset settings to their values when the dialog opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Einstellungen auf ihre Werte zurücksetzen, die beim Öffnen des Dialogfelds angezeigt wurden</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="84"></location>
         <source>Restore settings to their default values.To cancel a &quot;Restore&quot;, you can &quot;Reset&quot; the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellen Sie die Einstellungen auf ihre Standardwerte zurück. Um eine „Wiederherstellung“ abzubrechen, können Sie die Einstellungen „zurücksetzen“.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="170"></location>
         <source>Restart required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Neustart erforderlich!</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"></location>
         <source>The application must be restarted to take into account the new values of the following properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anwendung muss neu gestartet werden, damit die neuen Werte der folgenden Eigenschaften übernommen werden:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="300"></location>
         <source>Restart required</source>
-        <translation type="unfinished"></translation>
+        <translation>Neustart erforderlich</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="301"></location>
         <source>For settings to be taken into account, the application
 must be restarted. Restart the application now ?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Damit die Einstellungen berücksichtigt werden, muss die Anwendung
+neu gestartet werden. Möchten Sie die Anwendung jetzt neu starten?
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="409"></location>
         <source>Restore all settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Einstellungen zurücksetzen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="410"></location>
         <source>Are you sure you want to reset
 all settings to their default values?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie wirklich
+alle Einstellungen auf ihre Standardwerte zurücksetzen?
+</translation>
     </message>
 </context>
 <context>
@@ -5291,7 +5322,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSliderWidget.ui" line="20"></location>
         <source>Set value</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellwert</translation>
     </message>
 </context>
 <context>
@@ -5299,7 +5330,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkTemplateWidget.ui" line="14"></location>
         <source>Template Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorlagen Widget</translation>
     </message>
 </context>
 <context>
@@ -5307,12 +5338,12 @@ all settings to their default values?
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"></location>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="32"></location>
         <source>My object class definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Meine Objektklassendefinition</translation>
     </message>
 </context>
 <context>
@@ -5320,7 +5351,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailLabel.ui" line="14"></location>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturansicht</translation>
     </message>
 </context>
 <context>
@@ -5329,7 +5360,7 @@ all settings to their default values?
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailListWidget.ui" line="14"></location>
         <source>Thumbnails</source>
         <oldsource>ThumbnailList</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturansichten</translation>
     </message>
 </context>
 <context>
@@ -5337,7 +5368,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="523"></location>
         <source>FPS: %1(%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS: %1(%2s)</translation>
     </message>
 </context>
 <context>
@@ -5345,67 +5376,67 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="14"></location>
         <source>Color Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbübertragungsfunktion</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="32"></location>
         <source>Undo last change of range</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Änderung des Bereichs rückgängig machen</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="43"></location>
         <source>Reset ranges to data range</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereiche auf Datenbereich zurücksetzen</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="54"></location>
         <source>Shrink display range to current range</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeigebereich auf aktuellen Bereich verkleinern</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="65"></location>
         <source>Expand current range to display range</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellen Bereich erweitern, um den Anzeigebereich anzuzeigen</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="76"></location>
         <source>Invert color map</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbkarte invertieren</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="93"></location>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Optionen</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="194"></location>
         <source>Reset</source>
-        <translation type="unfinished">Zurücksetzen</translation>
+        <translation>Zurücksetzen</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="242"></location>
         <source>NaN values</source>
-        <translation type="unfinished"></translation>
+        <translation>NaN-Werte</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="244"></location>
         <source>NaN color</source>
-        <translation type="unfinished"></translation>
+        <translation>NaN Farbe</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="249"></location>
         <source>Discretize</source>
-        <translation type="unfinished"></translation>
+        <translation>Diskretisieren</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="250"></location>
         <source>Discretize color transfer function</source>
-        <translation type="unfinished"></translation>
+        <translation>Diskretisieren Sie die Farbübertragungsfunktion</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="254"></location>
         <source>Number of discrete values</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der diskreten Werte</translation>
     </message>
 </context>
 <context>
@@ -5413,122 +5444,122 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="14"></location>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigentum</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="32"></location>
         <source>Representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertretung</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="44"></location>
         <source>Representation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertretung:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="52"></location>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkte</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="57"></location>
         <source>Wireframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Drahtgittermodell</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="62"></location>
         <source>Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>Oberfläche</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="70"></location>
         <source>Point Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktgröße:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"></location>
         <source>Line Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienbreite:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="110"></location>
         <source>Culling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausmerzung:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="119"></location>
         <source>Frontface</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorderseite</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="126"></location>
         <source>Backface</source>
-        <translation type="unfinished"></translation>
+        <translation>Rückseite</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="138"></location>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="147"></location>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"></location>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opazität:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"></location>
         <source>Edge Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantensichtbarkeit:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="195"></location>
         <source>Edge Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantenfarbe:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="208"></location>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Beleuchtung</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="217"></location>
         <source>Lighting:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beleuchtung:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"></location>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolation:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="239"></location>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Flach</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="244"></location>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="249"></location>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"></location>
         <source>Shading:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schattierung:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"></location>
         <source>Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Material</translation>
     </message>
 </context>
 <context>
@@ -5536,7 +5567,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="67"></location>
         <source>Size issue ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Größenproblem ...</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"></location>
@@ -5544,7 +5575,10 @@ all settings to their default values?
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Größe der Renderansicht beträgt: Breite: %1      Höhe: %2 
+Die Größe betrug jedoch         Breite: %3      Höhe: %4 
+während der Aufzeichnung 
+Möchten Sie sie ersetzen?</translation>
     </message>
 </context>
 <context>
@@ -5553,37 +5587,37 @@ Do you want to replace it ?</source>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="14"></location>
         <source>Scalar bar properties</source>
         <oldsource>vtkScalarBarWidget</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschaften der Skalenleiste</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="23"></location>
         <source>Display scalar bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalare Leiste anzeigen</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="30"></location>
         <source>Title properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel-Eigenschaften:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="45"></location>
         <source>Labels properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschaften von Etiketten:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="54"></location>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="64"></location>
         <source>Maximum number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Anzahl von Farben:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="81"></location>
         <source>Number of labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Etiketten:</translation>
     </message>
 </context>
 <context>
@@ -5591,7 +5625,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKScalarsToColorsComboBox.cpp" line="65"></location>
         <source>Select a color transfer function...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie eine Farbübertragungsfunktion aus...</translation>
     </message>
 </context>
 <context>
@@ -5599,62 +5633,62 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="14"></location>
         <source>ScalarsToColorsWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>ScalarsToColorsWidget</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="41"></location>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="54"></location>
         <source>Point ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Point ID</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="44"></location>
         <source>Point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Point:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="83"></location>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="96"></location>
         <source>X coordinate of the current point</source>
-        <translation type="unfinished"></translation>
+        <translation>X-Koordinate des aktuellen Punktes</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="86"></location>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="103"></location>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="116"></location>
         <source>Opacity of the current point</source>
-        <translation type="unfinished"></translation>
+        <translation>Opazität des aktuellen Punktes</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="106"></location>
         <source>O:</source>
-        <translation type="unfinished"></translation>
+        <translation>O:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="129"></location>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="142"></location>
         <source>Position of the midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Position des Mittelpunkts</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="132"></location>
         <source>M:</source>
-        <translation type="unfinished"></translation>
+        <translation>M:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="155"></location>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="168"></location>
         <source>Sharpness of the midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Schärfe des Mittelpunkts</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="158"></location>
         <source>S:</source>
-        <translation type="unfinished"></translation>
+        <translation>S:</translation>
     </message>
 </context>
 <context>
@@ -5662,67 +5696,67 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="14"></location>
         <source>vtkTextProperty</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkTextProperty</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="23"></location>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="33"></location>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="43"></location>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opazität:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="63"></location>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="71"></location>
         <source>Arial</source>
-        <translation type="unfinished"></translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="76"></location>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurier</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="81"></location>
         <source>Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeiten</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="89"></location>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="96"></location>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation>fett</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="103"></location>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>kursiv</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="110"></location>
         <source>shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schatten</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="117"></location>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe:</translation>
     </message>
 </context>
 <context>
@@ -5730,17 +5764,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="14"></location>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="26"></location>
         <source>Threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"></location>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opazität:</translation>
     </message>
 </context>
 <context>
@@ -5748,52 +5782,52 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="14"></location>
         <source>Volume property</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumeneigenschaft</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="23"></location>
         <source>Scalar Opacity Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalare Opazitätszuordnung</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="51"></location>
         <source>Scalar Color Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalare Farbabbildung</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="73"></location>
         <source>Gradient Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientenopazität</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"></location>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"></location>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolation:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="109"></location>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächster Nachbar</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="114"></location>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="122"></location>
         <source>Shade:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schatten:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="132"></location>
         <source>Material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Material:</translation>
     </message>
 </context>
 <context>
@@ -5801,17 +5835,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="87"></location>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="89"></location>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Weiter</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="90"></location>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Fertigstellen</translation>
     </message>
 </context>
 <context>
@@ -5819,12 +5853,12 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="20"></location>
         <source>Workflow</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsablauf</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="35"></location>
         <source>Step title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schritt-Titel</translation>
     </message>
 </context>
 <context>
@@ -5832,13 +5866,14 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="195"></location>
         <source>Playback ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiedergabe ...</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="196"></location>
         <source>The settings are different from the record Settings.
 Do you want to restore the settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Einstellungen unterscheiden sich von den Einstellungen für die Aufzeichnung.
+Möchten Sie die Einstellungen wiederherstellen?</translation>
     </message>
 </context>
 <context>
@@ -5846,82 +5881,82 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="14"></location>
         <source>Login Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmeldeprofile</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="26"></location>
         <source>Profiles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Profile:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="52"></location>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"></location>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"></location>
         <source>Login information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmeldeinformationen:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="106"></location>
         <source>Profile name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilname:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="119"></location>
         <source>Server URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server URI:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="132"></location>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzername:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="145"></location>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwort:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="162"></location>
         <source>Download Dir.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Download-Verzeichnis:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="169"></location>
         <source>Use as default</source>
-        <translation type="unfinished"></translation>
+        <translation>Als Standard verwenden</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"></location>
         <source>Missing XNAT server URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlende XNAT-Server-URI</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"></location>
         <source>Please enter XNAT server URI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte geben Sie die XNAT-Server-URI ein.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"></location>
         <source>Missing user name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlender Benutzername</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"></location>
         <source>Please enter user name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte geben Sie Ihren Benutzernamen ein.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="209"></location>
         <source>Invalid Login Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Anmeldung</translation>
     </message>
 </context>
 <context>
@@ -5929,101 +5964,102 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="14"></location>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptfenster</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="23"></location>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="90"></location>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="195"></location>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="33"></location>
         <source>Creates a new resource folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellt einen neuen Ressourcenordner</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="36"></location>
         <source>Add Resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Ressource hinzufügen</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="46"></location>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei hochladen</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="56"></location>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Herunterladen</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="69"></location>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht verbunden</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="85"></location>
         <source>Details</source>
-        <translation type="unfinished">Details</translation>
+        <translation>Details</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"></location>
         <source>Select a xnat file, resource, scan, or scan folder to download...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie eine xnat-Datei, eine Ressource, einen Scan oder einen Scan-Ordner zum Herunterladen aus...</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"></location>
         <source>&amp;File</source>
-        <translation type="unfinished">&amp;File</translation>
+        <translation>&amp;File</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="122"></location>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Quit</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="91"></location>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="196"></location>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Disconnected</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="102"></location>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Logout</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="103"></location>
         <source>Connected: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbunden: %1</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="163"></location>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei öffnen</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"></location>
         <source>Session Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Sitzungszeitüberschreitung</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"></location>
         <source>The session timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Sitzung ist abgelaufen.</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="205"></location>
         <source>Session Timeout Soon</source>
-        <translation type="unfinished"></translation>
+        <translation>Sitzung läuft bald ab</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="206"></location>
         <source>The session will time out in 1 minute.
 Do you want to renew the session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Sitzung läuft in 1 Minute ab.
+Möchten Sie die Sitzung verlängern?</translation>
     </message>
 </context>
 </TS>
