@@ -455,17 +455,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"></location>
         <source>useMomentsAlign</source>
-        <translation type="unfinished">useMomentsAlign</translation>
+        <translation>useMomentsAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"></location>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished">useCenterOfHeadAlign</translation>
+        <translation>useCenterOfHeadAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"></location>
         <source>useGeometryAlign</source>
-        <translation type="unfinished">useGeometryAlign</translation>
+        <translation>useGeometryAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"></location>
@@ -510,7 +510,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"></location>
         <source>SyN</source>
-        <translation type="unfinished"></translation>
+        <translation>SyN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"></location>
@@ -651,7 +651,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"></location>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"></location>
         <source>NOMASK</source>
-        <translation type="unfinished"></translation>
+        <translation>NOMASK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"></location>
@@ -661,7 +661,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"></location>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"></location>
@@ -732,13 +732,13 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"></location>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"></location>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>schwimmen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"></location>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"></location>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"></location>
@@ -748,27 +748,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"></location>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>kurz</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"></location>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"></location>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"></location>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"></location>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"></location>
@@ -1951,7 +1951,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"></location>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"></location>
@@ -1994,72 +1994,72 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"></location>
         <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie ein Schachbrettmuster aus zwei Volumes. Das Ausgabevolume zeigt die beiden Eingaben abwechselnd gemäß dem vom Benutzer angegebenen Schachbrettmuster (checkerPattern) an. Dieser Filter wird häufig zum Vergleich der Ergebnisse der Bildregistrierung verwendet. Beachten Sie, dass die zweite Eingabe vor der Zusammensetzung mit der ersten Eingabe auf denselben Ursprung, Abstand und Richtung neu berechnet wird. Der Skalartyp des Ausgabevolumes entspricht dem Skalartyp des Eingabebildes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"></location>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), die vom National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149, finanziert wird.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"></location>
         <source>CheckerBoard Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Schachbrettmuster-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"></location>
         <source>Parameters for the checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für das Schachbrettmuster</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"></location>
         <source>Checker Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Karomuster</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"></location>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Muster von Eingang 1 und Eingang 2 im Ausgabebild. Der Benutzer kann die Anzahl der Checker in jeder Dimension festlegen. Ein checkerPattern von 2,2,1 bedeutet, dass sich die Bilder in den ersten beiden Dimensionen abwechselnd alle zwei Checker ändern. Das gleiche Muster wird in der dritten Dimension verwendet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"></location>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"></location>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"></location>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Eingabe Volumen 1</translation>
+        <translation>Eingabe Volumen 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"></location>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Eingabe Volumen 2</translation>
+        <translation>Eingabe Volumen 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"></location>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"></location>
         <source>First Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Eingabemenge</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="17"></location>
         <source>Second Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Zweite Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"></location>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe gefiltert</translation>
     </message>
 </context>
 <context>
@@ -2067,77 +2067,77 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"></location>
         <source>Create a DICOM Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie eine DICOM-Serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"></location>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie eine DICOM-Serie aus einem Slicer-Volumen. Der Benutzer kann Werte für ausgewählte DICOM-Tags in der Benutzeroberfläche festlegen. Angesichts der Anzahl der Tags, die DICOM-Serien haben, ist es unmöglich, alle Tags in der Benutzeroberfläche anzuzeigen. Daher können nur wichtige Tags vom Benutzer festgelegt werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"></location>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Befehlsmodul wurde aus Insight/Examples (Copyright) Insight Software Consortium abgeleitet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"></location>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"></location>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"></location>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Abtastrate des Eingangssignals</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"></location>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"></location>
         <source>Output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"></location>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Verzeichnis</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"></location>
         <source>DICOM filename prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Dateinamenpräfix</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"></location>
         <source>DICOM file number format</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Dateinummernformat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"></location>
         <source>Reverse Slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Umgekehrte Scheiben</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"></location>
         <source>Use Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Komprimierung verwenden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"></location>
         <source>Output Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabetyp:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"></location>
