@@ -479,12 +479,12 @@ Após a criação da curva, a visibilidade dos nomes pode ser especificada por m
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="132"/>
         <source>Input centerlines of the tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira as linhas centrais da árvore.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="152"/>
         <source>Select a model node</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um nó modelo</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="169"/>
@@ -499,12 +499,12 @@ Após a criação da curva, a visibilidade dos nomes pode ser especificada por m
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
         <source>ClipVessel</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipVessel</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="210"/>
@@ -514,12 +514,12 @@ Após a criação da curva, a visibilidade dos nomes pode ser especificada por m
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="216"/>
         <source>Result of clipping input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado do modelo de entrada de recorte</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="227"/>
         <source>Output surface model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de superfície de saída</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="252"/>
@@ -589,17 +589,17 @@ Após a criação da curva, a visibilidade dos nomes pode ser especificada por m
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="411"/>
         <source>Add Flow Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar extensões de fluxo:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="418"/>
         <source>Check if flow extensions are desired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifique se as extensões de fluxo são desejadas.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="431"/>
         <source>Extension length</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento da extensão</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="441"/>
