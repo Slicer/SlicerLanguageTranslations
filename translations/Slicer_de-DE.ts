@@ -485,12 +485,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"></location>
         <source>Rigid (6 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Starr (6 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="38"></location>
         <source>Rigid+Scale(7 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Starr + Skalierung (7 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"></location>
@@ -1579,32 +1579,32 @@ BEACHTEN SIE, dass empfohlen wird, anstelle dieser Option samplingPercentage zu 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"></location>
         <source>Advanced Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Option</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="52"></location>
         <source>Add Grids</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitter hinzufügen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"></location>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation type="unfinished"></translation>
+        <translation>Fügen Sie dem Ausgabebild ein verzerrtes Gitter hinzu, um die mit dem angegebenen Abstand aufgetretene Verformung darzustellen.   Ein Abstand von 0 in einer Dimension bedeutet, dass die Gitterlinien so gerendert werden sollen, dass sie genau aufeinander fallen (d. h. keine Verschiebungen außerhalb dieser Ebene zulassen).  Dies ist nützlich, um aus dem 3D-Raum ein 2D-Bild der Gitterlinien zu erstellen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"></location>
         <source>Multiprocessing Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiprozesssteuerung</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"></location>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Threads</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"></location>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie die maximale Anzahl der zu verwendenden Threads explizit an.</translation>
     </message>
 </context>
 <context>
@@ -1612,39 +1612,41 @@ BEACHTEN SIE, dass empfohlen wird, anstelle dieser Option samplingPercentage zu 
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"></location>
         <source>Resize Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildgröße ändern (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"></location>
         <source>
 This program is useful for downsampling an image by a constant scale factor.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dieses Programm ist nützlich, um ein Bild mit einem konstanten Skalierungsfaktor zu verkleinern.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"></location>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Die Entwicklung dieses Tools wurde durch Fördermittel der National Institute of Neurological Disorders and Stroke (NS050568 und NS40068) und der National Institute of Mental Health (MH31593 und MH40856) unterstützt.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"></location>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingänge</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"></location>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter zur Festlegung des zu verzerrenden Bildes und des resultierenden Bildraums</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"></location>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild verzerren</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"></location>
         <source>Image To Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild maßstabsgetreu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"></location>
@@ -1654,27 +1656,27 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"></location>
         <source>Resulting scaled image parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultierende Bildskalierungsparameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"></location>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabebild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"></location>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixeltyp</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"></location>
         <source>Resulting scaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Das resultierende skalierte Bild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"></location>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legt den Pixeltyp für die Eingabe-/Ausgabebilder fest. Der Pixeltyp „binär“ verwendet einen modifizierten Algorithmus, bei dem das Bild als unsigned char eingelesen wird, eine signierte Distanzkarte erstellt wird, die signierte Distanzkarte neu berechnet wird und anschließend ein Schwellenwertbild vom Typ unsigned char auf die Festplatte geschrieben wird.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"></location>
@@ -1700,37 +1702,37 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"></location>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"></location>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"></location>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>binär</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="25"></location>
         <source>Scaling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierungsparameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"></location>
         <source>Parameters used to define the scaling of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter zur Definition der Skalierung des Ausgabebildes</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"></location>
         <source>Scale Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierungsfaktor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"></location>
         <source>The scale factor for the image spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Skalierungsfaktor für den Bildabstand.</translation>
     </message>
 </context>
 <context>
@@ -1738,12 +1740,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"></location>
         <source>Strip Rotation (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Streifenrotation (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"></location>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Bild lesen, dasselbe Bild mit Identitätsrotationsmatrix und einer ITK-Transformationsdatei schreiben</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"></location>
@@ -1754,27 +1756,27 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"></location>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"></location>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild verzerren</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"></location>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabebild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"></location>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei umwandeln</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"></location>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Das resultierende verzerrte Bild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"></location>
         <source>Filename for the transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateiname für die Transformationsdatei</translation>
     </message>
 </context>
 <context>
@@ -1782,18 +1784,19 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"></location>
         <source>Transform Convert (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformieren Konvertieren (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"></location>
         <source>Convert ITK transforms to higher order transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>ITK-Transformationen in Transformationen höherer Ordnung umwandeln</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"></location>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"></location>
@@ -1808,38 +1811,38 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"></location>
         <source>Transform File Name To Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateinamen zur Konvertierung umwandeln</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"></location>
         <source>Reference image</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzbilder</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"></location>
         <source>Output displacement field</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangsverschiebungsfeld</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"></location>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateinamen zum Speichern ConvertedTransform</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"></location>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Zieltransformationstyp. Muss mit dem Eingabetransformationstyp konvertierungskompatibel sein</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"></location>
         <source>Precision type of the output transform. It can be either single precision or double precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Genauigkeitstyp der Ausgangstransformation. Es kann sich entweder um einfache Genauigkeit oder doppelte Genauigkeit handeln</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"></location>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="18"></location>
         <source>Affine</source>
-        <translation type="unfinished"></translation>
+        <translation>Affin</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"></location>
@@ -1850,27 +1853,27 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"></location>
         <source>VersorRigid</source>
-        <translation type="unfinished"></translation>
+        <translation>VersorRigid</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"></location>
         <source>ScaleVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalenversor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"></location>
         <source>ScaleSkewVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleSkewVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"></location>
         <source>DisplacementField</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DisplacementField</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"></location>
         <source>Same</source>
-        <translation type="unfinished"></translation>
+        <translation>Gleich</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"></location>
@@ -1883,14 +1886,16 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"></location>
         <source>Cast Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegossenes skalares Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"></location>
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wandeln Sie ein Volumen in einen bestimmten Datentyp um.
+Die Umwandlung eines Eingabevolumens in einen Typ mit geringerer Genauigkeit erfolgt auf eigene Gefahr!
+Ermöglicht die Umwandlung in denselben Typ wie das Eingabevolumen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"></location>
@@ -1910,7 +1915,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"></location>
@@ -1920,33 +1925,33 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"></location>
         <source>Input volume, the volume to cast.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke, die Lautstärke, die übertragen werden soll.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"></location>
         <source>Output volume, cast to the new type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabevolumen, auf den neuen Typ umgewandelt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"></location>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtereinstellungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"></location>
         <source>Output Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabetyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"></location>
         <source>Scalar data type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalare Datentyp für das neue Ausgabevolumen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"></location>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"></location>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"></location>
@@ -1956,32 +1961,32 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"></location>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurz</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"></location>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"></location>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"></location>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"></location>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwimmer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"></location>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelt</translation>
     </message>
 </context>
 <context>
@@ -1989,7 +1994,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"></location>
         <source>CheckerBoard Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Schachbrettfilter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"></location>
@@ -2142,527 +2147,527 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"></location>
         <source>The directory to contain the DICOM series.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Verzeichnis, das die DICOM-Serie enthalten soll.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"></location>
         <source>The prefix of the DICOM filename.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Präfix des DICOM-Dateinamens.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"></location>
         <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das printf-Format, das beim Erstellen des DICOM-Dateinamens pro Slice verwendet werden soll. Das führende %-Zeichen kann weggelassen werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"></location>
         <source>Reverse the slices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Scheiben umdrehen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"></location>
         <source>Compress the output pixel data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komprimieren Sie die Ausgabepixeldaten.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"></location>
         <source>Type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie das neue Ausgabevolumen ein.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"></location>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"></location>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurz</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"></location>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"></location>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"></location>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"></location>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"></location>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"></location>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"></location>
         <source>Patient Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientendaten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="34"></location>
         <source>Parameters that apply to a patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die für einen Patienten gelten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="35"></location>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Patienten Namen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="36"></location>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Patienten ID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="37"></location>
         <source>Patient Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Geburtsdatum des Patienten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="38"></location>
         <source>Patient Sex</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschlecht des Patienten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="39"></location>
         <source>Patient Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare von Patienten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="40"></location>
         <source>The name of the patient (0010,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Name des Patienten (0010,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"></location>
         <source>The patient ID (0010,0020). If set to [random] then a random ID will be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Patienten-ID (0010,0020). Wenn auf [zufällig] eingestellt, wird eine zufällige ID generiert.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"></location>
         <source>Patient birth date (0010,0030) in the format YYYYMMDD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geburtsdatum des Patienten (0010,0030) im Format JJJJMMTT.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="43"></location>
         <source>Patient sex (0010,0040). M=male, F=female, O=other, [unknown]=not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschlecht des Patienten (0010,0040). M = männlich, F = weiblich, O = Sonstiges, [unbekannt] = nicht angegeben</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="44"></location>
         <source>Patient comments (0010,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientenkommentare (0010,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="45"></location>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="46"></location>
         <source>[unknown]</source>
-        <translation type="unfinished"></translation>
+        <translation>[unbekannt]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="47"></location>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="48"></location>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="49"></location>
         <source>O</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="50"></location>
         <source>Study Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Studienparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="51"></location>
         <source>Parameters that apply to a study</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die für eine Studie gelten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="52"></location>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Studien-ID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"></location>
         <source>Study Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Untersuchungsdatum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"></location>
         <source>Study Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Lernzeit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"></location>
         <source>Study Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Studienkommentare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"></location>
         <source>Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Studienbeschreibungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="57"></location>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalität</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="58"></location>
         <source>Manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hersteller</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"></location>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"></location>
         <source>The study ID (0020,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Studien-ID (0020,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"></location>
         <source>The date of the study (0008,0020) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Datum der Studie (0008,0020) im Format JJJJMMTT. Bei der Einstellung „[jetzt]“ wird das aktuelle Datum verwendet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"></location>
         <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Uhrzeit der Studie (0008,0030) im Format HHMMSS. Bei der Einstellung „[jetzt]“ wird die aktuelle Uhrzeit verwendet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"></location>
         <source>Study comments (0032,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Studienkommentare (0032,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="64"></location>
         <source>Study description (0008,1030)</source>
-        <translation type="unfinished"></translation>
+        <translation>Studienbeschreibung (0008,1030)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"></location>
         <source>Modality (0008,0060)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalität (0008,0060)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="66"></location>
         <source>Manufacturer (0008,0070)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hersteller (0008,0070)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="67"></location>
         <source>model (0008,1090)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell (0008,1090)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="68"></location>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"></location>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"></location>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="71"></location>
         <source>NM</source>
-        <translation type="unfinished"></translation>
+        <translation>NM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"></location>
         <source>US</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">US</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"></location>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>CR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"></location>
         <source>SC</source>
-        <translation type="unfinished"></translation>
+        <translation>SC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"></location>
         <source>Series Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Serienparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"></location>
         <source>Parameters that apply to a series</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die für eine Serie gelten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="77"></location>
         <source>Series Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriennummer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="78"></location>
         <source>Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Serienbeschreibungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="79"></location>
         <source>Series Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Serie-Datum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="80"></location>
         <source>Series Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Serienzeit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="81"></location>
         <source>Patient Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Patient-Position:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"></location>
         <source>The series number (0020,0011)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Seriennummer (0020,0011)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"></location>
         <source>Series description (0008,103E)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serienbeschreibung (0008,103E)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"></location>
         <source>The date of the series (0008,0021) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Datum der Serie (0008,0021) im Format JJJJMMTT. Bei der Einstellung „[jetzt]“ wird das aktuelle Datum verwendet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"></location>
         <source>The time of the series (0008,0031) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Uhrzeit der Serie (0008,0031) im Format HHMMSS. Bei der Einstellung „[now]“ wird die aktuelle Uhrzeit verwendet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="86"></location>
         <source>Patient position descriptor relative to the equipment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschreibung der Patientenposition in Bezug auf das Gerät.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="87"></location>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"></location>
         <source>HFS</source>
-        <translation type="unfinished"></translation>
+        <translation>HFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"></location>
         <source>HFP</source>
-        <translation type="unfinished"></translation>
+        <translation>HFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"></location>
         <source>HFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>HFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="91"></location>
         <source>HFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>HFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"></location>
         <source>FFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>FFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"></location>
         <source>FFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>FFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"></location>
         <source>FFP</source>
-        <translation type="unfinished"></translation>
+        <translation>FFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"></location>
         <source>FFS</source>
-        <translation type="unfinished"></translation>
+        <translation>FFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="96"></location>
         <source>LFP</source>
-        <translation type="unfinished"></translation>
+        <translation>LFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="97"></location>
         <source>LFS</source>
-        <translation type="unfinished"></translation>
+        <translation>LFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="98"></location>
         <source>RFP</source>
-        <translation type="unfinished"></translation>
+        <translation>RFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"></location>
         <source>RFS</source>
-        <translation type="unfinished"></translation>
+        <translation>RFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"></location>
         <source>AFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>AFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="101"></location>
         <source>AFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>AFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="102"></location>
         <source>PFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>PFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="103"></location>
         <source>PFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>PFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"></location>
         <source>Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"></location>
         <source>Parameters that apply to the images and data in each image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die für die Bilder und Daten in jedem Bild gelten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"></location>
         <source>Window center</source>
-        <translation type="unfinished"></translation>
+        <translation>Fensterzentrum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="107"></location>
         <source>Window width</source>
-        <translation type="unfinished"></translation>
+        <translation>Fensterbreite</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="108"></location>
         <source>Rescale intercept</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuskalierung des Schnittpunkts</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="109"></location>
         <source>Rescale slope</source>
-        <translation type="unfinished"></translation>
+        <translation>Neigung skalieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="110"></location>
         <source>Rescale Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierungstyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="111"></location>
         <source>Content Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhalt Datum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="112"></location>
         <source>Content Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhalt Zeit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"></location>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fensterzentrum (0028,1050). Geben Sie eine lineare Umrechnung von gespeicherten Pixelwerten (nach Anwendung von „Rescale Slope“ und „Intercept“) zu den anzuzeigenden Werten an. Das Fensterzentrum enthält den Eingabewert, der dem Mittelpunkt des Fensters entspricht. Wenn entweder das Fensterzentrum oder die Breite nicht definiert ist, wird das Fenster auf den gesamten Intensitätsbereich des Bildes eingestellt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"></location>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fensterbreite (0028,1051). Geben Sie eine lineare Umrechnung von gespeicherten Pixelwerten (nach Anwendung von „Rescale Slope“ und „Intercept“) in anzuzeigende Werte an. Die Fensterbreite enthält die Breite des Fensters. Wenn entweder die Fenster-Mitte oder die Breite nicht definiert ist, wird das Fenster auf den gesamten Intensitätsbereich des Bildes eingestellt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"></location>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierungsabschnitt (0028,1052). Konvertiert Pixelwerte auf der Festplatte in Pixelwerte im Speicher. (Pixelwert im Speicher) = (Pixelwert auf der Festplatte) * Skalierungsslope + Skalierungsabschnitt. Der Standardwert ist 0,0. Die Datenwerte werden beim Schreiben konvertiert (die Daten werden skaliert und verschoben, sodass sie durch den Slope und den Abschnitt wieder in den aktuellen Intensitätsbereich gebracht werden).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"></location>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Neigung neu skalieren (0028,1053). Konvertiert Pixelwerte auf der Festplatte in Pixelwerte im Speicher. (Pixelwert im Speicher) = (Pixelwert auf der Festplatte) * rescaleSlope + rescaleInterscept.  Der Standardwert ist 1,0. Die Datenwerte werden beim Schreiben konvertiert (die Daten werden so skaliert und verschoben, dass die Neigung und der Schnittpunkt sie wieder in den aktuellen Intensitätsbereich bringen).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"></location>
         <source>Specifies the output units of the rescaled image (0008,1054). Leave it blank to set it automatically (Hounsfield unit for CT, unspecified for others).</source>
-        <translation type="unfinished"></translation>
+        <translation>Gibt die Ausgabeeinheiten des neu skalierten Bildes an (0008,1054). Lassen Sie das Feld leer, um die Einstellung automatisch vorzunehmen (Hounsfield-Einheit für CT, nicht angegeben für andere).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"></location>
         <source>The date of the image content (0008,0023) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Datum des Bildinhalts (0008,0023) im Format JJJJMMTT. Bei der Einstellung „[jetzt]“ wird das aktuelle Datum verwendet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"></location>
         <source>The time of the image content (0008,0033) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Zeitangabe des Bildinhalts (0008,0033) im Format HHMMSS. Bei der Einstellung „[jetzt]“ wird die aktuelle Uhrzeit verwendet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"></location>
         <source>Unique Identifiers (UIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindeutige Identifikatoren (UIDs)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"></location>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindeutige Identifikatoren (UIDs), mit denen Frames an bestehende Studien oder Serien angehängt werden können. Um UIDs automatisch zu generieren, lassen Sie alle Felder leer.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"></location>
         <source>Study Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Studieninstanz-UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"></location>
         <source>Series Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Serieninstanz-UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"></location>
         <source>Frame of Reference UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezugsrahmen UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"></location>
         <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Studieninstanz-UID (0020,000d). Lassen Sie das Feld leer, um UIDs automatisch generieren zu lassen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"></location>
         <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Serieninstanz-UID (0020,000e). Lassen Sie das Feld leer, um UIDs automatisch zu generieren.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"></location>
         <source>The frame of reference UID (0020,0052). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Referenzrahmen UID (0020,0052). Lassen Sie das Feld leer, um UIDs automatisch zu generieren.</translation>
     </message>
 </context>
 <context>
@@ -2670,7 +2675,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="5"></location>
         <source>Curvature Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>Anisotrope Krümmungsdiffusion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"></location>
@@ -2684,54 +2689,58 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Führt eine anisotrope Diffusion auf einem Bild unter Verwendung einer modifizierten Krümmungsdiffusionsgleichung (MCDE) durch.
+
+MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotropen Diffusion auf, die unter bestimmten Bedingungen eine „negative“ Diffusion durchlaufen kann, wodurch der Kontrast der Kanten verstärkt wird. Gleichungen der Form von MCDE durchlaufen immer eine positive Diffusion, wobei der Leitfähigkeitsterm nur die Stärke dieser Diffusion variiert. 
+
+ Qualitativ ist MCDE mit anderen nichtlinearen Diffusionstechniken gut vergleichbar. Sie ist weniger kontrastempfindlich als die klassische Diffusion nach Perona-Malik und bewahrt feinere Detailstrukturen in Bildern. Die Verwendung dieser Funktion anstelle der anisotropen Gradientendiffusion kann zu Einbußen bei der Geschwindigkeit führen. Jede Iteration der Lösung dauert etwa doppelt so lange. Es sind jedoch möglicherweise weniger Iterationen erforderlich, um eine akzeptable Lösung zu erreichen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"></location>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Befehlsmodul wurde aus Insight/Examples (Copyright) Insight Software Consortium abgeleitet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"></location>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Anisotrope Diffusionsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="9"></location>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für den anisotropen Diffusionsalgorithmus</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="10"></location>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="14"></location>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation>Leitfähigkeit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="11"></location>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iterationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="12"></location>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="17"></location>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Schrittzeit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"></location>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Leitfähigkeit steuert die Empfindlichkeit des Leitfähigkeitsterms. Als Faustregel gilt: Je niedriger der Wert, desto stärker bewahrt der Filter Kanten. Ein hoher Wert führt zu einer Diffusion (Glättung) über Kanten hinweg. Beachten Sie, dass die Anzahl der Iterationen steuert, wie stark innerhalb der durch Kanten begrenzten Bereiche geglättet wird.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"></location>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je mehr Iterationen, desto mehr Glättung. Jede Iteration dauert gleich lang. Wenn eine Iteration 10 Sekunden dauert, dauert es für 10 Iterationen 100 Sekunden. Beachten Sie, dass die Leitfähigkeit steuert, wie stark jede Iteration über Kanten hinweg glättet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"></location>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Zeitschritt hängt von der Dimensionalität des Bildes ab. In Slicer sind die Bilder dreidimensional, und der Standard-Zeitschritt (.0625) liefert eine stabile Lösung.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"></location>
@@ -2746,7 +2755,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"></location>
@@ -2756,12 +2765,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"></location>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu filternde Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"></location>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe gefiltert</translation>
     </message>
 </context>
 <context>
@@ -2769,275 +2778,276 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="5"></location>
         <source>Diffusion-weighted DICOM Import (DWIConvert)</source>
-        <translation type="unfinished"></translation>
+        <translation>Diffusionsgewichteter DICOM-Import (DWIConvert)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"></location>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertiert diffusionsgewichtete MR-Bilder in DICOM-Serien in das NRRD-Format zur Analyse in Slicer. Dieses Programm wurde nur mit einer begrenzten Auswahl an DTI-DICOM-Formaten getestet, die von Siemens-, GE- und Philips-Scannern verfügbar sind. Die Unterstützung von DICOM-Multi-Frame-Daten ist in Arbeit. Das Programm analysiert den DICOM-Header, um die erforderlichen Informationen über den Messrahmen, die Diffusionsgewichtungsrichtungen, die b-Werte usw. zu extrahieren und ein NRRD-Bild zu schreiben. Bei nicht diffusionsgewichteten DICOM-Bildern lädt es eine gesamte DICOM-Serie und schreibt ein einzelnes DICOM-Volumen in einem .nhdr/.raw-Paar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"></location>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Additional support for DTI data produced on Philips scanners was contributed by Vincent Magnotta and Hans Johnson at the University of Iowa.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), die vom National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149, finanziert wird.  Zusätzliche Unterstützung für die mit Philips-Scannern erstellten DTI-Daten wurde von Vincent Magnotta und Hans Johnson von der University of Iowa geleistet.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"></location>
         <source>Conversion Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertierungsoptionen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="9"></location>
         <source>Options that are used for all conversion modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen, die für alle Konvertierungsmodi verwendet werden</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="10"></location>
         <source>Input DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe DWI-Volumendatei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="11"></location>
         <source>Output DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe DWI-Volumendatei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"></location>
         <source>Determine which conversion to perform. DicomToNrrd (default): Convert DICOM series to NRRD DicomToFSL: Convert DICOM series to NIfTI File + gradient/bvalue text files NrrdToFSL: Convert DWI NRRD file to NIfTI File + gradient/bvalue text files FSLToNrrd: Convert NIfTI File + gradient/bvalue text files to NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie fest, welche Konvertierung durchgeführt werden soll. DicomToNrrd (Standard): Konvertieren Sie DICOM-Serien in NRRD DicomToFSL: Konvertieren Sie DICOM-Serien in NIfTI-Dateien + Gradienten-/bvalue-Textdateien NrrdToFSL: Konvertieren Sie DWI-NRRD-Dateien in NIfTI-Dateien + Gradienten-/bvalue-Textdateien FSLToNrrd: Konvertieren Sie NIfTI-Dateien + Gradienten-/bvalue-Textdateien in NRRD-Dateien.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"></location>
         <source>Input DWI volume -- not used for DicomToNrrd mode.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>DWI-Volumen eingeben – wird im Modus „DicomToNrrd“ nicht verwendet.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"></location>
         <source>Output filename (.nhdr or .nrrd)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabedateiname (.nhdr oder .nrrd)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"></location>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"></location>
         <source>DicomToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>DicomToNrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"></location>
         <source>DicomToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>DicomToFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="18"></location>
         <source>NrrdToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>NrrdToFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="19"></location>
         <source>FSLToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>FSLToNrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"></location>
         <source>Dicom To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicom-zu-Nrrd-Konvertierungsparameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"></location>
         <source>Parameters for Dicom to NRRD Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für die Konvertierung von Dicom zu NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"></location>
         <source>Input Dicom Data Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-Dicom-Datenverzeichnis</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"></location>
         <source>Directory holding Dicom series</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis mit Dicom-Serien</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"></location>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="25"></location>
         <source>NiftiFSL To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>NiftiFSL-zu-Nrrd-Konvertierungsparameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="26"></location>
         <source>FSL NIfTI File</source>
-        <translation type="unfinished"></translation>
+        <translation>FSL NIfTI-Datei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"></location>
         <source>Input bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe bval Datei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"></location>
         <source>Input bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe der Datei „bvec“</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"></location>
         <source>4D NIfTI file containing gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>4D-NIfTI-Datei mit Gradientenvolumina</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"></location>
         <source>The B Values are stored in FSL .bval text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Die B-Werte werden im FSL-Textdateiformat .bval gespeichert</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="31"></location>
         <source>The Gradient Vectors are stored in FSL .bvec text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Gradientenvektoren werden im FSL-Textdateiformat .bvec gespeichert</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="32"></location>
         <source>Nrrd To NiftiFSL Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Nrrd-zu-NiftiFSL-Konvertierungsparameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="33"></location>
         <source>Nrrd To NiftiFSL (NrrdToFSL) Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Nrrd-zu-NiftiFSL-Konvertierungsparameter (NrrdToFSL)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"></location>
         <source>Output nii file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe nii-Datei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"></location>
         <source>Output bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe der bval-Datei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"></location>
         <source>Output bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe der bvec-Datei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"></location>
         <source>Nifti output filename (for Slicer GUI use).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nifti-Ausgabedateiname (für die Verwendung mit der Slicer-Benutzeroberfläche).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="38"></location>
         <source>The B Values are stored in FSL .bval text file format (defaults to &lt;outputVolume&gt;.bval)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die B-Werte werden im FSL-Textdateiformat .bval gespeichert (Standard: &lt;outputVolume&gt;.bval)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="39"></location>
         <source>The Gradient Vectors are stored in FSL .bvec text file format (defaults to &lt;outputVolume&gt;.bvec)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Gradientenvektoren werden im FSL-Textdateiformat .bvec gespeichert (Standard: &lt;outputVolume&gt;.bvec)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="40"></location>
         <source>Advanced Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Konvertierungsparameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"></location>
         <source>Options to control the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen zur Steuerung der Ausgabe.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"></location>
         <source>Write Protocol Gradients File</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokoll-Gradienten-Datei schreiben</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"></location>
         <source>Use Identity Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Identitätsmessungsrahmen verwenden</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="44"></location>
         <source>Use BMatrix Gradient Directions</source>
-        <translation type="unfinished"></translation>
+        <translation>BMatrix-Gradientenrichtungen verwenden</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"></location>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabeverzeichnisse</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"></location>
         <source>Small Gradient Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleiner Gradientenschwellenwert</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"></location>
         <source>Transpose Input BVectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-BVektoren transponieren</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"></location>
         <source>Allow lossy image conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlustbehaftete Bildkonvertierung zulassen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"></location>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreiben Sie die Protokollgradienten in eine Datei mit der Endung „.txt“, wie sie im Protokoll angegeben sind, indem Sie jede Diffusionsgradientenrichtung mit dem Messrahmen multiplizieren. Diese Datei dient ausschließlich zu Debugging-Zwecken, das Format ist nicht festgelegt und wird sich wahrscheinlich ändern, da neue DICOM-Formate debuggt werden müssen.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"></location>
         <source>Adjust all the gradients so that the measurement frame is an identity matrix.</source>
-        <translation type="unfinished"></translation>
+        <translation>Passen Sie alle Gradienten so an, dass der Messrahmen eine Identitätsmatrix ist.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"></location>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Füllen Sie den nhdr-Header mit den aus der BMatrix berechneten Gradientenrichtungen und b-Werten. Dies ändert nur das Verhalten für Siemens-Daten.  In einigen Fällen werden die öffentlichen Standardgradienten nicht korrekt berechnet.  Die Gradienten können empirisch aus den privaten BMatrix-Feldern berechnet werden.  In einigen Fällen stimmt die private BMatrix mit den öffentlichen Gradienten überein, aber nicht in allen Fällen. Wenn eine BMatrix vorhanden ist, ist diese in der Regel am robustesten.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"></location>
         <source>Directory holding the output NRRD file</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis, in dem die NRRD-Ausgabedatei gespeichert ist</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"></location>
         <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn die Gradientenstärke größer als 0 und kleiner als smallGradientThreshold ist, zeigt DWIConvert eine Fehlermeldung an und wird beendet, es sei denn, die Option useBMatrixGradientDirections ist aktiviert.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"></location>
         <source>FSL input BVectors are expected to be encoded in the input file as one vector per line. If it is not the case, use this option to transpose the file as it is read</source>
-        <translation type="unfinished"></translation>
+        <translation>FSL-Eingabedaten BVectors sollten in der Eingabedatei als ein Vektor pro Zeile kodiert sein. Ist dies nicht der Fall, verwenden Sie diese Option, um die Datei beim Einlesen zu transponieren</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"></location>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>Der einzige unterstützte Ausgabetyp ist „short“. Die Konvertierung von Bildern eines anderen Typs kann aufgrund von Rundungen oder Abschneidungen zu Datenverlusten führen. Mit Vorsicht verwenden!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"></location>
         <source>DEPRECATED THESE DO NOT WORK</source>
-        <translation type="unfinished"></translation>
+        <translation>VERALTET DIESE FUNKTIONIEREN NICHT</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"></location>
         <source>Gradient Vector File</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientenvektordatei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"></location>
         <source>Output fMRI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe der fMRI-Datei</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"></location>
         <source>DEPRECATED:  Use --inputBVector --inputBValue files Text file giving gradient vectors</source>
-        <translation type="unfinished"></translation>
+        <translation>DEPRECATED: . . Use --inputBVector --inputBValue files Text file giving gradient vectors</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"></location>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation type="unfinished"></translation>
+        <translation>VERALTET:  Keine Unterstützung oder Tests.  Gibt eine NRRD-Datei aus, jedoch ohne Gradienten.</translation>
     </message>
 </context>
 <context>
@@ -3045,12 +3055,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="4"></location>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausführungsmodell-Tour</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="5"></location>
         <source>Shows one of each type of parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeigt jeweils einen Parameter jedes Typs an.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"></location>
@@ -3060,82 +3070,82 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"></location>
         <source>Scalar Parameters (árvíztűrő tükörfúrógép)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalare Parameter (árvíztűrő tükörfúrógép)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="8"></location>
         <source>Variations on scalar parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variationen bei skalaren Parametern</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="9"></location>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Integer-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="10"></location>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"></location>
         <source>An integer without constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine ganze Zahl ohne Einschränkungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="12"></location>
         <source>A double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Doppelzimmer mit Einschränkungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"></location>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Vektorparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="14"></location>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variationen der Vektorparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"></location>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Float-Vektor-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"></location>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenfolgenvektor-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"></location>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Vektor aus Fließkommazahlen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"></location>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Vektor von Zeichenfolgen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="19"></location>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzählungsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="20"></location>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variationen bei den Aufzählungsparametern</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="21"></location>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenfolgenaufzählung Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="22"></location>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Aufzählung von Zeichenfolgen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="23"></location>
@@ -3143,37 +3153,37 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="123"></location>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="126"></location>
         <source>Bill</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechnung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="24"></location>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="124"></location>
         <source>Ron</source>
-        <translation type="unfinished"></translation>
+        <translation>Ron</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="25"></location>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="125"></location>
         <source>Eric</source>
-        <translation type="unfinished"></translation>
+        <translation>Eric</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="27"></location>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="127"></location>
         <source>Ross</source>
-        <translation type="unfinished"></translation>
+        <translation>Ross</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="28"></location>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="128"></location>
         <source>Steve</source>
-        <translation type="unfinished"></translation>
+        <translation>Steve</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="29"></location>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="129"></location>
         <source>Will</source>
-        <translation type="unfinished"></translation>
+        <translation>Will</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="30"></location>
@@ -3184,12 +3194,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"></location>
         <source>Boolean Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Boolesche Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="32"></location>
         <source>Variations on boolean parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variationen bei booleschen Parametern</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"></location>
@@ -3199,12 +3209,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"></location>
         <source>Boolean Default false</source>
-        <translation type="unfinished"></translation>
+        <translation>Boolescher Standardwert falsch</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"></location>
         <source>Boolean No Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Boolesche Variable Kein Standardwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"></location>
@@ -3219,117 +3229,117 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"></location>
         <source>A boolean with no default, should be defaulting to false</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Boolescher Wert ohne Standardwert sollte standardmäßig auf „false“ gesetzt sein</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"></location>
         <source>File, Directory and Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei-, Verzeichnis- und Bildparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"></location>
         <source>Parameters that describe files and directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die Dateien und Verzeichnisse beschreiben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="41"></location>
         <source>Input file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabedatei</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="42"></location>
         <source>Input Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabedateien</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="43"></location>
         <source>Output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabedatei</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="44"></location>
         <source>Input directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabeverzeichnis</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"></location>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabebild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"></location>
         <source>Input 4D Image</source>
-        <translation type="unfinished"></translation>
+        <translation>4D-Bild eingeben</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"></location>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabebilder</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"></location>
         <source>An input file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Eingabedatei</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="49"></location>
         <source>Multiple input files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehrere Eingabedateien</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="50"></location>
         <source>An output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Ausgabedatei</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="51"></location>
         <source>An input directory. If no default is specified, the current directory is used,</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Eingabeverzeichnis. Wenn kein Standard angegeben ist, wird das aktuelle Verzeichnis verwendet,</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"></location>
         <source>An input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Eingabebild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"></location>
         <source>Input 4D Image (txyz)</source>
-        <translation type="unfinished"></translation>
+        <translation>4D-Bild eingeben (txyz)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"></location>
         <source>An output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Ausgabebild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"></location>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"></location>
         <source>Parameters that describe transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die Transformationen beschreiben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="57"></location>
         <source>Input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabetransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"></location>
         <source>Input transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangs-Transformation linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"></location>
         <source>Input transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabetransformation nichtlinear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"></location>
         <source>Input transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabetransformation B-Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"></location>
@@ -3339,117 +3349,117 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"></location>
         <source>Output transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangstransformation linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="63"></location>
         <source>Output transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangstransformation nichtlinear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"></location>
         <source>Output transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe-Transformation B-Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"></location>
         <source>A generic input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine generische Eingabetransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"></location>
         <source>A linear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine lineare Eingangstransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"></location>
         <source>A nonlinear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine nichtlineare Eingangstransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"></location>
         <source>A bspline input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine B-Spline-Eingabetransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"></location>
         <source>A generic output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine generische Ausgabetransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"></location>
         <source>A linear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine lineare Ausgangstransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"></location>
         <source>A nonlinear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine nichtlineare Ausgangstransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"></location>
         <source>A bspline output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine B-Spline-Ausgangstransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"></location>
         <source>Point Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"></location>
         <source>Parameters that describe point sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die Punktmengen beschreiben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"></location>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Seeds</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="76"></location>
         <source>Seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>Seeds-Datei</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="77"></location>
         <source>Output seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe der Saatgutdatei</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"></location>
         <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Listen von Punkten in der CLI entsprechen den Referenzlisten des Slicers</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"></location>
         <source>Test file of input fiducials, compared to seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Testdatei mit Eingabe-Passermarken im Vergleich zu Seeds</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"></location>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabedatei zum Zurücklesen, Vergleich mit Seeds mit umgekehrten Einstellungen beim ersten Referenzpunkt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"></location>
         <source>Geometry Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometrieparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="82"></location>
         <source>Parameters that describe models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die Modelle beschreiben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="83"></location>
         <source>Input Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabemodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"></location>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangsmodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"></location>
@@ -3459,62 +3469,62 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"></location>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabemodelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"></location>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabemodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"></location>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generierte Modelle unter einem Modellhierarchieknoten. Modelle werden unter einem Modellhierarchieknoten in Slicer importiert. Der Modellhierarchieknoten muss vor dem Ausführen des Modellgenerators erstellt werden, indem Sie im Dropdown-Menü „Modelle“ die Option „Neue Modellhierarchie erstellen“ auswählen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"></location>
         <source>Index Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="90"></location>
         <source>Variations on parameters that use index rather than flags.</source>
-        <translation type="unfinished"></translation>
+        <translation>Variationen von Parametern, die Indizes anstelle von Flags verwenden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="91"></location>
         <source>First index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstes Indexargument</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="92"></location>
         <source>Second index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Zweites Indexargument</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="93"></location>
         <source>First index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Das erste Indexargument ist ein Bild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="94"></location>
         <source>Second index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Das zweite Indexargument ist ein Bild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="95"></location>
         <source>Regions of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Regionen von Interesse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="96"></location>
         <source>Input region list</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabebereichsliste</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="97"></location>
         <source>List of regions to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste der zu bearbeitenden Regionen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"></location>
@@ -3524,122 +3534,122 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"></location>
         <source>Input FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe der FA-Messwerte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="100"></location>
         <source>Output FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe der FA-Messungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="101"></location>
         <source>Array of FA values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Array von FA-Werten, die verarbeitet werden sollen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="102"></location>
         <source>Array of processed (output) FA values</source>
-        <translation type="unfinished"></translation>
+        <translation>Array der verarbeiteten (Ausgabe-)FA-Werte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="103"></location>
         <source>Generic Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>Generische Tabellen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="104"></location>
         <source>Input Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabetabelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="105"></location>
         <source>Output Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabetabelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="106"></location>
         <source>Array of Table values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Array von Tabellenwerten, die verarbeitet werden sollen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="107"></location>
         <source>Array of processed (output) Table values</source>
-        <translation type="unfinished"></translation>
+        <translation>Array von Tabellenwerten, die verarbeitet werden soll</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="108"></location>
         <source>Simple return types</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfache Rückgabetypen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="109"></location>
         <source>An integer return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein ganzzahliger Rückgabewert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="110"></location>
         <source>A boolean return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein boolescher Rückgabewert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"></location>
         <source>A floating point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Fließkomma-Rückgabewert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"></location>
         <source>A double point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein doppelter Punkt-Rückgabewert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="113"></location>
         <source>A string point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein String-Punkt-Rückgabewert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="114"></location>
         <source>An integer vector return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein String-Punkt-Rückgabewerte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="115"></location>
         <source>A string enumeration return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein String-Enumerationsrückgabewert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="116"></location>
         <source>An example of an integer return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Beispiel für einen ganzzahligen Rückgabetyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="117"></location>
         <source>An example of a boolean return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Beispiel für einen booleschen Rückgabetyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"></location>
         <source>An example of a float return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Beispiel für einen Float-Rückgabetyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"></location>
         <source>An example of a double return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Beispiel für einen doppelten Rückgabetyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="120"></location>
         <source>An example of a string return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Beispiel für einen String-Rückgabetyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="121"></location>
         <source>An example of an integer vector return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Beispiel für einen Rückgabetyp vom Typ Integer-Vektor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="122"></location>
         <source>An enumeration of strings as a return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Aufzählung von Zeichenfolgen als Rückgabetyp</translation>
     </message>
 </context>
 <context>
@@ -3647,17 +3657,17 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="4"></location>
         <source>Extract Skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>Skelett extrahieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="5"></location>
         <source>Extract the skeleton of a binary object.  The skeleton can be limited to being a 1D curve or allowed to be a full 2D manifold.  The branches of the skeleton can be pruned so that only the maximal center skeleton is returned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrahieren Sie das Skelett eines binären Objekts. Das Skelett kann auf eine 1D-Kurve beschränkt oder als vollständige 2D-Mannigfaltigkeit zugelassen werden. Die Verzweigungen des Skeletts können so beschnitten werden, dass nur das maximale Zentrumsskelett zurückgegeben wird.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"></location>
         <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die ursprüngliche Implementierung dieser Methode stammt von der ETH Zürich, Labor für Bildanalyse von Prof. Olaf Kuebler, Prof. Gabor Szekely und Prof. Guido Gerig.  Martin Styner von der UNC in Chapel Hill hat Verbesserungen vorgenommen.  Die Anpassung für Slicer wurde von Pierre Seroul und Stephen Aylward von Kitware, Inc. bereitgestellt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"></location>
@@ -3672,82 +3682,82 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"></location>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabebilder</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"></location>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabebild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"></location>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabebild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"></location>
         <source>Skeleton of the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skelett des Eingabebildes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="13"></location>
         <source>Skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>Skelett</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="14"></location>
         <source>Skeleton parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Skelettparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="15"></location>
         <source>Skeleton type</source>
-        <translation type="unfinished"></translation>
+        <translation>Skeletttyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="16"></location>
         <source>Extract full tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Vollständigen Baum extrahieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="17"></location>
         <source>Number Of Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Punkte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="18"></location>
         <source>Output points list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangspunkte-Liste</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="19"></location>
         <source>Output markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabemarkup-Kurve</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="20"></location>
         <source>Type of skeleton to create. 1D extract centerline curve points. 2D extracts medial surface points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Art des zu erstellenden Skeletts. 1D extrahiert Punkte der Mittellinie. 2D extrahiert Punkte der medialen Oberfläche.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="21"></location>
         <source>Include the full tree in the output, not just the longest branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den gesamten Baum in der Ausgabe an, nicht nur den längsten Zweig.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="22"></location>
         <source>Number of points used to represent the skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Punkte, die zur Darstellung des Skeletts verwendet werden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="23"></location>
         <source>Name of the file to store the coordinates of the central (1D) skeleton points</source>
-        <translation type="unfinished"></translation>
+        <translation>Name der Datei, in der die Koordinaten der zentralen (1D) Skelettpunkte gespeichert werden sollen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"></location>
         <source>Centerline points as markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittellinienpunkte als Markierungskurve</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"></location>
@@ -3766,12 +3776,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"></location>
         <source>Fiducial Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzmarkenregistrierung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"></location>
         <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Berechnet eine starre, ähnliche oder affine Transformation aus einer Liste übereinstimmender Referenzpunkte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"></location>
@@ -3791,68 +3801,68 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"></location>
         <source>Fixed landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Feste Orientierungspunkte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"></location>
         <source>Moving landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewegliche Orientierungspunkte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"></location>
         <source>Save transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformierung Speichern</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"></location>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsart</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"></location>
         <source>RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>RMS-Fehler</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"></location>
         <source>Output Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabemeldung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"></location>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Geordnete Liste von Sehenswürdigkeiten im festen Bild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"></location>
         <source>Ordered list of landmarks in the moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>Geordnete Liste von Sehenswürdigkeiten im bewegten Bild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"></location>
         <source>Save the transform that results from registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern Sie die Transformation, die sich aus der Registrierung ergibt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"></location>
         <source>Type of transform to produce</source>
-        <translation type="unfinished"></translation>
+        <translation>Art der Transformation zur Erzeugung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"></location>
         <source>Display RMS Error.</source>
-        <translation type="unfinished"></translation>
+        <translation>RMS-Fehler anzeigen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"></location>
         <source>Provides more information on the output</source>
-        <translation type="unfinished"></translation>
+        <translation>Bietet weitere Informationen zur Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"></location>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"></location>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Starre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"></location>
@@ -3862,12 +3872,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"></location>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ähnlichkeit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="26"></location>
         <source>Affine</source>
-        <translation type="unfinished"></translation>
+        <translation>affin</translation>
     </message>
 </context>
 <context>
@@ -3875,12 +3885,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"></location>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaußscher Weichzeichner-Bildfilter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"></location>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Wende einen Gaußschen Weichzeichner auf ein Bild an</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"></location>
@@ -3900,12 +3910,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"></location>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"></location>
@@ -3915,7 +3925,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"></location>
         <source>Sigma value in physical units (e.g., mm) of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigma-Wert in physikalischen Einheiten (z. B. mm) des Gauß-Kernels</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"></location>
@@ -3925,7 +3935,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"></location>
         <source>Blurred Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Unscharfes Volumen</translation>
     </message>
 </context>
 <context>
@@ -3933,59 +3943,61 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="5"></location>
         <source>Gradient Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientenanisotrope Diffusion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="6"></location>
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Führt eine anisotrope Gradientendiffusion auf einem Volumen durch.
+
+Anisotrope Diffusionsmethoden reduzieren Rauschen (oder unerwünschte Details) in Bildern, während bestimmte Bildmerkmale, wie z. B. Kanten, erhalten bleiben. Bei vielen Anwendungen wird davon ausgegangen, dass Hell-Dunkel-Übergänge (Kanten) interessant sind.  Standardmäßige isotrope Diffusionsmethoden verschieben und verwischen Hell-Dunkel-Grenzen. Anisotrope Diffusionsmethoden sind so formuliert, dass sie speziell Kanten erhalten. Der Leitfähigkeitsterm für diese Implementierung ist eine Funktion der Gradientenamplitude des Bildes an jedem Punkt, wodurch die Diffusionsstärke an Kanten reduziert wird. Die numerische Implementierung dieser Gleichung ähnelt der in der Veröffentlichung von Perona-Malik beschriebenen, verwendet jedoch eine robustere Technik zur Schätzung der Gradientenamplitude und wurde auf N-Dimensionen verallgemeinert.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"></location>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Befehlsmodul wurde aus Insight/Examples (Copyright) Insight Software Consortium abgeleitet</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"></location>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Anisotrope Diffusionsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"></location>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für den anisotropen Diffusionsalgorithmus</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"></location>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation>Leitfähigkeit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"></location>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iterationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"></location>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitschritt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"></location>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Leitfähigkeit steuert die Empfindlichkeit des Leitfähigkeitsterms. Als Faustregel gilt: Je niedriger der Wert, desto stärker bewahrt der Filter Kanten. Ein hoher Wert führt zu einer Diffusion (Glättung) über Kanten hinweg. Beachten Sie, dass die Anzahl der Iterationen steuert, wie stark innerhalb der durch Kanten begrenzten Bereiche geglättet wird.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"></location>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je mehr Iterationen, desto mehr Glättung. Jede Iteration dauert gleich lang. Wenn eine Iteration 10 Sekunden dauert, dauert es für 10 Iterationen 100 Sekunden. Beachten Sie, dass die Leitfähigkeit steuert, wie stark jede Iteration über Kanten hinweg glättet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"></location>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Zeitschritt hängt von der Dimensionalität des Bildes ab. In Slicer sind die Bilder dreidimensional, und der Standard-Zeitschritt (.0625) liefert eine stabile Lösung.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"></location>
@@ -4000,7 +4012,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"></location>
@@ -4010,32 +4022,32 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"></location>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu filternde Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"></location>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe gefiltert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"></location>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"></location>
         <source>Advanced parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Parameter für den anisotropen Diffusionsalgorithmus</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"></location>
         <source>Use image spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildabstand verwenden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"></location>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation type="unfinished"></translation>
+        <translation>![CDATA[Berücksichtigen Sie den Bildabstand bei der Berechnung.  Es wird empfohlen, diese Option zu aktivieren, insbesondere wenn die Pixelgröße in verschiedenen Dimensionen unterschiedlich ist. Um jedoch Ergebnisse zu erzielen, die mit Slicer 4.2 und früheren Versionen übereinstimmen, sollte diese Option deaktiviert werden.]]</translation>
     </message>
 </context>
 <context>
@@ -4043,7 +4055,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"></location>
         <source>Grayscale Fill Hole Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Graustufen-Füllungsloch-Bildfilter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"></location>
@@ -4065,7 +4077,15 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleFillholeImageFilter füllt Löcher in einem Graustufenbild.  Löcher sind lokale Minima in der Graustufentopografie, die nicht mit den Bildgrenzen verbunden sind. Graustufenwerte, die an ein Loch angrenzen, werden über das Loch hinweg extrapoliert.
+
+Dieser Filter wird verwendet, um lokale Minima zu glätten, ohne die Werte der lokalen Maxima zu beeinflussen.  Wenn Sie die Differenz zwischen der Ausgabe dieses Filters und dem Originalbild nehmen (und möglicherweise die Differenz über einen kleinen Wert schwellwertieren), erhalten Sie eine Karte der lokalen Minima.
+
+Dieser Filter verwendet den itkGrayscaleGeodesicErodeImageFilter. Er liefert seine eigene Eingabe als „Masken”-Eingabe für die geodätische Erosion. Das „Marker”-Bild für die geodätische Erosion wird so konstruiert, dass die Randpixel mit den Randpixeln des Eingabebildes übereinstimmen und die Innenpixel auf den maximalen Pixelwert im Eingabebild gesetzt werden.
+
+ Die geodätische Morphologie und der Fillhole-Algorithmus werden in Kapitel 6 des Buches „Morphological Image Analysis: Principles and Applications” von Pierre Soille, zweite Auflage, Springer, 2003, beschrieben. 
+
+ Ein Begleitfilter, Grayscale Grind Peak, entfernt Spitzen in Graustufenbildern.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"></location>
@@ -4085,7 +4105,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"></location>
@@ -4095,12 +4115,12 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"></location>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu filternde Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"></location>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe gefiltert</translation>
     </message>
 </context>
 <context>
@@ -4108,7 +4128,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"></location>
         <source>Grayscale Grind Peak Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Graustufen-Grind-Peak-Bildfilter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"></location>
@@ -4123,7 +4143,17 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleGrindPeakImageFilter entfernt Spitzen in einem Graustufenbild. Spitzen sind lokale Maxima in der Graustufentopografie, die nicht mit den Bildgrenzen verbunden sind. Graustufenwerte, die an eine Spitze angrenzen, werden durch die Spitze extrapoliert.
+
+Dieser Filter wird verwendet, um lokale Maxima zu glätten, ohne die Werte der lokalen Minima zu beeinflussen. Wenn Sie die Differenz zwischen der Ausgabe dieses Filters und dem Originalbild nehmen (und möglicherweise die Differenz über einen kleinen Wert schwellwertieren), erhalten Sie eine Karte der lokalen Maxima.
+
+Dieser Filter verwendet den GrayscaleGeodesicDilateImageFilter. Er liefert seine eigene Eingabe als „Masken”-Eingabe für die geodätische Erosion.  Das „Marker”-Bild für die geodätische Erosion wird so konstruiert, dass die Randpixel mit den Randpixeln des Eingabebildes übereinstimmen und die Innenpixel auf den minimalen Pixelwert im Eingabebild gesetzt werden.
+
+Dieser Filter ist das Dual zum GrayscaleFillholeImageFilter, der den Fillhole-Algorithmus implementiert. Da es sich um ein Dual handelt, ist er etwas überflüssig, wird aber der Einfachheit halber bereitgestellt.
+
+Die geodätische Morphologie und der Fillhole-Algorithmus werden in Kapitel 6 des Buches „Morphological Image Analysis: Principles and Applications” von Pierre Soille, zweite Auflage, Springer, 2003, beschrieben.
+
+Ein Begleitfilter, Grayscale Fill Hole, füllt Löcher in Graustufenbildern.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"></location>
@@ -4143,7 +4173,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"></location>
@@ -4153,12 +4183,12 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"></location>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu filternde Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"></location>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe gefiltert</translation>
     </message>
 </context>
 <context>
@@ -4166,12 +4196,12 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="4"></location>
         <source>Grayscale Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Graustufen-Modellbauer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"></location>
         <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie 3D-Oberflächenmodelle aus Graustufendaten. Dieses Modul verwendet Marching Cubes, um eine Isofläche bei einem bestimmten Schwellenwert zu erstellen. Die resultierende Oberfläche besteht aus Dreiecken, die ein Volumen in Bereiche unterhalb und oberhalb des Schwellenwerts unterteilen. Die resultierende Oberfläche kann geglättet und dezimiert werden. Dieses Modell arbeitet mit kontinuierlichen Daten, während das Modul Model Maker mit gekennzeichneten (oder diskreten) Daten arbeitet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"></location>
@@ -4191,107 +4221,107 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"></location>
         <source>Output Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangsgeometrie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"></location>
         <source>Volume containing the input grayscale data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume, das die eingegebenen Graustufendaten enthält.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"></location>
         <source>Output that contains geometry model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe, die ein Geometriemodell enthält.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="13"></location>
         <source>Grayscale Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Graustufen-Modellhersteller-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"></location>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die für die Erstellung von Modellen verwendet werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"></location>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"></location>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellname</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"></location>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Glatt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"></location>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation>dezimieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"></location>
         <source>Split Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalen aufteilen?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="20"></location>
         <source>Compute Point Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalen berechnen?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"></location>
         <source>Grayscale threshold of isosurface. The resulting surface of triangles separates the volume into voxels that lie above (inside) and below (outside) the threshold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Graustufenschwelle der Isofläche. Die resultierende Dreiecksfläche unterteilt das Volumen in Voxel, die oberhalb (innerhalb) und unterhalb (außerhalb) der Schwelle liegen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"></location>
         <source>Name to use for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Name, der für dieses Modell verwendet werden soll.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"></location>
         <source>Number of smoothing iterations. If 0, no smoothing will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Glättungsiterationen. Bei 0 wird keine Glättung durchgeführt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="24"></location>
         <source>Target reduction during decimation, as a decimal percentage reduction in the number of polygons. If 0, no decimation will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielreduktion während der Dezimierung, als dezimale prozentuale Reduzierung der Anzahl der Polygone. Bei 0 wird keine Dezimierung durchgeführt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="25"></location>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affect measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Aufteilen von Normalen ist nützlich, um scharfe Merkmale zu visualisieren. Allerdings entstehen dadurch Löcher in Oberflächen, die sich auf Messungen auswirken</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="26"></location>
         <source>Calculate the point normals? Calculated point normals make the surface appear smooth. Without point normals, the surface will appear faceted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktnormalen berechnen? Berechnete Punktnormalen lassen die Oberfläche glatt erscheinen. Ohne Punktnormalen erscheint die Oberfläche facettiert.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"></location>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"></location>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Debuggen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="29"></location>
         <source>Turn this flag on to log more details during execution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren Sie diese Option, um während der Ausführung weitere Details zu protokollieren.</translation>
     </message>
 </context>
 <context>
@@ -4299,7 +4329,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="4"></location>
         <source>Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>Histogrammabgleiche</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="5"></location>
@@ -4310,7 +4340,13 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalisiert die Graustufenwerte eines Quellbildes auf der Grundlage der Graustufenwerte eines Referenzbildes. Dieser Filter verwendet eine Histogrammabgleichtechnik, bei der die Histogramme der beiden Bilder nur bei einer bestimmten Anzahl von Quantilwerten abgeglichen werden.
+
+Der Filter wurde ursprünglich entwickelt, um MR-Bilder desselben MR-Protokolls und desselben Körperteils zu normalisieren. Der Algorithmus funktioniert am besten, wenn Hintergrundpixel sowohl aus dem Quell- als auch aus dem Referenzhistogramm ausgeschlossen werden.  Eine einfache Methode zum Ausschluss des Hintergrunds besteht darin, alle Pixel auszuschließen, deren Graustufenwerte kleiner als der mittlere Graustufenwert sind. ThresholdAtMeanIntensity aktiviert diese einfache Methode zum Ausschluss des Hintergrunds.
+
+ Die Anzahl der Übereinstimmungspunkte bestimmt die Anzahl der abzugleichenden Quantilwerte.
+
+Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom gleichen Typ sind und dass der Eingabe- und der Ausgabebildtyp die gleiche Anzahl von Dimensionen und skalare Pixeltypen haben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"></location>
@@ -4320,42 +4356,42 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"></location>
         <source>Histogram Matching Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Histogramm-Anpassungsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"></location>
         <source>Parameters for Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für die Histogrammanpassung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"></location>
         <source>Number of Histogram Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Histogrammstufen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"></location>
         <source>Number of Match Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Matchpunkte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="11"></location>
         <source>Threshold at mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert bei Mittelwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"></location>
         <source>The number of hisogram levels to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der zu verwendenden Histogrammstufen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"></location>
         <source>The number of match points to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der zu verwendenden Matchpunkte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"></location>
         <source>If on, only pixels above the mean in each volume are thresholded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, werden nur Pixel oberhalb des Mittelwerts in jedem Volumen mit einem Schwellenwert versehen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"></location>
@@ -4370,12 +4406,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"></location>
         <source>Reference Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzband</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"></location>
@@ -4385,17 +4421,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"></location>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu filternde Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"></location>
         <source>Input volume whose histogram will be matched</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke, deren Histogramm abgeglichen wird</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="22"></location>
         <source>Output volume. This is the input volume with intensities matched to the reference volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangslautstärke. Dies ist die Eingangslautstärke, deren Intensität an die Referenzlautstärke angepasst wurde.</translation>
     </message>
 </context>
 <context>
@@ -4403,12 +4439,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="4"></location>
         <source>Image Label Combine</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildbeschriftung kombinieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"></location>
         <source>Combine two label maps into one</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwei Label-Karten zu einer zusammenführen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"></location>
@@ -4423,48 +4459,48 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"></location>
         <source>Input Label Map A</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-Label-Zuordnung A</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="9"></location>
         <source>Input Label Map B</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-Label-Zuordnung B</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="10"></location>
         <source>Output Label Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe-Label-Zuordnung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"></location>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"></location>
         <source>Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikettenkartei-Bild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"></location>
         <source>Resulting Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ergebniskarte der Beschriftung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"></location>
         <source>Label combination options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen für die Kombination von Etiketten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="15"></location>
         <source>Selection of how to combine label maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl der Kombinationsmöglichkeiten für Label-Karten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="16"></location>
         <source>First Label Overwrites Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Das erste Etikett überschreibt das zweite</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="17"></location>
         <source>Use first or second label when both are present</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie das erste oder zweite Etikett, wenn beide vorhanden sind</translation>
     </message>
 </context>
 <context>
@@ -4472,87 +4508,87 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="4"></location>
         <source>Label Map Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Label-Karten-Glattung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"></location>
         <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Filter glättet eine binäre Beschriftungskarte. . Mit einer Beschriftungskarte als Eingabe führt dieser Filter einen Anti-Aliasing-Algorithmus gefolgt von einem Gaußschen Glättungsalgorithmus aus. . Die Ausgabe ist eine geglättete Beschriftungskarte. Glättung der Beschriftungskarte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"></location>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), die vom National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149, finanziert wird. Dieser Filter basiert auf Arbeiten, die an der University of Utah entwickelt und bei GE Research implementiert wurden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"></location>
         <source>Label Selection Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für die Etikettenauswahl</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"></location>
         <source>Parameters for selecting the label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für die Auswahl des zu glättenden Labels</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"></location>
         <source>Label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikett glätten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"></location>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das zu glättende Label. Alle anderen werden ignoriert. Wenn der Benutzer kein Label auswählt, wird standardmäßig das maximale Label im Bild ausgewählt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"></location>
         <source>AntiAliasing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-Aliasing-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"></location>
         <source>Parameters for the AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für den AntiAliasing-Algorithmus</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"></location>
         <source>Number of Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Iterationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="14"></location>
         <source>Maximum RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaler RMS-Fehler</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"></location>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der Iterationen des Level-Set-AntiAliasing-Algorithmus</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"></location>
         <source>The maximum RMS error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der maximale RMS-Fehler.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"></location>
         <source>Gaussian Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaußsche Glättungsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="18"></location>
         <source>Parameters for Gaussian Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für Gaußsche Glättung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="19"></location>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="20"></location>
         <source>The standard deviation of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Standardabweichung des Gauß-Kernels</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"></location>
@@ -4567,7 +4603,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"></location>
@@ -4577,12 +4613,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"></location>
         <source>Input label map to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-Label-Karte glätten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="26"></location>
         <source>Smoothed label map</source>
-        <translation type="unfinished"></translation>
+        <translation>Glatt eingezogene Beschriftungskarte</translation>
     </message>
 </context>
 <context>
@@ -4590,12 +4626,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="5"></location>
         <source>Mask Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Masken-Skalarvolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"></location>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskiert zwei Bilder. Das Ausgabebild wird überall auf 0 gesetzt, außer an den Stellen, an denen das ausgewählte Label aus dem Maskenvolumen vorhanden ist. An diesen Stellen behält es seine ursprünglichen Werte bei. Die beiden Bilder müssen nicht die gleichen Abmessungen haben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"></location>
@@ -4605,7 +4641,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"></location>
         <source>Input and Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe und Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"></location>
@@ -4615,62 +4651,62 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"></location>
         <source>Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskenvolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="12"></location>
         <source>Masked Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskierte Lautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"></location>
         <source>Input volume to be masked</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu maskierende Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"></location>
         <source>Label volume containing the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikettenvolumen, das die Maske enthält</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"></location>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangslautstärke: Eingangslautstärke maskiert durch Labelwert aus Mask Volume</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"></location>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"></location>
         <source>Filter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtereinstellung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"></location>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikettenwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"></location>
         <source>Replace value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiederbeschaffungswert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"></location>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Label-Wert im Maskierungsvolumen, der als Maske verwendet werden soll</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"></location>
         <source>Value to use for the output volume outside of the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Wert für die Ausgabevolumen außerhalb der Maske</translation>
     </message>
 </context>
 <context>
@@ -4678,37 +4714,37 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="5"></location>
         <source>Median Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Median-Bildfilter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"></location>
         <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der MedianImageFilter wird häufig als robuster Ansatz zur Rauschunterdrückung verwendet. Dieser Filter ist besonders effizient gegen „Salz-und-Pfeffer“-Rauschen. Mit anderen Worten, er ist robust gegenüber Graustufen-Ausreißern. Der MedianImageFilter berechnet den Wert jedes Ausgabepixels als statistischen Median der Werte in der Umgebung des entsprechenden Eingabepixels.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"></location>
         <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Befehlsmodul wurde aus Insight/Examples/Filtering/MedianImageFilter (Copyright) Insight Software Consortium abgeleitet</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"></location>
         <source>Median Filter Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Medianfilter-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="9"></location>
         <source>Parameters for the median filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für den Medianfilter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="10"></location>
         <source>Neighborhood Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe der Nachbarschaft</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="11"></location>
         <source>The size of the neighborhood in each dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Größe des Stadtviertels in jeder Dimension</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"></location>
@@ -4723,7 +4759,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"></location>
@@ -4733,12 +4769,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"></location>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu filternde Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"></location>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe gefiltert</translation>
     </message>
 </context>
 <context>
@@ -4746,12 +4782,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="4"></location>
         <source>Merge Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelle zusammenführen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"></location>
         <source>Merge the polydata from two input models and output a new model with the combined polydata. Uses the vtkAppendPolyData filter. Works on .vtp and .vtk surface files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Führt die Polydaten aus zwei Eingabemodellen zusammen und gibt ein neues Modell mit den kombinierten Polydaten aus. Verwendet den Filter „vtkAppendPolyData“. Funktioniert mit Oberflächendateien im Format .vtp und .vtk.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"></location>
@@ -4766,37 +4802,37 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"></location>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe/Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"></location>
         <source>Model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="10"></location>
         <source>Model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="11"></location>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangsmodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"></location>
         <source>Input model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabemodell 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"></location>
         <source>Input model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabemodell 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"></location>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabemodell</translation>
     </message>
 </context>
 <context>
@@ -4804,13 +4840,13 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"></location>
         <source>Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellbauer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"></location>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
         <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie 3D-Oberflächenmodelle aus segmentierten Daten.&lt;p&gt;Modelle werden in Slicer unter einem Modellhierarchieknoten in einer MRML-Szene importiert. Die Modellfarben werden durch die Farbtabelle des Eingabevolumens festgelegt (diese Farben sind nur sichtbar, wenn Sie die Modellszenendatei laden).&lt;/p&gt;&lt;p&gt;&lt;b&gt;E/A:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Geben Sie ein &lt;i&gt;Eingabevolumen&lt;/i&gt; an, das ein segmentiertes Label-Map-Volumen ist. Erstellen Sie eine neue &lt;i&gt;Modelle&lt;/i&gt;-Hierarchie, um eine Struktur für die erzeugten Modelle bereitzustellen.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mehrere erstellen:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Wenn Sie eine Liste von &lt;i&gt;Labels&lt;/i&gt; angeben, überschreibt dies alle Start-/End-Label-Einstellungen.&lt;/p&gt;&lt;p&gt;Wenn Sie auf &lt;i&gt;Alle generieren&lt;/i&gt; klicken, überschreibt dies die Label-Liste und alle Start-/End-Label-Einstellungen.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Modellhersteller-Parameter:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Sie können die Anzahl der Glättungsiterationen und die Zielreduktion der Polygonanzahl (dezimaler Prozentsatz) festlegen. Verwenden Sie 0 und 0, wenn Sie keine Glättung oder Dezimierung wünschen.&lt;br&gt;Sie können in diesem Bereich auch Flags zum Trennen von Normalen oder zum Generieren von Punktnormalen setzen.&lt;br&gt;Sie können nach Zwischenschritten (Marching Cubes, Glättung und Dezimierung, falls keine gemeinsame Glättung, sonst nur nach Dezimierung) eine Kopie der Modelle speichern; diese Modelle werden nicht in der MRML-Datei gespeichert. Deaktivieren Sie zuerst das Löschen temporärer Dateien im Python-Fenster:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"></location>
@@ -4830,7 +4866,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"></location>
@@ -4840,173 +4876,173 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"></location>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-Label-Zuordnung. Das Dropdown-Menü „Eingabevolumen“ enthält die Label-Zuordnungsvolumina, die in der Szene vorhanden sind. Wählen Sie eines davon aus, um Modelle zu generieren.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"></location>
         <source>Color table to make labels to colors and objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbtabelle zum Zuordnen von Farben zu Etiketten und Objekten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"></location>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generierte Modelle unter einem Modellhierarchieknoten. Modelle werden unter einem Modellhierarchieknoten in Slicer importiert, und ihre Farben werden durch die Farbtabelle festgelegt, die mit dem Eingabelabel-Map-Volumen verknüpft ist. Der Modellhierarchieknoten muss vor dem Ausführen des Modellgenerators erstellt werden, indem Sie im Dropdown-Menü „Modelle“ die Option „Neue Modellhierarchie erstellen“ auswählen. Wenn Sie das Programm über die Befehlszeile ausführen, wird ein Modellhierarchieknoten in einer neuen mrml-Szene für Sie erstellt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"></location>
         <source>Create Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehrere erstellen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"></location>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie mehrere Modelle gleichzeitig, die für fortlaufende Etikettenbereiche verwendet werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"></location>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellbezeichnung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"></location>
         <source>Generate All Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Modelle generieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"></location>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Name, der für dieses Modell verwendet werden soll. Jeder in das Eingabefeld eingegebene Text wird als Anfangszeichenfolge für die Namen der erstellten Modelldateien verwendet. Die Label-Nummer und der Farbnamen werden ebenfalls Teil des Dateinamens. Wenn Sie mehrere Modelle erstellen, verwenden Sie dies als Präfix für den Label- und Farbnamen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"></location>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelle für alle Labels im Eingabevolumen generieren. Wählen Sie diese Option, wenn Sie alle Modelle erstellen möchten, die allen Werten in einem Labelmap-Volumen entsprechen (die Verwendung der Option „Joint Smoothing“ unten ist bei dieser Option hilfreich). Ignoriert die Einstellungen für Labels, Start-Label und End-Label. Überspringt Label 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"></location>
         <source>Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellbauparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"></location>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die für die Erstellung von Modellen verwendet werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"></location>
         <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiketten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"></location>
         <source>Start Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Start-Etikett</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"></location>
         <source>End Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Endetikett</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"></location>
         <source>Skip Un-Named Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbenannte Labels überspringen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"></location>
         <source>Joint Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemeinsame Glättung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"></location>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Glatt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"></location>
         <source>Filter Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtertyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"></location>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation>dezimieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"></location>
         <source>Split Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>Geteilte Normalen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"></location>
         <source>Point Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktnormalen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"></location>
         <source>Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Polster</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"></location>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine durch Kommas getrennte Liste von Label-Werten, aus denen Modelle erstellt werden sollen. Wenn Sie eine Liste von Labels angeben, werden alle Start-/End-Label-Einstellungen überschrieben. Wenn Sie auf „Alle Modelle generieren“ klicken, werden die Liste der Labels und alle Start-/End-Label-Einstellungen überschrieben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"></location>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie einen zusammenhängenden Bereich von Labels angeben möchten, aus denen Modelle generiert werden sollen, geben Sie hier das untere Label ein. Voxelwert, ab dem mit der Erstellung von Modellen begonnen werden soll. Wird anstelle der Label-Liste verwendet, um einen Bereich anzugeben (stellen Sie sicher, dass die Label-Liste leer ist, da sie sonst diese Angabe überschreibt).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"></location>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie einen zusammenhängenden Bereich von Labels angeben möchten, aus denen Modelle generiert werden sollen, geben Sie hier das höhere Label ein. Voxelwert, bis zu dem weiterhin Modelle erstellt werden sollen. Überspringen Sie alle Werte mit Null-Voxeln.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"></location>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie diese Option, um keine Modelle aus Labels zu generieren, für die in der mit der Eingabe-Label-Zuordnung verknüpften Farbtabelle keine Namen definiert sind. Wenn diese Option aktiviert ist, werden nur Modelle generiert, für die ein Eintrag in der Farbtabelle vorhanden ist.  Wenn diese Option deaktiviert ist, werden alle Modelle generiert, die innerhalb des Label-Bereichs vorhanden sind.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"></location>
         <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dadurch wird sichergestellt, dass alle resultierenden Modelle wie Puzzleteile nahtlos zusammenpassen. Andernfalls werden die Modelle unabhängig voneinander geglättet und können sich überlappen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"></location>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished"></translation>
+        <translation>Hier können Sie die Anzahl der Glättungsiterationen für die Laplace-Glättung oder den Grad des Polynoms festlegen, das die fensterbasierte Sinc-Funktion approximiert. Verwenden Sie 0, wenn Sie keine Glättung wünschen. </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"></location>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie können die Art der Glättung der Modelle steuern, indem Sie einen Filtertyp auswählen, entweder Sinc oder Laplacian.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"></location>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie die angestrebte Reduzierung der Polygonanzahl als Dezimalprozentsatz (zwischen 0 und 1) der Polygonanzahl. Gibt den Prozentsatz der zu entfernenden Dreiecke an. Beispielsweise bedeutet 0,1 eine Reduzierung um 10 % und 0,9 eine Reduzierung um 90 %.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"></location>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Aufteilen von Normalen ist nützlich, um scharfe Merkmale zu visualisieren. Allerdings entstehen dadurch Löcher in den Oberflächen, die sich auf die Messungen auswirken.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"></location>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Normalenvektoren für die Punkte berechnen möchten.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"></location>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Füllen Sie das Eingabevolumen auf allen 6 Seiten mit Voxeln mit dem Wert Null, um die Erstellung geschlossener Oberflächen sicherzustellen. Legen Sie die Ursprungsverschiebung und die Ausdehnungsverschiebung so fest, dass die Modelle weiterhin mit dem nicht aufgefüllten Eingabevolumen übereinstimmen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"></location>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"></location>
         <source>Sinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"></location>
@@ -5017,32 +5053,32 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"></location>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"></location>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Debuggen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"></location>
         <source>Color Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbhierarchie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"></location>
         <source>Save Intermediate Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwischenmodelle speichern</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"></location>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine mrml-Datei, die eine Vorlagenmodell-Hierarchiebaumstruktur mit einem Hierarchieknoten pro Farbe enthält, die in der Farbtabelle des Eingabevolumens verwendet wird. Die für die Modelle verwendeten Farbnamen werden mit den Namen der Vorlagenhierarchie abgeglichen, um einen mehrstufigen Ausgabebaum zu erstellen. Erstellen Sie eine Hierarchie in der Models-GUI und speichern Sie eine Szene. Bereinigen Sie diese anschließend, um alles außer der Modellhierarchie und den Anzeigeknoten zu entfernen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"></location>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie können nach jedem Zwischenschritt (Marching Cubes, Glättung und Dezimierung, wenn keine gemeinsame Glättung erfolgt, andernfalls direkt nach der Dezimierung) eine Kopie der Modelle speichern. Diese Zwischenmodelle werden nicht in der mrml-Datei gespeichert. Sie müssen sie manuell laden, nachdem Sie das Löschen temporärer Dateien in der Python-Konsole (Ansicht -&gt; Python-Interaktor) mit dem folgenden Befehl deaktiviert haben: slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"></location>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren Sie diese Option, um die Debugging-Ausgabe anzuzeigen (siehe Fenster „Fehlerprotokoll“, das über das Menü „Ansicht“ aufgerufen werden kann)</translation>
     </message>
 </context>
 <context>
@@ -5050,12 +5086,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"></location>
         <source>Model To LabelMap</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell zu LabelMap</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"></location>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schneidet ein Eingabemodell mit einem Referenzvolumen und erzeugt eine Ausgabelabelkarte, wobei die Voxel innerhalb des Modells mit dem angegebenen Labelwert gefüllt werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"></location>
@@ -5065,22 +5101,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"></location>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="8"></location>
         <source>Parameter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametereinstellungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"></location>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikettenwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"></location>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Wert des unsigned char-Labels, der in der Ausgabelabel-Zuordnung verwendet werden soll.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"></location>
@@ -5090,17 +5126,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"></location>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe/Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"></location>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"></location>
@@ -5110,17 +5146,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"></location>
         <source>Output volume will have the same origin, spacing, axis directions, and extent as this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Ausgabevolumen hat denselben Ursprung, denselben Abstand, dieselben Achsenrichtungen und denselben Umfang wie dieses Volumen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"></location>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabemodelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"></location>
         <source>Unsigned char label map volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsigned char Label-Zuordnung Volumen</translation>
     </message>
 </context>
 <context>
@@ -5128,12 +5164,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="5"></location>
         <source>Multiply Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalarvolumen multiplizieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"></location>
         <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Multipliziert zwei Bilder. Obwohl alle Bildtypen als Eingabe unterstützt werden, werden nur vorzeichenbehaftete Typen ausgegeben. Die beiden Bilder müssen nicht die gleichen Abmessungen haben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"></location>
@@ -5178,7 +5214,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"></location>
         <source>Volume1 * Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Band 1 * Band 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"></location>
@@ -5206,17 +5242,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="4"></location>
         <source>N4ITK MRI Bias correction</source>
-        <translation type="unfinished"></translation>
+        <translation>N4ITK MRI-Bias-Korrektur</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"></location>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation type="unfinished"></translation>
+        <translation>Führt eine Bildverzerrungskorrektur mithilfe des N4-Algorithmus durch. Dieses Modul basiert auf den ITK-Filtern, die in der folgenden Veröffentlichung vorgestellt werden:  Tustison N, Gee J „N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction”, The Insight Journal 2009 Januar-Juni, https://hdl.handle.net/10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"></location>
         <source>The development of this module was partially supported by NIH grants R01 AA016748-01, R01 CA111288 and U01 CA151261 as well as by NA-MIC, NAC, NCIGT and the Slicer community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Entwicklung dieses Moduls wurde teilweise durch NIH-Zuschüsse R01 AA016748-01, R01 CA111288 und U01 CA151261 sowie durch NA-MIC, NAC, NCIGT und die Slicer-Community unterstützt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"></location>
@@ -5231,12 +5267,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"></location>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabebilder</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"></location>
         <source>Mask Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskenbild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"></location>
@@ -5246,138 +5282,138 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"></location>
         <source>Output bias field image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangs-Vorspannungsfeldbild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"></location>
         <source>Input image where you observe signal inhomegeneity</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie ein Bild ein, in dem Sie Signalinhomogenitäten beobachten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"></location>
         <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binäre Maske, der die Struktur Ihres Interesses definiert. HINWEIS: Dieser Parameter ist OPTIONAL. Wenn die Maske nicht angegeben ist, verwendet das Modul intern die Otsu-Schwellenwertmethode, um diese Maske zu definieren. Bessere Verarbeitungsergebnisse lassen sich oft erzielen, wenn eine aussagekräftige Maske definiert wird.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"></location>
         <source>Result of processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ergebnis der Verarbeitung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="16"></location>
         <source>Recovered bias field (OPTIONAL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiederhergestelltes Bias-Feld (OPTIONAL)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="17"></location>
         <source>N4 Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>N4-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="18"></location>
         <source>BSpline grid resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline-Gitterauflösung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="19"></location>
         <source>Spline distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline-Abstand</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="20"></location>
         <source>Bias field Full Width at Half Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorspannungsfeld Vollbreite bei halbem Maximum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"></location>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Auflösung des anfänglichen B-Spline-Gitters, definiert als eine Folge von drei Zahlen. Die tatsächliche Auflösung wird durch Addition der B-Spline-Ordnung (Standardwert ist 3) zur hier angegebenen Auflösung in jeder Dimension definiert. Beispielsweise ergibt 1,1,1 ein 4x4x4-Gitter aus Kontrollpunkten. Dieser Parameter muss möglicherweise entsprechend Ihrem Eingabebild angepasst werden. Im Multi-Resolution-N4-Framework wird die Auflösung des B-Spline-Gitters bei nachfolgenden Iterationen verdoppelt. Die Anzahl der Auflösungen wird implizit durch den Parameter „Anzahl der Iterationen” definiert (die Größe dieser Liste entspricht der Anzahl der Auflösungen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"></location>
         <source>An alternative means to define the spline grid, by setting the distance between the control points. This parameter is used only if the grid resolution is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine alternative Methode zur Definition des Spline-Gitters durch Festlegen des Abstands zwischen den Kontrollpunkten. Dieser Parameter wird nur verwendet, wenn die Gitterauflösung nicht angegeben ist.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"></location>
         <source>Bias field Full Width at Half Maximum. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bias-Feld, volle Breite bei halbem Maximum. Null bedeutet Verwendung des Standardwerts.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"></location>
         <source>Advanced N4 Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte N4-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"></location>
         <source>Advanced parameters of the algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Parameter des Algorithmus</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"></location>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Iteration</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="27"></location>
         <source>Convergence threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvergenzschwelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="28"></location>
         <source>BSpline order</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline-Ordnung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="29"></location>
         <source>Shrink factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Schrumpffaktor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="30"></location>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="37"></location>
         <source>Weight Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Gewichtsbild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="31"></location>
         <source>Wiener filter noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiener-Filter-Rauschen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"></location>
         <source>Number of histogram bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Histogramm-Bins</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"></location>
         <source>Maximum number of iterations at each level of resolution. Larger values will increase execution time, but may lead to better results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Anzahl von Iterationen auf jeder Auflösungsebene. Größere Werte verlängern die Ausführungszeit, können jedoch zu besseren Ergebnissen führen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"></location>
         <source>Stopping criterion for the iterative bias estimation. Larger values will lead to smaller execution time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppkriterium für die iterative Bias-Schätzung. Größere Werte führen zu einer kürzeren Ausführungszeit.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"></location>
         <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Reihenfolge der B-Splines, die bei der Approximation verwendet werden. Größere Werte führen zu längeren Ausführungszeiten, können zu Überanpassung und schlechten Ergebnissen führen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"></location>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legt fest, um wie viel das Bild vor der Schätzung des Inhomogenitätsfeldes hochskaliert werden soll. Erhöhen Sie diesen Wert, wenn Sie die Ausführungszeit verkürzen möchten. 1 entspricht der ursprünglichen Auflösung. Größere Werte verkürzen die Berechnungszeit erheblich.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"></location>
         <source>Wiener filter noise. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiener-Filterrauschen. Null bedeutet Verwendung des Standardwerts.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"></location>
         <source>Number of histogram bins. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Histogramm-Bins. Null bedeutet Verwendung des Standardwerts.</translation>
     </message>
 </context>
 <context>
@@ -5385,12 +5421,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="4"></location>
         <source>Orient Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Orient-Skalarvolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"></location>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientiert ein Ausgabevolumen. Ordnet die Schichten in einem Volumen entsprechend der ausgewählten Ausrichtung neu an. Die Schichten werden nicht interpoliert. Sie werden lediglich neu angeordnet und/oder permutiert. Das resultierende Volumen deckt das ursprüngliche Volumen ab. HINWEIS: Da Slicer die Ausrichtung eines Volumens berücksichtigt, weist das neu ausgerichtete Volumen keine Unterschiede zum ursprünglichen Volumen auf. Um den Unterschied zu sehen, speichern Sie das Volumen und zeigen Sie es mit einem System an, das entweder die Ausrichtung des Bildes ignoriert (z. B. Paraview) oder einzelne Bilder anzeigt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"></location>
@@ -5425,27 +5461,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"></location>
         <source>The oriented volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Das orientierte Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="13"></location>
         <source>Orientation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientierungsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"></location>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichtung der Ausgabe. Beachten Sie, dass diese Ausrichtungscodes der ITK-Konvention entsprechen: Jeder Buchstabe bezieht sich darauf, woher die jeweilige Achse stammt. Dies steht im Gegensatz zu den üblicherweise verwendeten Ausrichtungskonventionen. Um beispielsweise ein Bild zu erhalten, dessen Bildachsen den Achsenrichtungen des LPS-Koordinatensystems entsprechen, muss dieser Parameter auf RAI gesetzt werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"></location>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientierung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="16"></location>
         <source>Orientation choices</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientierungsmöglichkeiten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"></location>
@@ -5471,107 +5507,107 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="21"></location>
         <source>RIP</source>
-        <translation type="unfinished"></translation>
+        <translation>RIP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="22"></location>
         <source>LIP</source>
-        <translation type="unfinished"></translation>
+        <translation>LIP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="23"></location>
         <source>RSP</source>
-        <translation type="unfinished"></translation>
+        <translation>RSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="24"></location>
         <source>LSP</source>
-        <translation type="unfinished"></translation>
+        <translation>LSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="25"></location>
         <source>RIA</source>
-        <translation type="unfinished"></translation>
+        <translation>RIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="26"></location>
         <source>LIA</source>
-        <translation type="unfinished"></translation>
+        <translation>LIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="27"></location>
         <source>RSA</source>
-        <translation type="unfinished"></translation>
+        <translation>RSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="28"></location>
         <source>LSA</source>
-        <translation type="unfinished"></translation>
+        <translation>LSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="29"></location>
         <source>IRP</source>
-        <translation type="unfinished"></translation>
+        <translation>IRP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="30"></location>
         <source>ILP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ILP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="31"></location>
         <source>SRP</source>
-        <translation type="unfinished"></translation>
+        <translation>SRP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="32"></location>
         <source>SLP</source>
-        <translation type="unfinished"></translation>
+        <translation>SLP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="33"></location>
         <source>IRA</source>
-        <translation type="unfinished"></translation>
+        <translation>IRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="34"></location>
         <source>ILA</source>
-        <translation type="unfinished"></translation>
+        <translation>ILA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="35"></location>
         <source>SRA</source>
-        <translation type="unfinished"></translation>
+        <translation>SRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="36"></location>
         <source>SLA</source>
-        <translation type="unfinished"></translation>
+        <translation>SLA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="37"></location>
         <source>RPI</source>
-        <translation type="unfinished"></translation>
+        <translation>RPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="38"></location>
         <source>LPI</source>
-        <translation type="unfinished"></translation>
+        <translation>LPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="39"></location>
         <source>RAI</source>
-        <translation type="unfinished"></translation>
+        <translation>RAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="40"></location>
         <source>LAI</source>
-        <translation type="unfinished"></translation>
+        <translation>LAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="41"></location>
         <source>RPS</source>
-        <translation type="unfinished"></translation>
+        <translation>RPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="43"></location>
@@ -5581,127 +5617,127 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="44"></location>
         <source>LAS</source>
-        <translation type="unfinished"></translation>
+        <translation>LAS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="45"></location>
         <source>PRI</source>
-        <translation type="unfinished"></translation>
+        <translation>PRI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="46"></location>
         <source>PLI</source>
-        <translation type="unfinished"></translation>
+        <translation>PLI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="47"></location>
         <source>ARI</source>
-        <translation type="unfinished"></translation>
+        <translation>ARI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="48"></location>
         <source>ALI</source>
-        <translation type="unfinished"></translation>
+        <translation>ALI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="49"></location>
         <source>PRS</source>
-        <translation type="unfinished"></translation>
+        <translation>PRS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="50"></location>
         <source>PLS</source>
-        <translation type="unfinished"></translation>
+        <translation>PLS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="51"></location>
         <source>ARS</source>
-        <translation type="unfinished"></translation>
+        <translation>ARS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="52"></location>
         <source>ALS</source>
-        <translation type="unfinished"></translation>
+        <translation>ALS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="53"></location>
         <source>IPR</source>
-        <translation type="unfinished"></translation>
+        <translation>IPR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="54"></location>
         <source>SPR</source>
-        <translation type="unfinished"></translation>
+        <translation>SPR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="55"></location>
         <source>IAR</source>
-        <translation type="unfinished"></translation>
+        <translation>IAR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="56"></location>
         <source>SAR</source>
-        <translation type="unfinished"></translation>
+        <translation>SAR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="57"></location>
         <source>IPL</source>
-        <translation type="unfinished"></translation>
+        <translation>IPL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="58"></location>
         <source>SPL</source>
-        <translation type="unfinished"></translation>
+        <translation>SPL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="59"></location>
         <source>IAL</source>
-        <translation type="unfinished"></translation>
+        <translation>IAL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="60"></location>
         <source>SAL</source>
-        <translation type="unfinished"></translation>
+        <translation>SAL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="61"></location>
         <source>PIR</source>
-        <translation type="unfinished"></translation>
+        <translation>PIR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="62"></location>
         <source>PSR</source>
-        <translation type="unfinished"></translation>
+        <translation>PSR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="63"></location>
         <source>AIR</source>
-        <translation type="unfinished"></translation>
+        <translation>AIR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="64"></location>
         <source>ASR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ASR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="65"></location>
         <source>PIL</source>
-        <translation type="unfinished"></translation>
+        <translation>PIL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="66"></location>
         <source>PSL</source>
-        <translation type="unfinished"></translation>
+        <translation>PSL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="67"></location>
         <source>AIL</source>
-        <translation type="unfinished"></translation>
+        <translation>AIL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="68"></location>
         <source>ASL</source>
-        <translation type="unfinished"></translation>
+        <translation>ASL</translation>
     </message>
 </context>
 <context>
@@ -5709,132 +5745,132 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="4"></location>
         <source>PET Standard Uptake Value Computation</source>
-        <translation type="unfinished"></translation>
+        <translation>Berechnung des PET-Standardaufnahmewertes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"></location>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Berechnet den standardisierten Aufnahmewert basierend auf dem Körpergewicht. Verarbeitet eingegebene PET-Bilder im DICOM- und NRRD-Format (der DICOM-Header muss Radiopharmazieparameter enthalten). Erzeugt eine CSV-Datei, die für jedes Volumen von Interesse die folgenden Informationen enthält: patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName. Einige der Informationen werden auch als Ausgabestrings in der GUI angezeigt, die CSV-Datei ist in diesem Fall optional. Die CSV-Datei wird bei jeder Ausführung der CLI angehängt.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"></location>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit wird vom Harvard Catalyst und der National Alliance for Medical Image Computing (NAMIC) finanziert, die vom National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149, gefördert wird.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"></location>
         <source>Image and Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild und Information</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"></location>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"></location>
         <source>PET DICOM volume path</source>
-        <translation type="unfinished"></translation>
+        <translation>PET-DICOM-Volumenpfad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="10"></location>
         <source>Input PET Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe PET-Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="11"></location>
         <source>Input VOI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe VOI-Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="12"></location>
         <source>Input path to a directory containing a PET volume containing DICOM header information for SUV computation</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabepfad zu einem Verzeichnis, das ein PET-Volume mit DICOM-Header-Informationen für die SUV-Berechnung enthält</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="13"></location>
         <source>Input PET volume for SUVbw computation (must be the same volume as pointed to by the DICOM path!).</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie das PET-Volumen für die SUVbw-Berechnung ein (es muss sich um dasselbe Volumen handeln, auf das der DICOM-Pfad verweist!).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="14"></location>
         <source>Input label volume containing the volumes of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabelabel-Volume, das die interessierenden Volumes enthält</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="15"></location>
         <source>Color table to to map labels to colors and names</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbtabelle zum Zuordnen von Beschriftungen zu Farben und Namen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"></location>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"></location>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Ausgabedatei sammelt die Informationen auf der Festplatte aus dem Ausgabelabel, den suv max/mean/min-Ausgabestrings in der GUI sowie einige zusätzliche Informationen aus dem DICOM-Header.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"></location>
         <source>Output table</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabetabelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="19"></location>
         <source>Output Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe-Label</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="20"></location>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe-Label-Wert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="21"></location>
         <source>SUV Max</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV Max</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="22"></location>
         <source>SUV Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV-Durchschnitt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="23"></location>
         <source>SUV Minimum</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV-Mindestanforderung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="24"></location>
         <source>A table holding the output SUV values in comma separated lines, one per label. Optional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Tabelle mit den SUV-Ausgabewerten in durch Kommas getrennten Zeilen, eine pro Bezeichnung. Optional.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="25"></location>
         <source>List of labels for which SUV values were computed</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste der Labels, für die SUV-Werte berechnet wurden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="26"></location>
         <source>List of label values for which SUV values were computed</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste der Label-Werte, für die SUV-Werte berechnet wurden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="27"></location>
         <source>SUV max for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV max für jedes Label</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="28"></location>
         <source>SUV mean for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV-Durchschnitt für jedes Label</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="29"></location>
         <source>SUV minimum for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV-Minimum für jedes Label</translation>
     </message>
 </context>
 <context>
@@ -5842,18 +5878,19 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"></location>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrierung Metrik Test (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"></location>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrierungs Metrik Test (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"></location>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"></location>
@@ -5863,78 +5900,78 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"></location>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabeparameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"></location>
         <source>Transform File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateinamen umwandeln</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="10"></location>
         <source>Fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Feststehendes Bild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="11"></location>
         <source>Moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewegtes Bild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"></location>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabetransformation, die zum Verzerren von bewegten Bildern vor dem metrischen Vergleich verwendet wird.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"></location>
         <source>Input variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabevariablen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="14"></location>
         <source>Metric type and input parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metrischer Typ und Eingabeparameter.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="15"></location>
         <source>Metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>Metrischer Typ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"></location>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Proben</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"></location>
         <source>Number Of Histogram Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Histogramm-Bin</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"></location>
         <source>Comparison metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergleichsmetriktyp</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="19"></location>
         <source>The number of voxels sampled for metric evaluation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der Voxel, die für die metrische Auswertung abgetastet werden.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"></location>
         <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der Histogramm-Bins, wenn MMI (Mattes) vom metrischen Typ ist.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"></location>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="22"></location>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"></location>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
 </context>
 <context>
@@ -5942,17 +5979,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="4"></location>
         <source>Probe Volume With Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Probenvolumen mit Modell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"></location>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Modell anhand seines Volumens einfärben (mit vtkProbeFilter).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"></location>
         <source>BWH, NCIGT/LMI</source>
-        <translation type="unfinished"></translation>
+        <translation>BWH, NCIGT/LMI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"></location>
@@ -5973,32 +6010,32 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"></location>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"></location>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabemodelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"></location>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabemodell</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"></location>
         <source>Output array name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name des Ausgabearrays</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"></location>
         <source>Volume to use to &quot;paint&quot; the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen, das zum „Bemalen“ des Modells verwendet werden soll</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"></location>
         <source>Output &quot;painted&quot; model</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe des „gemalten“ Modells</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"></location>
         <source>Name of the array that will contain the voxel values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Name des Arrays, das die Voxelwerte enthalten wird.</translation>
     </message>
 </context>
 <context>
@@ -6006,22 +6043,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="5"></location>
         <source>Resample DTI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>DTI-Volumen neu berechnen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"></location>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Resampling eines Bildes ist eine sehr wichtige Aufgabe in der Bildanalyse. Es ist besonders wichtig im Rahmen der Bildregistrierung. Dieses Modul implementiert das DT-Bild-Resampling unter Verwendung von itk-Transformationen. Das Resampling wird durch den Ausgaberaum gesteuert. Die „Neuabtastung” wird in Raumkoordinaten und nicht in Pixel-/Gitterkoordinaten durchgeführt. Es ist sehr wichtig, sicherzustellen, dass der Bildabstand für die betreffenden Bilder richtig eingestellt ist. Der Interpolator ist erforderlich, da die Abbildung von einem Raum in einen anderen oft die Auswertung der Bildintensität an Nicht-Gitterpositionen erfordert.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"></location>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), die vom National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149, finanziert wird. Informationen zu den National Centers for Biomedical Computing finden Sie unter http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"></location>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingaben/Ausgaben</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"></location>
@@ -6031,7 +6068,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"></location>
@@ -6041,109 +6078,109 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"></location>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzvolumen (zum Einstellen der Ausgabeparameter)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"></location>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Abtastrate des Eingangssignals</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"></location>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu berechnetes Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="15"></location>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzvolumen (Abstand, Größe, Ausrichtung, Ursprung)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="16"></location>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"></location>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die verwendet werden, um das Eingabebild in das Ausgabebild umzuwandeln</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"></location>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsknoten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="19"></location>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformations-knoten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="20"></location>
         <source>Displacement or h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschiebung oder h-Feld</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="21"></location>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei mit dem Verformungsfeld (3D-Vektorgrafik mit Vektoren mit 3 Komponenten)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="22"></location>
         <source>Set if the deformation field is an -Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzen Sie, wenn das Verformungsfeld ein -Feld ist</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="23"></location>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="25"></location>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>h-Feld</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"></location>
         <source>displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdrängung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="26"></location>
         <source>Processing Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitungsoptionen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="27"></location>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="28"></location>
         <source>No Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Messrahmen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="29"></location>
         <source>Tensors Correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Tensorkorrektur</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="30"></location>
         <source>Sampling algorithm (linear , nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>Abtastalgorithmus (linear, nn (nächster Nachbar), ws (WindowedSinc), bs (BSpline))</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"></location>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie nicht den im Eingabebild enthaltenen Messrahmen, um die Tensoren zu transformieren. Verwenden Sie stattdessen die Bildausrichtung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"></location>
         <source>Correct the tensors if computed tensor is not semi-definite positive</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrigieren Sie die Tensoren, wenn der berechnete Tensor nicht halbdefinitiv positiv ist</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"></location>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="35"></location>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"></location>
@@ -6154,17 +6191,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"></location>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation>nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"></location>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"></location>
         <source>bs</source>
-        <translation type="unfinished"></translation>
+        <translation>bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"></location>
@@ -6174,17 +6211,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"></location>
         <source>abs</source>
-        <translation type="unfinished"></translation>
+        <translation>abs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="42"></location>
         <source>nearest</source>
-        <translation type="unfinished"></translation>
+        <translation>nächstgelegen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="43"></location>
         <source>Tensor Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tensortransformationstyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"></location>
@@ -6192,150 +6229,151 @@ The filter assumes that both the source and reference are of the same type and t
 Preservation of the Principal Direction (PPD)</source>
         <oldsource>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Endliche Verformung (FS) oder 
+Erhaltung der Hauptrichtung (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"></location>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählt zwischen zwei Methoden zur Transformation der Tensoren: Finite Strain (FS), schneller, aber weniger genau, oder Preservation of the Principal Direction (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"></location>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="47"></location>
         <source>PPD</source>
-        <translation type="unfinished"></translation>
+        <translation>PPD</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="48"></location>
         <source>FS</source>
-        <translation type="unfinished"></translation>
+        <translation>FS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"></location>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Transformationsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"></location>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Parameter sollten normalerweise nicht geändert werden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"></location>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformiert die Reihenfolge</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"></location>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Massenumwandlung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"></location>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkonsistenz der Raumorientierung (zwischen Transformation und Bild)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"></location>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie aus, in welcher Reihenfolge die Transformationen gelesen werden sollen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"></location>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Transformation nach der BSpline-Transformation ist nicht als Massentransformation für die BSpline-Transformation festgelegt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"></location>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die räumliche Ausrichtung zwischen Transformation und Bild ist unterschiedlich (RAS/LPS) (Warnung: Wenn es sich bei der Transformation um einen Transformationsknoten in Slicer3 handelt, nicht auswählen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"></location>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="59"></location>
         <source>output-to-input</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe zu Eingabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"></location>
         <source>input-to-output</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"></location>
         <source>Advanced Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte starre/affine Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="61"></location>
         <source>Rotation Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotationszentrum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"></location>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Zentrierte Transformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"></location>
         <source>Image Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildzentrum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"></location>
         <source>Inverse Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverse Transformationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"></location>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehpunkt (nur für starre und affine Transformationen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"></location>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzen Sie den Mittelpunkt der Transformation auf den Mittelpunkt des Eingabebildes (nur für starre und affine Transformationen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"></location>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild, das zum Zentrieren der Transformation verwendet wird ( nur verwendet, wenn „Zentrierte Transformation“ ausgewählt ist)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"></location>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Transformation vor der Anwendung vom Ausgabebild auf das Eingabebild umkehren (nur für starre und affine Transformationen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"></location>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"></location>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingaben</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"></location>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"></location>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuelle Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"></location>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter des Ausgabebildes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"></location>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"></location>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"></location>
@@ -6345,72 +6383,72 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"></location>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Richtungsmatrix</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"></location>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand entlang jeder Dimension (0 bedeutet, den eingegebenen Abstand verwenden)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"></location>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe entlang jeder Dimension (0 bedeutet Verwendung der Eingabegröße)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"></location>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Herkunft des Ausgabebildes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"></location>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 Parameter der Richtungsmatrix nach Zeilen (ijk zu LPS bei LPS-Transformation, ijk zu RAS bei RAS-Transformation)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"></location>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Resampling-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="83"></location>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die Neuberechnung verwendete Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"></location>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Threads</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"></location>
         <source>Default Pixel Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard-Pixelwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"></location>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Threads, die zur Berechnung des Ausgabebildes verwendet werden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"></location>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard-Pixelwert für Samples, die außerhalb des Eingabebereichs liegen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"></location>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter der Windowed-Sinc-Interpolationsfunktion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"></location>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die Windowed-Sinc-Interpolation verwendete Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"></location>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Fensterfunktion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"></location>
@@ -6426,58 +6464,63 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fensterfunktion 
+h = Hamming 
+c = Cosinus 
+w = Welch 
+l = Lanczos 
+b = Blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="92"></location>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="94"></location>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="93"></location>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="95"></location>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="96"></location>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="97"></location>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"></location>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline-Interpolationsfunktion-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"></location>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die BSpline-Interpolation verwendete Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"></location>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline-Ordnung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"></location>
         <source>Spline Order (Spline order may be from 0 to 5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline-Ordnung (Spline Ordnung kann zwischen 0 und 5 liegen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"></location>
         <source>Manual Transform (Used only if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuelle Transformation (wird nur verwendet, wenn kein Transformationsknoten festgelegt ist)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"></location>
@@ -6487,30 +6530,32 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"></location>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationstyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"></location>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation>12 Parameter der Transformationsmatrix nach Zeilen (die letzten 3 sind Translation)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"></location>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsalgorithmus
+rt = starre Transformation
+a = affine Transformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="107"></location>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="109"></location>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"></location>
         <source>rt</source>
-        <translation type="unfinished"></translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -6518,7 +6563,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"></location>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalare/Vektoren/DWI-Volumen neu berechnen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"></location>
@@ -6532,17 +6577,21 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul implementiert die Neuberechnung von Bildern und Vektorbildern mithilfe von itk-Transformationen. Es kann auch die Neuberechnung von diffusionsgewichteten MRT-Bildern durchführen. Die „Neuberechnung” erfolgt in Raumkoordinaten, nicht in Pixel-/Gitterkoordinaten. Es ist sehr wichtig, sicherzustellen, dass der Bildabstand für die betreffenden Bilder richtig eingestellt ist. Der Interpolator ist erforderlich, da die Abbildung von einem Raum in den anderen häufig die Auswertung der Bildintensität an Nicht-Gitterpositionen erfordert. 
+
+Warnung: Verwenden Sie zum Resampling von DWMR-Bildern nrrd-Eingabe- und -Ausgabedateien. 
+
+Warnung: Verwenden Sie diese Funktion nicht zum Resampling von Diffusionstensorbildern, da die Tensoren nicht neu ausgerichtet werden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"></location>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), die vom National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149, finanziert wird. Informationen zu den National Centers for Biomedical Computing finden Sie unter http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"></location>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingaben/Ausgaben</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"></location>
@@ -6552,7 +6601,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"></location>
@@ -6562,231 +6611,231 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"></location>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzvolumen (zum Einstellen der Ausgabeparameter)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"></location>
         <source>Input Volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Abtastrate für die Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="13"></location>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu berechnetes Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="14"></location>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzvolumen (Abstand, Größe, Ausrichtung, Ursprung)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="15"></location>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="16"></location>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter, die verwendet werden, um das Eingabebild in das Ausgabebild umzuwandeln</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"></location>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsknoten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="18"></location>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Verformungsfeldvolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="19"></location>
         <source>Displacement or H-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschiebung oder H-Feld</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"></location>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei mit dem Verformungsfeld (3D-Vektorgrafik mit Vektoren mit 3 Komponenten)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"></location>
         <source>Set if the deformation field is an h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie fest, ob das Verformungsfeld ein h-Feld ist</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"></location>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"></location>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>h-Feld</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"></location>
         <source>displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdrängung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="25"></location>
         <source>Interpolation Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolationstyp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="26"></location>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="27"></location>
         <source>Sampling algorithm (linear or nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>Abtastalgorithmus (linear oder nn (nächster Nachbar), ws (WindowedSinc), bs (BSpline))</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="28"></location>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="29"></location>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="30"></location>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation>nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="31"></location>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="32"></location>
         <source>bs</source>
-        <translation type="unfinished"></translation>
+        <translation>bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="33"></location>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Transformationsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="34"></location>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Parameter sollten normalerweise nicht geändert werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"></location>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformiert die Reihenfolge</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"></location>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Massenumwandlung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"></location>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkonsistenz der Raumorientierung (zwischen Transformation und Bild)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"></location>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie aus, in welcher Reihenfolge die Transformationen gelesen werden sollen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"></location>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Transformation nach der BSpline-Transformation ist nicht als Massentransformation für die BSpline-Transformation festgelegt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"></location>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die räumliche Ausrichtung zwischen Transformation und Bild ist unterschiedlich (RAS/LPS) (Warnung: Wenn es sich bei der Transformation um einen Transformationsknoten in Slicer3 handelt, nicht auswählen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"></location>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="43"></location>
         <source>output-to-input</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe zu Eingabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="42"></location>
         <source>input-to-output</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="44"></location>
         <source>Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Starre/affine Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="45"></location>
         <source>Rotation Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehpunkt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="46"></location>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Zentrierte Transformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="47"></location>
         <source>Image Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildzentrum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="48"></location>
         <source>Inverse ITK Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverse ITK-Transformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="49"></location>
         <source>Rotation Point in case of rotation around a point (otherwise useless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotationspunkt bei Rotation um einen Punkt (ansonsten nutzlos)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"></location>
         <source>Set the center of the transformation to the center of the input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzen Sie den Mittelpunkt der Transformation auf den Mittelpunkt des Eingabebildes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"></location>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild, das zum Zentrieren der Transformation verwendet wird ( nur verwendet, wenn „Zentrierte Transformation“ ausgewählt ist)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"></location>
         <source>Inverse the transformation before applying it from output image to input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Transformation umkehren, bevor sie vom Ausgabebild auf das Eingabebild angewendet wird</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"></location>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="54"></location>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingaben</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="55"></location>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgaben</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="56"></location>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuelle Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="57"></location>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter des Ausgabebildes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"></location>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="59"></location>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"></location>
@@ -6796,72 +6845,72 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"></location>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Richtungsmatrix</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="62"></location>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand entlang jeder Dimension (0 bedeutet, den eingegebenen Abstand verwenden)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="63"></location>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe entlang jeder Dimension (0 bedeutet Verwendung der Eingabegröße)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"></location>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Herkunft des Ausgabebildes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"></location>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 Parameter der Richtungsmatrix nach Zeilen (ijk zu LPS bei LPS-Transformation, ijk zu RAS bei RAS-Transformation)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="66"></location>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Resampling-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="67"></location>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die Neuberechnung verwendete Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"></location>
         <source>Number Of Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Fäden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="69"></location>
         <source>Default Pixel Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard-PixelwertStandard-Pixelwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"></location>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Threads, die zur Berechnung des Ausgabebildes verwendet werden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"></location>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard-Pixelwert für Samples, die außerhalb des Eingabebereichs liegen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"></location>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter der Windowed-Sinc-Interpolationsfunktion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"></location>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die Windowed-Sinc-Interpolation verwendete Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"></location>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Fensterfunktion</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"></location>
@@ -6877,54 +6926,59 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fensterfunktion 
+h = Hamming 
+c = Cosinus 
+w = Welch 
+l = Lanczos 
+b = Blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="76"></location>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="78"></location>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="77"></location>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="79"></location>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="80"></location>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="81"></location>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"></location>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline-Interpolationsfunktion-Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"></location>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die BSpline-Interpolation verwendete Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"></location>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"></location>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline-Ordnung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"></location>
         <source>Manual Transform (Only used if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuelle Transformation (wird nur verwendet, wenn kein Transformationsknoten festgelegt sind)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"></location>
@@ -6939,25 +6993,27 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"></location>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation>12 Parameter der Transformationsmatrix nach Zeilen (die letzten 3 sind Translation)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="90"></location>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsalgorithmus
+rt = starre Transformation
+a = affine Transformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="91"></location>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="93"></location>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="92"></location>
         <source>rt</source>
-        <translation type="unfinished"></translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -6965,12 +7021,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="5"></location>
         <source>Resample Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalare Volumen neu berechnen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"></location>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Resampling eines Bildes ist eine wichtige Aufgabe in der Bildanalyse. Es ist besonders wichtig im Rahmen der Bildregistrierung. Dieses Modul implementiert das Resampling von Bildern mithilfe von itk-Transformationen. Dieses Modul verwendet eine Identitätstransformation. Das Resampling wird durch den Ausgaberaum gesteuert. Das „Resampling” wird in Raumkoordinaten durchgeführt, nicht in Pixel-/Gitterkoordinaten. Es ist sehr wichtig, sicherzustellen, dass der Bildabstand für die betreffenden Bilder richtig eingestellt ist. Der Interpolator ist erforderlich, da die Abbildung von einem Raum in einen anderen häufig die Auswertung der Bildintensität an Nicht-Gitterpositionen erfordert. Es stehen mehrere Interpolatoren zur Verfügung: linear, nächster Nachbar, B-Spline und fünf Varianten von sinc. Die sinc-Interpolatoren sind zwar präziser, aber auch wesentlich langsamer als der lineare und der nächstgelegene Nachbar-Interpolator. Zum Resampling von Label-Volumina sollte ausschließlich die Interpolation des nächsten Nachbarn verwendet werden.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"></location>
@@ -6980,73 +7036,73 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"></location>
         <source>Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für die Neuberechnung der Abtastrate</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="9"></location>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die Neuberechnung verwendete Parameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="10"></location>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="11"></location>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="12"></location>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand entlang jeder Dimension (0 bedeutet, den eingegebenen Abstand verwenden)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"></location>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation type="unfinished"></translation>
+        <translation>Abtastalgorithmus (linear, nächster Nachbar, B-Spline (kubisch) oder fensterbasiertes Sinc). Es stehen mehrere Sinc-Algorithmen zur Verfügung, wie in der folgenden Veröffentlichung beschrieben: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, S. 210-217. Jedes Fenster hat einen Radius von 3;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"></location>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="15"></location>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"></location>
         <source>nearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>nearestNeighbor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="17"></location>
         <source>bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"></location>
         <source>hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>hamming</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="19"></location>
         <source>cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>cosine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="20"></location>
         <source>welch</source>
-        <translation type="unfinished"></translation>
+        <translation>welch</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="21"></location>
         <source>lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>lanczos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="22"></location>
         <source>blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"></location>
@@ -7061,7 +7117,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"></location>
@@ -7071,12 +7127,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"></location>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Abtastrate des Eingangssignals</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"></location>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu berechnetes Volumen</translation>
     </message>
 </context>
 <context>
@@ -7084,87 +7140,87 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="5"></location>
         <source>Robust Statistics Segmenter</source>
-        <translation type="unfinished"></translation>
+        <translation>Robuster statistischer Segmentierer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="6"></location>
         <source>Active contour segmentation using robust statistic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktive Kontursegmentierung unter Verwendung robuster Statistik.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"></location>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), die vom National Institutes of Health finanziert wird</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"></location>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentierungsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"></location>
         <source>Parameters for robust statistics segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für robuste statistische Segmentierung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"></location>
         <source>Approximate volume(mL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungefähres Volumen (mL)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"></location>
         <source>The approximate volume of the object, in mL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das ungefähre Volumen des Objekts in ml.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"></location>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Hilfsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"></location>
         <source>Some auxiliary parameters to control the stop criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Einige Hilfsparameter zur Steuerung der Stoppkriterien.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="14"></location>
         <source>Intensity Homogeneity[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitätshomogenität [0–1,0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="15"></location>
         <source>Boundary Smoothness[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Grenzglätte [0–1,0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"></location>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe-Label-Wert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"></location>
         <source>Max running time(min)</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Laufzeit (min)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"></location>
         <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wie homogen ist die Intensität innerhalb des Objekts? Bei einer konstanten Intensität von 1,0 und einer extrem schwankenden Intensität von 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"></location>
         <source>Given sphere 1.0 score and extreme rough boundary/surface 0 score, what is the expected smoothness of the object?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei einem Wert von 1,0 für die Kugelform und einem Wert von 0 für extrem raue Kanten/Oberflächen, wie glatt ist das Objekt voraussichtlich?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"></location>
         <source>Label value of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Label-Wert des Ausgabebildes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"></location>
         <source>The program will stop if this time is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Programm wird beendet, wenn diese Zeit erreicht ist.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"></location>
@@ -7179,12 +7235,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"></location>
         <source>Original Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Originalbild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"></location>
         <source>Label Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikettenbild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"></location>
@@ -7194,17 +7250,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"></location>
         <source>Original image to be segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu segmentierendes Originalbild</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"></location>
         <source>Label image for initialization</source>
-        <translation type="unfinished"></translation>
+        <translation>Label-Bild für die Initialisierung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"></location>
         <source>Segmented image</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentiertes Bild</translation>
     </message>
 </context>
 <context>
@@ -7212,107 +7268,107 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="5"></location>
         <source>Simple Region Growing Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfache Region-Growing-Segmentierung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"></location>
         <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein einfacher Algorithmus zur Segmentierung durch Bereichswachstum, der auf Intensitätsstatistiken basiert. Um eine Liste von Referenzpunkten (Seeds) für diesen Algorithmus zu erstellen, klicken Sie auf das Symbol in der Symbolleiste, das einen Pfeil auf einen Kugelreferenzpunkt zeigt, um den Modus „Neues Objekt platzieren“ aufzurufen, und verwenden Sie dann das Modul „Markups“. Dieses Modul verwendet die Slicer-Befehlszeilenschnittstelle (CLI) und die ITK-Filter „CurvatureFlowImageFilter“ und „ConfidenceConnectedImageFilter“.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"></location>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Befehlsmodul wurde aus Insight/Examples (Copyright) Insight Software Consortium abgeleitet</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"></location>
         <source>Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Glättungsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"></location>
         <source>Parameters to denoise the image prior to segmenting</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter zur Rauschunterdrückung des Bildes vor der Segmentierung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"></location>
         <source>Smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Glättungsiterationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"></location>
         <source>Timestep</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitschritte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"></location>
         <source>Number of smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Glättungsiterationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"></location>
         <source>Timestep for curvature flow</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitschritt für Krümmungsfluss</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"></location>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentierungsparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"></location>
         <source>Parameters to prescribe the region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter zur Festlegung der Region</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"></location>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl von Iterationen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"></location>
         <source>Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplikator</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"></location>
         <source>Neighborhood Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Umkreis der Nachbarschaft</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"></location>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe-Label-Wert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"></location>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Seeds</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"></location>
         <source>Number of iterations of region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Iterationen der Regionenerweiterung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="22"></location>
         <source>Number of standard deviations to include in intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Standardabweichungen, die in das Intensitätsmodell einbezogen werden sollen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"></location>
         <source>The radius of the neighborhood over which to calculate intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Radius der Nachbarschaft, über den das Intensitätsmodell berechnet werden soll</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"></location>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Der für die Segmentierungsergebnisse zu verwendende ganzzahlige Wert (0–255). Dieser bestimmt die Farbe der Segmentierung, die durch den Region-Growing-Algorithmus erzeugt wird</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"></location>
         <source>Seed point(s) for region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Startpunkt(e) für die Regionvergrößerung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"></location>
@@ -7327,7 +7383,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"></location>
@@ -7337,12 +7393,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"></location>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu filternde Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"></location>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe gefiltert</translation>
     </message>
 </context>
 <context>
@@ -7350,12 +7406,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"></location>
         <source>Subtract Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalare Volumina subtrahieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"></location>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtrahiert zwei Bilder. Obwohl alle Bildtypen als Eingabe unterstützt werden, werden nur vorzeichenbehaftete Typen ausgegeben. Die beiden Bilder müssen nicht die gleichen Abmessungen haben.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"></location>
@@ -7400,7 +7456,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"></location>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Band 1 – Band 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"></location>
@@ -7428,12 +7484,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"></location>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert Skalar Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"></location>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Schwellenwert für ein Bild festlegen.&lt;/p&gt;&lt;p&gt;Bildwerte auf einen vom Benutzer festgelegten Außenwert setzen, wenn sie unter, über oder zwischen einfachen Schwellenwerten liegen. &lt;/p&gt;&lt;p&gt;Schwellenwert oben: Die Werte, die größer oder gleich dem Schwellenwert sind, werden auf Außenwert gesetzt. &lt;/p&gt;&lt;p&gt;Schwellenwert unten: Die Werte, die kleiner oder gleich dem Schwellenwert sind, werden auf Außenwert gesetzt. &lt;/p&gt;&lt;p&gt;Schwellenwert außerhalb: Die Werte außerhalb des Bereichs Unterer-Oberer werden auf Außenwert gesetzt. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"></location>
@@ -7453,7 +7509,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"></location>
@@ -7468,88 +7524,88 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"></location>
         <source>Thresholded input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert für die Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"></location>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtereinstellungen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"></location>
         <source>Threshold Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert-Typ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"></location>
         <source>Threshold Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwerte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"></location>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>Untere</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"></location>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation>obere</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"></location>
         <source>Outside Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Außenwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"></location>
         <source>Negate Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert negieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"></location>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Welche Art von Schwellenwert soll verwendet werden? Wenn „Außen“ ausgewählt ist, werden die Werte „Oberer“ und „Unterer“ verwendet. Wenn „Unterhalb“ ausgewählt ist, wird der Schwellenwert verwendet, wenn „Oberhalb“ ausgewählt ist, wird der Schwellenwert verwendet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"></location>
         <source>Threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwerte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"></location>
         <source>Lower threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedrigerer Schwellenwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"></location>
         <source>Upper threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Oberer Schwellenwert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"></location>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzen Sie die Voxel auf diesen Wert, wenn sie außerhalb des Schwellenwertbereichs liegen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"></location>
         <source>Swap the outside value with the inside value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tauschen Sie den Außenwert mit dem Innenwert aus.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"></location>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"></location>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Außen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"></location>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Unten</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="28"></location>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Oben</translation>
     </message>
 </context>
 <context>
@@ -7557,37 +7613,37 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"></location>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Binärer Bildfilter zum Ausfüllen von Löchern durch Abstimmung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"></location>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wendet einen Abstimmungsvorgang an, um Hohlräume zu füllen. Dies kann zum Glätten von Konturen und zum Füllen von Löchern in binären Bildern verwendet werden. Diese Technik wird häufig bei der Segmentierung vollständiger Organe verwendet, die möglicherweise Kanäle oder Gefäße aufweisen, die in der ursprünglichen Segmentierung nicht berücksichtigt wurden, z. B. Lunge, Nieren, Leber.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"></location>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Befehlsmodul wurde aus Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (Copyright) Insight Software Consortium abgeleitet</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"></location>
         <source>Binary Hole Filling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Binäre Parameter zur Lochfüllung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"></location>
         <source>Parameters for Hole Filling</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für das Füllen von Löchern</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"></location>
         <source>Maximum Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaler Radius</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"></location>
         <source>Majority Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehrheitsschwelle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"></location>
@@ -7602,22 +7658,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"></location>
         <source>The radius of a hole to be filled</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Radius eines zu füllenden Lochs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"></location>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der Pixel über 50 %, die darüber entscheiden, ob ein ausgeschaltetes Pixel eingeschaltet wird oder nicht. Wenn beispielsweise die Nachbarschaft eines Pixels 124 Pixel umfasst (das Pixel selbst nicht mitgerechnet), beträgt 50 % 62, und wenn Sie einen Mehrheits-Schwellenwert von 5 festlegen, bedeutet dies, dass der Filter 67 oder mehr eingeschaltete Nachbarpixel benötigt, um das aktuell ausgeschaltete Pixel einzuschalten.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"></location>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished"></translation>
+        <translation>Der mit dem Hintergrund (nicht dem Objekt) verbundene Wert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"></location>
         <source>The value associated with the foreground (object)</source>
-        <translation type="unfinished"></translation>
+        <translation>Der mit dem Vordergrund (Objekt) verbundene Wert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"></location>
@@ -7632,7 +7688,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"></location>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"></location>
@@ -7642,12 +7698,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"></location>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu filternde Eingangslautstärke</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"></location>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe gefiltert</translation>
     </message>
 </context>
 <context>
@@ -7655,24 +7711,26 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="26"></location>
         <source>Crop volume sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Erntevolumenfolge</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="30"></location>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul kann eine Volumensequenz zuschneiden und neu berechnen, um ihre Größe zu reduzieren und so das Rendern und die Verarbeitung zu beschleunigen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="42"></location>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="56"></location>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="67"></location>
@@ -7682,47 +7740,47 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"></location>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie einen Sequenzknoten für Volumes aus, die zugeschnitten und neu berechnet werden sollen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="76"></location>
         <source>Input volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>Eingangslautstärkereihenfolge: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="88"></location>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Eingabe überschreiben)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="92"></location>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie einen Sequenzknoten aus, in dem die zugeschnittenen und neu berechneten Volumes gespeichert werden sollen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="93"></location>
         <source>Output volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabevolumenfolge: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="108"></location>
         <source>Crop volume parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter für das Erntevolumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"></location>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie die Parameter für das Erntevolumen aus.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="116"></location>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehen Sie zum Modul „Crop Volume“, um die Schnittparameter zu bearbeiten.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"></location>
         <source>Crop volume settings: </source>
-        <translation type="unfinished"></translation>
+        <translation>Bildausschnitt-Einstellungen: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="126"></location>
@@ -7735,32 +7793,32 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="32"></location>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="36"></location>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul ermöglicht das Importieren, Laden und Exportieren von DICOM-Dateien sowie das Senden und Empfangen von Daten über ein DICOM-Netzwerk.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="38"></location>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit wird von NA-MIC, NAC, BIRN, NCIGT und der Slicer Community unterstützt.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="247"></location>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Daten hinzufügen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="278"></location>
         <source>DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Datenbank</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="361"></location>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemeine DICOM-Einstellungen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"></location>
@@ -7770,52 +7828,52 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"></location>
         <source>DICOM general settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemeine DICOM-Einstellung</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"></location>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Legt fest, ob referenzierte DICOM-Serien beim Laden von DICOM angeboten werden oder wie das automatische Verhalten aussieht, wenn die Interaktion deaktiviert ist. Die interaktive Auswahl referenzierter Serien ist die Standardauswahl</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"></location>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer fragen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="378"></location>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Immer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="379"></location>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Niemals</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"></location>
         <source>Load referenced series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzierte Serie laden:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"></location>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokollieren Sie während DICOM-Vorgängen mehr Details. Dies ist nützlich für die Untersuchung von Problemen beim Laden von DICOM-Daten, kann jedoch die Leistung beeinträchtigen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"></location>
         <source>Detailed logging:</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaillierte Protokollierung:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"></location>
         <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Legt die relative Größe der Miniaturansichten bei Verwendung des visuellen DICOM-Browsers fest</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"></location>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Klein</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"></location>
@@ -7830,47 +7888,47 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"></location>
         <source>Thumbnails size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe der Miniaturansichten:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="408"></location>
         <source>DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Einstellungen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="448"></location>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Verzeichnis</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="449"></location>
         <source>Load directory into DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis in die DICOM-Datenbank laden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="543"></location>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es konnte keine DICOM-Datenbank mit den Standardeinstellungen erstellt werden. Bitte erstellen Sie eine neue Datenbank oder aktualisieren Sie die vorhandene inkompatible Datenbank mithilfe der im DICOM-Browser angezeigten Optionen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="554"></location>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Import von Dateien, deren Namen Sonderzeichen (Nicht-ASCII-Zeichen) enthalten, wird nicht unterstützt. Es wird empfohlen, die Dateien in einen anderen Ordner zu verschieben und den Vorgang erneut zu versuchen. Möchten Sie den Import vom aktuellen Speicherort trotzdem versuchen?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"></location>
         <source>Import options</source>
-        <translation type="unfinished"></translation>
+        <translation>Importoptionen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="618"></location>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Importierte Dateien in die DICOM-Datenbank kopieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="620"></location>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, werden alle importierten Dateien in die DICOM-Datenbank kopiert. Dies ist nützlich, wenn Sie Dateien von Wechseldatenträgern importieren.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"></location>
@@ -7880,53 +7938,53 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"></location>
         <source>Show experimental visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Experimentellen visuellen DICOM-Browser anzeigen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="632"></location>
         <source>If enabled, the DICOM browser widget will be substituted with new experimental visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, wird das DICOM-Browser-Widget durch einen neuen experimentellen visuellen Browser ersetzt.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="840"></location>
         <source>not started</source>
-        <translation type="unfinished"></translation>
+        <translation>noch nicht begonnen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="847"></location>
         <source>starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Beginnen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="852"></location>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>unbekannt</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="852"></location>
         <source>running at port %s</source>
-        <translation type="unfinished"></translation>
+        <translation>läuft auf Port %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="868"></location>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfangene DICOM-Datei: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"></location>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die DICOM-Datenbank ist bereits leer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="947"></location>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesamte DICOM-Datenbank löschen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="948"></location>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass Sie alle in die Datenbank kopierten Daten und Dateien ({count} Patienten) löschen möchten?</translation>
     </message>
 </context>
 <context>
@@ -7934,17 +7992,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="26"></location>
         <source>Enhanced US volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Erhöhtes US-Volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"></location>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Laden dieses Bildtyps ist experimentell. Bitte überprüfen Sie die Bildgeometrie und melden Sie alle festgestellten Probleme.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="94"></location>
         <source>Ultrasound volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultraschallvolumen</translation>
     </message>
 </context>
 <context>
@@ -7952,17 +8010,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="32"></location>
         <source>GE ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation>GE ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"></location>
         <source>GE Invenia ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation>GE Invenia ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="118"></location>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Laden dieses Bildtyps ist experimentell. Bitte überprüfen Sie die Bildgröße und -ausrichtung und melden Sie eventuelle Probleme.</translation>
     </message>
 </context>
 <context>
@@ -7970,23 +8028,23 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="36"></location>
         <source>Image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildsequenz</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"></location>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Bildabstand muss möglicherweise kalibriert werden, um genaue Größenmessungen zu erhalten.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"></location>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="206"></location>
         <source>{modality} image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>{modality} Bildsequenz</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"></location>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation type="unfinished"></translation>
+        <translation>{modality} Bildsequenz ({count} Ebenen)</translation>
     </message>
 </context>
 <context>
@@ -7994,144 +8052,144 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="165"></location>
         <source>DICOM Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Browser</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="221"></location>
         <source>Uncheck All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle abwählen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="227"></location>
         <source>Examine</source>
-        <translation type="unfinished"></translation>
+        <translation>Untersuchen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="233"></location>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="236"></location>
         <source>Load selected items into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Elemente in die Szene laden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="241"></location>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="316"></location>
         <source>The following data type is in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Der folgende Datentyp befindet sich in Ihrer Datenbank:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="318"></location>
         <source>The following data types are in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgenden Datentypen befinden sich in Ihrer Datenbank:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="323"></location>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgende Erweiterung ist nicht installiert, kann Ihnen jedoch bei der Arbeit mit diesen Daten helfen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="325"></location>
         <source>The following extensions are not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgenden Erweiterungen sind nicht installiert, können Ihnen jedoch bei der Arbeit mit diesen Daten helfen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="329"></location>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie können Erweiterungen über die Option „Erweiterungsmanager“ im Menü „Ansicht“ installieren.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="329"></location>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="497"></location>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="470"></location>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>{missing_file_count} von {total_file_count} ausgewählten Dateien, die in der Datenbank aufgeführt sind, können auf der Festplatte nicht gefunden werden.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="477"></location>
         <source>Checking {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Überprüfen {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="495"></location>
         <source>Warning: {messages}</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnung: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="496"></location>
         <source>See python console for error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siehe Python-Konsole für Fehlermeldung.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="606"></location>
         <source>Loading {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="629"></location>
         <source>DICOM loading</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Laden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="640"></location>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnung im DICOM-Plugin {load_type} beim Überprüfen des ladbaren {name}: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="645"></location>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Während des Ladevorgangs wurden Warnungen erkannt.  Überprüfen Sie die Daten im erweiterten Modus auf Details.  Trotzdem laden?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="656"></location>
         <source>Referenced datasets found</source>
-        <translation type="unfinished"></translation>
+        <translation>Gefundene referenzierte Datensätze</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="660"></location>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die geladenen DICOM-Objekte enthalten Verweise auf andere Datensätze, die Sie nicht zum Laden ausgewählt haben. Wählen Sie „Ja“, wenn Sie die folgenden referenzierten Datensätze laden möchten, „Nein“, wenn Sie nur die ursprünglich ausgewählten Serien laden möchten, oder „Abbrechen“, um den Ladevorgang abzubrechen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="670"></location>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished"></translation>
+        <translation>Denken Sie an die Wahlmöglichkeit und hören Sie auf zu fragen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="672"></location>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann später in den Anwendungseinstellungen / DICOM geändert werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="699"></location>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenzen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="732"></location>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Daten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="732"></location>
         <source>Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesegerät</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="732"></location>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnungen</translation>
     </message>
 </context>
 <context>
@@ -8139,128 +8197,128 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="26"></location>
         <source>DICOM Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Patcher</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="30"></location>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beheben Sie häufige Probleme in DICOM-Dateien. Dieses Modul kann Ihnen dabei helfen, DICOM-Dateien zu reparieren, die Slicer nicht importieren kann.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="40"></location>
         <source>This file was originally developed by Andras Lasso, PerkLab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Datei wurde ursprünglich von Andras Lasso, PerkLab, entwickelt.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="54"></location>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="62"></location>
         <source>Input DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe-DICOM-Verzeichnis:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="67"></location>
         <source>Output DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe-DICOM-Verzeichnis:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="72"></location>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzen Sie Datei- und Ordnernamen durch automatisch generierte Namen. Behebt Fehler, die durch Dateipfade verursacht werden, die Sonderzeichen enthalten oder zu lang sind.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="73"></location>
         <source>Normalize file names</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateinamen normalisieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="80"></location>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generieren Sie den Namen und die ID des Patienten aus der ersten Datei in einem Verzeichnis und weisen Sie allen anderen Dateien im selben Verzeichnis denselben Namen und dieselbe ID zu. Aktivieren Sie diese Option, wenn für jede gepatchte Datei ein separates Patientenverzeichnis erstellt wird.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="81"></location>
         <source>Force same patient name and ID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Gleichen Patientennamen und gleiche ID in jedem Verzeichnis erzwingen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="88"></location>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generieren Sie für jedes Verzeichnis eine neue Serieninstanz-UID und legen Sie diese in allen Dateien desselben Verzeichnisses fest. Aktivieren Sie diese Option, um alle Frames in einem Ordner zwangsweise in einem einzigen Volume abzulegen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="89"></location>
         <source>Force same series instance UID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Erzwingt die gleiche Serien-Instanz-UID in jedem Verzeichnis</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="95"></location>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generieren Sie fehlende Patienten-, Studien- und Serien-IDs. Es wird davon ausgegangen, dass alle Dateien in einem Verzeichnis zur selben Serie gehören. Behebt Fehler, die durch zu aggressive Anonymisierung oder falsche DICOM-Bildkonverter verursacht werden.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="96"></location>
         <source>Generate missing patient/study/series IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlende Patienten-/Studien-/Serien-IDs generieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="101"></location>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie eine „Bildpositionssequenz“ für Mehrfachbilddateien, die nur über das Feld „SliceThickness“ verfügen. Behebt einen Fehler in Dolphin 3D CBCT-Scannern.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="102"></location>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Slice-Position für Multi-Frame-Volumes generieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"></location>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, werden Ultraschallbildserien nach Instanznummern aufgeteilt. Dies ist nützlich, wenn viele Ultraschallaufnahmen in derselben Serie erscheinen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="123"></location>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, wird die photometrische Interpretation von JPEG-komprimierten Ultraschallbildern auf YBR_FULL_422 gesetzt. Dies ist nützlich, um Inkonsistenzen in JPEG-komprimierten Bildern zu beheben, die aufgrund von Unklarheiten im DICOM-Standard vor CP156 RGB als photometrische Interpretation verwendet haben. Weitere Informationen finden Sie unter https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE und https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="146"></location>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, werden einige patientenbezogene Informationen aus den gepatchten DICOM-Dateien entfernt. Es gibt viele Felder, die einen Patienten identifizieren können, diese Funktion entfernt jedoch nicht alle davon.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"></location>
         <source>Partially anonymize</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilweise anonymisieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="154"></location>
         <source>Fix DICOM files in input directory and write them to output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Dateien im Eingabeverzeichnis reparieren und in das Ausgabeverzeichnis schreiben</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="161"></location>
         <source>Import DICOM files in output directory into the application&apos;s DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Importieren Sie DICOM-Dateien aus dem Ausgabeverzeichnis in die DICOM-Datenbank der Anwendung</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="181"></location>
         <source>Unexpected error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unerwarteter Fehler.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="281"></location>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht näher bezeichneter Patient {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="350"></location>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="560"></location>
         <source>Unspecified Patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht näher bezeichneter Patient</translation>
     </message>
 </context>
 <context>
@@ -8268,27 +8326,27 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="37"></location>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalarvolumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"></location>
         <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevorzugtes Backend.  Archetype wurde vor Juni 2017 standardmäßig in Slicer verwendet. Ändern Sie diese Einstellung, wenn zuvor geladene Daten nicht mehr funktionieren (und melden Sie das Problem).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"></location>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Reader-Ansatz:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"></location>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren Sie die nichtlineare Transformation, um Bilder mit unregelmäßiger Geometrie zu regularisieren: nicht geradliniges Raster (z. B. bei CT-Aufnahmen mit geneigter Gantry) und ungleichmäßiger Schichtabstand. Wenn keine Regularisierung angewendet wird, kann das Bild verzerrt erscheinen, wenn es mit unregelmäßiger Geometrie aufgenommen wurde.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"></location>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard (Regularisierungstransformation anwenden)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"></location>
@@ -8298,98 +8356,98 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="98"></location>
         <source>apply regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Regularisierungstransformation anwenden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="99"></location>
         <source>harden regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Harden-Regularisierungstransformation</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="102"></location>
         <source>Acquisition geometry regularization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Regularisierung der Erfassungsgeometrie:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="106"></location>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="119"></location>
         <source>DICOM examination settings</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Untersuchungseinstellungen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"></location>
         <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bietet das Laden einzelner Schichten oder einer Gruppe von Schichten, die zu einem bestimmten Zeitpunkt (Inhalt oder Auslösezeitpunkt) erfasst wurden. Wenn diese Option aktiviert ist, werden möglicherweise zahlreiche ladbare Elemente im Abschnitt „Erweitert“ des DICOM-Browsers angezeigt.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"></location>
         <source>Allow loading subseries by time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden von Unterreihen nach Zeit zulassen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="135"></location>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation type="unfinished"></translation>
+        <translation>Der erste Band ist {imageScalarType1}, der zweite jedoch {imageScalarType2}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="140"></location>
         <source>Pixel data mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixeldaten-Fehlanpassung</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="200"></location>
         <source>{count} files, first file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} Dateien, erste Datei: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="306"></location>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} Dateien, gruppiert nach {tag} = {value}. Erste Datei: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="344"></location>
         <source>There is no pixel data attribute for the DICOM objects, but they might be readable as secondary capture images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es gibt keine Pixeldatenattribute für die DICOM-Objekte, aber sie können möglicherweise als sekundäre Aufnahmegrafiken gelesen werden.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="649"></location>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellt eine Reihe von DICOM-Dateien aus skalaren Volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="677"></location>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Themenhierarchie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="681"></location>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Serie „{itemName}“ kann nicht exportiert werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="698"></location>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Studie für die Serie „{volumeName}“ kann nicht abgerufen werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="703"></location>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Patient für Serie „{volumeName}“ kann nicht abgerufen werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="752"></location>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Leere Modalität für Serie „{volumeName}“</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="766"></location>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Serie existiert bereits in der Datenbank unter der Serieninstanz-ID {seriesInstanceUID}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="778"></location>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Erstellen von DICOM-Dateien aus dem Skalarvolumen ist fehlgeschlagen. Weitere Informationen finden Sie im Anwendungsprotokoll.</translation>
     </message>
 </context>
 <context>
@@ -8397,22 +8455,22 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="28"></location>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer-Datenpaket</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="76"></location>
         <source>Contains a Slicer scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Enthält eine Slicer-Szene</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="169"></location>
         <source>Slicer data bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer-Datenpakete</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="170"></location>
         <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellt eine Serie, die die gesamte Slicer-Szene in einen privaten DICOM-Tag einbettet</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="182"></location>
