@@ -9250,19 +9250,22 @@ and is exclusively available for research and teaching. You are not authorized t
 use it for commercial purposes.&lt;/p&gt;
 </source>
         <translation>
-&lt;p&gt; இந்த வேலை புற்றுநோய் பராமரிப்பு ஒன்ராறியோவால் நிதியளிக்கப்பட்டது
- மற்றும் கதிர்வீச்சு புற்றுநோயியல் (ஒக்கைரோ) &lt;/p&gt; 
+&lt;p&gt;இந்தப் பணிக்குப் புற்றுநோய் பராமரிப்பு ஒன்ராறியோ
+மற்றும் கதிர்வீச்சு புற்றுநோயியல் கூட்டமைப்பு (புபஒமகபுகூ) ஓரளவு நிதியளித்தன&lt;/p&gt;
 
-&lt;p&gt;இல் தகவமைப்பு தலையீடுகளுக்கான ஒன்ராறியோ கூட்டமைப்பு &lt;/p&gt;
+&lt;p&gt;எம்ஆர்தலை, சிபிசிடி-எம்ஆர் தலை மற்றும் சி.டி-எம்ஆர் மூளை தரவுத் தொகுப்புகள் ஆகியவை படங்களில் தெரியும் நபர்களால் 3டி ச்லைசர் திட்டத்திற்கு நன்கொடையாக வழங்கப்பட்டன, அவை எந்தக் கட்டுப்பாடுகளும் இல்லாமல் பயன்படுத்தப்பட்டன.&lt;/p&gt;
 
- &lt;p&gt; எம்.ஆர்எட், சிபிசிடி-எம்ஆர் எட் மற்றும் சி.டி-எம்ஆர் மூளை தரவுத் தொகுப்புகள் 3 டி ச்லைசர் திட்டத்திற்கு படங்களில் தெரியும் நபர்களால் நன்கொடையாக வழங்கப்பட்டன, எந்தவொரு கட்டுப்பாடுகளும் இல்லாமல் பயன்படுத்தப்பட வேண்டும். &lt;/p&gt;
+&lt;p&gt;CTLiver தரவுத்தொகுப்பு &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;மருத்துவ டெகாத்லான் திட்டம்&lt;/a&gt; (imagesTr/liver_100.nii.gz in Task03_Liver சேகரிப்பு)
+அனுமதிக்கப்பட்ட பதிப்புரிமை-உரிமத்துடன் (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), தரவைப் பகிர, விநியோகிக்க மற்றும் மேம்படுத்த அனுமதிக்கிறது.&lt;/p&gt;
 
- &lt;p&gt; ctliver தரவுத்தொகுப்பு &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;மருத்துவ டெகாத்லான் திட்டம் &lt;/a&gt;
- அனுமதிக்கப்பட்ட பதிப்புரிமை-உரிமையுடன் (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0 &lt;/a&gt;), தரவைப் பகிரவும், விநியோகிக்கவும் அனுமதிக்கிறது மற்றும் மேம்படுத்தப்பட்டது. &lt;/p&gt;
+&lt;p&gt;சி.டி.ஏ வயிற்று (Panoramix) தரவுத்தொகுப்பு &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM பட நூலகத்திலிருந்து&lt;/a&gt; வருகிறது
 
- &lt;p&gt; சி.டி.ஏ அடிவயிற்று (பனோரமிக்ச்) தரவுத்தொகுப்பு &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;OSIRIX DICOM பட நூலகம் &lt;/a&gt;
- மற்றும் ஆராய்ச்சி மற்றும் கற்பிப்பதற்காகப் பிரத்தியேகமாகக் கிடைக்கிறது. மறுபகிர்வு செய்ய அல்லது விற்க உங்களுக்கு ஏற்பு இல்லை, அல்லது
- வணிக நோக்கங்களுக்காக இதைப் பயன்படுத்தவும். &lt;/p&gt;
+மேலும் இது ஆராய்ச்சி மற்றும் கற்பிப்பதற்காக மட்டுமே கிடைக்கிறது. அதை மறுபகிர்வு செய்யவோ விற்கவோ அல்லது
+
+வணிக நோக்கங்களுக்காகப் பயன்படுத்தவோ உங்களுக்கு அதிகாரம் இல்லை.&lt;/p&gt;
+&lt;p&gt; (பனோரமிக்ச்) தரவுத்தொகுப்பு &lt;a&gt; இலிருந்து வருகிறது href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM பட நூலகம்&lt;/a&gt;
+மேலும் ஆராய்ச்சி மற்றும் கற்பித்தலுக்கு மட்டுமே கிடைக்கிறது. அதை மறுபகிர்வு செய்யவோ விற்கவோ அல்லது
+வணிக நோக்கங்களுக்காகப் பயன்படுத்தவோ உங்களுக்கு அதிகாரம் இல்லை.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -13178,7 +13181,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p allart = &quot;நியாயப்படுத்துங்கள்&quot;&gt; பாத்ஃபைண்டிங் அளவிடக்கூடிய எடைகளைக் கணக்கிடப் பயன்படுகிறது. &amp; Quot; ஆக்டிவ்ச்கலார் &amp; quot; மாறக்கூடிய பெயர். மற்ற எல்லா அளவீடுகளையும் அவை சட்டவிரோத எழுத்துக்களைக் கொண்டிருக்கவில்லை என்று வழங்கப்பட்ட மாறிகள் என அணுகலாம் (&amp; quot; ./* போன்றவை.). ) &amp; quot;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;பாதை கண்டுபிடிப்பிற்கான அளவிடக்கூடிய எடைகளைக் கணக்கிடப் பயன்படுத்தப்படும் செயல்பாடு. தற்போது செயலில் உள்ள புள்ளி அளவீடுகளை &amp;quot;activeScalar&amp;quot; மாறிப் பெயரைப் பயன்படுத்தி அணுகலாம். மற்ற அனைத்து அளவீடுகளையும் மாறிகளாக அணுகலாம், அவற்றில் எந்தச் சட்டவிரோத எழுத்துக்களும் இல்லை (&amp;quot;./* போன்றவை).&lt;/p&gt;&lt;p&gt;எடுத்துக்காட்டுச் செயல்பாடுகள்: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="167"></location>
@@ -14694,7 +14697,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"></location>
         <source>Fit_to_window</source>
-        <translation>Fit_to_window</translation>
+        <translation>சாளரத்திற்கு_பொருத்து</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"></location>
@@ -16168,7 +16171,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="100"></location>
         <source>fps</source>
-        <translation>fps</translation>
+        <translation>கநொடிக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="122"></location>
@@ -17785,7 +17788,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="256"></location>
         <source>Size scale</source>
-        <translation>அளவு அளவு</translation>
+        <translation>அளவு அளவிடல்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="259"></location>
@@ -18427,12 +18430,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகு முன்னொட்டை அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகு முன்னொட்டு அலகு மதிப்புக்கு முன் பயன்பாட்டில் காண்பிக்கப்படும். எடுத்துக்காட்டாக, முன்னொட்டு &amp; quot; ஒரு யூனிட்டுக்கு முன் பயன்படுத்தலாம்</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகின் முன்னொட்டை அமைக்கவும்.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0px; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகின் மதிப்புக்கு முன் பயன்பாட்டில் அலகு முன்னொட்டு காட்டப்படும். எடுத்துக்காட்டாக, &amp;quot;&lt;/span&gt;&lt;span style=&quot;font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&amp;quot; என்ற முன்னொட்டை ஒரு அலகிற்கு முன் பயன்படுத்தலாம்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="79"></location>
