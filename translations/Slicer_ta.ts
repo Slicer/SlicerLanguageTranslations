@@ -9258,8 +9258,7 @@ use it for commercial purposes.&lt;/p&gt;
 &lt;p&gt;CTLiver தரவுத்தொகுப்பு &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;மருத்துவ டெகாத்லான் திட்டம்&lt;/a&gt; (imagesTr/liver_100.nii.gz in Task03_Liver சேகரிப்பு)
 அனுமதிக்கப்பட்ட பதிப்புரிமை-உரிமத்துடன் (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), தரவைப் பகிர, விநியோகிக்க மற்றும் மேம்படுத்த அனுமதிக்கிறது.&lt;/p&gt;
 
-&lt;p&gt;சி.டி.ஏ வயிற்று (Panoramix) தரவுத்தொகுப்பு &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM பட நூலகத்திலிருந்து&lt;/a&gt; வருகிறது
-
+&lt;p&gt;சிடிஏ வயிற்று (Panoramix) தரவுத்தொகுப்பு &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM பட நூலகத்திலிருந்து&lt;/a&gt; வருகிறது
 மேலும் இது ஆராய்ச்சி மற்றும் கற்பிப்பதற்காக மட்டுமே கிடைக்கிறது. அதை மறுபகிர்வு செய்யவோ விற்கவோ அல்லது
 
 வணிக நோக்கங்களுக்காகப் பயன்படுத்தவோ உங்களுக்கு அதிகாரம் இல்லை.&lt;/p&gt;
@@ -18446,11 +18445,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+ &lt;html&gt; &lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
  பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகு பின்னொட்டை அமைக்கவும். எடுத்துக்காட்டாக, அலகு &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; font-weight: 600;&quot;&gt; மீட்டர் &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt;&quot;&gt; வேண்டும் ஒருவேளை &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; font-weight: 600; பி&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+ &lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகு பின்னொட்டை அமைக்கவும். எடுத்துக்காட்டாக, அலகு &lt;/span&gt; &lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;மீட்டர் &lt;/span&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt;வேண்டும் ஒருவேளை &lt;/span&gt; &lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;மீ&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"></location>
@@ -18465,12 +18464,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the maximum value possible for the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+ &lt;html&gt; &lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
  பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகுக்கு சாத்தியமான அதிகபட்ச மதிப்பை அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8PT;&quot; font-size: 8pt-600; &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+ &lt;/style&gt; &lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகுக்குச் வாய்ப்புள்ள மிகையளவு மதிப்பை அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
+ &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;எடுத்துகாட்டாக, வேகத்தின் அலகு(&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;மி.நொ&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;இல் -1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) மிகையளவு 3e6. &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="131"></location>
@@ -18485,12 +18484,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the precision (i.e. number of significant digits) of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This is used by the GUI to determine how many digits one can input for the current unit. For example, with a &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Precision&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; of 3 the 1.0123 will be rounded to 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+ &lt;html&gt; &lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
  பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகின் துல்லியத்தை (அதாவது குறிப்பிடத்தக்க இலக்கங்களின் எண்ணிக்கை) அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; இது தற்போதைய அலகுக்கு எத்தனை இலக்கங்களை உள்ளிடலாம் என்பதை தீர்மானிக்க GUI ஆல் பயன்படுத்தப்படுகிறது. எடுத்துக்காட்டாக, ஒரு &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; எழுத்துரு-எடை: 600;&quot;&gt; துல்லியம் &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt;&quot;&gt; 3 இன் 1.0123 1.112 க்கு வட்டமிடப்படும்</translation>
+ &lt;/style&gt; &lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+ &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகின் துல்லியத்தை (அதாவது குறிப்பிடத் தக்க இலக்கங்களின் எண்ணிக்கை) அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
+ &lt;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;இது தற்போதைய அலகுக்கு எத்தனை இலக்கங்களை உள்ளிடலாம் என்பதை தீர்மானிக்க GUI ஆல் பயன்படுத்தப்படுகிறது. எடுத்துக்காட்டாக, ஒரு &lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;துல்லியம் &lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; 3 இன் 1.0123 1.112 க்கு வட்டமிடப்படும்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="159"></location>
@@ -18505,12 +18504,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Set the minimum value possible for the unit.&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;For example, a temperature unit (in &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) should probably have a minimum of 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+ &lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
  பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; அலகுக்கு சாத்தியம். &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;margin-top: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; வெப்பநிலை அலகு (&lt;span பாணி = &quot;எழுத்துரு-எடை: 600;&quot;&gt; கெல்வின் &lt;/span&gt;) குறைந்தபட்சம் 0 ஆக இருக்க வேண்டும்.</translation>
+ &lt;/style&gt; &lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; அலகுக்குச் சாத்தியம். &lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;வெப்பநிலை அலகு (&lt;span style=&quot; font-weight:600;&quot;&gt; கெல்வின் &lt;/span&gt;) குறைந்தபட்சம் 0 ஆக இருக்க வேண்டும்.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="190"></location>
@@ -20701,7 +20700,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="127"></location>
         <source>Recursively include children</source>
-        <translation>மீண்டும் மீண்டும் குழந்தைகளைச் சேர்க்கவும்</translation>
+        <translation>மறுநிகழும் குழந்தைகளைச் சேர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="134"></location>
@@ -22025,7 +22024,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="470"></location>
         <source>Undo the history of undoable commands, from last to first.</source>
-        <translation>செயல்தவிர்க்க முடியாத கட்டளைகளின் வரலாற்றை செயல்தவிர்க்கவும், கடைசி முதல் முதல் வரை.</translation>
+        <translation>செயல்தவிர்க்க முடியாத கட்டளைகளின் வரலாற்றைச் செயல்தவிர்க்கவும், கடைசியிலிருந்து முதல் வரை.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="473"></location>
@@ -22040,7 +22039,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="485"></location>
         <source>Redo the history of commands most recently undone, from last to first.</source>
-        <translation>கட்டளைகளின் வரலாற்றை மீண்டும் அண்மைக் காலத்தில் செயல்தவிர்க்கவில்லை, கடைசியாக முதல் முதல் வரை.</translation>
+        <translation>கட்டளைகளின் வரலாற்றை மீண்டும் அண்மைக் காலத்தில் செயல்தவிர்க்கவில்லை, கடைசியிலிருந்து முதல் வரை.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="488"></location>
@@ -25096,7 +25095,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="472"></location>
         <source>Select Segmentation node to copy/move segments to/from.</source>
-        <translation>பிரிவுகளை நகலெடுக்க/நகர்த்த/நகர்த்த பிரித்தல் முனையைத் தேர்ந்தெடுக்கவும்.</translation>
+        <translation>பிரிவுகளை நகலெடுக்க/நகர்த்த பிரித்தல் முனையைத் தேர்ந்தெடு.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="513"></location>
@@ -27097,7 +27096,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="176"></location>
         <source>Ambient shadows size scale</source>
-        <translation>சுற்றுப்புற நிழல்கள் அளவு அளவு</translation>
+        <translation>சுற்றுப்புற நிழல்கள் அளவீடு அளவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="181"></location>
@@ -29583,7 +29582,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="80"></location>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation>தொகுதி வழங்குதல் தொகுதி தரவுத்தொகுப்புகளின் ஊடாடும் தொகுதி வழங்குதல் மாற்றுவதற்கான மேம்பட்ட கருவிகளை வழங்குகிறது. , மற்றும் இந்த அளவுருக்களைக் குறிப்பிடும் பரிமாற்ற செயல்பாடுகளைத் தனிப்பயனாக்குவதற்கான கருவிகள். &lt;br/&gt;</translation>
+        <translation>தரவுத்தொகுப்புகளின் ஊடாடும் தொகுதி ஒழுங்கமைப்பை மாற்றுவதற்கான மேம்பட்ட கருவிகளைத் தொகுதி ஒழுங்கமைவு தொகுதி வழங்குகிறது.&lt;br/&gt;ஆதரிக்கப்பட்டால், வன்பொருள் துரிதப்படுத்தப்பட்ட தொகுதி ஒழுங்கமைவு கிடைக்கும். பணிக்கு ஏற்ற முறையில் தரவின் ஒளிபுகாநிலையை வண்ணமயமாக்கவும் அமைக்கவும் முன்னமைக்கப்பட்ட பரிமாற்ற செயல்பாடுகளைத் தேர்ந்தெடுக்க தொகுதி அனுமதிக்கிறது, மேலும் இந்த அளவுருக்களைக் குறிப்பிடும் பரிமாற்ற செயல்பாடுகளைத் தனிப்பயனாக்க கருவிகள் உள்ளன.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="100"></location>
@@ -29975,7 +29974,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="73"></location>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
-        <translation>காட்சியில் தொகுதி படத் தரவின் காட்சியைக் கட்டுப்படுத்தும் சாளரம், நிலை, வாசல், வண்ண LUT மற்றும் பிற அளவுருக்களை சரிசெய்வதற்கான இடைமுகம் தொகுதி தொகுதி ஆகும்.</translation>
+        <translation>காட்சியில் தொகுதி படத் தரவின் காட்சியைக் கட்டுப்படுத்தும் சாளரம், நிலை, வாசல், வண்ண LUT மற்றும் பிற அளவுருக்களைச் சரிசெய்வதற்கான இடைமுகம் தொகுதி ஆகும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="91"></location>
@@ -31197,7 +31196,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSceneViewStorageNode.cxx" line="46"></location>
         <source>Scene View Storage</source>
-        <translation>காட்சி காட்சி சேமிப்பு</translation>
+        <translation>காட்சி பார்வை சேமிப்பு</translation>
     </message>
 </context>
 <context>
