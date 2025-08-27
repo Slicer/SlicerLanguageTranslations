@@ -495,17 +495,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"></location>
         <source>Rigid+Scale+Skew(10 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Starre Skala + Schrägstellung (10 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"></location>
         <source>Affine(12 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Affine(12 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"></location>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline (&gt;27 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"></location>
@@ -773,42 +773,42 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"></location>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation>ResampleInPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"></location>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"></location>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"></location>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"></location>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosinus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"></location>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"></location>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"></location>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"></location>
@@ -818,7 +818,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"></location>
         <source>Max Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Iterationen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"></location>
@@ -828,7 +828,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"></location>
         <source>Minimum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Schrittlänge</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"></location>
@@ -945,7 +945,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"></location>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Proben</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"></location>
@@ -1534,7 +1534,7 @@ BEACHTEN SIE, dass empfohlen wird, anstelle dieser Option samplingPercentage zu 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"></location>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"></location>
@@ -1544,7 +1544,7 @@ BEACHTEN SIE, dass empfohlen wird, anstelle dieser Option samplingPercentage zu 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"></location>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"></location>
@@ -1554,27 +1554,27 @@ BEACHTEN SIE, dass empfohlen wird, anstelle dieser Option samplingPercentage zu 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"></location>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"></location>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Kosinus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"></location>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="49"></location>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"></location>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"></location>
@@ -3204,7 +3204,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"></location>
         <source>Boolean Default true</source>
-        <translation type="unfinished"></translation>
+        <translation>Boolesche Standardwerteinstellung: wahr</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"></location>
@@ -3219,12 +3219,12 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"></location>
         <source>A boolean default true</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein boolescher Standardwert true</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="37"></location>
         <source>A boolean default false</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein boolescher Standardwert falsch</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"></location>
@@ -5047,7 +5047,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"></location>
         <source>Laplacian</source>
-        <translation type="unfinished"></translation>
+        <translation>Laplacian</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"></location>
@@ -8475,7 +8475,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="182"></location>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Themenhierarchie</translation>
     </message>
 </context>
 <context>
@@ -8483,59 +8483,59 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="26"></location>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Lautstärkesequenz</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="96"></location>
         <source>Creates a series of DICOM files from volume sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellt eine Reihe von DICOM-Dateien aus Volumensequenzen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"></location>
         <source>Volume sequence of {count} frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumenfolge von {count} Frames</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="102"></location>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="103"></location>
         <source>Unknown manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannter Hersteller</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="104"></location>
         <source>Unknown model</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekanntes Modell</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="158"></location>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Themenhierarchie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="162"></location>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="168"></location>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="174"></location>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Serie „{itemName}“ kann nicht als Volumenfolge exportiert werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"></location>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Studie für Serie „{volumeName}“ nicht abrufen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="186"></location>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Patient für Serie „{volumeName}“ kann nicht abgerufen werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="215"></location>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Leere Modalität für Serie „{volumeName}“</translation>
     </message>
 </context>
 <context>
@@ -8546,57 +8546,60 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
 The DataProbe module is used to get information about the current RAS position being
 indicated by the mouse position.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Das DataProbe-Modul wird verwendet, um Informationen über die aktuelle RAS-Position zu erhalten, die
+durch die Mausposition angezeigt wird.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="35"></location>
         <source>This work is supported by NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit wird unterstützt von NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis und Fedorov) und der Slicer Community.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="134"></location>
         <source>No volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="137"></location>
         <source>No Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Bild</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="141"></location>
         <source>Out of Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Außerhalb des Rahmens</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="145"></location>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannt</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="157"></location>
         <source>Out of bounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Außerhalb der Grenzen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="160"></location>
         <source>No Point Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Punktdaten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="164"></location>
         <source>No Tensor Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Tensordaten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="182"></location>
         <source>{numberOfComponents} components</source>
-        <translation type="unfinished"></translation>
+        <translation>{numberOfComponents} Komponenten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="294"></location>
         <source>Data Probe: {sceneName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenabfrage: {sceneName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="25"></location>
@@ -8607,23 +8610,23 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"></location>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="343"></location>
         <source>{description} [slice: {instanceNumber}]</source>
-        <translation type="unfinished"></translation>
+        <translation>{description} [slice: {instanceNumber}]</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="425"></location>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="515"></location>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation type="unfinished"></translation>
+        <translation>Weitere Informationen und Optionen finden Sie im DataProbe-Modul</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="439"></location>
         <source>Show Zoomed Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Gezoomten Ausschnitt anzeigen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="556"></location>
@@ -8636,7 +8639,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="33"></location>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Endoskopie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="67"></location>
@@ -8645,7 +8648,11 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Diese Arbeit wird unterstützt durch PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
+(Siehe &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
+NA-MIC, NAC, BIRN, NCIGT und die Slicer-Community.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="107"></location>
@@ -8655,7 +8662,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="116"></location>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie eine Kamera aus, die diesen Weg entlangfliegen soll.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="53"></location>
@@ -8671,7 +8678,18 @@ The Frame Delay slider slows down the animation by adding more time between fram
 The View Angle provides is used to approximate the optics of an endoscopy system.
 You can save the camera position at any point by clicking &quot;Save camera position&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Erstellen oder importieren Sie eine Markup-Kurve.
+Wählen Sie die Kamera aus, die Sie entweder für die Wiedergabe des Flythroughs oder für die Bearbeitung der zugehörigen Keyframes verwenden möchten.
+Wählen Sie die Kamera aus, die Sie für die Wiedergabe des Flythroughs verwenden möchten.
+Wenn Sie auf „Diese Kurve verwenden“ klicken, wird eine Flythrough-Kurve erstellt und das Flythrough-Bedienfeld aktiviert.
+Mit dem Frame-Schieberegler können Sie manuell durch den Pfad scrollen.
+Mit der Schaltfläche „Wiedergabe/Pause“ können Sie den animierten Flythrough umschalten.
+Der Frame-Sprung-Schieberegler beschleunigt die Animation, indem er Punkte auf dem Pfad überspringt.
+Der Frame-Verzögerungs-Schieberegler verlangsamt die Animation, indem er mehr Zeit zwischen den Frames hinzufügt.
+Der Blickwinkel wird verwendet, um die Optik eines Endoskopiesystems anzunähern.
+Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposition speichern“ klicken.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"></location>
@@ -8681,109 +8699,109 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"></location>
         <source>Select a curve to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie eine Kurve aus, um Kontrollpunkte für den Pfad zu definieren.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="133"></location>
         <source>Curve to modify:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu ändernde Kurve:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="140"></location>
         <source>Flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchflug</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="148"></location>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="418"></location>
         <source>Play flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchflug abspielen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="150"></location>
         <source>Start or stop the flythrough animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Fluganimation starten oder stoppen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="158"></location>
         <source>The current frame along the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der aktuelle Rahmen entlang des Pfades.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"></location>
         <source>Frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="166"></location>
         <source>Number of frames to skip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der zu überspringenden Frames.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="170"></location>
         <source>Frame skip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild überspringen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="175"></location>
         <source>Time delay between animation frames.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitverzögerung zwischen den Animationsbildern.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="181"></location>
         <source>Frame delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenverzögerung:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="186"></location>
         <source>Field of view of the camera in degrees.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtfeld der Kamera in Grad.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="191"></location>
         <source>View Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Blickwinkel:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="197"></location>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="357"></location>
         <source>Save Keyframe Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyframe-Orientierung speichern</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="199"></location>
         <source>Save the camera orientation for this frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameraausrichtung für dieses Bild speichern.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="205"></location>
         <source>Delete Keyframe Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyframe-Ausrichtung löschen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="207"></location>
         <source>Delete the saved camera orientation for this frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen Sie die gespeicherte Kameraausrichtung für diesen Frame.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="216"></location>
         <source>First</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="218"></location>
         <source>Go to the first user-supplied keyframe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum ersten vom Benutzer angegebenen Keyframe.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="223"></location>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="225"></location>
         <source>Go to the previous user-supplied keyframe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum vorherigen vom Benutzer festgelegten Keyframe gehen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"></location>
@@ -8793,52 +8811,52 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="232"></location>
         <source>Go to the next user-supplied keyframe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum nächsten vom Benutzer angegebenen Keyframe.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="237"></location>
         <source>Last</source>
-        <translation type="unfinished"></translation>
+        <translation>Letztes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="239"></location>
         <source>Go to the last user-supplied keyframe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum letzten vom Benutzer angegebenen Keyframe.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="250"></location>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="262"></location>
         <source>Select or create the destination model for exporting the flythrough path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie das Zielmodell für den Export des Flythrough-Pfads aus oder erstellen Sie es.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="268"></location>
         <source>Output Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgangsmodell:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="272"></location>
         <source>Export as model</source>
-        <translation type="unfinished"></translation>
+        <translation>Als Modell exportieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="274"></location>
         <source>Export the current flythrough path as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportieren Sie den aktuellen Flythrough-Pfad als Modell.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="356"></location>
         <source>Update Keyframe Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyframe-Ausrichtung aktualisieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="411"></location>
         <source>Stop flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchflug beenden</translation>
     </message>
 </context>
 <context>
@@ -8846,47 +8864,47 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="48"></location>
         <source>Extension Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterungsassistent</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"></location>
         <source>This module provides tools to create and manage extensions from within Slicer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul stellt Tools zum Erstellen und Verwalten von Erweiterungen innerhalb von Slicer bereit.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="54"></location>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit wird von NA-MIC, NAC, BIRN, NCIGT und der Slicer Community unterstützt.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"></location>
         <source>Extension Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterungswerkzeuge</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="127"></location>
         <source>Create Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterung erstellen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="130"></location>
         <source>Select Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterung auswählen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="142"></location>
         <source>Extension Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterungseditor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"></location>
         <source>Add Module to Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul zur Erweiterung hinzufügen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="160"></location>
         <source>Edit Extension Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterungsmetadaten bearbeiten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="165"></location>
@@ -8896,97 +8914,97 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="166"></location>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standort:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="167"></location>
         <source>Repository:</source>
-        <translation type="unfinished"></translation>
+        <translation>Repository:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="168"></location>
         <source>Contents:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhalt:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="247"></location>
         <source>An error occurred while trying to create the extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Versuch, die Erweiterung zu erstellen, ist ein Fehler aufgetreten.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"></location>
         <source>Select Extension...</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterung auswählen...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"></location>
         <source>Failed to open extension {path}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Erweiterung {path} konnte nicht geöffnet werden.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="303"></location>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(keine)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="305"></location>
         <source>(local git repository)</source>
-        <translation type="unfinished"></translation>
+        <translation>(lokales Git-Repository)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="308"></location>
         <source>(unknown local repository)</source>
-        <translation type="unfinished"></translation>
+        <translation>(unbekanntes lokales Repository)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="386"></location>
         <source>{count} modules could not be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} Module konnten nicht registriert werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="388"></location>
         <source>The {name} module could not be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Modul {name} konnte nicht registriert werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="394"></location>
         <source>Module loading failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul konnte nicht geladen werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"></location>
         <source>The module factory manager reported an error. One or more of the requested module(s) and/or dependencies thereof may not have been loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Modul-Factory-Manager hat einen Fehler gemeldet. Eines oder mehrere der angeforderten Module und/oder deren Abhängigkeiten wurden möglicherweise nicht geladen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"></location>
         <source>Error loading module(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Laden des Moduls/der Module</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="427"></location>
         <source>An error occurred while trying to create the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Versuch, das Modul zu erstellen, ist ein Fehler aufgetreten.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="440"></location>
         <source>An error occurred while adding the module to the extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Hinzufügen des Moduls zur Erweiterung ist ein Fehler aufgetreten.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="445"></location>
         <source>The module has been created, but the extension CMakeLists.txt could not be updated. In order to include the module in the extension build, you will need to update the extension CMakeLists.txt by hand.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Modul wurde erstellt, aber die Erweiterung CMakeLists.txt konnte nicht aktualisiert werden. Um das Modul in den Erweiterungsaufbau einzubeziehen, müssen Sie die Erweiterung CMakeLists.txt manuell aktualisieren.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="492"></location>
         <source>Python scripted modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-Skriptmodule</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="493"></location>
         <source>Add Python scripted modules to the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-Skriptmodule zur Anwendung hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -9004,23 +9022,23 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="34"></location>
         <source>Destination:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziel:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="65"></location>
         <source>{type} name may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Name {type} darf nicht leer sein.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="66"></location>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="73"></location>
         <source>Cannot create {type}</source>
-        <translation type="unfinished"></translation>
+        <translation>{type} kann nicht erstellt werden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="72"></location>
         <source>Destination must be an existing directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Ziel muss ein vorhandenes Verzeichnis sein.</translation>
     </message>
 </context>
 <context>
@@ -9051,7 +9069,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"></location>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"></location>
@@ -9066,28 +9084,28 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"></location>
         <source>Organization</source>
-        <translation type="unfinished"></translation>
+        <translation>Organisation</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="42"></location>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitwirkende:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"></location>
         <source>Extension name may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Name der Erweiterung darf nicht leer sein.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"></location>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="78"></location>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Metadaten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="77"></location>
         <source>Extension description may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Erweiterungsbeschreibung darf nicht leer sein.</translation>
     </message>
 </context>
 <context>
@@ -9095,27 +9113,27 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="31"></location>
         <source>(New item)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Neuer Artikel)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="52"></location>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewegen &amp; Hoch</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="57"></location>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach unten verschieben</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="62"></location>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Löschen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="130"></location>
         <source>Anonymous</source>
-        <translation type="unfinished"></translation>
+        <translation>Anonym</translation>
     </message>
 </context>
 <context>
@@ -9123,37 +9141,37 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="45"></location>
         <source>Enable developer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwicklermodus aktivieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="50"></location>
         <source>Sets the &apos;Developer mode&apos; application option to enabled. Enabling developer mode is recommended while developing scripted modules, as it makes the Reload and Testing section displayed in the module user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviert die Anwendungsoption „Entwicklermodus“. Die Aktivierung des Entwicklermodus wird bei der Entwicklung von Skriptmodulen empfohlen, da dadurch der Abschnitt „Neuladen und Testen“ in der Benutzeroberfläche des Moduls angezeigt wird.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="90"></location>
         <source>Add selected module to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewähltes Modul zu „Zusätzliche Modulpfade“ hinzufügen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="94"></location>
         <source>Add selected modules to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Module zu „Zusätzliche Modulpfade“ hinzufügen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="118"></location>
         <source>The following modules can be loaded. Would you like to load them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgenden Module können geladen werden. Möchten Sie sie jetzt laden?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="121"></location>
         <source>The following module can be loaded. Would you like to load it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Das folgende Modul kann geladen werden. Möchten Sie es jetzt laden?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="122"></location>
         <source>At least one module must be provided</source>
-        <translation type="unfinished"></translation>
+        <translation>Es muss mindestens ein Modul bereitgestellt werden</translation>
     </message>
 </context>
 <context>
@@ -9161,22 +9179,22 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="26"></location>
         <source>(Unavailable)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nicht verfügbar)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="28"></location>
         <source>Built-in template path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Integrierter Vorlagenpfad:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="31"></location>
         <source>Additional template paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zusätzliche Vorlagenpfade:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="37"></location>
         <source>Additional template paths for {category}:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zusätzliche Vorlagenpfade für {category}:</translation>
     </message>
 </context>
 <context>
@@ -9192,17 +9210,17 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="18"></location>
         <source>Import ITK-Snap label description</source>
-        <translation type="unfinished"></translation>
+        <translation>ITK-Snap-Etikettenbeschreibung importieren</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="22"></location>
         <source>Load ITK-Snap label description file (.label or .txt).</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden Sie die ITK-Snap-Beschreibungsdatei (.label oder .txt).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="44"></location>
         <source>ITK-Snap label description file</source>
-        <translation type="unfinished"></translation>
+        <translation>ITK-Snap-Beschreibungsdatei</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"></location>
@@ -9212,12 +9230,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"></location>
         <source>Failed to load file: </source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Laden der Datei: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="142"></location>
         <source>Syntax error in line {line}</source>
-        <translation type="unfinished"></translation>
+        <translation>Syntaxfehler in Zeile {line}</translation>
     </message>
 </context>
 <context>
@@ -9238,14 +9256,16 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="77"></location>
         <source>Sample Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Beispieldaten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="83"></location>
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dieses Modul stellt Datensätze bereit, die zum Testen von 3D Slicer verwendet werden können.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="98"></location>
@@ -9262,7 +9282,19 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Diese Arbeit wurde teilweise von Cancer Care Ontario
+und dem Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO) finanziert. &lt;/p&gt;
+
+&lt;p&gt;Die Datensätze MRHead, CBCT-MR Head und CT-MR Brain wurden dem 3D Slicer-Projekt von den auf den Bildern abgebildeten Personen zur uneingeschränkten Verwendung zur Verfügung gestellt. &lt;/p&gt;
+
+&lt;p&gt;CTLiver dataset comes from &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Medical Decathlon project&lt;/a&gt; (imagesTr/liver_100.nii.gz in Task03_Liver collection)
+with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), allowing for data to be shared, distributed and improved upon.&lt;/p&gt;
+
+&lt;p&gt;CTA abdomen (Panoramix) dataset comes from &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM image library&lt;/a&gt;
+and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
+use it for commercial purposes.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"></location>
@@ -9272,37 +9304,37 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="114"></location>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehen Sie zum Modul „SampleData“, um Daten aus dem Netzwerk herunterzuladen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="275"></location>
         <source>Load data from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Daten von URL laden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"></location>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"></location>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"></location>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden Sie den Datensatz von der angegebenen URL herunter und importieren Sie ihn in die Szene</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"></location>
         <source>Show folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner anzeigen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"></location>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige den Ordner, in den benutzerdefinierte Datensätze heruntergeladen werden ({path}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"></location>
@@ -9312,108 +9344,108 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="544"></location>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwicklung</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="666"></location>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache-Ordner konnte nicht erstellt werden {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="668"></location>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Cache-Ordner {path} ist nicht beschreibbar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="735"></location>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Download fehlgeschlagen (Versuch {current} von {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="789"></location>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden fehlgeschlagen (attempt {current} von {total}). Löschen nicht möglich, erneuter Ladeversuch für {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="793"></location>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden fehlgeschlagen (Versuch {current} von {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="930"></location>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Heruntergeladen {sizeCompleted} ({percentCompleted} % von {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="947"></location>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Anforderung zum Herunterladen {name} von {uri} ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="950"></location>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Download abgeschlossen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="952"></location>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished"></translation>
+        <translation>Download fehlgeschlagen: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="953"></location>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Herunterladen von {uri} nach {filePath}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="956"></location>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="968"></location>
         <source>Verifying checksum</source>
-        <translation type="unfinished"></translation>
+        <translation>Prüfsumme überprüfen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="960"></location>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation type="unfinished"></translation>
+        <translation>Prüfsummenüberprüfung fehlgeschlagen. Die berechnete Prüfsumme {currentChecksum} weicht von der erwarteten Prüfsumme {expectedChecksum} ab</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="965"></location>
         <source>Checksum OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Prüfsumme OK</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="971"></location>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei ist bereits im Cache vorhanden, aber die Prüfsumme ist unterschiedlich – sie wird erneut heruntergeladen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="976"></location>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei existiert bereits und die Prüfsumme ist in Ordnung – sie wird wiederverwendet.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="979"></location>
         <source>File already exists in cache - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei ist bereits im Cache vorhanden – sie wird wiederverwendet.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1004"></location>
         <source>Load failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden fehlgeschlagen!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"></location>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Laden von {count} Knoten aus {path} ist ein Fehler aufgetreten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"></location>
         <source>Load finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden abgeschlossen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="992"></location>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Anforderung der Last {name} von {uri} ...</translation>
     </message>
 </context>
 <context>
@@ -9504,7 +9536,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="27"></location>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmaufnahme</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="34"></location>
@@ -9512,7 +9544,10 @@ use it for commercial purposes.&lt;/p&gt;
 This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dieses Modul erfasst Bildsequenzen und Videos
+aus dynamischen Inhalten, die in 3D- und Slice-Viewern angezeigt werden.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="46"></location>
@@ -9520,57 +9555,60 @@ from dynamic contents shown in 3D and slice viewers.
 This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Diese Arbeit wurde von Cancer Care Ontario
+und dem Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO) finanziert.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="77"></location>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingaben</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="91"></location>
         <source>Main view: </source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptansicht: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"></location>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, werden alle Ansichten erfasst. Wenn sie deaktiviert ist, wird nur die ausgewählte Ansicht erfasst.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="96"></location>
         <source>Capture all views:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Ansichten erfassen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="104"></location>
         <source>Start sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Startabstand:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="110"></location>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Starte Slice Sweep Offset.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="114"></location>
         <source>End sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Endabstrich-Versatz:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="120"></location>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endversatz der Slice-Durchlaufbewegung.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="124"></location>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehbereich:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="131"></location>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehbereich der Ansicht, relativ zur aktuellen Ausrichtung der Ansicht.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"></location>
@@ -9580,12 +9618,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"></location>
         <source>Yaw</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursabweichung</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="139"></location>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tonhöhe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="143"></location>
@@ -9595,128 +9633,128 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="151"></location>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die durch diesen Sequenzbrowser definierten Elemente werden wiedergegeben.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="155"></location>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Startindex:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="159"></location>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstes Element in der zu erfassenden Sequenz.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="163"></location>
         <source>End index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Endindex:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="167"></location>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Letztes Element in der zu erfassenden Sequenz.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="175"></location>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"></location>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie aus, wie die aufgenommenen Bilder gespeichert werden sollen. Für den Videomodus muss im Abschnitt „Erweitert“ der Pfad zur ausführbaren Datei ffmpeg festgelegt werden.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"></location>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilderserie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"></location>
         <source>video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="184"></location>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>Leuchtkastenbild</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="178"></location>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabetyp:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"></location>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der zwischen Start- und Endposition extrahierten Bilder.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="189"></location>
         <source>Number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Bilder:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"></location>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabeverzeichnis:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="217"></location>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenfolge, die den Dateinamen und den Dateityp definiert.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"></location>
         <source>SlicerCapture.mp4</source>
         <oldsource>SlicerCapture.avi</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCapture.mp4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="221"></location>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenfolge, die den Dateinamen und den Typ der Ausgabe-Lightbox definiert.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="224"></location>
         <source>SlicerCaptureLightbox.png</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCaptureLightbox.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="228"></location>
         <source>Output file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabedateiname:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"></location>
         <source>Video format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoformat:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="247"></location>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Länge des exportierten Videos in Sekunden (ohne Rückschritte und Wiederholungen).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="238"></location>
         <source>Video length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Videolänge:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="259"></location>
         <source>Frame rate in frames per second.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfrequenz in Bildern pro Sekunde.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="250"></location>
         <source>Video frame rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Videobildfrequenz:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="90"></location>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture all views&apos; option is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Ausschnitt- oder 3D-Ansicht wird während der Erfassung aktualisiert. Es wird nur diese Ansicht erfasst, es sei denn, die Option „Alle Ansichten erfassen“ ist aktiviert.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"></location>
@@ -11019,7 +11057,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="29"></location>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="100"></location>
@@ -11028,22 +11066,26 @@ If segments overlap, segment higher in the segments table will have priority. &l
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment basierend auf dem Intensitätsbereich des Quellvolumens füllen&lt;br&gt;. Optionen:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Für Maskierung verwenden:&lt;/b&gt; Legen Sie den ausgewählten Intensitätsbereich als &lt;dfn&gt;Bearbeitbarer Intensitätsbereich&lt;/dfn&gt; fest und wechseln Sie zum Mal-Effekt.
+&lt;li&gt;&lt;b&gt;Anwenden:&lt;/b&gt; Legen Sie die Vorschau-Segmentierung im ausgewählten Segment fest. Der vorherige Inhalt des Segments wird überschrieben.
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="116"></location>
         <source>Threshold Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenbereich:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="117"></location>
         <source>Set the range of the background values that should be labeled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie den Bereich der Hintergrundwerte fest, die beschriftet werden sollen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="126"></location>
         <source>threshold above</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwellenwert oberhalb</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="127"></location>
@@ -21390,27 +21432,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="152"></location>
         <source>Edit list of bookmarks in a text field</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste der Lesezeichen in einem Textfeld bearbeiten</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="157"></location>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished"></translation>
+        <translation>Website Extensions Catalog öffnen...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"></location>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen Sie die Website „Extensions Catalog“ im Standard-Webbrowser. Nützlich zum Herunterladen von Erweiterungspaketen für die Offline-Nutzung.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"></location>
         <source>Automatically install dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Abhängigkeiten automatisch installieren</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="171"></location>
         <source>Automatically install required additional extensions when installing an extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei der Installation einer Erweiterung automatisch erforderliche zusätzliche Erweiterungen installieren</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="77"></location>
@@ -21520,17 +21562,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"></location>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Komposit mit Schattierung</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"></location>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Intensitätsprojektion</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="70"></location>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Intensitätsprojektion</translation>
     </message>
 </context>
 <context>
@@ -21538,7 +21580,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="40"></location>
         <source>GeneralizedReformat</source>
-        <translation type="unfinished"></translation>
+        <translation>GeneralizedReformat</translation>
     </message>
 </context>
 <context>
@@ -21546,7 +21588,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"></location>
         <source>Loading file... </source>
-        <translation type="unfinished"></translation>
+        <translation>Datei wird geladen... </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"></location>
@@ -21572,7 +21614,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"></location>
         <source>Loading file </source>
-        <translation type="unfinished"></translation>
+        <translation>Datei laden </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="566"></location>
@@ -21610,7 +21652,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"></location>
         <source>Labelmap Volume Display Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Labelmap Volumenanzeigeeigenschaften</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"></location>
@@ -21651,7 +21693,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="39"></location>
         <source>qSlicerLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -21659,7 +21701,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"></location>
         <source>SlicerLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerLoadableModuleTemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"></location>
@@ -21750,7 +21792,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="285"></location>
         <source>&amp;Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aussehen</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="301"></location>
@@ -21921,7 +21963,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="405"></location>
         <source>Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Daten speichern</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="23"></location>
@@ -21956,7 +21998,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="519"></location>
         <source>Open settings to the Modules panel where Favorite Modules can be defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen Sie die Einstellungen im Modulbereich, wo Sie Ihre Lieblingsmodule festlegen können.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="528"></location>
@@ -22279,7 +22321,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1077"></location>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1080"></location>
         <source>Dual-monitor Four-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Dual-Monitor Vierfachanzeige</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1089"></location>
@@ -22344,7 +22386,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1174"></location>
         <source>Show Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Statusleiste anzeigen</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="153"></location>
@@ -22361,42 +22403,42 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="152"></location>
         <source>Show &amp;Module Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Show &amp; Modul-Panel</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="176"></location>
         <source>Module Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulauswahl</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="356"></location>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlerprotokoll</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="366"></location>
         <source>Show/hide Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster Fehlerprotokoll ein-/ausblenden</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="387"></location>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Python Konsole</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="399"></location>
         <source>Slicer Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer Python Konsole</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="409"></location>
         <source>&amp;Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Python Konsole</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="410"></location>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige das Python-Konsolenfenster zur Steuerung der Anwendungsdaten, der Benutzeroberfläche und der internen Funktionen an</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="411"></location>
@@ -22406,22 +22448,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="411"></location>
         <source>Ctrl+`</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+`</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="507"></location>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlauf löschen</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="621"></location>
         <source>Modifications in data files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen in Dateien:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="642"></location>
         <source>Modifications in the scene file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen in der Szenendatei:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="571"></location>
@@ -22796,12 +22838,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="204"></location>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Modul zum Erstellen und Verwalten von Markierungen in 2D und 3D. Dieses Modul ersetzt das bisherige Modul Anmerkungen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="213"></location>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit wurde von NAMIC, NAC und der Slicer Community unterstützt.</translation>
     </message>
 </context>
 <context>
@@ -22847,77 +22889,77 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"></location>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"></location>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"></location>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"></location>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="268"></location>
         <source>Visibility On</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtbarkeit Ein</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="269"></location>
         <source>Set visibility flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtbarkeitsflag für alle Kontrollpunkte im aktiven Markup auf Ein setzen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="274"></location>
         <source>Visibility Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtbarkeit aus</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="275"></location>
         <source>Set visibility flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtbarkeitsflag für alle Kontrollpunkte im aktiven Markup auf „Aus“ setzen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="292"></location>
         <source>Set lock flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzen Sie das Sperrflag für alle Kontrollpunkte in der aktiven Markierung auf „Ein“</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="297"></location>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Entsperren</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="298"></location>
         <source>Set lock flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzen Sie das Sperrflag für alle Kontrollpunkte im aktiven Markup auf „Aus“</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="314"></location>
         <source>Selected On</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählt An</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="315"></location>
         <source>Set selected flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzen Sie das ausgewählte Flag für alle Kontrollpunkte in der aktiven Markierung auf „Ein“</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="320"></location>
         <source>Selected Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählt Aus</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="321"></location>
         <source>Set selected flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivieren Sie das ausgewählte Flag für alle Kontrollpunkte in der aktiven Markierung</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="346"></location>
@@ -22940,17 +22982,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="441"></location>
         <source>Click in this column to select/deselect control points for passing to CLI modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie in diese Spalte, um Kontrollpunkte für die Übergabe an CLI-Module auszuwählen/abzuwählen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="447"></location>
         <source>Click in this column to lock/unlock control points to prevent them from being moved by mistake</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie in diese Spalte, um Kontrollpunkte zu sperren/entsperren, damit sie nicht versehentlich verschoben werden können</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="453"></location>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie in diese Spalte, um Kontrollpunkte in 2D und 3D ein- oder auszublenden</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="459"></location>
@@ -22960,43 +23002,48 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Skip: &apos;Place multiple control points&apos; mode skips over the control point entry
 - Restore: Set the control point position to its last known set position
 - Clear: Clear the defined control point position, but do not delete the control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie in diese Spalte, um den Status der Kontrollpunktposition zu ändern.
+
+- Bearbeiten: Rufen Sie den Platzierungsmodus auf, um die Kontrollpunktposition in den Schnittansichten zu ändern.
+- Überspringen: Der Modus „Mehrere Kontrollpunkte platzieren“ überspringt die Eingabe des Kontrollpunkts.
+- Wiederherstellen: Setzen Sie die Kontrollpunktposition auf die zuletzt bekannte Position zurück.
+- Löschen: Löschen Sie die definierte Kontrollpunktposition, ohne den Kontrollpunkt zu entfernen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="756"></location>
         <source>Create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="933"></location>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie hier, um diese Kontrollpunktliste zu entsperren, damit die Punkte mit der Maus verschoben werden können</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="938"></location>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie hier, um diese Kontrollpunktliste zu sperren, damit die Punkte nicht mit der Maus verschoben werden können</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="944"></location>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie hier, um die Anzahl der Kontrollpunkte freizuschalten, damit Punkte hinzugefügt oder gelöscht werden können</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="951"></location>
         <source>Click to lock the number of control points so no points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie hier, um die Anzahl der Kontrollpunkte zu sperren, sodass keine Punkte hinzugefügt oder gelöscht werden können</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1544"></location>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1751"></location>
         <source>Confirm control point deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen des Kontrollpunkts bestätigen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1545"></location>
         <source>Delete %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Kontrollpunkte aus dieser Liste löschen?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1550"></location>
@@ -23006,7 +23053,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1752"></location>
         <source>Delete all %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle %1 Kontrollpunkte aus dieser Liste löschen?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1758"></location>
@@ -23016,42 +23063,42 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2214"></location>
         <source>Delete highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Markierte Kontrollpunkte löschen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2219"></location>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprungschnitte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2224"></location>
         <source>Refocus all cameras</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Kameras neu fokussieren</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2240"></location>
         <source>Edit position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Position der markierten Kontrollpunkte bearbeiten</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2244"></location>
         <source>Skip placement of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Platzierung der markierten Kontrollpunkte überspringen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2248"></location>
         <source>Restore position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Position der markierten Kontrollpunkte wiederherstellen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2252"></location>
         <source>Clear position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Klare Position der hervorgehobenen Kontrollpunkte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2362"></location>
         <source>Summed linear distance: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Summe der linearen Entfernung: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3052"></location>
@@ -23062,12 +23109,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3095"></location>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviert</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3161"></location>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabetabelle:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3162"></location>
@@ -23082,7 +23129,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3168"></location>
         <source>Input table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabetabelle:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3169"></location>
@@ -23218,7 +23265,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="544"></location>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Position des zuletzt gesetzten Kontrollpunkts wird zurückgesetzt (der Kontrollpunkt wird nicht gelöscht).</translation>
     </message>
 </context>
 <context>
@@ -23227,12 +23274,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="78"></location>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"></location>
         <source>Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufschläge</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"></location>
         <source>Markups Fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Markierungen Bezugspunkte</translation>
     </message>
 </context>
 <context>
@@ -23378,12 +23425,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="61"></location>
         <source>Select Model file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelldatei(en) auswählen</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="74"></location>
         <source>Select a Model directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie ein Modellverzeichnis aus</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="107"></location>
@@ -23434,12 +23481,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"></location>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Modelle-Modul lädt Modelle und passt Anzeigeparameter wie Farbe, Transparenz und Clipping an.&lt;br&gt;Speichern Sie Modelle über das Datei-Menü oder den Speichern-Button.&lt;br&gt;Mit dem Button 3D-Modell oder ein Modellverzeichnis hinzufügen können Sie beliebige Modelle laden, die Slicer lesen kann, sowie alle VTK-Modelle in einem Verzeichnis. Skalaren-Overlay hinzufügen lädt eine Skalar-Datei und verknüpft sie mit dem aktuell aktiven Modell.&lt;br&gt;Sie können die Anzeigeeigenschaften der Modelle im Anzeige-Bereich anpassen. Wählen Sie das Modell, mit dem Sie arbeiten möchten, aus dem Modell-Auswahlmenü aus. Skalaren-Overlays werden mit einer Standard-Farbzuordnungstabelle geladen, können aber manuell neu zugewiesen werden. Sobald ein neues Skalaren-Overlay gewählt wird, wird derzeit noch die alte Farbzuordnung verwendet, daher muss diese gemeinsam mit dem Overlay angepasst werden.&lt;br&gt;Clipping wird für ein Modell im Anzeige-Bereich aktiviert, und die Schnittflächen, die das Modell schneiden, werden im Clipping-Bereich ausgewählt.&lt;br&gt;Der Bereich Modell-Hierarchie erlaubt es, Modelle zu gruppieren und die Eigenschaften der Gruppe festzulegen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"></location>
         <source>This work was partially funded by NIH grants 3P41RR013218-12S1 and R01CA184354.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit wurde teilweise durch NIH-Zuschüsse 3P41RR013218-12S1 und R01CA184354 finanziert.</translation>
     </message>
 </context>
 <context>
@@ -23487,12 +23534,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"></location>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausschnitt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"></location>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Knotenpunkt:</translation>
     </message>
 </context>
 <context>
@@ -23540,42 +23587,42 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="201"></location>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="237"></location>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitwirkende:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"></location>
         <source>Internal name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interner Name:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="248"></location>
         <source>Unknown type</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannter Typ</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="252"></location>
         <source>Python Scripted Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-Skript ladbar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="256"></location>
         <source>C++ Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>C++ ladbar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="260"></location>
         <source>Command-Line Interface (CLI)</source>
-        <translation type="unfinished"></translation>
+        <translation>Befehlszeilenschnittstelle (CLI)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="264"></location>
         <source>built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>integriert</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="266"></location>
@@ -23585,17 +23632,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"></location>
         <source>Require:</source>
-        <translation type="unfinished"></translation>
+        <translation>Erforderlich:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="275"></location>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standort:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="284"></location>
         <source>%1 module is not loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul %1 ist nicht geladen</translation>
     </message>
 </context>
 <context>
@@ -23623,7 +23670,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="189"></location>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitwirkende:</translation>
     </message>
 </context>
 <context>
@@ -23636,7 +23683,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="112"></location>
         <source>Module Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulfinder</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="114"></location>
@@ -23700,7 +23747,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="149"></location>
         <source>Requires:</source>
-        <translation type="unfinished"></translation>
+        <translation>Erfordert:</translation>
     </message>
 </context>
 <context>
@@ -23820,17 +23867,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="69"></location>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Komposit mit Schattierung</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="70"></location>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Intensitätsprojektion</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="71"></location>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Intensitätsprojektionen</translation>
     </message>
 </context>
 <context>
@@ -23856,12 +23903,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="70"></location>
         <source>The Plots module allows editing properties of plots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Modul „Plots“ ermöglicht die Bearbeitung der Eigenschaften von Plots.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="78"></location>
         <source>This module was originally developed by Davide Punzo, Kapteyn Astronomical Institute, and was supported through the European Research Council grant nr. 291531.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul wurde ursprünglich von Davide Punzo vom Kapteyn Astronomical Institute entwickelt und durch das Stipendium Nr. 291531 des Europäischen Forschungsrats gefördert.</translation>
     </message>
 </context>
 <context>
@@ -23920,17 +23967,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="42"></location>
         <source>Reformat</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu formatieren</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="60"></location>
         <source>The Transforms Reformat Widget Module creates and edits the Slice Node transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Modul „Transformieren und Neuformatieren“ erstellt und bearbeitet die Slice-Knoten-Transformationen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="70"></location>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Arbeit wurde von NA-MIC, NAC, BIRN, NCIGT und der Slicer Community unterstützt.</translation>
     </message>
 </context>
 <context>
@@ -23991,17 +24038,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="278"></location>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientierung</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="302"></location>
         <source>Rotate the slice in the current slice plane, around the slice normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehen Sie die Scheibe in der aktuellen Scheibenebene um die Scheibennormale</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="315"></location>
         <source>Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="325"></location>
@@ -25411,12 +25458,12 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="118"></location>
         <source>Always make visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Immer sichtbar machen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="119"></location>
         <source>Always allow</source>
-        <translation type="unfinished"></translation>
+        <translation>Immer zulassen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="122"></location>
@@ -25439,7 +25486,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="52"></location>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Sequenzen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="104"></location>
