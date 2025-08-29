@@ -84,7 +84,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished">DWI pulisce (BRAINS)</translation>
+        <translation>Pulizia DWI (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished">Richiede: l&apos;immagine in input è un&apos;immagine NRRD 4D.</translation>
+        <translation>Richiesto: l&apos;immagine in input è un&apos;immagine NRRD 4D.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
@@ -1313,7 +1313,7 @@ NOTA che si consiglia di utilizzare samplingPercentage invece di questa opzione.
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished">Specificare esplicitamente il numero massimo di thread da utilizzare.</translation>
+        <translation>Specificare esplicitamente il numero massimo di thread da utilizzare.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
@@ -1750,7 +1750,7 @@ Questo programma è utile per sotto campionare un&apos;immagine con un fattore d
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">Parametri di input</translation>
+        <translation>Parametri di input</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
@@ -1805,7 +1805,7 @@ Questo programma è utile per sotto campionare un&apos;immagine con un fattore d
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parametri di ingresso/uscita</translation>
+        <translation>Parametri di ingresso/uscita</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
@@ -1909,7 +1909,7 @@ Consente il cast allo stesso tipo del volume di input.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parametri di ingresso/uscita</translation>
+        <translation>Parametri di ingresso/uscita</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
@@ -28917,13 +28917,13 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="417"/>
         <source>Transformable:</source>
-        <translation type="unfinished">Transformable:</translation>
+        <translation type="unfinished">Trasformabile:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="461"/>
         <source>Apply the selected transform to the selected transformable nodes</source>
         <oldsource>Apply the active transform to the selected transformable nodes</oldsource>
-        <translation type="unfinished">Apply the active transform to the selected transformable nodes</translation>
+        <translation>Applica la trasformazione attiva ai nodi trasformabili selezionati</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="464"/>
@@ -28934,7 +28934,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="471"/>
         <source>Remove the selected transform from the selected transformed nodes</source>
         <oldsource>Remove the active transform from the selected transformed nodes</oldsource>
-        <translation type="unfinished">Remove the active transform from the selected transformed nodes</translation>
+        <translation type="unfinished">Rimuovi la trasformazione selezionata dai nodi trasformabili selezionati</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="474"/>
@@ -28944,27 +28944,27 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="481"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Harden transform</translation>
+        <translation type="unfinished">Rinforza trasformazione</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="499"/>
         <source>Transformed:</source>
-        <translation type="unfinished">Transformed:</translation>
+        <translation type="unfinished">Trasformato:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="539"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation type="unfinished">Converti</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="551"/>
         <source>Reference volume:</source>
-        <translation type="unfinished">Reference volume:</translation>
+        <translation type="unfinished">Volume di riferimento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="567"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-        <translation type="unfinished">Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</translation>
+        <translation type="unfinished">Volume che definisce origine, spaziatura e direzione degli assi del campo di traslazione esportato. Se il volume di riferimento è sotto una trasformazione non lineare, allora la geometria non trasformata viene usata come riferimento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="597"/>
@@ -28974,7 +28974,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="613"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
-        <translation type="unfinished">Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</translation>
+        <translation type="unfinished">Volume o nodo di trasformazione che andrà a contenere il campo di traslazione. Se viene scelto un nodo di volume scalare, allora solo la magnitudine di traslazione viene salvata. In un nodo di volume vettore o di trasformazione 3D viene salvato il vettore di traslazione.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="626"/>
