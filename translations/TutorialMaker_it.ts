@@ -268,7 +268,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="61"/>
         <source>Save</source>
-        <translation type="unfinished">Salva</translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="68"/>
