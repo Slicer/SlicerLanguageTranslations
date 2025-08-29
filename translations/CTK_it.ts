@@ -1025,7 +1025,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1454"/>
         <source>Close</source>
-        <translation type="unfinished">Chiudi</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1460"/>
@@ -2115,7 +2115,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="122"/>
         <source>Close</source>
-        <translation type="unfinished">Chiudi</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
