@@ -42,57 +42,57 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="190"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Inactif</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="191"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialisation</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="192"/>
         <source>Segmenting</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentant</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="193"/>
         <source>Importing Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Importation results</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="194"/>
         <source>Processing Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement terminé</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="195"/>
         <source>Cancelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulation</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="199"/>
         <source>Processing Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du traitement</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="465"/>
         <source>Connect to server or disable remote processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se connecter au serveur ou désactiver le traitement à distance.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="473"/>
         <source>Select a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un modèle.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="481"/>
         <source>{input_title}:</source>
-        <translation type="unfinished"></translation>
+        <translation>{input_title}&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="486"/>
         <source>{image_name} segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation {image_name}</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="488"/>
@@ -112,62 +112,62 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="506"/>
         <source>Please wait while the segmentation is being initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez patienter pendant l’initialisation de la segmentation</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="509"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="510"/>
         <source>Cancel in-progress segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler la segmentation en cours</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="513"/>
         <source>Please wait while the segmentation result is being imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez patienter pendant l’importation du résultat de la segmentation</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="516"/>
         <source>Please wait for the segmentation to be cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez attendre que la segmentation soit annulée</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="539"/>
         <source>Running ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécution&#xa0;...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="581"/>
         <source>Log cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Historique vidé</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="649"/>
         <source>The first input volume you provided are part of a sequence. Do you want to segment all frames of that sequence?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le premier volume d’entrée que vous avez fourni fait partie d’une séquence. Voulez-vous segmenter toutes les images de cette séquence&#x202f;?</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="654"/>
         <source>Processing Failed. Check logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du traitement. Vérifiez l&apos;historique pour plus d’informations.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="684"/>
         <source>Failed to cancel processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l’annulation du traitement.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="708"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement terminé.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="711"/>
         <source>Processing was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement a été annulé.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="715"/>
@@ -177,22 +177,22 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="741"/>
         <source>Failed to retrieve model information</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la récupération des informations du modèle</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="746"/>
         <source>No sample data is available for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun échantillon de données n’est disponible pour ce modèle.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="753"/>
         <source>Failed to download sample data</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement des échantillons de données</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="759"/>
         <source>Failed to load sample data set &apos;{sample_data_name}&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement de l’échantillon de données &apos;{sample_data_name}&apos;.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="769"/>
@@ -202,37 +202,37 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="774"/>
         <source>Failed to upgrade MONAI</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la mise à niveau de MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="778"/>
         <source>This MONAI update requires a 3D Slicer restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette mise à jour MONAI nécessite un redémarrage de 3D Slicer.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="778"/>
         <source>Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Presser OK pour redémarrer.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="789"/>
         <source>There are no downloaded models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n’y a aucun modèle téléchargé.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="791"/>
         <source>All downloaded model files will be deleted. The files will be automatically downloaded again as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les fichiers de modèle téléchargés seront supprimés. Les fichiers seront automatiquement téléchargés à nouveau si nécessaire.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="794"/>
         <source>Downloaded models are deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les modèles téléchargés sont supprimés.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="799"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecté</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="803"/>
@@ -243,7 +243,8 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="806"/>
         <source>Connection to remote server &apos;{server_address}&apos; failed. 
 Please check address, port, and connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>La connexion au serveur distant &apos;{server_address}&apos; a échoué. 
+Veuillez vérifier adresse, port et connexion.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="814"/>
@@ -832,7 +833,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="40"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation</translation>
     </message>
 </context>
 </TS>
