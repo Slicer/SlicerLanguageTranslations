@@ -48,7 +48,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="282"/>
         <source>Input segmentation or volume mismatch with the segment editor... fixing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation d’entrée ou manque de correspondance de volume avec l’éditeur de segment... correction.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
@@ -103,7 +103,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="88"/>
