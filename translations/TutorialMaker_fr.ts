@@ -45,13 +45,13 @@
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="68"/>
         <source>Message from {endpoint}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Message depuis {endpoint}&#xa0;: {message}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="69"/>
         <source>Malformed Response from {endpoint}</source>
-        <translation type="unfinished"></translation>
+        <translation>Réponse mal formée depuis {endpoint}</translation>
     </message>
 </context>
 <context>
@@ -135,12 +135,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="318"/>
         <source>Title for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Titre pour la diapositive</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="323"/>
         <source>Write a description for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Écrivez une description pour la diapositive</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="900"/>
@@ -205,7 +205,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="951"/>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Zone texte</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="955"/>
@@ -240,7 +240,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1179"/>
         <source>Add Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter image</translation>
     </message>
 </context>
 <context>
