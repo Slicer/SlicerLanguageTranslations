@@ -30,7 +30,7 @@
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
         <translation>
-用于通过 MONAI Auto3DSeg AI 模型进行分割的 3D Slicer 扩展。  
+用于通过 MONAI Auto3DSeg AI 模型进行分割的 3D Slicer 扩展。 
 更多详情请参见&lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;扩展文档&lt;/a&gt;。
 </translation>
     </message>
@@ -48,12 +48,12 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="190"/>
         <source>Idle</source>
-        <translation type="unfinished">空闲</translation>
+        <translation>空闲</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="191"/>
         <source>Initializing</source>
-        <translation type="unfinished">初始化中...</translation>
+        <translation>初始化中</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="192"/>
@@ -93,7 +93,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="481"/>
         <source>{input_title}:</source>
-        <translation type="unfinished">{input_title}:</translation>
+        <translation>{input_title}:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="486"/>
@@ -113,7 +113,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="502"/>
         <source>Start segmentation</source>
-        <translation type="unfinished">开始分割</translation>
+        <translation>开始分割</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="506"/>
@@ -123,7 +123,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="509"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="510"/>
@@ -511,12 +511,12 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="5"/>
         <source>human</source>
-        <translation type="unfinished">人体</translation>
+        <translation>人体</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="6"/>
         <source>CT</source>
-        <translation type="unfinished">CT</translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="7"/>
@@ -551,7 +551,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="13"/>
         <source>Vertebrae TS2 - quick</source>
-        <translation type="unfinished">椎体 TS2 - 快速版</translation>
+        <translation>椎体 TS2 - 快速版</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
