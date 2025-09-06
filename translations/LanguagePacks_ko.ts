@@ -6,32 +6,32 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="17"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>최신 번역 다운로드, 컴파일 및 설치</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>번역 파일 업데이트</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>입력 번역</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="202"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>입력 폴더:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="212"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>언어:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>웹레이트 (weblate) ((최신 번역)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
@@ -41,12 +41,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="236"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>로컬 폴더(오프라인 사용)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="243"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>최신 파일만:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="263"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드 및 설치할 언어를 선택합니다.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
@@ -76,22 +76,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="151"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>응용 언어:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="164"/>
         <source>Change only takes effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>변경 사항은 애플리케이션을 재시작한 후에만 적용됩니다.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="174"/>
         <source>Restart the application to see updated translations on the graphical user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>애플리케이션을 재시작하여 그래픽 사용자 인터페이스에서 업데이트된 번역을 확인합니다.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="177"/>
         <source>Restart the application</source>
-        <translation type="unfinished"></translation>
+        <translation>애플리케이션을 재시작합니다</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="27"/>
