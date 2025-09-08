@@ -556,22 +556,22 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>低分辨率（3毫米）用于快速预览。在TotalSegmentatorV2数据集的class_map_part_vertebrae上进行训练。输入图像为腹部、胸部或全身CT。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="15"/>
         <source>Vertebrae TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>椎骨 TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="16"/>
         <source>Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>在TotalSegmentatorV2数据集的class_map_part_vertebrae上进行训练。输入图像为腹部、胸部或全身CT。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="17"/>
         <source>Mediastinal anatomy TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>纵隔解剖 TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="18"/>
