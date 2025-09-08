@@ -130,7 +130,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="290"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>TutorialMaker - Annotateur</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="318"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="927"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="931"/>
@@ -293,7 +293,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="108"/>
         <source>Generate output</source>
-        <translation type="unfinished"></translation>
+        <translation>Générer sortie</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="118"/>
@@ -342,33 +342,34 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Tutorial Generated</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutoriel généré</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Generated Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutoriel généré&#xa0;: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="322"/>
         <source>No Tests Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun test trouvé</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="369"/>
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l’exécution du tutoriel&#xa0;: {unit_tutorials} - Erreur&#xa0;: {e}. 
+</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="373"/>
         <source>Tutorial Tested</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutoriel testé</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="376"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Les tutoriels {tutorials_failed} n’ont pas réussi à s’exécuter. Erreurs&#xa0;: {error_message}</translation>
     </message>
 </context>
 <context>
