@@ -485,7 +485,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="152"/>
         <source>Select a model node</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un nœud modèle</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="169"/>
@@ -520,7 +520,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="227"/>
         <source>Output surface model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de surface de sortie</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="252"/>
@@ -590,17 +590,17 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="411"/>
         <source>Add Flow Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter extensions de flux&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="418"/>
         <source>Check if flow extensions are desired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérifiez si des extensions de flux sont souhaitées.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="431"/>
         <source>Extension length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur d&apos;extension</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="441"/>
@@ -620,7 +620,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="486"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l’algorithme.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="489"/>
@@ -1060,12 +1060,12 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="478"/>
         <source>Replace the segment by the largest region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplacer le segment par la plus grande région.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="481"/>
         <source>fast fix</source>
-        <translation type="unfinished"></translation>
+        <translation>réparation rapide</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="519"/>
@@ -1381,7 +1381,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="31"/>
         <source>Edit centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier ligne centrale</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="39"/>
@@ -1398,37 +1398,40 @@ Thanks to Andras Lasso for requiring import/export from/to a centerline model/cu
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été à l’origine développé par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+et Steve Pieper, Isomics, Inc. et a été partiellement financé par la subvention 3P41RR013218-12S1 du NIH.
+</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="134"/>
         <source>Tiny</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuscule</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="135"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Petit</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="136"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Moyen</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="137"/>
         <source>Big</source>
-        <translation type="unfinished"></translation>
+        <translation>Gros</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="138"/>
         <source>Huge</source>
-        <translation type="unfinished"></translation>
+        <translation>Énorme</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="236"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du calcul des résultats.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="357"/>
@@ -1445,7 +1448,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="407"/>
         <source>Processing started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement commencé.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="419"/>
@@ -1460,7 +1463,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="431"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement terminé en {duration} secondes</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="543"/>
@@ -1470,12 +1473,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="581"/>
         <source>Skipping empty section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauter section vide.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="592"/>
         <source>Skipping empty closest section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauter section vide la plus proche.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="608"/>
@@ -1523,7 +1526,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="29"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="64"/>
@@ -1558,7 +1561,7 @@ This can be:
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="150"/>
         <source>Target dimension:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimension cible&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="163"/>
@@ -1567,7 +1570,11 @@ This can be:
 Examples:
  - Tiny: leg arteries, coronaries,
  - Huge: thoracic aorta.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un profil de dimension d’artère cible.
+
+Exemples&#xa0;:
+ - Minuscule&#xa0;: artères des jambes, coronaires,
+ - Énorme&#xa0;: aorte thoracique.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="177"/>
@@ -1609,12 +1616,12 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="272"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="279"/>
         <source>Select an optional segmentation node to keep the segment mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un nœud de segmentation facultatif pour conserver le masque de segment.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="306"/>
@@ -1685,12 +1692,12 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="446"/>
         <source>This scale factor difference is applied to the current radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette différence de facteur d’échelle est appliquée aux rayons actuels.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="465"/>
         <source>Increase the Tube&apos;s radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Augmenter le rayon du tube.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="468"/>
@@ -1700,7 +1707,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="501"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l’algorithme.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="504"/>
@@ -2162,7 +2169,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="113"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="119"/>
         <source>Use the largest region of the segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser la plus grande région du segment</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="141"/>
@@ -2218,7 +2225,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="380"/>
         <source>Number of regions in segment: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de régions dans le segment&#xa0;: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="430"/>
@@ -2327,7 +2334,7 @@ Si un nœud Shape::Tube est spécifié ci-dessous, ce paramètre est ignoré.</t
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="88"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour l’éditeur de segments et les vues en tranches avec la segmentation et le volume, le cas échéant.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="91"/>
@@ -2342,12 +2349,12 @@ Si un nœud Shape::Tube est spécifié ci-dessous, ce paramètre est ignoré.</t
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="270"/>
         <source>Ideally, there should be only one region in the output segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Idéalement, il ne devrait y avoir qu’une seule région dans le segment de sortie.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="280"/>
         <source>If the segment has more than one region, this function replaces the input segment by a new segment having a single region. It is created from the largest region of the input segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si le segment a plus d’une région, cette fonction remplace le segment d’entrée par un nouveau segment ayant une seule région. Il est créé à partir de la plus grande région du segment d’entrée.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="283"/>
@@ -2674,7 +2681,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="114"/>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="120"/>
         <source>Use the largest region of the segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser la plus grande région du segment</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="142"/>
