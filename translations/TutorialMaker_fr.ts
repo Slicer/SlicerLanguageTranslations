@@ -200,7 +200,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="947"/>
         <source>Arrow text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte flèche</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="951"/>
@@ -278,17 +278,17 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="78"/>
         <source>Fetch From Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupérer depuis Github</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="91"/>
         <source>Capture screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturer captures d&apos;écran</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="98"/>
         <source>Edit annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier annotations</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="108"/>
@@ -317,27 +317,27 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="70"/>
         <source>Version Date: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Date de version&#xa0;: {}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Tutorial Captured</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutoriel capturé</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Captured Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutoriel capturé&#xa0;: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="251"/>
         <source>Failed to generate tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la génération du tutoriel</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="273"/>
         <source>Failed to fetch tutorials from {repo}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la récupération de tutoriels depuis {repo}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
