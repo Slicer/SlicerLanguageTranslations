@@ -1750,7 +1750,7 @@ Dieses Programm ist nützlich, um ein Bild mit einem konstanten Skalierungsfakto
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">Eingabe-Parameter</translation>
+        <translation>Eingabe-Parameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
