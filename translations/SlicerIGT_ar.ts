@@ -259,17 +259,17 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ملاحظة: التحويلات الأصلية للنماذج غير مستخدمة. يجب تعريف النماذج في نظام الإحداثيات الذي يتم تسجيله</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
         <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">اختر النموذج الذي سيتم تحويل النموذج الآخر إليه. ~~~</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">اختر النموذج الذي سيتم تحويله ~~~</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
