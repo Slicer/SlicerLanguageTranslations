@@ -456,7 +456,7 @@ Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
         <translation>Ce module ajuste le point de vue de la caméra d&apos;un visualiseur 3D. 
-Vue Bullseye&#xa0;: positionnez/orientez la caméra à l&apos;aide d&apos;un outil suivi.  
+Vue Bullseye&#xa0;: positionnez/orientez la caméra à l&apos;aide d&apos;un outil suivi. 
 Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.
 </translation>
     </message>
