@@ -2981,8 +2981,8 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="693"/>
         <source>No filters have been set and no patients have been found in the local database.
 Please set at least one filter to query the servers</source>
-        <translation>Aucun filtre n&apos;a été défini et aucun patient n&apos;a été trouvé dans la base de données locale. 
-Veuillez définir au moins un filtre pour interroger les serveurs.</translation>
+        <translation>Aucun filtre n&apos;a été défini et aucun patient n&apos;a été trouvé dans la base de données locale.
+Veuillez définir au moins un filtre pour interroger les serveurs</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="793"/>
