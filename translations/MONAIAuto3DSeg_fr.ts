@@ -29,7 +29,10 @@
 3D Slicer extension for segmentation using MONAI Auto3DSeg AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Extension 3D Slicer pour la segmentation à l’aide du modèle d’IA MONAI Auto3DSeg.
+Voir plus d’informations dans la &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;documentation extension&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="51"/>
@@ -107,7 +110,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="502"/>
         <source>Start segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Commencer segmentation</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="506"/>
@@ -250,22 +253,22 @@ Veuillez vérifier adresse, port et connexion.</translation>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="814"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="112"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecter</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="819"/>
         <source>Failed to start server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du démarrage du serveur.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="842"/>
         <source>Server started</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur démarré</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="854"/>
         <source>Server was stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le serveur a été arrêté.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="855"/>
@@ -280,27 +283,27 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="127"/>
         <source>Segmentation model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de segmentation&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="136"/>
         <source>List models that contain all the specified words</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste les modèles qui contiennent tous les mots spécifiés</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="143"/>
         <source>Search in full text of the segmentation model description. Uncheck to search only in the model names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher en texte intégral la description du modèle de segmentation. Décocher pour rechercher uniquement dans les noms des modèles.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="146"/>
         <source>Full text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte intégral</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="155"/>
         <source>Download sample data set for the current segmentation model</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger un échantillon de données pour le modèle de segmentation actuel</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="158"/>
@@ -310,22 +313,22 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="187"/>
         <source>Input volume 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d’entrée 1&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="215"/>
         <source>Input volume 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d’entrée 2&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="243"/>
         <source>Input volume 3:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d’entrée 3&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="271"/>
         <source>Input volume 4:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d’entrée 4&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="302"/>
@@ -335,17 +338,17 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="311"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="318"/>
         <source>This will store the segmentation result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cela stockera le résultat de la segmentation.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="329"/>
         <source>Brain</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerveau</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="347"/>
@@ -355,23 +358,23 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="360"/>
         <source>Start segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Commencer segmentation.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="463"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="363"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="376"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="385"/>
         <source>Use standard segment names:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser noms de segments standard&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="392"/>
@@ -381,113 +384,113 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="405"/>
         <source>Force to use CPU: </source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer à utiliser CPU&#xa0;: </translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="412"/>
         <source>Use CPU, even if GPU is available. Useful if the GPU does not have enough memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez le CPU (processeur), même si le GPU est disponible. Utile si le GPU n’a pas assez de mémoire.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="422"/>
         <source>MONAI Python package:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquet Python MONAI&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="429"/>
         <source>Force upgrade of MONAI Python package to the version required by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer la mise à niveau du package MONAI Python vers la version requise par ce module.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="432"/>
         <source>Force reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer réinstallation</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="439"/>
         <source>Get information on the installed MONAI Python package</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir des informations sur le paquet Python MONAI installé</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="442"/>
         <source>Get Python package information</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir des informations sur les paquets Python</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="462"/>
         <source>Show all models:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher tous modèles&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="469"/>
         <source>Show all models in &quot;Segmentation model&quot; list, including old versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher tous les modèles dans la liste &quot;Modèle de segmentation&quot;, y compris les anciennes versions.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="479"/>
         <source>Manage models:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gérer modèles&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="488"/>
         <source>Open the folder that contains all downloaded files for models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez le dossier qui contient tous les fichiers téléchargés pour les modèles.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="491"/>
         <source>Open models cache folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir dossier de cache des modèles</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="498"/>
         <source>Delete all downloaded files for all models. The files will be automatically downloaded again as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les fichiers téléchargés pour tous les modèles. Les fichiers seront automatiquement téléchargés à nouveau si nécessaire.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="501"/>
         <source>Clear cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Vider cache</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="510"/>
         <source>Auto show 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher 3D auto&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="517"/>
         <source>If enabled then the segmentation will be shown in 3D by default (takes extra time).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si activé, la segmentation sera affichée en 3D par défaut (cela prend plus de temps).</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="533"/>
         <source>Local segmentation server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur local de segmentation</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="542"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="562"/>
         <source>Log to Console: </source>
-        <translation type="unfinished"></translation>
+        <translation>Connecter à console&#xa0;: </translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="576"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished"></translation>
+        <translation>Connecter à GUI&#xa0;: </translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="540"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="597"/>
         <source>Start server</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrer serveur</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="607"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse serveur&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -495,7 +498,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="3"/>
         <source>Abdominal organs TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Organes abdominaux TS2 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="4"/>
@@ -505,7 +508,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="5"/>
         <source>human</source>
-        <translation type="unfinished"></translation>
+        <translation>humain</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="6"/>
@@ -515,7 +518,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="7"/>
         <source>Abdominal organs TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Organes abdominaux TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="8"/>
@@ -525,7 +528,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="9"/>
         <source>Body TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Corps TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="10"/>
@@ -535,7 +538,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="11"/>
         <source>Body TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Corps TS2 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="12"/>
@@ -545,7 +548,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="13"/>
         <source>Vertebrae TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertèbres TS2 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
@@ -555,7 +558,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="15"/>
         <source>Vertebrae TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertèbres TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="16"/>
@@ -565,32 +568,32 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="17"/>
         <source>Mediastinal anatomy TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomie médiastinale TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="18"/>
         <source>Mediastinal anatomy TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomie médiastinale TS2 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="19"/>
         <source>Whole Head Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation tête entière</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="20"/>
         <source>Model trained on CT scans for whole head segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle entraîné sur des scanners CT pour la segmentation de la tête entière.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="21"/>
         <source>Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d&apos;entrée</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="22"/>
         <source>Whole Head Segmentation - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation tête entière - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="23"/>
@@ -600,7 +603,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="24"/>
         <source>Whole body segmentation TS1</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation du corps entier TS1</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="25"/>
@@ -610,12 +613,12 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="26"/>
         <source>Whole body segmentation TS1 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation corps entier TS1 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="27"/>
         <source>Whole body segmentation TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation corps entier TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="28"/>
@@ -625,27 +628,27 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="29"/>
         <source>Whole body segmentation TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation corps entier TS2 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="30"/>
         <source>Abdominal organs TS1</source>
-        <translation type="unfinished"></translation>
+        <translation>Organes abdominaux TS1</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="31"/>
         <source>Segment 17 abdominal organs. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment 17 organes abdominaux. Entraîné sur l’ensemble de données TotalSegmentatorV1. L’image d’entrée est un scanner abdominal, thoracique ou corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="32"/>
         <source>Prostate - Multisequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostate - Multiséquence</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="33"/>
         <source>Segments peripheral (PZ) and transition zone (TZ) on T2 and ADC sequences. Trained on Medical Segmentation Decathlon dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segments périphériques (PZ) et zone de transition (TZ) sur les séquences T2 et ADC. Entraîné sur le jeu de données Medical Segmentation Decathlon.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="34"/>
@@ -655,7 +658,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="35"/>
         <source>Input T2 volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volume d’entrée T2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="36"/>
@@ -665,7 +668,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="37"/>
         <source>Ribs TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Côtes TS2 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="38"/>
@@ -675,7 +678,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="39"/>
         <source>Ribs TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Côtes TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="40"/>
@@ -685,7 +688,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="41"/>
         <source>Muscles TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Muscles TS2 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="42"/>
@@ -695,7 +698,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="43"/>
         <source>Muscles TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Muscles TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="44"/>
@@ -705,7 +708,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="45"/>
         <source>Cardiac TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Cardiaque TS2 - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="46"/>
@@ -715,17 +718,17 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="47"/>
         <source>Cardiac TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cardiaque TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="48"/>
         <source>class_map_part_cardiac: Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>class_map_part_cardiac&#xa0;: entraîné sur l’ensemble de données TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="49"/>
         <source>Lungs - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Poumons - rapide</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
@@ -735,7 +738,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="51"/>
         <source>Lungs</source>
-        <translation type="unfinished"></translation>
+        <translation>Poumons</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="52"/>
@@ -745,7 +748,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="53"/>
         <source>Hips and spine</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanches et colonne vertébrale</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="54"/>
@@ -755,12 +758,12 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="55"/>
         <source>Aorta</source>
-        <translation type="unfinished"></translation>
+        <translation>Aorte</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="56"/>
         <source>Aorta segmentation. Trained on TotalSegmentatorV1 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation de l’aorte. Entraîné sur le jeu de données TotalSegmentatorV1.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="57"/>
@@ -785,27 +788,27 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
         <source>Brain Tumor Segmentation (BRATS) GLI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentation tumeurs cérébrales (BRATS) GLI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="62"/>
         <source>Input T2F volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volume d’entrée T2F</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="63"/>
         <source>Input T1C volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d’entrée T1C</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="64"/>
         <source>Input T1N volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volume d’entrée T1N</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="65"/>
         <source>Input T2W volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d’entrée T2W</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="66"/>
