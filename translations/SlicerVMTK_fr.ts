@@ -38,12 +38,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="266"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de paramètre est Aucun.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="278"/>
         <source>Input segmentation, volume, segment ID or margin size is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>La segmentation d’entrée, le volume, l’ID du segment ou la taille de la marge sont invalides.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="282"/>
