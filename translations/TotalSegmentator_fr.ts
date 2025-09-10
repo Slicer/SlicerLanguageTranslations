@@ -16,17 +16,17 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="30"/>
         <source>Input abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer un scanner abdominal, thoracique ou corps CT.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="51"/>
         <source>Segmentation task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tâche segmentation&#xa0;:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="58"/>
         <source>Choose &quot;total&quot; for segmenting all structures, or any of the more specialized segmentation tasks (that segment only a handful of specific structures in a certain region).</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez &quot;total&quot; pour segmenter toutes les structures, ou l’une des tâches de segmentation plus spécialisées (qui ne segmentent qu’une poignée de structures spécifiques dans une certaine région).</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="65"/>
@@ -211,7 +211,8 @@ https://arxiv.org/abs/2208.05868
         <location filename="TotalSegmentator/TotalSegmentator.py" line="289"/>
         <source>Application is required to complete installation of required Python packages.
 Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une application est requise pour terminer l’installation des packages Python requis.
+Appuyez sur OK pour redémarrer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="290"/>
@@ -223,7 +224,9 @@ Press OK to restart.</source>
         <source>Failed to install required packages.
 
 {exception}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l’installation des paquets requis.
+
+{exception}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="300"/>
@@ -238,7 +241,7 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="316"/>
         <source>Failed to get TotalSegmentator package version information</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l’obtention des informations sur la version du paquet TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="320"/>
@@ -288,42 +291,42 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="600"/>
         <source>Failed to deserialize terminology string: {terminology_entry_str}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la désérialisation de la chaîne de terminologie&#xa0;: {terminology_entry_str}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="738"/>
         <source>- Skip {requirement}</source>
-        <translation type="unfinished"></translation>
+        <translation>- Sauter {requirement}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="740"/>
         <source>- Installing {requirement}...</source>
-        <translation type="unfinished"></translation>
+        <translation>- Installation {requirement}...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="801"/>
         <source>This module requires installation of additional Python packages. Installation needs network connection and may take several minutes. Click OK to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module nécessite l’installation de packages Python supplémentaires. L’installation nécessite une connexion réseau et peut prendre plusieurs minutes. Cliquez sur OK pour continuer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="802"/>
         <source>Confirm Python package installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer l’installation du package Python</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="803"/>
         <source>Python packages that will be installed: {package_list}</source>
-        <translation type="unfinished"></translation>
+        <translation>Les paquets Python qui seront installés&#xa0;: {package_list}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="809"/>
         <source>PyTorch Python package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Le package PyTorch Python est requis. Installation... (cela peut prendre plusieurs minutes)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="823"/>
         <source>nnunetv2 package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Le paquet nnunetv2 est requis. Installation... (cela peut prendre plusieurs minutes)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="845"/>
@@ -345,7 +348,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="865"/>
         <source>TotalSegmentator installation completed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation de TotalSegmentator terminée avec succès.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="928"/>
