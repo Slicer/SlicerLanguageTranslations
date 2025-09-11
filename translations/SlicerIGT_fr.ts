@@ -21,7 +21,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, Kitware Inc., et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvention NIH 3P41RR013218-12S1.
+Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, Kitware Inc.,
+et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvention NIH 3P41RR013218-12S1.
 </translation>
     </message>
     <message>
@@ -357,7 +358,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab, et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvention NIH 3P41RR013218-12S1.
+Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvention NIH 3P41RR013218-12S1.
 </translation>
     </message>
 </context>
@@ -628,7 +630,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="274"/>
         <source>Translation</source>
-        <translation>Translation</translation>
+        <translation>Traduction</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="281"/>
@@ -922,7 +924,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="36"/>
         <source>Points will be collected according to the origin of this coordinate system.</source>
-        <translation>Les points seront mémorisés selon l&apos;origine de ce système de coordonnées</translation>
+        <translation>Les points seront collectés selon l’origine de ce système de coordonnées.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
