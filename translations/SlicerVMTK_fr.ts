@@ -354,8 +354,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="70"/>
         <source>Centerline model:</source>
-        <translation>Modèle de
-ligne centrale&#x202f;:</translation>
+        <translation>Modèle de ligne centrale&#xa0;:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="80"/>
