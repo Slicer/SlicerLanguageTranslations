@@ -1387,7 +1387,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>X-Ray Aniography</source>
-        <translation>X-Ray Aniography</translation>
+        <translation>Aniographie par rayons X</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
@@ -1442,7 +1442,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
         <source>Panoramic X-Ray</source>
-        <translation>Panoramic X-Ray</translation>
+        <translation>Rayons X panoramique</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
