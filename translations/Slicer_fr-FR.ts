@@ -14730,7 +14730,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
         <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-        <translation>Ajustez le champ de vision de la visionneuse de tracé pour qu&apos;il corresponde à l&apos;étendue des axes du tracé.</translation>
+        <translation>Ajuster le champ de vision de la visionneuse de tracé pour qu&apos;il corresponde à l&apos;étendue des axes du tracé</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="107"/>
@@ -15125,7 +15125,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="397"/>
         <source>Only those regions are allowed to be changed where the source volume intensity is in the specified range</source>
-        <translation>Seules les régions où l&apos;intensité du volume de la source se situe dans la plage spécifiée sont autorisées à être modifiées.</translation>
+        <translation>Seules ces régions peuvent être modifiées lorsque l’intensité du volume de la source est dans la plage spécifiée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="414"/>
@@ -20109,7 +20109,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="452"/>
         <source>Voxel values outside the input volume will be filled with this value</source>
-        <translation>Les valeurs des voxels en dehors du volume d&apos;entrée seront remplies avec cette valeur.</translation>
+        <translation>Les valeurs de voxel en dehors du volume d’entrée seront remplies avec cette valeur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="483"/>
@@ -21281,7 +21281,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2232"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
-        <translation>Mise à jour trouvée pour l&apos;extension %1: &apos;%2&apos; installée, &apos;%3&apos; disponible. </translation>
+        <translation>Mise à jour trouvée pour l&apos;extension %1&#xa0;: &apos;%2&apos; installée, &apos;%3&apos; disponible. </translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2303"/>
@@ -21321,7 +21321,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2479"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation>Échec de la mise à jour de l&apos;extension %1: sa mise à jour n&apos;est pas programmée.</translation>
+        <translation>Échec de la mise à jour de l&apos;extension %1&#xa0;: sa mise à jour n&apos;est pas programmée</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2599"/>
@@ -21489,7 +21489,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="144"/>
         <source>Query the Extensions Server if there are updates for any of the installed extensions</source>
-        <translation>Demander au serveur d&apos;extensions s&apos;il existe des mises à jour pour l&apos;une des extensions installées.</translation>
+        <translation>Demander au serveur d&apos;extensions s&apos;il existe des mises à jour pour l&apos;une des extensions installées</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="23"/>
@@ -21727,7 +21727,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="305"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation>Sélectionner un lecteur à utiliser pour vos données&#x202f;?</translation>
+        <translation>Sélectionnez un lecteur à utiliser pour vos données&#xa0;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"/>
@@ -22855,7 +22855,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
         <source>Add a new control point to the active list, at origin</source>
-        <translation>Ajouter un nouveau point de contrôle à la liste active, à l&apos;origine.</translation>
+        <translation>Ajouter un nouveau point de contrôle à la liste active, à l&apos;origine</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="692"/>
@@ -23110,7 +23110,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="453"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
-        <translation>Cliquez dans cette colonne pour afficher/masquer les points de contrôle en 2D et 3D.</translation>
+        <translation>Cliquez dans cette colonne pour afficher/masquer les points de contrôle en 2D et 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="459"/>
@@ -23135,12 +23135,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="933"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation>Cliquez pour déverrouiller cette liste de points de contrôle afin que les points puissent être déplacés à l&apos;aide de la souris.</translation>
+        <translation>Cliquez pour déverrouiller cette liste de points de contrôle afin que les points puissent être déplacés à l&apos;aide de la souris</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="938"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation>Cliquez pour verrouiller cette liste de points de contrôle afin que les points ne puissent pas être déplacés avec la souris.</translation>
+        <translation>Cliquez pour verrouiller cette liste de points de contrôle afin que les points ne puissent pas être déplacés avec la souris</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="944"/>
@@ -24697,7 +24697,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="176"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-        <translation>Impossible de sauvegarder la scène sous le nom de %1 (le chemin %2 n&apos;est pas accessible en écriture).</translation>
+        <translation>Impossible de sauvegarder la scène sous le nom de %1 (le chemin %2 n&apos;est pas accessible en écriture)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="148"/>
@@ -27229,7 +27229,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="75"/>
         <source>Clone this item and its data node if any along with display and storage options</source>
-        <translation>Clonez cet élément et son nœud de données le cas échéant, ainsi que les options d&apos;affichage et de stockage.</translation>
+        <translation>Cloner cet élément et son nœud de données le cas échéant, ainsi que les options d&apos;affichage et de stockage</translation>
     </message>
 </context>
 <context>
@@ -27382,7 +27382,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation>Si cette option est activée, les dossiers qui ne contiennent pas de nœuds (autorisés par n&apos;importe quel filtre) sont affichés, sinon non.</translation>
+        <translation>Si cette option est activée, les dossiers qui ne contiennent pas de nœuds (autorisés par n&apos;importe quel filtre) sont affichés, sinon non</translation>
     </message>
 </context>
 <context>
@@ -27785,7 +27785,7 @@ Remarque&#xa0;: Cela peut entraîner une perte de données indésirable dans %4.
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="394"/>
         <source> (Source representation: %1)</source>
         <oldsource> (Master representation: %1)</oldsource>
-        <translation> (Représentation de la source: %1)</translation>
+        <translation> (Représentation de la source&#xa0;: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
@@ -30169,7 +30169,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="376"/>
         <source>bytes/sec</source>
-        <translation>bytes/sec</translation>
+        <translation>octets/sec</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="381"/>
