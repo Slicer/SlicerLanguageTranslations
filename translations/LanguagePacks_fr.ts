@@ -263,7 +263,7 @@ Le développement de ce module a été partiellement financé par une &lt;a href
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="610"/>
         <source>Failed to download translation from: {url} -- {text}</source>
-        <translation>Échec du téléchargement de la traduction depuis&#xa0;: { {url} -- {text}</translation>
+        <translation>Échec du téléchargement de la traduction depuis&#xa0;: {url} -- {text}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="611"/>
