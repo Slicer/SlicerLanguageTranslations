@@ -641,32 +641,32 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="31"/>
         <source>Segment 17 abdominal organs. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>分割 17 个腹部器官。基于 TotalSegmentatorV1 数据集训练。输入图像可为腹部、胸部或全身 CT。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="32"/>
         <source>Prostate - Multisequence</source>
-        <translation type="unfinished"></translation>
+        <translation>前列腺—多序列</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="33"/>
         <source>Segments peripheral (PZ) and transition zone (TZ) on T2 and ADC sequences. Trained on Medical Segmentation Decathlon dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>在 T2 与 ADC 序列上分割前列腺的周围带（PZ）与移行带（TZ）。使用 Medical Segmentation Decathlon 数据集训练。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="34"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="35"/>
         <source>Input T2 volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 T2 数据</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="36"/>
         <source>Input ADC volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 ADC 数据</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="37"/>
@@ -676,7 +676,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="38"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_ribs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>快速预览用低分辨率（3mm）。在 TotalSegmentatorV2 数据集的 class_map_part_ribs 上训练。输入图像为腹部、胸部或全身 CT。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="39"/>
@@ -746,7 +746,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="52"/>
         <source>Segment 9 segments: lung segments, pulmonary vein, pulmonary artery, lung vessels and trachea. Trained on TotalSegmentatorV2 datasets. In v1.x there are no pulmonary vein and artery segments but there is esophagus.</source>
-        <translation type="unfinished"></translation>
+        <translation>分割 9 个结构：肺段、肺静脉、肺动脉、肺血管与气管。基于 TotalSegmentatorV2 数据集训练。在 v1.x 中无肺静脉与肺动脉分割，但包含食管。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="53"/>
@@ -756,7 +756,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="54"/>
         <source>Segment 27 segments: hips, sacrum and vertebrae. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>分割 27 个结构：髋骨、骶骨与椎骨。基于 TotalSegmentatorV1 数据集训练。输入图像为腹部、胸部或全身 CT。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="55"/>
