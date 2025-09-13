@@ -91,7 +91,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="183"/>
         <source>If enabled (default) then segment names are obtained from Slicer standard terminology files. If disabled then TotalSegmentator identifiers are used as segment names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si activé (par défaut), les noms des segments sont obtenus à partir des fichiers de terminologie standard de Slicer. Si désactivé, les identifiants TotalSegmentator sont utilisés comme noms de segment.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="196"/>
@@ -106,12 +106,12 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="213"/>
         <source>TotalSegmentator Python package:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquetage Python TotalSegmentator&#xa0;:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="220"/>
         <source>Force upgrade of TotalSegmentator Python package to the version required by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer la mise à niveau du package Python TotalSegmentator vers la version requise par ce module.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
@@ -126,17 +126,17 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="237"/>
         <source>Get metadata information for the TotalSegmentator package currently installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir des informations de métadonnées pour le paquet TotalSegmentator actuellement installé</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
         <source>Get TotalSegmentator package information</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir information sur le paquet TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="260"/>
         <source>Set or update TotalSegmentator license key to allow running tasks that require a license. The registration has to be done only once, the license information is stored persistently in the TotalSegmentation configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définit ou met à jour la clé de licence TotalSegmentator afin d&apos;autoriser les tâches en cours d’exécution qui nécessitent une licence. L’enregistrement ne doit être effectué qu’une seule fois, les informations de licence sont stockées en permanence dans la configuration de TotalSegmentation.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="263"/>
@@ -146,7 +146,7 @@
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="27"/>
         <source>Total Segmentator</source>
-        <translation type="unfinished"></translation>
+        <translation>Total Segmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="34"/>
