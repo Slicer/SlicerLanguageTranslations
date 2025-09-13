@@ -259,62 +259,62 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished">ملاحظة: التحويلات الأصلية للنماذج غير مستخدمة. يجب تعريف النماذج في نظام الإحداثيات الذي يتم تسجيله</translation>
+        <translation>ملاحظة: التحويلات الأصلية للنماذج غير مستخدمة. يجب تعريف النماذج في نظام الإحداثيات الذي يتم تسجيله</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
         <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
-        <translation type="unfinished">اختر النموذج الذي سيتم تحويل النموذج الآخر إليه. ~~~</translation>
+        <translation>اختر النموذج الذي سيتم تحويل النموذج الآخر إليه. هذا النموذج يجب أن يحتوي على مجموعة كثيفة من النقاط.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
-        <translation type="unfinished">اختر النموذج الذي سيتم تحويله ~~~</translation>
+        <translation>اختر النموذج الذي سيتم تحويله. قد يحتاج إلى مجموعة متفرقة او قليلة من النقاط</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
         <source>Input moving (sparse) model: </source>
-        <translation type="unfinished"></translation>
+        <translation>ادخل النموذج الذي سيتم تحريكه (نقاط متفرقه او قليلة) </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
         <source>Pick the moving to fixed transform computed by the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر التحويل الذي قامت الخوارزمية بحسابه.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished">تحويل الإخراج: </translation>
+        <translation>نتائج التحويل: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">تشغيل الخوارزمية.</translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
         <source>Output</source>
-        <translation type="unfinished">الناتج</translation>
+        <translation>الناتج</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
         <source>Mean distance after registration:</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة المتوسطة بعد التسجيل:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
         <source>Advanced</source>
-        <translation type="unfinished">متقدم</translation>
+        <translation>الاعدادات المتقدمة</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished">عدد التكرارات:</translation>
+        <translation>عدد التكرارات:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختبار غير متاح أو غير مفعل لوحدة تسجيل النماذج</translation>
     </message>
 </context>
 <context>
@@ -322,22 +322,22 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة الزمنية</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished">اضف</translation>
+        <translation>اضف</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">النقاط المسجلة</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
         <source>Sequence Replay</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة عرض السلسلة الزمنية</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
@@ -361,7 +361,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="TextureModel/TextureModel.py" line="21"/>
         <source>Texture Model</source>
-        <translation type="unfinished"></translation>
+        <translation>تفاصيل المظهر الخارجي للنموذج</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="29"/>
@@ -375,32 +375,32 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>المعطيات</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
         <source>Model node containing geometry and texture coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation>نقاط النموذج تحتوي على شكل هندسي واحداثيات تفاصيل المظهر الخارجي.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="68"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>النموذج:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="80"/>
         <source>Color image containing texture image.</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الصورة يحتوي على صورة تفاصيل المظهر الخارجي.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
         <source>Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تفاصيل المظهر الخارجي (التكيستشر):</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="84"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>معطل</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
