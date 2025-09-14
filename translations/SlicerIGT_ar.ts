@@ -332,7 +332,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished">النقاط المسجلة</translation>
+        <translation>النقاط او العقود المسجلة</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
@@ -345,7 +345,10 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+هذا مثال لوحدة قابلة للتحميل مكتوبة بلغة برمجة ومضمّنة ضمن إضافة.
+لرؤية التفاصيل في &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="51"/>
@@ -353,7 +356,11 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذا الملف في الأصل من قِبل جان-كريستوف فيليون-روبين (Jean-Christophe Fillion-Robin) من شركة Kitware
+، وأندراس لاسّو (Andras Lasso) من مختبر PerkLab، وستيف بايبر (Steve Pieper) من شركة Isomics
+. وقد تم تمويله جزئياً من منحة المعاهد الوطنية للصحة (NIH) رقم 3P41RR013218-12S1
+</translation>
     </message>
 </context>
 <context>
@@ -370,7 +377,11 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تقوم هذه الوحدة بتطبيق نسيج (Texture) — المخزَّن في عقدة الحجمية (Volume Node) — على عقدة النموذج (Model Node).
+يُستخدم ذلك عادةً لعرض أسطح ملوّنة يتم الحصول عليها من أجهزة المسح السطحي (Surface Scanners) والمصدَّرة بصيغة ‎OBJ.
+يجب أن يحتوي النموذج على إحداثيات للنسيج (Texture Coordinates). يتم دعم ملف نسيج واحد فقط لكل نموذج.
+لمزيد من المعلومات، يُرجى زيارة t &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
@@ -395,7 +406,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
         <source>Texture:</source>
-        <translation type="unfinished">تفاصيل المظهر الخارجي (التكيستشر):</translation>
+        <translation>تفاصيل المظهر الخارجي (التكيستشر,النسيج):</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="84"/>
@@ -405,32 +416,32 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <translation type="unfinished"></translation>
+        <translation>متجه الالوان الـRGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <translation type="unfinished"></translation>
+        <translation>متجه الالوان الـRGB العشري</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
-        <translation type="unfinished"></translation>
+        <translation>مكوّنات الـRGB العشرية</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="91"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>احفظ اللون في بيانات النقاط. يُوصى باستخدام &quot;متجه الالوان الـRGB&quot; لضمان التوافق مع معظم البرامج. يمكن استخدام البيانات النقطية لعملية تحديد العتبة (Thresholding) أو المعالجة المعتمدة على الألوان.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="92"/>
         <source>Save color information as point data:</source>
-        <translation type="unfinished"></translation>
+        <translation>احفظ معلومات اللون كبيانات نقطية:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
-        <translation type="unfinished"></translation>
+        <translation>طبق المظهر الخارجي(النسيج) للنموذج المختار.</translation>
     </message>
 </context>
 <context>
@@ -438,7 +449,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="13"/>
         <source>Viewpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>زاوية الرؤية</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="23"/>
@@ -446,7 +457,10 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تقوم هذه الوحدة بضبط زاوية الكاميرا في عارض ثلاثي الأبعاد (3D Viewer).
+عرض Bullseye: يتيح تحديد موقع الكاميرا وتوجيهها باستخدام أداة متتبعة (Tracked Tool).
+للحصول على المساعدة حول كيفية استخدام هذه الوحدة، يرجى زيارة: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="25"/>
@@ -458,32 +472,32 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Enable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل وضع عرض Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="68"/>
         <source>Disable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل وضع عرض Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
         <source>Enable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل وضع المحاذاة التلقائية</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="96"/>
         <source>Disable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل وضع المحاذاة التلقائية</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="103"/>
         <source>View Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض التحديد</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="109"/>
         <source>Scene Camera: </source>
-        <translation type="unfinished"></translation>
+        <translation>كاميرة المشهد: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="116"/>
