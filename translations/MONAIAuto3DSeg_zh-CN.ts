@@ -576,67 +576,67 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="18"/>
         <source>Mediastinal anatomy TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>纵隔解剖 TS2 - 速览</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="19"/>
         <source>Whole Head Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>全头部分割</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="20"/>
         <source>Model trained on CT scans for whole head segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>基于 CT 扫描训练的全头部分割模型。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="21"/>
         <source>Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入音量</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="22"/>
         <source>Whole Head Segmentation - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>全头部分割 - 快速</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="23"/>
         <source>Low-resolution (1mm) for quick preview. Model trained on CT scans for whole head segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>低分辨率（1 毫米）用于快速预览。模型基于 CT 扫描训练，用于全头部分割。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="24"/>
         <source>Whole body segmentation TS1</source>
-        <translation type="unfinished"></translation>
+        <translation>全身分割 TS1</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="25"/>
         <source>Segment 104 structures (abdominal organs, bones, vessels) on CT images. Trained on TotalSegmentatorV1 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>在 CT 图像上分割 104 个结构（腹部器官、骨骼、血管）。基于 TotalSegmentatorV1 数据集训练。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="26"/>
         <source>Whole body segmentation TS1 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>全身分割 TS1 - 快速</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="27"/>
         <source>Whole body segmentation TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>全身分割 TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="28"/>
         <source>Segment &gt;100 structures (abdominal organs, bones, vessels, etc) on CT images. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>在 CT 图像中分割 100 余种结构（腹部器官、骨骼、血管等）。基于 TotalSegmentatorV2 数据集训练。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="29"/>
         <source>Whole body segmentation TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>全身分割 TS2 - 快速</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="30"/>
         <source>Abdominal organs TS1</source>
-        <translation type="unfinished"></translation>
+        <translation>腹部器官 TS1</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="31"/>
@@ -671,7 +671,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="37"/>
         <source>Ribs TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>TS2 肋骨 - 快</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="38"/>
@@ -681,67 +681,67 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="39"/>
         <source>Ribs TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>肋骨 TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="40"/>
         <source>class_map_part_ribs: Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>class_map_part_ribs：基于 TotalSegmentatorV2 数据集训练。输入图像为腹部、胸部或全身 CT。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="41"/>
         <source>Muscles TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>肌肉 TS2 - 快速</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="42"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>低分辨率（3 mm）用于快速预览。基于 TotalSegmentatorV2 数据集的 class_map_part_muscles 训练。输入图像为腹部、胸部或全身 CT。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="43"/>
         <source>Muscles TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>肌肉 TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="44"/>
         <source>Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 TotalSegmentatorV2 数据集的 class_map_part_muscles 进行训练。输入图像为腹部、胸部或全身 CT。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="45"/>
         <source>Cardiac TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>心脏 TS2 - 快速</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="46"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_cardiac of TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>低分辨率（3 mm）用于快速预览。基于 TotalSegmentatorV2 数据集的 class_map_part_cardiac 训练。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="47"/>
         <source>Cardiac TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>心脏 TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="48"/>
         <source>class_map_part_cardiac: Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>class_map_part_cardiac：基于 TotalSegmentatorV2 数据集训练。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="49"/>
         <source>Lungs - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>肺 - 速查</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>低分辨率（3 毫米）用于快速预览。基于 TotalSegmentatorV2 数据集训练。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="51"/>
         <source>Lungs</source>
-        <translation type="unfinished"></translation>
+        <translation>肺</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="52"/>
@@ -751,7 +751,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="53"/>
         <source>Hips and spine</source>
-        <translation type="unfinished"></translation>
+        <translation>髋部与脊柱</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="54"/>
@@ -761,77 +761,77 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="55"/>
         <source>Aorta</source>
-        <translation type="unfinished"></translation>
+        <translation>主动脉</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="56"/>
         <source>Aorta segmentation. Trained on TotalSegmentatorV1 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>主动脉分割。基于 TotalSegmentatorV1 数据集训练。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="57"/>
         <source>Intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>颅内出血（ICrH）分割</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="58"/>
         <source>Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>基于CT图像的颅内出血分割。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="59"/>
         <source>Brain and intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>脑部与颅内出血（ICrH）分割</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="60"/>
         <source>Brain Anatomy and Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>基于 CT 图像的脑部解剖结构与颅内出血分割。</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
         <source>Brain Tumor Segmentation (BRATS) GLI</source>
-        <translation type="unfinished"></translation>
+        <translation>脑肿瘤分割（BRATS）胶质瘤</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="62"/>
         <source>Input T2F volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 T2F 体积</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="63"/>
         <source>Input T1C volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 T1C 体积</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="64"/>
         <source>Input T1N volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 T1N 体积</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="65"/>
         <source>Input T2W volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入T2W 体积</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="66"/>
         <source>Brain Tumor Segmentation (BRATS) MEN</source>
-        <translation type="unfinished"></translation>
+        <translation>脑肿瘤分割（BRATS）MEN</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="67"/>
         <source>Brain Tumor Segmentation (BRATS) MET</source>
-        <translation type="unfinished"></translation>
+        <translation>脑肿瘤分割（BRATS）MET</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="68"/>
         <source>Brain Tumor Segmentation (BRATS) PED</source>
-        <translation type="unfinished"></translation>
+        <translation>脑肿瘤分割（BRATS）PED</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="69"/>
         <source>Brain Tumor Segmentation (BRATS) SSA</source>
-        <translation type="unfinished"></translation>
+        <translation>脑肿瘤分割（BRATS）SSA</translation>
     </message>
 </context>
 <context>
