@@ -41,8 +41,8 @@ This file was originally developed by Andras Lasso (PerkLab, Queen&apos;s Univer
 The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
 </source>
         <translation>
-该文件最初由安德拉什·洛索（Andras Lasso，皇后大学 PerkLab）开发。
-该模块使用了&lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg 模型&lt;/a&gt;。
+该文件最初由Andras Lasso（Queen&apos;s 大学，PerkLab）开发。
+该模块使用了&lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg模型&lt;/a&gt;。
 </translation>
     </message>
     <message>
