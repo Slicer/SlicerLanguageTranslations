@@ -955,7 +955,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
         <source>Get:</source>
-        <translation type="unfinished"></translation>
+        <translation>Get:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="416"/>
