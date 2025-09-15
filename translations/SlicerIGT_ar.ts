@@ -20,7 +20,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc. وSteve Pieper، Isomics, Inc. وتم تمويله جزئيًا بواسطة منحة NIH 3P41RR013218-12S1.
+تم تطوير هذا الملف في الأصل من قِبل جان-كريستوف فيليون-روبين (Jean-Christophe Fillion-Robin) , شركة Kitware،
+ وأندراس لاسّو (Andras Lasso) , مختبر PerkLab، وستيف بايبر (Steve Pieper),  شركة Isomics. وقد تم تمويله جزئياً من منحة المعاهد الوطنية للصحة (NIH) رقم 3P41RR013218-12S1.
 </translation>
     </message>
     <message>
@@ -31,7 +32,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation>مدخلات الاعتماد: </translation>
+        <translation type="unfinished">ادخل المدخلات المرجعية: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
