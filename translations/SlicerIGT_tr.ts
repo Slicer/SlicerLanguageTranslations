@@ -110,7 +110,7 @@ ve Steve Pieper, Isomics, Inc. tarafından geliştirilmiş olup, kısmen NIH gra
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
         <source>Set the Plus Server Host and Name Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus Sunucu Ana Bilgisayarı ve Bağlantı (ad) Portunu Ayarlayın:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
@@ -128,12 +128,12 @@ ve Steve Pieper, Isomics, Inc. tarafından geliştirilmiş olup, kısmen NIH gra
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
         <source>Select connector node</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı düğümünü seçin</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
         <source>OpenIGTLink connector: </source>
-        <translation type="unfinished"></translation>
+        <translation>OpenIGTLink konektörü: </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
@@ -148,12 +148,12 @@ ve Steve Pieper, Isomics, Inc. tarafından geliştirilmiş olup, kısmen NIH gra
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
         <source>Save Guidelet scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Guidelet sahnesini kaydet</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="216"/>
         <source>Save scene directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahne dizinini kaydet:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
@@ -229,7 +229,7 @@ ve Steve Pieper, Isomics, Inc. tarafından geliştirilmiş olup, kısmen NIH gra
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
         <source>Model Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Model Kaydı</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
@@ -237,14 +237,19 @@ ve Steve Pieper, Isomics, Inc. tarafından geliştirilmiş olup, kısmen NIH gra
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Bu modül, iki yüzey modeli arasında Yinelemeli En Yakın Noktalar kaydı uygular. 
+Bu modülün kullanımına ilişkin yardım için şu adresi ziyaret edin: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT web sitesi&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="35"/>
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Bu çalışma, Cancer Care Ontario (CCO) ACRU programı ve Ontario Radyasyon Onkolojisinde Uyarlanabilir Müdahaleler Konsorsiyumu (OCAIRO) tarafından finanse edilen SparKit projesinin bir parçasıdır.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
@@ -254,12 +259,12 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not: Modellerin üst dönüşümleri kullanılmaz. Modeller, kaydedilen koordinat sisteminde tanımlanmalıdır.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
         <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diğerinin dönüştürüleceği modeli seçin. Bu model, yoğun bir nokta kümesi içermelidir.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
