@@ -14293,7 +14293,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="306"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="695"/>
         <source>Create new %1</source>
-        <translation type="unfinished">Créer un nouveau %1</translation>
+        <translation>Créer nouveau %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="310"/>
@@ -14310,7 +14310,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="680"/>
         <source>Rename %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished">Renommer %1</translation>
+        <translation>Renommer %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="714"/>
@@ -14929,7 +14929,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">Miniature</translation>
+        <translation>Miniature</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
@@ -14974,12 +14974,12 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="174"/>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer sous...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="206"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="196"/>
@@ -18678,7 +18678,7 @@ p, li { white-space&#xa0;: pre-wrap&#x202f;; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="38"/>
         <source>Components:</source>
-        <translation type="unfinished"></translation>
+        <translation>Composantes&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="45"/>
@@ -18688,12 +18688,12 @@ p, li { white-space&#xa0;: pre-wrap&#x202f;; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="55"/>
         <source>Independent</source>
-        <translation type="unfinished"></translation>
+        <translation>Indépendant</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="75"/>
         <source>Component Index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Index composants&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -19729,7 +19729,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="158"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le &lt;b&gt;Module couleurs&lt;/b&gt; gère les tables de recherche de couleur, stockées dans les nœuds de couleur. &lt;br&gt;Ces tables traduisent entre une valeur numérique et une couleur pour l’affichage de divers types de données, tels que les volumes et les modèles. &lt;br&gt;Deux types de tables de recherche sont disponibles&#xa0;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Tableau discret&#xa0;: une liste de couleurs nommées est spécifiée (exemple&#xa0;: GenericAnatomyColors). Les tables discrètes peuvent également être utilisées pour un mappage continu, dans ce cas, les couleurs sont utilisées comme échantillons à égale distance dans la plage spécifiée, et interpolées en douceur entre elles (exemple&#xa0;: gris). &lt;/li&gt;&lt;li&gt;Échelle continue&#xa0;: la couleur est spécifiée pour les valeurs numériques choisies arbitrairement et la valeur de couleur est calculable en interpolant en douceur entre ces valeurs (exemple&#xa0;: PET-DICOM). Aucun nom n’est spécifié pour les couleurs. &lt;/li&gt;Tous les tableaux de couleurs intégrés sont en lecture seule. Pour modifier les couleurs, créez une copie du tableau des couleurs en cliquant sur l’icône du dossier &apos;copier&apos;.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="179"/>
@@ -19747,7 +19747,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
         <source>Color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Légende couleur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
@@ -19802,7 +19802,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="163"/>
         <source>Add new empty color table node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter nouveau nœud de table de couleur vide.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
@@ -19819,17 +19819,17 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
         <source>Hide empty colors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher couleurs vides&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="323"/>
         <source>Add new color to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter nouvelle couleur à la table de couleur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="333"/>
         <source>Delete currently selected color</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer couleur actuellement sélectionnée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -22673,7 +22673,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display properties to defaults. These properties will be used even after application restart.</source>
         <oldsource>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</oldsource>
-        <translation type="unfinished">Enregistrer les paramètres de propriété d&apos;affichage actuels par défaut, sera enregistré pour le redémarrage de Slicer (voir Paramètres de l&apos;application)</translation>
+        <translation>Enregistrer les propriétés d’affichage actuelles par défaut. Ces propriétés seront utilisées même après le redémarrage de l’application.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -24425,13 +24425,13 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="829"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="961"/>
         <source>File writing may have failed because filename is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>L’écriture de fichier peut avoir échouée parce que le nom du fichier est trop long&#xa0;: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="837"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="969"/>
         <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>L’écriture de fichier peut avoir échouée car le nom du dossier de sortie est trop long&#xa0;: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="845"/>
@@ -24495,12 +24495,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="96"/>
         <source>Invert:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverser&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="103"/>
         <source>Reverse the order of colors in the lookup table to display this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverser l’ordre des couleurs dans la table de correspondance pour afficher ce volume.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="149"/>
@@ -24589,32 +24589,32 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="87"/>
         <source>Update existing nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour nœuds existants</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="89"/>
         <source>If checked, the nodes already contained in the scene view will be updated to match the current state of the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si coché, les nœuds déjà contenus dans la vue de la scène seront mis à jour pour correspondre à l’état actuel de la scène.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="95"/>
         <source>Capture display nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturer nœuds d’affichage</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
         <source>If checked, all display nodes in the scene will be added or updated in the current scene view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cochée, tous les nœuds d’affichage de la scène seront ajoutés ou mis à jour dans la vue de la scène actuelle.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="103"/>
         <source>Capture view nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturer nœuds de vue</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="104"/>
         <source>If checked, all view nodes in the scene will be added or updated in the current scene view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cochée, tous les nœuds de vue dans la scène seront ajoutés ou mis à jour dans la vue de la scène actuelle.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="110"/>
@@ -24625,7 +24625,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="111"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="120"/>
         <source>Select the nodes to be captured in the scene view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez les nœuds à capturer dans la vue scène.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="138"/>
@@ -25302,7 +25302,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="320"/>
         <source>Color Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Table couleur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="616"/>
@@ -26271,12 +26271,12 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="231"/>
         <source>Maximum filename length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur maximale du nom de fichier&#xa0;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="238"/>
         <source>Limit the maximum length of filenames. For compatibility with Windows systems, a low value such as 50 is recommended. Set a higher value to allow using longer filenames that match long node names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiter la longueur maximale des noms de fichiers. Pour assurer la compatibilité avec les systèmes Windows, une valeur faible telle que 50 est recommandée. Définissez une valeur plus élevée pour autoriser l’utilisation de noms de fichiers plus longs qui correspondent à des noms de nœuds longs.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="110"/>
@@ -26307,7 +26307,7 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="212"/>
         <source>Max. filename length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur de fichier max</translation>
     </message>
 </context>
 <context>
@@ -26955,12 +26955,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="126"/>
         <source>Show slice edge in 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afficher bord de tranche en 3D&#xa0;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
         <source>Show colored frame around the slice when displayed in 3D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher cadre coloré autour de la tranche lorsque affichée dans vues 3D.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="146"/>
@@ -27517,17 +27517,17 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="186"/>
         <source>Invalid item</source>
-        <translation type="unfinished"></translation>
+        <translation>Élément invalide</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="192"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="198"/>
         <source>Invalid model node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de modèle invalide</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="200"/>
@@ -27537,22 +27537,22 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="205"/>
         <source>Unstructured grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grille non structurée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="209"/>
         <source>Model node does not contain data</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud du modèle ne contient pas de données</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="214"/>
         <source>Points: %1  Cells: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Points&#xa0;: %1  Cellules&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="223"/>
         <source>Color: %1,%2,%3  Opacity: %4%</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur&#xa0;: %1,%2,%3  Opacité&#xa0;: %4%</translation>
     </message>
 </context>
 <context>
@@ -27997,7 +27997,7 @@ Balises&#xa0;: %6</translation>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="138"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="151"/>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="158"/>
@@ -28880,7 +28880,7 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="47"/>
@@ -28901,12 +28901,12 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Catégorie&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Type&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="153"/>
@@ -28916,12 +28916,12 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
         <source>Use automatically generated label and color from selected terminology:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser une étiquette et une couleur générées automatiquement à partir de la terminologie sélectionnée&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
         <source>Select from terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez depuis terminologie...</translation>
     </message>
 </context>
 <context>
@@ -28934,12 +28934,12 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="342"/>
         <source>Select region context...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez contexte région...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="374"/>
         <source>Region...</source>
-        <translation type="unfinished"></translation>
+        <translation>Région...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="426"/>
@@ -29672,7 +29672,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilité&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="235"/>
@@ -29727,7 +29727,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="357"/>
         <source>Blank value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur vide&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="471"/>
@@ -29861,7 +29861,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
         <source>Volume Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriété volume</translation>
     </message>
 </context>
 <context>
@@ -30453,7 +30453,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLBSplineTransformNode.cxx" line="28"/>
         <source>B-Spline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformer B-Spline</translation>
     </message>
 </context>
 <context>
@@ -30461,7 +30461,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLCPURayCastVolumeRenderingDisplayNode.cxx" line="36"/>
         <source>CPU Ray-Cast Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu volume CPU Ray-Cast</translation>
     </message>
 </context>
 <context>
@@ -30490,7 +30490,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="728"/>
         <source>%name (%id) cannot be represented using only planes</source>
-        <translation type="unfinished"></translation>
+        <translation>%name (%id) ne peut pas être représenté en utilisant uniquement des plans</translation>
     </message>
 </context>
 <context>
@@ -30498,7 +30498,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Colors/MRML/vtkMRMLColorLegendDisplayNode.cxx" line="44"/>
         <source>Color Legend Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage légende couleurs</translation>
     </message>
 </context>
 <context>
@@ -30506,7 +30506,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorNode.cxx" line="35"/>
         <source>Color</source>
-        <translation type="unfinished">Couleur</translation>
+        <translation>Couleur</translation>
     </message>
 </context>
 <context>
@@ -30514,7 +30514,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableNode.cxx" line="36"/>
         <source>Color Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Table couleurs</translation>
     </message>
 </context>
 <context>
@@ -30522,7 +30522,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="47"/>
         <source>Color Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage table couleurs</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="75"/>
@@ -30531,7 +30531,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="90"/>
         <source>CSV Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Table couleurs CSV</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="79"/>
@@ -30545,12 +30545,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="230"/>
         <source>Column &apos;%1&apos; was not found in color table file: &apos;%2&apos;. Color component is set to 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>La colonne &apos;%1&apos; n’a pas été trouvée dans le fichier de table de couleurs&#xa0;: &apos;%2&apos;. La composante de couleur est fixée à 0.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="263"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>labelValue n’est pas spécifié dans le fichier couleurs à la ligne %1. Sauter cette ligne.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="272"/>
@@ -30583,7 +30583,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="95"/>
         <source>Command Line Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Module ligne de commande</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="647"/>
@@ -30708,7 +30708,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDisplayableHierarchyNode.cxx" line="35"/>
         <source>Displayable Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiérarchie affichable</translation>
     </message>
 </context>
 <context>
@@ -30716,7 +30716,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLFolderDisplayNode.cxx" line="35"/>
         <source>Folder Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage dossier</translation>
     </message>
 </context>
 <context>
@@ -30724,7 +30724,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLGPURayCastVolumeRenderingDisplayNode.cxx" line="36"/>
         <source>GPU Ray-Cast Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu de volume GPU Ray-Cast</translation>
     </message>
 </context>
 <context>
@@ -30732,7 +30732,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeDisplayNode.cxx" line="37"/>
         <source>Glyphable Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage de volume Glyphable</translation>
     </message>
 </context>
 <context>
@@ -30756,7 +30756,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLHierarchyNode.cxx" line="58"/>
         <source>Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiérarchie</translation>
     </message>
 </context>
 <context>
@@ -30764,7 +30764,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLHierarchyStorageNode.cxx" line="28"/>
         <source>Hierarchy Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage hiérarchie</translation>
     </message>
 </context>
 <context>
@@ -30804,7 +30804,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformNode.cxx" line="32"/>
         <source>Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation linéaire</translation>
     </message>
 </context>
 <context>
@@ -31130,7 +31130,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLMultiVolumeRenderingDisplayNode.cxx" line="37"/>
         <source>Multi Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu multi volume</translation>
     </message>
 </context>
 <context>
@@ -31138,7 +31138,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLNRRDStorageNode.cxx" line="44"/>
         <source>NRRD Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage NRRD</translation>
     </message>
 </context>
 <context>
@@ -31146,7 +31146,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPETProceduralColorNode.cxx" line="14"/>
         <source>PET Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur procédurale PET</translation>
     </message>
 </context>
 <context>
@@ -31178,7 +31178,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorNode.cxx" line="35"/>
         <source>Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur procédurale</translation>
     </message>
 </context>
 <context>
@@ -31203,7 +31203,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeDisplayNode.cxx" line="50"/>
         <source>Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage volume</translation>
     </message>
 </context>
 <context>
@@ -31259,7 +31259,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="106"/>
         <source>Segmentation Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage segmentation</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="149"/>
@@ -31274,7 +31274,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSelectionNode.cxx" line="43"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
 </context>
 <context>
@@ -31282,7 +31282,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Sequences/MRML/vtkMRMLSequenceBrowserNode.cxx" line="140"/>
         <source>Sequence Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigateur de séquence</translation>
     </message>
 </context>
 <context>
@@ -31433,7 +31433,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextNode.cxx" line="34"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte</translation>
     </message>
 </context>
 <context>
@@ -31500,7 +31500,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLUnitNode.cxx" line="38"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Unité</translation>
     </message>
 </context>
 <context>
@@ -31740,7 +31740,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1072"/>
         <source>background</source>
-        <translation type="unfinished"></translation>
+        <translation>arrière-plan</translation>
     </message>
 </context>
 <context>
