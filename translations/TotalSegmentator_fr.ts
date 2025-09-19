@@ -66,7 +66,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="138"/>
         <source>Create new segmentation on Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une nouvelle segmentation sur Appliquer</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="154"/>
@@ -186,7 +186,7 @@ https://arxiv.org/abs/2208.05868
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="226"/>
         <source>{volume_name} segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation {volume_name}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="271"/>
@@ -331,19 +331,21 @@ Appuyez sur OK pour redémarrer.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="845"/>
         <source>This module requires TotalSegmentator Python package update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module nécessite la mise à jour du package Python TotalSegmentator.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="846"/>
         <source>Currently installed: {downloadUrl}
 
 Required: {requiredUrl}</source>
-        <translation type="unfinished"></translation>
+        <translation>Actuellement installé&#xa0;: {downloadUrl}
+
+Requis&#xa0;: {requiredUrl}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="853"/>
         <source>TotalSegmentator Python package is required. Installing it from {downloadUrl}... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Le package Python TotalSegmentator est requis. En cours d&apos;installation à partir de {downloadUrl}... (cela peut prendre plusieurs minutes)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="865"/>
