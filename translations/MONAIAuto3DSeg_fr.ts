@@ -40,7 +40,10 @@ Voir plus d’informations dans la &lt;a href=&quot;https://github.com/lassoan/S
 This file was originally developed by Andras Lasso (PerkLab, Queen&apos;s University).
 The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été à l’origine créé par Andras Lasso (PerkLab, Queen’s University).
+Le module utilise&lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="190"/>
@@ -175,7 +178,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="715"/>
         <source>Processing failed with error code [{error_codes_string}]. Please check logs for further information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le traitement a échoué avec le code d’erreur [{error_codes_string}]. Veuillez vérifier les journaux pour plus d’informations.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="741"/>
@@ -200,7 +203,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="769"/>
         <source>Failed to get MONAI package version information</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l’obtention des informations sur la version du paquet MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="774"/>
@@ -240,7 +243,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="803"/>
         <source>Remote Server Connected {server_address}. {models_len} models are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur distant connecté {server_address}. {models_len} modèles sont disponibles.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="806"/>
@@ -273,12 +276,12 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="855"/>
         <source>Processing failed with error code {return_code}. Try again with `Log to GUI` for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le traitement a échoué avec le code d’erreur {return_code}. Réessayez avec `Connectez-vous à l’interface graphique` pour plus de détails.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="1433"/>
         <source>Segmenting sequence item {number_of_processed_items}/{number_of_items}</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation de l’élément de séquence {number_of_processed_items}/{number_of_items}</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="127"/>
@@ -308,7 +311,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="158"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="187"/>
@@ -353,7 +356,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="347"/>
         <source>Create new segmentation on Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer nouvelle segmentation sur Appliquer</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="360"/>
@@ -379,7 +382,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="392"/>
         <source>If enabled (default) then segment names are obtained from Slicer standard terminology files. If disabled then internal identifiers are used as segment names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si activé (par défaut), les noms des segments sont obtenus à partir des fichiers de terminologie standard de Slicer. Si désactivé, les identifiants internes sont utilisés comme noms de segment.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="405"/>
@@ -743,7 +746,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="52"/>
         <source>Segment 9 segments: lung segments, pulmonary vein, pulmonary artery, lung vessels and trachea. Trained on TotalSegmentatorV2 datasets. In v1.x there are no pulmonary vein and artery segments but there is esophagus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment 9 segmente&#xa0;: segments pulmonaires, veine pulmonaire, artère pulmonaire, vaisseaux pulmonaires et trachée. Entraîné sur des ensembles de données TotalSegmentatorV2. Dans v1.x, il n’y a pas de veine pulmonaire ni de segments d’artère mais il y a l’œsophage.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="53"/>
@@ -753,7 +756,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="54"/>
         <source>Segment 27 segments: hips, sacrum and vertebrae. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment 27 segmente&#xa0;: hanches, sacrum et vertèbres. Entraîné sur l’ensemble de données TotalSegmentatorV1. L’image d’entrée est abdominale, thoracique ou corps entier CT.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="55"/>
@@ -768,12 +771,12 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="57"/>
         <source>Intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation hémorragie intracrânienne (ICrH)</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="58"/>
         <source>Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation de l’hémorragie intracrânienne à l’aide d’images CT.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="59"/>
@@ -783,7 +786,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="60"/>
         <source>Brain Anatomy and Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomie cérébrale et segmentation des hémorragies intracrâniennes à l’aide d’images CT.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
