@@ -444,12 +444,12 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="58"/>
         <source>Clip points:</source>
-        <translation type="unfinished"></translation>
+        <translation>Points de clip&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="67"/>
         <source>Branch clippoints. The first point is interpreted as the model inlet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Points de clipsage de branche. Le premier point est interprété comme l’entrée du modèle.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="70"/>
@@ -459,7 +459,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="78"/>
         <source>Clippoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Points de clipsage</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="105"/>
@@ -604,17 +604,17 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="441"/>
         <source>Higher values increase .</source>
-        <translation type="unfinished"></translation>
+        <translation>Les valeurs plus élevées augmentent.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="463"/>
         <source>Extension mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode extension</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="473"/>
         <source>Mode for adding flow extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode pour ajouter extension de flux</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="486"/>
@@ -779,12 +779,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1619"/>
         <source>Error creating a cross-section polydata of the lumen at point index {indexOfPoint}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la création d’une section transversale polydata du lumen à l’indice de point {indexOfPoint}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1639"/>
         <source>Cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Section transversale</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1726"/>
@@ -794,7 +794,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1760"/>
         <source>empty sections have been detected; consider improving the input lumen {nameOfSurface}.</source>
-        <translation type="unfinished"></translation>
+        <translation>des sections vides ont été détectées&#x202f;; envisagez d’améliorer le lumen d’entrée {nameOfSurface}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1330"/>
@@ -1033,12 +1033,12 @@ Le pinceau est placé en mode &apos;Sphère&apos;. L&apos;Éditeur de segments p
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="52"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="97"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mets à jour l’éditeur de segments et les vues en tranches avec la segmentation et le volume d’entrée, le cas échéant.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="100"/>
@@ -2219,7 +2219,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="368"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="391"/>
         <source>Invalid segmentation or segmentID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation ou ID de segment invalide.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="380"/>
