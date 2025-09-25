@@ -61,7 +61,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Trình độ cao</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yêu cầu: Ảnh đầu vào là một ảnh 4D NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
@@ -193,17 +193,17 @@
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation type="unfinished"></translation>
+        <translation>mờ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>không</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
         <source>Output Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Những tệp đầu ra</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Chế độ chạy</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
