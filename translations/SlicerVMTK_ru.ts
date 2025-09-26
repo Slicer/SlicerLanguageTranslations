@@ -22,7 +22,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="103"/>
         <source>Show 3D on success</source>
-        <translation type="unfinished"></translation>
+        <translation>Демонстрация 3D успешна</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="190"/>
