@@ -16,7 +16,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Bu çalışma, Ulusal Sağlık Enstitüleri tarafından NIH Yol Haritası Tıbbi Araştırma, Hibe U54 EB005149 aracılığıyla finanse edilen Ulusal Tıbbi Görüntü Hesaplama İttifakı&apos;nın (NAMIC) bir parçasıdır.</translation>
+        <translation>Bu çalışma, Ulusal Sağlık Enstitüleri (NIH) tarafından Tıbbi Araştırma için NIH Yol Haritası (NIH Roadmap for Medical Research) aracılığıyla finanse edilen ve U54 EB005149 Numaralı Hibe ile desteklenen Tıbbi Görüntüleme Hesaplama için Ulusal İttifak (NAMIC) bünyesinde yürütülmüştür.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
