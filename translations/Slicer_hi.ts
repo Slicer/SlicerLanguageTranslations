@@ -18891,28 +18891,28 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
         <source>Browse Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ट्यूटोरियल देखें</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="128"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>आभार</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
         <source>Report a Bug</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">बग रिपोर्ट करें</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="104"/>
         <source>Raise the training pages in your favorite web browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">अपने पसंदीदा वेब ब्राउज़र में प्रशिक्षण पृष्ठ प्रदर्शित करें।</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
         <source>Join Us on LinkedIn</source>
         <oldsource>Join Us on Twitter</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">लिंक्डइन पर हमारे साथ जुड़ें।</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="112"/>
@@ -18922,7 +18922,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="116"/>
         <source>View License</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">लाइसेंस देखें</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="120"/>
@@ -18942,7 +18942,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D Slicer के बारे में</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="138"/>
