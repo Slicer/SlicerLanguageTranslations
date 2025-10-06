@@ -592,7 +592,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="459"/>
         <source>Select Deepgrow/DeepEdit Model</source>
-        <translation type="unfinished">Seleccionar Cultivo profundo/ Modelo de edición profunda</translation>
+        <translation>Seleccionar Cultivo profundo/ Modelo de edición profunda</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="466"/>
