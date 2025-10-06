@@ -98,7 +98,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Conjunto de parámetros:</translation>
+        <translation>Conjunto de parámetros:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="43"/>
@@ -416,12 +416,12 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="23"/>
         <source>Surface:</source>
-        <translation type="unfinished">Superficie:</translation>
+        <translation>Superficie:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="30"/>
         <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
-        <translation type="unfinished">Introduzca el modelo de superficie del árbol. Si el cálculo es lento, ajuste los parámetros de preprocesamiento en la sección avanzada.</translation>
+        <translation>Introduzca el modelo de superficie del árbol. Si el cálculo es lento, ajuste los parámetros de preprocesamiento en la sección avanzada.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
@@ -429,12 +429,12 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="219"/>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="381"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished">vtkMRMLModelNode</translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+        <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="51"/>
@@ -444,17 +444,17 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="58"/>
         <source>Clip points:</source>
-        <translation type="unfinished">Puntos de corte:</translation>
+        <translation>Puntos de corte:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="67"/>
         <source>Branch clippoints. The first point is interpreted as the model inlet.</source>
-        <translation type="unfinished">Puntos de corte de las ramas. El primer punto se interpreta como la entrada del modelo.</translation>
+        <translation>Puntos de corte de las ramas. El primer punto se interpreta como la entrada del modelo.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="70"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished">vtkMRMLMarkupsFiducialNode</translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="78"/>
@@ -469,7 +469,7 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="112"/>
         <source>Cap clipped ends of model</source>
-        <translation type="unfinished">Tapón con recorte en los extremos del modelo</translation>
+        <translation>Extremos recortados de la tapa del modelo</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="125"/>
@@ -489,17 +489,17 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="169"/>
         <source>Paremeter set: </source>
-        <translation type="unfinished">Conjunto de parémetros: </translation>
+        <translation>Conjunto de parémetros: </translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="176"/>
         <source>Pick node to store parameter set</source>
-        <translation type="unfinished">Elija el nodo para almacenar el conjunto de parámetros</translation>
+        <translation>Elija el nodo para almacenar el conjunto de parámetros</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished">vtkMRMLScriptedModuleNode</translation>
+        <translation>vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
@@ -534,22 +534,22 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="268"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
-        <translation type="unfinished">El modelo de superficie de entrada se reduce al número de puntos del objetivo solicitado (para que el cálculo sea más rápido), o se subdivide (para que los cálculos sean más precisos).</translation>
+        <translation>El modelo de superficie de entrada se reduce al número de puntos del objetivo solicitado (para que el cálculo sea más rápido), o se subdivide (para que los cálculos sean más precisos).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="281"/>
         <source>Target point count:</source>
-        <translation type="unfinished">Objetivo de recuentos de puntos:</translation>
+        <translation>Objetivo de recuentos de puntos:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="291"/>
         <source>Preferred number of points in the preprocessed surface.</source>
-        <translation type="unfinished">Número preferido de puntos en la superficie preprocesada.</translation>
+        <translation>Número preferido de puntos en la superficie preprocesada.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="309"/>
         <source>k</source>
-        <translation type="unfinished">k</translation>
+        <translation>k</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
@@ -559,32 +559,32 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="326"/>
         <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
-        <translation type="unfinished">Los valores más bajos preservan mejor la integridad de la malla, pero puede que no sea posible reducir el número de puntos al nivel deseado.</translation>
+        <translation>Los valores más bajos preservan mejor la integridad de la malla, pero puede que no sea posible reducir el número de puntos al nivel deseado.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="348"/>
         <source>Subdivide:</source>
-        <translation type="unfinished">Subdividir:</translation>
+        <translation>Subdividir:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="358"/>
         <source>Subdivide the mesh to make computation more accurate (at the cost of increased computation time).</source>
-        <translation type="unfinished">Subdivida la malla para que el cálculo sea más preciso (a costa de aumentar el tiempo de cálculo).</translation>
+        <translation>Subdivida la malla para que el cálculo sea más preciso (a costa de aumentar el tiempo de cálculo).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="368"/>
         <source>Output preprocessed surface:</source>
-        <translation type="unfinished">Salida de la superficie preprocesada:</translation>
+        <translation>Salida de la superficie preprocesada:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="378"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation type="unfinished">Guarde el resultado del preprocesamiento, es útil para comprobaciones de calidad y para agilizar los cálculos repetidos: la superficie preprocesada puede utilizarse como superficie de entrada (y la opción «Preprocesar superficie de entrada» puede desactivarse).</translation>
+        <translation>Guarde el resultado del preprocesamiento, es útil para comprobaciones de calidad y para agilizar los cálculos repetidos: la superficie preprocesada puede utilizarse como superficie de entrada (y la opción &quot;Preprocesar superficie de entrada&quot;puede desactivarse).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="389"/>
         <source>Preprocessed model</source>
-        <translation type="unfinished">Modelo preprocesado</translation>
+        <translation>Modelo preprocesado</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="411"/>
@@ -779,7 +779,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1619"/>
         <source>Error creating a cross-section polydata of the lumen at point index {indexOfPoint}.</source>
-        <translation type="unfinished">Error al crear un polidato de sección transversal del lumen en el punto índice {indexOfPoint}.</translation>
+        <translation>Error al crear un polidato de sección transversal del lumen en el punto índice {indexOfPoint}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1639"/>
@@ -794,7 +794,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1760"/>
         <source>empty sections have been detected; consider improving the input lumen {nameOfSurface}.</source>
-        <translation type="unfinished">se han detectado secciones vacías; considere mejorar el lumen de entrada {nameOfSurface}.</translation>
+        <translation>se han detectado secciones vacías; considere mejorar el lumen de entrada {nameOfSurface}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1330"/>
@@ -1407,7 +1407,7 @@ Gracias a Andras Lasso por requerir la importación/exportación desde/a un mode
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
 y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
 </translation>
@@ -1447,7 +1447,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="EditCenterline/EditCenterline.py" line="402"/>
         <location filename="EditCenterline/EditCenterline.py" line="452"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished">El parámetro nodo es Ninguno.</translation>
+        <translation>El parámetro nodo es Ninguno.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="361"/>
@@ -1472,7 +1472,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="431"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duración} segundos</translation>
+        <translation>Proceso completado en {duración} segundos</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="543"/>
@@ -1525,7 +1525,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="635"/>
         <source>Centerline curve is None.</source>
-        <translation type="unfinished">La curva central es Ninguna.</translation>
+        <translation>La curva central es Ninguna.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="19"/>
@@ -1668,12 +1668,12 @@ La tortuosidad del tubo y la distribución de los diámetros determinan este par
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="357"/>
         <source>Centerline curve:</source>
-        <translation type="unfinished">Curva central:</translation>
+        <translation>Curva central:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="366"/>
         <source>Select an edited centerline curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione una curva de línea central editada.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="377"/>
@@ -2457,7 +2457,7 @@ Si se extraen líneas centrales, sustituir opcionalmente el segmento por su regi
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;/a&gt; intenta segmentar las venas principales utilizando efectos del &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;editor de segmentos&lt;/a&gt;.
 </translation>
     </message>
@@ -2467,7 +2467,7 @@ Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
 y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
 </translation>
