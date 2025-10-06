@@ -332,12 +332,12 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="251"/>
         <source>Failed to generate tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo generar el tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="273"/>
         <source>Failed to fetch tutorials from {repo}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron obtener los tutoriales de {repo}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
