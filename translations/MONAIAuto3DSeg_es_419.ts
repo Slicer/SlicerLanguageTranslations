@@ -93,12 +93,12 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="481"/>
         <source>{input_title}:</source>
-        <translation type="unfinished"></translation>
+        <translation>{input_title}:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="486"/>
         <source>{image_name} segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>{image_name} segmentación</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="488"/>
@@ -108,7 +108,7 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="491"/>
         <source>&apos;{input_title}&apos; does not have a unique input (&apos;{already_in_input}&apos; is already used as another input).</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;{input_title}&apos; no tiene una entrada única (&apos;{already_in_input}&apos; ya se utiliza como otra entrada).</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="502"/>
@@ -791,7 +791,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
         <source>Brain Tumor Segmentation (BRATS) GLI</source>
-        <translation type="unfinished">Segmentación de tumores cerebrales (Brain Tumor Segmentation) GLIOMA</translation>
+        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) GLIOMA</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="62"/>
@@ -821,7 +821,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="67"/>
         <source>Brain Tumor Segmentation (BRATS) MET</source>
-        <translation type="unfinished">Segmentación de tumores cerebrales (Brain Tumor Segmentation) METÁSTASIS</translation>
+        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) METÁSTASIS</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="68"/>
@@ -831,7 +831,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="69"/>
         <source>Brain Tumor Segmentation (BRATS) SSA</source>
-        <translation type="unfinished">Segmentación de tumores cerebrales (Brain Tumor Segmentation) SSA</translation>
+        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) SSA</translation>
     </message>
 </context>
 <context>
