@@ -36,7 +36,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="74"/>
         <source>Enable fast option to get less accurate results, faster.</source>
-        <translation type="unfinished">Active la opción rápida para obtener resultados menos precisos, más rápidamente.</translation>
+        <translation>Active la opción rápida para obtener resultados menos precisos, más rápidamente.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="84"/>
@@ -336,7 +336,7 @@ Pulsar OK para reiniciar.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="823"/>
         <source>nnunetv2 package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Se requiere el paquete nnunetv2. Instalando... (puede tardar varios minutos)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="845"/>
