@@ -358,7 +358,7 @@
         <location filename="TutorialMaker/TutorialMaker.py" line="369"/>
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
-        <translation type="unfinished">Fallo en la ejecución del tutorial: {unit_tutorials} - Error: {e}. 
+        <translation>Fallo en la ejecución del tutorial: {unit_tutorials} - Error: {e}. 
 </translation>
     </message>
     <message>
@@ -369,7 +369,7 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="376"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
-        <translation type="unfinished">{tutorials_failed} los tutoriales no se ejecutaron. Errores: {error_message}</translation>
+        <translation>{tutorials_failed} los tutoriales no se ejecutaron. Errores: {error_message}</translation>
     </message>
 </context>
 <context>
@@ -379,7 +379,7 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="316"/>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
-        <translation type="unfinished">Error: Cargue primero una imagen.</translation>
+        <translation>Error: Cargue primero una imagen.</translation>
     </message>
 </context>
 <context>
