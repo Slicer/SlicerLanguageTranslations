@@ -540,7 +540,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="163"/>
         <source>5DOF: </source>
-        <translation type="unfinished">5DOF: </translation>
+        <translation>5 GRADOS DE LIBERTAD: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="165"/>
@@ -550,7 +550,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="169"/>
         <source>6DOF: </source>
-        <translation type="unfinished">6DOF: </translation>
+        <translation>6 GRADOS DE LIBERTAD: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="171"/>
