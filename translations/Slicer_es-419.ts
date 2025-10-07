@@ -2073,7 +2073,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation>Crear una serie DICOM</translation>
+        <translation>Crear series DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
@@ -2412,27 +2412,27 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
         <source>Series Parameters</source>
-        <translation>Parámetros de la serie</translation>
+        <translation>Parámetros de las series</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"/>
         <source>Parameters that apply to a series</source>
-        <translation>Parámetros aplicables a la serie</translation>
+        <translation>Parámetros aplicables a las series</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="77"/>
         <source>Series Number</source>
-        <translation>Número de serie</translation>
+        <translation>Número de series</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="78"/>
         <source>Series Description</source>
-        <translation>Descripción de la serie</translation>
+        <translation>Descripción de las series</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="79"/>
         <source>Series Date</source>
-        <translation>Fecha de la serie</translation>
+        <translation>Fecha de las series</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="80"/>
@@ -2447,22 +2447,22 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"/>
         <source>The series number (0020,0011)</source>
-        <translation>Número de la serie (0020,0011)</translation>
+        <translation>Número de las series (0020,0011)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"/>
         <source>Series description (0008,103E)</source>
-        <translation>Descripción de la serie (0008,103E)</translation>
+        <translation>Descripción de las series (0008,103E)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"/>
         <source>The date of the series (0008,0021) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation>La fecha de la serie (0008,0021) en el formato AAAAMMDD. Si se establece en &quot;[ahora]&quot;, se utiliza la fecha actual.</translation>
+        <translation>La fecha de las series (0008,0021) en el formato AAAAMMDD. Si se establece en &quot;[now]&quot;, se utiliza la fecha actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"/>
         <source>The time of the series (0008,0031) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation>La hora de la serie (0008,0031) en el formato HHMMSS. Si se establece en &quot;[ahora]&quot;, se utiliza la hora actual.</translation>
+        <translation>La hora de las series (0008,0031) en el formato HHMMSS. Si se establece en &quot;[now]&quot;, se utiliza la hora actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="86"/>
@@ -2648,7 +2648,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"/>
         <source>Series Instance UID</source>
-        <translation>Identificador único de la instancia de la serie</translation>
+        <translation>Identificador único de la instancia de las series</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
@@ -2663,7 +2663,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
         <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
-        <translation>El UID de la instancia de la serie (0020,000e). Déjelo en blanco para generar los UID automáticamente.</translation>
+        <translation>El UID de la instancia de las series (0020,000e). Déjelo en blanco para generar los UID automáticamente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"/>
@@ -2867,7 +2867,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation>Directorio de la serie Dicom</translation>
+        <translation>Directorio de las series Dicom</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
@@ -7854,7 +7854,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Load referenced series:</source>
-        <translation>Cargar serie referenciada:</translation>
+        <translation>Cargar series referenciadas:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
@@ -8248,12 +8248,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="88"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation>Generar un nuevo UID de instancia de serie para cada directorio y establecerlo en todos los archivos de ese mismo directorio. Active esta opción para forzar la colocación de todos los fotogramas de una carpeta en un único volumen.</translation>
+        <translation>Generar un nuevo UID de instancia de las seriespara cada directorio y establecerlo en todos los archivos de ese mismo directorio. Active esta opción para forzar la colocación de todos los fotogramas de una carpeta en un único volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="89"/>
         <source>Force same series instance UID in each directory</source>
-        <translation>Forzar el mismo UID de instancia de serie en cada directorio</translation>
+        <translation>Forzar el mismo UID de instancia de las series en cada directorio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="95"/>
@@ -8423,7 +8423,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="681"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation>La serie &apos;{itemName}&apos; no se puede exportar</translation>
+        <translation>Series &apos;{itemName}&apos; no se pueden exportar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="698"/>
@@ -8438,7 +8438,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="752"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation>Modalidad vacía para la serie &apos;{volumeName}&apos;</translation>
+        <translation>Modalidad vacía para las series &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="766"/>
@@ -8521,22 +8521,22 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="168"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="174"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation>La serie &apos;{itemName}&apos; no puede exportarse como secuencia de volumen</translation>
+        <translation>Las series &apos;{itemName}&apos; no puede exportarse como secuencia de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;</translation>
+        <translation>No se han podido obtener los estudio de las series &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="186"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;</translation>
+        <translation>No se puede obtener el paciente para las series &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="215"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation>Modalidad vacía para la serie &apos;{volumeName}&apos;</translation>
+        <translation>Modalidad vacía para las series &apos;{volumeName}&apos;</translation>
     </message>
 </context>
 <context>
@@ -9335,7 +9335,7 @@ utilizar con fines comerciales estos datos.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation>Mostrar carpeta donde se descargan los conjuntos de datos personalizados ({ruta}).</translation>
+        <translation>Mostrar carpeta donde se descargan los conjuntos de datos personalizados ({path}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
@@ -9436,7 +9436,7 @@ utilizar con fines comerciales estos datos.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation>Se ha producido un error al cargar {cuenta} nodos de {ruta}</translation>
+        <translation>Se ha producido un error al cargar {count} nodos de {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
@@ -9669,7 +9669,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <source>image series</source>
-        <translation>serie de imágenes</translation>
+        <translation>series de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
@@ -11515,7 +11515,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1016"/>
         <source>Load Scene</source>
-        <translation>Escena de carga</translation>
+        <translation>Cargar Escena</translation>
     </message>
 </context>
 <context>
@@ -12657,7 +12657,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="128"/>
         <source>DICOMweb API: </source>
-        <translation type="unfinished">DICOMweb API: </translation>
+        <translation>DICOMweb API: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
@@ -14909,7 +14909,7 @@ en las opciones de Representación para visualizar todas las celdas.</translatio
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="384"/>
         <source>Checked: Force color to children</source>
-        <translation>Comprobado: Forzar color al derivado</translation>
+        <translation>Comprobado: Forzar color al nodo</translation>
     </message>
 </context>
 <context>
@@ -18684,7 +18684,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="45"/>
         <source>RGBA</source>
-        <translation type="unfinished"></translation>
+        <translation>RGBA</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="55"/>
@@ -22676,7 +22676,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display properties to defaults. These properties will be used even after application restart.</source>
         <oldsource>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</oldsource>
-        <translation>Guardar la configuración actual de las propiedades de visualización en los valores predeterminados, se guardará para cuando se reinicie Slicer (consulte Configuración de la aplicación)</translation>
+        <translation>Guardar la configuración actual de las propiedades de visualización en los valores predeterminados, se guardará para cuando se reinicie Slicer (consulte Configuración de la aplicación).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -23728,7 +23728,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="252"/>
         <source>Python Scripted Loadable</source>
-        <translation>Python Programado Cargable</translation>
+        <translation>Script Python Cargable</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="256"/>
@@ -31026,7 +31026,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.h" line="52"/>
         <source>TL</source>
-        <translation type="unfinished"></translation>
+        <translation>TL</translation>
     </message>
 </context>
 <context>
@@ -31134,7 +31134,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLMultiVolumeRenderingDisplayNode.cxx" line="37"/>
         <source>Multi Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderizado multivolumen</translation>
     </message>
 </context>
 <context>
@@ -31142,7 +31142,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLNRRDStorageNode.cxx" line="44"/>
         <source>NRRD Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento NRRD</translation>
     </message>
 </context>
 <context>
@@ -31166,7 +31166,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotSeriesNode.cxx" line="59"/>
         <source>Plot Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Graficar series</translation>
     </message>
 </context>
 <context>
@@ -31223,7 +31223,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSceneViewNode.cxx" line="42"/>
         <source>Scene View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista de escena</translation>
     </message>
 </context>
 <context>
@@ -31239,7 +31239,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/Segmentations/MRML/vtkMRMLSegmentEditorNode.cxx" line="50"/>
         <source>Segment Editor</source>
-        <translation type="unfinished">Editor de Segmentos</translation>
+        <translation>Editor de Segmentación</translation>
     </message>
 </context>
 <context>
@@ -31247,7 +31247,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationDisplayNode.cxx" line="63"/>
         <source>Segmentation Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Ventana de segmentación</translation>
     </message>
 </context>
 <context>
@@ -31255,7 +31255,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationNode.cxx" line="69"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentación</translation>
+        <translation>Segmentación</translation>
     </message>
 </context>
 <context>
@@ -31278,7 +31278,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSelectionNode.cxx" line="43"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selección</translation>
     </message>
 </context>
 <context>
@@ -31294,7 +31294,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceNode.cxx" line="63"/>
         <source>Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Secuencia</translation>
     </message>
 </context>
 <context>
@@ -31350,7 +31350,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceDisplayNode.cxx" line="29"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Visualización de cortes</translation>
+        <translation>Visualización de cortes</translation>
     </message>
 </context>
 <context>
@@ -31358,7 +31358,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceNode.cxx" line="47"/>
         <source>Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Corte</translation>
     </message>
 </context>
 <context>
@@ -31382,7 +31382,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableNode.cxx" line="66"/>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla</translation>
     </message>
 </context>
 <context>
@@ -31437,7 +31437,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextNode.cxx" line="34"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
 </context>
 <context>
@@ -31488,7 +31488,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformNode.cxx" line="54"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación</translation>
     </message>
 </context>
 <context>
@@ -31543,17 +31543,17 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="438"/>
         <source>Unable to read DiffusionTensorVolume data from file: &apos;%1&apos;</source>
-        <translation type="unfinished">No se han podido leer los datos de DiffusionTensorVolume del archivo: &apos;%1&apos;</translation>
+        <translation>No se han podido leer los datos de DiffusionTensorVolume del archivo: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="448"/>
         <source>Unable to read ScalarVolume data from file: &apos;%1&apos;</source>
-        <translation type="unfinished">No se han podido leer los datos del Volumen Escalar del archivo: &apos;%1&apos;</translation>
+        <translation>No se han podido leer los datos del Volumen Escalar del archivo: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="459"/>
         <source>Not a scalar volume file: &apos;%1&apos;</source>
-        <translation type="unfinished">No es un archivo del volumen escalar: &apos;%1&apos;</translation>
+        <translation>No es un archivo de volumen escalar: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="501"/>
@@ -31563,7 +31563,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="528"/>
         <source>Image reader provided invalid RAS to IJK matrix</source>
-        <translation type="unfinished">El lector de imágenes proporcionó una matriz RAS a IJK no válida</translation>
+        <translation>El lector de imágenes proporcionó una matriz RAS a IJK no válida</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="583"/>
@@ -31573,7 +31573,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="592"/>
         <source>Spatial vectors will be written to non-NRRD file format (%1). In this format, voxels are saved as regular vectors. If the file is imported again then vector axis directions may be flipped. It is recommended to save volumes that contain spatial vectors in NRRD file format.</source>
-        <translation type="unfinished">Los vectores espaciales se escribirán en un formato no NRRD del archivo  (%1). En este formato, los vóxeles se guardan como vectores normales. Si el archivo se importa de nuevo, las direcciones de los ejes de los vectores pueden estar invertidas. Se recomienda guardar los volúmenes que contengan vectores espaciales en formato de archivo NRRD.</translation>
+        <translation>Los vectores espaciales se escribirán en un formato no NRRD del archivo (%1). En este formato, los vóxeles se guardan como vectores normales. Si el archivo se importa de nuevo, las direcciones de los ejes de los vectores pueden estar invertidas. Se recomienda guardar los volúmenes que contengan vectores espaciales en formato de archivo NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="637"/>
@@ -31588,17 +31588,17 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="735"/>
         <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished">El formato de archivo VTK sólo puede almacenar imágenes orientadas al eje LPS. La orientación de la imagen guardada puede ser incorrecta. Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
+        <translation>El formato de archivo VTK sólo puede almacenar imágenes orientadas al eje LPS. La orientación de la imagen guardada puede ser incorrecta. Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="766"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished">Si guarda esta imagen en formato TIFF, perderá información (posición de la imagen, orientación o espaciado a lo largo del tercer eje de la imagen). Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
+        <translation>Si guarda esta imagen en formato TIFF, perderá información (posición de la imagen, orientación o espaciado a lo largo del tercer eje de la imagen). Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="779"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished">No se recomienda el formato de archivo Analyze, ya que su especificación de orientación de la imagen es ambigua. Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
+        <translation>No se recomienda el formato de archivo Analyze, ya que su especificación de orientación de la imagen es ambigua. Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="818"/>
@@ -31638,7 +31638,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1142"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
-        <translation type="unfinished">Se espera que los desplazamientos se almacenen como double o float. Los valores vectoriales no se convertirán de LPS a RAS.</translation>
+        <translation>Se espera que los desplazamientos se almacenen como double o float. Los valores vectoriales no se convertirán de LPS a RAS.</translation>
     </message>
 </context>
 <context>
@@ -31661,7 +31661,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="617"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">Propiedad de volumen MRML</translation>
+        <translation>Propiedades de volumen MRML</translation>
     </message>
 </context>
 <context>
@@ -31669,7 +31669,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyNode.cxx" line="29"/>
         <source>Volume Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades del volumen</translation>
     </message>
 </context>
 <context>
@@ -31713,7 +31713,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="406"/>
         <source>No planes found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró ningún plano.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="415"/>
