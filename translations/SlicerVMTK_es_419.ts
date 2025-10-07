@@ -294,7 +294,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="627"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="658"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline polydata first.</source>
-        <translation type="unfinished">Llame a &apos;splitCenterlines()&apos; con un polidato de línea central de entrada primero.</translation>
+        <translation>Llame a &apos;splitCenterlines()&apos; con un polidato de línea central de entrada primero.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="610"/>
@@ -411,7 +411,7 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entradas</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="23"/>
@@ -554,7 +554,7 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
         <source>Decimation aggressiveness:</source>
-        <translation type="unfinished">Agresividad diezmadora:</translation>
+        <translation type="unfinished">Agresividad de la decimación</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="326"/>
@@ -673,7 +673,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="526"/>
         <source> (MIS diameter {sign}</source>
-        <translation type="unfinished"> (Diámetro MIS {signo}</translation>
+        <translation> (Diámetro MIS {sign}</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="659"/>
@@ -812,7 +812,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1392"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1396"/>
         <source>Area ({unitOfArea})</source>
-        <translation type="unfinished">Área ({unidadDeArea})</translation>
+        <translation>Área ({unitOfArea})</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1398"/>
@@ -2267,7 +2267,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="570"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished">LLenado de inundación: {duración} segundos - </translation>
+        <translation>Relleno por inundación: {duración} segundos - </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="607"/>
@@ -2406,7 +2406,7 @@ Si se especifica, se ignora el diámetro regular del tubo anterior.</translation
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="385"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished">Parámetros de llenado por inundación</translation>
+        <translation>Parámetros de relleno por inundación</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="406"/>
@@ -2768,7 +2768,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="523"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished">Llenado de inundación: {duración} segundos - </translation>
+        <translation>Relleno por inundación: {duration} segundos - </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="546"/>
@@ -2909,7 +2909,7 @@ Si se extraen líneas centrales, sustituir opcionalmente el segmento por su regi
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="318"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished">Parámetros de llenado por inundación</translation>
+        <translation>Parámetros de relleno por inundación</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="342"/>
