@@ -2568,7 +2568,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="107"/>
         <source>Window width</source>
-        <translation>Anchura de ventana</translation>
+        <translation>Ancho de ventana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="108"/>
@@ -8428,7 +8428,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="698"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;</translation>
+        <translation>No se han podido obtener los estudio de las series &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="703"/>
