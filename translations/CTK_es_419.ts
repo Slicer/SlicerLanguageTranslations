@@ -1836,18 +1836,18 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="546"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="610"/>
         <source>Study UID</source>
-        <translation type="unfinished">UID del estudio</translation>
+        <translation>Identificador único del estudio</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="550"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="612"/>
         <source>Series UID</source>
-        <translation type="unfinished">Serie UID</translation>
+        <translation>Identificador único de serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="554"/>
         <source>SOPInstance UID</source>
-        <translation type="unfinished">SOPInstance UID</translation>
+        <translation type="unfinished">Identificador único de instancia SOP (Service-Object Pair)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="558"/>
@@ -1859,7 +1859,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="562"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="618"/>
         <source>Job UID</source>
-        <translation type="unfinished">Job UID</translation>
+        <translation>Identificador único de trabajo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="566"/>
@@ -1882,7 +1882,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="614"/>
         <source>SOP UID</source>
-        <translation type="unfinished">SOP UID</translation>
+        <translation>Identificado único de SOP</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="313"/>
@@ -2414,7 +2414,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="155"/>
         <source>AETitle: </source>
-        <translation type="unfinished">AETitle: </translation>
+        <translation>Título de entidad de aplicación (AE) </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="162"/>
@@ -2454,7 +2454,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="260"/>
         <source>Called AETitle</source>
-        <translation type="unfinished">Nombrado TítuloAE</translation>
+        <translation type="unfinished">Título de entidad de aplicación llamada AE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="265"/>
