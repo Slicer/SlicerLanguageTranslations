@@ -44,7 +44,7 @@ See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAIL
 Developed by NVIDIA, KCL
 </source>
         <translation>
-由 NVIDIA 开发的 计算内核的语言方式
+由 NVIDIA 和 KCL 开发
 </translation>
     </message>
     <message>
