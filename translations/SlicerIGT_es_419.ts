@@ -817,7 +817,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="35"/>
         <source>vtkMRMLBreachWarningNode</source>
-        <translation>Nodo de aviso de infracción vtkMRML</translation>
+        <translation>vtkMRMLBreachWarningNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="64"/>
@@ -832,7 +832,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="84"/>
         <source>vtkMRMLModelNode</source>
-        <translation>Nodo del modelo vtkMRML</translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
@@ -842,7 +842,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation>Nodo de transformación lineal vtkMRML</translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
@@ -931,30 +931,30 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation>Nodo de transformación lineal vtkMRML</translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLBSplineTransformNode</source>
-        <translation>Nodo de transformación BSpline de vtkMRML</translation>
+        <translation>vtkMRMLBSplineTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLGridTransformNode</source>
-        <translation>Nodo de transformación de cuadrícula vtkMRML</translation>
+        <translation>vtkMRMLGridTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLTransformNode</source>
-        <translation>Nodo de transformación vtkMRML</translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="57"/>
         <source>vtkMRMLCollectPointsNode</source>
-        <translation>Nodo de recogida de puntos vtkMRML</translation>
+        <translation>vtkMRMLCollectPointsNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="68"/>
@@ -980,17 +980,17 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>Markups nodo fiducial vtkMRML</translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLModelNode</source>
-        <translation>Nodo del modelo vtkMRML</translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation>Markups de nodo de curva vtkMRML</translation>
+        <translation>vtkMRMLMarkupsCurveNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="116"/>
@@ -1270,7 +1270,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="41"/>
         <source>vtkMRMLFiducialRegistrationWizardNode</source>
-        <translation>Nodo asistente de registro fiduciario vtkMRML</translation>
+        <translation>vtkMRMLFiducialRegistrationWizardNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
@@ -1297,7 +1297,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="113"/>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation>Nodo de transformación lineal vtkMRML</translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="140"/>
@@ -1322,7 +1322,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
         <source>vtkMRMLTransformNode</source>
-        <translation>Transformar Nodo vtkMRML</translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="205"/>
@@ -1685,7 +1685,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="48"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="64"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation>Nodo de transformación lineal vtkMRML</translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="57"/>
@@ -1710,7 +1710,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="148"/>
         <source>Delay and duration (seconds):  </source>
-        <translation>Demora y duración (segundos):  </translation>
+        <translation>Retardo y duración (segundos):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="176"/>
@@ -2170,7 +2170,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="51"/>
         <source>vtkMRMLTransformableNode</source>
-        <translation>Nodo transformable vtkMRML</translation>
+        <translation>vtkMRMLTransformableNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="68"/>
@@ -2226,7 +2226,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="452"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="563"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation>Nodo de transformación lineal vtkMRML</translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
@@ -2282,7 +2282,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="189"/>
         <source>vtkMRMLTransformProcessorNode</source>
-        <translation>Nodo procesador de transformación vtkMRML</translation>
+        <translation>vtkMRMLTransformProcessorNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="204"/>
@@ -2519,7 +2519,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="47"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>Nodo de volumen escalar vtkMRML</translation>
+        <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
@@ -2585,7 +2585,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="29"/>
         <source>vtkMRMLVolumeReconstructionNode</source>
-        <translation>Nodo de reconstrucción de volumen vtkMRML</translation>
+        <translation>vtkMRMLVolumeReconstructionNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="43"/>
@@ -2617,7 +2617,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="83"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>Nodo de volumen escalar vtkMRML</translation>
+        <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="98"/>
@@ -2633,12 +2633,12 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
         <source>vtkMRMLAnnotationROINode</source>
-        <translation>Nodo de anotación ROI vtkMRML</translation>
+        <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
         <source>vtkMRMLMarkupsROINode</source>
-        <translation>Nodo vtkMRML markups ROI</translation>
+        <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="138"/>
@@ -2758,12 +2758,12 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="361"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation>Nodo de volumen vtkMRML</translation>
+        <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="379"/>
         <source>vtkMRMLSequenceBrowserNode</source>
-        <translation>Nodo del navegador de secuencias vtkMRML</translation>
+        <translation>vtkMRMLSequenceBrowserNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="394"/>
@@ -2994,7 +2994,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
         <source>Volume Reslice Driver</source>
-        <translation>Regulador de volumen</translation>
+        <translation type="unfinished">Manejador de corte de volumen</translation>
     </message>
 </context>
 <context>
@@ -3030,7 +3030,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="47"/>
         <source>vtkMRMLWatchdogNode</source>
-        <translation>Nodo de vigilancia vtkMRML</translation>
+        <translation>vtkMRMLWatchdogNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="64"/>
@@ -3040,12 +3040,12 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLTransformNode</source>
-        <translation>Nodo de transformación vtkMRML</translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation>Nodo de volumen vtkMRML</translation>
+        <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>
