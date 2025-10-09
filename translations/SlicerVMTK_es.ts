@@ -153,7 +153,11 @@ Break down a centerline model into parts.
 This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dividir un modelo de línea central en partes.
+Este módulo hace uso del módulo &apos;ExtractCenterline&apos; para generar curvas.
+Ver más información en el &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="51"/>
@@ -161,8 +165,9 @@ See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExten
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
-Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
     <message>
@@ -203,7 +208,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="210"/>
         <source>Splitting centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividiendo la línea central</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="226"/>
@@ -242,12 +247,12 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
         <source>Branch_Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Branch_Model</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="255"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Branch_Curve</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="267"/>
@@ -257,7 +262,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="270"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centerline_Model</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="273"/>
