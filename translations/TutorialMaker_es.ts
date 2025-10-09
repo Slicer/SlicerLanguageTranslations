@@ -200,7 +200,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="947"/>
         <source>Arrow text</source>
-        <translation type="unfinished">Texto de la Flecha</translation>
+        <translation>Texto de flecha</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="951"/>
