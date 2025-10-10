@@ -275,17 +275,17 @@ Cerrar la aplicación cancelará todos los cálculos actuales.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="437"/>
         <source>Reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer los valores predeterminados</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="442"/>
         <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar Caché</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="447"/>
         <source>Reload Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulos de Recarga</translation>
     </message>
 </context>
 <context>
@@ -294,7 +294,7 @@ Cerrar la aplicación cancelará todos los cálculos actuales.</translation>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="14"/>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="32"/>
         <source>Registered Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulos Registrados</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="134"/>
