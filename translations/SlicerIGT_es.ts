@@ -281,7 +281,7 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
         <source>Pick the moving to fixed transform computed by the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija transformar de movimiento a fijo calculada por el algoritmo.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
