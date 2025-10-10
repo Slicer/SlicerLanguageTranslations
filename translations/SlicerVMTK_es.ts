@@ -292,7 +292,7 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="627"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="658"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline polydata first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llame a &apos;splitCenterlines()&apos; con un polidato de línea central de entrada primero.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="610"/>
@@ -302,7 +302,7 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
         <source>Processing curve creation completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>La creación de la curva de procesamiento se completó en {duration} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
