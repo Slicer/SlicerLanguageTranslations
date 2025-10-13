@@ -267,7 +267,7 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="273"/>
         <source>Centerline_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea central_curva</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="278"/>
