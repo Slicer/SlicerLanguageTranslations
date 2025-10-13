@@ -288,12 +288,12 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="98"/>
         <source>Edit annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar anotaciones</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="108"/>
         <source>Generate output</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar salida</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="118"/>
