@@ -276,7 +276,7 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
         <source>Input moving (sparse) model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de entrada en movimiento (disperso): </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
