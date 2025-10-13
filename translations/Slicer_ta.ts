@@ -28523,7 +28523,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="123"/>
         <source>idtype</source>
-        <translation>idtype</translation>
+        <translation>ஐடிவகை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="128"/>
@@ -29729,7 +29729,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="555"/>
         <source> fps</source>
-        <translation> fps</translation>
+        <translation> நொச</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="562"/>
@@ -29877,7 +29877,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="87"/>
         <source> fps</source>
-        <translation> fps</translation>
+        <translation> நொச</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="94"/>
@@ -30402,7 +30402,7 @@ This should only used by advanced users who understand the consequences of chang
         <comment>%1 extension updates are available</comment>
         <translation>
             <numerusform>%1 நீட்டிப்பு புதுப்பிப்பு கிடைக்கிறது</numerusform>
-            <numerusform>%1 நீட்டிப்பு புதுப்பிப்பு கிடைக்கிறது</numerusform>
+            <numerusform>%1 நீட்டிப்புகள் புதுப்பிப்பு கிடைக்கிறது</numerusform>
         </translation>
     </message>
     <message>
