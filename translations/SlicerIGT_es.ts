@@ -339,7 +339,7 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
         <source>Sequence Replay</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetición de Secuencia</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
@@ -347,7 +347,10 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este es un ejemplo de módulo cargable con script incluido en una extensión.
+Ver más información en &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;documentación del módulo&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="51"/>
@@ -355,7 +358,10 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención de los NIH 3P41RR013218-12S1.
+</translation>
     </message>
 </context>
 <context>
