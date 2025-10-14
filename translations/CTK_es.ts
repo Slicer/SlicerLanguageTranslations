@@ -340,12 +340,12 @@ Cerrar la aplicación cancelará todos los cálculos actuales.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="65"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="75"/>
         <source>No validation errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin errores de validación.</translation>
     </message>
 </context>
 <context>
