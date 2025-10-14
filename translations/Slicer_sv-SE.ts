@@ -30216,7 +30216,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
         <source>Customize Slicer</source>
-        <translation>Anpassa skärmaskin</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
