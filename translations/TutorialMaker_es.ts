@@ -327,12 +327,12 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Captured Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial Capturado: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="251"/>
         <source>Failed to generate tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al generar el tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="273"/>
