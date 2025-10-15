@@ -358,17 +358,18 @@
         <location filename="TutorialMaker/TutorialMaker.py" line="369"/>
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Error en la Ejecución del Tutorial: {unit_tutorials} - Error: {e}. 
+</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="373"/>
         <source>Tutorial Tested</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial Probado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="376"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
-        <translation type="unfinished"></translation>
+        <translation>{tutorials_failed} los tutoriales no se pudieron ejecutar. Errores: {error_message}</translation>
     </message>
 </context>
 <context>
