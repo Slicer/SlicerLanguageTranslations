@@ -379,30 +379,32 @@ Closing the tab will cancel the current computation.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="41"/>
         <source>Uncategorized</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin categoría</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atención:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
         <source>Create Frontend</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear Interfaz</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="275"/>
         <source>Frontend creation failed</source>
         <extracomment>%1 is the frontend factory name and %2 is the error description</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Falló la creación de la interfaz</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="276"/>
         <source>Creating a %1 frontend failed:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al crear una interfaz %1 :
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -417,7 +419,13 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al registrar el módulo:
+%1
+
+debido a:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
@@ -428,7 +436,13 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al registrar el módulo:
+%1
+
+debido a un error de validación xml:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
