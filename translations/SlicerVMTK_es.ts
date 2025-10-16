@@ -432,17 +432,17 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLSegmentationNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="51"/>
         <source>Select a model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un modelo o nodo de segmentación</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="58"/>
         <source>Clip points:</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de clip:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="67"/>
