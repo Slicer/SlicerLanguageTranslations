@@ -8,7 +8,8 @@
         <source>Click on Add Data in the Welcome
 to Slicer module</source>
         <extracomment>1_0_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em &quot;Add Data&quot; no módulo
+Bem-Vindo ao Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -16,14 +17,17 @@ to Slicer module</source>
 and browse to the location of the
 Slicer datasets</source>
         <extracomment>2_2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em &quot;Escolher diretório para adiconar&quot;
+e procure a localização do conjunto de dados
+do Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>Slicer loads the prostate MRI
 datase</source>
         <extracomment>3_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer carrega o banco de dados
+de RM de prostata</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
@@ -35,20 +39,27 @@ the category Segmentation.
 Select the MONAI Auto3DSeg
 module</source>
         <extracomment>4_3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em &quot;Bem-Vindo ao Slicer&quot;
+no menu de Modulos e procure
+
+a categoria Segmentação.
+
+Selecione o modulo MONAI 
+Auto3DSeg</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Enter the models name Prostate in
 the Segmentation model menu</source>
         <extracomment>5_0_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira o modelo &quot;Prostate&quot; no menu
+de busca de modelo de Segmentação</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Select the model Prostate - Multisequence</source>
         <extracomment>6_0_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo &quot;Prostate - Multisequência&quot;</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -56,33 +67,37 @@ the Segmentation model menu</source>
 prostate-01-adc and he Input ADC
 volume msd-prostate-01-adc</source>
         <extracomment>7_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira na entrada T2 o volume
+msd-prostate-01-adc e na entrada
+ADC o volume msd-prostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>Select Create new segmentation on
 Apply</source>
         <extracomment>7_0_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione &quot;Criar novo segmento ao
+Aplicar&quot;</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>Click on Apply</source>
         <extracomment>7_0_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em Aplicar</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Slicer stars the inference</source>
         <extracomment>8_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer começa a inferência</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
         <source>Slicer shows the result of the AI-
 based prostate segmentation</source>
         <extracomment>9_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer mostra o resultado da segmentação
+de prostata baseada em IA</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -102,7 +117,12 @@ Click on Choose File(s) to Add and
 browse to the location of the Slicer
 datasets</source>
         <extracomment>10_2_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em &quot;Adicionar Dados&quot; no modulo
+Bem-Vindo ao Slicer
+
+Clique em &quot;Escolher Arquivo(s) para Adicionar&quot;
+e procure pela localização do conjunto de dados
+do Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
@@ -110,25 +130,28 @@ datasets</source>
 model’s name Brain Tumor Segmentation in the
 Segmentation model menu</source>
         <extracomment>12_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modulo MONAIAuto3DSeg e no menu
+de modelos de Segmentação, insira o modelo
+Brain Tumor Segmentation</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>Select the model Brain Tumor Segmentation
 (BRATS) GLI</source>
         <extracomment>12_0_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo Brain Tumor Segmentation
+(BRATS) GLI</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Enter the input volumes as follows:</source>
         <extracomment>13_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira a entrada de volume como demonstrado:</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="39"/>
         <source>Slicer starts running the inference task);</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer inicia a tarefa de inferência</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
@@ -136,7 +159,9 @@ Segmentation model menu</source>
 select the Patient patient1 and
 click on Load to load it in Slicer</source>
         <extracomment>16_2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>No modulo &quot;Adicionar Dados DICOM&quot;
+selecione o paciente &quot;patiente1&quot; e
+clique em Carregar dados no Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
@@ -145,14 +170,18 @@ model’s name Whole Body Segmentation in the
 
 Segmentation model menu</source>
         <extracomment>17_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modulo MONAIAuto3DSeg e insira o
+modelo Whole Body Segmentation no menu
+
+de seleção de modelo de Segmentação</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
         <source>Select the model Whole Body Segmentation
 TS1 - quick</source>
         <extracomment>17_0_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo Whole Body Segmentation
+TS1 - quick</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
@@ -161,13 +190,16 @@ TS1 - quick</source>
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>18_0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o volume de entrada &quot;6: CT_Thorax_Abdomen&quot;,
+
+Clique em Criar nova Segmentação ao Aplicar
+Clique em Aplicar para iniciar a segmentação</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
         <source>Slicer starts the segmentation</source>
         <extracomment>19_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer inicia a segmentação</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -175,7 +207,9 @@ Click on Apply to start the segmentation</source>
 
 the segments 3D view</source>
         <extracomment>20_0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em Mostrar 3D para
+
+ver o segmento em 3D</translation>
     </message>
 </context>
 </TS>
