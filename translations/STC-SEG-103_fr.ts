@@ -8,7 +8,8 @@
         <source>Click on Add Data in the Welcome
 to Slicer module</source>
         <extracomment>1_0_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Ajouter des données dans le module Bienvenue 
+dans Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -16,14 +17,17 @@ to Slicer module</source>
 and browse to the location of the
 Slicer datasets</source>
         <extracomment>2_2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Choisir un répertoire pour ajouter
+et naviguez jusqu&apos;à l&apos;emplacement des
+jeux de données Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>Slicer loads the prostate MRI
 datase</source>
         <extracomment>3_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer charge l&apos;IRM de la prostate
+base de données</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
@@ -35,20 +39,26 @@ the category Segmentation.
 Select the MONAI Auto3DSeg
 module</source>
         <extracomment>4_3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Bienvenue dans Slicer dans le
+menu Modules et naviguez jusqu&apos;à
+
+la catégorie Segmentation.
+
+Sélectionnez le module MONAI Auto3DSeg</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Enter the models name Prostate in
 the Segmentation model menu</source>
         <extracomment>5_0_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez le nom du modèle Prostate dans
+ le menu Modèle de segmentation</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Select the model Prostate - Multisequence</source>
         <extracomment>6_0_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner le modèle Prostate - Multiséquence</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
