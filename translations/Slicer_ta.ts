@@ -18429,7 +18429,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகின் முன்னொட்டை அமைக்கவும்.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகின் முன்னொட்டை அமை.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகின் மதிப்புக்கு முன் பயன்பாட்டில் அலகு முன்னொட்டு காட்டப்படும். எடுத்துக்காட்டாக, &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; என்ற முன்னொட்டை ஒரு அலகிற்கு முன் பயன்படுத்தலாம்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
@@ -18446,7 +18446,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
  &lt;html&gt; &lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+p, li { white-space: pre-wrap; }
  &lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகு பின்னொட்டை அமைக்கவும். எடுத்துக்காட்டாக, அலகு &lt;/span&gt; &lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;மீட்டர் &lt;/span&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt;வேண்டும் ஒருவேளை &lt;/span&gt; &lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;மீ&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
@@ -18465,7 +18465,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
  &lt;html&gt; &lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+p, li { white-space: pre-wrap; }
  &lt;/style&gt; &lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகுக்குச் வாய்ப்புள்ள மிகையளவு மதிப்பை அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
  &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;எடுத்துகாட்டாக, வேகத்தின் அலகு(&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;மி.நொ&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;இல் -1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) மிகையளவு 3e6. &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
@@ -18484,11 +18484,11 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the precision (i.e. number of significant digits) of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This is used by the GUI to determine how many digits one can input for the current unit. For example, with a &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Precision&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; of 3 the 1.0123 will be rounded to 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
- &lt;html&gt; &lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
  &lt;/style&gt; &lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
  &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;அலகின் துல்லியத்தை (அதாவது குறிப்பிடத் தக்க இலக்கங்களின் எண்ணிக்கை) அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
- &lt;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;இது தற்போதைய அலகுக்கு எத்தனை இலக்கங்களை உள்ளிடலாம் என்பதை தீர்மானிக்க GUI ஆல் பயன்படுத்தப்படுகிறது. எடுத்துக்காட்டாக, ஒரு &lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;துல்லியம் &lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; 3 இன் 1.0123 1.112 க்கு வட்டமிடப்படும்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;இது தற்போதைய அலகுக்கு எத்தனை இலக்கங்களை உள்ளிடலாம் என்பதை தீர்மானிக்க GUI ஆல் பயன்படுத்தப்படுகிறது. எடுத்துக்காட்டாக, ஒரு &lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;துல்லியம் &lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; 3 இன் 1.0123 1.112 க்கு வட்டமிடப்படும்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="159"/>
@@ -18505,7 +18505,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;For example, a temperature unit (in &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) should probably have a minimum of 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
  &lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+p, li { white-space: pre-wrap; }
  &lt;/style&gt; &lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; அலகுக்குச் சாத்தியம். &lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;வெப்பநிலை அலகு (&lt;span style=&quot; font-weight:600;&quot;&gt; கெல்வின் &lt;/span&gt;) குறைந்தபட்சம் 0 ஆக இருக்க வேண்டும்.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -18806,7 +18806,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
         <source>IGT</source>
-        <translation>Igt</translation>
+        <translation>ஐசிடி</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="34"/>
@@ -20324,7 +20324,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
         <source>Middle</source>
-        <translation>நடுத்தர</translation>
+        <translation>நடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
@@ -20573,7 +20573,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span சூல் தண்டு = &quot;font-weight: 600;&quot;&gt; கேள்விகள் மற்றும் அம்சக் கோரிக்கைகள்: &lt;/span&gt; &lt;a href = &quot;https: //discourse.slicer ஐப் பார்வையிடவும். org &quot;&gt; &lt;span சூல் தண்டு =&quot; text-degoration: Underling; &quot;&gt; ச்லைசர் மன்றம் &lt;/span&gt; &lt;/a&gt;. &lt;/span&gt; &lt;a href = &quot;https://discourse.slicer.org/new-topic? %20actual%20behavior] &amp;amp; பிழை அறிக்கை &lt;a href = &quot;https://issues.slicer.org&quot;&gt; &lt;span சூல் தண்டு = &quot;text-degoration: Underline;&quot; பிழைக்கு வழிவகுக்கும் படிகளை விவரிக்கவும், பதிவு செய்திகளையும் இணைக்கவும். பதிவு செய்திகளில் ஒரு நோயாளியை அடையாளம் காணக்கூடிய எந்த தகவலும் இல்லை. பதிவு செய்திகளை ஒரு அஞ்சல் பட்டியல் அல்லது இணையதளத்தில் பகிரங்கமாக பகிர்வதற்குப் பதிலாக குறிப்பிட்ட நபர்களுக்கு அனுப்பவும். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt;கேள்விகள் மற்றும் அம்சக் கோரிக்கைகள்: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;சிலைசர் மன்றத்தைப் பார்வையிடவும்.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; பிழை அறிக்கைகள்: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;பிழைக்கு வழிவகுக்கும் படிகளை விவரிக்கவும்&lt;/span&gt;&lt;/a&gt;, பதிவு செய்திகளையும் இணைக்கவும்&lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3டி சிலைசர் பிழைகண்காணிப்பு&lt;/span&gt;&lt;/a&gt;. பதிவு செய்திகளில் ஒரு நோயாளியை அடையாளம் காணக்கூடிய எந்தத் தகவலும் இல்லை. பதிவுச் செய்திகளை ஒரு அஞ்சல் பட்டியல் அல்லது இணையதளத்தில் பகிரங்கமாகப் பகிர்வதற்குப் பதிலாகக் குறிப்பிட்ட நபர்களுக்கு அனுப்பவும். &lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
