@@ -491,7 +491,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="103"/>
         <source>View Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver Selección</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="109"/>
@@ -501,7 +501,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="116"/>
         <source>Pick the view which should be adjusted, e.g. &apos;View1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija la vista que debe ajustarse, por ejemplo. &apos;View1&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="122"/>
