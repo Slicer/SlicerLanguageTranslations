@@ -521,22 +521,22 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="142"/>
         <source>Camera Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control de Cámara</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="150"/>
         <source>Degrees of Freedom</source>
-        <translation type="unfinished"></translation>
+        <translation>Grados de Libertad</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
         <source>The camera will always look at the target model (or if unselected will act like 5DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>La cámara siempre mirará el modelo de destino (o si no está seleccionado actuará como 5DOF)</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="163"/>
         <source>5DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5DOF: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="165"/>
