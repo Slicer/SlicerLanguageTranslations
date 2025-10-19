@@ -462,22 +462,22 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="105"/>
         <source>Cap output surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie de salida de la tapa:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="112"/>
         <source>Cap clipped ends of model</source>
-        <translation type="unfinished"></translation>
+        <translation>Extremos recortados del límite del modelo</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="125"/>
         <source>Centerlines:</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas Centrales:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="132"/>
         <source>Input centerlines of the tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas centrales de entrada del árbol.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="152"/>
@@ -497,22 +497,22 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
         <source>ClipVessel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ClipVessel</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="210"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Salidas</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="216"/>
         <source>Result of clipping input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado del modelo de entrada de recorte</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="227"/>
@@ -537,17 +537,17 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="281"/>
         <source>Target point count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuento de puntos objetivo:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="291"/>
         <source>Preferred number of points in the preprocessed surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número preferido de puntos en la superficie preprocesada.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="309"/>
         <source>k</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">k</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
