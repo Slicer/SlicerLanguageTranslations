@@ -19142,7 +19142,7 @@ p, li { blanksteg: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="128"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished">Tack och lov</translation>
+        <translation>Tackord</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
@@ -19888,7 +19888,7 @@ Den här datorns grafiska kapacitet:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1835"/>
         <source>Acknowledgments</source>
-        <translation>Tack och lov</translation>
+        <translation>Tackord</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1841"/>
