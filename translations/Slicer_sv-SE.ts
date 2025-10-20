@@ -23773,7 +23773,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
         <source>Help &amp;&amp; Acknowledgement</source>
-        <translation>Hjälp &amp; &amp; bekräftelse</translation>
+        <translation>Hjälp &amp;&amp; Tackord</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="93"/>
@@ -23783,7 +23783,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
         <source>Acknowledgement</source>
-        <translation>Bekräftelse</translation>
+        <translation>Tackord</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="189"/>
