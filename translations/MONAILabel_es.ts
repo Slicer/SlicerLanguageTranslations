@@ -587,23 +587,23 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="446"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="598"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="459"/>
         <source>Select Deepgrow/DeepEdit Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el modelo Deepgrow/DeepEdit</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="466"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="686"/>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="494"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Congelar</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="513"/>
