@@ -30387,7 +30387,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="496"/>
         <source>Acknowledgment</source>
-        <translation>Acknowledgment</translation>
+        <translation>Tackord</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="529"/>
