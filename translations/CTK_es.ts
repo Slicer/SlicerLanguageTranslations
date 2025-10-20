@@ -625,23 +625,23 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="448"/>
         <source>auto-play</source>
-        <translation type="unfinished"></translation>
+        <translation>reproducción automática</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="475"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="308"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="478"/>
         <source>Import a DICOM file or folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar un archivo o carpeta DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="486"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="489"/>
