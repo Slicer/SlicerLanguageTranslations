@@ -8694,7 +8694,7 @@ Du kan spara kamerans position när som helst genom att klicka på &quot;Save ca
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
         <source>Camera:</source>
-        <translation type="unfinished">Camera:</translation>
+        <translation>Kamera:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"/>
@@ -22439,7 +22439,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1077"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1080"/>
         <source>Dual-monitor Four-Up</source>
-        <translation>Dubbla bildskärmar Four-Up</translation>
+        <translation>Dubbla bildskärmar Fyra upp</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1089"/>
@@ -26177,7 +26177,7 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
         <source>Disable splash screen:</source>
-        <translation>Inaktivera stänkskärm:</translation>
+        <translation>Inaktivera startbild:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
