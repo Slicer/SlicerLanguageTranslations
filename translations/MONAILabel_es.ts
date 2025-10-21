@@ -623,22 +623,22 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="582"/>
         <source>Scribbles</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayas</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="605"/>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>Pintar</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="615"/>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="629"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="667"/>
