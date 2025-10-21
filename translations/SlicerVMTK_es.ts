@@ -602,17 +602,17 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="441"/>
         <source>Higher values increase .</source>
-        <translation type="unfinished"></translation>
+        <translation>Los valores más altos aumentan .</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="463"/>
         <source>Extension mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de extensión</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="473"/>
         <source>Mode for adding flow extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo para agregar extensión de flujo</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="486"/>
