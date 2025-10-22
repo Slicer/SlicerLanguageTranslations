@@ -18858,7 +18858,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
         <source>Segmentation</source>
-        <translation>பிரிவு</translation>
+        <translation>பிரித்தல்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
@@ -20573,7 +20573,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt;கேள்விகள் மற்றும் அம்சக் கோரிக்கைகள்: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;சிலைசர் மன்றத்தைப் பார்வையிடவும்.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; பிழை அறிக்கைகள்: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;பிழைக்கு வழிவகுக்கும் படிகளை விவரிக்கவும்&lt;/span&gt;&lt;/a&gt;, பதிவு செய்திகளையும் இணைக்கவும்&lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3டி சிலைசர் பிழைகண்காணிப்பு&lt;/span&gt;&lt;/a&gt;. பதிவு செய்திகளில் ஒரு நோயாளியை அடையாளம் காணக்கூடிய எந்தத் தகவலும் இல்லை. பதிவுச் செய்திகளை ஒரு அஞ்சல் பட்டியல் அல்லது இணையதளத்தில் பகிரங்கமாகப் பகிர்வதற்குப் பதிலாகக் குறிப்பிட்ட நபர்களுக்கு அனுப்பவும். &lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;கேள்விகள் மற்றும் அம்ச கோரிக்கைகள்:&lt;/span&gt; &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;சிலைசர் மன்றத்தைப்&lt;/span&gt;&lt;/a&gt; பார்வையிடவும்.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;பிழை அறிக்கைகள்: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;சிலைசர் மன்றத்தில் ஒரு புதிய தலைப்பை இடுகையிடவும்&lt;/span&gt;&lt;/a&gt; உங்கள் சிக்கலைப் பற்றி எங்களிடம் கூற அல்லது பிழை அறிக்கையைச் சமர்ப்பிக்க &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3டி சிலைசர் பிழைகண்காணிப்பு&lt;/span&gt;&lt;/a&gt;. பிழைக்கு வழிவகுக்கும் படிகளை விவரிக்கவும், பதிவு செய்திகளையும் இணைக்கவும்.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;எச்சரிக்கை - நீங்கள் நோயாளி தரவுடன் பணிபுரிந்தால்:&lt;/span&gt; பதிவு செய்திகளில் நோயாளியை அடையாளம் காணக்கூடிய எந்தத் தகவலும் இல்லை என்பதைச் சரிபார்க்கவும். பதிவுச் செய்திகளை அஞ்சல் பட்டியல் அல்லது வலைத்தளத்தில் பொதுவில் பகிர்வதற்குப் பதிலாகக் குறிப்பிட்ட நபர்களுக்கு அனுப்பவும்.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -24341,7 +24341,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span சூல் தண்டு = &quot;எழுத்துரு-எடை: 600; வண்ணம்:#FF0000;&quot;&gt; சேமிக்கும் போது பிழைகள் அல்லது எச்சரிக்கைகள் ஏற்பட்டன. விவரங்களுக்கு நிலை சின்னங்களைக் காண்க</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;சேமிக்கும்போது பிழைகள் அல்லது எச்சரிக்கைகள் ஏற்பட்டன. விவரங்களுக்கு நிலை சின்னங்களைக் காண்க.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="553"/>
@@ -24871,7 +24871,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
         <source>Shape:</source>
-        <translation>வடிவம்:</translation>
+        <translation>வடிவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1244"/>
@@ -25382,9 +25382,9 @@ Most probably the segment cannot be converted into binary labelmap representatio
         <source>Failed to export segments from segmentation %1 to models in folder %2!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation>கோப்புறை %2 இல் உள்ள மாதிரிகள் முதல் மாதிரிகள் வரை பிரிவுகளை ஏற்றுமதி செய்யத் தவறிவிட்டது!
+        <translation>பிரிவு %1 இலிருந்து %2 கோப்புறையில் உள்ள மாதிரிகளுக்குப் பிரிவுகளை ஏற்றுமதி செய்வதில் தோல்வி!
 
- அநேகமாக பகுதியை மூடிய மேற்பரப்பு பிரதிநிதித்துவமாக மாற்ற முடியாது.</translation>
+பெரும்பாலும் பிரிவை மூடிய மேற்பரப்பு பிரதிநிதித்துவமாக மாற்ற முடியாது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="995"/>
@@ -26379,9 +26379,9 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt;
- &lt;p&gt; கூடுதல் தொகுதி பாதைகள்: &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-இடது: 10px;&quot;&gt; &lt;span சூல் தண்டு = &quot;எழுத்துரு அளவு: சிறிய; எழுத்துரு பாணி: சாய்வு;&quot;&gt; இழுவை &amp;amp; கோப்புகள் அல்லது கோப்புறைகளை கைவிடவும் &lt;br/&gt; கோப்பு எக்ச்ப்ளோரர் &lt;/span&gt; &lt;/p&gt; இலிருந்து
- &lt;/body&gt; &lt;/html&gt;
+&lt;p&gt; கூடுதல் தொகுதி பாதைகள்: &lt;/p&gt;
+&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; கோப்புகள் அல்லது கோப்புறைகளை இழுத்து&amp;amp;விடவும் &lt;br/&gt; கோப்பு உலாவியிலிருந்து&lt;/span&gt; &lt;/p&gt; 
+&lt;/body&gt; &lt;/html&gt;
 </translation>
     </message>
     <message>
@@ -26478,7 +26478,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Favorite Modules:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; பிடித்த தொகுதிகள்: &lt;/p&gt; &lt;p சூல் தண்டு = &quot;விளிம்பு-இடது: 10px;&quot;&gt; &lt;span பாணி = &quot;எழுத்துரு அளவு: சிறியது; எழுத்துரு பாணி: சாய்வு; &quot;&gt; இழுத்தல் &amp;amp; &lt;/span&gt; &lt;span பாணி = &quot;எழுத்துரு அளவு: சிறியது;&quot;&gt; தொகுதிகள் &lt;/span&gt; &lt;span பாணி = &quot;எழுத்துரு அளவு: சிறியது; எழுத்துரு பாணி: சாய்வு;&quot;&gt; பட்டியல் &lt; /span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt;&lt;body&gt;&lt;p&gt; பிடித்த தொகுதிகள்: &lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;இழுத்து&amp;amp;விடு தொகுதிகள்&lt;br/&gt; இதில்இருந்து&lt;/span&gt; &lt;span style=&quot; font-size:small;&quot;&gt; தொகுதிகள் &lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;பட்டியல் &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
@@ -26627,13 +26627,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; ஒரு பாணி சொருகி பாதையைச் சேர்க்கவும். &lt;/span&gt; &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;-qt-materagraph-type: வெற்று; விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; : 0px;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; ஒரு பாணி சொருகி பாதையைச் சேர்ப்பது இந்த பாணி சொருகி (இதனால் அதன் அனைத்து பாணிகளும்) பயன்பாட்டிற்கு அணுகக்கூடியதாக இருக்கும். இந்த செயல் &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; எழுத்துரு-எடை: 600;&quot;&gt; தேவை &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt;&quot;&gt; விண்ணப்பத்தை மறுதொடக்கம் செய்ய. &lt;/ span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;ஒரு பாணி சொருகி பாதையைச் சேர்.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;ஒரு பாணி சொருகி பாதையைச் சேர்ப்பது இந்தப் பாணி சொருகி (இதனால் அதன் அனைத்து பாணிகளும்) பயன்பாட்டிற்கு அணுகக்கூடியதாக இருக்கும். இந்தச் செயலுக்கு &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;பயன்பாட்டை மறுதொடக்கம் செய்ய&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; வேண்டும்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
@@ -26649,13 +26649,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; தற்போது தேர்ந்தெடுக்கப்பட்ட பாணி சொருகி பாதையை அகற்று. &lt;/span&gt; &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;-qt-materagraph-type: வெற்று; விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; : 0px;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; ஒரு பாணி சொருகி பாதையை அகற்றுவது அடுத்த முறை பயன்பாடு திறக்கப்படும் போது இந்த பாணி சொருகி (இதனால் அதன் அனைத்து பாணிகளும்) அணுக முடியாததாக இருக்கும். இந்த செயல் &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; எழுத்துரு-எடை: 600;&quot;&gt; தேவை &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt;&quot;&gt; விண்ணப்பத்தை மறுதொடக்கம் செய்ய. &lt;/ span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;தற்போது தேர்ந்தெடுக்கப்பட்ட பாணி சொருகி பாதையை அகற்று.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;ஒரு பாணி சொருகி பாதையை அகற்றுவது அடுத்த முறை பயன்பாடு திறக்கப்படும்போது இந்தப் பாணி சொருகி (இதனால் அதன் அனைத்து பாணிகளும்) அணுக முடியாததாக இருக்கும். இந்தச் செயலுக்கு &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;பயன்பாட்டை மறுதொடக்கம் செய்ய&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; வேண்டும்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
@@ -26669,11 +26669,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8PT;&quot;&gt; கூடுதல் பாணி பாதைகளைச் சேர்க்க/அகற்ற இடைமுகத்தைக் காட்டு</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;கூடுதல் பாணி பாதைகளைச் சேர்க்க/அகற்ற இடைமுகத்தைக் காட்டு.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
@@ -26687,11 +26687,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; பயன்பாட்டு தற்போதைய பாணியைத் தேர்ந்தெடுக்கவும்</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;பயன்பாட்டு தற்போதைய பாணியைத் தேர்ந்தெடு.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
@@ -26705,11 +26705,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;விட்செட்டுகளுக்கு மேலே சுட்டி வட்டமிடும்போது கருவி குறிப்புகள் (இது போலவே) தோன்றுமா இல்லையா என்பதை அமைக்கவும்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="162"/>
@@ -26723,11 +26723,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; பயன்பாட்டின் எழுத்துரு மற்றும் அளவை உங்கள் விருப்பத்திற்கு தனிப்பயனாக்கு</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;பயன்பாட்டின் எழுத்துரு மற்றும் அளவை உங்கள் விருப்பத்திற்கு தனிப்பயனாக்கு.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
@@ -26741,11 +26741,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; முடக்கப்பட்டால், முக்கிய சாளர கருவிப்பட்டியில் சின்னங்கள் மட்டுமே காணப்படுகின்றன. இல்லையெனில் செயலின் தொடர்புடைய உரை அடியில் காட்டப்பட்டுள்ளது</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;முடக்கப்பட்டால், முக்கிய சாளர கருவிப்பட்டியில் சின்னங்கள் மட்டுமே காணப்படுகின்றன. இல்லையெனில் செயலின் தொடர்புடைய உரை அடியில் காட்டப்பட்டுள்ளதுh.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="201"/>
@@ -26760,10 +26760,10 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
- &lt;html&gt; &lt;head&gt; &lt;style type=&quot;text/css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
- &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;இயக்கப்பட்டால், பயன்பாடு தொடங்கப்பட்டால் பயன்பாட்டு அளவு மற்றும் நிலை நினைவில் இருக்கும்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;இயக்கப்பட்டால், பயன்பாடு தொடங்கப்பட்டால் பயன்பாட்டு அளவு மற்றும் நிலை நினைவில் இருக்கும்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="97"/>
@@ -27006,11 +27006,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; முழுத் திரை எதிர்ப்பு மாற்றுக்கு மல்டிசாம்ப்ளிங்கைப் பயன்படுத்துங்கள்</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;முழுத் திரை எதிர்ப்பு மாற்றுக்கு மல்டிசாம்ப்ளிங்கைப் பயன்படுத்துங்கள்.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="80"/>
@@ -27280,7 +27280,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="136"/>
         <source>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Rename item&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Double-click the item name, or right-click the item and select &apos;Rename&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deform any branch using a transform (registration result)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Make sure the transform column is shown using the &apos;Show transforms&apos; checkbox. To transform a branch, right-click on the cell in the transform column of the row in question, and choose a transform.&lt;/span&gt;&lt;/p&gt;</source>
-        <translation>&lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 4px; விளிம்பு-கீழ்: 1px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு-குடும்பம்: &apos;சான்ச்-செரிஃப்&apos;; எழுத்துரு அளவு: 9PT; எழுத்துரு-எடை: 600; வண்ணம்:#000000;&quot; விளிம்பு-இடது: 26px; font-size:#000000; &quot;&gt; உருப்படியை இருமுறை சொடுக்கு செய்து, &apos;மறுபெயரிடு&apos; விளிம்பு-இடது: 0px: 0px; font-size: 600; -போட்டம்: 26px; -இஎச்இ: 9pt வண்ணம்:#000000; &quot; ஒரு கிளையை மாற்ற, கேள்விக்குரிய வரிசையின் உருமாற்ற நெடுவரிசையில் கலத்தில் வலது சொடுக்கு செய்து, ஒரு உருமாற்றத்தைத் தேர்வுசெய்க. &lt;/Span&gt; &lt;/p&gt;</translation>
+        <translation>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;உருப்படி மறுபெயரிடு&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;உருப்படியை இருமுறை சொடுக்கு செய்து, &apos;மறுபெயரிடு&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;உருமாற்றத்தைப் பயன்படுத்தி எந்தக் கிளையையும் உருமாற்றவும் (பதிவு முடிவு)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;&apos;உருமாற்றங்களைக் காட்டு&apos; தேர்வுப்பெட்டியைப் பயன்படுத்தி உருமாற்ற நெடுவரிசை காட்டப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும். ஒரு கிளையை மாற்ற, கேள்விக்குரிய வரிசையின் உருமாற்ற நெடுவரிசையில் கலத்தில் வலது சொடுக்கு செய்து, ஒரு உருமாற்றத்தைத் தேர்வுசெய்க.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -28974,7 +28974,7 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1894"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;)</extracomment>
-        <translation>%2 %2</translation>
+        <translation>%2 இல் %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1186"/>
@@ -29034,7 +29034,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; சரிபார்க்கப்பட்டால், உள்ளடக்கங்கள் திருத்தப்பட்டதால் உரை முனை உடனடியாக புதுப்பிக்கப்படும். தேர்வு செய்யப்படாவிட்டால், &amp; quot; சேமி &amp; quot; சொடுக்கு செய்யப்படுகிறது. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; சரிபார்க்கப்பட்டால், உள்ளடக்கங்கள் திருத்தப்பட்டதால் உரை முனை உடனடியாகப் புதுப்பிக்கப்படும். தேர்வு செய்யப்படாவிட்டால், &amp;quot; சேமி &amp;quot; சொடுக்கு செய்யப்படுகிறது. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
@@ -29282,11 +29282,11 @@ Do you wish to update the stored context file with the just loaded one?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;
- &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
- பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
- &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; .</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;முன்னறிவிப்பு:&lt;/span&gt; அலகின் பண்புகளை மாற்றுவது மதிப்பை அல்ல, காட்சியை மட்டுமே மாற்றும். !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
@@ -30194,7 +30194,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p align = &quot;மையம்&quot;&gt; &lt;span சூல் தண்டு = &quot;font-size: 22pt; வண்ணம்:#afb7d5;&quot;&gt; வரவேற்பு &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt; /html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;வரவேற்பு &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
@@ -30228,11 +30228,11 @@ This should only used by advanced users who understand the consequences of chang
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Share your stories with us on the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; and let us know about how 3D Slicer has enabled your research.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
-        <translation>&lt;அட்டவணை எல்லை = &quot;0&quot; சீரமை = &quot;நடுவண்&quot; செல்ச்பாசிங் = &quot;0&quot; CellPadding = &quot;5&quot;&gt; &lt;tr&gt;
- &lt;td சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர;&quot;&gt; &lt;p&gt; &lt;a href = &quot;https://discourse.slicer.org&quot; நடை = &quot;செங்குத்து-சீரமை: நடுத்தர;&quot; /&gt; &lt;/a&gt; &lt;/p&gt; &lt;/td&gt;
- &lt;td சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர;&quot;&gt; &lt;p&gt; உங்கள் கதைகளை &lt;a href = &quot;https://discourse.slicer.org&quot;&gt; ச்லைசர் மன்றம் &lt;/a&gt; இல் எங்களுடன் பகிர்ந்து கொள்ளுங்கள் 3D ச்லைசர் உங்கள் ஆராய்ச்சியை எவ்வாறு செயல்படுத்தியது. &lt;/p&gt; &lt;/td&gt;
- &lt;/tr&gt; &lt;/sable&gt;
- &lt;p&gt; 3D ச்லைசரை மேம்படுத்துவதில் நாங்கள் எப்போதும் ஆர்வமாக உள்ளோம், உங்கள் பிரச்சினையைப் பற்றி எங்களிடம் சொல்ல அல்லது பிழை அறிக்கையைச் சமர்ப்பிக்க, &lt;b&gt; உதவி -&amp; gt; ஒரு பிழையைப் புகாரளிக்கவும் &lt;/b&gt;. &lt;/P&gt;</translation>
+        <translation>&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;உங்கள் கதைகளை &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;ச்லைசர் மன்றம் &lt;/a&gt; இல் எங்களுடன் பகிர்ந்து கொள்ளுங்கள் 3D ச்லைசர் உங்கள் ஆராய்ச்சியை எவ்வாறு செயல்படுத்தியது.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;3D ச்லைசரை மேம்படுத்துவதில் நாங்கள் எப்போதும் ஆர்வமாக உள்ளோம், உங்கள் பிரச்சினையைப் பற்றி எங்களிடம் சொல்ல அல்லது பிழை அறிக்கையைச் சமர்ப்பிக்க, &lt;b&gt;உதவி -&amp;gt; ஒரு பிழையைப் புகாரளி&lt;/b&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
@@ -30243,8 +30243,8 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; &lt;b&gt; 3D ச்லைசர் &lt;/b&gt; என்பது மருத்துவ பட செயலாக்கத்திற்கான இலவச திறந்த மூல மென்பொருள் தளமாகும் மற்றும் படத் தரவின் 3D காட்சிப்படுத்தல். இந்த தொகுதிக்கு நீங்கள் ச்லைசரைப் பயன்படுத்தத் தொடங்க சில அடிப்படை தகவல்கள் மற்றும் பயனுள்ள இணைப்புகள் உள்ளன. மேலும் தகவலுக்கு, தயவுசெய்து எங்கள் வலைத்தளத்தைப் பார்வையிடவும் &lt;a href = &quot;https://www.slicer.org&quot;&gt; https://www.slicer.org &lt;/a&gt;. &lt;/P&gt;
- &lt;p&gt; &lt;b&gt; 3D ச்லைசர் &lt;/b&gt; BSD- பாணி உரிமத்தின் கீழ் விநியோகிக்கப்படுகிறது; பங்களிப்பு மற்றும் மென்பொருள் உரிம ஒப்பந்தம் குறித்த விவரங்களுக்கு, தயவுசெய்து &lt;a href = &quot;https://github.com/slicer/slicer/blob/main/license.txt&quot;&gt; 3D ச்லைசர் மென்பொருள் உரிம ஒப்பந்தம் &lt;/a&gt; ஐப் பார்க்கவும். இந்த மென்பொருள் ஆராய்ச்சி நோக்கங்களுக்காக மட்டுமே வடிவமைக்கப்பட்டுள்ளது மற்றும் உணவு மற்றும் மருந்து நிர்வாகத்தால் அல்லது வேறு எந்த நிறுவனமும் மதிப்பாய்வு செய்யப்படவில்லை அல்லது அங்கீகரிக்கப்படவில்லை. &lt;/P&gt;</translation>
+        <translation>&lt;p&gt; &lt;b&gt; 3D ச்லைசர் &lt;/b&gt; என்பது மருத்துவ படச் செயலாக்கத்திற்கான இலவச திறந்த மூல மென்பொருள் தளமாகும் மற்றும் படத் தரவின் 3D காட்சிப்படுத்தல். இந்தத் தொகுதிக்கு நீங்கள் ச்லைசரைப் பயன்படுத்தத் தொடங்க சில அடிப்படை தகவல்கள் மற்றும் பயனுள்ள இணைப்புகள் உள்ளன. மேலும் தகவலுக்கு, தயவுசெய்து எங்கள் வலைத்தளத்தைப் பார்வையிடவும் &lt;a href = &quot;https://www.slicer.org&quot;&gt; https://www.slicer.org &lt;/a&gt;. &lt;/p&gt;
+ &lt;p&gt; &lt;b&gt; 3D ச்லைசர் &lt;/b&gt; BSD- பாணி உரிமத்தின் கீழ் விநியோகிக்கப்படுகிறது; பங்களிப்பு மற்றும் மென்பொருள் உரிம ஒப்பந்தம்குறித்த விவரங்களுக்கு, தயவுசெய்து &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt; 3D ச்லைசர் மென்பொருள் உரிம ஒப்பந்தம் &lt;/a&gt; ஐப் பார்க்கவும். இந்த மென்பொருள் ஆராய்ச்சி நோக்கங்களுக்காக மட்டுமே வடிவமைக்கப்பட்டுள்ளது மற்றும் உணவு மற்றும் மருந்து நிர்வாகத்தால் அல்லது வேறு எந்த நிறுவனமும் மதிப்பாய்வு செய்யப்படவில்லை அல்லது அங்கீகரிக்கப்படவில்லை.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
@@ -30287,23 +30287,23 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
-        <translation>&lt;p&gt; &lt;b&gt; ஆவணங்கள் &lt;/b&gt; &lt;/p&gt;
- &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/&quot;&gt; ஆவணங்கள் &lt;/a&gt; &lt;/li&gt;
- இப்போது
- &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt; உதவியைப் பெறுங்கள் &lt;/a&gt; &lt;/li&gt;
- &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt; பயனர் இடைமுகம் &lt;/a&gt; &lt;/li&gt;
- இப்போது மற்றும் விசைப்பலகை குறுக்குவழிகள் &lt;/a&gt; &lt;/li&gt;
- &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt; உலாவு டுடோரியல்கள் &lt;/a&gt; &lt;/li&gt; &lt;/ul&gt;
- &lt;p&gt; &lt;b&gt; எங்களைத் தொடர்பு கொள்ளுங்கள் &lt;/p&gt;
- &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://discourse.slicer.org/&quot;&gt; ச்லைசர் மன்றத்தைப் பார்வையிடவும் &lt;/a&gt; &lt;/li&gt;
- இப்போது
- &lt;li&gt; &lt;a href = &quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt; அம்சக் கோரிக்கைகளைத் தேடுங்கள் &lt;/a&gt; &lt;/li&gt;
- &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-port-aport-a-a-a-problem&quot;&gt; ஒரு பிழையைப் புகாரளிக்கவும் &lt;/a&gt; &lt;/ li&gt; &lt;/ul&gt;
- &lt;p&gt; &lt;b&gt; 3 டி ச்லைசர் பற்றி &lt;/p&gt;
- &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://github.com/slicer/slicer/blob/main/license.txt&quot;&gt; உரிமத்தைக் காண்க &lt;/a&gt; &lt;/li&gt;
- இப்போது
- &lt;li&gt; &lt;a href = &quot;https://scholar.google.com/scholal?&amp;amp; +அல்லது+ச்லிசர் 3 டி%29+-slic3r+&amp; amp; btng = &quot;&gt; ச்லைசர் வெளியீடுகள் &lt;/a&gt; &lt;/li&gt;
- இப்போது</translation>
+        <translation>&lt;p&gt;&lt;b&gt;ஆவணங்கள்&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;ஆவணங்கள்&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;இப்போது தொடங்கு&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;உதவியைப் பெறு&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;பயனர் இடைமுகம்&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;சுட்டி பொத்தான்கள், &amp;quot;Hot-keys&amp;quot; மற்றும் விசைப்பலகை குறுக்குவழிகள்&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;கையேடு உலாவு&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;எங்களைத் தொடர்பு கொள்&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;ச்லைசர் மன்றத்தைப் பார்&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/feed/hashtag/?keywords=3dslicer&quot;&gt;Join Us on LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;நற்பண்பு கோரிக்கைகளைத் தேடு&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;ஒரு பிழையைப் புகாரளி&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;3டி ச்லைசர் பற்றி&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;உரிமத்தைக் காண்க&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;ச்லைசர் வெளியீடுகள்&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
@@ -30367,14 +30367,14 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation>&lt;அட்டவணை சீரமைப்பு = &quot;சென்டர்&quot; செல்ச்பேசிங் = &quot;0&quot; CellPadding = &quot;5&quot;&gt; &lt;tr&gt; &lt;td&gt; &lt;p align = &quot;மையம்&quot;&gt;
- &lt;a href = &quot;https://www.na-mic.org/&quot;&gt; &lt;img src = &quot;qrc: locos/namic.png&quot; அகலம் = &quot;80&quot; பாணி = &quot;செங்குத்து-சீரமை: நடுத்தர;&quot; /&gt;]
- &lt;td&gt; &lt;p align = &quot;மையம்&quot;&gt; &lt;a href = &quot;https://nac.spl.harvard.edu/&quot;&gt; &lt;img src = &quot;qrc: locos/nac.png&quot; சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர; &quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
- &lt;td&gt; &lt;p align = &quot;மையம்&quot;&gt; &lt;a href = &quot;https://www.ncigt.org/&quot;&gt; &lt;img src = &quot;qrc: locos/ncigt.png&quot; சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர; &quot; /&gt;]
- &lt;td&gt; &lt;p align = &quot;மையம்&quot;&gt; &lt;a href = &quot;https://www.spl.harvard.edu/&quot;&gt; &lt;img src = &quot;qrc: locos/spl.png&quot; சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர; &quot; /&gt;]
- &lt;p&gt; 3D ச்லைசரின் வளர்ச்சியை &lt;a href = &quot;https://www.na-mic.org/&quot;&gt; na-mic &lt;/a&gt;, &lt;a href = &quot;https: //nac.spl ஆல் ஆதரிக்கப்படுகிறது. harvard.edu/&quot;&gt;nac &lt;/a&gt;, &lt;a href = &quot;https://www.ncigt.org/&quot;&gt; ncigt &lt;/a&gt;, &lt;a href = &quot;https: //www.spl.harvard. edu &quot;&gt; spl &lt;/a&gt; மற்றும் &lt;a href =&quot; https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments &quot;&gt; ச்லைசர் சமூகம் &lt;/a&gt;. விவரங்களுக்கு &lt;/p&gt; க்கு &lt;/p&gt;
- &lt;p&gt; இந்த வரவேற்பு தொகுதியின் உள்ளடக்கங்களை வடிவமைக்க எங்களுக்கு உதவிய ச்லைசர் பயனர் சமூகத்தின் உறுப்பினர்களுக்கு எங்கள் மனமார்ந்த நன்றியைத் தெரிவித்துக் கொள்கிறோம், மேலும் அதன் பின்னூட்டங்கள் தொடர்ந்து செயல்பாடு, பயன்பாட்டினை மற்றும் ச்லைசர் பயனர் அனுபவத்தை மேம்படுத்துகின்றன. &lt;/p&gt;
- &lt;p&gt; இந்த தொகுதியை கிட்வேரில் உள்ள சீன்-கிறிச்டோஃப் பில்லியன்-ராபின் மற்றும் சூலியன் ஃபினெட், மற்றும் வெண்டி பிளெச்னியாக், சோனியா புசோல், ச்டீவ் பைபர் மற்றும் ரான் கிகினிச் ஆகியோரால் ப்ரிகாம் மற்றும் மகளிர் மருத்துவமனையில் உருவாக்கப்பட்டது. &lt;/p&gt;</translation>
+        <translation>&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;3D ச்லைசரின் வளர்ச்சியை &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;வஅ-எம்ஐசி&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;என்எசி&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;என்சிஐசீடி&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;எச்பிஎல்&lt;/a&gt; மற்றும் &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;சிலைசர் சமூகத்தால்&lt;/a&gt; ஆதரிக்கப்படுகிறது. விவரங்களுக்கு &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; ஐ காண்க.&lt;/p&gt;
+&lt;p&gt;இந்த வரவேற்பு தொகுதியின் உள்ளடக்கங்களை வடிவமைக்க எங்களுக்கு உதவிய ச்லைசர் பயனர் சமூகத்தின் உறுப்பினர்களுக்கு எங்கள் மனமார்ந்த நன்றியைத் தெரிவித்துக் கொள்கிறோம், மேலும் அதன் பின்னூட்டங்கள் தொடர்ந்து செயல்பாடு, பயன்பாட்டினை மற்றும் ச்லைசர் பயனர் அனுபவத்தை மேம்படுத்துகின்றன.&lt;/p&gt;
+&lt;p&gt;இந்தத் தொகுதியைக் கிட்வேரில் உள்ள சீன்-கிறிச்டோஃப் பில்லியன்-ராபின் மற்றும் சூலியன் ஃபினெட், மற்றும் வெண்டி பிளெச்னியாக், சோனியா புசோல், ச்டீவ் பைபர் மற்றும் ரான் கிகினிச் ஆகியோரால் ப்ரிகாம் மற்றும் மகளிர் மருத்துவமனையில் உருவாக்கப்பட்டது.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
@@ -30538,7 +30538,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="359"/>
         <source>Failed to read color from column %1 in line %2, value: &apos;%3&apos;</source>
-        <translation>வரி %1 இல் %1, மதிப்பு: &apos; %3&apos; என்ற நெடுவரிசை 1 இலிருந்து வண்ணத்தைப் படிக்கத் தவறிவிட்டது</translation>
+        <translation>வரி %2 இல் நெடுவரிசை %1 இலிருந்து வண்ணத்தைப் படிக்க முடியவில்லை, மதிப்பு: &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="379"/>
@@ -30870,13 +30870,13 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="798"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation>மார்க்அப்ச் நம்பகமான சி.எச்.வி.</translation>
+        <translation>மார்க்அப்ச் நம்பகமான காபிம</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="791"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation>சிறுகுறிப்பு நம்பகமான சி.எச்.வி.</translation>
+        <translation>சிறுகுறிப்பு நம்பகமான காபிம</translation>
     </message>
 </context>
 <context>
