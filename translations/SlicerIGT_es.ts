@@ -662,17 +662,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="328"/>
         <source>Parameters for Auto-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para el Auto-Center</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="335"/>
         <source>Followed model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo seguido: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="342"/>
         <source>Pick the model that the camera should follow, e.g. &apos;tumorModel&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija el modelo que debe seguir la cámara, por ejemplo, &apos;tumorModel&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="347"/>
@@ -697,17 +697,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="376"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the x axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, ajuste la cámara para que se alinee con el modelo de destino a lo largo del eje x.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="380"/>
         <source>Adjust Along Camera Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste A Lo Largo De La Cámara Y</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="383"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the y axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, ajuste la cámara para que se alinee con el modelo de destino a lo largo del eje y.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="387"/>
