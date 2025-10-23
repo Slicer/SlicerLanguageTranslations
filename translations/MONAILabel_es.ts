@@ -664,7 +664,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="776"/>
         <source>Import Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de importación:</translation>
     </message>
 </context>
 <context>
@@ -673,13 +673,13 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="614"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="22"/>
         <source>Basic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo básico</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="615"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="38"/>
         <source>Reviewer&apos;s mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de revisor</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="618"/>
@@ -707,25 +707,25 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="161"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="232"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="626"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="74"/>
         <source>Ids</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ids</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="627"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="111"/>
         <source>Select annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar anotador</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="628"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="121"/>
         <source>Select reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione revisor</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="629"/>
