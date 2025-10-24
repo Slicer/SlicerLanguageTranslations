@@ -771,19 +771,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="639"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="209"/>
         <source>hard</source>
-        <translation type="unfinished"></translation>
+        <translation>duro</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="643"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="169"/>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Calidad</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="644"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="247"/>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="646"/>
