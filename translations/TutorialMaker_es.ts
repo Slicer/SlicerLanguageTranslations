@@ -317,12 +317,12 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="70"/>
         <source>Version Date: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de la Versión: {}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
         <source>Tutorial Captured</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial Capturado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
