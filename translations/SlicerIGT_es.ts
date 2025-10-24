@@ -316,7 +316,7 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation type="unfinished"></translation>
+        <translation>La prueba no está implementada para ModelRegistration</translation>
     </message>
 </context>
 <context>
@@ -324,17 +324,17 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation>Series temporales</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodos registrados</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
@@ -742,22 +742,22 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="416"/>
         <source>Time Adjust to Rest (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>El tiempo se Ajusta al descanso (segundos): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="423"/>
         <source>The length of time an adjustment takes.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tiempo que tarda un ajuste.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="427"/>
         <source>Time Rest to Safe (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de descanso a salvo (segundos): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="434"/>
         <source>The length of time after an adjustment that the camera remains motionless.</source>
-        <translation type="unfinished"></translation>
+        <translation>La duración del tiempo después de un ajuste que la cámara permanece inmóvil.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="438"/>
