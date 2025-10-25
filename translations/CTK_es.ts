@@ -371,7 +371,7 @@ Closing the tab will cancel the current computation.</source>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="114"/>
         <source>The module &apos;%1&apos; is still running and does not support being canceled.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El módulo &apos;%1&apos; aún se está ejecutando y no admite la cancelación.</translation>
     </message>
 </context>
 <context>
@@ -453,12 +453,18 @@ due to:
 %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al registrar el módulo:
+
+
+debido a:
+%1
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al registrar los módulos</translation>
     </message>
 </context>
 <context>
@@ -466,7 +472,7 @@ due to:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
         <source>Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminado.</translation>
     </message>
 </context>
 <context>
@@ -858,17 +864,17 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="275"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicialización...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="366"/>
         <source>Add Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir Enlace</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="367"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copiar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="369"/>
