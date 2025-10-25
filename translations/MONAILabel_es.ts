@@ -842,18 +842,18 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="658"/>
         <source>Server IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor IP:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="659"/>
         <source>Reviewer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisor:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="662"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="415"/>
         <source>Data Evaluation</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluación de Datos</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="665"/>
