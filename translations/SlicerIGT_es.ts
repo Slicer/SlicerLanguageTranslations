@@ -506,17 +506,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="122"/>
         <source>Parameters for Bullseye View</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para la Vista de Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="129"/>
         <source>Camera positioning transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de posicionamiento de la cámara: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="136"/>
         <source>Pick the transform that the camera should follow, e.g. &apos;cauteryCameraToCauteryTransform&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir la transformación que debe seguir la cámara, p. ej. &apos;cauteryCameraToCauteryTransform&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="142"/>
@@ -863,22 +863,22 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="205"/>
         <source>Warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de advertencia</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="212"/>
         <source>Play warning sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir sonido de advertencia</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea al tamaño de texto de punto más cercano:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
         <source>Line to closest point thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grosor de la línea al punto más cercano:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
