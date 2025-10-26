@@ -895,19 +895,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="671"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="493"/>
         <source>Flag</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandera</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="672"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="500"/>
         <source>Approve</source>
-        <translation type="unfinished"></translation>
+        <translation>Aprobar</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="673"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="511"/>
         <source>Image: x/y</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen: x/y</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="674"/>
