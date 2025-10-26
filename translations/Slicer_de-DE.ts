@@ -1806,7 +1806,7 @@ Dieses Programm ist nützlich, um ein Bild mit einem konstanten Skalierungsfakto
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
@@ -1910,7 +1910,7 @@ Ermöglicht die Umwandlung in denselben Typ wie das Eingabevolumen.</translation
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
@@ -1920,7 +1920,7 @@ Ermöglicht die Umwandlung in denselben Typ wie das Eingabevolumen.</translation
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
@@ -2396,7 +2396,7 @@ Ermöglicht die Umwandlung in denselben Typ wie das Eingabevolumen.</translation
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"/>
         <source>US</source>
-        <translation type="unfinished">US</translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
@@ -2750,7 +2750,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
@@ -2760,7 +2760,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
