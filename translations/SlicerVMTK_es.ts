@@ -482,17 +482,17 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="152"/>
         <source>Select a model node</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar un nodo de modelo</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="169"/>
         <source>Paremeter set: </source>
-        <translation type="unfinished"></translation>
+        <translation>Juego de parámetros: </translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="176"/>
         <source>Pick node to store parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir el nodo para almacenar el conjunto de parámetros</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
