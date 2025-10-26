@@ -1971,7 +1971,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1296"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1330"/>
         <source>initialized</source>
-        <translation type="unfinished">initialisiert</translation>
+        <translation>initialisiert</translation>
     </message>
 </context>
 <context>
