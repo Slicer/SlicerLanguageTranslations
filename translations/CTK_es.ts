@@ -544,17 +544,17 @@ debido a:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
         <source>Ctrl+h</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+h</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
         <source>&amp;Run script from file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Run script desde archivo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo &apos;%1&apos; no se puede leer.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1400"/>
@@ -581,7 +581,7 @@ debido a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="20"/>
         <source>ctkDICOMAppWidget</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ctkDICOMAppWidget</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="38"/>
@@ -913,17 +913,17 @@ debido a:
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="689"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Versión de base de datos DICOM incompatible encontrada en la carpeta %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="831"/>
         <source>Database Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Reparación de Bases de Datos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="861"/>
         <source>All the files in the local database are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos de la base de datos local están disponibles.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="888"/>
