@@ -732,7 +732,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation>浮点数</translation>
+        <translation>浮点型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
@@ -743,12 +743,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation>短整数型</translation>
+        <translation>短整型(有符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation>无符号短整型</translation>
+        <translation>短整型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
@@ -758,12 +758,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation>无符号整型</translation>
+        <translation>整型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation>无符号字符类型</translation>
+        <translation>字符型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
@@ -1042,7 +1042,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation>默认情况下，输出的配准转换（无论是输出复合转换还是每个转换组件）都以双精度写入磁盘。如果这个标志为ON，输出转换将以单精度（浮点）写入。如果输出转换是位移场转换，或者是包括几个位移场的复合转换，这一点就特别重要。</translation>
+        <translation>默认情况下，输出的配准转换（无论是输出复合转换还是每个转换组件）都以双精度写入磁盘。如果这个标志为ON，输出转换将以单精度（浮点型）写入。如果输出转换是位移场转换，或者是包括几个位移场的复合转换，这一点就特别重要。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
@@ -1319,32 +1319,32 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation>短整数型</translation>
+        <translation>短整型(有符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation>浮点数</translation>
+        <translation>浮点型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation>无符号短整数型</translation>
+        <translation>短整型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation>整数型</translation>
+        <translation>整型(有符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation>无符号整数型</translation>
+        <translation>整型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation>无符号字符类型</translation>
+        <translation>字符型(无符号)</translation>
     </message>
 </context>
 <context>
@@ -1382,7 +1382,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation>影像扭曲</translation>
+        <translation>变形影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
@@ -1428,32 +1428,32 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation>浮点数</translation>
+        <translation>浮点型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
         <source>short</source>
-        <translation>短整数型</translation>
+        <translation>短整型(有符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation>无符号短整数型</translation>
+        <translation>短整型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
         <source>int</source>
-        <translation>整数型</translation>
+        <translation>整型(有符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation>无符号整数型</translation>
+        <translation>整型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation>无符号字符类型</translation>
+        <translation>字符型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
@@ -1641,7 +1641,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation>影像扭曲</translation>
+        <translation>变形影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
@@ -1682,32 +1682,32 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation>浮点数</translation>
+        <translation>浮点型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
         <source>short</source>
-        <translation>短整数型</translation>
+        <translation>短整型(有符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation>无符号短整数型</translation>
+        <translation>短整型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
         <source>int</source>
-        <translation>整数型</translation>
+        <translation>整型(有符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
         <source>uint</source>
-        <translation>无符号整数型</translation>
+        <translation>整型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation>无符号字符类型</translation>
+        <translation>字符型(无符号)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
@@ -1756,7 +1756,7 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation>影像扭曲</translation>
+        <translation>变形影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
@@ -1878,7 +1878,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation>浮点数</translation>
+        <translation>浮点型</translation>
     </message>
 </context>
 <context>
@@ -1961,27 +1961,27 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation>短整数型</translation>
+        <translation>短整型(有符号)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation>无符号短整数型</translation>
+        <translation>短整型(无符号)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation>整数型</translation>
+        <translation>整型(有符号)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation>无符号整数型</translation>
+        <translation>整型(无符号)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation>浮点数</translation>
+        <translation>浮点型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
@@ -2178,7 +2178,7 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"/>
         <source>Short</source>
-        <translation>短整数型</translation>
+        <translation>短整型(有符号)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
@@ -2194,17 +2194,17 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
         <source>UnsignedShort</source>
-        <translation>无符号短整数型</translation>
+        <translation>短整型(无符号)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
         <source>Int</source>
-        <translation>整数型</translation>
+        <translation>整型(有符号)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
         <source>UnsignedInt</source>
-        <translation>无符号整数型</translation>
+        <translation>整型(无符号)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"/>
@@ -3110,7 +3110,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
         <source>Float Vector Parameter</source>
-        <translation>浮点矢量参数</translation>
+        <translation>浮点型矢量参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
@@ -3120,7 +3120,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
         <source>A vector of floats</source>
-        <translation>一个浮点数的向量</translation>
+        <translation>一个浮点型的向量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
@@ -3594,7 +3594,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
         <source>A floating point return value</source>
-        <translation>浮点返回值</translation>
+        <translation>浮点型返回值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"/>
@@ -3629,7 +3629,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
         <source>An example of a float return type</source>
-        <translation>浮点返回类型的示例</translation>
+        <translation>浮点型返回类型的示例</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
@@ -28520,7 +28520,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation>浮点数</translation>
+        <translation>浮点型</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
@@ -28535,17 +28535,17 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="103"/>
         <source>short</source>
-        <translation>短整数型</translation>
+        <translation>短整型(有符号)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="108"/>
         <source>long</source>
-        <translation>长整数型</translation>
+        <translation>长整型</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="113"/>
         <source>long long</source>
-        <translation>超长整数型</translation>
+        <translation>长长整型</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
@@ -28565,22 +28565,22 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="133"/>
         <source>unsigned short</source>
-        <translation>无符号短整数型</translation>
+        <translation>短整型(无符号)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="138"/>
         <source>unsigned int</source>
-        <translation>无符号整数型</translation>
+        <translation>整型(无符号)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="143"/>
         <source>unsigned long</source>
-        <translation>无符号的长整数型</translation>
+        <translation>长整型(无符号)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="148"/>
         <source>unsigned long long</source>
-        <translation>无符号超长整数型</translation>
+        <translation>长长整型(无符号)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="153"/>
@@ -31633,7 +31633,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1142"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
-        <translation>位移预期以双精度或单精度浮点数存储。向量值不会从LPS转换到RAS。</translation>
+        <translation>位移预计将存储为双精度或浮点数。矢量值将不会从LPS转换为RAS。</translation>
     </message>
 </context>
 <context>
