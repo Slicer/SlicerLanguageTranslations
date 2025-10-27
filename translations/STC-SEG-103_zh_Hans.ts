@@ -8,7 +8,8 @@
         <source>Click on Add Data in the Welcome
 to Slicer module</source>
         <extracomment>1_0_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>在“欢迎使用Slicer”模块中
+单击“添加数据”</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -16,7 +17,9 @@ to Slicer module</source>
 and browse to the location of the
 Slicer datasets</source>
         <extracomment>2_2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>单击“选择目录”以添加
+并浏览至Slicer数据集
+的位置</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
