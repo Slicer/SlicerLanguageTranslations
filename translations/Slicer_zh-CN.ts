@@ -2097,12 +2097,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation>要重新采样的输入数据</translation>
+        <translation>要重新采样的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
@@ -2755,7 +2755,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
@@ -2765,7 +2765,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
         <source>Input volume to be filtered</source>
-        <translation>要过滤的输入数据</translation>
+        <translation>要过滤的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"/>
@@ -3915,7 +3915,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
@@ -4012,7 +4012,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
@@ -4022,7 +4022,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation>要过滤的输入数据</translation>
+        <translation>要过滤的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
@@ -4105,7 +4105,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
@@ -4115,7 +4115,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation>要过滤的输入数据</translation>
+        <translation>要过滤的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
@@ -4173,7 +4173,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
@@ -4183,7 +4183,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation>要过滤的输入数据</translation>
+        <translation>要过滤的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
@@ -4221,7 +4221,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
@@ -4406,7 +4406,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
@@ -4421,17 +4421,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation>要过滤的输入数据</translation>
+        <translation>要过滤的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
         <source>Input volume whose histogram will be matched</source>
-        <translation>直方图将匹配的输入数据</translation>
+        <translation>直方图将匹配的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="22"/>
         <source>Output volume. This is the input volume with intensities matched to the reference volume.</source>
-        <translation>输出数据。这是强度与参考数据匹配的输入数据。</translation>
+        <translation>输出体积。这是强度与参考数据匹配的输入体积。</translation>
     </message>
 </context>
 <context>
@@ -4603,7 +4603,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
@@ -4651,7 +4651,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
@@ -4759,7 +4759,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
@@ -4769,7 +4769,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
         <source>Input volume to be filtered</source>
-        <translation>要过滤的输入数据</translation>
+        <translation>要过滤的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
@@ -5131,7 +5131,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
@@ -5189,12 +5189,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation>输入数据1</translation>
+        <translation>输入体积1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation>输入数据2</translation>
+        <translation>输入体积2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
@@ -5204,12 +5204,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation>输入数据1</translation>
+        <translation>输入体积1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation>输入数据2</translation>
+        <translation>输入体积2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
@@ -5446,7 +5446,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation>输入数据1</translation>
+        <translation>输入体积1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
@@ -5456,7 +5456,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation>输入数据1</translation>
+        <translation>输入体积1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
@@ -6004,7 +6004,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
         <source>Input volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
@@ -6068,7 +6068,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
@@ -6083,7 +6083,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation>要重新采样的输入数据</translation>
+        <translation>要重新采样的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
@@ -6601,7 +6601,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
@@ -6616,7 +6616,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
         <source>Input Volume to be resampled</source>
-        <translation>要重新采样的输入数据</translation>
+        <translation>要重新采样的输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="13"/>
@@ -7117,7 +7117,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
