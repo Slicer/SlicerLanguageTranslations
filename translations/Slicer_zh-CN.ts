@@ -36,7 +36,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation>输入数据2</translation>
+        <translation>输入体积2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
@@ -46,12 +46,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation>输入数据1</translation>
+        <translation>输入体积1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation>输入数据2</translation>
+        <translation>输入体积2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
@@ -640,7 +640,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation>应用中值滤波来减少输入数据中的噪声。这3个值指定了可选的MedianImageFilter在所有3个方向（以体素为单位）的预处理半径。</translation>
+        <translation>应用中值滤波来减少输入体积中的噪声。这3个值指定了可选的MedianImageFilter在所有3个方向（以体素为单位）的预处理半径。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
@@ -975,12 +975,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation>拟合 3D 固定影像的时间序列中的索引。只有在固定输入数据为四维时才允许。</translation>
+        <translation>拟合 3D 固定影像的时间序列中的索引。只有在固定输入体积为四维时才允许。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation>拟合 3D 移动影像的时间序列中的索引。只有在移动输入数据是四维的情况下才允许</translation>
+        <translation>拟合 3D 移动影像的时间序列中的索引。只有在移动输入体积是四维的情况下才允许</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
@@ -1238,12 +1238,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation>带有可选 [maskOutput|cropOutput] 的输入数据到大脑蒙版的区域。</translation>
+        <translation>带有可选 [maskOutput|cropOutput] 的输入体积到大脑蒙版的区域。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
         <source>The inputVolume multiplied by the ROI mask.</source>
-        <translation>输入数据乘以ROI蒙版。</translation>
+        <translation>输入体积乘以ROI蒙版。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
@@ -1893,9 +1893,9 @@ This program is useful for downsampling an image by a constant scale factor.
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation>将一个数据转换为一个给定的数据类型。
-当把一个输入的数据转换成一个较低精度的类型时，请自行承担使用风险
-允许转换到与输入数据相同的类型。</translation>
+        <translation>将一个体积转换为一个给定的体积类型。
+当把一个输入体积转换成一个较低精度的类型时，请自行承担使用风险
+允许转换到与输入体积相同的类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
@@ -1915,7 +1915,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation>输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
@@ -1925,7 +1925,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
         <source>Input volume, the volume to cast.</source>
-        <translation>输入数据，要转换的数据。</translation>
+        <translation>输入体积，要转换的体积。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
@@ -2039,12 +2039,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation>输入数据1</translation>
+        <translation>输入体积1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation>输入数据2</translation>
+        <translation>输入体积2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
@@ -2054,12 +2054,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
         <source>First Input volume</source>
-        <translation>第一个输入数据</translation>
+        <translation>第一个输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="17"/>
         <source>Second Input volume</source>
-        <translation>第二个输入数据</translation>
+        <translation>第二个输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
@@ -19966,7 +19966,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="38"/>
         <source>Crop Volume</source>
-        <translation>剪切数据</translation>
+        <translation>裁剪体积</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
@@ -20017,7 +20017,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="267"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="586"/>
         <source>Cropped volume</source>
-        <translation>已剪切数据</translation>
+        <translation>已裁剪体积</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="279"/>
@@ -20043,7 +20043,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="348"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="358"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-        <translation>输出数据中的体素间距将按此值缩放。大于1.0的值将使剪切数据的分辨率低于输入数据。小于1.0的值将使剪切数据的分辨率高于输入数据。</translation>
+        <translation>输出体积中的体素间距将按此值进行缩放。值大于1.0将使裁剪体积的分辨率低于输入体积。值小于1.0将使裁剪体积的分辨率高于输入体积。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="351"/>
