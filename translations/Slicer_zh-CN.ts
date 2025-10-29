@@ -12084,7 +12084,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="28"/>
         <source>Segment this...</source>
-        <translation>分割这个...</translation>
+        <translation>分割此项...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
@@ -24063,7 +24063,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
         <source>Clone data series</source>
-        <translation>克隆数据序列</translation>
+        <translation>复制数据序列</translation>
     </message>
 </context>
 <context>
@@ -27223,12 +27223,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
         <source>Clone</source>
-        <translation>克隆</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="75"/>
         <source>Clone this item and its data node if any along with display and storage options</source>
-        <translation>克隆此项及其数据节点（如果有），以及显示和存储选项</translation>
+        <translation>复制此项及其数据节点（如有），包括显示和存储选项</translation>
     </message>
 </context>
 <context>
@@ -27885,7 +27885,7 @@ Please visit the Segmentation module and try the advanced create representation 
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="114"/>
         <source>Clone</source>
-        <translation>克隆</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="121"/>
