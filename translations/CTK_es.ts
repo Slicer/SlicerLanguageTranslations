@@ -616,17 +616,17 @@ debido a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="368"/>
         <source>Next image</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente imagen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="390"/>
         <source>Next series</source>
-        <translation type="unfinished"></translation>
+        <translation>Próxima serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="412"/>
         <source>Next study</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo estudio</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="448"/>
@@ -951,14 +951,14 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1259"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1337"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Suprimir</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1177"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1251"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1329"/>
         <source>View DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver metadatos DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1180"/>
