@@ -552,17 +552,17 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
         <source>Decimation aggressiveness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Decisión agresiva:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="326"/>
         <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los valores más bajos conservan mejor la integridad de la malla, pero es posible que no sea posible reducir el número de puntos al nivel deseado.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="348"/>
         <source>Subdivide:</source>
-        <translation type="unfinished"></translation>
+        <translation>Subdividir:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="358"/>
@@ -582,7 +582,7 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="389"/>
         <source>Preprocessed model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo preprocesado</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="411"/>
@@ -886,17 +886,17 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="214"/>
         <source>Select an input segment node</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un nodo de segmento de entrada</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="229"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de salida:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="238"/>
         <source>Pick the output table to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija la tabla de salida para el algoritmo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="268"/>
