@@ -329,7 +329,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation>将一个 3D 体数据配准到一个参考体数据（默认为Mattes Mutual Information）。方法在BRAINSFit中描述。全脑三维影像的互信息配准，使用Insight Toolkit，Johnson H.J.，Harris G.，Williams K.，The Insight Journal，2007。https://hdl.handle.net/1926/1291</translation>
+        <translation>将三维体数据配准到参考体数据（默认使用Mattes Mutual Information）。方法详见BRAINSFit：基于Insight Toolkit的全脑三维影像的互信息配准，作者Johnson H.J., Harris G., Williams K.，《Insight Journal》，2007年。https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
@@ -6078,7 +6078,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation>参考数据（用于设置输出参数）</translation>
+        <translation>参考体数据（用于设置输出参数）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
@@ -6093,7 +6093,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="15"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation>参考数据（间距、大小、方向、原点）</translation>
+        <translation>参考体数据（间距、大小、方向、原点）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="16"/>
@@ -6611,7 +6611,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation>参考数据（用于设置输出参数）</translation>
+        <translation>参考体数据（用于设置输出参数）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
@@ -6626,7 +6626,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="14"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation>参考数据（间距、大小、方向、原点）</translation>
+        <translation>参考体数据（间距、大小、方向、原点）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="15"/>
@@ -15616,7 +15616,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="315"/>
         <source>Reference volume:</source>
-        <translation>参考数据：</translation>
+        <translation>参考体数据：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="288"/>
@@ -25207,7 +25207,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="674"/>
         <source>Reference volume:</source>
-        <translation>参考数据：</translation>
+        <translation>参考体数据：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="702"/>
@@ -29244,12 +29244,12 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="551"/>
         <source>Reference volume:</source>
-        <translation>参考数据：</translation>
+        <translation>参考体数据：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="567"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-        <translation>定义导出置换场的原点、间距和轴方向的数据，如果参考数据处于非线性变换下，则使用未变换的几何体作为参考。</translation>
+        <translation>定义导出置换场的原点、间距和轴方向的体数据，如果参考体数据处于非线性变换下，则使用未变换的几何体作为参考。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="597"/>
