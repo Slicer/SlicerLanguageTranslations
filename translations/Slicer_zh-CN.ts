@@ -329,7 +329,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation>将一个 3D 数据配准到一个参考数据（默认为Mattes Mutual Information）。方法在BRAINSFit中描述。全脑三维影像的互信息配准，使用Insight Toolkit，Johnson H.J.，Harris G.，Williams K.，The Insight Journal，2007。https://hdl.handle.net/1926/1291</translation>
+        <translation>将一个 3D 体数据配准到一个参考体数据（默认为Mattes Mutual Information）。方法在BRAINSFit中描述。全脑三维影像的互信息配准，使用Insight Toolkit，Johnson H.J.，Harris G.，Williams K.，The Insight Journal，2007。https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
@@ -4411,7 +4411,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
         <source>Reference Volume</source>
-        <translation>参考数据</translation>
+        <translation>参考体数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
