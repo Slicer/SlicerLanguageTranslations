@@ -349,7 +349,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation>移动影像数据</translation>
+        <translation>移动影像体数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
@@ -364,12 +364,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation>输入修正的影像（移动影像将被转换到这个影像空间）。</translation>
+        <translation>输入固定影像（移动影像将被变换到该影像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation>输入移动影像（该影像将被转换到固定影像空间）。</translation>
+        <translation>输入移动影像（该影像将被变换到固定影像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
@@ -379,7 +379,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation>沿着固定影像的每个轴线，以影像空间为中心的B样条网格细分的数量。为了正确计算BSpline，数值必须是3或更高。</translation>
+        <translation>固定影像每个轴向上的 BSpline 网格细分数量，网格以影像空间为中心。取值必须为 3 或更高，才能正确计算 BSpline。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
@@ -419,27 +419,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation>转换初始化设置</translation>
+        <translation>变换初始化设置</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation>用于初始化转换参数的选项。</translation>
+        <translation>用于初始化变换参数的选项。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation>初始化转换</translation>
+        <translation>初始化变换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation>初始化转换模式</translation>
+        <translation>初始化变换模式</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation>要应用于移动影像的变换以初始化配准。 仅当“初始化转换模式”为“关闭”时，才能使用此功能。</translation>
+        <translation>用于初始化配准的变换，将应用于移动影像。仅当“初始化变换模式”关闭时可使用此选项。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
@@ -610,22 +610,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>固定的影像二进制蒙版数据，如果蒙版选项是ROI，则需要。蒙版数据为零的影像区域在配准时将被忽略。</translation>
+        <translation>固定影像二值蒙版体数据，当蒙版选项为 ROI 时必填。蒙版体数据中值为零的影像区域在配准过程中将被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>移动影像的二进制蒙版数据，如果蒙版选项是ROI，则需要。蒙版数据为零的影像区域在配准时将被忽略。</translation>
+        <translation>移动影像的二值蒙版体数据，如果蒙版选项是ROI，则需要。蒙版体数据为零的影像区域在配准时将被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>从固定影像中自动计算出的ROI。只有当蒙版选项为ROIAUTO时才可用。蒙版数据为零的影像区域在配准过程中会被忽略。</translation>
+        <translation>自动从固定影像计算的 ROI。仅当蒙版选项为 ROIAUTO 时可用。蒙版体数据中值为零的影像区域在配准过程中将被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>从移动影像中自动计算出的ROI。只有在遮蔽选项为ROIAUTO时才可用。蒙版数据为零的影像区域在配准过程中会被忽略。</translation>
+        <translation>从移动影像中自动计算出的ROI。只有在蒙版选项为ROIAUTO时才可用。蒙版体数据为零的影像区域在配准过程中会被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
@@ -676,7 +676,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation>移动影像数据2</translation>
+        <translation>移动影像体数据2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
@@ -701,12 +701,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation>输入固定影像，将用于多模态配准。(移动影像将被转换到这个影像空间)。</translation>
+        <translation>输入用于多模态配准的固定影像。（移动影像将被变换到此影像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation>输入将用于多模态配准的移动影像（该影像将被转换到固定的影像空间）。</translation>
+        <translation>输入用于多模态配准的移动影像（该影像将被变换到固定影像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
@@ -838,7 +838,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation>转换比例</translation>
+        <translation>变换比例</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
@@ -894,7 +894,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation>B样条控制网格沿每个轴的影像物理坐标（mm）中允许的最大位移。 值 0.0表示问题应不受限制。 注意：这仅约束 B样条部分，并不限制关联批量转换的位移。 这可以大大减少B样条优化器中的计算时间。
+        <translation>BSpline 控制网格沿各轴在影像物理坐标（mm）中的最大允许位移。值为 0.0 表示该问题应为无界。注意：此限制仅作用于 BSpline 部分，不限制关联整体变换的位移。这可以显著减少 BSpline 优化器的计算时间。
       </translation>
     </message>
     <message>
@@ -950,27 +950,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation>剥离输出转换</translation>
+        <translation>剥离输出变换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation>转换类型</translation>
+        <translation>变换类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation>输出转换</translation>
+        <translation>输出变换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation>将扭曲的运动影像传递到B样条配准滤波器</translation>
+        <translation>将变形后的移动影像传递给 BSpline 配准滤波器</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation>以单精度写入输出配准转换</translation>
+        <translation>以单精度写入输出配准变换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
@@ -1000,7 +1000,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation>如果初始化转换模式设置为useCenterOfHeadAlign或蒙版选项为ROIAUTO，那么这个值定义了从影像的下半部分切去多少。切断距离的单位是毫米，相对于影像中心。如果该值为1000或更大，则不进行截断。</translation>
+        <translation>如果初始化变换模式设置为useCenterOfHeadAlign或蒙版选项为ROIAUTO，则该值定义了影像底部被裁剪的距离。裁剪距离以毫米为单位，基于影像中心计算。如果值为 1000 或更大，则不进行裁剪。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
@@ -1022,7 +1022,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation>估计仿生转换的刚性分量。可用于将移动影像刚性地配准到固定影像上。注意：如果设置了b样条转换或线性转换，这个值会被覆盖。</translation>
+        <translation>估计仿射变换的刚性部分。可用于将移动影像刚性配准到固定影像。注意：如果设置了 bsplineTransform 或 linearTransform，则该值会被覆盖。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
@@ -1032,17 +1032,17 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
         <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
-        <translation>(可选的）文件名，用于保存（可选的）估计转换。注意：你必须选择outputTransform或outputVolume选项。</translation>
+        <translation>（可选）保存（可选）估计变换的文件名。注意：您必须选择 outputTransform 或 outputVolume 选项之一。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation>如果这个标志是ON，当前的通用复合转换，即线性配准阶段的结果，将被设置为初始化后续的非线性配准过程。然而，在默认情况下，移动影像在被传递到B样条配准过滤器之前，会首先基于现有的转换进行扭曲。这样做是为了通过减少复合转换Jacobian的计算来加快B样条配准的速度。</translation>
+        <translation>如果此标志开启，则来自线性配准阶段的当前通用复合变换将用于初始化后续的非线性配准过程。然而，默认情况下，移动影像会先基于现有变换进行变形，然后再传递给 BSpline 配准滤波器。这样做是为了通过减少复合变换雅可比矩阵的计算，来加速 BSpline 配准。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation>默认情况下，输出的配准转换（无论是输出复合转换还是每个转换组件）都以双精度写入磁盘。如果这个标志为ON，输出转换将以单精度（浮点型）写入。如果输出转换是位移场转换，或者是包括几个位移场的复合转换，这一点就特别重要。</translation>
+        <translation>默认情况下，输出的配准变换（无论是输出的复合变换还是各个变换组件）均以双精度格式写入磁盘。如果此标志开启，输出变换将以单精度（float）格式写入。如果输出变换是位移场变换，或包含多个位移场的复合变换，则此设置尤为重要。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
@@ -1078,7 +1078,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
         <source>Write Transform On Failure</source>
-        <translation>失败时写入转换</translation>
+        <translation>失败时写入变换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
@@ -1108,7 +1108,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation>用于保存最终转换的标志，即使未达到收敛的迭代次数也是如此。（被设计用于当--failureExitCode 0时的情况）</translation>
+        <translation>用于保存最终变换的标志，即使未达到收敛的迭代次数也是如此。（被设计用于当 --failureExitCode 0 时的情况）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
@@ -1157,7 +1157,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation>它定义了配准过滤器用来对输入的固定影像进行采样的方法。目前只支持随机。</translation>
+        <translation>定义注册滤波器用于采样输入固定影像的方法。目前仅支持随机。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
@@ -1483,7 +1483,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation>转换文件</translation>
+        <translation>变换文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
@@ -1745,7 +1745,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation>读取一个影像，写出同一影像的旋转矩阵和一个ITK转换文件</translation>
+        <translation>读取一个影像，写出同一影像的旋转矩阵和一个 ITK 变换文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
@@ -1766,7 +1766,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation>转换文件</translation>
+        <translation>变换文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
@@ -1776,7 +1776,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
         <source>Filename for the transform file</source>
-        <translation>转换文件的文件名</translation>
+        <translation>变换文件的文件名</translation>
     </message>
 </context>
 <context>
@@ -1784,7 +1784,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation>转化转换（BRAINS）</translation>
+        <translation>变换转换（BRAINS）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
@@ -1811,7 +1811,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
         <source>Transform File Name To Convert</source>
-        <translation>转换的文件名</translation>
+        <translation>待转换的变换文件名</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
@@ -1826,12 +1826,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation>转换文件名以保存ConvertedTransform</translation>
+        <translation>用于保存转换后变换的文件名</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation>目标转换类型。必须与输入的转换类型兼容</translation>
+        <translation>目标变换类型。必须与输入变换类型兼容以进行转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
@@ -1886,16 +1886,16 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation>转换标量体数据</translation>
+        <translation>标量体数据转换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation>将一个体数据转换为一个给定的体数据类型。
-当把一个输入体数据转换成一个较低精度的类型时，请自行承担使用风险
-允许转换到与输入体数据相同的类型。</translation>
+        <translation>将体数据转换为指定的数据类型。
+将输入体数据转换为较低精度类型时请谨慎使用！
+允许转换为与输入体数据相同的类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
@@ -2597,22 +2597,22 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>窗口中心（0028,1050）。指定从存储的像素值（在应用了重缩放斜率和交互感知后）到要显示的值的线性转换。窗口中心包含作为窗口中心的输入值。如果窗口中心或宽度没有定义，那么窗口将被设置为影像的全部强度范围。</translation>
+        <translation>窗位（0028,1050）。指定从存储的像素值（经过重缩放斜率和截距应用后）到显示值的线性转换。窗位包含作为窗位中心的输入值。如果窗位或窗宽未定义，则窗宽设置为图像的全强度范围。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>窗口宽度（0028,1051）。指定从存储的像素值（在应用了重缩放斜率和交互感知后）到要显示的值的线性转换。窗口宽度包含窗口的宽度。如果窗口中心或宽度未被定义，那么窗口将被设置为影像的全部强度范围。</translation>
+        <translation>窗宽（0028,1051）。指定从存储的像素值（经过重缩放斜率和截距应用后）到显示值的线性转换。窗宽包含窗的宽度。如果窗位或窗宽未定义，则窗宽设置为图像的全强度范围。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation>重新缩放截距（0028,1052）。将磁盘上的像素值转换为内存中的像素值。(内存中的像素值）=（磁盘上的像素值）* rescaleSlope + rescaleIntercept。  默认为0.0。数据值在写入时被转换（数据被缩放和移位，以便斜率和截距能使它回到当前的强度范围）。</translation>
+        <translation>重缩放截距（0028,1052）。将磁盘上的像素值转换为内存中的像素值。（内存中的像素值）=（磁盘上的像素值）* rescaleSlope + rescaleIntercept。默认值为0.0。数据值在写入时转换（数据被缩放和平移，使得斜率和截距能够将其恢复到当前强度范围）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation>重新缩放斜率(0028,1053)。将磁盘上的像素值转换为内存中的像素值。(内存中的像素值）=（磁盘上的像素值）* rescaleSlope + rescaleInterscept。  默认为1.0。数据值在写入时被转换（数据被缩放和移位，以便斜率和截距能使它回到当前的强度范围）。</translation>
+        <translation>重缩放斜率（0028,1053）。将磁盘上的像素值转换为内存中的像素值。（内存中的像素值）=（磁盘上的像素值）× rescaleSlope + rescaleIntercept。默认值为1.0。数据值在写入时转换（数据被缩放和平移，使得斜率和截距能够将其恢复到当前强度范围）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
@@ -2783,7 +2783,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation>在DICOM序列中转换弥散加权的MRI到NRRD格式以在Slicer中分析。</translation>
+        <translation>将DICOM序列中的扩散加权MR图像转换为NRRD格式，以供Slicer中分析。该程序仅在西门子、通用电气和飞利浦扫描仪的有限子集DTI DICOM格式上进行了测试。正在开发支持DICOM多帧数据的功能。程序解析DICOM头信息以提取测量框架、扩散加权方向、b值等必要信息，并导出NRRD图像。对于非扩散加权的DICOM图像，程序加载整个DICOM序列并导出单个DICOM体积，格式为.nhdr/.raw配对。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
@@ -3831,7 +3831,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation>固定影像中标志的有序列表</translation>
+        <translation>固定影像中的有序标志点列表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
@@ -4631,7 +4631,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation>遮蔽两个影像。输出的影像在任何地方都被设置为0，除了从蒙版数据中选择的标签存在的地方，在这一点上，它将保留其原始值。这两幅影像不一定要有相同的尺寸。</translation>
+        <translation>对两个影像进行蒙版处理。输出影像在蒙版体数据中所选标签存在的位置保留原始值，其他位置全部设为0。两个影像的尺寸无需相同。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
@@ -5920,7 +5920,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation>输入变换，用于在度量比较之前对移动影像进行扭曲。</translation>
+        <translation>在度量比较之前用于变形移动影像的输入变换。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
@@ -6342,7 +6342,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation>在将变换从输出影像应用到输入影像之前反转变换（仅适用于刚性和仿射变换）</translation>
+        <translation>在将变换应用于输出影像到输入影像时，反转该变换（仅适用于刚性变换和仿射变换）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
@@ -10464,7 +10464,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="69"/>
         <source>Apply hollow effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation>将空心效果应用于此分段节点中的所有可见分割。此操作可能需要一段时间。</translation>
+        <translation>对该分割节点中所有可见分割应用中空效果。此操作可能需要一段时间。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
@@ -17229,7 +17229,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1443"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation>分支中的一些节点已经被转换</translation>
+        <translation>该分支中的部分节点已被变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1444"/>
@@ -17963,7 +17963,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1240"/>
         <source>Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation>通过操纵3D小部件(左键单击并拖动小部件表面的任意位置) 启用转换</translation>
+        <translation>启用通过操作 3D 控件进行平移（左键单击并拖动控件面上的任意位置）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1270"/>
@@ -20747,7 +20747,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="144"/>
         <source>Temporarily harden any transforms for export</source>
-        <translation>暂时强化任何转换以进行导出</translation>
+        <translation>导出时临时固定所有变换</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
@@ -24981,7 +24981,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation>自动设定分割的不透明性，基于该分割的不透明性，因此没有任何分割会遮蔽另一个分割</translation>
+        <translation>根据包含关系自动设置各分割的不透明度，确保没有分割遮挡其他分割</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
@@ -27620,7 +27620,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="97"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation>选择体积作为配准的移动影像。第二个体积可在第一个体积设置后从上下文菜单中选择。</translation>
+        <translation>选择体数据作为配准的移动影像。第一个体数据设置后，第二个体数据可从上下文菜单中选择。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="102"/>
