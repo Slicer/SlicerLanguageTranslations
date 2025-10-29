@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation>添加标量体积</translation>
+        <translation>添加标量体数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
@@ -8326,7 +8326,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="37"/>
         <source>Scalar Volume</source>
-        <translation>标量体积</translation>
+        <translation>标量体数据</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
@@ -8412,7 +8412,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="649"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation>从标量体积创建一序列DICOM文件</translation>
+        <translation>从标量体数据创建一序列DICOM文件</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="677"/>
@@ -8447,7 +8447,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="778"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation>从标量体积创建DICOM文件失败。请查看应用程序日志以获取详细信息。</translation>
+        <translation>从标量体数据创建DICOM文件失败。请查看应用程序日志以获取详细信息。</translation>
     </message>
 </context>
 <context>
