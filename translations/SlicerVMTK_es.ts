@@ -617,7 +617,7 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="486"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar el algoritmo.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="489"/>
@@ -632,7 +632,9 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo describe secciones transversales a lo largo de un modelo de línea central VMTK, una curva de marcas de línea central VMTK o una curva de marcas arbitrarias. La documentación está disponible &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;aquí&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="42"/>
@@ -929,17 +931,17 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="323"/>
         <source>Toggle between the plot layout and the previous one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar entre el diseño de la trama y el anterior.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="341"/>
         <source>Tools / Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramientas / Opciones</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="381"/>
         <source>Manage connected regions of the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrar regiones conectadas de la superficie del lumen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="384"/>
