@@ -643,23 +643,23 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="667"/>
         <source>3D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="679"/>
         <source>Scribbles:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scribbles:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="555"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="728"/>
         <source>ROI:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ROI:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="755"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramientas</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="776"/>
@@ -979,13 +979,13 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="687"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="638"/>
         <source>Editor: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editor: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="688"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="645"/>
         <source>Editing Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de Edición:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="689"/>
