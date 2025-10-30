@@ -682,24 +682,24 @@ debido a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="519"/>
         <source>Remove from database</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar de la base de datos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="150"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización del Esquema DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="150"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="192"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="155"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="197"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicialización...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="192"/>
@@ -997,12 +997,12 @@ Do you want to remove the series from the DICOM database?</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1254"/>
         <source>View DICOM metadata of %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver metadatos DICOM de %1 estudios seleccionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1262"/>
         <source>Delete %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimir %1 estudios seleccionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1270"/>
