@@ -939,18 +939,18 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLGridTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLGridTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="57"/>
         <source>vtkMRMLCollectPointsNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLCollectPointsNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="68"/>
