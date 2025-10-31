@@ -6342,7 +6342,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation>在将变换应用于输出影像到输入影像时，反转该变换（仅适用于刚性变换和仿射变换）</translation>
+        <translation>在将变换应用于输出影像到输入影像时反转该变换（仅适用于刚性变换和仿射变换）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
