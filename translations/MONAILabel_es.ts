@@ -733,7 +733,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="131"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="820"/>
         <source>approved</source>
-        <translation type="unfinished"></translation>
+        <translation>aprobado</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="630"/>
@@ -741,13 +741,13 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="138"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="802"/>
         <source>flagged</source>
-        <translation type="unfinished"></translation>
+        <translation>marcado</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="634"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="105"/>
         <source>Annotator/Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotador/Revisor</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="636"/>
@@ -1026,12 +1026,12 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="383"/>
         <source>Server Url</source>
-        <translation type="unfinished"></translation>
+        <translation>Url del Servidor</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="400"/>
         <source>Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisor</translation>
     </message>
 </context>
 <context>
