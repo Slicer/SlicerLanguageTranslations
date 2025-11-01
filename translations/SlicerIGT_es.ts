@@ -712,17 +712,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="387"/>
         <source>Adjust Along Camera Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste a Lo Largo De La Cámara Z</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="390"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the z axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se revisa, ajustar la cámara para que se alinee con el modelo de destino a lo largo del eje z.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="394"/>
         <source>Update rate (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Tasa de actualización (segundos): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="401"/>
@@ -986,12 +986,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLMarkupsCurveNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="116"/>
         <source>Change the color of the output node</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar el color del nodo de salida</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="128"/>
