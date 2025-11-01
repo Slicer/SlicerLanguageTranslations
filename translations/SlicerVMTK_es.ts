@@ -975,17 +975,21 @@ The input centerline is expected to be inside the lumen surface.</source>
 This is available if the lumen surface is a segmentation.
 
 The &apos;Sphere&apos; brush is enforced. Further customisation can be performed in the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar el efecto &apos;Paint&apos; del &apos;Editor de segmentos&apos;.
+
+Esto está disponible si la superficie del lumen es una segmentación.
+
+Se aplica el pincel &apos;Esfera&apos;. Se puede realizar una personalización adicional en el &apos;Editor de segmentos&apos;.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="468"/>
         <source>paint</source>
-        <translation type="unfinished"></translation>
+        <translation>pintura</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="493"/>
         <source>Specify how to output point coordinates of the centerline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especificar cómo generar las coordenadas de los puntos de la línea central.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="496"/>
