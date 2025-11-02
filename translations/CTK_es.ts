@@ -824,22 +824,22 @@ debido a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="241"/>
         <source>Query and retrieve studies from a DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultar y recuperar estudios desde un servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="249"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="252"/>
         <source>Send selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar series seleccionadas al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
@@ -1123,17 +1123,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="32"/>
         <source>Add Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar Directorio</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="39"/>
         <source>Remove Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar Directorio</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMDirectoryListWidget.cpp" line="77"/>
