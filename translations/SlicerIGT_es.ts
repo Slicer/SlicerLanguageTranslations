@@ -762,7 +762,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="438"/>
         <source>The camera will continuously update its position so that it follows the model.</source>
-        <translation type="unfinished"></translation>
+        <translation>La cámara actualizará continuamente su posición para que siga el modelo.</translation>
     </message>
 </context>
 <context>
@@ -795,7 +795,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de Superficie</translation>
     </message>
 </context>
 <context>
@@ -1036,17 +1036,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="184"/>
         <source>Markups will have labels that begin with this text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las marcas tendrán etiquetas que comiencen con este texto.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="187"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="194"/>
         <source>Specify a minimum distance before a new point is automatically collected (Auto-Collect mode only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique una distancia mínima antes de que se recopile automáticamente un nuevo punto (solo en el modo de recopilación automática)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="204"/>
