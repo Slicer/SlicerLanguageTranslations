@@ -1029,17 +1029,17 @@ Se aplica el pincel &apos;Esfera&apos;. Se puede realizar una personalización a
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="52"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un parámetros agrupa al conjunto de parámetros que definen claramente un estudio con nombre.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="97"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización el segmento de editor y la división de opiniones con la entrada de la segmentación y el volumen si los hubiere.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="100"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">↺</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="392"/>
@@ -1050,7 +1050,13 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again. A &apos;fast fix&apos; function is also provided.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtener el número de regiones conectadas distintas en la superficie del lumen.
+
+Idealmente, debería haber solo una región. Más regiones pueden indicar la presencia de orificios en la luz y/o regiones distintas fuera de la luz. Los agujeros en la luz significan una medición inexacta del área de la sección transversal.
+
+Cuando se han corregido regiones no deseadas, normalmente utilizando el efecto &apos;Pintar&apos; del &apos;Editor de segmentos&apos;, esta función puede ejecutarse nuevamente. También se proporciona una función de &apos;solución rápida&apos;.
+
+Después de una reparación completa de la superficie del lumen, las líneas centrales deben extraerse nuevamente para que se actualicen las matrices de radio de la &apos;esfera inscrita máxima&apos;.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="478"/>
