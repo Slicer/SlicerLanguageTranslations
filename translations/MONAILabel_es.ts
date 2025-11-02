@@ -795,7 +795,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="648"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="271"/>
         <source>found</source>
-        <translation type="unfinished"></translation>
+        <translation>encontrado</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="650"/>
@@ -803,19 +803,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="284"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="813"/>
         <source>segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>segmentado</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="651"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="295"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="652"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="307"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="655"/>
