@@ -810,17 +810,17 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1639"/>
         <source>Cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Sección transversal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1726"/>
         <source>Maximum inscribed sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Esfera inscrita máxima</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1760"/>
         <source>empty sections have been detected; consider improving the input lumen {nameOfSurface}.</source>
-        <translation type="unfinished"></translation>
+        <translation>se han detectado secciones vacías; considere mejorar el lumen de entrada {nameOfSurface}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1659"/>
