@@ -833,12 +833,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de la descripción del comando (en RAS): </translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
@@ -1089,17 +1089,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="97"/>
         <source>Delete options</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar opciones</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="521"/>
         <source>Auto-Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>Recopilación automática</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="527"/>
         <source>Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>Recoger</translation>
     </message>
 </context>
 <context>
@@ -1107,7 +1107,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="33"/>
