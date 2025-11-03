@@ -879,12 +879,12 @@ debido a:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="369"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique si los archivos deben copiarse en el directorio de la base de datos local o si ¿solo deben crearse enlaces?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="371"/>
         <source>Import Directory Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo Importar Directorio:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="387"/>
@@ -1182,27 +1182,27 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="14"/>
         <source>DICOM Hosts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM Hosts</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="56"/>
         <source>Show extended controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar controles extendidos</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="83"/>
         <source>Configure Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar la Aplicación Alojada</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="93"/>
         <source>Send Data to Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar Datos a la Aplicación Alojada</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="100"/>
         <source>nothing selected</source>
-        <translation type="unfinished"></translation>
+        <translation>nada seleccionado</translation>
     </message>
 </context>
 <context>
