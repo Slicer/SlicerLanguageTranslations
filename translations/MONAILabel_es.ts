@@ -859,19 +859,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="665"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="428"/>
         <source>Level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel de dificultad</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="666"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="440"/>
         <source>Easy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fácil</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="667"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="450"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="668"/>
