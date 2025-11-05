@@ -8,7 +8,8 @@
         <source>Click on Add Data in the Welcome
 to Slicer module</source>
         <extracomment>1_0_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>คลิกเพิ่มข้อมูลในหน้ายินดีต้อนรับ
+เพื่อไปที่โมดูล Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
