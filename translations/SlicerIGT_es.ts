@@ -883,17 +883,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
         <source>Breach warning distance (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia de advertencia de incumplimiento (mm):</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="103"/>
         <source>This module can alert the user by color change and sound signal if a tool enters a restricted area. The restricted area is defined by a surface model, the tool position is defined by a linear transform. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo puede alertar al usuario mediante un cambio de color y una señal de sonido si una herramienta ingresa a un área restringida. El área restringida está definida por un modelo de superficie, la posición de la herramienta está definida por una transformación lineal. Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="111"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo fue financiado por Cancer Care Ontario y el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterápica (OCAIRO)</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
@@ -1163,22 +1163,22 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="165"/>
         <source>Coordinate system model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de sistema de coordenadas</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="177"/>
         <source>Create coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear sistema de coordenadas</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="184"/>
         <source>Axis length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud del eje: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="191"/>
         <source>Thickness: </source>
-        <translation type="unfinished"></translation>
+        <translation>Espesor: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="239"/>
