@@ -883,7 +883,8 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="182"/>
         <source>Input segmentation or model node, required for computing cross-sectional area.
 The input centerline is expected to be inside the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de entrada o nodo de modelo, requerido para calcular el área de la sección transversal.
+Se espera que la línea central de entrada esté dentro de la superficie del lumen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="214"/>
@@ -1161,23 +1162,23 @@ Después de una reparación completa de la superficie del lumen, las líneas cen
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="762"/>
         <source>Rotate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="769"/>
         <source>Longitudinal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Longitudinal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="772"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="840"/>
         <source>Long.:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Long.:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="781"/>
         <source>Spin / Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar / Dar la vuelta</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="875"/>
