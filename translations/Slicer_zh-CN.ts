@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation>对两幅图像进行相加。虽然支持所有类型的输入图像，但输出仅生成有符号类型。两幅图像的尺寸无需相同。</translation>
+        <translation>将两幅影像相加。虽然支持所有类型的输入图像，但仅生成有符号类型。两幅影像的尺寸无需相同。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
