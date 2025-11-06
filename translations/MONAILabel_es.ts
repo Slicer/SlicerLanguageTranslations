@@ -913,19 +913,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="674"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="534"/>
         <source>Version of labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión de las etiquetas</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="675"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="549"/>
         <source>Start label edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar edición de etiquetas</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="678"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="564"/>
         <source>Overwrite this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescribir esta versión</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="679"/>
