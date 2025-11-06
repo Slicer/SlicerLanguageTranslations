@@ -18620,7 +18620,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
         <source>Set a parent transform to the volume that center it on the origin. Harden the transform to permanently change the volume position.</source>
-        <translation>将父变换设置为以原点为中心的数据，固定变换以永久更改数据位置。</translation>
+        <translation>为体数据设置父变换，使其中心位于原点。固化变换以永久改变体数据位置。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="160"/>
@@ -20532,7 +20532,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="209"/>
         <source>Harden transform</source>
-        <translation>固定变换</translation>
+        <translation>固化变换</translation>
     </message>
 </context>
 <context>
@@ -28131,7 +28131,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="248"/>
         <source>Harden transform</source>
-        <translation>固定变换</translation>
+        <translation>固化变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="250"/>
@@ -29229,7 +29229,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="481"/>
         <source>Harden transform</source>
-        <translation>固定变换</translation>
+        <translation>固化变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="499"/>
