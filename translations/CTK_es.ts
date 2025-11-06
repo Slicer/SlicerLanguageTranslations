@@ -933,17 +933,21 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Los archivos de las siguientes series no están disponibles en el disco: 
+Nombre del paciente: %1
+Descripción del estudio: %2
+Descripción de la serie: %3
+¿Desea eliminar la serie de la base de datos DICOM?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
         <source>Do you want to delete the following selected items?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea eliminar los siguientes elementos seleccionados?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1113"/>
         <source>(and %1 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>(y %1 más)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1145"/>
@@ -1259,17 +1263,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="871"/>
         <source>Feet First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pies Primero-Decúbito Derecho</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="872"/>
         <source>Feet First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>Pies Primero-Boca Abajo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="873"/>
         <source>Head First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabeza Primero-Supino</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="874"/>
