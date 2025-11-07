@@ -961,13 +961,13 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="684"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="617"/>
         <source>Annotation Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de Anotación:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="685"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="624"/>
         <source>Difficulty Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel de Dificultad:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="686"/>
