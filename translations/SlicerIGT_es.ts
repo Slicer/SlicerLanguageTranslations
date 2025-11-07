@@ -927,13 +927,13 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLBSplineTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLBSplineTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
@@ -1218,22 +1218,22 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="377"/>
         <source>Height: </source>
-        <translation type="unfinished"></translation>
+        <translation>Altura: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="413"/>
         <source>Sphere model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de esfera</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="425"/>
         <source>Create sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear esfera</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="454"/>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio:</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="68"/>
