@@ -917,17 +917,17 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="280"/>
         <source>Output plot series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serie de gráficos de salida:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="289"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija la serie de gráficos de salida para el algoritmo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="310"/>
         <source>Select the plot&apos;s Y axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el eje Y de la gráfica</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="323"/>
@@ -1222,17 +1222,17 @@ Concerns orthogonal reformat in axial navigation.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="938"/>
         <source>Set the current point as origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer el punto actual como origen</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="941"/>
         <source>set</source>
-        <translation type="unfinished"></translation>
+        <translation>conjunto</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="951"/>
         <source>Go to origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al punto de origen</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="451"/>
