@@ -984,19 +984,19 @@ Descripción de la serie: %3
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1196"/>
         <source>Export %1 selected patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1 pacientes seleccionados al sistema de archivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1201"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1275"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1353"/>
         <source>Send to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1204"/>
         <source>Send %1 selected patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 pacientes seleccionados al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1254"/>
@@ -1318,17 +1318,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Otros</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
         <source>Biomagnetic imaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágenes biomagnéticas</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppler de flujo de color</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
