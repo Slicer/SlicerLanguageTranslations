@@ -1031,12 +1031,12 @@ Descripción de la serie: %3
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1348"/>
         <source>Export %1 selected series to file system</source>
-        <translation>Exportar %1 serie seleccionada al sistema de archivos</translation>
+        <translation type="unfinished">Exportar %1 serie seleccionada al sistema de archivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1356"/>
         <source>Send %1 selected series to DICOM server</source>
-        <translation>Enviar %1 series seleccionadas al servidor DICOM</translation>
+        <translation type="unfinished">Enviar %1 series seleccionadas al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1440"/>
