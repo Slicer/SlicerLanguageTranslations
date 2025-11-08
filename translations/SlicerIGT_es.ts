@@ -971,17 +971,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="96"/>
         <source>Store points in either a markups or a model node</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacene puntos en un nodo de marcas o de modelo</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
@@ -1271,22 +1271,22 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
         <source>From fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>De fiduciarios</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="65"/>
         <source>To fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>A los fiduciarios</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="77"/>
         <source>Place fiducials by using position component of transforms. Parent transforms are applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloque fiduciales utilizando el componente de posición de las transformaciones. Se aplican transformaciones primarias.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="80"/>
         <source>Place fiducials using transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Colocar fiduciales usando transformaciones</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="95"/>
