@@ -1026,17 +1026,17 @@ Descripción de la serie: %3
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1340"/>
         <source>Delete %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimir %1 series seleccionadas</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1348"/>
         <source>Export %1 selected series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1 serie seleccionada al sistema de archivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1356"/>
         <source>Send %1 selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 series seleccionadas al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1440"/>
@@ -1368,17 +1368,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>X-Ray Aniography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">X-Ray Aniography</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiofluoroscopia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de Radioterapia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
