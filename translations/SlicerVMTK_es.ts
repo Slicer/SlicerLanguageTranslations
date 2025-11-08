@@ -967,7 +967,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="448"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se activa, la región seleccionada se centra en todas las vistas de sectores, excepto en el caso ideal en el que hay una sola región.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="461"/>
@@ -1278,17 +1278,17 @@ Concerns orthogonal reformat in axial navigation.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1308"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1346"/>
         <source>max</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">max</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1040"/>
         <source>Show the maximum inscribed sphere diameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestre el diámetro máximo de la esfera inscrita.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="998"/>
         <source>Diameter (MIS):</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro (MIS):</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1064"/>
