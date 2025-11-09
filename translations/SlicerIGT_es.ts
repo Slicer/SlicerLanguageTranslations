@@ -1016,22 +1016,22 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="156"/>
         <source>Label Base:</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de la Etiqueta:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="163"/>
         <source>Markups will be numbered according to the current counter (incremented automatically)</source>
-        <translation type="unfinished"></translation>
+        <translation>Los márgenes se numerarán de acuerdo con el contador actual (se incrementarán automáticamente)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="170"/>
         <source>Minimum Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia Mínima:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="177"/>
         <source>Next Label Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente Número de Etiqueta:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="184"/>
@@ -1323,37 +1323,37 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="205"/>
         <source>Result transform type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de transformación de resultado:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="218"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Rígido</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="234"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Similitud</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="247"/>
         <source>Warping</source>
-        <translation type="unfinished"></translation>
+        <translation>Deformación</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="258"/>
         <source>Point Matching Method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de Coincidencia de Puntos:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="270"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Calcular la transformación de salida a partir de fiduciales. Clic en la casilla de verificación para actualización automática.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="286"/>
