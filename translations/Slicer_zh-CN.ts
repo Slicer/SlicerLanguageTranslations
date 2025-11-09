@@ -1360,7 +1360,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
         <translation>
-    这个程序收集了三种常见的影像处理任务，它们都涉及到对影像数据的重新取样。重新取样到一个新的分辨率和间距，应用变换（使用ITK变换IO机制）和扭曲（使用矢量影像变形场）。
+    本程序整合了三种常见的图像处理任务，这些任务均涉及对图像体数据的重采样：重采样至新的分辨率和间距，应用变换（使用 ITK 变换 IO 机制），以及扭曲（使用矢量影像变形场）。
   </translation>
     </message>
     <message>
@@ -1999,7 +1999,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
         <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
-        <translation>创建一个由两个体数据组成的棋盘式数据。输出体数据将显示两个输入根据用户提供的棋盘格图案交替出现。这个过滤器经常被用来比较影像配准的结果。请注意，第二个输入在与第一个输入组成之前被重新取样到相同的原点、间距和方向。输出体数据的标量类型将与输入影像的标量类型相同。</translation>
+        <translation>创建两个体数据的棋盘格体数据。输出体数据将根据用户提供的 checkerPattern 交替显示两个输入。该滤波器常用于比较影像配准的结果。注意，第二个输入在与第一个输入合成之前会重采样到相同的起点、间距和方向。输出体数据的标量类型与输入影像的标量类型相同。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
@@ -6043,7 +6043,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="5"/>
         <source>Resample DTI Volume</source>
-        <translation>重新取样DTI数据</translation>
+        <translation>重采样 DTI 数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
@@ -6563,7 +6563,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation>重新取样标量/矢量/DWI数据</translation>
+        <translation>重采样标量/矢量/DWI数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
@@ -7026,7 +7026,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation>对影像重新取样是影像分析中的一项重要任务。它在影像配准的框架中尤其重要。本模块通过使用itk变换来实现影像重采样。本模块使用一个身份变换。重采样是由输出间隔控制的。&quot;重采样 &quot;是在空间坐标中进行的，而不是在像素/网格坐标中。确保在所涉及的影像上正确设置影像间距是相当重要的。内插器是必需的，因为从一个空间到另一个空间的映射往往需要在非网格位置评估影像的强度。有几种插值器可用：线性、近邻、bspline和五种sinc。sinc插值器虽然更精确，但比线性和近邻插值器慢得多。要对标签量进行重新取样，应专门使用近邻插值。</translation>
+        <translation>影像重采样是影像分析中的一项重要任务，尤其在影像配准过程中尤为关键。本模块通过使用 itk 变换实现影像重采样。模块默认使用恒等变换。重采样由输出间距（Output Spacing）控制。“重采样”是在空间坐标下进行的，而非像素/网格坐标。确保参与处理影像的间距设置正确非常重要。由于空间映射往往需要在非网格位置上评估影像强度，插值器是必需的。模块提供多种插值器：线性、最近邻、bspline 以及五种不同类型的 sinc 插值器。sinc 插值器虽更精确，但速度远慢于线性和最近邻插值器。对标签体数据进行重采样时，应专用最近邻插值。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -13255,7 +13255,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="333"/>
         <source>Resamples the active curve with the number of points specified.</source>
-        <translation>以指定的点数对活动曲线重新取样。</translation>
+        <translation>按照指定的点数对激活曲线进行重采样。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
@@ -20251,7 +20251,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation>将DICOM文件导出到此文件夹，而不是应用程序的DICOM数据库。</translation>
+        <translation>已将 DICOM 文件导出到此文件夹，而非应用程序的 DICOM 数据库。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
@@ -27264,7 +27264,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="124"/>
         <source>Export to DICOM...</source>
-        <translation>导出到 DICOM...</translation>
+        <translation>导出到DICOM...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="509"/>
@@ -27615,7 +27615,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="96"/>
         <source>Register this...</source>
-        <translation>注册此项...</translation>
+        <translation>配准此项...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="97"/>
@@ -27645,7 +27645,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="120"/>
         <source>Cancel registration (or right-click another volume to start registration)</source>
-        <translation>取消配准（或右键点击其他体积以开始配准）</translation>
+        <translation>取消配准（或右键点击另一个体积以开始配准）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="121"/>
@@ -27655,7 +27655,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="219"/>
         <source>Register %1 to this using...</source>
-        <translation>将 %1 注册到此处，使用...</translation>
+        <translation>将 %1 配准到此处，使用...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="262"/>
