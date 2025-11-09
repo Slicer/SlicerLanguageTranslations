@@ -1015,17 +1015,17 @@ Se aplica el pincel &apos;Esfera&apos;. Se puede realizar una personalización a
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="547"/>
         <source>Split coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordenadas divididas:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="554"/>
         <source>Split coordinate system values into three separate table columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Divida los valores del sistema de coordenadas en tres columnas de tabla separadas.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="516"/>
         <source>Right-Anterior-Superior coordinate system. Used in the Slicer scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de coordenadas Derecha-Anterior-Superior. Utilizado en la escena de la cortadora.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="52"/>
@@ -1328,7 +1328,7 @@ Concerns orthogonal reformat in axial navigation.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1142"/>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientación:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1125"/>
@@ -1337,32 +1337,36 @@ Concerns orthogonal reformat in axial navigation.</source>
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro circular equivalente (CE): el de un círculo que tiene el área superficial de la sección transversal.
+
+También se proporcionan la diferencia absoluta y porcentual con el diámetro máximo inscrito de la esfera (MIS).
+
+Precaución: los valores en las bifurcaciones pueden no tener significado clínico.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1167"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro circular equivalente, derivado del área de superficie.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1230"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1190"/>
         <source>Lumen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1243"/>
         <source>Wall:</source>
-        <translation type="unfinished"></translation>
+        <translation>Muro:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1206"/>
         <source>Stenosis:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estenosis:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
