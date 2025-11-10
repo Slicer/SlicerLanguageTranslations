@@ -1066,22 +1066,22 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="255"/>
         <source>Delete all points from the node</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar todos los puntos del nodo</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="73"/>
         <source>Record motion trajectory of a tracked tool into markups fiducial list, markups curve, or model node. For more information, visit &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&quot;&gt;SlicerIGT project website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrar la trayectoria de movimiento de una herramienta rastreada en la lista fiducial de marcas, la curva de marcas o el nodo del modelo. Para más información, ver &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&quot;&gt;Sitio web del proyecto SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="80"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo fue financiado por Cancer Care Ontario y el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterápica (OCAIRO)</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.h" line="44"/>
         <source>Collect Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Acumula Puntos</translation>
     </message>
 </context>
 <context>
@@ -1397,17 +1397,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="211"/>
         <source>EXPERIMENTAL. Point pairing between the two lists will be computed automatically. This feature is intended only for rigid and similarity transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>EXPERIMENTAL. El emparejamiento de puntos entre las dos listas se calculará automáticamente. Esta característica está pensada solo para transformaciones rígidas y de similitud.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="214"/>
         <source>Update options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de actualización</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="359"/>
         <source>No Fiducial Registration Wizard module node selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha seleccionado ningún nodo del módulo Asistente de registro Fiduciario.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="405"/>
