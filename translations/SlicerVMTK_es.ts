@@ -1077,17 +1077,17 @@ Después de una reparación completa de la superficie del lumen, las líneas cen
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="529"/>
         <source>Left-Posterior-Superior coordinate system. Used commonly in files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de coordenadas Izquierda-Posterior-Superior. Se usa comúnmente en archivos.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="532"/>
         <source>LPS (DICOM convention)</source>
-        <translation type="unfinished"></translation>
+        <translation>LPS (convención DICOM)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="595"/>
         <source>Browse cross-sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Examinar secciones transversales</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="612"/>
@@ -1418,17 +1418,17 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="137"/>
         <source>Big</source>
-        <translation type="unfinished"></translation>
+        <translation>Grande</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="138"/>
         <source>Huge</source>
-        <translation type="unfinished"></translation>
+        <translation>Enorme</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="236"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al calcular los resultados.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="357"/>
