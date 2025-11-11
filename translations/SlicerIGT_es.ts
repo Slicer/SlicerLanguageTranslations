@@ -1112,12 +1112,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="33"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear modelos</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="39"/>
         <source>Needle model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de aguja</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="67"/>
@@ -1132,17 +1132,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="393"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="444"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>longitud</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="99"/>
         <source>Tip radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio de la punta:</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="106"/>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="113"/>
@@ -1453,7 +1453,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
         <source>Landmark Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Detección de Hitos</translation>
     </message>
 </context>
 <context>
@@ -1461,17 +1461,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="22"/>
         <source>Parameter node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de parámetro:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="29"/>
         <source>vtkMRMLLandmarkDetectionNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLLandmarkDetectionNode</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="46"/>
