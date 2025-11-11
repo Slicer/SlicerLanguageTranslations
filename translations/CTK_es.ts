@@ -1214,12 +1214,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="14"/>
         <source>Import DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="29"/>
         <source>Copy to library</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copiar a la biblioteca</translation>
     </message>
 </context>
 <context>
@@ -1229,12 +1229,12 @@ Halting export.</source>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="222"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="249"/>
         <source>Parsing DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation>Análisis de archivos DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="131"/>
         <source>Updating database displayed fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización de los campos mostrados en la base de datos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="152"/>
@@ -1538,17 +1538,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="946"/>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="949"/>
         <source>Digital Subtraction Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografía por Sustracción Digital</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="950"/>
         <source>Cinefluorography</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinefluorografía</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="951"/>
