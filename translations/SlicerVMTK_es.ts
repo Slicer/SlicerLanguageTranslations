@@ -1140,7 +1140,7 @@ Después de una reparación completa de la superficie del lumen, las líneas cen
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="815"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="850"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Gire la vista de corte alrededor de su eje Z para restaurar la orientación anatómica</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="728"/>
@@ -1470,19 +1470,19 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="581"/>
         <source>Skipping empty section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitiendo la sección vacía.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="592"/>
         <source>Skipping empty closest section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitiendo la sección vacía más cercana.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="608"/>
         <location filename="EditCenterline/EditCenterline.py" line="628"/>
         <location filename="EditCenterline/EditCenterline.py" line="674"/>
         <source>Tube is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tubo es Ninguno.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="610"/>
