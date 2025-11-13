@@ -1283,17 +1283,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="875"/>
         <source>Feet First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pies Primero - De cúbito Izquierdo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="876"/>
         <source>Feet First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Pies Primero-Supino</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="897"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografía computada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="898"/>
@@ -1588,22 +1588,22 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="958"/>
         <source>Culposcopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Culposcopia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="959"/>
         <source>Digital microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscopía digital</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="960"/>
         <source>Fundoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundoscopia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="961"/>
         <source>Magnetic resonance angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografía por resonancia magnética</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="962"/>
