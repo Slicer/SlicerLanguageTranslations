@@ -1333,17 +1333,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
         <source>Duplex Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doppler dúplex</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Endoscopia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Escaneo de superficie con láser</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
@@ -1651,17 +1651,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="83"/>
         <source>Retry selected canceled or failed jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>Reintentar los trabajos cancelados o fallidos seleccionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="86"/>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="97"/>
         <source>Stop selected in-progress jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener trabajos seleccionados en curso</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="100"/>
