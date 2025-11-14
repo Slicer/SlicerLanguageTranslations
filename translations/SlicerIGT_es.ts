@@ -1238,17 +1238,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="68"/>
         <source>Module for creating simple shapes, such as sphere, cylinder, prism, needle, and coordinate system axes.For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo para crear formas simples, como ejes de esfera, cilindro, prisma, aguja y sistema de coordenadas.Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;el sitio web SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo fue financiado por Cancer Care Ontario y el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterápica (OCAIRO)</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
         <source>Create Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear Modelos</translation>
     </message>
 </context>
 <context>
@@ -1566,12 +1566,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta con el apoyo de subvenciones 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
         <source>Path Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorador de Rutas</translation>
     </message>
 </context>
 <context>
@@ -1579,12 +1579,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="25"/>
         <source>Paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>Trayectorias:</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="32"/>
