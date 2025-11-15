@@ -1295,22 +1295,22 @@ Concerns orthogonal reformat in axial navigation.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1064"/>
         <source>Area of the cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de la sección transversal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1077"/>
         <source>Jump to the smallest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar al punto de área de sección transversal más pequeño.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1090"/>
         <source>Jump to the largest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte al punto de área de sección transversal más grande.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1103"/>
         <source>Show cross-section at current point. Requires input lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar la sección transversal en el punto actual. Requiere superficie de lumen de entrada.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1055"/>
@@ -1659,17 +1659,17 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="366"/>
         <source>Select an edited centerline curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione una curva de línea central editada.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="377"/>
         <source>EditedCurve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva editada</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="396"/>
         <source>Update the edited centerline curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualice la curva de la línea central editada.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="410"/>
