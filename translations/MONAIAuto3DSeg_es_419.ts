@@ -21,7 +21,7 @@
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
         <source>MONAI Auto3DSeg</source>
-        <translation>Extensión de MONAI Slicer-Segmentación automática en 3D</translation>
+        <translation>MONAI Segmentación automática en 3D</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="46"/>
@@ -791,7 +791,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
         <source>Brain Tumor Segmentation (BRATS) GLI</source>
-        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) GLIOMA</translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) GLIOMA</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="62"/>
@@ -816,22 +816,22 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="66"/>
         <source>Brain Tumor Segmentation (BRATS) MEN</source>
-        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) HOMBRES</translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) MENINGIOMA</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="67"/>
         <source>Brain Tumor Segmentation (BRATS) MET</source>
-        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) METÁSTASIS</translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) METÁSTASIS</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="68"/>
         <source>Brain Tumor Segmentation (BRATS) PED</source>
-        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) PEDIÁTRICO</translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) PEDIÁTRICO</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="69"/>
         <source>Brain Tumor Segmentation (BRATS) SSA</source>
-        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) SSA</translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) SSA</translation>
     </message>
 </context>
 <context>
