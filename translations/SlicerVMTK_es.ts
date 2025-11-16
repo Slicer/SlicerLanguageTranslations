@@ -1373,7 +1373,7 @@ Precaución: los valores en las bifurcaciones pueden no tener significado clíni
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar al punto máximo de estenosis por área de superficie.</translation>
     </message>
 </context>
 <context>
@@ -1381,7 +1381,7 @@ Precaución: los valores en las bifurcaciones pueden no tener significado clíni
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="31"/>
         <source>Edit centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar línea central</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="39"/>
@@ -1390,7 +1390,11 @@ Create a Shape::Tube markups node guided by an arbitrary markups curve, a center
 See more information in &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 Thanks to Andras Lasso for requiring import/export from/to a centerline model/curve.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Crear un nodo de marcas Shape:: Tube guiado por una curva de marcas arbitraria, un modelo de línea central o una curva de línea central.
+Más información en &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
+Gracias a Andras Lasso por requerir importar/exportar desde/hacia un modelo/curva de línea central.
+</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="44"/>
@@ -1709,7 +1713,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="501"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar el algoritmo.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="504"/>
@@ -1727,7 +1731,12 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     This module replaces the old &quot;Centerline Computation&quot; module. Documentation is available
     &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;here&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Calcular y cuantificar la red de la línea central de la vasculatura o las vías respiratorias a partir de un modelo de superficie.
+    El modelo de superficie se puede crear a partir del volumen de la imagen utilizando el módulo Editor de segmentos.
+    Este módulo reemplaza al antiguo módulo &quot;Cálculo de la línea central&quot;. La documentación está disponible
+    &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;aquí&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="223"/>
