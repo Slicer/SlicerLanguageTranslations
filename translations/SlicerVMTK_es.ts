@@ -1441,17 +1441,17 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
         <location filename="EditCenterline/EditCenterline.py" line="402"/>
         <location filename="EditCenterline/EditCenterline.py" line="452"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de parámetro es Ninguno.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="361"/>
         <source>Input centerline is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>La línea central de entrada es Ninguna.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="407"/>
         <source>Processing started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se inició el procesamiento.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="419"/>
@@ -1778,17 +1778,17 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="317"/>
         <source>Generate curves and quantification results table...</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar curvas y tabla de resultados de cuantificación...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="322"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al calcular los resultados: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="326"/>
         <source>Centerline analysis complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Análisis de la línea central completo.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="372"/>
