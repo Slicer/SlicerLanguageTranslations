@@ -1503,17 +1503,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapeo Oftálmico</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selección de Objeto Clave</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
@@ -1817,19 +1817,19 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="506"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="590"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="510"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="592"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="514"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="594"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progreso</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="518"/>
