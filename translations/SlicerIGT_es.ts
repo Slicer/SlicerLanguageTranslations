@@ -53,7 +53,7 @@ Steve Pieper, Isomics, Inc. y fue fundado parcialmente por NIH grant 3P41RR01321
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation>Transformación de salida: </translation>
+        <translation>Transformada de salida: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
