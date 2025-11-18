@@ -581,7 +581,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="410"/>
         <source>SmartEdit</source>
         <oldsource>SmartEdit / Deepgrow</oldsource>
-        <translation type="unfinished">SmartEdit</translation>
+        <translation>SmartEdit</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="446"/>
@@ -608,17 +608,17 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="513"/>
         <source>Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer plano:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="535"/>
         <source>  Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>  Fondo:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="503"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="582"/>
@@ -633,7 +633,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="615"/>
         <source>Erase</source>
-        <translation>Borrar</translation>
+        <translation>Suprimir</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="629"/>
@@ -643,18 +643,18 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="667"/>
         <source>3D</source>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="679"/>
         <source>Scribbles:</source>
-        <translation type="unfinished">Scribbles:</translation>
+        <translation>Garabatos:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="555"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="728"/>
         <source>ROI:</source>
-        <translation type="unfinished">ROI:</translation>
+        <translation>ROI:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="755"/>
@@ -685,19 +685,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="618"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="53"/>
         <source>Search Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar Imágenes</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="619"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="80"/>
         <source>Image Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>Ids de imagen</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="622"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="87"/>
         <source>imageId_1, imageId2, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>imagenId_1, imagenId2, ...</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="623"/>
@@ -713,7 +713,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="626"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="74"/>
         <source>Ids</source>
-        <translation type="unfinished">Ids</translation>
+        <translation>Ids</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="627"/>
@@ -753,19 +753,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="636"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="175"/>
         <source>Select level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar nivel de dificultad</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="637"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="195"/>
         <source>easy</source>
-        <translation type="unfinished"></translation>
+        <translation>fácil</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="638"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="202"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>medio</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="639"/>
@@ -789,7 +789,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="646"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="258"/>
         <source>Image Id</source>
-        <translation type="unfinished"></translation>
+        <translation>Id de imagen</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="648"/>
@@ -821,7 +821,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="655"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="345"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectar</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="656"/>
@@ -829,7 +829,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="352"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="754"/>
         <source>Segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentado</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="657"/>
@@ -837,7 +837,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="369"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="747"/>
         <source>Approved</source>
-        <translation type="unfinished"></translation>
+        <translation>Aprobado</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="658"/>
@@ -877,19 +877,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="668"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="460"/>
         <source>Hard</source>
-        <translation type="unfinished"></translation>
+        <translation>Físico</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="669"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="476"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Previo</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="670"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="486"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="671"/>
@@ -949,13 +949,13 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="682"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="603"/>
         <source>Image Id: </source>
-        <translation type="unfinished"></translation>
+        <translation>ID de imagen: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="683"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="610"/>
         <source>Annotator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotación:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="684"/>
@@ -973,13 +973,13 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="686"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="631"/>
         <source>Status:</source>
-        <translation type="unfinished">Estado:</translation>
+        <translation>Estado:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="687"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="638"/>
         <source>Editor: </source>
-        <translation type="unfinished">Editor: </translation>
+        <translation>Editor: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="688"/>
@@ -991,19 +991,19 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="689"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="701"/>
         <source>Add Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir comentario</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="692"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="716"/>
         <source>Data Set Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorador del Conjunto de Datos</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="693"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="727"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="696"/>
@@ -1039,7 +1039,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="42"/>
         <source>Active Learning</source>
-        <translation type="unfinished">Aprendizaje Activo</translation>
+        <translation>Aprendizaje Activo</translation>
     </message>
 </context>
 </TS>
