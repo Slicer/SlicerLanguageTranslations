@@ -283,7 +283,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="91"/>
         <source>Capture screenshots</source>
-        <translation type="unfinished">Capturar pantalla</translation>
+        <translation>Capturar pantalla</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="98"/>
@@ -337,22 +337,22 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="273"/>
         <source>Failed to fetch tutorials from {repo}</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al obtener tutoriales desde {repo}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Tutorial Generated</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial Generado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
         <source>Generated Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial generado: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="322"/>
         <source>No Tests Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ningún Test Encontrado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="369"/>
@@ -379,7 +379,7 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="316"/>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
-        <translation type="unfinished">Error: cargar una imagen primero.</translation>
+        <translation>Error: primero cargar una imagen.</translation>
     </message>
 </context>
 <context>
