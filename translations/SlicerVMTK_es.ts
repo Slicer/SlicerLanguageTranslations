@@ -10,7 +10,8 @@ Segment calcifications around an arterial lumen within a margin.
 See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
         <translation>
-Calcificaciones segmentarias alrededor de una luz arterial dentro de un margen.Consulte más información en la &lt;ahref=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;documentación del módulo&lt;/a&gt;.
+Segmento de calcificaciones alrededor de una luz arterial dentro de un margen.
+Consulte más información en la &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;documentación del módulo&lt;/a&gt;.
 </translation>
     </message>
     <message>
@@ -20,7 +21,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y
+Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
     <message>
@@ -252,7 +254,7 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="255"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished">Branch_Curve</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="267"/>
@@ -262,7 +264,7 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="270"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished">Centerline_Model</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="273"/>
@@ -409,7 +411,7 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="23"/>
@@ -427,12 +429,12 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="219"/>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="381"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+        <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="51"/>
@@ -447,17 +449,17 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="67"/>
         <source>Branch clippoints. The first point is interpreted as the model inlet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de recorte de la rama. El primer punto se interpreta como la entrada del modelo.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="70"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="78"/>
         <source>Clippoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de recorte</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="105"/>
@@ -497,7 +499,7 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished">vtkMRMLScriptedModuleNode</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
@@ -517,22 +519,22 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="227"/>
         <source>Output surface model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de superficie de salida</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="252"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="261"/>
         <source>Preprocess input surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Preprocesar superficie de entrada:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="268"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de superficie de entrada es reducida para el contador de punto destino solicitado (realizando cálculo más rápido), o subdividiendo (para realizar cálculos más preciso).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="281"/>
@@ -547,7 +549,7 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="309"/>
         <source>k</source>
-        <translation type="unfinished">k</translation>
+        <translation>k</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
@@ -587,17 +589,17 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="411"/>
         <source>Add Flow Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir extensiones de flujo:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="418"/>
         <source>Check if flow extensions are desired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marque si las extensiones de flujo son deseadas.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="431"/>
         <source>Extension length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud de extensión</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="441"/>
@@ -622,7 +624,7 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="489"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -642,8 +644,9 @@ Este módulo describe secciones transversales a lo largo de un modelo de línea 
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
-Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y
+Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
     <message>
@@ -904,7 +907,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="268"/>
         <source>Toggle between the table layout and the previous one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conmutar entre la distribución de tabla y uno anterior.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="271"/>
@@ -912,7 +915,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1043"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1106"/>
         <source>show</source>
-        <translation type="unfinished"></translation>
+        <translation>mostrar</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="280"/>
@@ -1000,17 +1003,17 @@ Se aplica el pincel &apos;Esfera&apos;. Se puede realizar una personalización a
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="576"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecuta el algoritmo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="579"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="507"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de coordenadas:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="547"/>
@@ -1040,7 +1043,7 @@ Se aplica el pincel &apos;Esfera&apos;. Se puede realizar una personalización a
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="100"/>
         <source>↺</source>
-        <translation type="unfinished">↺</translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="392"/>
@@ -1062,12 +1065,12 @@ Después de una reparación completa de la superficie del lumen, las líneas cen
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="478"/>
         <source>Replace the segment by the largest region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sustituir el segmento por la región más grande.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="481"/>
         <source>fast fix</source>
-        <translation type="unfinished"></translation>
+        <translation>reparación rápida</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="519"/>
@@ -1152,12 +1155,12 @@ Después de una reparación completa de la superficie del lumen, las líneas cen
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de parámetro:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
         <source>Rotation angle for longitudinal slice view</source>
-        <translation type="unfinished"></translation>
+        <translation>Ángulo de rotación para vista de ranura longitudinal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="762"/>
@@ -1167,13 +1170,13 @@ Después de una reparación completa de la superficie del lumen, las líneas cen
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="769"/>
         <source>Longitudinal</source>
-        <translation type="unfinished">Longitudinal</translation>
+        <translation>Longitudinal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="772"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="840"/>
         <source>Long.:</source>
-        <translation type="unfinished">Long.:</translation>
+        <translation>Long.:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="781"/>
@@ -1197,7 +1200,7 @@ Se refiere al reformateo ortogonal en la navegación axial.</translation>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="889"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="896"/>
@@ -1214,12 +1217,12 @@ Concerns orthogonal reformat in axial navigation.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="916"/>
         <source>Distance from origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia desde origen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="925"/>
         <source>Cumulative distance from start of centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia acumulativa desde inicio de línea centrada</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="938"/>
@@ -1260,19 +1263,19 @@ Concerns orthogonal reformat in axial navigation.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1020"/>
         <source>Jump to the smallest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al punto de diámetro MIS más pequeño.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1023"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1080"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1339"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1030"/>
         <source>Jump to the largest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al punto diámetro MIS más grande.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1033"/>
@@ -1280,7 +1283,7 @@ Concerns orthogonal reformat in axial navigation.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1308"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1346"/>
         <source>max</source>
-        <translation type="unfinished">max</translation>
+        <translation>máx</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1040"/>
@@ -1315,17 +1318,17 @@ Concerns orthogonal reformat in axial navigation.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1055"/>
         <source>Cross-section area:</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de sección cruzada:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1118"/>
         <source>Diameter (CE):</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro (CE):</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1149"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>Los ángulos en las Rebanada del sistema de coordenadas</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1142"/>
@@ -1402,24 +1405,25 @@ Gracias a Andras Lasso por requerir importar/exportar desde/hacia un modelo/curv
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
-Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso,
+PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="134"/>
         <source>Tiny</source>
-        <translation type="unfinished"></translation>
+        <translation>Enano</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="135"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Pequeño</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="136"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="137"/>
@@ -1456,12 +1460,12 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="419"/>
         <source>Centerline model processing failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesando modelo de línea central incorrecto.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="421"/>
         <source>Centerline is bifurcated, it must not be bifurcated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea central está bifurcada, debe no estar bifurcada.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="431"/>
@@ -1996,7 +2000,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
         <source>Centerline model:</source>
-        <translation type="unfinished">Modelo de línea central:</translation>
+        <translation>Modelo de línea central:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
@@ -2141,7 +2145,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="698"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2162,8 +2166,9 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
-Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso,
+PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
     <message>
@@ -2257,7 +2262,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="607"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="695"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duration} segundos</translation>
+        <translation>Proceso completado en {duration} segundos</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="613"/>
@@ -2272,7 +2277,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="725"/>
         <source>Test passed</source>
-        <translation type="unfinished">Test aprobado</translation>
+        <translation>Test aprobado</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="108"/>
@@ -2306,7 +2311,7 @@ If a Shape::Tube node is specified below, this parameter is ignored.</source>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="193"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentación:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="200"/>
@@ -2422,7 +2427,7 @@ If centerlines are extracted, optionally replace the segment by its largest regi
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="500"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2440,8 +2445,9 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
-Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y
+Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
     <message>
@@ -2478,7 +2484,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="407"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duration} segundos</translation>
+        <translation>Proceso completado en {duration} segundos</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="433"/>
@@ -2488,7 +2494,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="435"/>
         <source>Test passed</source>
-        <translation type="unfinished">Test aprobado</translation>
+        <translation>Test aprobado</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="108"/>
@@ -2503,7 +2509,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="145"/>
         <source>Volume:</source>
-        <translation type="unfinished">Volumen:</translation>
+        <translation>Volumen:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="152"/>
@@ -2518,7 +2524,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="182"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentación:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
@@ -2548,7 +2554,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="235"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parámetros</translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="246"/>
@@ -2567,7 +2573,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="375"/>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="410"/>
         <source> mm</source>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="287"/>
@@ -2633,7 +2639,7 @@ deviation:</source>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="468"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2654,8 +2660,9 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
-Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y
+Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
     <message>
@@ -2739,7 +2746,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="546"/>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="612"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duration} segundos</translation>
+        <translation>Proceso completado en {duration} segundos</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="552"/>
@@ -2823,7 +2830,7 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="210"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentación:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="217"/>
@@ -2908,7 +2915,7 @@ It is recommended to generate centerlines on accurate segmentations.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="447"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2926,8 +2933,9 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
-Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y
+Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
     <message>
@@ -2964,7 +2972,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="403"/>
         <source>Test passed</source>
-        <translation type="unfinished">Test aprobado</translation>
+        <translation>Test aprobado</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
@@ -3002,7 +3010,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
 </translation>
     </message>
@@ -3183,7 +3191,7 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="678"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duration} segundos</translation>
+        <translation>Proceso completado en {duration} segundos</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="730"/>
@@ -3193,7 +3201,7 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="732"/>
         <source>Test passed</source>
-        <translation type="unfinished">Test aprobado</translation>
+        <translation>Test aprobado</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="19"/>
@@ -3245,7 +3253,7 @@ Clicking at a control point allows to track the slice orientation in the selecte
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="197"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentación:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="204"/>
@@ -3262,7 +3270,7 @@ Right click for more.</source>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="252"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -3279,7 +3287,7 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
         <source>Centerline model:</source>
-        <translation type="unfinished">Modelo de línea central:</translation>
+        <translation>Modelo de línea central:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="36"/>
@@ -3335,7 +3343,7 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="194"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="112"/>
@@ -3391,7 +3399,7 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="230"/>
         <source>Branches</source>
-        <translation type="unfinished">Ramificaciones</translation>
+        <translation>Ramificaciones</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="236"/>
@@ -3421,7 +3429,7 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="354"/>
         <source>Finished</source>
-        <translation type="unfinished">Finalizado</translation>
+        <translation>Finalizado</translation>
     </message>
 </context>
 <context>
@@ -3496,7 +3504,7 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="311"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
