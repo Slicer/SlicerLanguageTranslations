@@ -1678,7 +1678,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="41"/>
         <source>Input (ToolToReference):</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada (ToolToReference):</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="48"/>
@@ -1704,12 +1704,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="121"/>
         <source>Startup delay (seconds):  </source>
-        <translation type="unfinished"></translation>
+        <translation>Retardo de inicio (segundos):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="148"/>
         <source>Delay and duration (seconds):  </source>
-        <translation type="unfinished"></translation>
+        <translation>Retraso y duración (segundos):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="176"/>
@@ -1945,7 +1945,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="668"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="811"/>
         <source>Maximum error allowed within a bucket. All buckets are discarded if this threshold is exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Error máximo permitido dentro de un depósito. Todos los depósitos se descartan si se supera este umbral</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="681"/>
@@ -1956,12 +1956,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="697"/>
         <source>Spin auto-calibration settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes de calibración automática de giro</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="731"/>
         <source>Minimum error for spin auto-calibration to be successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Error mínimo para que la autocalibración de espín tenga éxito</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="751"/>
