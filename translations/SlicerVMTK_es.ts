@@ -1712,7 +1712,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="468"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">+</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="501"/>
@@ -1745,18 +1745,18 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="223"/>
         <source>Valid input surface is required</source>
-        <translation type="unfinished"></translation>
+        <translation>Se requiere una superficie de entrada válida</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="241"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="334"/>
         <source>Preprocessing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preprocesamiento...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="257"/>
         <source>Get manifold edges...</source>
-        <translation type="unfinished"></translation>
+        <translation>Consguir bordes múltiples...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="265"/>
@@ -1974,23 +1974,23 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="236"/>
         <source>Network properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades de red</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="258"/>
         <source>Network curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva de red:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="265"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="354"/>
         <source>Centerline extraction result as a hierarchy of markups curves.</source>
-        <translation type="unfinished"></translation>
+        <translation>El resultado de la extracción de la línea central es una jerarquía de curvas de marcado.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="276"/>
         <source>Network curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva de red</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
