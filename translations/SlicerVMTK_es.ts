@@ -1682,32 +1682,32 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="410"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="421"/>
         <source>Radius percent scaling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala porcentual del radio:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="430"/>
         <source>Decrease the Tube&apos;s radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Disminuya los radios del tubo.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="433"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">-</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="446"/>
         <source>This scale factor difference is applied to the current radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta diferencia de factor de escala se aplica a los radios de corriente.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="465"/>
         <source>Increase the Tube&apos;s radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumente los radios del tubo.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="468"/>
@@ -1761,7 +1761,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="265"/>
         <source>Found {0} non-manifold edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se encontraron {0} bordes no colectores.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="266"/>
@@ -2085,27 +2085,27 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="549"/>
         <source>Output preprocessed surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie preprocesada de salida:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="559"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar el resultado del preprocesamiento. Útil para controles de calidad y para realizar cálculos repetidos más rápido: la superficie preprocesada se puede usar como superficie de entrada (y la opción &quot;Superficie de entrada preprocesada&quot; se puede deshabilitar).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="570"/>
         <source>Preprocessed model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo preprocesado</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="592"/>
         <source>Mesh error check results:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultados de la comprobación de errores de malla:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="599"/>
         <source>Output Voronoi diagram:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama de Voronoi de salida:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="606"/>
