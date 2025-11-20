@@ -51,7 +51,7 @@
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="69"/>
         <source>Malformed Response from {endpoint}</source>
-        <translation type="unfinished"></translation>
+        <translation>இலிருந்து தவறான பதில்</translation>
     </message>
 </context>
 <context>
