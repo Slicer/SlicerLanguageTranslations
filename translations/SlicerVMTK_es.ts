@@ -1812,32 +1812,32 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="440"/>
         <source>Surface can only be loaded from model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>La superficie solo se puede cargar a partir de modelos o nodos de segmentación</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="449"/>
         <source>VMTK library is not found</source>
-        <translation type="unfinished"></translation>
+        <translation>La biblioteca VMTK no se encuentra</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="453"/>
         <source>Input surface model is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>El modelo de superficie de entrada está vacío</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="489"/>
         <source>Mesh subdivision failed. Skip subdivision step.</source>
-        <translation type="unfinished"></translation>
+        <translation>La subdivisión de malla falló. Omitir el paso de subdivisión.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="541"/>
         <source>Failed to get non-manifold edges (neighborhood filter output was empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al obtener bordes que no son del colector (la salida del filtro de vecindario estaba vacía)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="659"/>
         <source>At least two endpoints are needed for centerline extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Se necesitan al menos dos puntos finales para la extracción de la línea central</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="720"/>
@@ -2180,27 +2180,27 @@ PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subve
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="141"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al instalar la extensión {nameOfExtension}</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="152"/>
         <source>Curve node must have at least 3 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo curva debe tener al menos 3 puntos.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="163"/>
         <source>Shape node is not a Tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de forma no es un tubo.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="170"/>
         <source>Shape node must have at least 4 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de forma debe tener al menos 4 puntos.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="261"/>
         <source>No input curve node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha especificado ningún nodo de curva de entrada.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="264"/>
