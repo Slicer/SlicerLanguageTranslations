@@ -89,7 +89,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="29"/>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Annota</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="36"/>
