@@ -1829,7 +1829,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="459"/>
         <source>Minimum required position difference from previous pose during pivot calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Diferencia de posición mínima requerida con respecto a la postura anterior durante la calibración del pivote</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="462"/>
@@ -1844,7 +1844,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="472"/>
         <source>Minimum position difference:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diferencia mínima de posición:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="479"/>
@@ -1852,7 +1852,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="621"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="774"/>
         <source>Minimum orientation difference:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diferencia de orientación mínima:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="489"/>
@@ -2265,33 +2265,33 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="140"/>
         <source>The transform node *from* which the output is based (e.g. Source in SourceToTarget)</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de transformación *from* en el que se basa la salida (por ejemplo, Source en SourceToTarget)</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="165"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="560"/>
         <source>The forward transform; what should be inverted.</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformación hacia adelante; lo que debería invertirse.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="186"/>
         <source>This stores all parameters for transform processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto almacena todos los parámetros para el procesamiento de transformaciones.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="189"/>
         <source>vtkMRMLTransformProcessorNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLTransformProcessorNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="204"/>
         <source>Filtering Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de Filtrado</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="210"/>
         <source>Stabilize:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estabilizar:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="217"/>
