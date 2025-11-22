@@ -17,16 +17,17 @@ to Slicer module</source>
 and browse to the location of the
 Slicer datasets</source>
         <extracomment>2_2_TextBox_1</extracomment>
-        <translation>单击“选择目录”以添加
-并浏览至Slicer数据集
-的位置</translation>
+        <translation>点击选择文件夹来添加
+并浏览到 
+Slicer 数据集 的位置</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>Slicer loads the prostate MRI
 datase</source>
         <extracomment>3_0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer 加载前列腺 MRI 
+数据集</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
@@ -38,7 +39,13 @@ the category Segmentation.
 Select the MONAI Auto3DSeg
 module</source>
         <extracomment>4_3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>在 Modules 菜单中
+点击 **欢迎来到Slicer** 
+
+并浏览到 **分割** 类别。
+
+选择 **MONAI Auto3DSeg** 
+模块</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
