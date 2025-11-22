@@ -1862,33 +1862,33 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="775"/>
         <source>Unable to import the SlicerVmtk libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pueden importar las bibliotecas SlicerVmtk</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1035"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1053"/>
         <source>Network polydata does not contain length cell array</source>
-        <translation type="unfinished"></translation>
+        <translation>Los polidatos de red no contienen matriz de celdas de longitud</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1047"/>
         <source>Failed to compute array </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al calcular la matriz </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="14"/>
         <source>Sampling distance used for generating centerline curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia de muestreo utilizada para generar la curva de la línea central</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>entradas</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="26"/>
         <source>Surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="33"/>
@@ -2256,7 +2256,7 @@ PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subve
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="570"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de relleno: {duration} segundos - </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="607"/>
@@ -2267,12 +2267,12 @@ PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subve
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="613"/>
         <source>Extract centerline setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraer la configuración de la línea central</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="723"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Comenzando la prueba</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="725"/>
@@ -2282,7 +2282,7 @@ PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subve
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="108"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="117"/>
