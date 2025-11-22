@@ -1942,7 +1942,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="614"/>
         <source>SOP UID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SOP UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="313"/>
