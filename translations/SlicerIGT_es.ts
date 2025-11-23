@@ -1888,24 +1888,24 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="571"/>
         <source>Number of collected poses for pivot auto-calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de poses recopiladas para la autocalibración del pivote</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="581"/>
         <source>Minimum error for pivot auto-calibration to be successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Error mínimo para que la calibración automática del pivote tenga éxito</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="594"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="724"/>
         <source>Target error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de destino:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="601"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="744"/>
         <source>Target number of points:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número objetivo de puntos:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="608"/>
@@ -2346,27 +2346,27 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="374"/>
         <source>Copy Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia Y</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="394"/>
         <source>Copy Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia Z</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="417"/>
         <source>Input &apos;Anchor&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de Transformación &apos;Ancla&apos; de Entrada:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="424"/>
         <source>The output will be expressed relative to this anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>La salida se expresará en relación con este ancla</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="442"/>
         <source>Input &apos;From&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada &apos;Desde&apos; Nodo de Transformación:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="449"/>
