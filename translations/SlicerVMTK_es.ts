@@ -1969,7 +1969,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="225"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="394"/>
         <source>Table containing quantitative analysis of centerline (radius, length, curvature, torsion, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla que contiene el análisis cuantitativo de la línea central (radio, longitud, curvatura, torsión, etc.)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="236"/>
@@ -1995,7 +1995,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
         <source>Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Árbol</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
@@ -2005,12 +2005,12 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
         <source>Centerline extraction result as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado de extracción de la línea central como modelo.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="325"/>
         <source>Centerline model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de línea central</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="347"/>
@@ -2422,7 +2422,9 @@ If specified, the regular tube diameter above is ignored.</source>
         <source>Create a segmentation and optionally a centerline model and a centerline curve. Output nodes from the last run will be replaced.
 
 If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear una segmentación y, opcionalmente, un modelo de línea central y una curva de línea central. Se reemplazarán los nodos de salida de la última ejecución.
+
+Si se extraen líneas centrales, opcionalmente se reemplaza el segmento por su región más grande si contiene más de una región.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="500"/>
@@ -2437,7 +2439,9 @@ If centerlines are extracted, optionally replace the segment by its largest regi
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; intenta segmentar las fuentes principales utilizando los efectos del &apos;Editor de segmentos&apos;.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="48"/>
@@ -2453,12 +2457,12 @@ Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P4
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="190"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al calcular los resultados.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="267"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de parámetro es None.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="280"/>
