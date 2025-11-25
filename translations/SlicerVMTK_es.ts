@@ -2040,27 +2040,27 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="442"/>
         <source>Preprocess input surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie de entrada de preprocesamiento:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="449"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
-        <translation type="unfinished"></translation>
+        <translation>El modelo de superficie de entrada se reduce al recuento de puntos objetivo solicitado (lo que acelera el cálculo) o se subdivide (para que los cálculos sean más precisos).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="462"/>
         <source>Target point count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuento de puntos objetivo:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="472"/>
         <source>Preferred number of points in the preprocessed surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número preferido de puntos en la superficie preprocesada.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="490"/>
         <source>k</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">k</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="497"/>
@@ -2533,22 +2533,22 @@ Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P4
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de parámetros:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un conjunto de parámetros agrupa los parámetros que definen claramente un estudio con nombre.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="88"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar el editor de segmentos y las vistas de sectores con la segmentación de entrada y el volumen, si corresponde.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">↺</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="102"/>
