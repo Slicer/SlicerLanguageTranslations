@@ -26,7 +26,7 @@ Slicer 数据集 的位置</translation>
         <source>Slicer loads the prostate MRI
 datase</source>
         <extracomment>3_0_TextBox_0</extracomment>
-        <translation>Slicer 加载前列腺 MRI 
+        <translation>Slicer 加载前列腺MRI
 数据集</translation>
     </message>
     <message>
@@ -39,12 +39,12 @@ the category Segmentation.
 Select the MONAI Auto3DSeg
 module</source>
         <extracomment>4_3_TextBox_1</extracomment>
-        <translation>在 Modules 菜单中
-点击 **欢迎来到Slicer** 
+        <translation>在“模块”菜单中
+点击“欢迎来到Slicer”，
 
-并浏览到 **分割** 类别。
+找到“分割”。
 
-选择 **MONAI Auto3DSeg** 
+选择“MONAI Auto3DSeg”
 模块</translation>
     </message>
     <message>
