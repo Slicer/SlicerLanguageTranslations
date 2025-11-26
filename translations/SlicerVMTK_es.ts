@@ -2110,27 +2110,27 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="606"/>
         <source>Voronoi diagram (similar to medial surface) that is used for computing centerline path between endpoints. It is useful for quality checks and for showing a model where endpoints can be robustly placed on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama de Voronoi (similar a la superficie medial) que se usa para calcular la ruta de la línea central entre los puntos finales. Es útil para controles de calidad y para mostrar un modelo en el que los puntos finales se pueden colocar de manera robusta.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="617"/>
         <source>Voronoi diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama de Voronoi</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="639"/>
         <source>Result of mesh error checks. Currently the only check is for presence of non-manifold edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado de comprobaciones de errores de malla. Actualmente, la única verificación es la presencia de bordes que no sean del colector.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="650"/>
         <source>Mesh errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Errores de malla</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="672"/>
         <source>Curve sampling distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia de muestreo de curvas:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="682"/>
@@ -2613,27 +2613,27 @@ deviation:</source>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="394"/>
         <source>Seed radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Semillas de radio:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="407"/>
         <source>Thickness of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grosor de una capa temporal alrededor de la curva de entrada.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="429"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espesor de la carcasa:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="436"/>
         <source>Subtract overlapping parts of other segments from the resulting vein segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restar las partes superpuestas de otros segmentos del segmento de vena resultante.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="449"/>
         <source>Remove overlaps:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar superposiciones:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="465"/>
