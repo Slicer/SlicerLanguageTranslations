@@ -31,27 +31,27 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation>Volumen de entrada 1</translation>
+        <translation>Volumen de Entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation>Volumen de entrada 2</translation>
+        <translation>Volumen de Entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation>Volumen de salida</translation>
+        <translation>Volumen de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation>Volumen de Entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation>Volumen de Entrada 2</translation>
+        <translation>Volumen de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
@@ -94,12 +94,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation>Parámetros de entradas</translation>
+        <translation>Parámetros de Entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation>Volumen de la imagen de entrada</translation>
+        <translation>Volumen de Imagen de Entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation>Este programa: 1) desfigurara imágenes de un conjunto de imágenes. Las entradas deben estar alineadas con ACPC, y deben ser proporcionados por AC, PC, LE y RE.</translation>
+        <translation>Este programa: 1) desfigurara imágenes desde un conjunto de imágenes. Las entradas deben estar alineadas con ACPC, y deben ser proporcionadas por AC, PC, LE y RE.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
@@ -344,7 +344,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation>Volumen de Imagen Fija</translation>
+        <translation>Volumen de Imagen Fijada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
@@ -580,7 +580,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation>(ROIAUTO) Máscara fija de salida en movimiento</translation>
+        <translation>(ROIAUTO) Máscara en movimiento de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
@@ -671,7 +671,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation>Volumen de imagen fija 2</translation>
+        <translation>Volumen de imagen fijada 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
@@ -2992,7 +2992,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriba los gradientes del protocolo en un archivo con la extensión &quot;.txt&quot;, tal como se especificaron en el protocolo, multiplicando cada dirección del gradiente de difusión por el marco de medición. Este archivo es solo para fines de depuración; el formato no es fijo y probablemente cambiará a medida que sea necesario depurar nuevos formatos DICOM.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
@@ -3002,7 +3002,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellene el encabezado nhdr con las direcciones de gradiente y los valores b calculados a partir de BMatrix. Solo cambia el comportamiento de los datos de Siemens. En algunos casos, los gradientes públicos estándar no se calculan correctamente. Los gradientes se pueden calcular empíricamente a partir de los campos privados de BMatrix. En algunos casos, BMatrix privado es coherente con los valores grandiosos públicos, pero no en todos los casos; cuando existe, BMatrix suele ser más robusto.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
@@ -3042,7 +3042,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
         <source>DEPRECATED:  Use --inputBVector --inputBValue files Text file giving gradient vectors</source>
-        <translation type="unfinished"></translation>
+        <translation>OBSOLETO:  Utilizar archivos --inputBVector --inputBValue de archivo Text proporcionando vectores gradientes</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
@@ -3831,7 +3831,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista ordenada de puntos de referencia en la imagen fija</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
@@ -3877,7 +3877,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="26"/>
         <source>Affine</source>
-        <translation type="unfinished">Afín</translation>
+        <translation>Afín</translation>
     </message>
 </context>
 <context>
@@ -3885,17 +3885,17 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de imagen de desenfoque gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar un desenfoque gaussiano a una imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
@@ -3950,37 +3950,39 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecuta la difusión anisotrópica de gradiente en un volumen.
+
+Los métodos de difusión anisotrópica reducen el ruido (o los detalles no deseados) en las imágenes, a la vez que conservan características específicas, como los bordes. En muchas aplicaciones, se asume que las transiciones de luz-oscuridad (bordes) son interesantes. Los métodos de difusión isotrópica estándar desplazan y difuminan los límites de luz-oscuridad. Los métodos de difusión anisotrópica están formulados para preservar específicamente los bordes. El término de conductancia para esta implementación es una función de la magnitud del gradiente de la imagen en cada punto, lo que reduce la intensidad de la difusión en los bordes. La implementación numérica de esta ecuación es similar a la descrita en el artículo de Perona-Malik, pero utiliza una técnica más robusta para la estimación de la magnitud del gradiente y se ha generalizado a N dimensiones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo de comando se derivó de Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished">Parámetros de difusión anisotrópica</translation>
+        <translation>Parámetros de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished">Parámetros de difusión anisotrópica</translation>
+        <translation>Parámetros para el algoritmo de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
         <source>Conductance</source>
-        <translation type="unfinished">Conductancia</translation>
+        <translation>Conductancia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished">Iteraciones</translation>
+        <translation>Iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
         <source>Time Step</source>
-        <translation type="unfinished">Paso temporal</translation>
+        <translation>Paso temporal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
@@ -4000,52 +4002,52 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de Entrada/Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a ser filtrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida filtrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
         <source>Advanced parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros avanzados para el algoritmo de difusión anisotrópico</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
         <source>Use image spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar espaciado de imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation type="unfinished"></translation>
+        <translation>![CDATA[Ten en cuenta el espaciado de la imagen en el cálculo. Se recomienda activar esta opción, especialmente cuando el tamaño del píxel varía en diferentes dimensiones. Sin embargo, para obtener resultados consistentes con Slicer 4.2 y versiones anteriores, esta opción debe desactivarse.]]</translation>
     </message>
 </context>
 <context>
@@ -4053,7 +4055,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"/>
         <source>Grayscale Fill Hole Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de imagen de relleno de agujero en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"/>
@@ -4075,42 +4077,50 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleFillholeImageFilter rellena los huecos en una imagen en escala de grises. Los huecos son mínimos locales en la topografía en escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un hueco se extrapolan a lo largo de este.
+
+Este filtro se utiliza para suavizar los mínimos locales sin afectar los valores de los máximos locales. Si se toma la diferencia entre la salida de este filtro y la imagen original (y quizás se establece un umbral para la diferencia por encima de un valor pequeño), se obtendrá un mapa de los mínimos locales.
+
+Este filtro utiliza itkGrayscaleGeodesicErodeImageFilter. Este filtro proporciona su propia entrada como máscara para la erosión geodésica. La imagen de marcador para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor máximo de píxel de la imagen de entrada.
+
+La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille &quot;Análisis Morfológico de Imágenes: Principios y Aplicaciones&quot;, segunda edición, Springer, 2003.
+
+Un filtro complementario, Grayscale Grind Peak, elimina los picos en las imágenes en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen Entrante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen Saliente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4118,7 +4128,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"/>
         <source>Grayscale Grind Peak Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de imagen de pico de molienda en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"/>
@@ -4133,42 +4143,50 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleGrindPeakImageFilter elimina los picos en una imagen en escala de grises. Los picos son máximos locales en la topografía en escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un pico se extrapolan a través de él.
+
+Este filtro se utiliza para suavizar los máximos locales sin afectar los valores de los mínimos locales. Si se toma la diferencia entre la salida de este filtro y la imagen original (y quizás se establece un umbral para la diferencia por encima de un valor pequeño), se obtendrá un mapa de los máximos locales.
+
+Este filtro utiliza GrayscaleGeodesicDilateImageFilter. Este filtro proporciona su propia entrada como entrada de &quot;máscara&quot; para la erosión geodésica. La imagen de &quot;marcador&quot; para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se establezcan en el valor mínimo de píxel de la imagen de entrada.
+
+Este filtro es el dual de GrayscaleFillholeImageFilter, que implementa el algoritmo Fillhole. Al ser un dual, es algo superfluo, pero se proporciona por conveniencia. La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille &quot;Análisis Morfológico de Imágenes: Principios y Aplicaciones&quot;, segunda edición, Springer, 2003.
+
+Un filtro complementario, Grayscale Fill Hole, rellena los huecos en imágenes en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4176,82 +4194,82 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="4"/>
         <source>Grayscale Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Creador de Modelo se Escala Grisácea</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cree modelos de superficie 3D a partir de datos en escala de grises. Este módulo utiliza Cubos de Marcha para crear una isosuperficie en un umbral determinado. La superficie resultante consiste en triángulos que dividen un volumen en regiones por debajo y por encima del umbral. La superficie resultante se puede suavizar y diezmar. Este modelo funciona con datos continuos, mientras que el módulo Creador de Modelos trabaja con datos etiquetados (o discretos).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen Entrante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
         <source>Output Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"/>
         <source>Volume containing the input grayscale data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen que contiene los datos de entrada en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
         <source>Output that contains geometry model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida que contiene el modelo de geometría.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="13"/>
         <source>Grayscale Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros Creadores de Modelos en Escala de Grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizado por modelos creadores.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"/>
         <source>Threshold</source>
-        <translation type="unfinished">Umbral</translation>
+        <translation>Umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Liso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation>Diezmar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"/>
         <source>Split Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Normales escindidos?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="20"/>
@@ -4266,17 +4284,17 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
         <source>Name to use for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre para utilizar para este modelo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
         <source>Number of smoothing iterations. If 0, no smoothing will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de iteraciones suavizadas. Si 0, ninguna suavización será hecha.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="24"/>
         <source>Target reduction during decimation, as a decimal percentage reduction in the number of polygons. If 0, no decimation will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reducción destino durante la decimación, expresada en un porcentaje decimal de reducción del número de polígonos. Si es 0, no se realizará la decimación.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="25"/>
@@ -4325,72 +4343,72 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
         <source>Histogram Matching Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros Coincidiendo con Histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
         <source>Parameters for Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para Coincidencia de Histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"/>
         <source>Number of Histogram Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Niveles de Histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"/>
         <source>Number of Match Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Puntos Coincidentes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="11"/>
         <source>Threshold at mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral en media</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"/>
         <source>The number of hisogram levels to use</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de niveles de histograma a utilizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"/>
         <source>The number of match points to use</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de puntos de coincidente a utilizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"/>
         <source>If on, only pixels above the mean in each volume are thresholded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está activado, solo se aplicarán umbrales a los píxeles que estén por encima de la media en cada volumen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
         <source>Reference Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen Referencial</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
@@ -4423,12 +4441,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
@@ -4507,82 +4525,82 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
         <source>Label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta para suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>La etiqueta para suavizar.  Todos los otros serán ignorados.  Si no está seleccionada ninguna etiqueta, la etiqueta máxima dentro de la imagen es elegida por defecto.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
         <source>AntiAliasing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros Anti-Alias</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"/>
         <source>Parameters for the AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para el algoritmo Anti-Alias</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"/>
         <source>Number of Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="14"/>
         <source>Maximum RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error Máximo de RMS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de iteraciones del nivel establece algoritmo Anti-Alias</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
         <source>The maximum RMS error.</source>
-        <translation type="unfinished"></translation>
+        <translation>El error máximo RMS.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"/>
         <source>Gaussian Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de Suavizado Gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="18"/>
         <source>Parameters for Gaussian Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para Suavizado Gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="19"/>
         <source>Sigma</source>
-        <translation type="unfinished">Sigma</translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="20"/>
         <source>The standard deviation of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>La desviación estándar del kernel Gausiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
@@ -18826,7 +18844,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
@@ -18912,7 +18930,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="3"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="3"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos Superficie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="26"/>
@@ -19480,73 +19498,73 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="107"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished">Restore Defaults</translation>
+        <translation>Restaurar Predeterminados</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="94"/>
         <source>AutoRun</source>
-        <translation type="unfinished">AutoRun</translation>
+        <translation>AutoEjecución</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
         <source>Cancel the execution of the module</source>
-        <translation type="unfinished">Cancel the execution of the module</translation>
+        <translation>Cancela la ejecución del módulo</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="146"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="156"/>
         <source>Execute the module</source>
-        <translation type="unfinished">Execute the module</translation>
+        <translation>Ejecutar el módulo</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="159"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="96"/>
         <source>AutoRun on changed parameter</source>
-        <translation type="unfinished">AutoRun on changed parameter</translation>
+        <translation>AutoEjecutar en parámetro cambiado</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="97"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</translation>
+        <translation>Tan largo como el botón AutoEjecutar está apagado, el módulo es ejecutado en cualquier momento se modifica un valor paramétrico.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="102"/>
         <source>AutoRun on modified input</source>
-        <translation type="unfinished">AutoRun on modified input</translation>
+        <translation>AutoEjecutar en entrada modificada</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node is modified.</translation>
+        <translation>Tan largo como el botón AutoEjecutar esté apagado, el módulo es ejecutado en cualquier momento es modificado un nodo de entrada.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="108"/>
         <source>AutoRun on other input events</source>
-        <translation type="unfinished">AutoRun on other input events</translation>
+        <translation>AutoEjecutar en otros eventos de entrada</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="109"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</translation>
+        <translation>Tan largo como el botón de AutoEjecutar esté apagado, el módulo es ejecutado en cualquier momento un nodo de entrada quema un evento distinto que un evento modificado.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="114"/>
         <source>AutoRun cancels running process</source>
-        <translation type="unfinished">AutoRun cancels running process</translation>
+        <translation>AutoEjecuter cancela proceso ejecutándose</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="115"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
-        <translation type="unfinished">When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</translation>
+        <translation>Cuando marcó, en aplicar, el módulo cancela/detiene la instancia existente ejecutándose si alguna, en otro caso espera que complete para iniciar una ejecución nueva.</translation>
     </message>
 </context>
 <context>
@@ -19562,17 +19580,17 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="130"/>
         <source>Show details</source>
-        <translation type="unfinished">Show details</translation>
+        <translation>Muestra detalles</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Estado:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="156"/>
         <source>Idle</source>
-        <translation type="unfinished">Idle</translation>
+        <translation>Inactivo</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="367"/>
@@ -19590,12 +19608,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Técnico:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+        <translation>Seleccione la técnica de proyección de rayos para las vistas donde el volumen actual es visible</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="67"/>
@@ -19618,12 +19636,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation type="unfinished">Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</translation>
+        <translation>Gestiona vistas 3D y cámaras.&lt;br&gt;El menú desplegable de vistas a continuación permite crear nuevas vistas y seleccionar la vista activa. Para acceder a varias vistas, cambie el diseño a «Diseño 3D con pestañas» desde el icono de diseño en la barra de herramientas. La vista seleccionada en «Diseño 3D con pestañas» se convierte en la vista activa y reemplaza la vista 3D en todos los demás diseños. El menú desplegable de cámaras a continuación permite configurar la cámara activa para la vista seleccionada.&lt;br&gt;ADVERTENCIA: Esto es experimental por el momento (los fiduciales, E/S/datos y el cierre de la escena probablemente no funcionen correctamente en las nuevas vistas).&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="85"/>
         <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.h" line="48"/>
@@ -19636,22 +19654,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="14"/>
         <source>Cameras</source>
-        <translation type="unfinished">Cameras</translation>
+        <translation>Cámaras</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="30"/>
         <source>Camera</source>
-        <translation type="unfinished">Camera</translation>
+        <translation>Cámara</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="39"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
-        <translation type="unfinished">Camera:</translation>
+        <translation>Cámara:</translation>
     </message>
 </context>
 <context>
@@ -19677,7 +19695,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="14"/>
         <source>Colors</source>
-        <translation type="unfinished">Colors</translation>
+        <translation>Colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
@@ -19687,52 +19705,52 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
         <source>Colors:</source>
-        <translation type="unfinished">Colors:</translation>
+        <translation>Colores:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="153"/>
         <source>Duplicate the current color node to allow editing colors, scalar range, size.</source>
-        <translation type="unfinished">Duplicate the current color node to allow editing colors, scalar range, size.</translation>
+        <translation>Duplica el nodo de color actual para permitir la edición de colores, intervalo escalar y tamaño.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
         <source>Displayable node:</source>
-        <translation type="unfinished">Displayable node:</translation>
+        <translation>Nodo exhibible:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="75"/>
         <source>Create color legend for the selected displayable node.</source>
-        <translation type="unfinished">Create color legend for the selected displayable node.</translation>
+        <translation>Crear una leyenda de color para el nodo exhibible seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="78"/>
         <source>Create</source>
-        <translation type="unfinished">Create</translation>
+        <translation>Crear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="85"/>
         <source>Use the currently selected colors for the selected displayable node.</source>
-        <translation type="unfinished">Use the currently selected colors for the selected displayable node.</translation>
+        <translation>Utilice los colores seleccionados actualmente para el nodo exhibible seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="88"/>
         <source>Use current colors</source>
-        <translation type="unfinished">Use current colors</translation>
+        <translation>Utilizar colores actuales</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="95"/>
         <source>Delete the color legend for the selected displayable node.</source>
-        <translation type="unfinished">Delete the color legend for the selected displayable node.</translation>
+        <translation>Borra la leyenda de color del nodo exhibible seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="98"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="107"/>
         <source>Color legend:</source>
-        <translation type="unfinished">Color legend:</translation>
+        <translation>Color leyenda:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="163"/>
@@ -19769,27 +19787,27 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
         <source>Show/Hide the unnamed color entries in the list below.</source>
-        <translation type="unfinished">Show/Hide the unnamed color entries in the list below.</translation>
+        <translation>Mostrar/Ocultar los apuntes de color no nombrados dentro del listado de abajo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="266"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished">Scalar Range:</translation>
+        <translation>Intervalo escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="276"/>
         <source>The range of scalars that are mapped to the full range of colors.</source>
-        <translation type="unfinished">The range of scalars that are mapped to the full range of colors.</translation>
+        <translation>El intervalo de escalas que son asignados al intervalo completo de colores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="214"/>
         <source>Discrete table</source>
-        <translation type="unfinished">Discrete table</translation>
+        <translation>Tabla discreta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="274"/>
         <source>Continuous scale</source>
-        <translation type="unfinished">Continuous scale</translation>
+        <translation>Escala continua</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="424"/>
@@ -19803,7 +19821,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="870"/>
         <source>Failed to create %1 directory</source>
-        <translation type="unfinished">Failed to create %1 directory</translation>
+        <translation>Incorrecto al crear directorio %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1814"/>
@@ -19842,7 +19860,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="665"/>
         <source>%1 load failed.</source>
-        <translation type="unfinished">%1 load failed.</translation>
+        <translation>Carga %1 incorrecta.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="835"/>
@@ -19867,7 +19885,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="960"/>
         <source>Unable to find a storable node with ID %1</source>
-        <translation type="unfinished">Unable to find a storable node with ID %1</translation>
+        <translation>No es capaz de encontrar un nodo almacenable con ID %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="971"/>
@@ -19901,166 +19919,166 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="38"/>
         <source>Crop Volume</source>
-        <translation type="unfinished">Crop Volume</translation>
+        <translation>Volumen de cultivo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Parameter set:</translation>
+        <translation>Conjunto de parámetro:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
         <source>Input volume:</source>
-        <translation type="unfinished">Input volume:</translation>
+        <translation>Volumen de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
         <source>Input ROI:</source>
-        <translation type="unfinished">Input ROI:</translation>
+        <translation>ROI de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
         <source>Crop Volume ROI</source>
-        <translation type="unfinished">Crop Volume ROI</translation>
+        <translation>Recorte de volumen ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="196"/>
         <source>Select region of interest</source>
-        <translation type="unfinished">Select region of interest</translation>
+        <translation>Seleccionar región de interés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="214"/>
         <source>Display ROI</source>
-        <translation type="unfinished">Display ROI</translation>
+        <translation>Exhibir ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="235"/>
         <source>Fit to Volume</source>
-        <translation type="unfinished">Fit to Volume</translation>
+        <translation>Ajustar a Volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="248"/>
         <source>Output volume:</source>
-        <translation type="unfinished">Output volume:</translation>
+        <translation>Salida de volumen:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="267"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="586"/>
         <source>Cropped volume</source>
-        <translation type="unfinished">Cropped volume</translation>
+        <translation>Volumen recortado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="279"/>
         <source>Create new volume</source>
-        <translation type="unfinished">Create new volume</translation>
+        <translation>Crear volumen nuevo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="325"/>
         <source>Interpolated cropping:</source>
-        <translation type="unfinished">Interpolated cropping:</translation>
+        <translation>Recorte interpolado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="332"/>
         <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
-        <translation type="unfinished">Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</translation>
+        <translation>Interpolar y rellenar el volumen de entrada para hacer que la imagen de salida tenga exactamente el tamaño del ROI, con el espaciado solicitado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="348"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="358"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-        <translation type="unfinished">The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</translation>
+        <translation>El espaciado de vóxeles en el volumen de salida se ajustará según este valor. Valores superiores a 1.0 harán que el volumen recortado tenga una resolución menor que el volumen de entrada. Valores inferiores a 1.0 harán que el volumen recortado tenga una resolución mayor que el volumen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="351"/>
         <source>Spacing scale:</source>
-        <translation type="unfinished">Spacing scale:</translation>
+        <translation>Escala de espaciado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="361"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="374"/>
         <source>Isotropic spacing:</source>
-        <translation type="unfinished">Isotropic spacing:</translation>
+        <translation>Espaciamiento isotrópico:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="394"/>
         <source>Interpolator:</source>
-        <translation type="unfinished">Interpolator:</translation>
+        <translation>Interpolador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="403"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="433"/>
         <source>High quality, slow</source>
-        <translation type="unfinished">High quality, slow</translation>
+        <translation>Alta calidad, lento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="406"/>
         <source>B-spline</source>
-        <translation type="unfinished">B-spline</translation>
+        <translation>B-ranura</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="413"/>
         <source>Low quality, fastest</source>
-        <translation type="unfinished">Low quality, fastest</translation>
+        <translation>Baja calidad, más rápido</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="416"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished">Nearest Neighbor</translation>
+        <translation>Vecino más cercano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="423"/>
         <source>Medium quality, medium speed</source>
-        <translation type="unfinished">Medium quality, medium speed</translation>
+        <translation>Calidad media, velocidad media</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="426"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="436"/>
         <source>Windowed Sinc</source>
-        <translation type="unfinished">Windowed Sinc</translation>
+        <translation>Sinc con ventana</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="445"/>
         <source>Fill value:</source>
-        <translation type="unfinished">Fill value:</translation>
+        <translation>Valor de relleno:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="452"/>
         <source>Voxel values outside the input volume will be filled with this value</source>
-        <translation type="unfinished">Voxel values outside the input volume will be filled with this value</translation>
+        <translation>Los valores de vóxel fuera del volumen de entrada se rellenarán con este valor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="483"/>
         <source>Volume information</source>
-        <translation type="unfinished">Volume information</translation>
+        <translation>Información de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="507"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="516"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="595"/>
         <source>Output volume dimension after cropping</source>
-        <translation type="unfinished">Output volume dimension after cropping</translation>
+        <translation>Dimensión del volumen de salida después del recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="528"/>
@@ -20068,50 +20086,50 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="607"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="635"/>
         <source>0,0,0</source>
-        <translation type="unfinished">0,0,0</translation>
+        <translation>0,0,0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="541"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="620"/>
         <source>Output volume spacing after cropping</source>
-        <translation type="unfinished">Output volume spacing after cropping</translation>
+        <translation>Espaciado del volumen de salida después del recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="569"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="655"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>Dimensiones:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="576"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="648"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Espaciado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="692"/>
         <source>Fix</source>
-        <translation type="unfinished">Fix</translation>
+        <translation>Reparar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="707"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="85"/>
         <source>Select or create a new parameter node.</source>
-        <translation type="unfinished">Select or create a new parameter node.</translation>
+        <translation>Seleccionar o crear un nodo paramétrico nuevo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="96"/>
         <source>Select an input volume.</source>
-        <translation type="unfinished">Select an input volume.</translation>
+        <translation>Seleccionar un volumen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="103"/>
         <source>Output volume type does not match input volume type.</source>
-        <translation type="unfinished">Output volume type does not match input volume type.</translation>
+        <translation>El tipo de volumen de salida no coincide con el tipo de volumen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="126"/>
@@ -20131,12 +20149,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="132"/>
         <source>Select or create a new input ROI.</source>
-        <translation type="unfinished">Select or create a new input ROI.</translation>
+        <translation>Seleccione o cree un nuevo ROI de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="156"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-        <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+        <translation>La interpolación está deshabilitada y el ROI de entrada no está alineado con los ejes de volumen de entrada.</translation>
     </message>
 </context>
 <context>
@@ -20144,74 +20162,74 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
         <source>DICOM Export</source>
-        <translation type="unfinished">DICOM Export</translation>
+        <translation>Exportación de DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="82"/>
         <source>1. Select node</source>
-        <translation type="unfinished">1. Select node</translation>
+        <translation>1. Seleccionar nodo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="125"/>
         <source>2. Select export type</source>
-        <translation type="unfinished">2. Select export type</translation>
+        <translation>2. Seleccionar tipo de exportación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="168"/>
         <source>3. Edit DICOM tags</source>
-        <translation type="unfinished">3. Edit DICOM tags</translation>
+        <translation>3. Editar etiquetas DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="199"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished">If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</translation>
+        <translation>Si se marca, las etiquetas editadas manualmente se guardarán en la escena y se conservarán para la siguiente exportación. Si no se marca, se podrán realizar cambios temporales, solo para esta exportación.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="202"/>
         <source>Save modified tags</source>
-        <translation type="unfinished">Save modified tags</translation>
+        <translation>Guardar etiquetas modificadas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation type="unfinished">If checked, the exported DICOM files will be written into the specified folder.
-If unchecked, the exported dataset will be added to the DICOM database.</translation>
+        <translation>Si se marca esta opción, los archivos DICOM exportados se guardarán en la carpeta especificada.
+Si no se marca, el conjunto de datos exportado se añadirá a la base de datos DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
         <source>Export to folder:</source>
-        <translation type="unfinished">Export to folder:</translation>
+        <translation>Exportar a carpeta:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation type="unfinished">Exported DICOM files into this folder instead of the application&apos;s DICOM database.</translation>
+        <translation>Se exportaron archivos DICOM a esta carpeta en lugar de a la base de datos DICOM de la aplicación.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
         <source>Error messages</source>
-        <translation type="unfinished">Error messages</translation>
+        <translation>Mensajes de error</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="359"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="461"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished">DICOM dataset successfully exported to </translation>
+        <translation>El conjunto de datos DICOM se exportó correctamente a </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="464"/>
         <source>the DICOM database</source>
-        <translation type="unfinished">the DICOM database</translation>
+        <translation>la base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="470"/>
         <source>Export successful</source>
-        <translation type="unfinished">Export successful</translation>
+        <translation>Exportación correcta</translation>
     </message>
 </context>
 <context>
@@ -20219,91 +20237,91 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="14"/>
         <source>Diffusion Tensor Volume Slice Display</source>
-        <translation type="unfinished">Diffusion Tensor Volume Slice Display</translation>
+        <translation>Exhibición de Ranura de Volumen del Tensor de Difusión</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Visibilidad:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidad:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
         <source>Scalar ColorMap:</source>
-        <translation type="unfinished">Scalar ColorMap:</translation>
+        <translation>ColorMap escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
         <source>Color by Scalar:</source>
-        <translation type="unfinished">Color by Scalar:</translation>
+        <translation>Color por Escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished">Scalar Range:</translation>
+        <translation>Intervalo escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
         <source>Glyph Type:</source>
-        <translation type="unfinished">Glyph Type:</translation>
+        <translation>Tipo de glifo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>Líneas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
         <source>Tubes</source>
-        <translation type="unfinished">Tubes</translation>
+        <translation>Tubos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
         <source>Ellipsoids</source>
-        <translation type="unfinished">Ellipsoids</translation>
+        <translation>Elipsoides</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
         <source>Scale Factor:</source>
-        <translation type="unfinished">Scale Factor:</translation>
+        <translation>Factor escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Espaciado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="241"/>
         <source>Glyph EigenVector:</source>
-        <translation type="unfinished">Glyph EigenVector:</translation>
+        <translation>EigenVector Glifo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="249"/>
         <source>Major</source>
-        <translation type="unfinished">Major</translation>
+        <translation>Mayor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
         <source>Middle</source>
-        <translation type="unfinished">Middle</translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="259"/>
         <source>Minor</source>
-        <translation type="unfinished">Minor</translation>
+        <translation>Menor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
         <source>Manual or Auto scalar range</source>
-        <translation type="unfinished">Manual or Auto scalar range</translation>
+        <translation>Manual o Intervalo escalar auto</translation>
     </message>
 </context>
 <context>
@@ -20311,42 +20329,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
         <source>Add data into the scene</source>
-        <translation type="unfinished">Add data into the scene</translation>
+        <translation>Añadir datos a la escena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
         <source>Choose Directory to Add</source>
-        <translation type="unfinished">Choose Directory to Add</translation>
+        <translation>Elija el directorio para agregar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="27"/>
         <source>Choose File(s) to Add</source>
-        <translation type="unfinished">Choose File(s) to Add</translation>
+        <translation>Elija los archivos para agregar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="78"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="83"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Descripción</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="88"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="106"/>
         <source>Show Options</source>
-        <translation type="unfinished">Show Options</translation>
+        <translation>Mostrar Opciones</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="561"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>Cualquier Dato</translation>
     </message>
 </context>
 <context>
@@ -20354,12 +20372,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="485"/>
         <source>Open archive?</source>
-        <translation type="unfinished">Open archive?</translation>
+        <translation>¿Abrir archivador?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="485"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
-        <translation type="unfinished">The selected file is a .zip archive, open it and load contents?</translation>
+        <translation>El archivo seleccionado es un archivador .zip, ¿abrirlo y cargar el contenido?</translation>
     </message>
 </context>
 <context>
@@ -20386,66 +20404,66 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Datos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filter:</translation>
+        <translation>Filtro:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
         <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-        <translation type="unfinished">A case sensitive string to filter nodes, uses all the columns (even if hidden)</translation>
+        <translation>Un segmento que distingue entre mayúsculas y minúsculas para filtrar nodos, utiliza todas las columnas (incluso si están ocultas)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
         <source>Subject hierarchy</source>
-        <translation type="unfinished">Subject hierarchy</translation>
+        <translation>Jerarquía de sujetos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
         <source>Show transforms</source>
-        <translation type="unfinished">Show transforms</translation>
+        <translation>Mostrar transformaciones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="116"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
         <source>Show MRML ID&apos;s</source>
-        <translation type="unfinished">Show MRML ID&apos;s</translation>
+        <translation>Mostrar ID de MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
         <source>Subject hierarchy item information</source>
-        <translation type="unfinished">Subject hierarchy item information</translation>
+        <translation>Información del elemento de jerarquía de temas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="438"/>
         <source>No item selected</source>
-        <translation type="unfinished">No item selected</translation>
+        <translation>No hay ningún elemento seleccionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
         <source>Transform hierarchy</source>
-        <translation type="unfinished">Transform hierarchy</translation>
+        <translation>Transformar jerarquía</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
         <source>Show hidden nodes</source>
-        <translation type="unfinished">Show hidden nodes</translation>
+        <translation>Mostrar nodos ocultos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
         <source>All nodes</source>
-        <translation type="unfinished">All nodes</translation>
+        <translation>Todos los nodos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
         <source>MRML node information</source>
-        <translation type="unfinished">MRML node information</translation>
+        <translation>Información de nodo MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="194"/>
@@ -20462,12 +20480,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="204"/>
         <source>Insert transform</source>
-        <translation type="unfinished">Insert transform</translation>
+        <translation>Insertar transformación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="209"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Harden transform</translation>
+        <translation>Transformación de endurecimiento</translation>
     </message>
 </context>
 <context>
@@ -20475,42 +20493,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="14"/>
         <source>Tensor Display Properties</source>
-        <translation type="unfinished">Tensor Display Properties</translation>
+        <translation>Propiedades de Exhibición del Tensor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished">Scalar Display</translation>
+        <translation>Exhibición Escalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
         <source>Scalar Mode:</source>
-        <translation type="unfinished">Scalar Mode:</translation>
+        <translation>Modo escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation type="unfinished">Glyphs on Slices Display</translation>
+        <translation>Glifos sobre Exhibición de Ranuras</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
         <source>Slice Visibility:</source>
-        <translation type="unfinished">Slice Visibility:</translation>
+        <translation>Visibilidad de ranura:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
         <source>Red</source>
-        <translation type="unfinished">Red</translation>
+        <translation>Rojo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="103"/>
         <source>Yellow</source>
-        <translation type="unfinished">Yellow</translation>
+        <translation>Amarillo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="110"/>
         <source>Green</source>
-        <translation type="unfinished">Green</translation>
+        <translation>Verde</translation>
     </message>
 </context>
 <context>
@@ -20518,17 +20536,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="14"/>
         <source>DWI Display Properties</source>
-        <translation type="unfinished">DWI Display Properties</translation>
+        <translation>Propiedades de Exhibición DWI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished">Scalar Display</translation>
+        <translation>Exhibición Escalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
         <source>DWI Component:</source>
-        <translation type="unfinished">DWI Component:</translation>
+        <translation>Componente DWI:</translation>
     </message>
 </context>
 <context>
@@ -20536,17 +20554,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
         <source>Report bugs and request enhancements</source>
-        <translation type="unfinished">Report bugs and request enhancements</translation>
+        <translation>Informar defectos y solicitar mejoras</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
         <source>Recent log files:</source>
-        <translation type="unfinished">Recent log files:</translation>
+        <translation>Bitácoras recientes:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
@@ -20568,12 +20586,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="103"/>
         <source>Edit Log</source>
-        <translation type="unfinished">Edit Log</translation>
+        <translation>Editar Bitácora</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="135"/>
         <source>Log file content:</source>
-        <translation type="unfinished">Log file content:</translation>
+        <translation>Contenido de bitácora:</translation>
     </message>
 </context>
 <context>
@@ -20599,22 +20617,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="20"/>
         <source>Event Broker</source>
-        <translation type="unfinished">Event Broker</translation>
+        <translation>Corredor de eventos</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refresh</translation>
+        <translation>Refrescar</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
         <source>Reset Times</source>
-        <translation type="unfinished">Reset Times</translation>
+        <translation>Tiempos de reinicio</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
         <source>Show observations with Elapsed Times &gt; 0</source>
-        <translation type="unfinished">Show observations with Elapsed Times &gt; 0</translation>
+        <translation>Mostrar observaciones con tiempos transcurridos &gt; 0</translation>
     </message>
 </context>
 <context>
@@ -20622,7 +20640,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="23"/>
         <source>Export node</source>
-        <translation type="unfinished">Export node</translation>
+        <translation>Exportar nodo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="48"/>
@@ -20687,7 +20705,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
         <source>Apply transforms</source>
-        <translation type="unfinished">Apply transforms</translation>
+        <translation>Aplicar transformaciones</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="130"/>
@@ -20798,7 +20816,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1217"/>
         <source>Export an individual node</source>
-        <translation type="unfinished">Export an individual node</translation>
+        <translation>Exportar un nodo individual</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1239"/>
@@ -20836,47 +20854,47 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
         <source>Tell the application to update this extension on restart.</source>
-        <translation type="unfinished">Tell the application to update this extension on restart.</translation>
+        <translation>Indique a la aplicación que actualice esta extensión al reiniciar.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="162"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="169"/>
         <source>Tell the application to keep the currently installed version of this extension.</source>
-        <translation type="unfinished">Tell the application to keep the currently installed version of this extension.</translation>
+        <translation>Indique a la aplicación que mantenga la versión actualmente instalada de esta extensión.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="172"/>
         <source>Cancel Update</source>
-        <translation type="unfinished">Cancel Update</translation>
+        <translation>Cancelar Actualización</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="186"/>
         <source>Tell the application to load this extension by adding all associated module paths to the application settings.</source>
-        <translation type="unfinished">Tell the application to load this extension by adding all associated module paths to the application settings.</translation>
+        <translation>Indique a la aplicación que cargue esta extensión agregando todas las rutas de módulos asociadas a los ajustes de la aplicación.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="189"/>
         <source>Enable</source>
-        <translation type="unfinished">Enable</translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="196"/>
         <source>Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</source>
-        <translation type="unfinished">Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</translation>
+        <translation>Indique a la aplicación que omita la carga de esta extensión eliminando todas las rutas de módulos asociadas de la configuración de la aplicación.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="199"/>
         <source>Disable</source>
-        <translation type="unfinished">Disable</translation>
+        <translation>Inhabilitar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="92"/>
         <source>Tell the application to uninstall this extension when it will restart.</source>
-        <translation type="unfinished">Tell the application to uninstall this extension when it will restart.</translation>
+        <translation>Indique a la aplicación que desinstale esta extensión cuando se reinicie.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
@@ -20886,17 +20904,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Uninstall</translation>
+        <translation>Desinstalar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="102"/>
         <source>Tell the application to keep this extension installed.</source>
-        <translation type="unfinished">Tell the application to keep this extension installed.</translation>
+        <translation>Indique a la aplicación que mantenga esta extensión instalada.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="105"/>
         <source>Cancel Uninstall</source>
-        <translation type="unfinished">Cancel Uninstall</translation>
+        <translation>Cancelar Desinstalación</translation>
     </message>
 </context>
 <context>
@@ -20967,12 +20985,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="14"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>Gestor de Extensiones</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
         <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
-        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</translation>
+        <translation>&lt;font color=&quot;red&quot;&gt;* Reinicio solicitado&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
@@ -20990,22 +21008,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="704"/>
         <source>Failed to open extensions settings file %1</source>
-        <translation type="unfinished">Failed to open extensions settings file %1</translation>
+        <translation>Ha fallado al abrir el archivo %1 de ajustes de extensiones</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="737"/>
         <source>Failed to open extensions settings file: %1</source>
-        <translation type="unfinished">Failed to open extensions settings file: %1</translation>
+        <translation>No se pudo abrir el archivo de configuración de extensiones: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="769"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>El directorio de instalación de extensiones NO existe: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="786"/>
         <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>Se espera que el directorio de instalación de las extensiones sea legible, escribible y ejecutable: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="859"/>
@@ -21038,17 +21056,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1023"/>
         <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
-        <translation type="unfinished">extensionSlicerRevision [%1] is different from slicerRevision [%2]</translation>
+        <translation>extensionSlicerRevision [%1] es diferente desde slicerRevision [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1028"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
-        <translation type="unfinished">extensionArch [%1] is different from slicerArch [%2]</translation>
+        <translation>extensionArch [%1] es diferente desde slicerArch [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1033"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
-        <translation type="unfinished">extensionOs [%1] is different from slicerOs [%2]</translation>
+        <translation>extensionOs [%1] es diferente desde slicerOs [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1379"/>
@@ -21306,12 +21324,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="14"/>
         <source>Slicer Extensions Manager</source>
-        <translation type="unfinished">Slicer Extensions Manager</translation>
+        <translation>Gestor de Extensiones de Ranuras</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation type="unfinished">Install Extensions</translation>
+        <translation>Instalar Extensiones</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="260"/>
@@ -21510,7 +21528,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="77"/>
         <source>Install from file...</source>
-        <translation type="unfinished">Install from file...</translation>
+        <translation>Instalar desde archivo…</translation>
     </message>
 </context>
 <context>
@@ -21518,7 +21536,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="76"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>Todo</translation>
     </message>
 </context>
 <context>
@@ -21526,62 +21544,62 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="80"/>
         <source>128 MB</source>
-        <translation type="unfinished">128 MB</translation>
+        <translation>128 MB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="81"/>
         <source>256 MB</source>
-        <translation type="unfinished">256 MB</translation>
+        <translation>256 MB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="82"/>
         <source>512 MB</source>
-        <translation type="unfinished">512 MB</translation>
+        <translation>512 MB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="83"/>
         <source>1024 MB</source>
-        <translation type="unfinished">1024 MB</translation>
+        <translation>1.024 MB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="84"/>
         <source>1.5 GB</source>
-        <translation type="unfinished">1.5 GB</translation>
+        <translation>1&apos;5 GB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="85"/>
         <source>2 GB</source>
-        <translation type="unfinished">2 GB</translation>
+        <translation>2 GB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="86"/>
         <source>3 GB</source>
-        <translation type="unfinished">3 GB</translation>
+        <translation>3 GB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="87"/>
         <source>4 GB</source>
-        <translation type="unfinished">4 GB</translation>
+        <translation>4 GB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="88"/>
         <source>6 GB</source>
-        <translation type="unfinished">6 GB</translation>
+        <translation>6 GB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="89"/>
         <source>8 GB</source>
-        <translation type="unfinished">8 GB</translation>
+        <translation>8 GB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="90"/>
         <source>12 GB</source>
-        <translation type="unfinished">12 GB</translation>
+        <translation>12 GB</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="91"/>
         <source>16 GB</source>
-        <translation type="unfinished">16 GB</translation>
+        <translation>16 GB</translation>
     </message>
 </context>
 <context>
@@ -21589,43 +21607,43 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>GPU RayCast</source>
-        <translation type="unfinished">GPU RayCast</translation>
+        <translation>GPU RayCast</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Técnico:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+        <translation>Seleccione la técnica de proyección de rayos para las vistas donde el volumen actual es visible</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation type="unfinished">Option for removing wood-grain artifacts by applying random noise to raycasting</translation>
+        <translation>Opción para eliminar artefactos de vetas de madera mediante la aplicación de ruido aleatorio al raycasting</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="49"/>
         <source>Surface smoothing:</source>
-        <translation type="unfinished">Surface smoothing:</translation>
+        <translation>Alisado de superficies:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Compuesto con sombreado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyección de Máxima Intensidad</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="70"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyección de Intensidad Mínima</translation>
     </message>
 </context>
 <context>
@@ -21641,22 +21659,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
         <source>Loading file... </source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando archivo… </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="95"/>
         <source>Loading ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando&#xa0;…</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="304"/>
         <source>Select a reader</source>
-        <translation type="unfinished">Select a reader</translation>
+        <translation>Seleccione un lector</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="305"/>
@@ -21667,37 +21685,37 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"/>
         <source>Loading file </source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando archivo </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="566"/>
         <source>Adding data succeeded</source>
-        <translation type="unfinished">Adding data succeeded</translation>
+        <translation>Adición de datos correcto</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="568"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
-        <translation type="unfinished">The selected files were loaded successfully but errors or warnings were reported.</translation>
+        <translation>Los archivos seleccionados se cargaron correctamente pero se informaron errores o advertencias.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="572"/>
         <source>Adding data failed</source>
-        <translation type="unfinished">Adding data failed</translation>
+        <translation>Incorrecto al añadir datos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="574"/>
         <source>Error occurred while loading the selected files.</source>
-        <translation type="unfinished">Error occurred while loading the selected files.</translation>
+        <translation>Se produjo un error al cargar los archivos seleccionados.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="579"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
-        <translation type="unfinished">Click &apos;Show details&apos; button and check the application log for more information.</translation>
+        <translation>Pulse sobre el botón ‘Mostrar detalles’ y consulte la bitácora de la aplicación para obtener más información.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="586"/>
         <source>Check the application log for more information.</source>
-        <translation type="unfinished">Check the application log for more information.</translation>
+        <translation>Consulte la bitácora de la aplicación para obtener más información.</translation>
     </message>
 </context>
 <context>
@@ -21705,7 +21723,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades de Exhibición del Volumen de Labelmap</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
@@ -31549,7 +31567,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLdGEMRICProceduralColorNode.cxx" line="28"/>
         <source>d GEMRIC Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>d GEMRIC Color procedimental</translation>
     </message>
 </context>
 <context>
