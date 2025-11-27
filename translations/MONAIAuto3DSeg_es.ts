@@ -375,7 +375,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="392"/>
         <source>If enabled (default) then segment names are obtained from Slicer standard terminology files. If disabled then internal identifiers are used as segment names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si renombró (por defecto) entonces los nombres de segmentos son obtenidos desde archivos de terminología estándar Slicer. Si inhabilitó entonces los identificadores internos son utilizados como nombres de segmento.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="405"/>
@@ -832,7 +832,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="40"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación</translation>
     </message>
 </context>
 </TS>
