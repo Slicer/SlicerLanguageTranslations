@@ -798,7 +798,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
         <source>Surface Models</source>
-        <translation>Modelos de Superficie</translation>
+        <translation>Modelos Superficie</translation>
     </message>
 </context>
 <context>
