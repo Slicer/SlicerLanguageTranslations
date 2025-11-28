@@ -2212,7 +2212,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="46"/>
         <source>Select which transform you want to add below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione qué transformación desea agregar a continuación.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="49"/>
@@ -2225,42 +2225,42 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="452"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="563"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
         <source>Remove the transform selected below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimine la transformación seleccionada a continuación.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="67"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">-</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="74"/>
         <source>Add the transform to the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregue la transformación a la lista a continuación.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="77"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">+</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="97"/>
         <source>The node in which to store the result.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo en el que almacenar el resultado.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="115"/>
         <source>The changed state of the input</source>
-        <translation type="unfinished"></translation>
+        <translation>El estado cambiado de la entrada</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="133"/>
         <source>Input &apos;Forward&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de Transformación de Entrada hacia &apos;Adelante&apos;</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="140"/>
@@ -2296,7 +2296,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="217"/>
         <source>Check to enable filtering. If unchecked then the input transform is copied to the output without filtering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar para habilitar el filtrado. Si no está marcada, la transformación de entrada se copia en la salida sin filtrar.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="227"/>
@@ -2693,29 +2693,29 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="253"/>
         <source>Optimization mode (turn off optimization only if it is not stable on your architecture)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de optimización (desactivar la optimización solo si no es estable en su arquitectura)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="260"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="270"/>
         <source>Method for compounding overlapping input pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Método para combinar píxeles de entrada superpuestos</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="263"/>
         <source>Compounding mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo compuesto:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="277"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="287"/>
         <source>Indicates if hole filling should be applied on reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicar si se debe aplicar relleno de orificios en el volumen reconstruido</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="280"/>
         <source>Fill holes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellenar agujeros:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="297"/>
