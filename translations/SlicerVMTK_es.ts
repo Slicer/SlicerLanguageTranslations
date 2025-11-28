@@ -2210,48 +2210,48 @@ PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subve
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="267"/>
         <source>No input slice node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha especificado ningún nodo de segmento de entrada.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="273"/>
         <source>No volume node selected in input slice node.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ningún nodo de volumen seleccionado en el nodo de segmento de entrada.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="284"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al calcular los resultados: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="368"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="391"/>
         <source>Invalid segmentation or segmentID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación no válida o segmentID.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="380"/>
         <source>Number of regions in segment: </source>
-        <translation type="unfinished"></translation>
+        <translation>Número de regiones en el segmento: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="430"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de parámetro es None.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="434"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento iniciado</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="436"/>
         <source>Segment editor setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración del editor de segmentos</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="454"/>
         <source>Background volume node in the selected slice node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de volumen de fondo en el nodo de segmento seleccionado es None.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="570"/>
@@ -2287,7 +2287,7 @@ PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subve
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="117"/>
         <source>Input curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva de entrada:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="124"/>
@@ -2714,27 +2714,27 @@ Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P4
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="382"/>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="404"/>
         <source>Invalid segmentation or segmentID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación no válida o segmentID.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="393"/>
         <source>Number of regions in segment: </source>
-        <translation type="unfinished"></translation>
+        <translation>Número de regiones en el segmento: </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="441"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de parámetro es None.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="445"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento iniciado</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="447"/>
         <source>Segment editor setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración del editor de segmentos</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="455"/>
