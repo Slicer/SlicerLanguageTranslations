@@ -2797,32 +2797,32 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="475"/>
         <source> Crop rectangle origin X component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> Recortar rectángulo origen X componente (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="491"/>
         <source> Crop rectangle origin Y component(in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> Recortar el componente Y de origen del rectángulo(en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="506"/>
         <source>Crop rectangle size (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte el tamaño del rectángulo (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="509"/>
         <source>Clip rectangle size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño del rectángulo del clip:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="521"/>
         <source>Crop rectangle size X component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte el tamaño del rectángulo X componente (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="534"/>
         <source>Crop rectangle size Y component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte el componente Y del tamaño del rectángulo (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="555"/>
