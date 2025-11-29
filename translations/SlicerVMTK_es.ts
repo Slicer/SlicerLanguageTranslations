@@ -2824,12 +2824,12 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="193"/>
         <source>ROI node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo ROI:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="203"/>
         <source>Fiducial node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo fiduciario:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="210"/>
@@ -2839,12 +2839,12 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="217"/>
         <source>Select an output segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione una segmentación de salida</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="246"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija una vista de sector. Se utilizará el nodo de volumen de fondo. Tenga cuidado de usar el nodo de volumen correcto.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="442"/>
