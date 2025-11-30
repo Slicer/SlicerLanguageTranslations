@@ -3119,27 +3119,27 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonido</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="302"/>
         <source>Make list active</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer lista activa</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="303"/>
