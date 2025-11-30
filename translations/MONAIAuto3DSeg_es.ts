@@ -423,17 +423,17 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="469"/>
         <source>Show all models in &quot;Segmentation model&quot; list, including old versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra todos los modelos en el listado de “Modelo de segmentación”, incluyendo las versiones antiguas.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="479"/>
         <source>Manage models:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionar modelos:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="488"/>
         <source>Open the folder that contains all downloaded files for models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre la carpeta que contiene todos los archivos descargados por modelos.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="491"/>
