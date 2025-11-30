@@ -961,7 +961,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="684"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="617"/>
         <source>Annotation Date:</source>
-        <translation>Fecha de Anotación:</translation>
+        <translation>Fecha de anotación:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="685"/>
