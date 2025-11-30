@@ -3195,27 +3195,27 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
         <source>&apos;From&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista fiduciaria &apos;From&apos; tiene muy pocos fiduciables (se requieren un mínimo de 3).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="248"/>
         <source>&apos;To&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista fiduciaria &apos;To&apos; tiene muy pocos fiduciables (se requieren un mínimo de 3).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
         <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las listas fiduciarias tienen un número desigual de fiduciales (&apos;From&apos; tiene %1, &apos;To &apos; tiene %2). Ajustar las listas o usar la coincidencia automática de puntos. Abortar el registro.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
         <source>Automatic point matching is currently supported only for rigid registration. Currently %1 registration is being used. Unexpected results may occur.</source>
-        <translation type="unfinished"></translation>
+        <translation>La coincidencia automática de puntos actualmente solo se admite para el registro rígido. Actualmente se está utilizando el registro %1. Pueden ocurrir resultados inesperados.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="298"/>
         <source>Too many points to compute point pairing %1. To avoid long computation time, there should be at most %2 points. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Demasiados puntos para calcular el emparejamiento de puntos %1. Para evitar un tiempo de cálculo prolongado, debería haber como máximo %2 puntos. Abortar el registro.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="316"/>
