@@ -1376,7 +1376,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation>Este trabajo fue financiado por Cancer Care Ontario y el Consorcio de Ontario para Intervenciones Adaptativas en Radiooncología (OCAIRO).</translation>
+        <translation>Este trabajo fue financiado por Cancer Care Ontario y el Consorcio de Ontario para Intervenciones Adaptativas en Radiooncología (OCAIRO)</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
@@ -1592,12 +1592,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="32"/>
         <source>vtkMRMLPathPlannerTrajectoryNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLPathPlannerTrajectoryNode</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="37"/>
         <source>Trajectory list</source>
-        <translation type="unfinished"></translation>
+        <translation>Listado de trayectorias</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="49"/>
@@ -1719,17 +1719,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="183"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start collecting data for pivot calibration. The calibration will be computed and orientation will be appropriately flipped on completion.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comience a recopilar datos para la calibración del pivote. La calibración se calculará y la orientación se invertirá correctamente al finalizar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="186"/>
         <source>Start Pivot Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de Calibración de Pivote</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="196"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start collecting data for spin calibration. The calibration will be computed and orientation will be appropriately flipped on completion.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comience a recopilar datos para la calibración del giro. La calibración se calculará y la orientación se invertirá correctamente al finalizar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="199"/>
@@ -1766,7 +1766,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="333"/>
         <source>Pivot auto-calibrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-calibración de pivote</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="374"/>
@@ -1786,7 +1786,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="408"/>
         <source>Settings</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="417"/>
@@ -1796,7 +1796,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="420"/>
         <source>Snap rotation to right-angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Chasquear la rotación al ángulo recto</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="427"/>
@@ -2042,7 +2042,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="26"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="29"/>
         <source>GroupBox</source>
-        <translation type="unfinished">GroupBox</translation>
+        <translation>GroupBox</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="51"/>
@@ -2054,7 +2054,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
@@ -2066,19 +2066,19 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <source>vtkMRMLMarkupsPlaneNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLMarkupsPlaneNode</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <source>vtkMRMLMarkupsLineNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLMarkupsLineNode</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
         <source>vtkMRMLAnnotationRulerNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLAnnotationRulerNode</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
@@ -2169,7 +2169,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="51"/>
         <source>vtkMRMLTransformableNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLTransformableNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="68"/>
@@ -2336,7 +2336,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="348"/>
         <source>Advanced Translation Options</source>
-        <translation type="unfinished">Opciones de Traducción Avanzadas</translation>
+        <translation>Opciones de Traducción Avanzadas</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="364"/>
@@ -2632,7 +2632,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
         <source>vtkMRMLAnnotationROINode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
@@ -2757,12 +2757,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="361"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="379"/>
         <source>vtkMRMLSequenceBrowserNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLSequenceBrowserNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="394"/>
@@ -2983,7 +2983,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="75"/>
         <source>This module allows to set reslicing planes by using linear transforms nodes or positions/orientations in image nodes. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite definir planos de recorte mediante nodos de transformaciones lineales o posiciones/orientaciones en nodos de imagen. Para obtener ayuda sobre cómo usar este módulo, visite el sitio web: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="84"/>
@@ -3039,12 +3039,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>
@@ -3144,17 +3144,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="303"/>
         <source>Delete highlighted row</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar fila resaltada</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="463"/>
         <source>valid</source>
-        <translation type="unfinished"></translation>
+        <translation>válido</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="468"/>
         <source>invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>no válido</translation>
     </message>
 </context>
 <context>
@@ -3162,7 +3162,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="390"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="391"/>
@@ -3172,7 +3172,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconocido</translation>
     </message>
 </context>
 <context>
@@ -3180,17 +3180,17 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="223"/>
         <source>&apos;From&apos; fiducial list is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista fiducial ‘Origen’ no está definida.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="230"/>
         <source>&apos;To&apos; fiducial list is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista fiducial ‘Destino’ no está definida.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="237"/>
         <source>Output transform is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformación de salida no está definida.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
@@ -3205,7 +3205,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
         <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
-        <translation>Las listas fiduciarias tienen un número desigual de fiduciales (&apos;From&apos; tiene %1, &apos;To &apos; tiene %2). Ajustar las listas o usar la coincidencia automática de puntos. Abortar el registro.</translation>
+        <translation>Las listas fiduciarias tienen un número desigual de fiduciales (&apos;Origen&apos; tiene %1, &apos;Destino &apos; tiene %2). Ajustar las listas o usar la coincidencia automática de puntos. Abortar el registro.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
@@ -3220,48 +3220,49 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="316"/>
         <source>Could not find a good mapping. Mean squared distance error was %1, but tolerance is %2. Results are not expected to be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar una buena asignación. El error cuadrático medio fue del 1%, pero la tolerancia es del 2%. No se espera que los resultados sean precisos.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="326"/>
         <source>The &apos;best&apos; point matching is reported as ambiguous and may be incorrect. This could happen because the point geometry is symmetric. Results are not necessarily expected to be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>La ‘mejor’ coincidencia de puntos se reporta como ambigua y podría ser incorrecta. Esto podría deberse a que la geometría del punto es simétrica. No se espera necesariamente que los resultados sean precisos.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="337"/>
         <source>Unrecognized point matching method: %1. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de punto coincidente no reconocido: %1. Registro interrumpido.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="347"/>
         <source>&apos;From&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation type="unfinished"></translation>
+        <translation>El listado fiducial &apos;Remite&apos; tiene puntos estrictamente colineales o singulares.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="354"/>
         <source>&apos;To&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Listado ‘Destino’ fiducial tiene colineal estrictamente o puntos singulares.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="400"/>
         <source>Warping transform cannot be stored
 in linear transform node</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformación de deformación no se puede
+almacenar en el nodo de transformación lineal</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="452"/>
         <source>Invalid transform type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de transformación no válido.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="460"/>
         <source>Failed to retreive transform from node. RMS Error could not be evaluated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al recuperar la transformación del nodo. No se pudo evaluar el error RMS.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="466"/>
         <source>Registration Complete. RMS Error: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro completo. Error RMS: %1.</translation>
     </message>
 </context>
 </TS>
