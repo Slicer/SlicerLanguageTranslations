@@ -296,7 +296,7 @@ Archivos de traducción instalados en {location}: {count}.</translation>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="684"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
-        <translation>Esta versión Ranura no admite tipografías de visor personalizadas.</translation>
+        <translation>Esta versión Slicer no admite tipografías de visor personalizadas.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="707"/>
