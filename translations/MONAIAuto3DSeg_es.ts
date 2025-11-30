@@ -40,7 +40,10 @@ Consulta más información en la &lt;a href=&quot;https://github.com/lassoan/Sli
 This file was originally developed by Andras Lasso (PerkLab, Queen&apos;s University).
 The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Andras Lasso (PerkLab, Queen&apos;s University).
+El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="190"/>
@@ -246,7 +249,8 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="806"/>
         <source>Connection to remote server &apos;{server_address}&apos; failed. 
 Please check address, port, and connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo en la conexión al servidor remoto &apos;{server_address}&apos;.
+Compruebe la dirección, el puerto y la conexión.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="814"/>
@@ -438,58 +442,58 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="491"/>
         <source>Open models cache folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre carpeta de caché de modelos</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="498"/>
         <source>Delete all downloaded files for all models. The files will be automatically downloaded again as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borra todos los archivos descargados para todos los modelos. Los archivos serán descargados automáticamente de nuevo como se necesite.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="501"/>
         <source>Clear cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaciar caché</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="510"/>
         <source>Auto show 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto mostrar 3D:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="517"/>
         <source>If enabled then the segmentation will be shown in 3D by default (takes extra time).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está habilitado, la segmentación se mostrará en 3D de manera predeterminada (toma tiempo adicional).</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="533"/>
         <source>Local segmentation server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor de segmentación local</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="542"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Puerto:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="562"/>
         <source>Log to Console: </source>
-        <translation type="unfinished"></translation>
+        <translation>Acceder a Consola: </translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="576"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished"></translation>
+        <translation>Acceder a IGU: </translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="540"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="597"/>
         <source>Start server</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrancar servidor</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="607"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección de servidor:</translation>
     </message>
 </context>
 <context>
@@ -497,157 +501,157 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="3"/>
         <source>Abdominal organs TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Órganos abdominales TS2 - breve</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="4"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_organs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja resolución (3 mm) para una vista previa rápida. Entrenado con class_map_part_organs del conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="5"/>
         <source>human</source>
-        <translation type="unfinished"></translation>
+        <translation>humano</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="6"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="7"/>
         <source>Abdominal organs TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Órganos abdominales TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="8"/>
         <source>Trained on class_map_part_organs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrenado con class_map_part_organs del conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada abdominal, de tórax o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="9"/>
         <source>Body TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuerpo TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="10"/>
         <source>Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrenado con el conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada abdominal, de tórax o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="11"/>
         <source>Body TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuerpo TS2 - breve</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="12"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja resolución (3 mm) para una vista previa rápida. Entrenado con el conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada abdominal, de tórax o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="13"/>
         <source>Vertebrae TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Vértebra TS2 - breve</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución baja (3 mm) para una vista previa rápida. Entrenado con class_map_part_vertebrae del conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada (TC) abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="15"/>
         <source>Vertebrae TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vértebra TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="16"/>
         <source>Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrenado con class_map_part_vertebrae del conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada (TC) abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="17"/>
         <source>Mediastinal anatomy TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomía del mediastino TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="18"/>
         <source>Mediastinal anatomy TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomía del mediastino TS2 - breve</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="19"/>
         <source>Whole Head Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de cabeza completa</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="20"/>
         <source>Model trained on CT scans for whole head segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo entrenado en TC para segmentación de cabeza completa.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="21"/>
         <source>Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="22"/>
         <source>Whole Head Segmentation - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de cabeza completa - breve</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="23"/>
         <source>Low-resolution (1mm) for quick preview. Model trained on CT scans for whole head segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja resolución (1 mm) para una vista previa rápida. Modelo entrenado con TC para la segmentación completa de la cabeza.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="24"/>
         <source>Whole body segmentation TS1</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de cuerpo completo TS1</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="25"/>
         <source>Segment 104 structures (abdominal organs, bones, vessels) on CT images. Trained on TotalSegmentatorV1 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentar 104 estructuras (órganos abdominales, huesos, vasos sanguíneos) en imágenes de TC. Entrenado con el conjunto de datos TotalSegmentatorV1.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="26"/>
         <source>Whole body segmentation TS1 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de cuerpo entero TS1 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="27"/>
         <source>Whole body segmentation TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de cuerpo entero TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="28"/>
         <source>Segment &gt;100 structures (abdominal organs, bones, vessels, etc) on CT images. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmente &gt; 100 estructuras (órganos abdominales, huesos, vasos, etc.) en imágenes de TC. Entrenado con el conjunto de datos TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="29"/>
         <source>Whole body segmentation TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de cuerpo entero TS2 - breve</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="30"/>
         <source>Abdominal organs TS1</source>
-        <translation type="unfinished"></translation>
+        <translation>Órganos abdominales TS1</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="31"/>
         <source>Segment 17 abdominal organs. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento 17 de órganos abdominales. Entrenado con el conjunto de datos TotalSegmentatorV1. La imagen de entrada es una TC abdominal, de tórax o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="32"/>
         <source>Prostate - Multisequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Próstata - Multisecuencia</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="33"/>
         <source>Segments peripheral (PZ) and transition zone (TZ) on T2 and ADC sequences. Trained on Medical Segmentation Decathlon dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentos periféricos (ZP) y de transición (ZT) en secuencias T2 y ADC. Entrenado con el conjunto de datos de segmentación médica Decathlon.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="34"/>
@@ -657,177 +661,177 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="35"/>
         <source>Input T2 volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="36"/>
         <source>Input ADC volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada ADC</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="37"/>
         <source>Ribs TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Costillas TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="38"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_ribs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución baja (3 mm) para una vista previa rápida. Entrenado con class_map_part_ribs del conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada abdominal, de tórax o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="39"/>
         <source>Ribs TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Costillas TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="40"/>
         <source>class_map_part_ribs: Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>class_map_part_ribs: Entrenado con el conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada abdominal, de tórax o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="41"/>
         <source>Muscles TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Músculos TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="42"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución baja (3 mm) para una vista previa rápida. Entrenado con class_map_part_muscles del conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="43"/>
         <source>Muscles TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Músculos TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="44"/>
         <source>Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrenado con class_map_part_muscles del conjunto de datos TotalSegmentatorV2. La imagen de entrada es una tomografía computarizada abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="45"/>
         <source>Cardiac TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Cardíaco TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="46"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_cardiac of TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución baja (3 mm) para una vista previa rápida. Entrenado con class_map_part_cardiac del conjunto de datos TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="47"/>
         <source>Cardiac TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cardiaco TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="48"/>
         <source>class_map_part_cardiac: Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>class_map_part_cardiac: Entrenado en el conjunto de datos TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="49"/>
         <source>Lungs - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulmones - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución baja (3 mm) para una vista previa rápida. Entrenado con el conjunto de datos TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="51"/>
         <source>Lungs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulmones</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="52"/>
         <source>Segment 9 segments: lung segments, pulmonary vein, pulmonary artery, lung vessels and trachea. Trained on TotalSegmentatorV2 datasets. In v1.x there are no pulmonary vein and artery segments but there is esophagus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento 9: segmentos pulmonares, vena pulmonar, arteria pulmonar, vasos pulmonares y tráquea. Entrenado con los conjuntos de datos TotalSegmentator V2. En la versión 1.x no hay segmentos de vena y arteria pulmonar, pero sí esófago.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="53"/>
         <source>Hips and spine</source>
-        <translation type="unfinished"></translation>
+        <translation>Caderas y columna vertebral</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="54"/>
         <source>Segment 27 segments: hips, sacrum and vertebrae. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento 27: caderas, sacro y vértebras. Entrenado con el conjunto de datos TotalSegmentatorV1. La imagen de entrada es una tomografía computarizada abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="55"/>
         <source>Aorta</source>
-        <translation type="unfinished"></translation>
+        <translation>Aorta</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="56"/>
         <source>Aorta segmentation. Trained on TotalSegmentatorV1 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de la aorta. Capacitación basada en el conjunto de datos TotalSegmentatorV1.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="57"/>
         <source>Intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de la hemorragia intracraneal (ICrH)</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="58"/>
         <source>Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de hemorragia intracraneal mediante imágenes de TC.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="59"/>
         <source>Brain and intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de hemorragia cerebral e intracraneal (ICrH)</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="60"/>
         <source>Brain Anatomy and Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomía cerebral y segmentación de hemorragia intracraneal mediante imágenes de TC.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
         <source>Brain Tumor Segmentation (BRATS) GLI</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) GLI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="62"/>
         <source>Input T2F volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T2F</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="63"/>
         <source>Input T1C volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T1C</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="64"/>
         <source>Input T1N volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T1N</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="65"/>
         <source>Input T2W volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T2W</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="66"/>
         <source>Brain Tumor Segmentation (BRATS) MEN</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) MEN</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="67"/>
         <source>Brain Tumor Segmentation (BRATS) MET</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) MET</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="68"/>
         <source>Brain Tumor Segmentation (BRATS) PED</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) PED</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="69"/>
         <source>Brain Tumor Segmentation (BRATS) SSA</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) SSA</translation>
     </message>
 </context>
 <context>
