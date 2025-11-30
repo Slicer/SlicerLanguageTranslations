@@ -29,7 +29,10 @@
 3D Slicer extension for segmentation using MONAI Auto3DSeg AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Extensión 3D Slicer para segmentación con el modelo de IA MONAI Auto3DSeg.
+Consulta más información en la &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;documentación de la extensión&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="51"/>
@@ -177,67 +180,67 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="741"/>
         <source>Failed to retrieve model information</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al recuperar la información del modelo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="746"/>
         <source>No sample data is available for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay disponibles datos de muestra para este modelo.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="753"/>
         <source>Failed to download sample data</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron descargar los datos de muestra</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="759"/>
         <source>Failed to load sample data set &apos;{sample_data_name}&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo cargar el conjunto de datos de muestra &apos;{sample_data_name}&apos;.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="769"/>
         <source>Failed to get MONAI package version information</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo obtener la información de la versión del paquete MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="774"/>
         <source>Failed to upgrade MONAI</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo mejorar MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="778"/>
         <source>This MONAI update requires a 3D Slicer restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta actualización de MONAI requiere reiniciar 3D Slicer.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="778"/>
         <source>Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse Aceptar para reiniciar.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="789"/>
         <source>There are no downloaded models.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay modelos descargados.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="791"/>
         <source>All downloaded model files will be deleted. The files will be automatically downloaded again as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se eliminarán todos los archivos de modelo descargados. Se descargarán automáticamente cuando sea necesario.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="794"/>
         <source>Downloaded models are deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los modelos descargados son eliminados.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="799"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="803"/>
         <source>Remote Server Connected {server_address}. {models_len} models are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor Remoto Conectado {server_address}. Hay {models_len} modelos disponibles.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="806"/>
@@ -249,7 +252,7 @@ Please check address, port, and connection.</source>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="814"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="112"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectar</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="819"/>
