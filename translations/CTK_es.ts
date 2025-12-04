@@ -3724,7 +3724,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
         <source>Missing element %1 (Reference ID = %2.)</source>
-        <translation>Elemento %1 ausente (ID de referencia = %2).</translation>
+        <translation type="unfinished">Elemento %1 ausente (ID de referencia = %2).</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="38"/>
