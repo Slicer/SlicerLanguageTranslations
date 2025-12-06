@@ -5391,22 +5391,22 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"/>
         <source>Stopping criterion for the iterative bias estimation. Larger values will lead to smaller execution time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Criterio de detención para la estimación de sesgo iterativo. Valores más grandes conducirán a un tiempo de ejecución más pequeño.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
         <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de B-spline utilizado en la aproximación. Los valores más grandes conducirán a tiempos de ejecución más largos, pueden provocar un sobreajuste y un resultado deficiente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir cuánto se debe muestrear al alza la imagen antes de estimar el campo de falta de homogeneidad. Aumentar si desea reducir el tiempo de ejecución. 1 corresponde a la resolución original. Los valores más grandes reducirán significativamente el tiempo de cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
         <source>Wiener filter noise. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruido del filtro Wiener. Cero implica el uso del valor predeterminado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"/>
@@ -7766,17 +7766,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione los parámetros de volúmenes de cultivo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="116"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaya al módulo Volumen de recorte para editar los parámetros de recorte.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes de volumen de recorte: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="126"/>
@@ -7794,7 +7794,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="36"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite importar, cargar y exportar archivos DICOM y enviar datos de recepción mediante redes DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="38"/>
@@ -7809,12 +7809,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="278"/>
         <source>DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM database</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="361"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración genérica de DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
@@ -7824,22 +7824,22 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
         <source>DICOM general settings</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM configuración general</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Determina si se ofrecen series DICOM referenciadas al cargar DICOM o el comportamiento automático si la interacción está deshabilitada. La selección interactiva de series referenciadas es la selección predeterminada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregunta al usuario</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="378"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Siempre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="379"/>
