@@ -5520,27 +5520,27 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="24"/>
         <source>LSP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="25"/>
         <source>RIA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="26"/>
         <source>LIA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="27"/>
         <source>RSA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="28"/>
         <source>LSA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="29"/>
@@ -12976,19 +12976,19 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="585"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 en %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="597"/>
         <source>Unknown in %1</source>
         <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desconocido en %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="617"/>
         <source>%1: %2</source>
         <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: %2</translation>
     </message>
 </context>
 <context>
@@ -13084,7 +13084,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades del Ángulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
@@ -13259,22 +13259,22 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="115"/>
         <source>Spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="119"/>
         <source>Kochanek spline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kochanek spline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="123"/>
         <source>Polynomial</source>
-        <translation type="unfinished"></translation>
+        <translation>Polinomio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="127"/>
         <source>Shortest distance on surface</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia más corta en superficie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="132"/>
@@ -13284,12 +13284,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="144"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="148"/>
         <source>Additive</source>
-        <translation type="unfinished"></translation>
+        <translation>Aditivo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="152"/>
