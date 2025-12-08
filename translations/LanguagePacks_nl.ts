@@ -6,12 +6,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="17"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Download, compileer en installeer de nieuwste vertalingen</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>Werk vertalingsbestanden bij</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
@@ -26,47 +26,47 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="212"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Talen:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate (nieuwste vertalingen)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (wordt dagelijks bijgewerkt)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="236"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokale map (voor offline gebruik)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="243"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slechts het nieuwste bestand:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernieuw de Weblate-taallijst middels een Weblate-serververzoek</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="256"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>hernieuw</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="263"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de vertaling(en) die je gedownload en geïnstalleerd hebben wil.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Map met de vertalingsbestanden (.ts).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="285"/>
@@ -76,7 +76,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="151"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal van de toepassing:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="164"/>
