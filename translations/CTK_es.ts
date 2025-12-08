@@ -5919,12 +5919,12 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Please enter user name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, introduzca el nombre de usuario.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="209"/>
         <source>Invalid Login Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de Inicio de Sesión No Válido</translation>
     </message>
 </context>
 <context>
@@ -5932,14 +5932,14 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ventana principal</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="23"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="90"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="195"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="33"/>
