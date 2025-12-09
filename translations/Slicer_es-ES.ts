@@ -5595,17 +5595,17 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="39"/>
         <source>RAI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="40"/>
         <source>LAI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="41"/>
         <source>RPS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="43"/>
@@ -5615,12 +5615,12 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="44"/>
         <source>LAS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LAS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="45"/>
         <source>PRI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PRI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="46"/>
@@ -18641,17 +18641,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="45"/>
         <source>RGBA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RGBA</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="55"/>
         <source>Independent</source>
-        <translation type="unfinished"></translation>
+        <translation>Independiente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="75"/>
         <source>Component Index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de Componentes:</translation>
     </message>
 </context>
 <context>
@@ -18924,7 +18924,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="4"/>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="4"/>
         <source>Morphology</source>
-        <translation type="unfinished"></translation>
+        <translation>Morfología</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="85"/>
@@ -18943,7 +18943,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="81"/>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="3"/>
         <source>Quantification</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuantificación</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="90"/>
@@ -18951,18 +18951,18 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="3"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="3"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Legado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="82"/>
         <source>Registration.Specialized</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro.Especializado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="27"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="188"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Secuencias</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="344"/>
@@ -18977,7 +18977,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="33"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidores</translation>
     </message>
 </context>
 <context>
@@ -19116,7 +19116,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
         <source>Join Us on LinkedIn</source>
         <oldsource>Join Us on Twitter</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Únete a Nosotros en LinkedIn</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="112"/>
