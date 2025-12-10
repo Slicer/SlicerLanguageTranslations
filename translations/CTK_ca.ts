@@ -668,7 +668,7 @@ degut a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="505"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Envia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="508"/>
@@ -880,7 +880,7 @@ degut a:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="369"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Indica si els documents han de ser copiats al directori de bases local o només s&apos;han de crear enllaços?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="371"/>
