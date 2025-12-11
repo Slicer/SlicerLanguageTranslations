@@ -30,7 +30,7 @@
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
         <translation>
-Extensión 3D Slicer para segmentación con el modelo de IA MONAI Auto3DSeg.
+Extensión 3D Slicer para segmentación usando modelo de IA MONAI Auto3DSeg.
 Consulta más información en la &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;documentación de la extensión&lt;/a&gt;.
 </translation>
     </message>
@@ -656,7 +656,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="34"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="35"/>
