@@ -3001,7 +3001,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="118"/>
         <source>Displays warning if selected transforms are not continuously updated. It is useful for detecting tracking errors, such as occluded marker or network connection error. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation>Exhibe una advertencia si las transformaciones seleccionadas no se actualizan continuamente. Es útil para detectar errores de seguimiento, como marcadores ocluidos o errores de conexión de red. Para obtener ayuda sobre el uso de este módulo, visite el &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;sitio web de SlicerIGT&lt;/a&gt;.</translation>
+        <translation>Exhibe una advertencia si las transformaciones seleccionadas no se actualizan continuamente. Es útil para detectar errores de seguimiento, como marcadores ocluidos o errores de conexión de red. Para obtener ayuda sobre el uso de este módulo, visite el &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;sitio web SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
