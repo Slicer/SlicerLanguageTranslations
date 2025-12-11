@@ -3430,7 +3430,7 @@ Haga clic derecho para ver más.</translation>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="183"/>
         <source>Unknown surface node</source>
-        <translation>Node de superficie desconocido</translation>
+        <translation>Nodo de superficie desconocido</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="193"/>
