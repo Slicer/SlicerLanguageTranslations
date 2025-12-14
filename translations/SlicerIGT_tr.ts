@@ -269,17 +269,17 @@ Bu çalışma, Cancer Care Ontario (CCO) ACRU programı ve Ontario Radyasyon Onk
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dönüştürülecek modeli seçin. Bu model, seyrek (sparse) bir nokta kümesine ihtiyaç duyabilir.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
         <source>Input moving (sparse) model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Hareketli (seyrek) modeli girin: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
         <source>Pick the moving to fixed transform computed by the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritma tarafından hesaplanan hareketli → sabit dönüşümünü seçin.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
