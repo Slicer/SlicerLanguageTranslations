@@ -504,7 +504,7 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
         <source>ClipVessel</source>
-        <translation type="unfinished">ClipVessel</translation>
+        <translation>ClipVessel</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="210"/>
@@ -1018,12 +1018,12 @@ Se aplica el pincel &apos;Esfera&apos;. Se puede realizar una personalización a
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="547"/>
         <source>Split coordinates:</source>
-        <translation>Coordenadas divididas:</translation>
+        <translation>Coordenadas desglosadas:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="554"/>
         <source>Split coordinate system values into three separate table columns.</source>
-        <translation>Divida los valores del sistema de coordenadas en tres columnas de tabla separadas.</translation>
+        <translation>Desglose los valores del sistema de coordenadas en tres columnas de tabla separadas.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="516"/>
@@ -1181,12 +1181,12 @@ Después de una reparación completa de la superficie del lumen, las líneas cen
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="781"/>
         <source>Spin / Flip</source>
-        <translation>Girar / Dar la vuelta</translation>
+        <translation>Girar / Voltear</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="875"/>
         <source>Flip:</source>
-        <translation>Girar:</translation>
+        <translation>Voltear:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="884"/>
