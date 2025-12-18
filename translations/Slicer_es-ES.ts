@@ -24357,7 +24357,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="624"/>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de salida</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="676"/>
@@ -24384,13 +24384,13 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="829"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="961"/>
         <source>File writing may have failed because filename is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>La escritura del archivo puede haber fallado porque el nombre del archivo es demasiado largo: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="837"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="969"/>
         <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>La escritura del archivo puede haber fallado porque el nombre de la carpeta de salida es demasiado largo: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="845"/>
@@ -24429,7 +24429,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="38"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes preestablecidos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
@@ -24439,7 +24439,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
         <source>Select the color mapping for scalar volumes to colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione la asignación de colores para volúmenes escalares a colores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
@@ -24449,7 +24449,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
         <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando está marcada, las vistas de sectores mostrarán sectores interpolados linealmente a través de los volúmenes de entrada. Desmarcado indica remuestreo del vecino más cercano.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="96"/>
@@ -24459,12 +24459,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="103"/>
         <source>Reverse the order of colors in the lookup table to display this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invertir el orden de los colores en la tabla de búsqueda para mostrar este volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="149"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra el número de píxeles (eje y) frente a la intensidad de la imagen (eje x) sobre un fondo de la asignación actual de ventana/nivel y umbral.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="152"/>
@@ -24484,7 +24484,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="60"/>
         <source>MRB Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquete de datos MRB Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="123"/>
@@ -24548,7 +24548,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="87"/>
         <source>Update existing nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar nodos existentes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="89"/>
@@ -27148,12 +27148,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
         <source>Move current control point down</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el punto de control actual hacia abajo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
         <source>Jump slices to control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Salta partes al punto de control</translation>
     </message>
 </context>
 <context>
@@ -27169,12 +27169,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Clon</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="75"/>
         <source>Clone this item and its data node if any along with display and storage options</source>
-        <translation type="unfinished"></translation>
+        <translation>Clone este elemento y su nodo de datos, si lo hay, junto con las opciones de visualización y almacenamiento</translation>
     </message>
 </context>
 <context>
@@ -27190,27 +27190,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="108"/>
         <source>Create new subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear nuevo tema</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="112"/>
         <source>Create child study</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear estudio derivado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="116"/>
         <source>Convert folder to subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir carpeta a tema</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="120"/>
         <source>Convert folder to study</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir carpeta a estudio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="124"/>
         <source>Export to DICOM...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportación a DICOM...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="509"/>
@@ -27222,7 +27222,10 @@ Click Cancel, to create the patient/study hierarchy manually and drag-and-drop t
 Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
 
 If you&apos;d like to create the hierarchy manually, please click Cancel, then create a patient by right-clicking the empty area in Subject hierarchy in the Data module and choosing &apos;Create new subject&apos;. Study can be similarly created under the patient. The data to export can be drag&amp;dropped under the study.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Los datos a exportar deben estar bajo un elemento de estudio, colocados bajo un elemento de paciente en la jerarquía de temas.
+Se crearán el paciente y el estudio predeterminados y los datos seleccionados y sus conjuntos de datos relacionados se moverán a él para exportarlos.
+
+Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y arrastrar y soltar los datos exportables debajo del estudio.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="514"/>
