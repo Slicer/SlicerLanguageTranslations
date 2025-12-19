@@ -220,7 +220,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1015"/>
         <source>color</source>
-        <translation>Color</translation>
+        <translation>color</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1021"/>
