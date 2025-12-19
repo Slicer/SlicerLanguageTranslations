@@ -894,7 +894,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation>Desplazamientos máximos permitidos en las coordenadas físicas de la imagen (mm) para la cuadrícula de control BSpline a lo largo de cada eje. Un valor de 0&apos;0 indica que el problema no tiene restricciones. NOTA: Esto solo restringe la parte BSpline, y no limita el desplazamiento del transformador asociado. Esto puede llevar a una reducción sustancial en el tiempo de cómputo en el optimizador BSpline.
+        <translation>Desplazamientos máximos permitidos en las coordenadas físicas de la imagen (mm) para la cuadrícula de control BSpline a lo largo de cada eje. Un valor de 0&apos;0 indica que el problema no tiene restricciones. NOTA: Esto solo restringe la parte BSpline, y no limita el desplazamiento desde el transformador asociado. Esto puede llevar a una reducción sustancial en el tiempo de cómputo en el optimizador BSpline.
       </translation>
     </message>
     <message>
@@ -1016,7 +1016,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation>El número de vóxeles muestreados para el cálculo de información mutua.  Aumente esto para mayor precisión, a costa del tiempo de cálculo más largo.
+        <translation>El número de vóxeles de muestras tomadas para el cálculo de información mutua.  Aumente esto para mayor precisión, a costa del tiempo de cálculo más largo.
 Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opción. Sin embargo, si se establece en distinto de cero, NumberOfSamples sobrescribe la opción SamplingPercentage.  </translation>
     </message>
     <message>
@@ -3997,7 +3997,7 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished">El paso temporal depende de la dimensionalidad de la imagen. En Slicer, las imágenes son tridimensionales y el paso temporal predeterminado (.0625) proporcionará una solución estable.</translation>
+        <translation>El paso temporal depende de la dimensionalidad de la imagen. En Rebanador, las imágenes son tridimensionales y el paso temporal predeterminado (.0625) proporcionará una solución estable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
@@ -4077,15 +4077,15 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation>GrayscaleFillholeImageFilter rellena los huecos en una imagen en escala de grises. Los huecos son mínimos locales en la topografía en escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un hueco se extrapolan a lo largo de este.
+        <translation>GrayscaleFillholeImageFilter rellena los huecos en una imagen en escala de grises. Los huecos son mínimos locales en la topografía en escala de grises que no están conectados a las acotaciones de la imagen. Los valores de nivel de gris adyacentes a un hueco se extrapolan a lo largo de este.
 
 Este filtro se utiliza para suavizar los mínimos locales sin afectar los valores de los máximos locales. Si se toma la diferencia entre la salida de este filtro y la imagen original (y quizás se establece un umbral para la diferencia por encima de un valor pequeño), se obtendrá un mapa de los mínimos locales.
 
-Este filtro utiliza itkGrayscaleGeodesicErodeImageFilter. Este filtro proporciona su propia entrada como máscara para la erosión geodésica. La imagen de marcador para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor máximo de píxel de la imagen de entrada.
+Este filtro utiliza itkGrayscaleGeodesicErodeImageFilter. Esto proporciona su propia entrada como máscara para la erosión geodésica. el “marcador” de imagen para la erosión geodésica se construye de forma que los píxeles acotados coincidan con los píxeles de acotaciones de la imagen de entrada y los píxeles interiores se ajusten al valor máximo de píxel de la imagen de entrada.
 
-La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille &quot;Análisis Morfológico de Imágenes: Principios y Aplicaciones&quot;, segunda edición, Springer, 2003.
+La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille “Análisis Morfológico de Imágenes: Principios y Aplicaciones”, segunda edición, Springer, 2003.
 
-Un filtro complementario, Grayscale Grind Peak, elimina los picos en las imágenes en escala de grises.</translation>
+Un filtro complementario, Pico Amolación en Escalada Grisácea, elimina los picos en las imágenes en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
@@ -4999,7 +4999,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation>Seleccione esta opción para no generar modelos a partir de etiquetas que no tengan nombres definidos en la tabla de consulta de colores asociada al mapa de etiquetas de entrada. Si es &quot;true&quot;, solo se generarán los modelos que tengan una entrada en la tabla de colores. Si es &quot;false&quot;, se generarán todos los modelos que existan dentro del intervalo de etiquetas.</translation>
+        <translation>Seleccione esta opción para no generar modelos a partir de etiquetas que no tengan nombres definidos en la tabla de consulta de colores asociada al mapa de etiquetas de entrada. Si es “true”, solo se generarán los modelos que tengan una entrada en la tabla de colores. Si es “false”, se generarán todos los modelos que existan dentro del intervalo de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
@@ -5381,12 +5381,12 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
         <source>Number of histogram bins</source>
-        <translation type="unfinished">Número de histograma binario</translation>
+        <translation>Número de histograma binario</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
         <source>Maximum number of iterations at each level of resolution. Larger values will increase execution time, but may lead to better results.</source>
-        <translation type="unfinished">Número máximo de iteraciones en cada nivel de resolución. Los valores más largos incrementarán tiempo de ejecución, pero puede dejar a mejores resultados.</translation>
+        <translation>Número máximo de iteraciones en cada nivel de resolución. Los valores más grandes incrementarán tiempo de ejecución, pero puede conducir a mejores resultados.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"/>
@@ -5396,7 +5396,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
         <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
-        <translation>Orden de B-spline utilizado en la aproximación. Los valores más grandes conducirán a tiempos de ejecución más largos, pueden provocar un sobreajuste y un resultado deficiente.</translation>
+        <translation>Orden de B-spline utilizado en la aproximación. Los valores más grandes conducirán a tiempos de ejecución más largos, puede provocar un sobreajuste y un resultado deficiente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
@@ -5429,7 +5429,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
@@ -5454,7 +5454,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volumen de Entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
@@ -5485,7 +5485,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="42"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="18"/>
@@ -8225,7 +8225,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="72"/>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation>Sustituye los nombres de archivos y carpetas por nombres generados automáticamente. Corrige los errores causados por la ruta de archivo containins caracteres especiales o ser demasiado largo.</translation>
+        <translation>Sustituye los nombres de archivos y carpetas por nombres generados automáticamente. Corrige los errores causados por la ruta de archivo conteniendo caracteres especiales o ser demasiado largo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="73"/>
@@ -8723,7 +8723,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="158"/>
         <source>The current frame along the path.</source>
-        <translation>El fotograma actual a lo largo de la ruta.</translation>
+        <translation>El fotograma actual a lo largo de la trayectoria.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
@@ -10885,7 +10885,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="112"/>
         <source>Standard deviation of the Gaussian function that blurs the edge of the mask. Higher value makes the edge softer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desviación estándar de la función gaussiana que difumina el borde de la máscara. Un valor más alto suaviza el borde.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="117"/>
@@ -14893,7 +14893,7 @@ en ese caso, debe desactivar las opciones de representación &quot;backface&quot
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Thumbnail</source>
-        <translation>Miniaturas</translation>
+        <translation>Miniatura</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
@@ -15640,7 +15640,7 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="83"/>
         <source>Showing current segmentation labelmap geometry. Click here to change</source>
-        <translation>Se muestra la geometría actual del mapa de etiquetas de segmentación. Pulse aquí para cambiar.</translation>
+        <translation>Se muestra la geometría actual del mapa de etiquetas de segmentación. Pulse aquí para cambiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="90"/>
@@ -20397,7 +20397,7 @@ Si no se marca, el conjunto de datos exportado se añadirá a la base de datos D
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="133"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>El módulo Datos es el punto central de organización de datos, donde se presentan todos los datos cargados para su acceso y manipulación. Permite organizar los datos en carpetas o árboles de pacientes/estudios (automáticamente para DICOM), visualizar cualquier dato representado, transformar ramas completas y ofrecer una gama amplia de funciones específicas para cada tipo de datos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="152"/>
@@ -20661,7 +20661,7 @@ Si no se marca, el conjunto de datos exportado se añadirá a la base de datos D
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
         <source>Directory:</source>
-        <translation>Carpeta:</translation>
+        <translation>Directorio:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="75"/>
@@ -23021,27 +23021,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="298"/>
         <source>Set lock flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Establece indicador de bloqueo a apagado para todos los puntos de control dentro del marcado activo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="314"/>
         <source>Selected On</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionado Encendido</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="315"/>
         <source>Set selected flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Establece el indicador seleccionado encendido para todos los puntos de control en el marcado activo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="320"/>
         <source>Selected Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionado Apagado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="321"/>
         <source>Set selected flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Establece el indicador seleccionado apagado para todos los puntos de control en el marcado activo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="346"/>
@@ -23064,17 +23064,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="441"/>
         <source>Click in this column to select/deselect control points for passing to CLI modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse en esta columna para seleccionar/deseleccionar puntos de control para aprobar módulos de CLI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="447"/>
         <source>Click in this column to lock/unlock control points to prevent them from being moved by mistake</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse en esta columna para bloquear/desbloquear puntos de control para prevenirlos desde ser movido por equivocación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="453"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse en esta columna para mostrar/ocultar puntos de control en 2D y 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="459"/>
@@ -23084,27 +23084,32 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Skip: &apos;Place multiple control points&apos; mode skips over the control point entry
 - Restore: Set the control point position to its last known set position
 - Clear: Clear the defined control point position, but do not delete the control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse en esta columna para modificar la posición de estado del punto de control.
+
+- Editar: Introduzca el modo de lugar para modificar la posición del punto de control en la vista ranura
+- Omitir: Omite el control &apos;Colocar múltiples puntos de control&apos; sobre el apunte del punto de control.
+- Restaurar: Establece la posición del punto de control a su última posición establecida conocida.
+- Purgar: Purga la posición del punto de control definida, pero no borra el punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="756"/>
         <source>Create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="933"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse para desbloquear este listado de punto de control tal que los puntos pueden ser movidos por el ratón</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="938"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse para bloquear este listado de punto de control tal que los puntos no pueden ser movidos por el ratón</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="944"/>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse para desbloquear el número de puntos de control tal que los puntos puedan ser añadidos o borrados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="951"/>
@@ -26678,7 +26683,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
         <source>Disable tooltips:</source>
-        <translation>Desactivar las sugerencias</translation>
+        <translation>Inhabilitar sugerencias:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="148"/>
@@ -26803,7 +26808,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="129"/>
         <source>Python script that is executed after the application is started</source>
-        <translation>Script de Python que se ejecuta tras el inicio  de la aplicación</translation>
+        <translation>Script de Python que se ejecuta tras el inicio de la aplicación</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="132"/>
@@ -30868,7 +30873,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="53"/>
         <source>Plane</source>
-        <translation>Plano</translation>
+        <translation>Avión</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="56"/>
