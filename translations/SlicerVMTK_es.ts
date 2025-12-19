@@ -269,7 +269,7 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="273"/>
         <source>Centerline_Curve</source>
-        <translation>Línea central_curva</translation>
+        <translation>Centerline_Curve</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="278"/>
@@ -349,7 +349,7 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="64"/>
         <source>Inputs</source>
-        <translation>Insumos</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="70"/>
@@ -499,7 +499,7 @@ Hasta la creación de curva, la visibilidad de nombres puede estar especificada 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished">vtkMRMLScriptedModuleNode</translation>
+        <translation>vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
@@ -988,7 +988,7 @@ Se aplica el pincel &apos;Esfera&apos;. Se puede realizar una personalización a
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="468"/>
         <source>paint</source>
-        <translation>pintura</translation>
+        <translation>dibujar</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="493"/>
@@ -1290,7 +1290,7 @@ Se refiere al reformateo ortogonal en la navegación axial.</translation>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1040"/>
         <source>Show the maximum inscribed sphere diameter.</source>
-        <translation>Muestre el diámetro máximo de la esfera inscrita.</translation>
+        <translation>Muestra el diámetro máximo de la esfera inscrita.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="998"/>
@@ -1310,12 +1310,12 @@ Se refiere al reformateo ortogonal en la navegación axial.</translation>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1090"/>
         <source>Jump to the largest cross-section area point.</source>
-        <translation>Salte al punto de área de sección transversal más grande.</translation>
+        <translation>Salta al punto de área de sección transversal más grande.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1103"/>
         <source>Show cross-section at current point. Requires input lumen surface.</source>
-        <translation>Mostrar la sección transversal en el punto actual. Requiere superficie de lumen de entrada.</translation>
+        <translation>Muestra la sección transversal en el punto actual. Requiere superficie de lumen de entrada.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1055"/>
@@ -1678,7 +1678,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="377"/>
         <source>EditedCurve</source>
-        <translation type="unfinished">EditedCurve</translation>
+        <translation>EditedCurve</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="396"/>
@@ -1939,7 +1939,7 @@ La tortuosidad del tubo y la distribución del diámetro determinan este paráme
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="143"/>
         <source>ExtractCenterline</source>
-        <translation type="unfinished">ExtractCenterline</translation>
+        <translation>ExtractCenterline</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="166"/>
@@ -2191,7 +2191,7 @@ PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subve
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="141"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation>Error al instalar la extensión {nameOfExtension}</translation>
+        <translation>Incorrecto al instalar la extensión {nameOfExtension}</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="152"/>
@@ -2231,7 +2231,7 @@ PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subve
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="284"/>
         <source>Failed to compute results: </source>
-        <translation>Error al calcular los resultados: </translation>
+        <translation>Incorrecto al calcular los resultados: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="368"/>
