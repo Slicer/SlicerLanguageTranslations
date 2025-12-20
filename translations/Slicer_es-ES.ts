@@ -1188,7 +1188,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Integración con Slicer); (1=Departamento de Psiquiatría, Universidad de Iowa, 2=Departamento de Radiología, Universidad de Iowa, 3=Departamento de Ingeniería Biomédica, Universidad de Iowa, 4=Departamento de Ingeniería Eléctrica e Informática, Universidad de Iowa, 5=Laboratorio de Planificación Quirúrgica, Harvard)  </translation>
+        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Integración con Degmentación); (1=Departamento de Psiquiatría, Universidad de Iowa, 2=Departamento de Radiología, Universidad de Iowa, 3=Departamento de Ingeniería Biomédica, Universidad de Iowa, 4=Departamento de Ingeniería Eléctrica e Informática, Universidad de Iowa, 5=Laboratorio de Planificación Quirúrgica, Harvard)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
@@ -2077,7 +2077,7 @@ Permite fundición al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation>Cree una serie DICOM a partir de un volumen de cortes. El usuario puede especificar valores para etiquetas DICOM seleccionadas en la interfaz de usuario. Dado el número de etiquetas que tienen la serie DICOM, es imposible exponer todas las etiquetas en la interfaz de usuario. Por lo tanto, el usuario solo puede establecer etiquetas importantes.</translation>
+        <translation>Cree una serie DICOM a partir de un volumen de Segmentación. El usuario puede especificar valores para etiquetas DICOM seleccionadas en la interfaz de usuario. Dado el número de etiquetas que tienen la serie DICOM, es imposible exponer todas las etiquetas en la interfaz de usuario. Por lo tanto, el usuario solo puede establecer etiquetas importantes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
@@ -2132,7 +2132,7 @@ Permite fundición al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
         <source>Reverse Slices</source>
-        <translation>Rodajas de reverso</translation>
+        <translation>Segmentaciones Reversas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
@@ -2157,12 +2157,12 @@ Permite fundición al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
         <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
-        <translation>El formato de estilo printf se utilizará al crear el nombre de archivo DICOM por caída. Se puede omitir el signo de % principal.</translation>
+        <translation>El formato de estilo printf se utilizará al crear el nombre de archivo DICOM por segmentación. Se puede omitir el signo de % principal.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
         <source>Reverse the slices.</source>
-        <translation>Invierta las rodajas.</translation>
+        <translation>Invierta las segmentaciones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
@@ -2740,7 +2740,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation>El paso temporal depende de la dimensionalidad de la imagen. En Slicer, las imágenes son tridimensionales y el paso temporal predeterminado (.0625) proporcionará una solución estable.</translation>
+        <translation>El paso temporal depende de la dimensionalidad de la imagen. En Segmento, las imágenes son tridimensionales y el paso temporal predeterminado (.0625) proporcionará una solución estable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
@@ -2783,7 +2783,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation>Convierte imágenes de RM ponderadas por difusión en series DICOM al formato NRRD para su análisis en Slicer. Este programa se ha probado únicamente en un subconjunto limitado de formatos DTI DICOM disponibles de escáneres Siemens, GE y Philips. Actualmente, se trabaja en la compatibilidad con datos DICOM multiframe. El programa analiza el encabezado DICOM para extraer información necesaria como el marco de medición, las direcciones de ponderación por difusión, los valores b, etc., y genera una imagen en formato NRRD. Para imágenes DICOM no ponderadas por difusión, carga toda una serie DICOM y genera un volumen DICOM único en un par de archivos .nhdr/.raw.</translation>
+        <translation>Convierte imágenes de RM ponderadas por difusión en series DICOM al formato NRRD para su análisis en Segmento. Este programa se ha probado únicamente en un subconjunto limitado de formatos DTI DICOM disponibles de escáneres Siemens, GE y Philips. Actualmente, se trabaja en la compatibilidad con datos DICOM multiframe. El programa analiza el encabezado DICOM para extraer información necesaria como el marco de medición, las direcciones de ponderación por difusión, los valores b, etc., y genera una imagen en formato NRRD. Para imágenes DICOM no ponderadas por difusión, carga toda una serie DICOM y genera un volumen DICOM único en un par de archivos .nhdr/.raw.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
@@ -2932,7 +2932,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
         <source>Nifti output filename (for Slicer GUI use).</source>
-        <translation>Nombre de archivo de salida de NIFTI (para uso de la GUI corta).</translation>
+        <translation>Nombre de archivo de salida de NIFTI (para uso del IGU de segmento).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="38"/>
@@ -3429,7 +3429,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
         <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
-        <translation>Las listas de puntos en la CLI corresponden a las listas de fiduciarios de rebanadora</translation>
+        <translation>Las listas de puntos en la CLI corresponden a las listas de fiduciarios de segmento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
@@ -3479,7 +3479,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation>Modelos generados, bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos. El nodo de jerarquía de modelos debe ser creado antes de ejecutar el creador de modelos, seleccionando Crear Nueva jerarquía de modelos desde el menú desplegable Modelos.</translation>
+        <translation>Modelos generados, bajo un nodo de jerarquía de modelos. Los modelos se importan en Segmentador bajo un nodo de jerarquía de modelos. El nodo de jerarquía de modelos debe ser creado antes de ejecutar el creador de modelos, seleccionando Crear Nueva jerarquía de modelos desde el menú desplegable Modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
@@ -3667,7 +3667,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
         <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
-        <translation>La implementación original de este método fue proporcionada por ETH Zurich, Laboratorio de Análisis de Imágenes de los profesores Olaf Kuebler, Gabor Szekely y Guido Gerig. Martin Styner en UNC, Chapel Hill realizó mejoras. La adaptación para Slicer fue proporcionada por Pierre Seroul y Stephen Aylward en Kitware, Inc.</translation>
+        <translation>La implementación original de este método fue proporcionada por ETH Zurich, Laboratorio de Análisis de Imágenes de los profesores Olaf Kuebler, Gabor Szekely y Guido Gerig. Martin Styner en UNC, Chapel Hill realizó mejoras. La adaptación para Segmentador fue proporcionada por Pierre Seroul y Stephen Aylward en Kitware, Inc.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
@@ -3997,7 +3997,7 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation>El paso temporal depende de la dimensionalidad de la imagen. En Rebanador, las imágenes son tridimensionales y el paso temporal predeterminado (.0625) proporcionará una solución estable.</translation>
+        <translation>El paso temporal depende de la dimensionalidad de la imagen. En Segmentador, las imágenes son tridimensionales y el paso temporal predeterminado (.0625) proporcionará una solución estable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
@@ -4047,7 +4047,7 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation>![CDATA[Ten en cuenta el espaciado de la imagen en el cálculo. Se recomienda activar esta opción, especialmente cuando el tamaño del píxel varía en diferentes dimensiones. Sin embargo, para obtener resultados consistentes con Slicer 4.2 y versiones anteriores, esta opción debe desactivarse.]]</translation>
+        <translation>![CDATA[Ten en cuenta el espaciado de la imagen en el cálculo. Se recomienda activar esta opción, especialmente cuando el tamaño del píxel varía en diferentes dimensiones. Sin embargo, para obtener resultados consistentes con Segmentador 4.2 y versiones anteriores, esta opción debe desactivarse.]]</translation>
     </message>
 </context>
 <context>
@@ -4884,7 +4884,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished">Modelos generados bajo un nodo de jerarquía de modelos. Los modelos se importan a Slicer bajo un nodo de jerarquía de modelos y sus colores se definen según la tabla de colores asociada al volumen del mapa de etiquetas de entrada. El nodo de jerarquía de modelos debe crearse antes de ejecutar el creador de modelos; para ello, seleccione &quot;Crear nueva jerarquía de modelos&quot; en el menú desplegable &quot;Modelos&quot;. Si ejecuta desde la línea de comandos, se creará automáticamente un nodo de jerarquía de modelos en una nueva escena mrml.</translation>
+        <translation>Modelos generados bajo un nodo de jerarquía de modelos. Los modelos se importan a Segmentador bajo un nodo de jerarquía de modelos y sus colores se definen según la tabla de colores asociada al volumen del mapa de etiquetas de entrada. El nodo de jerarquía de modelos debe crearse antes de ejecutar el creador de modelos; para ello, seleccione &quot;Crear nueva jerarquía de modelos&quot; en el menú desplegable &quot;Modelos&quot;. Si ejecuta desde la línea de comandos, se creará automáticamente un nodo de jerarquía de modelos en una nueva escena mrml.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
@@ -5071,7 +5071,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation>Puede guardar una copia de los modelos después de cada paso intermedio (cubos de marcha, suavizado y diezmado si no se realiza el suavizado conjunto; de lo contrario, justo después del diezmado). Estos modelos intermedios no se guardan en el archivo mrml; debe cargarlos manualmente después de desactivar la eliminación de archivos temporales en la consola de Python (Ver → Interactuador de Python) con el siguiente comando: slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
+        <translation>Puede guardar una copia de los modelos después de cada paso intermedio (cubos de marcha, suavizado y diezmado si no se realiza el suavizado conjunto; de lo contrario, justo después del diezmado). Estos modelos intermedios no se guardan en el archivo mrml; debe cargarlos manualmente después de desactivar la eliminación de archivos temporales en la consola de Python (Vista → Interactor de Python) con la instrucción siguiente: slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
@@ -5250,7 +5250,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
         <source>The development of this module was partially supported by NIH grants R01 AA016748-01, R01 CA111288 and U01 CA151261 as well as by NA-MIC, NAC, NCIGT and the Slicer community.</source>
-        <translation>El desarrollo de este módulo fue financiado parcialmente por las subvenciones NIH R01 AA016748-01, R01 CA111288 y U01 CA151261, así como por NA-MIC, NAC, NCIGT y la comunidad Slicer.</translation>
+        <translation>El desarrollo de este módulo fue financiado parcialmente por las subvenciones NIH R01 AA016748-01, R01 CA111288 y U01 CA151261, así como por NA-MIC, NAC, NCIGT y la comunidad Segmentador.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
@@ -5424,7 +5424,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation>Orienta un volumen de salida. Reorganiza los cortes de un volumen según la orientación seleccionada. Los cortes no se interpolan, sino que se reordenan o permutan. El volumen resultante cubrirá el volumen original. NOTA: Dado que Slicer tiene en cuenta la orientación de un volumen, el volumen reorientado no mostrará ninguna diferencia con respecto al volumen original. Para ver la diferencia, guarde el volumen y visualícelo con un sistema que ignore la orientación de la imagen (p. ej., Paraview) o que muestre imágenes individuales.</translation>
+        <translation>Orienta un volumen de salida. Reorganiza los segmentos de un volumen según la orientación seleccionada. Los segmentos no se interpolan, sino que se reordenan o permutan. El volumen resultante cubrirá el volumen original. NOTA: Dado que Segmentador tiene en cuenta la orientación de un volumen, el volumen reorientado no mostrará ninguna diferencia con respecto al volumen original. Para ver la diferencia, guarde el volumen y visualícelo con un sistema que ignore la orientación de la imagen (p. ej., Paraview) o que muestre imágenes individuales.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
@@ -6284,7 +6284,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de Transformación en Slicer3, no seleccionar)</translation>
+        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de Transformación en Segmentadorr3, no seleccionar)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
@@ -6746,7 +6746,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de Transformación en Slicer3, no seleccionar)</translation>
+        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de Transformación en Segmentador3, no seleccionar)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
@@ -7271,7 +7271,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
         <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
-        <translation>Un sencillo algoritmo de segmentación por crecimiento de región basado en estadísticas de intensidad. Para crear una lista de fiduciales (semillas) para este algoritmo, haga clic en el icono de la barra de herramientas de una flecha apuntando a un fiducial de esfera para entrar en el modo &quot;colocar un nuevo objeto&quot; y, a continuación, utilice el módulo Markups. Este módulo utiliza la interfaz de línea de comandos (CLI) de Slicer y los filtros ITK CurvatureFlowImageFilter y ConfidenceConnectedImageFilter.</translation>
+        <translation>Un sencillo algoritmo de segmentación por crecimiento de región basado en estadísticas de intensidad. Para crear una lista de fiduciales (semillas) para este algoritmo, haga clic en el icono de la barra de herramientas de una flecha apuntando a un fiducial de esfera para entrar en el modo &quot;colocar un nuevo objeto&quot; y, a continuación, utilice el módulo Markups. Este módulo utiliza la interfaz de línea de instrucciones (CLI) de Segmentador y los filtros ITK CurvatureFlowImageFilter y ConfidenceConnectedImageFilter.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
@@ -7801,7 +7801,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="38"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Este trabajo cuenta con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer.</translation>
+        <translation>Este trabajo cuenta con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la Comunidad Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="247"/>
@@ -8270,7 +8270,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="102"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation>Generación de la posición de corte para volúmenes de varios fotogramas</translation>
+        <translation>Generación de la posición de segmento para volúmenes de varios fotogramas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"/>
@@ -8339,7 +8339,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation>Permite añadir una transformación no lineal para regularizar las imágenes adquiridas con una geometría irregular: cuadrícula no rectilínea (como las adquisiciones de TC con pórtico inclinado) y espaciado de cortes no uniforme. Si no se aplica ninguna regularización, la imagen puede aparecer distorsionada si se ha adquirido con una geometría irregular.</translation>
+        <translation>Permite añadir una transformación no lineal para regularizar las imágenes adquiridas con una geometría irregular: cuadrícula no rectilínea (como las adquisiciones de TC con pórtico inclinado) y espaciado de segmento no uniforme. Si no se aplica ninguna regularización, la imagen puede aparecer distorsionada si se ha adquirido con una geometría irregular.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
@@ -8375,7 +8375,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"/>
         <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
-        <translation>Ofrece la carga de cortes individuales o grupos de cortes que fueron adquiridos en un momento específico (contenido o tiempo de disparo). Si esta opción está activada, es posible que se muestre un gran número de elementos cargables en la sección Avanzado del navegador DICOM.</translation>
+        <translation>Ofrece la carga de segmentos individuales o grupos de segmentos que fueron adquiridos en un momento específico (contenido o tiempo de disparo). Si esta opción está activada, es posible que se muestre un gran número de elementos cargables en la sección Avanzado del navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"/>
@@ -22220,89 +22220,89 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="686"/>
         <source>Red slice only</source>
-        <translation type="unfinished">Red slice only</translation>
+        <translation>Solo rebanada roja</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="698"/>
         <source>Yellow slice only</source>
-        <translation type="unfinished">Yellow slice only</translation>
+        <translation>Solo rebanada amarilla</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="710"/>
         <source>Green slice only</source>
-        <translation type="unfinished">Green slice only</translation>
+        <translation>Solo rebanada verde</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="722"/>
         <source>Tabbed 3D</source>
-        <translation type="unfinished">Tabbed 3D</translation>
+        <translation>3D Tabulado</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="734"/>
         <source>Tabbed slice</source>
-        <translation type="unfinished">Tabbed slice</translation>
+        <translation>Ranura tabulada</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="746"/>
         <source>Compare</source>
-        <translation type="unfinished">Compare</translation>
+        <translation>Comparar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="758"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="761"/>
         <source>Compare Widescreen</source>
-        <translation type="unfinished">Compare Widescreen</translation>
+        <translation>Comparar Amplitud de Pantalla</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="773"/>
         <source>Two over two</source>
-        <translation type="unfinished">Two over two</translation>
+        <translation>Dos sobre dos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="776"/>
         <source>Two over Two Layout</source>
-        <translation type="unfinished">Two over Two Layout</translation>
+        <translation>Dos sobre Distribución Dos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="788"/>
         <source>Home</source>
-        <translation type="unfinished">Home</translation>
+        <translation>Inicio</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="791"/>
         <source>Favorite module for easy access</source>
-        <translation type="unfinished">Favorite module for easy access</translation>
+        <translation>Módulo favorito para acceso fácil</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="794"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished">Ctrl+H</translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="806"/>
         <source>Conventional Widescreen</source>
-        <translation type="unfinished">Conventional Widescreen</translation>
+        <translation>Ancho de Pantalla Convencional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="815"/>
         <source>Triple 3D</source>
-        <translation type="unfinished">Triple 3D</translation>
+        <translation>3D Triple</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="824"/>
         <source>Three over three</source>
-        <translation type="unfinished">Three over three</translation>
+        <translation>Tres sobre tres</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="833"/>
         <source>Four over four</source>
-        <translation type="unfinished">Four over four</translation>
+        <translation>Cuatro sobre cuatro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="842"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="905"/>
         <source>2 viewers</source>
-        <translation type="unfinished">2 viewers</translation>
+        <translation>2 visores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="851"/>
@@ -22368,36 +22368,36 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1008"/>
         <source>Play Macro</source>
-        <translation>Reproducir Macro</translation>
+        <translation>Macro Reproducción</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1020"/>
         <source>Side by side</source>
-        <translation type="unfinished">Side by side</translation>
+        <translation>Lado por lado</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1029"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1032"/>
         <source>Four by three slice</source>
-        <translation type="unfinished">Four by three slice</translation>
+        <translation>Rebanada cuatro por tres</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1041"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1044"/>
         <source>Four by two slice</source>
-        <translation type="unfinished">Four by two slice</translation>
+        <translation>Rebanada cuatro por dos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1053"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1056"/>
         <source>Five by two slice</source>
-        <translation type="unfinished">Five by two slice</translation>
+        <translation>Rebanada cinco por dos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1065"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1068"/>
         <source>Three by three slice</source>
-        <translation type="unfinished">Three by three slice</translation>
+        <translation>Rebanada tres por tres</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1077"/>
@@ -22408,57 +22408,57 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1089"/>
         <source>Plot only</source>
-        <translation type="unfinished">Plot only</translation>
+        <translation>Solo trama</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1092"/>
         <source>Plot view</source>
-        <translation type="unfinished">Plot view</translation>
+        <translation>Vista de trama</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1104"/>
         <source>Four-Up Plot</source>
-        <translation type="unfinished">Four-Up Plot</translation>
+        <translation>Trama cuatro arriba</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1107"/>
         <source>Three slices and a plot in four-Up layout</source>
-        <translation type="unfinished">Three slices and a plot in four-Up layout</translation>
+        <translation>Tres rebanadas y una trama en distribución hasta cuatro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1119"/>
         <source>Conventional Plot</source>
-        <translation type="unfinished">Conventional Plot</translation>
+        <translation>Trama Convencional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1122"/>
         <source>Conventional three slices and 3D view with an additional plot</source>
-        <translation type="unfinished">Conventional three slices and 3D view with an additional plot</translation>
+        <translation>Tres rebanadas convencionales y vista 3D con una trama adicional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1134"/>
         <source>Three over three Plot</source>
-        <translation type="unfinished">Three over three Plot</translation>
+        <translation>Trama tres sobre tres</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1137"/>
         <source>Three plots over three slices</source>
-        <translation type="unfinished">Three plots over three slices</translation>
+        <translation>Tres tramas sobre tres rebanadas</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1146"/>
         <source>Four-Up Table</source>
-        <translation type="unfinished">Four-Up Table</translation>
+        <translation>Tabla Hasta Cuatro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1155"/>
         <source>Four-Up Quantitative</source>
-        <translation type="unfinished">Four-Up Quantitative</translation>
+        <translation>Cuantitativa Hasta Cuatro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1158"/>
         <source>Four-up slice and 3D view with an additional table and plot</source>
-        <translation type="unfinished">Four-up slice and 3D view with an additional table and plot</translation>
+        <translation>Rebanada hasta cuatro y vista 3D con una tabla y trama adicional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1163"/>
@@ -22473,14 +22473,14 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="153"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
-        <translation>Contraer/expandir el panel IGU y permitir que los visores de Slicer ocupen toda la ventana de la aplicación</translation>
+        <translation>Colapsa/expande el panel IGU y concede que los visores de Rebanada ocupen toda la ventana de la aplicación</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="262"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="275"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="288"/>
         <source>Select number of viewers...</source>
-        <translation type="unfinished">Select number of viewers...</translation>
+        <translation>Seleccionar número de visores…</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="152"/>
@@ -22500,7 +22500,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="366"/>
         <source>Show/hide Error Log window</source>
-        <translation>Mostrar/ocultar venta de Bitácora Errónea</translation>
+        <translation>Mostrar/ocultar ventana de Error de Bitácora</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="387"/>
@@ -22510,7 +22510,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="399"/>
         <source>Slicer Python Console</source>
-        <translation>Consola de Python de Slicer</translation>
+        <translation>Consola de Corte en Python</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="409"/>
@@ -22525,7 +22525,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="411"/>
         <source>Ctrl+3</source>
-        <translation type="unfinished">Ctrl+3</translation>
+        <translation>Ctrl+3</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="411"/>
@@ -22551,32 +22551,32 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="571"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="666"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation type="unfinished">The scene has been modified. Do you want to save it before exit?</translation>
+        <translation>La escena ha sido modificada. ¿Deseas guardarla antes de salir?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="570"/>
         <source>Save before exit?</source>
-        <translation type="unfinished">Save before exit?</translation>
+        <translation>¿Guardar antes de salir?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="575"/>
         <source>Exit (discard modifications)</source>
-        <translation type="unfinished">Exit (discard modifications)</translation>
+        <translation>Salir (descarta modificaciones)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="576"/>
         <source>Cancel exit</source>
-        <translation type="unfinished">Cancel exit</translation>
+        <translation>Cancelar salida</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="665"/>
         <source>Save before closing scene?</source>
-        <translation type="unfinished">Save before closing scene?</translation>
+        <translation>¿Guardar antes de cerrar escena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="670"/>
         <source>Close scene (discard modifications)</source>
-        <translation>Cerrar escena (descarta modificaciones)</translation>
+        <translation>Cerrar escena (descartar modificaciones)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="671"/>
@@ -22586,22 +22586,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="942"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
-        <translation type="unfinished">Slicer Data Bundle Directory (Select Empty Directory)</translation>
+        <translation>Directorio de paquete de datos de Corte (seleccionar directorio vacío)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
         <source>Save Data Bundle File</source>
-        <translation type="unfinished">Save Data Bundle File</translation>
+        <translation>Guardar Archivo de Paquete de Datos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
         <source>Medical Reality Bundle (*.mrb)</source>
-        <translation type="unfinished">Medical Reality Bundle (*.mrb)</translation>
+        <translation>Paquete de realidad médica (MRB) (*.mrb)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1001"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">MRML Scene</translation>
+        <translation>Escena MRML</translation>
     </message>
 </context>
 <context>
@@ -22611,17 +22611,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="143"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="51"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation>Márgenes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
         <source>Create Markups:</source>
-        <translation type="unfinished">Create Markups:</translation>
+        <translation>Crear márgenes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Pantalla</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
@@ -22631,83 +22631,83 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="96"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Leyenda de Colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display properties to defaults. These properties will be used even after application restart.</source>
         <oldsource>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</oldsource>
-        <translation>Guarda las propiedades de visualización actuales con los valores predeterminados. Estas propiedades se usarán incluso después de reiniciar la aplicación.</translation>
+        <translation>Guarda las propiedades de visualización actuales con los valores predeterminados. Estas propiedades se usarán incluso tras reiniciar la aplicación.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
         <source>Save to Defaults</source>
-        <translation type="unfinished">Save to Defaults</translation>
+        <translation>Guardar a Predeterminado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="123"/>
         <source>Use default display properties.</source>
-        <translation type="unfinished">Use default display properties.</translation>
+        <translation>Utilice propiedades de visualización predeterminadas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="126"/>
         <source>Reset to Defaults</source>
-        <translation type="unfinished">Reset to Defaults</translation>
+        <translation>Restablecer a Predeterminados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="138"/>
         <source>Control Points</source>
-        <translation type="unfinished">Control Points</translation>
+        <translation>Puntos de Control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
         <source>Interaction: </source>
-        <translation type="unfinished">Interaction: </translation>
+        <translation>Interacción: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
         <source>Enable/disable all interactions in slice and 3D views.</source>
-        <translation type="unfinished">Enable/disable all interactions in slice and 3D views.</translation>
+        <translation>Habilita/inhabilita todas las interacciones en corte y vistas 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
         <source>Lock the number of points allowed in the active markup.</source>
-        <translation type="unfinished">Lock the number of points allowed in the active markup.</translation>
+        <translation>Bloquea el número de puntos concedidos dentro del margen activo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="222"/>
         <source>Jump Slices:</source>
-        <translation type="unfinished">Jump Slices:</translation>
+        <translation>Ir a cortes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
         <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-        <translation type="unfinished">Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</translation>
+        <translation>Desplazamiento: establece la posición del plano de corte. Centrado: establece la posición del plano de corte y centra la vista de rebanada en el punto de control.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
         <source>offset</source>
-        <translation type="unfinished">offset</translation>
+        <translation>desplazado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
         <source>centered</source>
-        <translation type="unfinished">centered</translation>
+        <translation>centrado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation type="unfinished">Show Slice Intersections:</translation>
+        <translation>Mostrar intersecciones de corte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation>Mostrar como los otros planos de rebanadas interseccionan cada plano de rebanada.</translation>
+        <translation>Muestra como los otros planos de corte intersecan cada plano de corte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
