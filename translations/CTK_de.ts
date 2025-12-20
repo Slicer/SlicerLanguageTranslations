@@ -2074,7 +2074,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="81"/>
         <source>Tag</source>
-        <translation type="unfinished">markieren</translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="82"/>
