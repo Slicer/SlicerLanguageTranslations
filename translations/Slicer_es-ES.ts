@@ -29753,18 +29753,19 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="509"/>
         <source>Clipping disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte desactivado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="513"/>
         <source>Using fast clipping method.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usando el método de recorte rápido.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="518"/>
         <source>Using slow clipping method.
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Usando el método de recorte lento.
+%1</translation>
     </message>
 </context>
 <context>
@@ -29772,23 +29773,23 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="14"/>
         <source>Volume Rendering Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>La Representación Del Volumen De Ajustes Preestablecidos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
         <source>Preset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Preestablecido:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="55"/>
         <source>Shift transfer functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Funciones de transferencia de turnos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="48"/>
         <source>Shift:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambio:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="73"/>
@@ -29807,7 +29808,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
         <source>Volume Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedad de Volumen</translation>
     </message>
 </context>
 <context>
@@ -29815,12 +29816,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="14"/>
         <source>Volume Rendering Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de la composición del volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="23"/>
         <source>Default rendering method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de representación predeterminada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="30"/>
