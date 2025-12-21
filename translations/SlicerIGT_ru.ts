@@ -84,7 +84,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
         <source>Advanced</source>
-        <translation type="unfinished">Продвинутый</translation>
+        <translation>Продвинутый</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
@@ -251,7 +251,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
         <source>Parameters</source>
-        <translation type="unfinished">Параметры</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
@@ -281,17 +281,17 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished">Выходное преобразование: </translation>
+        <translation>Выходное преобразование: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Запустить алгоритм.</translation>
+        <translation>Запустить алгоритм.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
         <source>Output</source>
-        <translation type="unfinished">Вывод</translation>
+        <translation>Вывод</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
@@ -301,12 +301,12 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
         <source>Advanced</source>
-        <translation type="unfinished">Продвинутый</translation>
+        <translation>Продвинутый</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished">Число повторений:</translation>
+        <translation>Число повторений:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
@@ -372,7 +372,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
         <source>Parameters</source>
-        <translation type="unfinished">Параметры</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
@@ -774,7 +774,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="19"/>
         <source>Guidelet</source>
-        <translation type="unfinished">Путеводитель</translation>
+        <translation>Пособие</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
@@ -802,7 +802,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished">Входные</translation>
+        <translation>Входные</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="74"/>
@@ -945,7 +945,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="71"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="85"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="82"/>
@@ -990,7 +990,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="140"/>
         <source>Collect</source>
-        <translation type="unfinished">Собрать</translation>
+        <translation>Собрать</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
@@ -1240,7 +1240,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished">Шаблон Модуля</translation>
+        <translation>Шаблон модуля</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="26"/>
@@ -1445,7 +1445,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="22"/>
