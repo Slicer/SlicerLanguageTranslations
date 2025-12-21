@@ -100,7 +100,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="393"/>
         <source>None</source>
-        <translation type="unfinished">Ноль</translation>
+        <translation>Нету</translation>
     </message>
 </context>
 <context>
