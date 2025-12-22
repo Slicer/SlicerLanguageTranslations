@@ -1801,7 +1801,7 @@ Dieses Programm ist nützlich, um ein Bild mit einem konstanten Skalierungsfakto
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
@@ -1868,7 +1868,7 @@ Dieses Programm ist nützlich, um ein Bild mit einem konstanten Skalierungsfakto
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation type="unfinished">DisplacementField</translation>
+        <translation>Versetzungsfeld</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
@@ -1878,7 +1878,7 @@ Dieses Programm ist nützlich, um ein Bild mit einem konstanten Skalierungsfakto
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
 </context>
 <context>
@@ -1900,12 +1900,12 @@ Ermöglicht die Umwandlung in denselben Typ wie das Eingabevolumen.</translation
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
@@ -1966,7 +1966,7 @@ Ermöglicht die Umwandlung in denselben Typ wie das Eingabevolumen.</translation
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished">UnsignedShort</translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
@@ -2745,7 +2745,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
@@ -3065,7 +3065,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
@@ -3344,7 +3344,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished">Ausgabetransformation</translation>
+        <translation>Ausgabetransformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
@@ -3672,12 +3672,12 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
@@ -3763,12 +3763,12 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"/>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="26"/>
         <source>1D</source>
-        <translation type="unfinished">1D</translation>
+        <translation>1D</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="27"/>
         <source>2D</source>
-        <translation type="unfinished">2D</translation>
+        <translation>2D</translation>
     </message>
 </context>
 <context>
@@ -3786,17 +3786,17 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
@@ -3895,17 +3895,17 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
@@ -3920,7 +3920,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
@@ -3930,7 +3930,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Input volume</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
@@ -4002,12 +4002,12 @@ Anisotrope Diffusionsmethoden reduzieren Rauschen (oder unerwünschte Details) i
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
@@ -4017,7 +4017,7 @@ Anisotrope Diffusionsmethoden reduzieren Rauschen (oder unerwünschte Details) i
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
@@ -4090,17 +4090,17 @@ Dieser Filter verwendet den itkGrayscaleGeodesicErodeImageFilter. Er liefert sei
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
@@ -4110,7 +4110,7 @@ Dieser Filter verwendet den itkGrayscaleGeodesicErodeImageFilter. Er liefert sei
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
@@ -4163,12 +4163,12 @@ Ein Begleitfilter, Grayscale Fill Hole, füllt Löcher in Graustufenbildern.</tr
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
@@ -4178,7 +4178,7 @@ Ein Begleitfilter, Grayscale Fill Hole, füllt Löcher in Graustufenbildern.</tr
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
@@ -4206,17 +4206,17 @@ Ein Begleitfilter, Grayscale Fill Hole, füllt Löcher in Graustufenbildern.</tr
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
@@ -4351,7 +4351,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
@@ -4396,12 +4396,12 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
@@ -4416,7 +4416,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
@@ -4449,12 +4449,12 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
@@ -4593,12 +4593,12 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
@@ -4608,7 +4608,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
@@ -4636,7 +4636,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
@@ -4646,7 +4646,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
@@ -4754,7 +4754,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
@@ -4764,7 +4764,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
@@ -4792,12 +4792,12 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
@@ -4851,17 +4851,17 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
@@ -5096,7 +5096,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5121,7 +5121,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
@@ -5141,7 +5141,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
@@ -5174,42 +5174,42 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Eingabe Volumen 1</translation>
+        <translation>Eingabe Volumen 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Eingabe Volumen 2</translation>
+        <translation>Eingabe Volumen 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Eingabe Volumen 1</translation>
+        <translation>Eingabe Volumen 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Eingabe Volumen 2</translation>
+        <translation>Eingabe Volumen 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
@@ -5219,22 +5219,22 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished">Steuerung</translation>
+        <translation>Steuerung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">Steuere wie die Module funktionieren</translation>
+        <translation>Steuere wie die Module funktionieren</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Interpolationsbefehl</translation>
+        <translation>Interpolationsbefehl</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">Interpolationsbefehl, wenn sich zwei Bilder in unterschiedlichen Koordinatenrahmen befinden oder unterschiedliche Abtastwerte aufweisen.</translation>
+        <translation>Interpolationsbefehl, wenn sich zwei Bilder in unterschiedlichen Koordinatenrahmen befinden oder unterschiedliche Abtastwerte aufweisen.</translation>
     </message>
 </context>
 <context>
@@ -5257,12 +5257,12 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
@@ -5277,7 +5277,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
@@ -5431,32 +5431,32 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Eingabe Volumen 1</translation>
+        <translation>Eingabe Volumen 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Eingabe Volumen 1</translation>
+        <translation>Eingabe Volumen 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
@@ -5487,7 +5487,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="42"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="18"/>
@@ -5552,7 +5552,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="30"/>
         <source>ILP</source>
-        <translation type="unfinished">ILP</translation>
+        <translation>ILP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="31"/>
@@ -5612,7 +5612,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="43"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="44"/>
@@ -5717,7 +5717,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="64"/>
         <source>ASR</source>
-        <translation type="unfinished">ASR</translation>
+        <translation>ASR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="65"/>
@@ -5895,7 +5895,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
@@ -5994,17 +5994,17 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Input volume</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
@@ -6063,7 +6063,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
@@ -6073,7 +6073,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
@@ -6186,7 +6186,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished">null</translation>
+        <translation>null</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
@@ -6206,7 +6206,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>keine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
@@ -6596,7 +6596,7 @@ Warnung: Verwenden Sie diese Funktion nicht zum Resampling von Diffusionstensorb
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
@@ -6606,7 +6606,7 @@ Warnung: Verwenden Sie diese Funktion nicht zum Resampling von Diffusionstensorb
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
@@ -7031,7 +7031,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
@@ -7107,12 +7107,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
@@ -7122,7 +7122,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
@@ -7225,12 +7225,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
@@ -7245,7 +7245,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
@@ -7373,12 +7373,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
@@ -7388,7 +7388,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
@@ -7416,12 +7416,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
@@ -31347,7 +31347,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceDisplayNode.cxx" line="29"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Slice Display</translation>
+        <translation>Slice Display</translation>
     </message>
 </context>
 <context>
@@ -31754,7 +31754,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="714"/>
         <source>Sequence</source>
-        <translation type="unfinished">Sequence</translation>
+        <translation>Sequence</translation>
     </message>
 </context>
 </TS>
