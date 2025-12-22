@@ -9293,7 +9293,7 @@ use it for commercial purposes.&lt;/p&gt;
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="956"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="968"/>
         <source>Verifying checksum</source>
-        <translation>Проверка контрольной суммы</translation>
+        <translation>Проверка целостности данных</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="960"/>
