@@ -1589,7 +1589,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation>Добавляет деформированную сетку к выходному изображению, чтобы показать деформацию, произошедшую при заданном расстоянии между линиями.   Расстояние 0 в измерении указывает на то, что линии сетки должны падать точно (т. е. не допускать смещения за пределы этой плоскости).  Это полезно для создания 2D-изображения линий сетки из 3D-пространства</translation>
+        <translation>Добавить деформированную сетку к выходному изображению, чтобы показать деформацию, произошедшую при заданном расстоянии между линиями.   Расстояние 0 в измерении означает, что линии сетки должны быть выведены точно на плоскость (т. е. не допускать смещения за пределы этой плоскости).  Это полезно для создания 2D-изображения линий сетки из 3D-пространства</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
@@ -1732,7 +1732,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
         <source>The scale factor for the image spacing.</source>
-        <translation>Масштабный коэффициент для расстояния между изображениями.</translation>
+        <translation>Коэффициент масштаба расстояния между изображениями.</translation>
     </message>
 </context>
 <context>
