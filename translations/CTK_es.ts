@@ -3872,12 +3872,12 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="313"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="318"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Phong</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="323"/>
@@ -4316,7 +4316,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="393"/>
         <source>SR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="400"/>
