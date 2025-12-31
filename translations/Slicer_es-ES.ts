@@ -3464,7 +3464,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
         <source>Models</source>
-        <translation>modelos</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
@@ -3987,12 +3987,12 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished">La conductancia controla la sensibilidad del término de conductancia. Como regla general, cuanto menor sea el valor, más eficazmente el filtro preservará los bordes. Un valor alto provocará una difusión (suavizado) a través de los bordes. Cabe señalar que el número de iteraciones determina la cantidad de suavizado que se realiza dentro de las regiones delimitadas por bordes.</translation>
+        <translation>La conductancia controla la sensibilidad del término de conductancia. Como regla general, cuanto menor sea el valor, más eficazmente el filtro preservará los bordes. Un valor alto provocará una difusión (suavizado) a través de los bordes. Cabe señalar que el número de iteraciones determina la cantidad de suavizado que se realiza dentro de las regiones delimitadas por bordes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished">Cuantas más iteraciones se realicen, mayor será el suavizado. Cada iteración toma la misma cantidad de tiempo. Si una iteración tarda 10 segundos, entonces 10 iteraciones tomarán 100 segundos. Cabe destacar que la conductancia controla cuánto suaviza cada iteración a través de los bordes.</translation>
+        <translation>Cuantas más iteraciones se realicen, mayor será el suavizado. Cada iteración toma la misma cantidad de tiempo. Si una iteración tarda 10 segundos, entonces 10 iteraciones tomarán 100 segundos. Cabe destacar que la conductancia controla cuánto suaviza cada iteración a través de los bordes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
@@ -4884,7 +4884,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation>Modelos generados bajo un nodo de jerarquía de modelos. Los modelos se importan a Slicer bajo un nodo de jerarquía de modelos y sus colores se definen según la tabla de colores asociada al volumen del mapa de etiquetas de entrada. El nodo de jerarquía de modelos debe crearse antes de ejecutar el creador de modelos; para ello, seleccione «Crear jerarquía de modelos nuevos» en el menú desplegable «Modelos». Si ejecuta desde la línea de comandos, se creará automáticamente un nodo de jerarquía de modelos en una nueva escena mrml.</translation>
+        <translation>Modelos generados, bajo un nodo de jerarquía de modelos. Los modelos se importan a Slicer bajo un nodo de jerarquía de modelos y sus colores se definen según la tabla de colores asociada al volumen del mapa de etiquetas de entrada. El nodo de jerarquía de modelos debe crearse antes de ejecutar el creador de modelos; para ello, seleccione «Crear jerarquía de modelos nuevos» en el menú desplegable «Modelos». Si ejecuta desde la línea de comandos, se creará automáticamente un nodo de jerarquía de modelos en una nueva escena mrml.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
@@ -4924,7 +4924,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
         <source>Parameters used for making models.</source>
-        <translation>Parámetros utilizados por modelistas.</translation>
+        <translation>Parámetros utilizados para crear modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
@@ -4984,7 +4984,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation>Una lista de valores de etiqueta separados por comas para crear modelos. Si especifica una lista de etiquetas, esta anulará cualquier configuración de etiqueta inicial/final. Si hace clic en “Generar todos los modelos”, se anulará la lista de etiquetas y cualquier configuración de etiqueta inicial/final.</translation>
+        <translation>Una lista de valores de etiqueta separados por comas para crear modelos. Si especifica una lista de etiquetas, esta anulará cualquier configuración de etiqueta inicial/final. Si pulsa en “Generar todos los modelos”, se anulará la lista de etiquetas y cualquier configuración de etiqueta inicial/final.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
@@ -5066,7 +5066,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation>Un archivo mrml que contiene un árbol jerárquico de modelos de plantilla con un nodo de jerarquía por cada color utilizado en la tabla de colores del volumen de entrada. Los nombres de los colores utilizados en los modelos se corresponden con los nombres de la jerarquía de plantillas para crear un árbol de salida multinivel. Cree una jerarquía en la interfaz gráfica de modelos, guarde una escena y, a continuación, vacíala para eliminar todo excepto la jerarquía del modelo y exhibir nodos.</translation>
+        <translation>Un archivo mrml que contiene un árbol jerárquico de modelos de plantilla con un nodo de jerarquía por cada color utilizado en la tabla de colores del volumen de entrada. Los nombres de los colores utilizados en los modelos se corresponden con los nombres de la jerarquía de plantillas para crear un árbol de salida multinivel. Cree una jerarquía en la interfaz gráfica dentro de los modelos, guarde una escena y, a continuación, vacíala para eliminar todo excepto la jerarquía del modelo y exhibir nodos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
@@ -5376,7 +5376,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="31"/>
         <source>Wiener filter noise</source>
-        <translation type="unfinished">Ruido de filtro ancho</translation>
+        <translation>Ruido del filtro Wiener</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
@@ -5439,17 +5439,17 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
@@ -5520,27 +5520,27 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="24"/>
         <source>LSP</source>
-        <translation type="unfinished">LSP</translation>
+        <translation>LSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="25"/>
         <source>RIA</source>
-        <translation type="unfinished">RIA</translation>
+        <translation>RIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="26"/>
         <source>LIA</source>
-        <translation type="unfinished">LIA</translation>
+        <translation>LIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="27"/>
         <source>RSA</source>
-        <translation type="unfinished">RSA</translation>
+        <translation>RSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="28"/>
         <source>LSA</source>
-        <translation type="unfinished">LSA</translation>
+        <translation>LSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="29"/>
@@ -5565,62 +5565,62 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="33"/>
         <source>IRA</source>
-        <translation type="unfinished">IRA</translation>
+        <translation>IRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="34"/>
         <source>ILA</source>
-        <translation type="unfinished">ILA</translation>
+        <translation>ILA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="35"/>
         <source>SRA</source>
-        <translation type="unfinished">SRA</translation>
+        <translation>SRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="36"/>
         <source>SLA</source>
-        <translation type="unfinished">SLA</translation>
+        <translation>SLA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="37"/>
         <source>RPI</source>
-        <translation type="unfinished">RPI</translation>
+        <translation>RPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="38"/>
         <source>LPI</source>
-        <translation type="unfinished">LPI</translation>
+        <translation>LPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="39"/>
         <source>RAI</source>
-        <translation type="unfinished">RAI</translation>
+        <translation>RAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="40"/>
         <source>LAI</source>
-        <translation type="unfinished">LAI</translation>
+        <translation>LAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="41"/>
         <source>RPS</source>
-        <translation type="unfinished">RPS</translation>
+        <translation>RPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="43"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="44"/>
         <source>LAS</source>
-        <translation type="unfinished">LAS</translation>
+        <translation>LAS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="45"/>
         <source>PRI</source>
-        <translation type="unfinished">PRI</translation>
+        <translation>PRI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="46"/>
@@ -7876,12 +7876,12 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Mediano</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="402"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Grande</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
@@ -8608,7 +8608,7 @@ indicada por la posición del ratón.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="343"/>
@@ -10853,7 +10853,10 @@ listado de segmento en opciones efectuadas - debajo.
 The mask is applied to the source volume by default.&lt;p&gt;
 Fill inside and outside operation creates a binary labelmap volume as output, with the inside and outside fill values modifiable.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usar el segmento seleccionado como máscara para borrar regiones de un volumen.
+La máscara se aplica al volumen de origen de forma predeterminada.
+La operación de relleno interno y externo crea un volumen de mapa de etiquetas binario como salida, con valores de relleno internos y externos modificables.
+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
@@ -10918,7 +10921,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="117"/>
         <source>Soft edge:</source>
-        <translation type="unfinished">Borde suave:</translation>
+        <translation>Borde suave:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="128"/>
@@ -11168,7 +11171,7 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="135"/>
         <source>Otsu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otsu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="136"/>
@@ -13020,7 +13023,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="617"/>
         <source>%1: %2</source>
         <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
-        <translation type="unfinished">%1: %2</translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -13063,7 +13066,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation type="unfinished">&amp;Clip:</translation>
+        <translation>&amp;Clip:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
@@ -13251,7 +13254,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
         <source>Output node: </source>
-        <translation type="unfinished">Output node: </translation>
+        <translation>Nodo saliente: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="268"/>
@@ -13346,7 +13349,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
         <source>Markups Display Properties</source>
         <oldsource>Markups Display Node</oldsource>
-        <translation type="unfinished">Markups Display Node</translation>
+        <translation>Nodo de Exhibición de Marcas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
@@ -13382,7 +13385,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="376"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="566"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
@@ -13402,7 +13405,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="155"/>
         <source>Italic</source>
-        <translation type="unfinished">Italic</translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="162"/>
@@ -13412,7 +13415,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
         <source>Font:</source>
-        <translation type="unfinished">Font:</translation>
+        <translation>Tipografía:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
@@ -13432,7 +13435,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
         <source>Active Color:</source>
-        <translation type="unfinished">Active Color:</translation>
+        <translation>Color activo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
@@ -13452,7 +13455,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
@@ -13487,7 +13490,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
         <source>Control Point Labels:</source>
-        <translation type="unfinished">Control Point Labels:</translation>
+        <translation>Etiquetas de Punto de Control:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
@@ -13502,12 +13505,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
         <source>Placement mode:</source>
-        <translation type="unfinished">Placement mode:</translation>
+        <translation>Modo de emplazamiento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
         <source>Properties Label:</source>
-        <translation type="unfinished">Properties Label:</translation>
+        <translation>Etiqueta de propiedades:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
@@ -13542,7 +13545,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="103"/>
         <source>snap to visible surface</source>
-        <translation type="unfinished">snap to visible surface</translation>
+        <translation>ajustar a la superficie visible</translation>
     </message>
 </context>
 <context>
@@ -13550,7 +13553,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLMarkupsFiducialProjectionPropertyWidget</source>
-        <translation type="unfinished">qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
+        <translation>qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
@@ -13561,7 +13564,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="44"/>
         <source>Projection Visibility:</source>
-        <translation type="unfinished">Projection Visibility:</translation>
+        <translation>Visibilidad de protección:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="51"/>
@@ -13571,7 +13574,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="54"/>
         <source>Projection Color:</source>
-        <translation type="unfinished">Projection Color:</translation>
+        <translation>Color de protección:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
@@ -13593,17 +13596,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="110"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="120"/>
         <source>Use the same color as the markup</source>
-        <translation type="unfinished">Use the same color as the markup</translation>
+        <translation>Utilizar el mismo color que el margen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="113"/>
         <source>Use Markup Color:</source>
-        <translation type="unfinished">Use Markup Color:</translation>
+        <translation>Utilizar color del margen:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="148"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidad:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="155"/>
@@ -14284,7 +14287,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="306"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="695"/>
         <source>Create new %1</source>
-        <translation type="unfinished">Crear %1 nuevo</translation>
+        <translation>Crear %1 nuevo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="310"/>
@@ -14301,7 +14304,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="680"/>
         <source>Rename %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished">Renombrar %1</translation>
+        <translation>Renombrar %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="714"/>
@@ -14379,48 +14382,48 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="237"/>
         <source>Enter a label for the Y-axis.</source>
-        <translation type="unfinished">Enter a label for the Y-axis.</translation>
+        <translation>Introduzca una etiqueta para el eje-Y.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="248"/>
         <source>Arial</source>
-        <translation type="unfinished">Arial</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="253"/>
         <source>Times</source>
-        <translation type="unfinished">Times</translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="258"/>
         <source>Courier</source>
-        <translation type="unfinished">Courier</translation>
+        <translation>Courier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="266"/>
         <source>Font Type:</source>
-        <translation type="unfinished">Font Type:</translation>
+        <translation>Tipo de fuente:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="273"/>
         <source>Chart title font size:</source>
-        <translation type="unfinished">Chart title font size:</translation>
+        <translation>Tamaño de fuente del título del gráfico:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="287"/>
         <source>Axis title font size:</source>
-        <translation type="unfinished">Axis title font size:</translation>
+        <translation>Tamaño de fuente del título del eje:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="301"/>
         <source>Axis label font size:</source>
-        <translation type="unfinished">Axis label font size:</translation>
+        <translation>Tamaño de fuente de la etiqueta del eje:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="315"/>
         <source>Legend visibility:</source>
         <oldsource>Legend visible:</oldsource>
-        <translation type="unfinished">Legend visible:</translation>
+        <translation>Leyenda visible:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="329"/>
@@ -14431,22 +14434,22 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="336"/>
         <source>Legend font size:</source>
-        <translation type="unfinished">Legend font size:</translation>
+        <translation>Tamaño de fuente de leyenda:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="350"/>
         <source>Logarithmic scale:</source>
-        <translation type="unfinished">Logarithmic scale:</translation>
+        <translation>Escala logarítmica:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="359"/>
         <source>X axis</source>
-        <translation type="unfinished">X axis</translation>
+        <translation>Eje X</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="366"/>
         <source>Y axis</source>
-        <translation type="unfinished">Y axis</translation>
+        <translation>Eje Y</translation>
     </message>
 </context>
 <context>
@@ -14459,47 +14462,47 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
         <source>Input Table:</source>
-        <translation type="unfinished">Input Table:</translation>
+        <translation>Tablero de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
         <source>Plot Type:</source>
-        <translation type="unfinished">Plot Type:</translation>
+        <translation>Tipo de grafo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="86"/>
         <source>line</source>
-        <translation type="unfinished">line</translation>
+        <translation>línea</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="91"/>
         <source>bar</source>
-        <translation type="unfinished">bar</translation>
+        <translation>barra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="96"/>
         <source>scatter</source>
-        <translation type="unfinished">scatter</translation>
+        <translation>dispersión</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="101"/>
         <source>scatter bar</source>
-        <translation type="unfinished">scatter bar</translation>
+        <translation>barra dispersión</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="109"/>
         <source>X Axis Column:</source>
-        <translation type="unfinished">X Axis Column:</translation>
+        <translation>Columna Eje X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="123"/>
         <source>Y Axis Column:</source>
-        <translation type="unfinished">Y Axis Column:</translation>
+        <translation>Columna Eje Y</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
         <source>This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</source>
-        <translation type="unfinished">This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</translation>
+        <translation>Esta columna contiene una etiqueta para cada punto de datos. La etiqueta se muestra en la información sobre herramientas al pasar el ratón sobre un punto de datos en la vista del gráfico.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
@@ -14811,7 +14814,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
         <source>Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</source>
-        <translation type="unfinished">Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</translation>
+        <translation>Establezca el indicador de modo de rango escalar. La opción Datos (automática) actualiza el rango escalar de visualización a partir del rango escalar de los datos. La opción de asignación directa de color omite la tabla de búsqueda y utiliza valores escalares como color RGB.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="80"/>
@@ -15239,7 +15242,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="14"/>
         <source>qMRMLSegmentSelectorWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
@@ -15362,7 +15365,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="14"/>
         <source>qMRMLSegmentationDisplayNodeWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLSegmentationDisplayNodeWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="504"/>
@@ -15487,7 +15490,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="14"/>
         <source>qMRMLSegmentationFileExportWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLSegmentationFileExportWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
@@ -15657,7 +15660,7 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="14"/>
         <source>SegmentationGeometryWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>SegmentationGeometryWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="59"/>
@@ -15747,7 +15750,7 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="26"/>
         <source>qMRMLSegmentationRepresentationsListView</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLSegmentationRepresentationsListView</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
@@ -16007,7 +16010,7 @@ Esto puede significar la pérdida de datos importantes que no pueden crearse de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="20"/>
         <source>qMRMLSegmentsTableView</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLSegmentsTableView</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
@@ -16142,7 +16145,7 @@ Esto puede significar la pérdida de datos importantes que no pueden crearse de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1360"/>
         <source>Clear</source>
-        <translation>Vacío</translation>
+        <translation>Vaciar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1361"/>
@@ -16160,7 +16163,7 @@ Esto puede significar la pérdida de datos importantes que no pueden crearse de 
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserPlayWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLSequenceBrowserPlayWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="26"/>
@@ -16228,7 +16231,7 @@ Esto puede significar la pérdida de datos importantes que no pueden crearse de 
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserSeekWidget</source>
-        <translation type="unfinished">qMRMLSequenceBrowserSeekWidget</translation>
+        <translation>qMRMLSequenceBrowserSeekWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
@@ -16299,7 +16302,7 @@ Esto puede significar la pérdida de datos importantes que no pueden crearse de 
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="200"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="210"/>
         <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation>Si está habilitado, tras el nodo nodo seleccionado se agrega a los elementos de secuencia, la selección pasa al siguiente elemento</translation>
+        <translation>Si está habilitado, tras el nodo seleccionado se agrega a los elementos de secuencia, la selección pasa al siguiente elemento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="203"/>
@@ -17888,7 +17891,7 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="23"/>
         <source>qMRMLTransformDisplayNodeWidget</source>
-        <translation type="unfinished">qMRMLTransformDisplayNodeWidget</translation>
+        <translation>qMRMLTransformDisplayNodeWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
@@ -18646,7 +18649,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="261"/>
         <source>VolumeTag</source>
-        <translation type="unfinished">VolumeTag</translation>
+        <translation>VolumeTag</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="268"/>
@@ -18754,7 +18757,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
-        <translation type="unfinished">W: </translation>
+        <translation>W: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
@@ -18764,7 +18767,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
-        <translation type="unfinished">L: </translation>
+        <translation>L: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
@@ -19033,7 +19036,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="72"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-        <translation type="unfinished">%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
+        <translation>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
     </message>
 </context>
 <context>
@@ -19056,7 +19059,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
 </context>
 <context>
@@ -19720,7 +19723,7 @@ Capacidades gráficas de este equipo:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="158"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation>El módulo&lt;b&gt;Colores &lt; /b&gt; administra tablas de búsqueda de colores, almacenadas en nodos de color.&lt; br&gt;Estas tablas se traducen entre un valor numérico y un color para mostrar varios tipos de datos, como volúmenes y modelos.&lt;br&gt;Hay dos tipos de tablas de búsqueda disponibles:&lt;br&gt;&lt;ul&gt;&lt;li &gt; Tabla discreta: Se especifica la lista de colores con nombre (ejemplo: GenericAnatomyColors). Las tablas discretas también se pueden usar para mapeo continuo, en este caso los colores se usan como muestras a la misma distancia dentro del rango especificado, y se interpolan suavemente entre ellos (ejemplo: Gris).&lt; / li&gt; &lt; li&gt;Escala continua: El color se especifica para valores numéricos elegidos arbitrariamente y el valor del color se puede calcular interpolando suavemente entre estos valores (ejemplo: PET-DICOM). No se especifican nombres para los colores.&lt; / li&gt;Todas las tablas de colores integradas son de solo lectura. Para editar colores, cree una copia de la tabla de colores haciendo clic en el icono de la carpeta &apos;copiar&apos;.&lt;br&gt;</translation>
+        <translation>El &lt;b&gt;Módulo Colores&lt;/b&gt; administra tablas de búsqueda de colores, almacenadas en nodos de color.&lt;br&gt;Estas tablas se traducen entre un valor numérico y un color para mostrar varios tipos de datos, como volúmenes y modelos.&lt;br&gt;Hay dos tipos de tablas de búsqueda disponibles:&lt;br&gt;&lt;ul&gt;&lt;li &gt; Tabla discreta: Se especifica la lista de colores con nombre (ejemplo: GenericAnatomyColors). Las tablas discretas también se pueden usar para mapeo continuo, en este caso los colores se usan como muestras a la misma distancia dentro del rango especificado, y se interpolan suavemente entre ellos (ejemplo: Gris).&lt;/li&gt; &lt;li&gt;Escala continua: El color se especifica para valores numéricos elegidos arbitrariamente y el valor del color se puede calcular interpolando suavemente entre estos valores (ejemplo: PET-DICOM). No se especifican nombres para los colores.&lt;/li&gt;Todas las tablas de colores integradas son de solo lectura. Para editar colores, cree una copia de la tabla de colores haciendo clic en el icono de la carpeta &apos;copiar&apos;.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="179"/>
@@ -19884,7 +19887,7 @@ Capacidades gráficas de este equipo:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1841"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Slicer NO es un dispositivo médico aprobado por la FDA.&lt;br&gt;&lt;br&gt;Con el apoyo de: NA-MIC, NAC, BIRN, NCIGT y la Comunidad Slicer.&lt;br&gt;&lt;br&gt;Agradecimiento especial a los NIH y a quienes nos apoyan.&lt;br&gt;&lt;br&gt;Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NA-MIC), financiada por los Institutos Nacionales de la Salud (NIH) a través de la Hoja de Ruta para la Investigación Médica de los NIH, subvención U54 EB005149. Puede obtener información sobre los Centros Nacionales de Computación Biomédica en &lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Slicer NO es un dispositivo médico aprobado por la FDA.&lt;br&gt;&lt;br&gt;Con el apoyo de: NA-MIC, NAC, BIRN, NCIGT y la Comunidad Slicer.&lt;br&gt;&lt;br&gt;Agradecimiento especial a los NIH y a quienes nos apoyan.&lt;br&gt;&lt;br&gt;Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NA-MIC), financiada por los Institutos Nacionales de la Salud (NIH) a través de la Hoja de Ruta para la Investigación Médica de los NIH, subvención U54 EB005149. Puede obtener información sobre los Centros Nacionales de Computación Biomédica en &lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -21451,7 +21454,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="112"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>El gestor de extensiones requiere que &lt;em&gt;3D Slicer&lt;/em&gt; esté instalado. Abra el archivo de imagen de disco (.dmg), arrastre &lt;em&gt;Slicer.app&lt;/em&gt; a la carpeta &lt;em&gt;Aplicaciones&lt;/em&gt; e inicie &lt;em&gt;3D Slicer&lt;/em&gt; desde la carpeta &lt;em&gt;Aplicaciones&lt;/em&gt;.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="118"/>
@@ -21689,7 +21692,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="40"/>
         <source>GeneralizedReformat</source>
-        <translation type="unfinished"></translation>
+        <translation>GeneralizedReformat</translation>
     </message>
 </context>
 <context>
@@ -21802,7 +21805,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -21810,7 +21813,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerLoadableModuleTemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -22754,7 +22757,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
         <source>Skip placement of highlighted control point(s) from the active list (will clear current position).</source>
-        <translation type="unfinished">Skip placement of highlighted control point(s) from the active list (will clear current position).</translation>
+        <translation>Omitir el lugar de los puntos de control resaltados de la lista activa (borrará la posición actual).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
@@ -22764,12 +22767,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
         <source>Delete the highlighted control point(s) from the active list</source>
-        <translation type="unfinished">Delete the highlighted control point(s) from the active list</translation>
+        <translation>Eliminar los puntos de control resaltados de la lista activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
         <source>Remove all control points from the active list</source>
-        <translation type="unfinished">Remove all control points from the active list</translation>
+        <translation>Quita todos los puntos de control de la lista activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
@@ -22794,7 +22797,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="533"/>
         <source>Set visibility and coordinate system of control point positions.</source>
-        <translation type="unfinished">Set visibility and coordinate system of control point positions.</translation>
+        <translation>Establecer la visibilidad y el sistema de coordenadas de las posiciones de los puntos de control.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
@@ -22861,17 +22864,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="701"/>
         <source>Name Format</source>
-        <translation type="unfinished">Name Format</translation>
+        <translation>Formato de Nombre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="708"/>
         <source>Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</source>
-        <translation type="unfinished">Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</translation>
+        <translation>Formato para crear nombres de nuevos puntos de control, utilizando el estilo de formato sprintf. %N se reemplaza por el nombre de la lista, %S se reemplaza por el nombre corto del marcado y %d por un entero.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="715"/>
         <source>Reset the name format field to the default value.</source>
-        <translation type="unfinished">Reset the name format field to the default value.</translation>
+        <translation>Restablecer el campo de formato de nombre al valor predeterminado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="718"/>
@@ -22998,7 +23001,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>R</source>
-        <translation type="unfinished">R</translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
@@ -23141,33 +23144,33 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="951"/>
         <source>Click to lock the number of control points so no points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse para bloquear el número de puntos de control para que no se puedan agregar ni eliminar puntos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1544"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1751"/>
         <source>Confirm control point deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar borrado del punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1545"/>
         <source>Delete %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borro %1 puntos de control desde este listado?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1550"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1752"/>
         <source>Delete all %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borro todos los %1 puntos de control desde este listado?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1758"/>
         <source>Delete All</source>
-        <translation type="unfinished">Delete All</translation>
+        <translation>Borrar Todo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2214"/>
@@ -23223,17 +23226,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3161"/>
         <source>Output table:</source>
-        <translation type="unfinished">Tabla de salida:</translation>
+        <translation>Tabla de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3162"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3163"/>
         <source>Export control points coordinates and properties to table.</source>
-        <translation type="unfinished">Export control points coordinates and properties to table.</translation>
+        <translation>Exportar coordenadas y propiedades de puntos de control a una tabla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3168"/>
@@ -23243,7 +23246,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3169"/>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3170"/>
@@ -23251,8 +23254,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
-        <translation type="unfinished">Import control points coordinates and properties from table node.
-Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</translation>
+        <translation>Importar coordenadas y propiedades de puntos de control desde el nodo de la tabla.
+Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, seleccionado, visible, bloqueado, descripción.</translation>
     </message>
 </context>
 <context>
@@ -23260,30 +23263,30 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="20"/>
         <source>Place markups</source>
-        <translation type="unfinished">Place markups</translation>
+        <translation>Marcas de lugar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="35"/>
         <source>Select the display color.</source>
-        <translation type="unfinished">Select the display color.</translation>
+        <translation>Seleccione el color de la pantalla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="57"/>
         <source>Place a control point</source>
-        <translation type="unfinished">Place a control point</translation>
+        <translation>Coloque un punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="60"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="86"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="106"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="83"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="550"/>
         <source>Delete last added control point</source>
-        <translation type="unfinished">Delete last added control point</translation>
+        <translation>Eliminar el último punto de control añadido</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="103"/>
@@ -23294,17 +23297,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="123"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="126"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished">Place multiple control points</translation>
+        <translation>Coloque múltiples puntos de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="135"/>
         <source>Delete all control points</source>
-        <translation type="unfinished">Delete all control points</translation>
+        <translation>Borra todos los puntos de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="138"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished">Delete all control points in the list</translation>
+        <translation>Borra todos los puntos de control de la lista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="147"/>
@@ -23314,47 +23317,47 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="150"/>
         <source>Clear the position of the last control point placed (the control point will not be deleted).</source>
-        <translation>Borrar la posición del último punto de control colocado (el punto de control no se eliminará).</translation>
+        <translation>Vacía la posición del último punto de control colocado (el punto de control no se eliminará).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="160"/>
         <source>Clear all control point positions</source>
-        <translation>Vaciar todas las posiciones del punto de control</translation>
+        <translation>Vacía todas las posiciones del punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="163"/>
         <source>Clear the position of all control points in the list (the control points will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vacía la posición de todos los puntos de control dentro de listado (los puntos de control no serán borrados).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="173"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Visibilidad</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="176"/>
         <source>Toggle markup visibility</source>
-        <translation type="unfinished">Toggle markup visibility</translation>
+        <translation>Conmutar la visibilidad del marcado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="186"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>Bloqueado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="189"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished">Toggle control point positions lock</translation>
+        <translation>Conmutación del bloqueo de posiciones de punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="199"/>
         <source>Control point number locked</source>
-        <translation type="unfinished">Control point number locked</translation>
+        <translation>Número del punto de control bloqueado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="202"/>
         <source>Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</source>
-        <translation type="unfinished">Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</translation>
+        <translation>Conmutar el bloqueo del número de punto de control. Si está bloqueado, no es posible añadir ni eliminar puntos de control. En lugar de eliminarlos, se pueden desconfigurar los puntos de control de posición.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="138"/>
@@ -23364,17 +23367,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="149"/>
         <source>Delete options</source>
-        <translation type="unfinished">Delete options</translation>
+        <translation>Borrar opciones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="166"/>
         <source>More options</source>
-        <translation type="unfinished">More options</translation>
+        <translation>Más opciones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="544"/>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición no establecida del último punto de control colocado (el punto de control no se eliminará).</translation>
     </message>
 </context>
 <context>
@@ -23383,12 +23386,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="78"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
         <source>Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Márgenes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
         <source>Markups Fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Márgenes Fiduciales</translation>
     </message>
 </context>
 <context>
@@ -23396,62 +23399,62 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="14"/>
         <source>Markups Settings</source>
-        <translation type="unfinished">Markups Settings</translation>
+        <translation>Ajustes de Marcado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="23"/>
         <source>Default glyph type:</source>
-        <translation type="unfinished">Default glyph type:</translation>
+        <translation>Tipo de glifo por defecto:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="30"/>
         <source>The symbol used for the markup</source>
-        <translation type="unfinished">The symbol used for the markup</translation>
+        <translation>El símbolo utilizado para el marcado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="37"/>
         <source>Vertex2D</source>
-        <translation type="unfinished">Vertex2D</translation>
+        <translation>Vertex2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="42"/>
         <source>Dash2D</source>
-        <translation type="unfinished">Dash2D</translation>
+        <translation>Dash2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="47"/>
         <source>Cross2D</source>
-        <translation type="unfinished">Cross2D</translation>
+        <translation>Cross2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="52"/>
         <source>ThickCross2D</source>
-        <translation type="unfinished">ThickCross2D</translation>
+        <translation>ThickCross2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
         <source>Triangle2D</source>
-        <translation type="unfinished">Triangle2D</translation>
+        <translation>Triangle2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="62"/>
         <source>Square2D</source>
-        <translation type="unfinished">Square2D</translation>
+        <translation>Square2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="67"/>
         <source>Circle2D</source>
-        <translation type="unfinished">Circle2D</translation>
+        <translation>Circle2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="72"/>
         <source>Diamond2D</source>
-        <translation type="unfinished">Diamond2D</translation>
+        <translation>Diamond2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="77"/>
         <source>Arrow2D</source>
-        <translation type="unfinished">Arrow2D</translation>
+        <translation>Arrow2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="82"/>
@@ -23511,7 +23514,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="219"/>
         <source>Default active color:</source>
-        <translation type="unfinished">Default active color:</translation>
+        <translation>Color activo predeterminado:</translation>
     </message>
 </context>
 <context>
@@ -23519,32 +23522,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="14"/>
         <source>Add a 3D model</source>
-        <translation type="unfinished">Add a 3D model</translation>
+        <translation>Añade un modelo 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="26"/>
         <source>Add Model file(s)</source>
-        <translation type="unfinished">Add Model file(s)</translation>
+        <translation>Añade archivo(s) de Modelo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="48"/>
         <source>Add Model directory</source>
-        <translation type="unfinished">Add Model directory</translation>
+        <translation>Añade directorio de Modelo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="61"/>
         <source>Select Model file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el/los Archivo(s) de Modelo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="74"/>
         <source>Select a Model directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un directorio de Modelo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="107"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
 </context>
 <context>
@@ -23552,22 +23555,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="14"/>
         <source>Models options</source>
-        <translation type="unfinished">Models options</translation>
+        <translation>Opciones de modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="32"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished">Coordinate system:</translation>
+        <translation>Sistema de coordenadas:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="45"/>
         <source>Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</source>
-        <translation type="unfinished">Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</translation>
+        <translation>Utilice LPS (izquierda-posterior-superior) para una mejor compatibilidad con la mayoría del software (esta es la opción predeterminada). Utilice RAS (derecha-anterior-superior) para una mejor compatibilidad con versiones anteriores de Slicer. Si el sistema de coordenadas está definido en el archivo, se utiliza y se ignora esta opción.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="49"/>
         <source>Default</source>
-        <translation type="unfinished">Default</translation>
+        <translation>Predeterminado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="54"/>
@@ -23585,17 +23588,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="45"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El módulo Modelos carga y ajusta los parámetros de visualización de los modelos, como el color, la transparencia y el recorte.&lt;br&gt;Guarde los modelos mediante el botón Guardar del menú Archivo.&lt;br&gt;El botón Agregar modelo 3D o directorio de modelos le permite cargar cualquier modelo que Slicer pueda leer, así como todos los modelos VTK de un directorio. Agregar superposición escalar carga un archivo escalar y lo asocia con el modelo activo.&lt;br&gt;Puede ajustar las propiedades de visualización de los modelos en el panel Visualización. Seleccione el modelo con el que desea trabajar en el menú desplegable del selector de modelos. Las superposiciones escalares se cargan con una tabla de consulta de colores predeterminada, pero se pueden reasignar manualmente. Una vez que se elige una nueva superposición escalar, actualmente todavía se utiliza el mapa de colores antiguo, por lo que debe ajustarse junto con la superposición.&lt;br&gt;El recorte se activa para un modelo en el panel Visualización, y los planos de corte que recortarán el modelo se seleccionan en el panel Recorte.&lt;br&gt;El panel Jerarquía del modelo le permite agrupar modelos y configurar las propiedades del grupo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"/>
         <source>This work was partially funded by NIH grants 3P41RR013218-12S1 and R01CA184354.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo fue financiado parcialmente por NIH grants 3P41RR013218-12S1 y R01CA184354.</translation>
     </message>
 </context>
 <context>
@@ -23603,52 +23606,52 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="20"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="61"/>
         <source>Filter by name...</source>
-        <translation type="unfinished">Filter by name...</translation>
+        <translation>Filtrar por nombre…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="71"/>
         <source>Turn the visibility off on all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turn the visibility off on all models (does not include hierarchies)</translation>
+        <translation>Apaga la visibilidad en todos los modelos (no incluye jerarquías)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turns visibility on for all models (does not include hierarchies)</translation>
+        <translation>Activa la visibilidad para todos los modelos (no incluye jerarquías)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="146"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Exhibición</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leyenda de colores para la Tabla de colores seleccionada en la sección Escalares.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Leyenda de Colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
         <source>Clipping</source>
-        <translation type="unfinished">Recorte</translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clip node:</source>
-        <translation type="unfinished">Nodo clip:</translation>
+        <translation>Nodo de recorte:</translation>
     </message>
 </context>
 <context>
@@ -23661,7 +23664,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
         <source>Search in full text (module name and description). If unchecked then only module names are searched.</source>
-        <translation type="unfinished">Search in full text (module name and description). If unchecked then only module names are searched.</translation>
+        <translation>Buscar en texto completo (nombre y descripción del módulo). Si no está marcada, solo se buscará en los nombres de los módulos.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
@@ -23676,7 +23679,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
         <source>&amp;Built-in</source>
-        <translation type="unfinished">&amp;Built-in</translation>
+        <translation>&amp;Embebido</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
@@ -23696,17 +23699,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="201"/>
         <source>Category:</source>
-        <translation type="unfinished">Categoría:</translation>
+        <translation>Categoría:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="237"/>
         <source>Contributors:</source>
-        <translation type="unfinished">Colaboradores:</translation>
+        <translation>Colaboradores:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
         <source>Internal name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre interno:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="248"/>
@@ -23797,7 +23800,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="114"/>
         <source>Find module</source>
-        <translation type="unfinished">Find module</translation>
+        <translation>Buscar módulo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="139"/>
@@ -23856,7 +23859,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="149"/>
         <source>Requires:</source>
-        <translation>Requisitos:</translation>
+        <translation>Requiere:</translation>
     </message>
 </context>
 <context>
@@ -23981,7 +23984,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="70"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyección de Intensidad Máxima</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="71"/>
@@ -25123,7 +25126,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="513"/>
         <source>Export/import models and labelmaps</source>
-        <translation type="unfinished">Export/import models and labelmaps</translation>
+        <translation>Exportar/importar modelos y mapas de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="545"/>
@@ -25143,7 +25146,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="578"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="585"/>
@@ -25333,7 +25336,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="650"/>
         <source>Export models to new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta modelos a carpeta nueva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="760"/>
@@ -25407,7 +25410,7 @@ Lo más probable es que el segmento no se pueda convertir en una representación
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="995"/>
         <source>Failed to export segments to models</source>
-        <translation type="unfinished">Failed to export segments to models</translation>
+        <translation>No se pudieron exportar segmentos a los modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1046"/>
@@ -25432,12 +25435,12 @@ Lo más probable es que el segmento no se pueda convertir en una representación
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1068"/>
         <source>Failed to copy polydata from models under folder %1!</source>
-        <translation>No se pudo copiar polydata de modelos en la carpeta %1!</translation>
+        <translation>No se pudo copiar polydata desde modelos bajo la carpeta %1.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1070"/>
         <source>Failed to import models</source>
-        <translation type="unfinished">Failed to import models</translation>
+        <translation>No fue posible importar modelos</translation>
     </message>
 </context>
 <context>
@@ -25489,7 +25492,7 @@ Lo más probable es que el segmento no se pueda convertir en una representación
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="43"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="53"/>
         <source>Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</source>
-        <translation type="unfinished">Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</translation>
+        <translation>Habilite el suavizado de superficies durante la conversión de mapas de etiquetas binarios a superficies cerradas en nuevas segmentaciones. El suavizado mejora la apariencia en las vistas 3D y los modelos exportados, pero ralentiza considerablemente la edición de segmentos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="96"/>
@@ -26971,7 +26974,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="289"/>
         <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al habilitar el peeling de profundidad se mejora la representación de modelos transparentes, pero a costa de un mayor costo computacional.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="240"/>
@@ -27494,17 +27497,17 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="186"/>
         <source>Invalid item</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento no válido</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="192"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="198"/>
         <source>Invalid model node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de modelo no válido</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="200"/>
@@ -27514,22 +27517,22 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="205"/>
         <source>Unstructured grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejilla desestructurada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="209"/>
         <source>Model node does not contain data</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de modelo no contiene datos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="214"/>
         <source>Points: %1  Cells: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos: %1  Celdas: %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="223"/>
         <source>Color: %1,%2,%3  Opacity: %4%</source>
-        <translation type="unfinished"></translation>
+        <translation>Color: %1,%2,%3  Opacidad: %4%</translation>
     </message>
 </context>
 <context>
@@ -27658,7 +27661,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="115"/>
         <source>Export visible segments to models</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta segmentos visibles a modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="118"/>
@@ -27673,7 +27676,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="124"/>
         <source>Convert models to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Convierte modelos a segmentación de nodo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
@@ -27803,19 +27806,21 @@ Please visit the Segmentation module and try the advanced create representation 
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1124"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1386"/>
         <source>Failed to export segmentation to models</source>
-        <translation type="unfinished">Failed to export segmentation to models</translation>
+        <translation>No se pudo exportar la segmentación a los modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1130"/>
         <source>-models</source>
-        <translation type="unfinished"></translation>
+        <translation>-modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1148"/>
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron exportar los segmentos de la segmentación %1 a los modelos.
+
+Lo más probable es que el segmento no se pueda convertir a una representación de superficie cerrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1381"/>
@@ -30424,7 +30429,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipModelsNode.cxx" line="30"/>
         <source>Clip Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de clip</translation>
     </message>
 </context>
 <context>
@@ -31001,7 +31006,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="98"/>
         <source>Model Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de modelo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="782"/>
