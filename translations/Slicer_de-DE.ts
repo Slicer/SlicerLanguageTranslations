@@ -4158,7 +4158,7 @@ Ein Begleitfilter, Grayscale Fill Hole, füllt Löcher in Graustufenbildern.</tr
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
@@ -4749,7 +4749,7 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
@@ -7426,12 +7426,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Eingabe Volumen 1</translation>
+        <translation>Eingabe Volumen 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
@@ -31291,7 +31291,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceNode.cxx" line="63"/>
         <source>Sequence</source>
-        <translation type="unfinished">Sequence</translation>
+        <translation>Sequence</translation>
     </message>
 </context>
 <context>
