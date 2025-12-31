@@ -3219,7 +3219,7 @@ Bitte richten Sie mindestens einen Filter ein, um die Server abzufragen, und üb
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3522"/>
         <source>Send %1 studies to DICOM server</source>
-        <translation type="unfinished">Studie an DICOM-Server senden</translation>
+        <translation>%1 Studie an DICOM-Server senden</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3605"/>
