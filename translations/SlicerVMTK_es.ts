@@ -249,12 +249,12 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
         <source>Branch_Model</source>
-        <translation type="unfinished">Branch_Model</translation>
+        <translation>Branch_Model</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="255"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished">Branch_Curve</translation>
+        <translation>Branch_Curve</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="267"/>
@@ -264,7 +264,7 @@ y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="270"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished">Centerline_Model</translation>
+        <translation>Centerline_Model</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="273"/>
@@ -950,7 +950,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="384"/>
         <source>Tab 1</source>
-        <translation type="unfinished">Tab 1</translation>
+        <translation>Tab 1</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
