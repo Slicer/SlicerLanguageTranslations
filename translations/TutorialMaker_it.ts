@@ -31,7 +31,7 @@
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="39"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="52"/>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulsante</translation>
     </message>
 </context>
 <context>
@@ -99,7 +99,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="46"/>
         <source>Next Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Prossimo Widget</translation>
     </message>
 </context>
 <context>
@@ -107,22 +107,22 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="17"/>
         <source>Tutorial Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor di tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="104"/>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Interrompi registrazione</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="109"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizia Registrazione</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="154"/>
         <source>Widget Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotatore di Widget</translation>
     </message>
 </context>
 <context>
@@ -130,12 +130,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="290"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>CreatoreTutorial - Annotatore</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="318"/>
         <source>Title for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Titolo per la diapositiva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="323"/>
@@ -180,7 +180,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="931"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrato</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="935"/>
@@ -205,42 +205,42 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="951"/>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casella di testo</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="955"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Icona</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="958"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1015"/>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation>colore</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1021"/>
         <source> thick.</source>
-        <translation type="unfinished"></translation>
+        <translation> spesso.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1031"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Riempi</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1054"/>
         <source>Load icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Carica icona</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1179"/>
         <source>Add Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi immagine</translation>
     </message>
 </context>
 <context>
