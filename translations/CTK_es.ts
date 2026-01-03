@@ -5040,7 +5040,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;reproductor de visor de imágenes CTK simple &lt;/h1&gt;contribuido por: &lt;URL&gt;.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt; &lt;em&gt;q&lt;/em&gt;: quit &lt;em&gt;h&lt;/em&gt;: display this help &lt;em&gt;i&lt;/em&gt;: invert intensities &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom &lt;em&gt;x y&lt;/em&gt;: flip along the X / Y axis &lt;em&gt;r&lt;/em&gt;: reset to initial conditions &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor &lt;em&gt;arriba-Flecha abajo-flecha&lt;/em&gt;: change to next / previous slice&lt;h3&gt;mouse commands:&lt;/h3&gt; &lt;em&gt;left-button&lt;/em&gt;: ventana y nivel &lt;em&gt;middle-button&lt;/em&gt;: zoom &lt;em&gt;right-button&lt;/em&gt;: center</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"/>
@@ -5544,12 +5544,12 @@ ajustes a los valores predeterminados?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="244"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="249"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Phong</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"/>
