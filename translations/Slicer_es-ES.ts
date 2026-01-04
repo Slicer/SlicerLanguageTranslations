@@ -13299,7 +13299,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="119"/>
         <source>Kochanek spline</source>
-        <translation type="unfinished">Kochanek spline</translation>
+        <translation>Tira de Kochanek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="123"/>
@@ -23669,12 +23669,12 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
         <source>&amp;Full text</source>
-        <translation type="unfinished">&amp;Full text</translation>
+        <translation>&amp;Texto completo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
         <source>Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</source>
-        <translation type="unfinished">Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</translation>
+        <translation>Mostrar módulos integrados. Desmarcar hace que sea más fácil encontrar módulos proporcionados por extensiones.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
@@ -23684,7 +23684,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
         <source>Show testing modules. Useful for software testing and troubleshooting.</source>
-        <translation type="unfinished">Show testing modules. Useful for software testing and troubleshooting.</translation>
+        <translation>Mostrar módulos de prueba. Útil para pruebas de software y resolución de problemas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
@@ -24858,22 +24858,22 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1201"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellene el interior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellenar el exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1221"/>
         <source>Free-form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma libre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1222"/>
@@ -24883,12 +24883,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1223"/>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectángulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1224"/>
         <source>Centered</source>
-        <translation type="unfinished">Centered</translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
@@ -24898,62 +24898,62 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
         <source>Shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1244"/>
         <source>Unlimited</source>
-        <translation type="unfinished">Unlimited</translation>
+        <translation>Ilimitado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1245"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
-        <translation type="unfinished">Cut through the entire segmentation. Only used for slice views.</translation>
+        <translation>Corta toda la segmentación. Solo se usa para vistas de sectores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1246"/>
         <source>Positive</source>
-        <translation type="unfinished">Positive</translation>
+        <translation>Positivo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1247"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Only positive side of the slice plane is included in cut region. Only used for slice views.</translation>
+        <translation>Solo se incluye el lado positivo del plano de corte en la región de corte. Solo se usa para vistas de sectores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1248"/>
         <source>Negative</source>
-        <translation type="unfinished">Negative</translation>
+        <translation>Negativo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
         <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Only negative side of the slice plane is included in cut region. Only used for slice views.</translation>
+        <translation>Solo el lado negativo del plano de corte está incluido en la región de corte. Solo se usa para vistas de sectores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
         <source>Symmetric</source>
-        <translation type="unfinished">Symmetric</translation>
+        <translation>Simétrico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
-        <translation type="unfinished">Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</translation>
+        <translation>La región de corte está limitada al grosor especificado alrededor del plano de corte. Solo se usa para vistas de sectores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
         <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
-        <translation type="unfinished">Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</translation>
+        <translation>Espesor de la región de corte. 0 significa que solo se incluye el segmento actual. Solo se usa para vistas de sectores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1261"/>
         <source>Slice cut:</source>
-        <translation type="unfinished">Slice cut:</translation>
+        <translation>Corte de sección:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1262"/>
         <source>Restrict cut region in slice views.</source>
-        <translation type="unfinished">Restrict cut region in slice views.</translation>
+        <translation>Restringir la región de corte en las vistas de corte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1270"/>
