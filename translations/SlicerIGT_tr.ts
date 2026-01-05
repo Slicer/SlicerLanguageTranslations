@@ -9,8 +9,9 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished">
-Bu modül, tekrarlamalı en yakın noktalar (Iterative Closest Points-ICP) yöntemi kullanarak referans (fiducial) listesini bir model yüzeyine hizalar. Bu modülü nasıl kullanacağınızla ilgili yardım için: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT web sitesini&lt;/a&gt; ziyaret edin.
+        <translation>
+Bu modül, tekrarlamalı en yakın noktalar (Iterative Closest Points-ICP) yöntemi kullanarak referans (fiducial) listesini bir model yüzeyine hizalar.
+Bu modülü nasıl kullanacağınızla ilgili yardım için: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT web sitesini&lt;/a&gt; ziyaret edin.
     </translation>
     </message>
     <message>
