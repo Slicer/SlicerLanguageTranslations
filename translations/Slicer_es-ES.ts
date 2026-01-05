@@ -23762,22 +23762,22 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="20"/>
         <source>Module Panel</source>
-        <translation type="unfinished">Module Panel</translation>
+        <translation>Panel de Módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
         <source>Help &amp;&amp; Acknowledgement</source>
-        <translation type="unfinished">Help &amp;&amp; Acknowledgement</translation>
+        <translation>Ayuda y Reconocimiento</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="93"/>
         <source>Help</source>
-        <translation type="unfinished">Help</translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
         <source>Acknowledgement</source>
-        <translation type="unfinished">Acknowledgement</translation>
+        <translation>Reconocimiento</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="189"/>
@@ -23790,7 +23790,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="102"/>
         <source>Modules:</source>
-        <translation type="unfinished">Modules:</translation>
+        <translation>Módulos:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="112"/>
@@ -23805,7 +23805,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="139"/>
         <source>Select a module from the module list</source>
-        <translation type="unfinished">Select a module from the module list</translation>
+        <translation>Seleccionar un módulo de la lista de módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="145"/>
@@ -23816,17 +23816,17 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="151"/>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="155"/>
         <source>Modules history</source>
-        <translation type="unfinished">Modules history</translation>
+        <translation>Historia de los módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="153"/>
         <source>History</source>
-        <translation type="unfinished">History</translation>
+        <translation type="unfinished">Historial</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="162"/>
         <source>Modules Previous History</source>
-        <translation type="unfinished">Modules Previous History</translation>
+        <translation>Historia Previa de los Módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="165"/>
@@ -25101,7 +25101,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="419"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+        <translation>Copiar a la segmentación actual desde otro nodo (nodo de segmentación para copiar y Modelar o nodo de mapa de etiquetas para importar/exportar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="422"/>
@@ -25111,7 +25111,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="447"/>
         <source>Move to current segmentation from other Segmentation node</source>
-        <translation type="unfinished">Move to current segmentation from other Segmentation node</translation>
+        <translation>Pasar a la segmentación actual desde otro nodo de segmentación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="450"/>
@@ -25121,7 +25121,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="472"/>
         <source>Select Segmentation node to copy/move segments to/from.</source>
-        <translation type="unfinished">Select Segmentation node to copy/move segments to/from.</translation>
+        <translation>Seleccione Nodo de segmentación para copiar/mover segmentos hacia/desde.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="513"/>
@@ -25131,17 +25131,17 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="545"/>
         <source>Clear selection indicating that a new node should be created</source>
-        <translation type="unfinished"></translation>
+        <translation>Selección clara que indica que se debe crear un nuevo nodo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="561"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="568"/>
         <source>Labelmap</source>
-        <translation type="unfinished">Labelmap</translation>
+        <translation>Mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="578"/>
@@ -25151,12 +25151,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="585"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="592"/>
         <source>Output:</source>
-        <translation type="unfinished">Output:</translation>
+        <translation>Salida:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="599"/>
@@ -25166,12 +25166,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="606"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation type="unfinished">Exportar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="613"/>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation type="unfinished">Importar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="620"/>
@@ -25181,7 +25181,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="650"/>
         <source>Exported segments:</source>
-        <translation type="unfinished">Exported segments:</translation>
+        <translation>Segmentos exportados:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="658"/>
@@ -25197,22 +25197,22 @@ Por favor, elija un directorio vacío.</translation>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="671"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="681"/>
         <source>Exported labelmap geometry will match this volume&apos;s geometry</source>
-        <translation type="unfinished">Exported labelmap geometry will match this volume&apos;s geometry</translation>
+        <translation>La geometría del mapa de etiquetas exportado coincidirá con la geometría de este volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="674"/>
         <source>Reference volume:</source>
-        <translation type="unfinished">Reference volume:</translation>
+        <translation>Volumen de referencia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="702"/>
         <source>Use color table values:</source>
-        <translation type="unfinished">Use color table values:</translation>
+        <translation>Usar valores de tabla de colores:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="735"/>
         <source>Labels of the imported labelmap will be mapped to terminology entries of this context</source>
-        <translation type="unfinished">Labels of the imported labelmap will be mapped to terminology entries of this context</translation>
+        <translation>Las etiquetas del mapa de etiquetas importado se asignarán a las entradas terminológicas de este contexto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="741"/>
@@ -25222,17 +25222,17 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="748"/>
         <source>Terminology context:</source>
-        <translation type="unfinished">Terminology context:</translation>
+        <translation>Contexto terminológico:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="761"/>
         <source>Export to files</source>
-        <translation type="unfinished">Export to files</translation>
+        <translation>Exportar a ficheros</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="804"/>
         <source>Binary labelmap layers</source>
-        <translation type="unfinished">Binary labelmap layers</translation>
+        <translation>Capas binarias de mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="813"/>
