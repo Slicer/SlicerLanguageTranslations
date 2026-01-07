@@ -4,19 +4,23 @@
 <context>
     <name>Annotations</name>
     <message>
-        <location filename="TutorialMaker/Lib/Annotations.py" line="31"/>
+        <location filename="TutorialMaker/Lib/Annotations.py" line="40"/>
         <source>Annotation needs a widget reference and a valid type</source>
         <translation>Аннотация должна содержать ссылку на виджет и правильный тип</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
+        <location filename="TutorialMaker/Lib/Annotations.py" line="277"/>
         <source>Write your text here</source>
         <translation>Напишите здесь свой текст</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
+        <location filename="TutorialMaker/Lib/Annotations.py" line="368"/>
+        <source>Start typing here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Write something here</source>
-        <translation>Напишите что-нибудь здесь</translation>
+        <translation type="vanished">Напишите что-нибудь здесь</translation>
     </message>
 </context>
 <context>
@@ -78,6 +82,7 @@
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="14"/>
+        <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="14"/>
         <source>MainWindow</source>
         <translation>MainWindow</translation>
     </message>
@@ -101,26 +106,126 @@
         <source>Author name(s):</source>
         <translation>Имя автора(ов):</translation>
     </message>
+    <message>
+        <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="95"/>
+        <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="106"/>
+        <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="117"/>
+        <source>toolBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialAnnotator</name>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="80"/>
+        <source>TutorialMaker - Annotator</source>
+        <translation type="unfinished">TutorialMaker - Аннотатор</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="91"/>
+        <source>Title for the slide</source>
+        <translation type="unfinished">Заголовок для слайда</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="95"/>
+        <source>Write a description for the slide</source>
+        <translation type="unfinished">Напишите описание для слайда</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="158"/>
+        <source>Open</source>
+        <translation type="unfinished">Открыть</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="159"/>
+        <source>Save</source>
+        <translation type="unfinished">Сохранить</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="161"/>
+        <source>Delete</source>
+        <translation type="unfinished">Удалить</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="162"/>
+        <source>Add</source>
+        <translation type="unfinished">Добавить</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="163"/>
+        <source>Copy</source>
+        <translation type="unfinished">Копировать</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="171"/>
+        <source>Select</source>
+        <translation type="unfinished">Выберите</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="174"/>
+        <source>Square</source>
+        <translation type="unfinished">Квадратный</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="183"/>
+        <source>Arrow</source>
+        <translation type="unfinished">Стрелка</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="186"/>
+        <source>Arrow text</source>
+        <translation type="unfinished">Текст со стрелками</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="192"/>
+        <source>Text</source>
+        <translation type="unfinished">Текст</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="207"/>
+        <source>color</source>
+        <translation type="unfinished">Цвет</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="211"/>
+        <source> thick.</source>
+        <translation type="unfinished"> плотный.</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="283"/>
+        <source>Select a JSON file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="286"/>
+        <source>JSON Files (*.json)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="974"/>
+        <source>Slide Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialEditor</name>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialEditor.py" line="17"/>
+        <location filename="TutorialMaker/Lib/TutorialEditor.py" line="15"/>
         <source>Tutorial Editor</source>
         <translation>Учебник Редактор</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialEditor.py" line="104"/>
+        <location filename="TutorialMaker/Lib/TutorialEditor.py" line="102"/>
         <source>Stop Recording</source>
         <translation>Стоп Запись</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialEditor.py" line="109"/>
+        <location filename="TutorialMaker/Lib/TutorialEditor.py" line="107"/>
         <source>Start Recording</source>
         <translation>Начать Запись</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialEditor.py" line="154"/>
+        <location filename="TutorialMaker/Lib/TutorialEditor.py" line="152"/>
         <source>Widget Annotator</source>
         <translation>Виджет Коментатор</translation>
     </message>
@@ -128,119 +233,161 @@
 <context>
     <name>TutorialGUI</name>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="290"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="302"/>
         <source>TutorialMaker - Annotator</source>
         <translation>TutorialMaker - Аннотатор</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="318"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="330"/>
         <source>Title for the slide</source>
         <translation>Заголовок для слайда</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="323"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="335"/>
         <source>Write a description for the slide</source>
         <translation>Напишите описание для слайда</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="900"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="399"/>
+        <source>Select a JSON file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="402"/>
+        <source>JSON Files (*.json)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="476"/>
+        <source>Tutorial files have been saved at:
+{path}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="476"/>
+        <source>Tutorial saved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="722"/>
+        <source> (Copy)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1075"/>
         <source>Open</source>
         <translation>Открыть</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="901"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1076"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="902"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1077"/>
         <source>Undo</source>
         <translation>Отменить</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="903"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1078"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="904"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1079"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="905"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1080"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="927"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1102"/>
         <source>Select</source>
         <translation>Выберите</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="931"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1106"/>
         <source>Square</source>
         <translation>Квадратный</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="935"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1110"/>
         <source>Circle</source>
         <translation>Окружность</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="938"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1113"/>
         <source>Click</source>
         <translation>Нажмите</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="943"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1118"/>
         <source>Arrow</source>
         <translation>Стрелка</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="947"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1122"/>
         <source>Arrow text</source>
         <translation>Текст со стрелками</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="951"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1126"/>
         <source>Text Box</source>
         <translation>Текстовое поле</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="955"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1130"/>
         <source>Icon</source>
         <translation>Иконка</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="958"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1133"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1015"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1190"/>
         <source>color</source>
         <translation>Цвет</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1021"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1196"/>
         <source> thick.</source>
         <translation> плотный.</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1031"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1206"/>
         <source>Fill</source>
         <translation>Заполнение</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1054"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1227"/>
+        <source>Add text to accompany an arrow here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1229"/>
         <source>Load icon</source>
         <translation>Иконка загрузки</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1179"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1254"/>
+        <source>Select the images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1354"/>
         <source>Add Image</source>
         <translation>Добавить изображение</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1500"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1593"/>
+        <source>Acknowledgments</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -306,7 +453,7 @@
         <translation>Создатель Обучающих программ</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="53"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="51"/>
         <source>
         The development of this module has been made possible in part by a grant from the Chan Zuckerberg Initiative
         </source>
@@ -315,59 +462,139 @@
         </translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="70"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="69"/>
         <source>Version Date: {}</source>
         <translation>Дата версии: {}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="188"/>
+        <source>Fetching tutorials from GitHub.
+The window may appear unresponsive but the process is running in the background.
+This process will take some minutes.
+Click on &quot;OK&quot; to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="188"/>
+        <source>Please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="248"/>
+        <source>Please ensure 3D Slicer is in full-screen mode before starting the screenshot capture. Click &quot;OK&quot; to continue, or &quot;Cancel&quot; to return to the module.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="249"/>
+        <source>Full-Screen Mode Required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="250"/>
+        <source>Next Step</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
         <source>Tutorial Captured</source>
         <translation>Учебное пособие Снято</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="245"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
         <source>Captured Tutorial: {tutorialName}</source>
         <translation>Учебное пособие: {tutorialName}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="251"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="261"/>
+        <source>Failed to capture tutorial, please send this error on our GitHub Issue page:
+{err}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="272"/>
+        <source>You don&apos;t have any annotations to export.
+Please annotate your screenshots first using &quot;Edit Annotations&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="274"/>
+        <source>No Annotations Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="277"/>
         <source>Failed to generate tutorial</source>
         <translation>Не удалось создать пособие</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="273"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="307"/>
+        <source>Before editing annotations you should run the capture of the screenshots.
+Select a tutorial and click on &quot;Capture Screenshots&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="309"/>
+        <source>No Screenshots Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="319"/>
+        <source>An existing annotations file was found.
+
+Would you like to load the existing annotations?
+
+Yes: Load existing annotations
+No: Start fresh from raw tutorial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="321"/>
+        <source>Load Existing Annotations?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="340"/>
         <source>Failed to fetch tutorials from {repo}</source>
         <translation>Не удалось получить пособия из {репозиторий}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="456"/>
+        <source>Tutorial Execution Failed: {tutorial_name} in {lang} - Error: {e}. 
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="459"/>
+        <source>Tutorial Tested in {lang}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/TutorialMaker.py" line="290"/>
         <source>Tutorial Generated</source>
         <translation>Созданный учебник</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="254"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="290"/>
         <source>Generated Tutorial: {tutorialName}</source>
         <translation>Сгенерированный учебник: {tutorialName}</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="322"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="391"/>
         <source>No Tests Found</source>
         <translation>Тесты не найдены</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="369"/>
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
-        <translation>Выполнение учебника не удалось: {unit_tutorials} - Ошибка: {e}. 
+        <translation type="vanished">Выполнение учебника не удалось: {unit_tutorials} - Ошибка: {e}. 
 </translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="373"/>
         <source>Tutorial Tested</source>
-        <translation>Учебное пособие Проверено</translation>
+        <translation type="vanished">Учебное пособие Проверено</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="376"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="468"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
         <translation>{tutorials_failed} Учебники не удалось выполнить. Ошибки: {error_message}</translation>
     </message>
@@ -375,11 +602,39 @@
 <context>
     <name>TutorialPainter</name>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialPainter.py" line="77"/>
-        <location filename="TutorialMaker/Lib/TutorialPainter.py" line="316"/>
-        <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
+        <location filename="TutorialMaker/Lib/TutorialPainter.py" line="78"/>
+        <location filename="TutorialMaker/Lib/TutorialPainter.py" line="317"/>
+        <location filename="TutorialMaker/Lib/TutorialPainter.py" line="463"/>
         <source>Error: Load an image first.</source>
         <translation>Ошибка: Сначала загрузите изображение.</translation>
+    </message>
+</context>
+<context>
+    <name>TutorialUtils</name>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialUtils.py" line="768"/>
+        <source>Modules: {dependencies} not found. Please install the required modules before running the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialUtils.py" line="773"/>
+        <source>Closing the Python Console and Error Log windows will provide more screen space for the 3D Slicer views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialUtils.py" line="774"/>
+        <source>Tutorial Maker View Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialUtils.py" line="775"/>
+        <source>Close Windows (Recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Lib/TutorialUtils.py" line="777"/>
+        <source>Keep Windows Open</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -388,6 +643,12 @@
         <location filename="TutorialMaker/TutorialMaker.py" line="32"/>
         <source>Utilities</source>
         <translation>Утилиты</translation>
+    </message>
+    <message>
+        <location filename="TutorialMaker/Outputs/CurrentParsedTutorial.py" line="249"/>
+        <location filename="TutorialMaker/Testing/AIBasedSegmentationIn3DSlicer.py" line="233"/>
+        <source>Segmentation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
