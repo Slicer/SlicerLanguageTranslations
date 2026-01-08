@@ -174,7 +174,7 @@ https://arxiv.org/abs/2208.05868
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="94"/>
         <source>{task_title} [license required]</source>
-        <translation type="unfinished"></translation>
+        <translation>{task_title} [licence requise]</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="220"/>
