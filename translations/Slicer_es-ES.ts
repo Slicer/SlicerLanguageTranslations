@@ -24603,17 +24603,17 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="103"/>
         <source>Capture view nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar nodos de vista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="104"/>
         <source>If checked, all view nodes in the scene will be added or updated in the current scene view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, todos los nodos de vista de la escena se agregarán o actualizarán en la vista de escena actual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="110"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="111"/>
@@ -24624,7 +24624,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="138"/>
         <source>3D Slicer SceneView</source>
-        <translation type="unfinished">3D Slicer SceneView</translation>
+        <translation>Vista de escena de 3D Slicer</translation>
     </message>
 </context>
 <context>
@@ -24633,7 +24633,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="45"/>
         <source>SceneViews</source>
-        <translation type="unfinished">SceneViews</translation>
+        <translation>Vista de escena</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
@@ -24762,12 +24762,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="950"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pintar con un pincel redondo.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo: &lt;/b&gt; pintar trazos.&lt;li&gt; &lt; b&gt;Mayús + rueda del ratón&lt;/b&gt; o &lt;b&gt; teclas+/ -:&lt;/b&gt; ajusta el tamaño del pincel.&lt;li&gt;&lt; b&gt;Ctrl + rueda del ratón: &lt;/b&gt; vista de corte acercar/alejar.&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en vistas de corte como en 3D.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1372"/>
         <source>Diameter:</source>
-        <translation type="unfinished">Diameter:</translation>
+        <translation>Diámetro:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1374"/>
@@ -27613,17 +27613,17 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="107"/>
         <source>Rigid image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro rígido basado en imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="111"/>
         <source>BSpline image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro basado en imágenes BSpline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="115"/>
         <source>Interactive landmark registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro interactivo de puntos de referencia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="120"/>
@@ -27633,28 +27633,28 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="121"/>
         <source>Right-click another volume to select second volume and start registration</source>
-        <translation type="unfinished">Right-click another volume to select second volume and start registration</translation>
+        <translation>Clic con el botón derecho en otro volumen para seleccionar el segundo volumen e iniciar el registro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="219"/>
         <source>Register %1 to this using...</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrar %1 para este uso...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="262"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="340"/>
         <source>BRAINSRegistration_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro cerebral_%1_a_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="274"/>
         <source>LinearTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación lineal_%1_a_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="352"/>
         <source>BSplineTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación Bsplinet_%1_a_%2</translation>
     </message>
 </context>
 <context>
@@ -27662,7 +27662,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="112"/>
         <source>Export visible segments to binary labelmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar segmentos visibles a mapa de etiquetas binario</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="115"/>
@@ -27672,12 +27672,12 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="118"/>
         <source>Convert labelmap to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir mapa de etiquetas en nodo de segmentación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="121"/>
         <source>Convert model to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir modelo en nodo de segmentación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="124"/>
@@ -27687,32 +27687,32 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
         <source>Create binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear representación binaria labelmap</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="129"/>
         <source>Create closed surface representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear representación de superficie cerrada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="132"/>
         <source>Remove binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar representación binaria de mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="134"/>
         <source>Remove closed surface representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar la representación de superficies cerradas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="137"/>
         <source>2D fill visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad de relleno 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="142"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad del contorno 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="283"/>
@@ -27726,12 +27726,16 @@ Note: This may result in unwanted data loss in %4.</source>
 Would you like to change the master representation of &apos;%4&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %4.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>No se puede convertir la representación fuente &apos;%1 &apos;en fuente de destino &apos;%2&apos;, por lo que no se puede importar el nodo &apos;%3&apos; a la segmentación &apos;%4&apos;.
+
+¿Le gustaría cambiar la representación de origen de &apos; %4 &apos;a&apos;%1&apos;?
+
+Nota: Esto puede provocar una pérdida de datos no deseada en %4.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="291"/>
         <source>Failed to import data to segmentation</source>
-        <translation type="unfinished">Failed to import data to segmentation</translation>
+        <translation>No se han podido importar los datos a la segmentación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
@@ -27763,7 +27767,7 @@ Note: This may result in unwanted data loss in %4.</oldsource>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="394"/>
         <source> (Source representation: %1)</source>
         <oldsource> (Master representation: %1)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation> (Fuente de la representación: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
