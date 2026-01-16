@@ -626,7 +626,7 @@ No: Start fresh from raw tutorial</source>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="32"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>公共事業</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Outputs/CurrentParsedTutorial.py" line="249"/>
