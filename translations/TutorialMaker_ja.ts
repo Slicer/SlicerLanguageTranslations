@@ -24,7 +24,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="26"/>
@@ -632,7 +632,7 @@ No: Start fresh from raw tutorial</source>
         <location filename="TutorialMaker/Outputs/CurrentParsedTutorial.py" line="249"/>
         <location filename="TutorialMaker/Testing/AIBasedSegmentationIn3DSlicer.py" line="233"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>セグメンテーション</translation>
     </message>
 </context>
 </TS>
