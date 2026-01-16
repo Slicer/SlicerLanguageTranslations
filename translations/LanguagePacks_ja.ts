@@ -301,7 +301,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>公共事業</translation>
     </message>
 </context>
 </TS>
