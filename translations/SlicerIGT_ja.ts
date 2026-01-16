@@ -19,7 +19,9 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+このファイルは元々、Kitware Inc.のJean-Christophe Fillion-Robin氏とIsomics, Inc.のSteve Pieper氏により、NIH助成金 3P41RR013218-12S1 による一部支援を受け開発されました。
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
