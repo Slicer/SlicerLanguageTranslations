@@ -11,7 +11,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>翻訳ファイルの更新</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
