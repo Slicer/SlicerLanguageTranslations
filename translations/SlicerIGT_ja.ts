@@ -10,7 +10,8 @@ This module registers fiducial list to a model surface using iterative closest p
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
         <translation>
-このモジュールは、ICP法を用いて、フィデューシャルリストをモデル表面に位置合わせします。 本モジュールの使用方法については、&lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGTのウェブサイト&lt;/a&gt;をご覧ください。
+このモジュールは、ICP法を用いて、フィデューシャルリストをモデル表面に位置合わせします。
+ 本モジュールの使用方法については、&lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGTのウェブサイト&lt;/a&gt;をご覧ください。
     </translation>
     </message>
     <message>
@@ -283,7 +284,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">アルゴリズムを実行します。</translation>
+        <translation>アルゴリズムを実行します。</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
