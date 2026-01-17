@@ -25016,7 +25016,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="125"/>
         <source> Source geometry:</source>
-        <translation type="unfinished"> Source geometry:</translation>
+        <translation> Geometría de origen:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="160"/>
@@ -25031,12 +25031,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="174"/>
         <source>Remove selected segment</source>
-        <translation type="unfinished">Remove selected segment</translation>
+        <translation>Suprimir el segmento seleccionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="177"/>
         <source>Remove selected</source>
-        <translation type="unfinished">Remove selected</translation>
+        <translation>Suprimir los seleccionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="191"/>
@@ -25051,32 +25051,32 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="220"/>
         <source>Display settings for the segmentation (all segments)</source>
-        <translation type="unfinished">Display settings for the segmentation (all segments)</translation>
+        <translation>Parámetros de presentación de la segmentación (todos los segmentos)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="223"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation type="unfinished">Presentar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="250"/>
         <source>List of representations to see available and existing ones, and creating or updating them</source>
-        <translation type="unfinished">List of representations to see available and existing ones, and creating or updating them</translation>
+        <translation>Lista de representaciones para ver los disponibles y existentes, y crearlos o actualizarlos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="253"/>
         <source>Representations</source>
-        <translation type="unfinished">Representations</translation>
+        <translation>Representaciones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="280"/>
         <source>Copy/move segments</source>
-        <translation type="unfinished">Copy/move segments</translation>
+        <translation>Copiar/mover segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="321"/>
         <source>Current segmentation</source>
-        <translation type="unfinished">Current segmentation</translation>
+        <translation>Segmentación actual</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
@@ -28382,7 +28382,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="198"/>
         <source>Display the full intensity range of the volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra el rango de intensidad completo del volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="364"/>
@@ -28420,12 +28420,12 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Foo bar</translation>
+        <translation>Barra</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished">Foo Bar</translation>
+        <translation>Barra</translation>
     </message>
 </context>
 <context>
@@ -28433,7 +28433,7 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">qSlicerSuperLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -28441,7 +28441,7 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SlicerSuperLoadableModuleTemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -28454,7 +28454,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="20"/>
         <source>Place markups</source>
-        <translation type="unfinished">Place markups</translation>
+        <translation>Ubicar marcas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="41"/>
@@ -28469,7 +28469,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
         <source>string</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cadena</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="73"/>
@@ -28600,17 +28600,17 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="248"/>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="251"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished">Place multiple control points</translation>
+        <translation>Ubicar diversos puntos de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="260"/>
         <source>Delete all control points</source>
-        <translation type="unfinished">Delete all control points</translation>
+        <translation>Eliminar todos los puntos de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="263"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished">Delete all control points in the list</translation>
+        <translation>Eliminar todos los puntos de control de la lista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="273"/>
@@ -28630,7 +28630,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="289"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished">Toggle control point positions lock</translation>
+        <translation>Alternar bloqueo de posiciones de puntos de control</translation>
     </message>
 </context>
 <context>
@@ -28643,12 +28643,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="74"/>
         <source>The Tables module allows displaying and editing of spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>El módulo Tablas permite visualizar y editar hojas de cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="82"/>
         <source>This work was was partially funded by OCAIRO, the Applied Cancer Research Unit program of Cancer Care Ontario, and Department of Anesthesia and Critical Care Medicine, Children&apos;s Hospital of Philadelphia.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo fue financiado parcialmente por OCAIRO, el programa de la Unidad de Investigación Aplicada del Cáncer de Cancer Care Ontario y el Departamento de Anestesia y Medicina de Cuidados Intensivos del Hospital de Niños de Filadelfia.</translation>
     </message>
 </context>
 <context>
@@ -28661,7 +28661,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
         <source>Allow table editing</source>
-        <translation type="unfinished">Allow table editing</translation>
+        <translation>Permitir la edición de tablas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="99"/>
@@ -28695,7 +28695,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="174"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar un gráfico interactivo basado en la selección por parte del usuario de las columnas de la tabla. La Primera Columna (de izquierda a derecha) se usará como Eje X y cada Columna adicional se trazará en el mismo Gráfico que el Eje Y.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="204"/>
@@ -28735,12 +28735,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="349"/>
         <source>New column defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevas columnas predeterminadas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="135"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+        <translation>Generar un diagrama interactivo basado en la selección de las columnas de la tabla por parte del usuario.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="208"/>
@@ -28773,7 +28773,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="188"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al leer la tabla de  &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -28781,12 +28781,12 @@ Tags: %6</source>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Foo bar</translation>
+        <translation>Barra</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished">Foo Bar</translation>
+        <translation>Barra</translation>
     </message>
 </context>
 <context>
