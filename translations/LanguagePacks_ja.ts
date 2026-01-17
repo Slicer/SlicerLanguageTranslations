@@ -16,37 +16,37 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>翻訳の入力</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="202"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>入力フォルダ:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="212"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>言語:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate（最新の翻訳）</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub（日々の更新）</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="236"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>ローカルフォルダ（オフライン使用向け）</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="243"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>最新ファイルのみ:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
