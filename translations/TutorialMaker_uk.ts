@@ -205,12 +205,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="316"/>
         <source>Annotations saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Анотації збережено</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="319"/>
         <source>Exception while trying to save annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Виняток під час спроби збереження анотацій</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1016"/>
@@ -220,17 +220,17 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1127"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Подяки</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1151"/>
         <source>Slide Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст слайда</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1161"/>
         <source>Slide Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Тіло слайда</translation>
     </message>
 </context>
 <context>
@@ -495,22 +495,25 @@ Click on &quot;OK&quot; to continue.</source>
 
 Do you want to continue with the tutorial capture anyway?
 (The scene will be cleared)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сцену не збережено.
+
+Ви все одно хочете продовжити зйомку навчального відео?
+(Сцену буде очищено)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="282"/>
         <source>Continue without saving?</source>
-        <translation type="unfinished"></translation>
+        <translation>Продовжити без збереження?</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="310"/>
         <source>Preparing tutorial capture...</source>
-        <translation type="unfinished"></translation>
+        <translation>Підготовка зйомки навчального матеріалу...</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="313"/>
         <source>Capturing tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Посібник зі зйомки</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="345"/>
@@ -519,7 +522,11 @@ Do you want to continue with the tutorial capture anyway?
 Step {current} of {total}
 
 Please do not interact with Slicer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис посібника...
+
+Крок {current} з {total}
+
+Будь ласка, не взаємодійте зі Slicer.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="370"/>
@@ -596,12 +603,13 @@ No: Start fresh from raw tutorial</source>
         <location filename="TutorialMaker/TutorialMaker.py" line="571"/>
         <source>Tutorial Execution Failed: {tutorial_name} - Error: {e}. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося виконати навчальний посібник: {tutorial_name} - Помилка: {e}. 
+</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="574"/>
         <source>Tutorial {tutorial_name} tested</source>
-        <translation type="unfinished"></translation>
+        <translation>Підручник {tutorial_name} протестовано</translation>
     </message>
     <message>
         <source>Tutorial Execution Failed: {tutorial_name} in {lang} - Error: {e}. 
@@ -659,42 +667,42 @@ No: Start fresh from raw tutorial</source>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="417"/>
         <source>Prepare tutorial capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Підготуйте знімок навчального посібника</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="426"/>
         <source>&lt;b&gt;⚠ Warning:&lt;/b&gt; The scene will be cleared after preparation.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;⚠ Попередження:&lt;/b&gt; Місце події буде очищено після підготовки.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="438"/>
         <source>Save current scene before clearing</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти поточну сцену перед очищенням</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="440"/>
         <source>Opens the Save Data dialog to save your work before the scene is cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкриває діалогове вікно «Збереження даних», щоб зберегти вашу роботу перед очищенням сцени</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="442"/>
         <source>Maximize Slicer window</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимізувати вікно зрізу</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="444"/>
         <source>Ensures consistent screenshot dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Забезпечує однакові розміри скріншотів</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="446"/>
         <source>Close Python console and error log</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити консоль Python та журнал помилок</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="448"/>
         <source>Hides developer tools for cleaner screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховує інструменти розробника для чистіших скріншотів</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="954"/>
