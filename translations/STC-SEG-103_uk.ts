@@ -126,37 +126,37 @@ datasets</source>
         <location filename="text_dict_default.json" line="8"/>
         <source>AIBasedSegmentationIn3DSlicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AIBasedSegmentationIn3DSlicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Соня Пуйоль, доктор філ.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>30/06/2025</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>30/06/2025</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>AI - based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AI - Сегментація на основі 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Click on Add Data in the Welcome to 	Slicer module</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть кнопку «Додати дані» у вікні привітання 	Модуль Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Slicer loads the prostate MRI dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer завантажує набір даних МРТ простати</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -164,33 +164,37 @@ datasets</source>
 Modules’ menu and browse to
  the category Segmentation.</source>
         <extracomment>3_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть «Ласкаво просимо до Slicer» у
+меню «Модулі» та перейдіть до
+категорії «Сегментація».</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>Enter the model’s name Prostate in
 the Segmentation model menu</source>
         <extracomment>4_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Введіть назву моделі «Простата» в
+меню «Модель сегментації»</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Enter the Input T2 volume msdprostate-01-adc</source>
         <extracomment>5_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Введіть вхідний об&apos;єм T2 msdprostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
         <source>And the Input ADC volume msd-prostate-01-adc</source>
         <extracomment>6_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>І обсяг вхідного АЦП msd-prostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>Click on Create new segmentation on
 Apply</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть кнопку «Створити нову сегментацію» на сторінці
+«Застосувати»</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
@@ -199,19 +203,19 @@ Apply</source>
         <extracomment>7_TextBox_0
 ----------
 17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer починає висновок</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer shows the result of the AIbased prostate segmentation</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer показує результат сегментації простати на основі штучного інтелекту</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Load dataset4_BrainMRI_Glioma</source>
         <extracomment>9_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження dataset4_BrainMRI_Glioma</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -241,20 +245,27 @@ Input T2W volume: BraTS-GLI_00005-000-t2w
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Введіть вхідні об&apos;єми наступним чином:
+Вхідний об&apos;єм T2F: BraTS-GLI_00005-000-t12f
+Вхідний об&apos;єм T1C: BraTS-GLI_00005-000-t1c
+Вхідний об&apos;єм T1N: BraTS-GLI_00005-000-t1n
+Вхідний об&apos;єм T2W: BraTS-GLI_00005-000-t2w
+Натисніть «Створити нову сегментацію» на кнопці «Застосувати»
+Натисніть «Застосувати», щоб розпочати сегментацію</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer starts running the inference task</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Зрізальник починає виконувати завдання виведення</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>Once the segmentation is done, ‘Processing finished’
 appears in the Slicer GUI</source>
         <extracomment>13_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Після завершення сегментації в графічному інтерфейсі Slicer
+з’явиться напис «Обробку завершено»</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
@@ -264,7 +275,11 @@ double click on the image
 CT_Thorax_Abdomen to load it in
 Slicer</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>У модулі «Додати дані DICOM»
+виберіть пацієнта patient1 та
+двічі клацніть на зображенні
+CT_Thorax_Abdomen, щоб завантажити його в
+Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
@@ -272,7 +287,9 @@ Slicer</source>
 model’s name Whole Body Segmentation in the
 Segmentation model menu);</source>
         <extracomment>15_ArrowText_0 15_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть модуль MONAIAuto3DSeg та введіть назву моделі
+Whole Body Segmentation (Сегментація всього тіла) у
+меню Модель сегментації);</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="55"/>
@@ -280,20 +297,23 @@ Segmentation model menu);</source>
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть вхідний том 6: КТ_Грудної_черевної_плоди,
+Натисніть «Створити нову сегментацію» на кнопці «Застосувати»
+Натисніть «Застосувати», щоб розпочати сегментацію</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="59"/>
         <source>Slicer displays the result of the AI-based segmentation
 using the Whole Body Segmentation TS1- quick</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Зріз відображає результат сегментації на основі штучного інтелекту
+за допомогою швидкої сегментації всього тіла TS1</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="61"/>
         <source>Acknowledgements</source>
         <extracomment>19_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Подяки</translation>
     </message>
     <message>
         <source>Enter the input volumes as follows:</source>
