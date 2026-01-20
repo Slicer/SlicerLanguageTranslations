@@ -25091,7 +25091,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+        <translation>Copiar de la segmentación actual a otro nodo (nodo de segmentación para copiar y Modelar o nodo de mapa de etiquetas para importar/exportar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
@@ -25237,7 +25237,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="813"/>
         <source>Number of layers:</source>
-        <translation type="unfinished">Number of layers:</translation>
+        <translation>Nombre de capas:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="823"/>
@@ -25248,7 +25248,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="830"/>
         <source>Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</source>
-        <translation type="unfinished">Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</translation>
+        <translation>Forzar todos los segmentos a una sola capa modificará los segmentos superpuestos. Las regiones donde se superponen varios segmentos se asignarán al segmento más cercano al final de la lista de segmentos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="833"/>
@@ -29403,57 +29403,57 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="103"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula básica que se extiende a través del campo de visión.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="107"/>
         <source>Small basic crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula básica pequeña</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="108"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula pequeña con un pequeño espacio en la posición de la retícula.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="112"/>
         <source>Small basic + intersection</source>
-        <translation type="unfinished"></translation>
+        <translation>Pequeña intersección básica +</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="113"/>
         <source>Small crosshair.</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula pequeña</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="136"/>
         <source>Fine crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula fina</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="137"/>
         <source>Fine crosshair.</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula fina</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="141"/>
         <source>Medium crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula media</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="142"/>
         <source>Medium crosshair.</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula media.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Thick crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula gruesa</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Thick crosshair.</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula gruesa.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="161"/>
@@ -29461,12 +29461,12 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="172"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="181"/>
         <source>Crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>Retícula</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="180"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna la visibilidad de la retícula. Mantener presionada la tecla Mayús y mover el ratón en una vista para establecer la posición de la retícula.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="193"/>
@@ -29476,37 +29476,37 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="194"/>
         <source>Full slice intersection lines extending across the field of view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas de intersección de corte completo que se extienden a través del campo de visión.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="199"/>
         <source>Skip line crossings</source>
-        <translation type="unfinished"></translation>
+        <translation>Omite la línea de salida</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="201"/>
         <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Corte las líneas de intersección que se extienden a través del campo de visión con un espacio en la intersección.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="218"/>
         <source>Fine lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas finas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="219"/>
         <source>Fine lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas finas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="224"/>
         <source>Medium lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas medias</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="225"/>
         <source>Medium lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas medias.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="229"/>
