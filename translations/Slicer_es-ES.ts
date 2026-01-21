@@ -29755,12 +29755,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="653"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>No usar valores umbral. Establecer la rampa de opacidad desde el rango de ventana/Nivel en su lugar.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="656"/>
         <source>Ignore threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar umbral</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="683"/>
@@ -29843,12 +29843,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="30"/>
         <source>Default rendering method</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de representación predeterminado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="37"/>
         <source>Default quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Calidad predeterminada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="44"/>
@@ -29858,17 +29858,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="51"/>
         <source>Amount of memory allocated for volume rendering on the graphic card</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad de memoria asignada para el procesamiento de volumen en la tarjeta gráfica</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="61"/>
         <source>Quality control method to def</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de control de calidad para def</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="68"/>
         <source>Default interactive speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad interactiva predeterminada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="87"/>
