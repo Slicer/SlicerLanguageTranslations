@@ -131,7 +131,7 @@ busque el data set</translation>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dra. Sonia Pujol</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -293,7 +293,7 @@ using the Whole Body Segmentation TS1- quick</source>
         <location filename="text_dict_default.json" line="61"/>
         <source>Acknowledgements</source>
         <extracomment>19_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <source>Enter the input volumes as follows:</source>
