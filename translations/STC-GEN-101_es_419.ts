@@ -29,7 +29,7 @@ Brigham	and	Women’s	Hospital
 Harvard	Medical	School	</source>
         <extracomment>0_TextBox_3</extracomment>
         <translation>
-                </translation>
+&#xa0;</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
@@ -209,7 +209,7 @@ en los visores 2D.</translation>
 icon	in the top left corner of the red viewer to display the viewer menu</source>
         <extracomment>10_ArrowText_0</extracomment>
         <translation>Coloque el ratón sobre el icono de pin 
-en la esquina superior izquierda del visor rojo para abrir el menú del visor.</translation>
+en la esquina superior izquierda del visor rojo para abrir el menú del visor</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
@@ -219,7 +219,7 @@ to	display	the	slices	in	the	3D	viewer	);</source>
         <extracomment>11_TextBox_0 12_MRBrainSampleDataset_title</extracomment>
         <translation>Haga clic en el icono de enlace para vincular los tres 
 visores 2D y en el icono del ojo junto a él para mostrar 
-los cortes en el visor 3D.</translation>
+los cortes en el visor 3D;</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="69"/>
