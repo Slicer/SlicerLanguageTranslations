@@ -39,7 +39,7 @@ Harvard	Medical	School	</source>
         <location filename="text_dict_default.json" line="21"/>
         <source>3D Slicer version 4.8</source>
         <extracomment>3_3DSlicerversion48_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Versión 4.8 de 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="23"/>
@@ -182,7 +182,7 @@ In	the	Clipping	Planes	tab,	select	the	option ‘Green	Slice	Clipping’	and	che
         <location filename="text_dict_default.json" line="65"/>
         <source>Acknowledgements</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="67"/>
