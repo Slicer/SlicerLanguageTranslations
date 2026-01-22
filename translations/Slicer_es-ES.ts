@@ -30720,7 +30720,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLHierarchyNode.cxx" line="58"/>
         <source>Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Jerarquía</translation>
     </message>
 </context>
 <context>
@@ -30728,7 +30728,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLHierarchyStorageNode.cxx" line="28"/>
         <source>Hierarchy Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento Jerárquico</translation>
     </message>
 </context>
 <context>
@@ -30736,7 +30736,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLInteractionNode.cxx" line="16"/>
         <source>Interaction</source>
-        <translation type="unfinished"></translation>
+        <translation>Interacción</translation>
     </message>
 </context>
 <context>
@@ -30744,7 +30744,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeDisplayNode.cxx" line="36"/>
         <source>Label Map Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualización del Volumen del Mapa de Etiquetas</translation>
     </message>
 </context>
 <context>
@@ -30752,7 +30752,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeNode.cxx" line="39"/>
         <source>Label Map Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen del Mapa de Etiquetas</translation>
     </message>
 </context>
 <context>
@@ -30760,7 +30760,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLayoutNode.cxx" line="19"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Maquetación</translation>
     </message>
 </context>
 <context>
@@ -30768,7 +30768,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformNode.cxx" line="32"/>
         <source>Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación Lineal</translation>
     </message>
 </context>
 <context>
@@ -30776,7 +30776,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="49"/>
         <source>Linear Transform Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de Secuencia de Transformación Lineal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="608"/>
