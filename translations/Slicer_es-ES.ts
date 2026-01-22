@@ -25634,32 +25634,32 @@ Nota: Esto se aplica a las tablas de segmentos en el Editor de segmentos y los m
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished">Browse</translation>
+        <translation type="unfinished">Navegar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="32"/>
         <source>Sequence browser:</source>
-        <translation type="unfinished">Sequence browser:</translation>
+        <translation>Navegador de secuencias:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="44"/>
         <source>SequenceBrowser</source>
-        <translation type="unfinished">SequenceBrowser</translation>
+        <translation>NavegadorDeSecuencias</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="56"/>
         <source>Browsing</source>
-        <translation type="unfinished">Browsing</translation>
+        <translation>Navegación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="74"/>
         <source>Synchronized nodes</source>
-        <translation type="unfinished">Synchronized nodes</translation>
+        <translation>Nodos sincronizados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="105"/>
         <source>(new sequence)</source>
-        <translation type="unfinished">(new sequence)</translation>
+        <translation>(secuencia nueva)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="118"/>
@@ -30830,7 +30830,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsDisplayNode.cxx" line="48"/>
         <source>Markups Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualización de Marcas</translation>
     </message>
 </context>
 <context>
@@ -30838,7 +30838,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialDisplayNode.cxx" line="34"/>
         <source>Markups Fiducial Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualización Fiducial de Márgenes</translation>
     </message>
 </context>
 <context>
@@ -30859,7 +30859,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="247"/>
         <source>Markups Fiducial Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Márgenes de Beneficio Almacenamiento Fiducial</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="789"/>
@@ -30880,7 +30880,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="59"/>
         <source>Markups JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento JSON de Marcas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="332"/>
@@ -30923,7 +30923,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneDisplayNode.cxx" line="30"/>
         <source>Markups Plane Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualización del Plano de Marcas</translation>
     </message>
 </context>
 <context>
@@ -30931,7 +30931,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneJsonStorageNode.cxx" line="39"/>
         <source>Markups Plane JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento JSON de Plano de Marcas</translation>
     </message>
 </context>
 <context>
@@ -30952,7 +30952,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROIDisplayNode.cxx" line="30"/>
         <source>Markups ROI Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualización del ROI de los Márgenes</translation>
     </message>
 </context>
 <context>
@@ -30960,7 +30960,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROIJsonStorageNode.cxx" line="38"/>
         <source>Markups ROI JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Márgenes ROI Almacenamiento JSON</translation>
     </message>
 </context>
 <context>
@@ -30981,12 +30981,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.cxx" line="33"/>
         <source>Test Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea de Prueba</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.h" line="52"/>
         <source>TL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TL</translation>
     </message>
 </context>
 <context>
@@ -30994,7 +30994,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelDisplayNode.cxx" line="44"/>
         <source>Model Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Exhibición del Modelo</translation>
     </message>
 </context>
 <context>
@@ -31002,7 +31002,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelHierarchyNode.cxx" line="31"/>
         <source>Model Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Jerarquía del Modelo</translation>
     </message>
 </context>
 <context>
