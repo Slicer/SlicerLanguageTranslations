@@ -6,12 +6,12 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Input</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="23"/>
         <source>Input volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume di input:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="30"/>
