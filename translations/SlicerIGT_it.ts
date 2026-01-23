@@ -20,7 +20,10 @@ Per aiuto su come usare questo modulo visita: &lt;a href=&apos;https://www.slice
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Questo file è stato sviluppato da Jean-Christophe Fillion Robin, Kitware Inc.
+e Steve Oieper, Isomics, Inc., ed è stato in parte finanziato dal fondo del NIH 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
