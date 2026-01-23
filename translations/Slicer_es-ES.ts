@@ -26333,7 +26333,7 @@ Por defecto: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>Para deshabilitar temporalmente, pass --disable-loadable-modules en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
@@ -26344,44 +26344,44 @@ Por defecto: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>Para inhabilitar temporalmente, pass --disable-cli-modules en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="140"/>
         <source>command-line plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>complementos de la línea de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
         <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>Para deshabilitar temporalmente, pase   --disable-scripted-loadable-modules en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="150"/>
         <source>scripted loadable modules</source>
-        <translation type="unfinished"></translation>
+        <translation>guión de módulos cargables</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
         <source>Skip loading of builtin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir la carga de builtin:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>Para deshabilitar temporalmente, pase pass --disable-builtin-loadable-modules en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
         <source>To temporarily disable, pass --disable-builtin-cli-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>Para deshabilitar temporalmente, pase disable disable-builtin-cli-modules en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="147"/>
         <source>To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>Para deshabilitar temporalmente, pase  disable-builtin-scripted-loadable-modules en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="166"/>
@@ -26401,7 +26401,11 @@ Por defecto: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
 &lt;/body&gt;&lt;/html&gt;
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;Rutas de módulo adicionales:&lt;/p&gt;
+&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Arrastre y suelte archivos o carpetas&lt;br/&gt;desde el Explorador de archivos&lt;/span&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
@@ -26422,7 +26426,7 @@ Por defecto: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="338"/>
         <source>when checking/unchecking a module, its dependencies are checked/unchecked accordingly</source>
-        <translation type="unfinished"></translation>
+        <translation>al marcar/desmarcar un módulo, sus dependencias se marcan/desmarcan en consecuencia</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="341"/>
@@ -31432,7 +31436,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="276"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="290"/>
         <source>Text file (.%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text file (.%1)</translation>
     </message>
 </context>
 <context>
@@ -31440,7 +31444,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformDisplayNode.cxx" line="55"/>
         <source>Transform Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar Nodo de Visualización</translation>
     </message>
 </context>
 <context>
@@ -31456,7 +31460,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformStorageNode.cxx" line="41"/>
         <source>Transform Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar el Almacenamiento</translation>
     </message>
 </context>
 <context>
@@ -31464,7 +31468,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLUnitNode.cxx" line="38"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad</translation>
     </message>
 </context>
 <context>
@@ -31472,7 +31476,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeDisplayNode.cxx" line="39"/>
         <source>Vector Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualización de Volumen Vectorial</translation>
     </message>
 </context>
 <context>
@@ -31480,7 +31484,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeNode.cxx" line="36"/>
         <source>Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen Vectorial</translation>
     </message>
 </context>
 <context>
@@ -31548,47 +31552,47 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="735"/>
         <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>El formato de archivo VTK solo puede almacenar imágenes orientadas al eje LPS. La orientación de la imagen guardada puede ser incorrecta. Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="766"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar esta imagen en formato TIFF provocará la pérdida de información (posición, orientación o espaciado de la imagen a lo largo del tercer eje de la imagen). Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="779"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se recomienda analizar el formato de archivo, ya que su especificación de orientación de la imagen es ambigua. Se recomienda el formato de archivo NRRD para almacenar esta imagen.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="818"/>
         <source>Cannot write volume, image data is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede escribir volumen, los datos de la imagen están vacíos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="867"/>
         <source>Failed to delete directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al eliminar el directorio &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="875"/>
         <source>Failed to create directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al crear el directorio &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="934"/>
         <source>Failed to write &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Falló al escribir &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="946"/>
         <source>Failed to open directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al abrir el directorio &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1059"/>
         <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo de arquetipo &apos;%1&apos; no se escribió al escribir &apos;%2&apos; en &apos;%3&apos;. Solo se han escrito estos %4 archivo(s): %5. El nombre antiguo es &apos;%6&apos;.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1087"/>
