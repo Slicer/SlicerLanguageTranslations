@@ -126,37 +126,37 @@ la base de datos Rebanador</translation>
         <location filename="text_dict_default.json" line="8"/>
         <source>AIBasedSegmentationIn3DSlicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">AIBasedSegmentationIn3DSlicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>30/06/2025</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30/06/2025</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>AI - based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación basada en IA en 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Click on Add Data in the Welcome to 	Slicer module</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clic en Agregar datos en el módulo Bienvenido a 	Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Slicer loads the prostate MRI dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer carga el conjunto de datos de resonancia magnética de próstata</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -164,33 +164,37 @@ la base de datos Rebanador</translation>
 Modules’ menu and browse to
  the category Segmentation.</source>
         <extracomment>3_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clic en Bienvenido a Slicer en el
+Menú de módulos y navegar a
+ la categoría Segmentación.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>Enter the model’s name Prostate in
 the Segmentation model menu</source>
         <extracomment>4_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese el nombre del modelo Próstata en
+el menú del modelo de segmentación</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Enter the Input T2 volume msdprostate-01-adc</source>
         <extracomment>5_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ingresar el volumen de entrada T2 msdprostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
         <source>And the Input ADC volume msd-prostate-01-adc</source>
         <extracomment>6_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Y el volumen ADC de entrada msd-prostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>Click on Create new segmentation on
 Apply</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clic en Crear nueva segmentación en
+Aplicar</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
@@ -199,19 +203,19 @@ Apply</source>
         <extracomment>7_TextBox_0
 ----------
 17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer inicia la inferencia</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer shows the result of the AIbased prostate segmentation</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer muestra el resultado de la segmentación prostática basada en AI</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Load dataset4_BrainMRI_Glioma</source>
         <extracomment>9_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cargar dataset4_BrainMRI_Glioma</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -241,13 +245,19 @@ Input T2W volume: BraTS-GLI_00005-000-t2w
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese los volúmenes de entrada de la siguiente manera:
+Volumen de entrada T2F: BraTS-GLI_00005-000-t12f
+Volumen de entrada T1C: BraTS-GLI_00005-000-t1c
+Volumen de entrada T1N: BraTS-GLI_00005-000-t1n
+Volumen de entrada T2W: BraTS-GLI_00005-000-t2w
+Clic en Crear nueva segmentación al Aplicar
+Clic en Aplicar para iniciar la segmentación</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer starts running the inference task</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer comienza a ejecutar la tarea de inferencia</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
