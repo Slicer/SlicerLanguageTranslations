@@ -27068,42 +27068,42 @@ p, li { espacio en blanco: preenvoltura; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="115"/>
         <source>Default slice view orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientación de vista de sector predeterminada</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="123"/>
         <source>Slice edge visibility in 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad del borde de corte en vistas 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="130"/>
         <source>3D view cube visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad del cubo de la vista 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="135"/>
         <source>3D view axis label visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad de la etiqueta del eje de la vista 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="141"/>
         <source>3D view orientation marker type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de marcador de orientación de vista 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="148"/>
         <source>3D view orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño del marcador de orientación de la vista 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="155"/>
         <source>3D view ruler type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de regla de vista 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="161"/>
         <source>3D depth peeling</source>
-        <translation type="unfinished"></translation>
+        <translation>Raspado en profundidad 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="166"/>
