@@ -108,7 +108,7 @@
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="106"/>
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="117"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Herramientas</translation>
     </message>
 </context>
 <context>
@@ -116,7 +116,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="79"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished">TutorialMaker - Anotador</translation>
+        <translation>Creador de tutoriales - Anotador</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="92"/>
