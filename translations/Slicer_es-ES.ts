@@ -27522,7 +27522,7 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="200"/>
         <source>Poly data</source>
-        <translation type="unfinished"></translation>
+        <translation>Poly datos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="205"/>
@@ -27569,7 +27569,7 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="95"/>
         <source>Set item opacity in the sub-menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer la opacidad del elemento en el submenú</translation>
     </message>
 </context>
 <context>
@@ -27577,7 +27577,7 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="79"/>
         <source>Create hierarchy from loaded directory structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear jerarquía a partir de la estructura de directorio cargada</translation>
     </message>
 </context>
 <context>
@@ -27585,7 +27585,7 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="99"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">Edit properties...</translation>
+        <translation>Editar propiedades...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="257"/>
@@ -27594,7 +27594,11 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
 Select plugin to add node named
 &apos;%1&apos;
 (type %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual número de confianza encontrado para más de un complemento de jerarquía de materias para agregar un nuevo nodo a la jerarquía de materias.
+
+Seleccionar el complemento para agregar el nodo nombrado
+&apos;%1&apos;
+(tipo %2)</translation>
     </message>
 </context>
 <context>
