@@ -191,42 +191,42 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="284"/>
         <source>Select a JSON file</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un archivo JSON</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="287"/>
         <source>JSON Files (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos JSON (*.json)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="316"/>
         <source>Annotations saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Las anotaciones guardadas</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="319"/>
         <source>Exception while trying to save annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Excepción al intentar guardar anotaciones</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1016"/>
         <source>Slide Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galería de Diapositivas</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1127"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1151"/>
         <source>Slide Text</source>
-        <translation type="unfinished"></translation>
+        <translation>El Texto De Diapositivas</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1161"/>
         <source>Slide Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuerpo Deslizante</translation>
     </message>
 </context>
 <context>
@@ -429,12 +429,15 @@
 The window may appear unresponsive but the process is running in the background.
 This process will take some minutes.
 Click on &quot;OK&quot; to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obteniendo tutoriales de GitHub.
+La ventana puede parecer que no responde, pero el proceso se está ejecutando en segundo plano.
+Este proceso tomará algunos minutos.
+Clic en &quot;OK&quot; para continuar.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="199"/>
         <source>Please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperar un momento</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="280"/>
@@ -442,22 +445,25 @@ Click on &quot;OK&quot; to continue.</source>
 
 Do you want to continue with the tutorial capture anyway?
 (The scene will be cleared)</source>
-        <translation type="unfinished"></translation>
+        <translation>La escena no se salvó.
+
+¿Quieres continuar con la captura del tutorial de todos modos?
+(La escena se borrará)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="282"/>
         <source>Continue without saving?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Continuar sin ahorrar?</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="310"/>
         <source>Preparing tutorial capture...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando la captura del tutorial...</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="313"/>
         <source>Capturing tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial de captura</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="345"/>
@@ -466,7 +472,11 @@ Do you want to continue with the tutorial capture anyway?
 Step {current} of {total}
 
 Please do not interact with Slicer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial de captura...
+
+Paso {current} de {total}
+
+Por favor, no interactúe con Slicer.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="370"/>
@@ -482,7 +492,8 @@ Please do not interact with Slicer.</source>
         <location filename="TutorialMaker/TutorialMaker.py" line="389"/>
         <source>Failed to capture tutorial, please send this error on our GitHub Issue page:
 {err}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al capturar el tutorial, envíe este error en nuestra página de problemas de GitHub:
+{error}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="404"/>
