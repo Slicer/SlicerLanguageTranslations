@@ -639,7 +639,7 @@ No: Start fresh from raw tutorial</source>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="954"/>
         <source>Modules: {dependencies} not found. Please install the required modules before running the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulos: {dependencias} no encontradas. Instalar los módulos necesarios antes de ejecutar el tutorial.</translation>
     </message>
 </context>
 <context>
@@ -652,7 +652,7 @@ No: Start fresh from raw tutorial</source>
     <message>
         <location filename="TutorialMaker/Testing/AIBasedSegmentationIn3DSlicer.py" line="233"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación</translation>
     </message>
 </context>
 </TS>
