@@ -126,19 +126,19 @@ la base de datos Rebanador</translation>
         <location filename="text_dict_default.json" line="8"/>
         <source>AIBasedSegmentationIn3DSlicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished">AIBasedSegmentationIn3DSlicer</translation>
+        <translation type="unfinished">SegmentaciónBasadaEnIaEn3DSlicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished">Sonia Pujol, Ph.D.</translation>
+        <translation type="unfinished">Sonia Pujol, Dra. en Filos.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>30/06/2025</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished">30/06/2025</translation>
+        <translation>30/06/2025</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
@@ -264,7 +264,8 @@ Clic en Aplicar para iniciar la segmentación</translation>
         <source>Once the segmentation is done, ‘Processing finished’
 appears in the Slicer GUI</source>
         <extracomment>13_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Una vez la segmentación esté hecha, &apos;procesamiento terminado&apos;
+aparece en la Slicer GUI</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
@@ -274,7 +275,11 @@ double click on the image
 CT_Thorax_Abdomen to load it in
 Slicer</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En el añadir módulo de datos DICOM
+seleccione al Paciente paciente1 y
+haga doble clic en la imagen
+CT_Torax_Abdomen para cargarlo en
+Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
@@ -282,7 +287,9 @@ Slicer</source>
 model’s name Whole Body Segmentation in the
 Segmentation model menu);</source>
         <extracomment>15_ArrowText_0 15_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccione el módulo MONAIAAuto3DSeg y entre el
+nombre del modelo Segmentación de Cuerpo Completo en el
+menú de modelo de Segmentación);</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="55"/>
@@ -290,14 +297,17 @@ Segmentation model menu);</source>
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccione el input Volumen 6: CT_Torax_Abdomen
+Clic en Crear nueva Segmentación en Aplicar
+Clic en Aplicar para iniciar la segmentación</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="59"/>
         <source>Slicer displays the result of the AI-based segmentation
 using the Whole Body Segmentation TS1- quick</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer muestra los resultados de la segmentación basada en IA
+usando la Segmentación de Cuerpo Completo TS1-quick</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="61"/>
