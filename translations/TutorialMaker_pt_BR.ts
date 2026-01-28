@@ -108,7 +108,7 @@
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="106"/>
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="117"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de ferramentas</translation>
     </message>
 </context>
 <context>
@@ -191,42 +191,42 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="284"/>
         <source>Select a JSON file</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um arquivo JSON</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="287"/>
         <source>JSON Files (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos JSON (*.json)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="316"/>
         <source>Annotations saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotações salvas</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="319"/>
         <source>Exception while trying to save annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao tentar salvar anotações</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1016"/>
         <source>Slide Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria de slides</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1127"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1151"/>
         <source>Slide Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto do slide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1161"/>
         <source>Slide Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Corpo do slide</translation>
     </message>
 </context>
 <context>
@@ -429,12 +429,18 @@
 The window may appear unresponsive but the process is running in the background.
 This process will take some minutes.
 Click on &quot;OK&quot; to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando tutoriais no GitHub.
+
+A janela pode parecer não responder, mas o processo está sendo executado em segundo plano.
+
+Este processo levará alguns minutos.
+
+Clique em &quot;OK&quot; para continuar.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="199"/>
         <source>Please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, aguarde</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="280"/>
@@ -442,22 +448,26 @@ Click on &quot;OK&quot; to continue.</source>
 
 Do you want to continue with the tutorial capture anyway?
 (The scene will be cleared)</source>
-        <translation type="unfinished"></translation>
+        <translation>A cena não foi salva.
+
+Deseja continuar com a captura do tutorial mesmo assim?
+
+(A cena será apagada)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="282"/>
         <source>Continue without saving?</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar sem salvar?</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="310"/>
         <source>Preparing tutorial capture...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando a captura do tutorial...</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="313"/>
         <source>Capturing tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturando tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="345"/>
@@ -466,34 +476,41 @@ Do you want to continue with the tutorial capture anyway?
 Step {current} of {total}
 
 Please do not interact with Slicer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturando tutorial...
+
+Etapa {atual} de {total}
+
+Por favor, não interaja com o Slicer.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="370"/>
         <source>Tutorial Captured</source>
-        <translation>Captura de Tutorial</translation>
+        <translation>Tutorial capturado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="371"/>
         <source>Captured Tutorial: {tutorialName}</source>
-        <translation>Captura de tutorial: {tutorialName}</translation>
+        <translation>Tutorial capturado: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="389"/>
         <source>Failed to capture tutorial, please send this error on our GitHub Issue page:
 {err}</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao capturar o tutorial. Por favor, envie este erro para nossa página de problemas no GitHub:
+
+{err}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="404"/>
         <source>You don&apos;t have any annotations to export.
 Please annotate your screenshots first using &quot;Edit Annotations&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não tem anotações para exportar.
+Anote suas capturas de tela primeiro usando &quot;Editar anotações&quot;.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="406"/>
         <source>No Annotations Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma anotação encontrada</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="409"/>
@@ -504,12 +521,13 @@ Please annotate your screenshots first using &quot;Edit Annotations&quot;.</sour
         <location filename="TutorialMaker/TutorialMaker.py" line="439"/>
         <source>Before editing annotations you should run the capture of the screenshots.
 Select a tutorial and click on &quot;Capture Screenshots&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antes de editar as anotações, você deve executar a captura de telas.
+Selecione um tutorial e clique em &quot;Capturar telas&quot;.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="441"/>
         <source>No Screenshots Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma captura de tela encontrada</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="451"/>
@@ -519,12 +537,17 @@ Would you like to load the existing annotations?
 
 Yes: Load existing annotations
 No: Start fresh from raw tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Um arquivo de anotações existente foi encontrado.
+
+Deseja carregar as anotações existentes?
+
+Sim: Carregar anotações existentes
+Não: Começar do zero a partir do tutorial básico</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="453"/>
         <source>Load Existing Annotations?</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar anotações existentes?</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="473"/>
@@ -535,12 +558,13 @@ No: Start fresh from raw tutorial</source>
         <location filename="TutorialMaker/TutorialMaker.py" line="571"/>
         <source>Tutorial Execution Failed: {tutorial_name} - Error: {e}. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na execução do tutorial: {tutorial_name} - Erro: {e}. 
+</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="574"/>
         <source>Tutorial {tutorial_name} tested</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial {tutorial_name} testado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="422"/>
@@ -588,47 +612,47 @@ No: Start fresh from raw tutorial</source>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="417"/>
         <source>Prepare tutorial capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepare a captura do tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="426"/>
         <source>&lt;b&gt;⚠ Warning:&lt;/b&gt; The scene will be cleared after preparation.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;⚠ Aviso:&lt;/b&gt; A cena será liberada após os preparativos.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="438"/>
         <source>Save current scene before clearing</source>
-        <translation type="unfinished"></translation>
+        <translation>Salve a cena atual antes de concluir o processo.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="440"/>
         <source>Opens the Save Data dialog to save your work before the scene is cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre a caixa de diálogo Salvar Dados para salvar seu trabalho antes que a cena seja limpa</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="442"/>
         <source>Maximize Slicer window</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximizar a janela do Slicer</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="444"/>
         <source>Ensures consistent screenshot dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Garante dimensões consistentes nas capturas de tela</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="446"/>
         <source>Close Python console and error log</source>
-        <translation type="unfinished"></translation>
+        <translation>Feche o console do Python e o registro de erros</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="448"/>
         <source>Hides developer tools for cleaner screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Oculta as ferramentas de desenvolvedor para capturas de tela mais limpas</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="954"/>
         <source>Modules: {dependencies} not found. Please install the required modules before running the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulos: {dependencies} não encontrados. Instale os módulos necessários antes de executar o tutorial.</translation>
     </message>
 </context>
 <context>
@@ -641,7 +665,7 @@ No: Start fresh from raw tutorial</source>
     <message>
         <location filename="TutorialMaker/Testing/AIBasedSegmentationIn3DSlicer.py" line="233"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação</translation>
     </message>
 </context>
 </TS>
