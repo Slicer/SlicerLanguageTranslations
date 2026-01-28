@@ -29548,7 +29548,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="253"/>
         <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlar la visibilidad de los identificadores de traslación para la intersección de sectores.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="258"/>
@@ -29558,7 +29558,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="259"/>
         <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlar la visibilidad de los manejadores de rotación para la intersección de sectores.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="264"/>
@@ -29571,12 +29571,12 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
         <source>Slice intersections</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersecciones de slice</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar visibilidad de intersección de slice. Mantener presionada la tecla Mayús y mover el cursor en una vista para establecer la posición de intersección del corte.</translation>
     </message>
 </context>
 <context>
@@ -29584,22 +29584,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="74"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderizado de Volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="80"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>El módulo de representación de volúmenes proporciona herramientas avanzadas para alternar la representación interactiva de volúmenes de conjuntos de datos.&lt;br/&gt;Si es compatible, la representación de volumen acelerada por hardware está disponible.El módulo permite la selección de funciones de transferencia preestablecidas para colorear y establecer la opacidad de los datos de una manera apropiada para la tarea, y herramientas para personalizar las funciones de transferencia que especifican estos parámetros.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="100"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo cuenta con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la Comunidad Slicer. Algunas de las funciones de transferencia fueron aportadas por Kitware Inc. (VolView)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="139"/>
         <source>Volume rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderizado de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="146"/>
