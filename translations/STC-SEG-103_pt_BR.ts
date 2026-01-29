@@ -128,37 +128,37 @@ do Slicer</translation>
         <location filename="text_dict_default.json" line="8"/>
         <source>AIBasedSegmentationIn3DSlicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação baseada em IA no 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>30/06/2025</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>30/06/2025</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>AI - based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação baseada em IA no 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Click on Add Data in the Welcome to 	Slicer module</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em Adicionar Dados no módulo Bem-vindo ao Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Slicer loads the prostate MRI dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer carrega o conjunto de dados de ressonância magnética da próstata.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -166,33 +166,36 @@ do Slicer</translation>
 Modules’ menu and browse to
  the category Segmentation.</source>
         <extracomment>3_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em Bem-vindo ao Slicer no menu de
+Módulos e navegue até a categoria Segmentação.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>Enter the model’s name Prostate in
 the Segmentation model menu</source>
         <extracomment>4_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira o nome do modelo Próstata no
+menu Modelo de segmentação</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Enter the Input T2 volume msdprostate-01-adc</source>
         <extracomment>5_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira o volume T2 de entrada msdprostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
         <source>And the Input ADC volume msd-prostate-01-adc</source>
         <extracomment>6_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>E o volume de entrada ADC msd-prostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>Click on Create new segmentation on
 Apply</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em Criar nova segmentação em
+Aplicar</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
@@ -201,19 +204,19 @@ Apply</source>
         <extracomment>7_TextBox_0
 ----------
 17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer inicia a inferência.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer shows the result of the AIbased prostate segmentation</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer mostra o resultado da segmentação da próstata baseada em IA.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Load dataset4_BrainMRI_Glioma</source>
         <extracomment>9_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Carregar conjunto de dados 4_BrainMRI_Glioma</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -243,20 +246,27 @@ Input T2W volume: BraTS-GLI_00005-000-t2w
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira os volumes de entrada da seguinte forma:
+Volume de entrada T2F: BraTS-GLI_00005-000-t12f
+Volume de entrada T1C: BraTS-GLI_00005-000-t1c
+Volume de entrada T1N: BraTS-GLI_00005-000-t1n
+Volume de entrada T2W: BraTS-GLI_00005-000-t2w
+Clique em Criar nova segmentação e depois em Aplicar.
+Clique em Aplicar para iniciar a segmentação.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer starts running the inference task</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer inicia a execução da tarefa de inferência.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>Once the segmentation is done, ‘Processing finished’
 appears in the Slicer GUI</source>
         <extracomment>13_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Assim que a segmentação for concluída, a mensagem &quot;Processamento finalizado&quot;
+aparecerá na interface gráfica do Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
@@ -266,7 +276,11 @@ double click on the image
 CT_Thorax_Abdomen to load it in
 Slicer</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>No módulo Adicionar Dados DICOM,
+selecione o Paciente patient1 e
+clique duas vezes na imagem
+CT_Thorax_Abdomen para carregá-la no
+Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
@@ -274,7 +288,7 @@ Slicer</source>
 model’s name Whole Body Segmentation in the
 Segmentation model menu);</source>
         <extracomment>15_ArrowText_0 15_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o módulo MONAIAuto3DSeg e insira o nome do modelo (Whole Body Segmentation) no menu Modelo de Segmentação.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="55"/>
@@ -282,20 +296,23 @@ Segmentation model menu);</source>
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o Volume de entrada 6: CT_Tórax_Abdômen,
+Clique em Criar nova Segmentação e depois em Aplicar.
+Clique em Aplicar para iniciar a segmentação.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="59"/>
         <source>Slicer displays the result of the AI-based segmentation
 using the Whole Body Segmentation TS1- quick</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer exibe o resultado da segmentação baseada em IA
+usando a Segmentação Corporal Completa TS1 - rápida</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="61"/>
         <source>Acknowledgements</source>
         <extracomment>19_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <source>Enter the input volumes as follows:</source>
