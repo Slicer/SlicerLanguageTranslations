@@ -27132,12 +27132,12 @@ p, li { espacio en blanco: preenvoltura; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="186"/>
         <source>Ambient shadows intensity scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de intensidad de sombras ambientales</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="191"/>
         <source>Ambient shadows intensity shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambio de intensidad de las sombras ambientales</translation>
     </message>
 </context>
 <context>
@@ -27145,12 +27145,12 @@ p, li { espacio en blanco: preenvoltura; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="83"/>
         <source>GPU Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedad de Sombreador de GPU</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="96"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedad de Sombreador</translation>
     </message>
 </context>
 <context>
@@ -27158,7 +27158,7 @@ p, li { espacio en blanco: preenvoltura; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Markup Control Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de Control de Marcado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
@@ -27376,7 +27376,7 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está activado, se muestran las carpetas que no contienen nodos (permitidos por ningún filtro); de lo contrario, no</translation>
     </message>
 </context>
 <context>
@@ -27384,7 +27384,7 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="92"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad del contorno 2D</translation>
     </message>
 </context>
 <context>
@@ -27392,37 +27392,37 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="142"/>
         <source>Rename control point...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie el nombre del punto de control...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="147"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a enfocar la cámara en este punto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="152"/>
         <source>Toggle select control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar seleccionar punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="157"/>
         <source>Jump to previous control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar al punto de control anterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="158"/>
         <source>Jump slice views to the previous control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar vistas de sector al punto de control anterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="163"/>
         <source>Jump to next control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar al siguiente punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="164"/>
         <source>Jump slice views to the next control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar vistas de sectores al siguiente punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="169"/>
@@ -27610,7 +27610,7 @@ Seleccionar el complemento para agregar el nodo nombrado
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="96"/>
         <source>Register this...</source>
-        <translation type="unfinished"></translation>
+        <translation>Registra esto...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="97"/>
@@ -29752,7 +29752,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="600"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargue inmediatamente volúmenes de la memoria gráfica cuando no esté visible. Reduce el uso de memoria, pero hace que alternar la visibilidad del volumen sea más lento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="611"/>
@@ -29762,7 +29762,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="640"/>
         <source>Synchronize with Volumes module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo Sincronizar con volúmenes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="653"/>
@@ -30445,7 +30445,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLCameraNode.cxx" line="43"/>
         <source>Camera</source>
-        <translation type="unfinished">Camera</translation>
+        <translation>Cámara</translation>
     </message>
 </context>
 <context>
@@ -30466,7 +30466,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="728"/>
         <source>%name (%id) cannot be represented using only planes</source>
-        <translation type="unfinished"></translation>
+        <translation>%name (%id) no se puede representar usando solo planos</translation>
     </message>
 </context>
 <context>
@@ -30474,7 +30474,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Colors/MRML/vtkMRMLColorLegendDisplayNode.cxx" line="44"/>
         <source>Color Legend Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Exhibición de la Leyenda del Color</translation>
     </message>
 </context>
 <context>
@@ -30490,7 +30490,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableNode.cxx" line="36"/>
         <source>Color Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de Colores</translation>
     </message>
 </context>
 <context>
