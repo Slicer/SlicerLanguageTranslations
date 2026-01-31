@@ -51,7 +51,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="99"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="105"/>
@@ -169,7 +169,14 @@ Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Seger
 TotalSegmentator: robust segmentation of 104 anatomical structures in CT images.
 https://arxiv.org/abs/2208.05868
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été à l’origine créé par Andras Lasso (PerkLab, Queen’s University).
+Le module utilise &lt;a href=&quot;https://github.com/wasserth/TotalSegmentator&quot;&gt;TotalSegmentator&lt;/a&gt;.
+Si vous utilisez la fonction TotalSegmentator nn-Unet de ce logiciel dans votre recherche, veuillez citer&#xa0;:
+Wasserthal J., Meyer M., Hanns-Christian Attracted H.C., Cyriac J., Shan Y., Segeroth, M.&#xa0;:
+TotalSegmentator&#xa0;: segmentation robuste de 104 structures anatomiques dans les images CT.
+https://arxiv.org/abs/2208.05868
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="94"/>
