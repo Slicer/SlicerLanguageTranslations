@@ -143,7 +143,7 @@ ensembles de données Slicer</translation>
         <location filename="text_dict_default.json" line="14"/>
         <source>AI - based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation basée sur l&apos;IA dans 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
@@ -155,7 +155,7 @@ ensembles de données Slicer</translation>
         <location filename="text_dict_default.json" line="18"/>
         <source>Slicer loads the prostate MRI dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer charge l&apos;ensemble de données IRM de la prostate</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
