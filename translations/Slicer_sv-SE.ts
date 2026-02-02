@@ -26,32 +26,32 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Ingångs-/utgångsparametrar</translation>
+        <translation>Indata-/utdataparametrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Inmatningsvolym 1</translation>
+        <translation>Indatavolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Inmatningsvolym 2</translation>
+        <translation>Indatavolym 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Utgångsvolym</translation>
+        <translation>Utdata-volym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Inmatningsvolym 1</translation>
+        <translation>Indatavolym 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Inmatningsvolym 2</translation>
+        <translation>Indatavolym 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation>Ordningsföljd för den polynomiska interpolation som används om två bilder har olika geometri (ursprung, avstånd, axelriktningar eller utbredning): 0 = närmaste granne, 1 = linjär, 2 = kvadratisk, 3 = kubisk interpolation.</translation>
+        <translation type="unfinished">Ordningsföljd för den polynomiska interpolation som används om två bilder har olika geometri (origo, avstånd, axelriktningar eller utbredning): 0 = närmaste granne, 1 = linjär, 2 = kvadratisk, 3 = kubisk interpolation.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
@@ -84,17 +84,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation>Uppstädning efter rattfylleri (BRAINS)</translation>
+        <translation type="unfinished">Rensning av DWI data (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation>Ta bort dåliga gradienter/volymer från DWI NRRD-filen.</translation>
+        <translation>Ta bort felaktiga gradienter/volymer från DWI NRRD-filen.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">Ingångsparametrar</translation>
+        <translation>Indata-parametrar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
@@ -104,22 +104,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation>NRRD Fil med dåliga gradienter borttagen.</translation>
+        <translation>NRRD Fil där felaktiga gradienter är borttagna.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation>lista över dåliga gradientvolymer</translation>
+        <translation>lista över felaktiga gradientvolymer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation>Krävs: inmatad bild är en 4D NRRD-bild.</translation>
+        <translation>Krav: indata bild är en 4D NRRD-bild.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation>med en lista av </translation>
+        <translation type="unfinished">givet en lista av </translation>
     </message>
 </context>
 <context>
@@ -127,22 +127,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>Hjärndefekt från T1/T2-bild (HJÄRNOR)</translation>
+        <translation type="unfinished">Hjärna där ansiktet tagits bort från T1/T2-bild (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation>Detta program: 1) kommer att deface bilder från en uppsättning bilder.  Ingångarna måste vara ACPC-anpassade, och AC, PC, LE, RE tillhandahålls.</translation>
+        <translation>Detta program: 1) kommer att ta bort ansiktet från en uppsättning bilder.  Indata måste vara i linje med ACPC, och AC, PC, LE, RE behöver tillhandahållas.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation>Detta arbete var utvecklat av University of Iowa Department of Electrical and Computer Engineering.</translation>
+        <translation>Detta arbete utvecklades av University of Iowa Department of Electrical and Computer Engineering.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished">Inmatade bilder</translation>
+        <translation>Indata-bilder</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
