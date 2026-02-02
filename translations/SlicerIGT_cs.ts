@@ -38,7 +38,7 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte model vstupu pro algoritmus.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
@@ -48,7 +48,7 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte výstup algoritmu.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
@@ -58,7 +58,7 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokud zaškrtnuto, budou pořizovány snímky obrazovky k vytvoření návodů. Použijte &quot;Uložit data&quot; k jejich zapsání na disk.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
@@ -68,12 +68,12 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit algoritmus.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstup</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
@@ -83,7 +83,7 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilý</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
@@ -93,7 +93,7 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet iterací:</translation>
     </message>
 </context>
 <context>
@@ -111,12 +111,12 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
         <source>Set the Plus Server Host and Name Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavte hostitele Plus Serveru a název portu:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte konfiguraci: </translation>
     </message>
 </context>
 <context>
@@ -129,7 +129,7 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
         <source>Select connector node</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte uzel konektoru</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
@@ -154,12 +154,12 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="216"/>
         <source>Save scene directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit adresář scény:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Odejít</translation>
     </message>
 </context>
 <context>
