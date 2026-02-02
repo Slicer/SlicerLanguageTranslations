@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation>Lägg till skalära volymer</translation>
+        <translation>Lägg till skalär-volymer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation>Detta program: 1) kommer att ta bort ansiktet från en uppsättning bilder.  Indata måste vara i linje med ACPC, och AC, PC, LE, RE behöver tillhandahållas.</translation>
+        <translation>Detta program: 1) kommer att ta bort ansiktet från en uppsättning bilder.  Indata måste vara anpassad till ACPC-linjen, och AC, PC, LE, RE behöver tillhandahållas.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
@@ -157,7 +157,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
         <source>Source Reference Image</source>
-        <translation>Källa Referens Bild</translation>
+        <translation type="unfinished">Källa för referensbild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
@@ -374,32 +374,32 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation>Fraktion av voxlar i den fasta bilden som ska användas för registrering. Siffran måste vara större än noll och mindre än eller lika med ett. Högre värden ökar beräkningstiden men kan ge mer exakta resultat. Du kan också begränsa samplingsfokus med ROI-masker och ROIAUTO-maskgenerering. Standardvärdet är 0,002 (använd ungefär 0,2% of voxlar, vilket resulterar i 100000 sampel i en 512x512x192-volym) för att ge en mycket snabb registrering i de flesta fall. Typiska värden sträcker sig från 0,01 (1 %) för bilder med låg detaljrikedom till 0,2 (20 %) för bilder med hög detaljrikedom.</translation>
+        <translation>Voxelfraktion i den fixerade bilden som används för registrering. Siffran måste vara större än noll och mindre än eller lika med ett. Högre värden ökar beräkningstiden men kan ge mer exakta resultat. Du kan också begränsa samplingsfokus med ROI-masker och ROIAUTO-maskgenerering. Standardvärdet är 0,002 (använd ungefär 0,2% of voxlar, vilket resulterar i 100000 sampel i en 512x512x192-volym) för att ge en mycket snabb registrering i de flesta fall. Typiska värden sträcker sig från 0,01 (1 %) för bilder med låg detaljrikedom till 0,2 (20 %) för bilder med hög detaljrikedom.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation>Antal underindelningar av BSpline-rutnätet längs varje axel i den fasta bilden, centrerat på bildytan. Värdena måste vara 3 eller högre för att BSpline ska beräknas korrekt.</translation>
+        <translation>Antal underindelningar av BSpline-rutnätet längs varje axel i den fixerade bilden, centrerat på bildytan. Värdena måste vara 3 eller högre för att BSpline ska beräknas korrekt.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation>Utgångsinställningar (minst en utgång måste anges)</translation>
+        <translation type="unfinished">Utdatainställningar (minst ett utdata-objekt måste anges)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation>Slicer Linjär transformator</translation>
+        <translation>Slicer linjär transformation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation>Slicer BSpline-transformator</translation>
+        <translation>Slicer BSpline-transformation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation>Utgående bildvolym</translation>
+        <translation>Utdata-bildvolym</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
@@ -414,22 +414,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation>(valfritt) Utgångsbild: den rörliga bilden warpad till det fasta bildutrymmet. OBS: Du måste ställa in minst ett utmatningsobjekt (transform och/eller utmatningsvolym).</translation>
+        <translation>(valfritt) Utdatabild: den rörliga bilden förvrängd till det fixerade bildutrymmet. OBS: Du måste ställa in minst ett utdataobjekt (transform och/eller utdatavolym).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation>Initialiseringsinställningar för transformator</translation>
+        <translation>Initialiseringsinställningar för transformation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation>Alternativ för initialisering av transformatorparametrar.</translation>
+        <translation>Alternativ för initialisering av transformationsparametrar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation>Initialiseringstransformator</translation>
+        <translation>Initialiseringstransformation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
@@ -439,12 +439,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation>Transform som ska tillämpas på den rörliga bilden för att initiera registreringen.  Detta kan endast användas om Initialize Transform Mode är Off.</translation>
+        <translation>Transform som ska tillämpas på den rörliga bilden för att initiera registreringen.  Detta kan endast användas om Initialize Transform Mode är avaktiverat.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation>Bestäm hur transformcentrum ska initialiseras. useMomentsAlign utgår från att bildernas masscentrum representerar liknande strukturer. useCenterOfHeadAlign försöker använda huvudets ovansida och halsens form för att göra en uppskattning av masscentrum. useGeometryAlign on utgår från att centrum av bildernas voxelgitter representerar liknande strukturer.  Off förutsätter att bildernas fysiska utrymme ligger nära varandra.  Denna flagga är ömsesidigt uteslutande med Initialization transform.</translation>
+        <translation>Bestäm hur centrum för transformationen ska initialiseras. useMomentsAlign utgår från att bildernas masscentrum representerar liknande strukturer. useCenterOfHeadAlign försöker använda huvudets ovansida och halsens form för att göra en uppskattning av masscentrum. useGeometryAlign on utgår från att centrum av bildernas voxelgitter representerar liknande strukturer.  Off förutsätter att bildernas fysiska rymd ligger nära varandra.  Denna flagga är ömsesidigt uteslutande med Initialization transform.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -455,12 +455,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation>användaMomentsAlign</translation>
+        <translation type="unfinished">använd moment-matchning</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation>användaCenterOfHeadAlign</translation>
+        <translation type="unfinished">använd linjering av huvudcentrum</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
@@ -505,7 +505,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation>BSpline (&gt;27 DOF)</translation>
+        <translation>BSpline (&gt;27 frihetsgrader)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
@@ -910,7 +910,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation>Moving Image Time Index</translation>
+        <translation type="unfinished">Temporalt index för rörlig bild</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
@@ -2572,7 +2572,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="108"/>
         <source>Rescale intercept</source>
-        <translation>Rescale intercept</translation>
+        <translation>Skala om skärningspunkt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="109"/>
@@ -31203,7 +31203,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeDisplayNode.cxx" line="50"/>
         <source>Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa volym</translation>
     </message>
 </context>
 <context>
@@ -31219,7 +31219,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSceneViewNode.cxx" line="42"/>
         <source>Scene View</source>
-        <translation type="unfinished"></translation>
+        <translation>Scen-vy</translation>
     </message>
 </context>
 <context>
@@ -31227,7 +31227,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSceneViewStorageNode.cxx" line="46"/>
         <source>Scene View Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lagring för scen-vy</translation>
     </message>
 </context>
 <context>
@@ -31235,7 +31235,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/Segmentations/MRML/vtkMRMLSegmentEditorNode.cxx" line="50"/>
         <source>Segment Editor</source>
-        <translation type="unfinished">Segmentredaktör</translation>
+        <translation>Editera segment</translation>
     </message>
 </context>
 <context>
@@ -31243,7 +31243,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationDisplayNode.cxx" line="63"/>
         <source>Segmentation Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa segmentering</translation>
     </message>
 </context>
 <context>
@@ -31251,7 +31251,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationNode.cxx" line="69"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentering</translation>
     </message>
 </context>
 <context>
@@ -31259,7 +31259,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="106"/>
         <source>Segmentation Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lagring för segmentering</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="149"/>
@@ -31274,7 +31274,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSelectionNode.cxx" line="43"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Val</translation>
     </message>
 </context>
 <context>
@@ -31282,7 +31282,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/Sequences/MRML/vtkMRMLSequenceBrowserNode.cxx" line="140"/>
         <source>Sequence Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekvensnavigering</translation>
     </message>
 </context>
 <context>
@@ -31290,7 +31290,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceNode.cxx" line="63"/>
         <source>Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekvens</translation>
     </message>
 </context>
 <context>
@@ -31298,7 +31298,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="40"/>
         <source>Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lagring för sekvens</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="190"/>
@@ -31315,7 +31315,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyNode.cxx" line="39"/>
         <source>Shader Property</source>
-        <translation type="unfinished">Shader-egenskap</translation>
+        <translation type="unfinished">Nyans-parameter</translation>
     </message>
 </context>
 <context>
@@ -31323,14 +31323,14 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="49"/>
         <source>Shader Property Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lagring för nyans-parameter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="491"/>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="498"/>
         <source>MRML Shader Property</source>
         <extracomment>File format name</extracomment>
-        <translation>MRML Shader-egenskap</translation>
+        <translation>MRML nyans-parameter</translation>
     </message>
 </context>
 <context>
@@ -31338,7 +31338,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceCompositeNode.cxx" line="45"/>
         <source>Slice Composite</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer-sammansättning</translation>
     </message>
 </context>
 <context>
@@ -31346,7 +31346,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceDisplayNode.cxx" line="29"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Display för skivor</translation>
+        <translation>Snittvisning</translation>
     </message>
 </context>
 <context>
@@ -31354,7 +31354,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceNode.cxx" line="47"/>
         <source>Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Snitt</translation>
     </message>
 </context>
 <context>
@@ -31362,7 +31362,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSnapshotClipNode.cxx" line="33"/>
         <source>Snapshot Clip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skärmklipp</translation>
     </message>
 </context>
 <context>
@@ -31378,7 +31378,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableNode.cxx" line="66"/>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabell</translation>
     </message>
 </context>
 <context>
@@ -31386,7 +31386,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="50"/>
         <source>SQLite Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lagringstabell för SQLite</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="305"/>
@@ -31401,7 +31401,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="80"/>
         <source>Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabell-lagring</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
@@ -31425,7 +31425,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTensorVolumeNode.cxx" line="32"/>
         <source>Tensor Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Tensorvolym</translation>
     </message>
 </context>
 <context>
@@ -31433,7 +31433,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextNode.cxx" line="34"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
 </context>
 <context>
@@ -31441,7 +31441,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="44"/>
         <source>Text Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Text-lagring</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="226"/>
@@ -31476,7 +31476,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformDisplayNode.cxx" line="55"/>
         <source>Transform Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visningsnod för transform</translation>
     </message>
 </context>
 <context>
@@ -31484,7 +31484,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformNode.cxx" line="54"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transform</translation>
     </message>
 </context>
 <context>
@@ -31492,7 +31492,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformStorageNode.cxx" line="41"/>
         <source>Transform Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transform-lagring</translation>
     </message>
 </context>
 <context>
@@ -31500,7 +31500,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLUnitNode.cxx" line="38"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhet</translation>
     </message>
 </context>
 <context>
@@ -31508,7 +31508,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeDisplayNode.cxx" line="39"/>
         <source>Vector Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa vektor-volym</translation>
     </message>
 </context>
 <context>
@@ -31516,7 +31516,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeNode.cxx" line="36"/>
         <source>Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Vektorvolym</translation>
     </message>
 </context>
 <context>
@@ -31524,12 +31524,12 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="60"/>
         <source>Volume Archetype Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lagring för urtyps-volym</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="410"/>
         <source>Cannot read &apos;%1&apos; file as a volume of type &apos;%2&apos;. Details: %3.</source>
-        <translation>Det går inte att läsa filen &quot;%1&quot; som en volym av typen &quot;%2&quot;. Mer information: %3.</translation>
+        <translation>Det går inte att läsa en &quot;%1&quot;-fil som en volym av typen &quot;%2&quot;. Mer information: %3.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="426"/>
@@ -31549,7 +31549,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="459"/>
         <source>Not a scalar volume file: &apos;%1&apos;</source>
-        <translation>Inte en skalär volymfil: &apos;%1&apos;</translation>
+        <translation>Inte en skalär-volymfil: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="501"/>
@@ -31559,7 +31559,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="528"/>
         <source>Image reader provided invalid RAS to IJK matrix</source>
-        <translation>Bildläsare tillhandahöll ogiltig RAS till IJK-matris</translation>
+        <translation>Bildläsaren gav en ogiltig RAS-till-IJK-matris</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="583"/>
@@ -31569,7 +31569,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="592"/>
         <source>Spatial vectors will be written to non-NRRD file format (%1). In this format, voxels are saved as regular vectors. If the file is imported again then vector axis directions may be flipped. It is recommended to save volumes that contain spatial vectors in NRRD file format.</source>
-        <translation>Spatiala vektorer kommer att skrivas till ett icke-NRRD-filformat (%1). I det här formatet sparas voxlar som vanliga vektorer. Om filen importeras igen kan vektoraxlarnas riktningar bli omvända. Vi rekommenderar att volymer som innehåller rumsliga vektorer sparas i NRRD-filformat.</translation>
+        <translation>Spatiala vektorer kommer att skrivas till ett icke-NRRD-filformat (%1). I det här formatet sparas voxlar som vanliga vektorer. Om filen importeras igen kan vektoraxlarnas riktningar vara omvända. Vi rekommenderar att volymer som innehåller rumsliga vektorer sparas i filformatet NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="637"/>
@@ -31579,17 +31579,17 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="648"/>
         <source>Error renaming file to &apos;%1&apos;, rename returned code %2</source>
-        <translation>Fel vid omdöpning av fil till &quot;%1&quot;, omdöpning returnerade kod %2</translation>
+        <translation>Fel vid namnändring av fil till &quot;%1&quot;, namnändringen returnerade kod %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="735"/>
         <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
-        <translation>VTK-filformatet kan endast lagra LPS-axelorienterade bilder. Orienteringen av den sparade bilden kan vara felaktig. Filformatet NRRD rekommenderas för lagring av denna bild.</translation>
+        <translation>VTK-filformatet kan endast lagra LPS-orienterade bilder. Orienteringen av den sparade bilden kan vara felaktig. Filformatet NRRD rekommenderas för lagring av denna bild.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="766"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
-        <translation>Om du sparar den här bilden i TIFF-format förlorar du information (bildposition, orientering eller avstånd längs den tredje bildaxeln). NRRD-filformat rekommenderas för lagring av den här bilden.</translation>
+        <translation>Om du sparar den här bilden i TIFF-format förlorar du information (bildposition, orientering eller avstånd längs den tredje bildaxeln). Filformatet NRRD rekommenderas för lagring av den här bilden.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="779"/>
@@ -31599,22 +31599,22 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="818"/>
         <source>Cannot write volume, image data is empty</source>
-        <translation>Det går inte att skriva volymen, bilddata är tom</translation>
+        <translation type="unfinished">Det går inte att skriva till volymen, bilddata saknas</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="867"/>
         <source>Failed to delete directory &apos;%1&apos;</source>
-        <translation>Misslyckades med att ta bort katalogen &quot;%1</translation>
+        <translation>Misslyckades med att ta bort katalogen &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="875"/>
         <source>Failed to create directory &apos;%1&apos;</source>
-        <translation>Det gick inte att skapa katalogen &quot;%1</translation>
+        <translation>Det gick inte att skapa katalogen &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="934"/>
         <source>Failed to write &apos;%1&apos;</source>
-        <translation>Misslyckades med att skriva &quot;%1</translation>
+        <translation>Misslyckades med att skriva &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="946"/>
@@ -31624,7 +31624,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1059"/>
         <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
-        <translation>Archetype-filen &apos;%1&apos; skrevs inte ut när &apos;%2&apos; skrevs i &apos;%3&apos;. Endast dessa %4 file(s) har skrivits: %5. Det gamla namnet är &apos;%6&apos;.</translation>
+        <translation>Urtyps-filen &apos;%1&apos; skrevs inte ut när &apos;%2&apos; skrevs i &apos;%3&apos;. Endast dessa &apos;%4&apos; file(r) har skrivits: &apos;%5&apos;. Det gamla namnet är &apos;%6&apos;.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1087"/>
@@ -31634,7 +31634,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1142"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
-        <translation>Förskjutningar förväntas lagras som dubbel eller float. Vektorvärden kommer inte att konverteras från LPS till RAS.</translation>
+        <translation>Förflyttningar/förskjutningar förväntas lagras med dubbelprecision (double) eller flyttal (float). Vektorvärden kommer inte att konverteras från LPS till RAS.</translation>
     </message>
 </context>
 <context>
@@ -31642,7 +31642,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeHeaderlessStorageNode.cxx" line="43"/>
         <source>Volume Headerless Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volym-lagring utan header</translation>
     </message>
 </context>
 <context>
@@ -31657,7 +31657,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="617"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">MRML Volym Fastighet</translation>
+        <translation type="unfinished">Egenskap hos MRML Volym</translation>
     </message>
 </context>
 <context>
@@ -31665,7 +31665,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyNode.cxx" line="29"/>
         <source>Volume Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Volym-egenskap</translation>
     </message>
 </context>
 <context>
@@ -31673,7 +31673,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="34"/>
         <source>Volume Property Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagring för volym-egenskap</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="207"/>
@@ -31681,7 +31681,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="216"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation>MRML Volym Fastighet</translation>
+        <translation>Egenskap hos MRML Volym</translation>
     </message>
 </context>
 <context>
@@ -31689,17 +31689,17 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="337"/>
         <source>Fast clipping cannot be used with cropping enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snabbverktyg för klipp kan inte användas samtidigt som bildbeskärning är aktiverat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="346"/>
         <source>Fast clipping cannot be used with soft edge voxels.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snabbverktyg för klipp kan inte användas för voxlar med diffusa kanter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="372"/>
         <source>Fast clipping cannot use intersection clip type.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snabbverktyg för klipp kan inte användas för klipptypen skärning</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="390"/>
