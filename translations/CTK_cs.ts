@@ -82,12 +82,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="283"/>
         <source>Load modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst moduly...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="435"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba během kontrolování XML:</translation>
     </message>
 </context>
 <context>
@@ -108,7 +108,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="14"/>
         <source>Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Najít cesty</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
@@ -131,12 +131,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="32"/>
         <source>Run Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení spouštění</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="73"/>
         <source>Maximum parallel running modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximální počet paralelně běžících modulů:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="93"/>
@@ -154,17 +154,17 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="53"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Soubor</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="61"/>
         <source>&amp;Module</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modul</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="78"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>panelNástrojů</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="106"/>
