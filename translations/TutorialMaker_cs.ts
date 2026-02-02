@@ -12,12 +12,12 @@
         <location filename="TutorialMaker/Lib/Annotations.py" line="279"/>
         <location filename="TutorialMaker/Lib/Annotations.py" line="377"/>
         <source>Write your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>Zde napište váš text</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="439"/>
         <source>Write something here</source>
-        <translation type="unfinished"></translation>
+        <translation>Napište sem něco</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="26"/>
@@ -40,13 +40,13 @@
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="33"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta neexistuje</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="68"/>
         <source>Message from {endpoint}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpráva od {endpoint}: {message}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
@@ -70,18 +70,18 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="36"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Začít nahrávat</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="46"/>
         <source>Next Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Další Widget</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="14"/>
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>HlavníOkno</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="34"/>
@@ -91,24 +91,24 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="41"/>
         <source>Create a new tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový návod</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="67"/>
         <source>Tutorial title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Název návodu:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="74"/>
         <source>Author name(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Jména autorů:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="95"/>
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="106"/>
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="117"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>panelNástrojů</translation>
     </message>
 </context>
 <context>
@@ -126,42 +126,42 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="96"/>
         <source>Write a description for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Napište popis pro slide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="159"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="160"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="162"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="163"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="164"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="172"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="175"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Čtverec</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="184"/>
