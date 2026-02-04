@@ -7,7 +7,7 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Basics of Data Loading and 3D Visualization in 3D Slicer </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conceptos básicos sobre la carga de datos y la visualización 3D en 3D Slicer </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -19,7 +19,7 @@
         <location filename="text_dict_default.json" line="12"/>
         <source>Director of  3D Slicer Training &amp; Education</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Director de Formación y Educación en 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
@@ -27,7 +27,9 @@
 Brigham and Women’s Hospital
 Harvard Medical Schoo</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Profesor adjunto de Radiología
+Hospital Brigham and Women’s
+Facultad de Medicina de Harvard</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
@@ -36,13 +38,13 @@ Harvard Medical Schoo</source>
         <extracomment>1_TextBox_0
 ----------
 2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Objetivo general ­ </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>This tutorial is an introduction to the basics of loading and viewing DICOM images and 3D models in 3D Slicer.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Este tutorial es una introducción a los conceptos básicos de la carga y visualización de imágenes DICOM y modelos 3D en 3D Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
@@ -52,20 +54,25 @@ Harvard Medical Schoo</source>
 • to load and visualize 3D models reconstructed 
 from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tras seguir este tutorial, usted será capaz de 
+• cargar y visualizar imágenes DICOM en Slicer  
+• realizar renderización de volumen de datos de TC
+• cargar y visualizar modelos 3D reconstruidos 
+a partir de datos de RM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>Tutorial materials</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Materiales del tutorial</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>3D Slicer version 4.11.0
 3DVisualizationDataset.zip</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer versión 4.11.0
+3DVisualizationDataset.zip</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -74,7 +81,7 @@ from MRI data</source>
         <extracomment>4_TextBox_0
 ----------
 36_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de datos del tutorial</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -85,13 +92,18 @@ two directories:
 Unzip the file 3DVisualizationDataset.zip on 
 your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El archivo 3DVisualizationDataset.zip contiene 
+dos directorios: 
+– dataset1_Thorax_Abdomen
+– dataset2_Head
+Descomprima el archivo 3DVisualizationDataset.zip en 
+su equipo para acceder a los conjuntos de datos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Disclaimer</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Descargo de responsabilidad</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
@@ -100,13 +112,16 @@ application distributed under a BSD style license.
 The software is not FDA approved or CE-Marked, 
 and is for research use only.</source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer es una aplicación de software libre y de código abierto 
+distribuida bajo una licencia de tipo BSD.
+El software no está aprobado por la FDA ni cuenta con la marca CE, 
+y es solo para uso en investigación.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Tutorial Outline</source>
         <extracomment>6_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Descripción del tutorial</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -116,13 +131,17 @@ Part 2: Volume Rendering
 
 Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Parte 1: Carga y visualización de datos DICOM.
+
+Parte 2: Representación de volúmenes.
+
+Parte 3: Carga y visualización de modelos 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>Part 1 DICOM Data Loading</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Parte 1 Carga de datos DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
@@ -152,7 +171,7 @@ Part 3: Loading and Viewing 3D models</source>
 15_LoadingaDICOMvolume_title
 ----------
 16_LoadingaDICOMvolume_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cargando un volumen DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
@@ -160,7 +179,9 @@ Part 3: Loading and Viewing 3D models</source>
 dataset1_Thorax_Abdomen
 into Slicer</source>
         <extracomment>8_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arrastra y suelta el directorio
+dataset1_Thorax_Abdomen
+en Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
@@ -168,7 +189,9 @@ into Slicer</source>
 the directory in the 
 DICOM database</source>
         <extracomment>9_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en Aceptar para cargar 
+el directorio en la 
+base de datos DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -176,20 +199,23 @@ DICOM database</source>
 interface of the DICOM 
 module</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer muestra la interfaz de usuario 
+del módulo 
+DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
         <source>The patient1 study contains a CT Thorax Abdomen dataset</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El estudio del paciente 1 contiene un conjunto de datos de TC de tórax y abdomen</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
         <source>Select patient1 and click on Load
 to load the dataset in Slicer</source>
         <extracomment>11_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el paciente 1 y haga clic en Cargar
+para cargar el conjunto de datos en Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="62"/>
@@ -198,21 +224,26 @@ and sagittal images of the CT
 Thorax Abdomen dataset 
 </source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer muestra las imágenes axiales, coronales 
+y sagitales del conjunto de datos de TC 
+de tórax y abdomen 
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="66"/>
         <source>Select the module 
 Volumes</source>
         <extracomment>13_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar el módulo 
+Volúmenes</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
         <source>Left click on DICOM to display 
 the list of modules of Slicer </source>
         <extracomment>13_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic con el botón izquierdo en DICOM para mostrar 
+la lista de módulos de Slicer </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
@@ -221,7 +252,10 @@ preset to automatically adjust
 the window/level display of the 
 CT dataset </source>
         <extracomment>14_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en el preajuste TC-abdomen 
+para ajustar automáticamente 
+la ventana/nivel de visualización del 
+conjunto de datos de TC </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -230,7 +264,9 @@ over the red banner in the
 Red Viewer to display the slice 
 menu.</source>
         <extracomment>15_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Coloque el cursor del mouse
+sobre el banner rojo del 
+Visor rojo para mostrar el menú de corte.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
@@ -238,7 +274,9 @@ menu.</source>
 the slice controls across all 
 Slice Viewers. </source>
         <extracomment>15_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en el icono Enlaces para vincular 
+los controles de corte en todos los 
+visores de corte. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -246,14 +284,17 @@ Slice Viewers. </source>
 display the three anatomical 
 slices in the 3D Viewer</source>
         <extracomment>15_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en el icono del ojo para
+mostrar los tres cortes anatómicos 
+en el visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="84"/>
         <source>The three anatomical slices 
 appear in the 3D viewer. </source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>The three anatomical slices 
+appear in the 3D viewer. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="86"/>
@@ -262,7 +303,7 @@ appear in the 3D viewer. </source>
         <extracomment>17_VisualizingDICOMimages_title
 ----------
 18_VisualizingDICOMimages_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visualización de imágenes DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
@@ -270,7 +311,9 @@ appear in the 3D viewer. </source>
 icon, and select the 
 Conventional Widescreen layout </source>
         <extracomment>17_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en el icono del menú de diseño del Slicer 
+y seleccione el 
+diseño convencional de pantalla panorámica </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
@@ -278,7 +321,9 @@ Conventional Widescreen layout </source>
 to Conventional 
 Widescreen layout</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer cambia el diseño 
+a diseño convencional 
+de pantalla panorámica</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="94"/>
@@ -287,21 +332,23 @@ Widescreen layout</source>
         <extracomment>19_VisualizingDICOMimage_title
 ----------
 20_VisualizingDICOMimage_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Select a JSON file</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
         <source>Use the right mouse button in the 
 3D Viewer to zoom in and out</source>
         <extracomment>19_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utilice el botón derecho del mouse en el 
+visor 3D para acercar y alejar la imagen</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
         <source>Use the left mouse button in the 
 3D Viewer to rotate the images </source>
         <extracomment>20_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utilice el botón izquierdo del ratón en el 
+visor 3D para girar las imágenes </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="102"/>
@@ -310,7 +357,7 @@ Widescreen layout</source>
         <extracomment>21_3DViewerController_title
 ----------
 22_3DViewerController_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Controlador del visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="104"/>
@@ -323,7 +370,14 @@ top row of the 3DView
 controller to center the 3D view 
 on the scene</source>
         <extracomment>21_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Coloque el cursor del mouse sobre 
+el icono del alfiler en el banner azul 
+de la ventana del visor 3D para 
+mostrar el controlador 3DView
+Haga clic en el segundo icono de la 
+fila superior del controlador 3DView 
+para centrar la vista 3D 
+en la escena</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="108"/>
