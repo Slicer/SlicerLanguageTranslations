@@ -275,9 +275,9 @@ double click on the image
 CT_Thorax_Abdomen to load it in
 Slicer</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished">En el añadir módulo de datos DICOM
+        <translation>En el añadir módulo de datos DICOM
 seleccione al Paciente paciente1 y
-haga doble clic en la imagen
+doble clic en la imagen
 CT_Torax_Abdomen para cargarlo en
 Slicer</translation>
     </message>
@@ -287,7 +287,7 @@ Slicer</translation>
 model’s name Whole Body Segmentation in the
 Segmentation model menu);</source>
         <extracomment>15_ArrowText_0 15_ArrowText_1</extracomment>
-        <translation type="unfinished">Seleccione el módulo MONAIAAuto3DSeg y entre el
+        <translation>Seleccionar el módulo MONAIAAuto3DSeg y entrar el
 nombre del modelo Segmentación de Cuerpo Completo en el
 menú de modelo de Segmentación);</translation>
     </message>
@@ -297,7 +297,7 @@ menú de modelo de Segmentación);</translation>
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished">Seleccione el input Volumen 6: CT_Torax_Abdomen
+        <translation>Seleccionar el input Volumen 6: CT_Torax_Abdomen
 Clic en Crear nueva Segmentación en Aplicar
 Clic en Aplicar para iniciar la segmentación</translation>
     </message>
@@ -313,7 +313,7 @@ usando la Segmentación de Cuerpo Completo TS1-quick</translation>
         <location filename="text_dict_default.json" line="61"/>
         <source>Acknowledgements</source>
         <extracomment>19_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <source>Enter the input volumes as follows:</source>
