@@ -960,12 +960,12 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="416"/>
         <source>Cycle through the identified distinct regions.</source>
-        <translation>在确定的不同区域中循环</translation>
+        <translation>循环遍历已识别的各个不同区域。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="438"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
-        <translation>表示所选区域的大小。低值则暗示有寄生区</translation>
+        <translation>指示所选区域的大小。低值表明为寄生区域。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="448"/>
@@ -988,7 +988,7 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="468"/>
         <source>paint</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="493"/>
