@@ -38,7 +38,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="266"/>
         <source>Parameter node is None.</source>
-        <translation>Nœud de paramètre est Aucun.</translation>
+        <translation>Aucun nœud de paramètre</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="278"/>
