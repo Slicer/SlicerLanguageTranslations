@@ -6,7 +6,7 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="40"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation>L&apos;annotation nécessite une référence de widget et un type valide</translation>
+        <translation>L&apos;annotation nécessite une référence de widget et une catégorie valide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="279"/>
@@ -40,7 +40,7 @@
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="33"/>
         <source>Path does not exist</source>
-        <translation>chemin n&apos;existe pas</translation>
+        <translation>Le chemin n&apos;existe pas</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
