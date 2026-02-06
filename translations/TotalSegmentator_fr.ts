@@ -16,7 +16,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="30"/>
         <source>Input abdominal, chest, or whole body CT.</source>
-        <translation>Entrer un examen scanner abdominal, thoracique ou corps entier.</translation>
+        <translation>Entrée abdominale, poitrine, ou tout le corps CT.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="51"/>
