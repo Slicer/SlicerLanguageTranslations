@@ -93,7 +93,7 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation>Nombre d&apos;itérations&#xa0;:</translation>
+        <translation>Nombre d&apos;itérations:</translation>
     </message>
 </context>
 <context>
