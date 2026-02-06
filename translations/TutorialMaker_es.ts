@@ -607,42 +607,42 @@ No: Comience de cero tutorial</translation>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="417"/>
         <source>Prepare tutorial capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparar la captura del tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="426"/>
         <source>&lt;b&gt;⚠ Warning:&lt;/b&gt; The scene will be cleared after preparation.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;⚠ Advertencia:&lt;/b&gt; La escena se borrará después de la preparación.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="438"/>
         <source>Save current scene before clearing</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar la escena actual antes de borrar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="440"/>
         <source>Opens the Save Data dialog to save your work before the scene is cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre el cuadro de diálogo Guardar datos para guardar su trabajo antes de borrar la escena</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="442"/>
         <source>Maximize Slicer window</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximizar la ventana de Slicer</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="444"/>
         <source>Ensures consistent screenshot dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Asegura dimensiones consistentes de la captura de pantalla</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="446"/>
         <source>Close Python console and error log</source>
-        <translation type="unfinished"></translation>
+        <translation>Cierre la consola de Python y el registro de errores</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="448"/>
         <source>Hides developer tools for cleaner screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Oculta las herramientas de desarrollo para capturas de pantalla más limpias</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="954"/>
