@@ -71,7 +71,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished">Ordine dell&apos;interpolazione polinomiale utilizzata se due immagini hanno geometria diversa (origine, spaziatura, direzioni degli assi o estensioni): 0 = Il più vicino, 1 = lineare, 2 = quadratico, 3 = interpolazione cubica.</translation>
+        <translation>Ordine dell&apos;interpolazione polinomiale utilizzata se due immagini hanno geometria diversa (origine, spaziatura, direzioni degli assi o estensioni): 0 = vicino più prossimo, 1 = lineare, 2 = quadratica, 3 = interpolazione cubica.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
@@ -788,7 +788,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
@@ -2601,57 +2601,57 @@ Consente il cast allo stesso tipo del volume di input.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Larghezza finestra (0028,1051). Specifica una conversione lineare dai valori dei pixel memorizzati (dopo l&apos;applicazione di Pendenza e Intercetta di Riscala) ai valori da visualizzare. Larghezza finestra contiene la larghezza della finestra. Se il centro o la larghezza della finestra non sono definiti, la finestra viene impostata sull&apos;intero intervallo di intensità dell&apos;immagine.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ridimensiona l&apos;intercetta (0028,1052). Converte i valori dei pixel su disco in valori dei pixel in memoria. (Valore pixel in memoria) = (Valore pixel su disco) * rescaleSlope + rescaleIntercept. Il valore predefinito è 0,0. I valori dei dati vengono convertiti in scrittura (i dati vengono ridimensionati e spostati in modo che la pendenza e l&apos;intercetta li riportino all&apos;intervallo di intensità corrente).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ridimensiona l&apos;intercetta (0028,1052). Converte i valori dei pixel su disco in valori dei pixel in memoria. (Valore pixel in memoria) = (Valore pixel su disco) * rescaleSlope + rescaleIntercept. Il valore predefinito è 0,0. I valori dei dati vengono convertiti in scrittura (i dati vengono ridimensionati e spostati in modo che la pendenza e l&apos;intercetta li riportano all&apos;intervallo di intensità corrente).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
         <source>Specifies the output units of the rescaled image (0008,1054). Leave it blank to set it automatically (Hounsfield unit for CT, unspecified for others).</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifica le unità di misura dell&apos;immagine ridimensionata (0008, 1054). Lasciare vuoto per impostarle automaticamente (unità Hounsfield per TC, non specificate per altre).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
         <source>The date of the image content (0008,0023) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>La data del contenuto dell&apos;immagine (0008,0023) nel formato AAAAMMGG. Se impostato su &quot;[ora]&quot;, viene utilizzata la data corrente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"/>
         <source>The time of the image content (0008,0033) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora del contenuto dell&apos;immagine (0008,0033) nel formato HHMMSS. Se impostato su &quot;[now]&quot;, viene utilizzata l&apos;ora corrente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"/>
         <source>Unique Identifiers (UIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificatori univoci (UID)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificatori univoci (UID) che consentono di aggiungere frame a studi o serie esistenti. Per generare automaticamente gli UID, lasciare tutti i campi vuoti.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
         <source>Study Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID dell&apos;istanza di studio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"/>
         <source>Series Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID istanza serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
         <source>Frame of Reference UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID del sistema di riferimento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
@@ -3840,23 +3840,23 @@ MCDE non presenta le proprietà di miglioramento dei bordi della classica diffus
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"/>
         <source>Type of transform to produce</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo di trasformazione da produrre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
         <source>Display RMS Error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza errore RMS.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
         <source>Provides more information on the output</source>
-        <translation type="unfinished"></translation>
+        <translation>Fornisce maggiori informazioni sull&apos;output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Rigido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
@@ -3866,7 +3866,7 @@ MCDE non presenta le proprietà di miglioramento dei bordi della classica diffus
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Somiglianza</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="26"/>
@@ -3879,12 +3879,12 @@ MCDE non presenta le proprietà di miglioramento dei bordi della classica diffus
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro immagine sfocatura gaussiana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicare una sfocatura gaussiana a un&apos;immagine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
@@ -3904,12 +3904,12 @@ MCDE non presenta le proprietà di miglioramento dei bordi della classica diffus
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume di ingresso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
@@ -3919,7 +3919,7 @@ MCDE non presenta le proprietà di miglioramento dei bordi della classica diffus
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
         <source>Sigma value in physical units (e.g., mm) of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>Valore sigma in unità fisiche (ad esempio, mm) del kernel gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
@@ -3929,7 +3929,7 @@ MCDE non presenta le proprietà di miglioramento dei bordi della classica diffus
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
         <source>Blurred Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume sfocato</translation>
     </message>
 </context>
 <context>
@@ -3937,14 +3937,16 @@ MCDE non presenta le proprietà di miglioramento dei bordi della classica diffus
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="5"/>
         <source>Gradient Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>Diffusione anisotropica a gradiente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="6"/>
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegue la diffusione anisotropica a gradiente su un volume.
+
+I metodi di diffusione anisotropica riducono il rumore (o i dettagli indesiderati) nelle immagini preservandone specifiche caratteristiche, come i bordi. In molte applicazioni, si presume che le transizioni luce-oscurità (bordi) siano interessanti. I metodi di diffusione isotropica standard spostano e sfocano i confini luce-oscurità. I metodi di diffusione anisotropica sono formulati per preservare specificamente i bordi. Il termine di conduttanza per questa implementazione è una funzione dell&apos;ampiezza del gradiente dell&apos;immagine in ogni punto, riducendo l&apos;intensità della diffusione ai bordi. L&apos;implementazione numerica di questa equazione è simile a quella descritta nell&apos;articolo di Perona-Malik, ma utilizza una tecnica più robusta per la stima dell&apos;ampiezza del gradiente ed è stata generalizzata a N-dimensioni.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
