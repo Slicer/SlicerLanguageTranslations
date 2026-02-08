@@ -7,7 +7,7 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Basics of Data Loading and 3D Visualization in 3D Slicer </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation>Conceptos básicos sobre la carga de datos y la visualización 3D en 3D Slicer </translation>
+        <translation>­Conceptos básicos sobre la carga de datos y la visualización 3D en 3D Slicer </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -56,7 +56,7 @@ from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
         <translation>Tras seguir este tutorial, usted será capaz de 
 • cargar y visualizar imágenes DICOM en Slicer  
-• realizar renderización de volumen de datos de TC
+• realizar volumen renderizado de datos de TC
 • cargar y visualizar modelos 3D reconstruidos 
 a partir de datos de RM</translation>
     </message>
@@ -133,7 +133,7 @@ Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
         <translation>Parte 1: Carga y visualización de datos DICOM.
 
-Parte 2: Representación de volúmenes.
+Parte 2: Volumen renderizado
 
 Parte 3: Carga y visualización de modelos 3D</translation>
     </message>
@@ -384,14 +384,16 @@ en la escena</translation>
         <source>Select the Volumen Rendering
 module in the list of modules</source>
         <extracomment>22_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el módulo Renderizado de volumen
+en la lista de módulos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="110"/>
         <source>Part 2
 Volume Rendering</source>
         <extracomment>23_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Parte 2
+Renderización de volúmenes</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="112"/>
@@ -424,7 +426,7 @@ Volume Rendering</source>
 32_VolumeRendering_title
 ----------
 33_VolumeRendering_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Renderización de volumen</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="114"/>
@@ -437,14 +439,21 @@ module in Slicer enables
 interactive 3D visualization 
 of DICOM images </source>
         <extracomment>24_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>-Las técnicas de renderización de volúmenes 
+permiten la visualización en 3D 
+de conjuntos de datos en 3D
+
+-El módulo de renderización de volúmenes 
+de Slicer permite la visualización interactiva en 3D 
+de imágenes DICOM </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="118"/>
         <source>Click on Preset in the Display tab 
 and select the preset CT-Cardiac3</source>
         <extracomment>25_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en Preajuste en la pestaña Pantalla 
+y seleccione el preajuste CT-Cardiac3</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="122"/>
@@ -452,7 +461,9 @@ and select the preset CT-Cardiac3</source>
 Click on the eye icon in the Volume tab to display 
 the volume rendered image in the 3D viewer</source>
         <extracomment>26_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar renderizado VTK GPU Ray Casting
+Haga clic en el icono del ojo en la pestaña Volumen para mostrar 
+la imagen renderizada en el visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="126"/>
@@ -461,7 +472,10 @@ change the transfer
 function and display the 
 aorta</source>
         <extracomment>27_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utilice el control deslizante de desplazamiento para 
+cambiar la función de transferencia 
+y visualizar la 
+aorta</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="130"/>
@@ -470,7 +484,10 @@ display a region of interest
 (ROI) in the 3D viewer and 
 check the option Enable</source>
         <extracomment>28_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en Mostrar ROI para 
+mostrar una región de interés 
+(ROI) en el visor 3D y 
+marque la opción Activar</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="134"/>
@@ -481,7 +498,11 @@ Position the ROI around the
 left kidney using the color 
 handles</source>
         <extracomment>29_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desactive la visibilidad de los 
+cortes axial, sagital y coronal 
+en el visor 2D
+Coloque la región de interés alrededor del 
+riñón izquierdo utilizando los controles de color</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="138"/>
@@ -489,7 +510,8 @@ handles</source>
 display the volume rendered 
 image</source>
         <extracomment>30_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en el icono del ojo para 
+mostrar la imagen con volumen renderizado</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="142"/>
@@ -497,7 +519,9 @@ image</source>
 volume rendered 
 image of the left kidney </source>
         <extracomment>31_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer muestra la 
+imagen de volumen renderizado 
+del riñón izquierdo </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="146"/>
@@ -505,26 +529,29 @@ image of the left kidney </source>
 a volume rendered image of 
 the right kidney</source>
         <extracomment>32_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Amplíe el ROI para generar 
+una imagen de volumen renderizado 
+del riñón derecho</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="150"/>
         <source>Click on File <byte value="x1a"></byte> Close Scene in the main menu</source>
         <extracomment>33_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en Archivo </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="152"/>
         <source>Part 3
 Loading and viewing 3D models</source>
         <extracomment>34_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Parte 3
+Carga y visualización de modelos 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="154"/>
         <source>Slicer Scene</source>
         <extracomment>35_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Escena de Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="156"/>
@@ -534,7 +561,11 @@ Loading and viewing 3D models</source>
 
 *All Slicer modules operate on the data stored in a Slicer scene</source>
         <extracomment>35_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*Slicer almacena todos los datos cargados en un repositorio denominado «escena»
+
+*Cada conjunto de datos, como un volumen de imágenes, un modelo de superficie o un conjunto de puntos, se representa como un nodo en una escena de Slicer
+
+*Todos los módulos de Slicer operan sobre los datos almacenados en una escena de Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="160"/>
@@ -549,7 +580,16 @@ Brigham and Women’s Hospital,
 Harvard Medical School (NIH P41 
 RR013218, NIH R01 MH05074)</source>
         <extracomment>36_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*El conjunto de datos del directorio dataset2_Head 
+contiene la escena de Slicer denominada 
+Head_scene.mrb 
+
+*La escena contiene modelos 3D 
+del atlas cerebral SPL desarrollado 
+por el departamento de Radiología del 
+Brigham and Women’s Hospital, 
+Harvard Medical School (NIH P41 
+RR013218, NIH R01 MH05074)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="162"/>
@@ -558,7 +598,7 @@ RR013218, NIH R01 MH05074)</source>
         <extracomment>37_LoadingaScene_title
 ----------
 38_LoadingaScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cargando una escena</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="164"/>
@@ -567,7 +607,10 @@ Head_Scene.mrb located in
 the dataset2_Head directory 
 into Slicer</source>
         <extracomment>37_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arrastra y suelta el archivo 
+Head_Scene.mrb ubicado en 
+el directorio dataset2_Head 
+en Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="168"/>
@@ -575,7 +618,9 @@ into Slicer</source>
 surface model of the 
 head and 2D MRI slices</source>
         <extracomment>38_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer muestra un 
+modelo de superficie 3D de la 
+cabeza y cortes de resonancia magnética 2D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="170"/>
@@ -587,7 +632,7 @@ head and 2D MRI slices</source>
 40_Viewing3Dmodels_title
 ----------
 41_Viewing3Dmodels_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visualización de modelos 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="172"/>
@@ -597,14 +642,19 @@ slice menu and click on
 the eye icon to display the 
 axial slice in the 3D viewer</source>
         <extracomment>39_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Coloque el cursor sobre 
+el icono del alfiler para mostrar el 
+menú de cortes y haga clic en 
+el icono del ojo para mostrar el 
+corte axial en el visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="176"/>
         <source>Select the Models module 
 in the list of models </source>
         <extracomment>40_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el módulo Modelos 
+en la lista de modelos </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="180"/>
@@ -613,7 +663,10 @@ in the list of models </source>
 scene
 Select the model Skin.vtk</source>
         <extracomment>41_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer muestra la lista de 
+modelos 3D cargados en la 
+escena
+Seleccione el modelo Skin.vtk</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="182"/>
@@ -634,7 +687,7 @@ Select the model Skin.vtk</source>
 46_Interactingwith3Dmodels_title
 ----------
 47_Interactingwith3Dmodels_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Interactuar con modelos 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="184"/>
@@ -642,7 +695,9 @@ Select the model Skin.vtk</source>
 the Skin model using 
 the visibility slider</source>
         <extracomment>42_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Reduzca la opacidad del 
+modelo de piel utilizando 
+el control deslizante de visibilidad</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="186"/>
@@ -650,7 +705,9 @@ the visibility slider</source>
 eyeballs models appear 
 through the skin</source>
         <extracomment>42_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Los modelos del hueso del cráneo y 
+los globos oculares se ven 
+a través de la piel</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="190"/>
@@ -658,7 +715,9 @@ through the skin</source>
 optic nerve models 
 appear through the skin</source>
         <extracomment>43_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La materia blanca y los 
+modelos del nervio óptico 
+aparecen a través de la piel</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="192"/>
@@ -667,7 +726,10 @@ model and click on the
 eye icon to turn off its 
 visibility</source>
         <extracomment>43_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el modelo del hueso del cráneo 
+y haga clic en el 
+icono del ojo para desactivar su 
+visibilidad</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="196"/>
@@ -675,7 +737,9 @@ visibility</source>
 display the coronal slice 
 in the 3D viewer</source>
         <extracomment>44_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en el icono del ojo para 
+mostrar el corte coronal 
+en el visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="200"/>
@@ -683,7 +747,9 @@ in the 3D viewer</source>
 white matter model and 
 select the option Clipping</source>
         <extracomment>45_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el modelo de materia blanca hemisférica 
+y 
+seleccione la opción Recorte</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="204"/>
@@ -691,14 +757,17 @@ select the option Clipping</source>
 posteriorily to display the 
 optic chiasm</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mueva el corte coronal 
+hacia atrás para visualizar el 
+quiasma óptico</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="208"/>
         <source>Slicer displays a 3D view of 
 the optic chiasm</source>
         <extracomment>47_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer muestra una vista en 3D del 
+chiasma óptico</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="210"/>
@@ -712,13 +781,15 @@ the optic chiasm</source>
 Center 
 (NIBIB P41 EB015902)</source>
         <extracomment>48_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neuroimage Analysis 
+Center 
+(NIBIB P41 EB015902)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="214"/>
         <source>Conclusion</source>
         <extracomment>49_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conclusión</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="216"/>
@@ -731,7 +802,14 @@ interactive visualization of CT and MRI data
 
 Contact: spujol@bwh.harvard.edu</source>
         <extracomment>49_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*3D Slicer ofrece funciones avanzadas para 
+cargar y visualizar datos de imágenes médicas en 3D
+
+*El tutorial muestra cómo utilizar el 
+renderizado de volúmenes y el modelado de superficies en 3D para 
+la visualización interactiva de datos de TC y RM
+
+Contacto: spujol@bwh.harvard.edu</translation>
     </message>
 </context>
 </TS>
