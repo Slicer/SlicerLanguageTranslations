@@ -6,7 +6,7 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="40"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation>L&apos;annotation nécessite une référence de widget et une catégorie valide</translation>
+        <translation>L&apos;annotation nécessite une référence vers un widget et un type valide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="279"/>
