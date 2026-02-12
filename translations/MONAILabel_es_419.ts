@@ -581,7 +581,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="410"/>
         <source>SmartEdit</source>
         <oldsource>SmartEdit / Deepgrow</oldsource>
-        <translation type="unfinished">Edición inteligente / Crecimiento profundo</translation>
+        <translation>Edición inteligente</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="446"/>
