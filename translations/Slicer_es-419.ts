@@ -7027,7 +7027,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation>El remuestreo de una imagen es una tarea importante en el análisis de imágenes. Es especialmente importante en el marco del registro de imágenes. Este módulo implementa el remuestreo de imágenes mediante el uso de Transformación ITK. Este módulo utiliza una Transformación de Identidad. El remuestreo es controlado por el Espaciado de Salida. &quot;El remuestreo se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeado de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones fuera de cuadrícula. Existen varios interpoladores: lineal, vecino más próximo, bspline y cinco tipos de sinc. Los interpoladores sinc, aunque más precisos, son mucho más lentos que los interpoladores lineal y de vecino más próximo. Para remuestrear volúmenes de etiquetas, debe utilizarse exclusivamente la interpolación del vecino más próximo.</translation>
+        <translation>El remuestreo de una imagen es una tarea importante en el análisis de imágenes. Es especialmente importante en el marco del registro de imágenes. Este módulo implementa el remuestreo de imágenes mediante el uso de Transformaciones ITK. Este módulo utiliza una Transformación de Identidad. El remuestreo es controlado por el Espaciado de Salida. &quot;El remuestreo se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeado de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones fuera de cuadrícula. Existen varios interpoladores: lineal, vecino más próximo, bspline y cinco tipos de sinc. Los interpoladores sinc, aunque más precisos, son mucho más lentos que los interpoladores lineal y de vecino más próximo. Para remuestrear volúmenes de etiquetas, debe utilizarse exclusivamente la interpolación del vecino más próximo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -12489,7 +12489,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="5"/>
         <source>CT-Air</source>
-        <translation type="unfinished">TC-Aire</translation>
+        <translation>TC-Aire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="6"/>
@@ -12539,12 +12539,12 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="15"/>
         <source>DTI</source>
-        <translation type="unfinished">DTI</translation>
+        <translation>DTI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="16"/>
         <source>Preset for DTI scalar volumes like FA (uses rainbow color table).</source>
-        <translation type="unfinished">Preajuste para volúmenes escalares DTI como FA (utiliza la tabla de colores del arco iris).</translation>
+        <translation>Preajuste para volúmenes escalares DTI como FA (utiliza la tabla de colores tipo arco iris).</translation>
     </message>
 </context>
 <context>
@@ -12627,7 +12627,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
         <source>Enable CORS: </source>
-        <translation type="unfinished">Activar CORS (uso compartido de recursos entre orígenes): </translation>
+        <translation>Activar CORS (uso compartido de recursos entre orígenes): </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
@@ -12647,7 +12647,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
         <source>Slicer API exec: </source>
-        <translation type="unfinished">Ejecutar Slicer API: </translation>
+        <translation>Ejecutar API Slicer: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
@@ -12749,7 +12749,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="46"/>
         <source>Cap visibility:</source>
-        <translation type="unfinished">Visibilidad del tapón:</translation>
+        <translation>Visibilidad Cap:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="53"/>
@@ -13301,7 +13301,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="115"/>
         <source>Spline</source>
-        <translation type="unfinished">Spline</translation>
+        <translation>Curva Spline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="119"/>
@@ -14930,7 +14930,7 @@ en las opciones de Representación para visualizar todas las celdas.</translatio
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">Thumbnail</translation>
+        <translation>Vista en miniatura</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
@@ -19366,7 +19366,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="234"/>
         <source>Instantiating modules...</source>
-        <translation>Dirección Z del cuadro delimitador orientado en coordenadas RAS. Calculada a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
+        <translation>Instanciando módulos...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="240"/>
@@ -21279,7 +21279,7 @@ Exportar %n nodos</numerusform>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2221"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
-        <translation>Actualizar comprobación de respuesta para la extensión %1 se ha omitido el campo obligatorio &quot;ID de extensión&quot; o &quot;revisión&quot;</translation>
+        <translation>Actualizar comprobación de respuesta para la extensión %1 se ha omitido el campo obligatorio &apos;extension_id&apos; o campo &apos;revision&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2232"/>
@@ -30648,7 +30648,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLCrosshairNode.cxx" line="31"/>
         <source>Crosshair</source>
-        <translation type="unfinished">Puntero</translation>
+        <translation>Punto de mira</translation>
     </message>
 </context>
 <context>
@@ -30862,7 +30862,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="80"/>
         <source>OC</source>
-        <translation type="unfinished">OC</translation>
+        <translation>OC</translation>
     </message>
 </context>
 <context>
@@ -31150,7 +31150,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPETProceduralColorNode.cxx" line="14"/>
         <source>PET Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color Procesal PET</translation>
     </message>
 </context>
 <context>
@@ -31158,7 +31158,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotChartNode.cxx" line="50"/>
         <source>Plot Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Gráfico de trama</translation>
     </message>
 </context>
 <context>
@@ -31174,7 +31174,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotViewNode.cxx" line="48"/>
         <source>Plot View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista de trama</translation>
     </message>
 </context>
 <context>
@@ -31182,7 +31182,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorNode.cxx" line="35"/>
         <source>Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Colo procedimental</translation>
     </message>
 </context>
 <context>
@@ -31190,7 +31190,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="35"/>
         <source>Procedural Color Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de color procedimental</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="220"/>
@@ -31207,7 +31207,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeDisplayNode.cxx" line="50"/>
         <source>Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantalla de volumen</translation>
     </message>
 </context>
 <context>
@@ -31231,7 +31231,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSceneViewStorageNode.cxx" line="46"/>
         <source>Scene View Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de vista de la escena</translation>
     </message>
 </context>
 <context>
@@ -31263,7 +31263,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="106"/>
         <source>Segmentation Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de segmentación</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="149"/>
@@ -31286,7 +31286,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/Sequences/MRML/vtkMRMLSequenceBrowserNode.cxx" line="140"/>
         <source>Sequence Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador de secuencias</translation>
     </message>
 </context>
 <context>
@@ -31302,7 +31302,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="40"/>
         <source>Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de secuencias</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="190"/>
@@ -31319,7 +31319,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyNode.cxx" line="39"/>
         <source>Shader Property</source>
-        <translation type="unfinished">Propiedad de sombreado</translation>
+        <translation>Propiedad de sombreado</translation>
     </message>
 </context>
 <context>
@@ -31327,7 +31327,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="49"/>
         <source>Shader Property Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de propiedades de sombreado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="491"/>
@@ -31342,7 +31342,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceCompositeNode.cxx" line="45"/>
         <source>Slice Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento compuesto</translation>
     </message>
 </context>
 <context>
@@ -31366,7 +31366,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSnapshotClipNode.cxx" line="33"/>
         <source>Snapshot Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de video</translation>
     </message>
 </context>
 <context>
@@ -31374,7 +31374,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLStreamingVolumeNode.cxx" line="49"/>
         <source>Streaming Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmisión de audio</translation>
     </message>
 </context>
 <context>
@@ -31390,7 +31390,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="50"/>
         <source>SQLite Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de la tabla SQLite</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="305"/>
@@ -31405,7 +31405,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="80"/>
         <source>Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de almacenamiento</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
@@ -31429,7 +31429,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTensorVolumeNode.cxx" line="32"/>
         <source>Tensor Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen tensorial</translation>
     </message>
 </context>
 <context>
@@ -31445,7 +31445,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="44"/>
         <source>Text Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de texto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="226"/>
@@ -31480,7 +31480,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformDisplayNode.cxx" line="55"/>
         <source>Transform Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar nodo de visualización</translation>
     </message>
 </context>
 <context>
@@ -31496,7 +31496,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformStorageNode.cxx" line="41"/>
         <source>Transform Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar almacenamiento</translation>
     </message>
 </context>
 <context>
@@ -31504,7 +31504,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLUnitNode.cxx" line="38"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad</translation>
     </message>
 </context>
 <context>
@@ -31512,7 +31512,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeDisplayNode.cxx" line="39"/>
         <source>Vector Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualización del volumen vectorial</translation>
     </message>
 </context>
 <context>
@@ -31520,7 +31520,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeNode.cxx" line="36"/>
         <source>Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen vectorial</translation>
     </message>
 </context>
 <context>
@@ -31528,7 +31528,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="60"/>
         <source>Volume Archetype Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de arqueotipos de volumen</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="410"/>
@@ -31646,7 +31646,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeHeaderlessStorageNode.cxx" line="43"/>
         <source>Volume Headerless Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento sin encabezado de volumen</translation>
     </message>
 </context>
 <context>
@@ -31654,7 +31654,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="55"/>
         <source>Volume Property Json Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento Json de propiedades de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="610"/>
@@ -31677,7 +31677,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="34"/>
         <source>Volume Property Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de propiedades de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="207"/>
@@ -31693,22 +31693,22 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="337"/>
         <source>Fast clipping cannot be used with cropping enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>El corte rápido no se puede utilizar si no esta habilitado el botón de recorte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="346"/>
         <source>Fast clipping cannot be used with soft edge voxels.</source>
-        <translation type="unfinished"></translation>
+        <translation>El corte rápido no puede ser utilizado con vóxeles de borde suave.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="372"/>
         <source>Fast clipping cannot use intersection clip type.</source>
-        <translation type="unfinished"></translation>
+        <translation>El recorte rápido no puede ser utilizado con el tipo clip de intersección.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="390"/>
         <source>Fast method cannot use positive space of an ROI.</source>
-        <translation type="unfinished"></translation>
+        <translation>El método rápido no puede ser utilizado en el espacio positivo de un ROI.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="406"/>
@@ -31718,7 +31718,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="415"/>
         <source>Fast method cannot clip with more than 6 planes.</source>
-        <translation type="unfinished"></translation>
+        <translation>El método rápido no puede recortar cuando hay mas de 6 planos.</translation>
     </message>
 </context>
 <context>
@@ -31736,7 +31736,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLdGEMRICProceduralColorNode.cxx" line="28"/>
         <source>d GEMRIC Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>d GEMRIC color procedimental</translation>
     </message>
 </context>
 <context>
