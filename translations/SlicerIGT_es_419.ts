@@ -458,7 +458,7 @@ Para más información, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sli
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished">Este módulo ajusta el punto de vista de la cámara de un visor 3D.
+        <translation>Este módulo ajusta el punto de vista de la cámara de un visor 3D.
 Bullseye View: posiciona/orienta la cámara utilizando una herramienta de seguimiento.
 Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </translation>
@@ -475,12 +475,12 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Enable Bullseye View Mode</source>
-        <translation type="unfinished">Activar el modo de vista Bullseye</translation>
+        <translation>Activar el modo de vista Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="68"/>
         <source>Disable Bullseye View Mode</source>
-        <translation type="unfinished">Desactivar el modo de vista Bullseye</translation>
+        <translation>Desactivar el modo de vista Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
@@ -510,7 +510,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="122"/>
         <source>Parameters for Bullseye View</source>
-        <translation type="unfinished">Parámetros para la vista de Bullseye</translation>
+        <translation>Parámetros para la vista de Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="129"/>
@@ -2911,7 +2911,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="137"/>
         <source>GPU acceleration (OpenCL)</source>
-        <translation type="unfinished">Aceleración de GPU (OpenCL)</translation>
+        <translation>Aceleración de GPU (OpenCL)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="140"/>
@@ -2994,7 +2994,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
         <source>Volume Reslice Driver</source>
-        <translation type="unfinished">Manejador de corte de volumen</translation>
+        <translation>Manejador de corte de volumen</translation>
     </message>
 </context>
 <context>
