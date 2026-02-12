@@ -944,7 +944,7 @@ Descripción de la serie: %3
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1113"/>
         <source>(and %1 more)</source>
-        <translation>(y %1 más)</translation>
+        <translation type="unfinished">(y 1% más)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1145"/>
