@@ -22,14 +22,21 @@
         <translation>28/08/2024</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="14"/>
         <source>
-            <byte value="x2"></byte>Assistant	Professor	of	Radiology	
+            <byte value="x2"/>Assistant	Professor	of	Radiology	
 Brigham	and	Women’s	Hospital	
 Harvard	Medical	School	</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation>
+        <translation type="vanished">
             </translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="14"/>
+        <source><byte value="x2"/>Assistant	Professor	of	Radiology	
+Brigham	and	Women’s	Hospital	
+Harvard	Medical	School	</source>
+        <extracomment>0_TextBox_3</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
