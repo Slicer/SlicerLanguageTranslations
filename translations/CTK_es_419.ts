@@ -944,7 +944,7 @@ Descripción de la serie: %3
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1113"/>
         <source>(and %1 more)</source>
-        <translation type="unfinished">(y 1% más)</translation>
+        <translation>(y %1 más)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1145"/>
@@ -1847,7 +1847,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="554"/>
         <source>SOPInstance UID</source>
-        <translation type="unfinished">Identificador único de instancia SOP (Service-Object Pair)</translation>
+        <translation>Identificador único de instancia SOP (Service-Object Pair)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="558"/>
@@ -2454,7 +2454,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="260"/>
         <source>Called AETitle</source>
-        <translation type="unfinished">Título de entidad de aplicación llamada AE</translation>
+        <translation>Título de entidad de aplicación llamada AE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="265"/>
@@ -2911,12 +2911,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="429"/>
         <source>PT</source>
-        <translation type="unfinished">PT (PET)</translation>
+        <translation>PT (PET)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="434"/>
         <source>XA</source>
-        <translation type="unfinished">XA</translation>
+        <translation>XA</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="483"/>
