@@ -266,7 +266,8 @@ menu.</source>
         <extracomment>15_ArrowText_0</extracomment>
         <translation>Coloque el cursor del mouse
 sobre el banner rojo del 
-Visor rojo para mostrar el menú de corte.</translation>
+Visor rojo para mostrar el
+menú de corte.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
