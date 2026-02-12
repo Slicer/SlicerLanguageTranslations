@@ -504,7 +504,7 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
         <source>ClipVessel</source>
-        <translation type="unfinished">ClipVessel</translation>
+        <translation>ClipVessel</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="210"/>
@@ -554,7 +554,7 @@ Al crear la curva, se puede especificar la visibilidad de los nombres a través 
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
         <source>Decimation aggressiveness:</source>
-        <translation type="unfinished">Agresividad de la decimación</translation>
+        <translation>Agresividad de la decimación:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="326"/>
@@ -838,13 +838,13 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1798"/>
         <source>Diameter (MIS)</source>
-        <translation type="unfinished">Diámetro (MIS)</translation>
+        <translation>Diámetro (MIS)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1799"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1170"/>
         <source>Diameter (CE)</source>
-        <translation type="unfinished">Diámetro (CE)</translation>
+        <translation>Diámetro (CE)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="120"/>
