@@ -29,7 +29,7 @@ Brigham	and	Women’s	Hospital
 Harvard	Medical	School	</source>
         <extracomment>0_TextBox_3</extracomment>
         <translation>
-&#xa0;</translation>
+            </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
