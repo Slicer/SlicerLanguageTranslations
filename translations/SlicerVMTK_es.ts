@@ -998,7 +998,7 @@ Se aplica el pincel &apos;Esfera&apos;. Se puede realizar una personalización a
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="496"/>
         <source>Tab 2</source>
-        <translation type="unfinished">Tab 2</translation>
+        <translation>Tab 2</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="576"/>
