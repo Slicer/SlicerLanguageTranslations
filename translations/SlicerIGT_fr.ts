@@ -4,7 +4,7 @@
 <context>
     <name>FiducialsToModelRegistration</name>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="24"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="20"/>
         <source>
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
@@ -15,7 +15,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez&#xa0;: 
     </translation>
     </message>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="24"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -24,6 +24,11 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, Kitware Inc.,
 et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvention NIH 3P41RR013218-12S1.
 </translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
+        <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
@@ -66,12 +71,12 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
         <translation>Définir le facteur d&apos;échelle pour les captures d&apos;écran.</translation>
     </message>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="121"/>
         <source>Run the algorithm.</source>
         <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="129"/>
         <source>Output</source>
         <translation>Sortie</translation>
     </message>
@@ -81,7 +86,7 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
         <translation>Distance moyenne après l&apos;enregistrement&#xa0;: </translation>
     </message>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="141"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
@@ -99,12 +104,12 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
 <context>
     <name>Guidelet.GuideletLoadable</name>
     <message>
-        <location filename="Guidelet/GuideletLoadable.py" line="18"/>
+        <location filename="Guidelet/GuideletLoadable.py" line="17"/>
         <source>Guidelet</source>
         <translation>Guidelet</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLoadable.py" line="45"/>
+        <location filename="Guidelet/GuideletLoadable.py" line="44"/>
         <source>Guidelet launcher</source>
         <translation>Lanceur de guidelet</translation>
     </message>
@@ -122,7 +127,7 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
 <context>
     <name>GuideletLib.Guidelet</name>
     <message>
-        <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="164"/>
         <source>Settings</source>
         <translation>Réglages</translation>
     </message>
@@ -165,7 +170,7 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
 <context>
     <name>GuideletLib.UltraSound</name>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="48"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
         <source>Ultrasound</source>
         <translation>Echographie</translation>
     </message>
@@ -185,22 +190,22 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
         <translation>Geler</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="75"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="73"/>
         <source>Brightness </source>
         <translation>Luminosité </translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
         <source>Bright</source>
         <translation>Lumineux</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="93"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
         <source>Brighter</source>
         <translation>Plus lumineux</translation>
     </message>
@@ -228,12 +233,12 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
 <context>
     <name>ModelRegistration</name>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="17"/>
         <source>Model Registration</source>
         <translation>Enregistrement du modèle</translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="21"/>
         <source>
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
@@ -244,7 +249,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez&#xa0;: 
 </translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="35"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
@@ -253,7 +258,7 @@ Ce travail fait partie du projet SparKit, financé par le programme ACRU de Canc
 </translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="43"/>
         <source>Parameters</source>
         <translation>Paramètres</translation>
     </message>
@@ -288,12 +293,17 @@ Ce travail fait partie du projet SparKit, financé par le programme ACRU de Canc
         <translation>Transformation en sortie&#xa0;: </translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
+        <source>Apply</source>
+        <translation type="unfinished">Appliquer</translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
         <source>Run the algorithm.</source>
         <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="111"/>
         <source>Output</source>
         <translation>Sortie</translation>
     </message>
@@ -303,7 +313,7 @@ Ce travail fait partie du projet SparKit, financé par le programme ACRU de Canc
         <translation>Distance moyenne après l&apos;enregistrement&#xa0;:</translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="123"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
@@ -336,12 +346,12 @@ Ce travail fait partie du projet SparKit, financé par le programme ACRU de Canc
         <translation>Nœuds enregistrés</translation>
     </message>
     <message>
-        <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="34"/>
         <source>Sequence Replay</source>
         <translation>Relecture de séquence</translation>
     </message>
     <message>
-        <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="40"/>
         <source>
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
@@ -352,7 +362,7 @@ Pour plus d&apos;informations, consultez la &lt;a href=&quot;https://github.com/
 </translation>
     </message>
     <message>
-        <location filename="SequenceReplay/SequenceReplay.py" line="51"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -366,12 +376,12 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
 <context>
     <name>TextureModel</name>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="21"/>
+        <location filename="TextureModel/TextureModel.py" line="20"/>
         <source>Texture Model</source>
         <translation>Modèle de texture</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="29"/>
+        <location filename="TextureModel/TextureModel.py" line="24"/>
         <source>This module applies a texture (stored in a volume node) to a model node.
 It is typically used to display colored surfaces, provided by surface scanners, exported in OBJ format.
 The model must contain texture coordinates. Only a single texture file per model is supported.
@@ -384,7 +394,7 @@ Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/Sl
 </translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="50"/>
+        <location filename="TextureModel/TextureModel.py" line="49"/>
         <source>Parameters</source>
         <translation>Paramètres</translation>
     </message>
@@ -429,7 +439,7 @@ Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/Sl
         <translation>Composants flottants RGB</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="91"/>
+        <location filename="TextureModel/TextureModel.py" line="89"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
         <translation>Enregistrer la couleur dans les données des points. &quot;Vecteur RGB&quot; est recommandé pour la compatibilité avec la plupart des logiciels. Les données des points peuvent être utilisées pour le seuillage ou le traitement basé sur la couleur.</translation>
     </message>
@@ -439,7 +449,12 @@ Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/Sl
         <translation>Enregistrer les informations de couleur comme données ponctuelles&#xa0;:</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="99"/>
+        <location filename="TextureModel/TextureModel.py" line="97"/>
+        <source>Apply</source>
+        <translation type="unfinished">Appliquer</translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="98"/>
         <source>Apply texture to selected model.</source>
         <translation>Appliquer une texture au modèle sélectionné.</translation>
     </message>
@@ -447,12 +462,12 @@ Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/Sl
 <context>
     <name>Viewpoint</name>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="13"/>
+        <location filename="Viewpoint/Viewpoint.py" line="12"/>
         <source>Viewpoint</source>
         <translation>Point de vue</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="23"/>
+        <location filename="Viewpoint/Viewpoint.py" line="19"/>
         <source>This module adjusts camera viewpoint of a 3D viewer.
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
@@ -463,7 +478,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
 </translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="25"/>
+        <location filename="Viewpoint/Viewpoint.py" line="23"/>
         <source>
     This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
     </source>
@@ -472,27 +487,27 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     </translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="65"/>
+        <location filename="Viewpoint/Viewpoint.py" line="64"/>
         <source>Enable Bullseye View Mode</source>
         <translation>Activer le mode Vue Bullseye</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="68"/>
+        <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Disable Bullseye View Mode</source>
         <translation>Désactiver le mode Vue Bullseye</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="94"/>
+        <location filename="Viewpoint/Viewpoint.py" line="93"/>
         <source>Enable Auto-Center Mode</source>
         <translation>Activer le mode de recentrage automatique</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="96"/>
+        <location filename="Viewpoint/Viewpoint.py" line="94"/>
         <source>Disable Auto-Center Mode</source>
         <translation>Désactiver le mode de recentrage auto</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="103"/>
+        <location filename="Viewpoint/Viewpoint.py" line="102"/>
         <source>View Selection</source>
         <translation>Sélection de la vue</translation>
     </message>
@@ -507,7 +522,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Choisissez la vue qui doit être ajustée, par exemple &apos;Vue1&apos;</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="122"/>
+        <location filename="Viewpoint/Viewpoint.py" line="121"/>
         <source>Parameters for Bullseye View</source>
         <translation>Paramètres pour la vue Bullseye</translation>
     </message>
@@ -522,12 +537,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Choisissez la transformation que la caméra doit suivre, par exemple &apos;cauteryCameraToCauteryTransform&apos;</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="142"/>
+        <location filename="Viewpoint/Viewpoint.py" line="141"/>
         <source>Camera Control</source>
         <translation>Contrôle de la caméra</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="150"/>
+        <location filename="Viewpoint/Viewpoint.py" line="149"/>
         <source>Degrees of Freedom</source>
         <translation>Degrés de liberté</translation>
     </message>
@@ -557,7 +572,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>La caméra sera virtuellement attachée à l&apos;outil et tournera avec lui</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="178"/>
+        <location filename="Viewpoint/Viewpoint.py" line="177"/>
         <source>Up Direction</source>
         <translation>Direction vers le haut</translation>
     </message>
@@ -592,12 +607,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Inférieur&#xa0;: </translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="219"/>
+        <location filename="Viewpoint/Viewpoint.py" line="218"/>
         <source>Target Model</source>
         <translation>Modèle cible</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="228"/>
+        <location filename="Viewpoint/Viewpoint.py" line="227"/>
         <source>Target model: </source>
         <translation>Modèle cible&#xa0;: </translation>
     </message>
@@ -607,7 +622,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Ce modèle sera le centre de rotation utilisant le point de vue 3DOF (par exemple, une tumeur)</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="240"/>
+        <location filename="Viewpoint/Viewpoint.py" line="239"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
@@ -628,12 +643,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Échelle de vue&#xa0;: </translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="274"/>
+        <location filename="Viewpoint/Viewpoint.py" line="273"/>
         <source>Translation</source>
         <translation>Traduction</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="281"/>
+        <location filename="Viewpoint/Viewpoint.py" line="280"/>
         <source>Left/Right (mm): </source>
         <translation>Gauche/Droite (mm)&#xa0;: </translation>
     </message>
@@ -663,7 +678,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>La caméra mettra continuellement à jour sa position afin de suivre l&apos;outil.</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="328"/>
+        <location filename="Viewpoint/Viewpoint.py" line="327"/>
         <source>Parameters for Auto-Center</source>
         <translation>Paramètres pour le recentrage auto</translation>
     </message>
@@ -678,7 +693,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Choisissez le modèle que la caméra doit suivre, par exemple &apos;tumorModel&apos;</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="347"/>
+        <location filename="Viewpoint/Viewpoint.py" line="346"/>
         <source>Safe Zone (Viewport X percentage): </source>
         <translation>Zone de sécurité (pourcentage X du viewport)&#xa0;: </translation>
     </message>
@@ -771,10 +786,10 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
 <context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="18"/>
-        <location filename="ModelRegistration/ModelRegistration.py" line="19"/>
-        <location filename="SequenceReplay/SequenceReplay.py" line="36"/>
-        <location filename="Viewpoint/Viewpoint.py" line="14"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="17"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
+        <location filename="Viewpoint/Viewpoint.py" line="13"/>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="78"/>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="62"/>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="95"/>
@@ -791,12 +806,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>IGT</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLoadable.py" line="19"/>
+        <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
         <translation>Guidelet</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="22"/>
+        <location filename="TextureModel/TextureModel.py" line="21"/>
         <source>Surface Models</source>
         <translation>Modèles de surface</translation>
     </message>
@@ -814,11 +829,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Jeu de paramètres&#x202f;:</translation>
     </message>
     <message>
-        <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="35"/>
-        <source>vtkMRMLBreachWarningNode</source>
-        <translation>vtkMRMLBreachWarningNode</translation>
-    </message>
-    <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="64"/>
         <source>Inputs</source>
         <translation>Entrées</translation>
@@ -829,19 +839,9 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Modèle à regarder :</translation>
     </message>
     <message>
-        <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="84"/>
-        <source>vtkMRMLModelNode</source>
-        <translation>vtkMRMLModelNode</translation>
-    </message>
-    <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
         <translation>Transformation de l&apos;info-bulle (en RAS)&#xa0;: </translation>
-    </message>
-    <message>
-        <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
@@ -927,147 +927,103 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Les points seront collectés selon l’origine de ce système de coordonnées.</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>vtkMRMLLinearTransformNode</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
-        <source>vtkMRMLBSplineTransformNode</source>
-        <translation>vtkMRMLBSplineTransformNode</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
-        <source>vtkMRMLGridTransformNode</source>
-        <translation>vtkMRMLGridTransformNode</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
-        <source>vtkMRMLTransformNode</source>
-        <translation>vtkMRMLTransformNode</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="57"/>
-        <source>vtkMRMLCollectPointsNode</source>
-        <translation>vtkMRMLCollectPointsNode</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="68"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="67"/>
         <source>Toggle visibility of the output node</source>
         <translation>Afficher / cacher la sortie</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="71"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="85"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="70"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="84"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="82"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="81"/>
         <source>Delete the last point from the output node (hold click to see the option delete all)</source>
         <translation>Suprimer le dernier point de cette sortie (maintenir le clic pour voir l&apos;option tout supprimer)</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="96"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="95"/>
         <source>Store points in either a markups or a model node</source>
         <translation>Stocker les points dans des annotations ou dans un nœud de modèle</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
-        <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>vtkMRMLMarkupsFiducialNode</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
-        <source>vtkMRMLModelNode</source>
-        <translation>vtkMRMLModelNode</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
-        <source>vtkMRMLMarkupsCurveNode</source>
-        <translation>vtkMRMLMarkupsCurveNode</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="116"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="115"/>
         <source>Change the color of the output node</source>
         <translation>Modifier la couleur d&apos;affichage</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="128"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="127"/>
         <source>Output Node:</source>
         <translation>Sortie :</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="137"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="136"/>
         <source>Collect points either one at a time, or collect them automatically (tick the checkbox).</source>
         <translation>Mémoriser les points un par un ou automatiquement (cocher la case).</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="140"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="139"/>
         <source>Collect</source>
         <translation>Mémoriser</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="146"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="156"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="155"/>
         <source>Label Base:</source>
         <translation>Base de l&apos;étiquette&#xa0;:</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="163"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="162"/>
         <source>Markups will be numbered according to the current counter (incremented automatically)</source>
         <translation>Les majorations seront numérotées en fonction du compteur actuel (incrémenté automatiquement)</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="170"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="169"/>
         <source>Minimum Distance:</source>
         <translation>Distance minimale :</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="177"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="176"/>
         <source>Next Label Number:</source>
         <translation>Numéro d&apos;étiquette suivant&#xa0;:</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="184"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="183"/>
         <source>Markups will have labels that begin with this text.</source>
         <translation>Les annotations auront des étiquettes qui commencent par ce texte.</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="187"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="186"/>
         <source>P</source>
         <translation>P</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="194"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="193"/>
         <source>Specify a minimum distance before a new point is automatically collected (Auto-Collect mode only)</source>
         <translation>Spécifiez une distance minimale avant qu&apos;un nouveau point soit automatiquement collecté (mode de collecte automatique uniquement)</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="204"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="203"/>
         <source>Points will be collected relative to the anchor coordinate system.</source>
         <translation>Les points seront mémorisés par rapport au centre du système de coordonnées.</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="225"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="223"/>
         <source>Anchor Node:</source>
         <translation>Centre du système de coordonnées&#xa0;:</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="252"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="250"/>
         <source>Delete All Points</source>
         <translation>Supprimer tous les points</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="255"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="253"/>
         <source>Delete all points from the node</source>
         <translation>Supprimer tous les points de ce noeud</translation>
     </message>
@@ -1267,11 +1223,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Afficher</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="41"/>
-        <source>vtkMRMLFiducialRegistrationWizardNode</source>
-        <translation>vtkMRMLFiducialRegistrationWizardNode</translation>
-    </message>
-    <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
         <source>From fiducials</source>
         <translation>Depuis les fiducials</translation>
@@ -1290,13 +1241,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="80"/>
         <source>Place fiducials using transforms</source>
         <translation>Placer des fiducials à l&apos;aide de transformations</translation>
-    </message>
-    <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="95"/>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="113"/>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="140"/>
@@ -1319,52 +1263,47 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Transformer le résultat de l&apos;enregistrement (Depuis-&gt;Vers)</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
-        <source>vtkMRMLTransformNode</source>
-        <translation>vtkMRMLTransformNode</translation>
-    </message>
-    <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="205"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="204"/>
         <source>Result transform type:</source>
         <translation>Type de transformation du résultat&#xa0;:</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="218"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="217"/>
         <source>Rigid</source>
         <translation>Rigide</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="234"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="233"/>
         <source>Similarity</source>
         <translation>Similarité</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="247"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="246"/>
         <source>Warping</source>
         <translation>Déformation</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="258"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="257"/>
         <source>Point Matching Method:</source>
         <translation>Méthode d&apos;appariement des points&#xa0;:</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="270"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="269"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Calculer la transformation de sortie à partir des fiducials. Cliquez sur la case à cocher pour la mise à jour automatique.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="272"/>
         <source>Update</source>
         <translation>Mise à jour</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="286"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="285"/>
         <source>Status:</source>
         <translation>Statut :</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="302"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="301"/>
         <source>Preview transform</source>
         <translation>Aperçu de la transformation</translation>
     </message>
@@ -1472,11 +1411,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Nœud Paramètre&#xa0;:</translation>
     </message>
     <message>
-        <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="29"/>
-        <source>vtkMRMLLandmarkDetectionNode</source>
-        <translation>vtkMRMLLandmarkDetectionNode</translation>
-    </message>
-    <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="46"/>
         <source>IO</source>
         <translation>E/S</translation>
@@ -1485,17 +1419,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="52"/>
         <source>Stylus tip transform:</source>
         <translation>Transformation de la pointe du stylet&#xa0;:</translation>
-    </message>
-    <message>
-        <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="59"/>
-        <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="83"/>
-        <source>vtkMRMLTransformNode</source>
-        <translation>vtkMRMLTransformNode</translation>
-    </message>
-    <message>
-        <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="71"/>
-        <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="95"/>
@@ -1590,11 +1513,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Chemins&#xa0;:</translation>
     </message>
     <message>
-        <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="32"/>
-        <source>vtkMRMLPathPlannerTrajectoryNode</source>
-        <translation>vtkMRMLPathPlannerTrajectoryNode</translation>
-    </message>
-    <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="37"/>
         <source>Trajectory list</source>
         <translation>Liste de trajectoires</translation>
@@ -1679,12 +1597,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="41"/>
         <source>Input (ToolToReference):</source>
         <translation>Entrée (ToolToReference) :</translation>
-    </message>
-    <message>
-        <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="48"/>
-        <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="64"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="57"/>
@@ -2051,36 +1963,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Driver :</translation>
     </message>
     <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>vtkMRMLLinearTransformNode</translation>
-    </message>
-    <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
-    </message>
-    <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLMarkupsPlaneNode</source>
-        <translation>vtkMRMLMarkupsPlaneNode</translation>
-    </message>
-    <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLMarkupsLineNode</source>
-        <translation>vtkMRMLMarkupsLineNode</translation>
-    </message>
-    <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLAnnotationRulerNode</source>
-        <translation>vtkMRMLAnnotationRulerNode</translation>
-    </message>
-    <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
         <source>Mode:</source>
@@ -2167,11 +2049,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Sélectionnez les nœuds pour prévisualiser la transformation</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="51"/>
-        <source>vtkMRMLTransformableNode</source>
-        <translation>vtkMRMLTransformableNode</translation>
-    </message>
-    <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="68"/>
         <source>Apply transform to selected nodes.</source>
         <translation>Appliquer la transformation aux nœuds sélectionnés.</translation>
@@ -2213,19 +2090,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="46"/>
         <source>Select which transform you want to add below.</source>
         <translation>Sélectionnez la transformation que vous souhaitez ajouter ci-dessous.</translation>
-    </message>
-    <message>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="49"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="100"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="118"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="143"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="168"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="306"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="427"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="452"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="563"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
@@ -2277,11 +2141,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="186"/>
         <source>This stores all parameters for transform processing.</source>
         <translation>Ceci stocke tous les paramètres pour le traitement de la transformation.</translation>
-    </message>
-    <message>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="189"/>
-        <source>vtkMRMLTransformProcessorNode</source>
-        <translation>vtkMRMLTransformProcessorNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="204"/>
@@ -2516,11 +2375,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Image échographique : </translation>
     </message>
     <message>
-        <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="47"/>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
-    </message>
-    <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
         <source>Controls</source>
         <translation>Contrôles</translation>
@@ -2557,19 +2411,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     </message>
 </context>
 <context>
-    <name>qSlicerUltrasoundSnapshotsModuleWidget</name>
-    <message>
-        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="122"/>
-        <source>This action will delete all snapshots.</source>
-        <translation>Cette action supprimera tous les instantanés.</translation>
-    </message>
-    <message>
-        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="123"/>
-        <source>Continue with this action?</source>
-        <translation>Continuer avec cette action&#x202f;?</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerVolumeReconstructionModule</name>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="14"/>
@@ -2580,11 +2421,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="22"/>
         <source>Volume reconstruction node:</source>
         <translation>Nœud de reconstruction de volume&#xa0;:</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="29"/>
-        <source>vtkMRMLVolumeReconstructionNode</source>
-        <translation>vtkMRMLVolumeReconstructionNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="43"/>
@@ -2614,11 +2450,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Nœud de volume de sortie&#xa0;:</translation>
     </message>
     <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="83"/>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
-    </message>
-    <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="98"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="116"/>
         <source>Region of interest in which the volume should be reconstructed.</source>
@@ -2628,16 +2459,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="101"/>
         <source>ROI node:</source>
         <translation>Nœud ROI&#xa0;:</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
-        <source>vtkMRMLAnnotationROINode</source>
-        <translation>vtkMRMLAnnotationROINode</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
-        <source>vtkMRMLMarkupsROINode</source>
-        <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="138"/>
@@ -2753,16 +2574,6 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="354"/>
         <source>Input volume node:</source>
         <translation>Nœud de volume d&apos;entrée&#xa0;:</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="361"/>
-        <source>vtkMRMLVolumeNode</source>
-        <translation>vtkMRMLVolumeNode</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="379"/>
-        <source>vtkMRMLSequenceBrowserNode</source>
-        <translation>vtkMRMLSequenceBrowserNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="394"/>
@@ -3027,24 +2838,9 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <translation>Nœud de surveillance&#xa0;: </translation>
     </message>
     <message>
-        <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="47"/>
-        <source>vtkMRMLWatchdogNode</source>
-        <translation>vtkMRMLWatchdogNode</translation>
-    </message>
-    <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="64"/>
         <source>Observed nodes</source>
         <translation>Nœuds observés</translation>
-    </message>
-    <message>
-        <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
-        <source>vtkMRMLTransformNode</source>
-        <translation>vtkMRMLTransformNode</translation>
-    </message>
-    <message>
-        <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
-        <source>vtkMRMLVolumeNode</source>
-        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>

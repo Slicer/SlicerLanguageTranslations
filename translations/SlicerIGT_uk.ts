@@ -4,7 +4,7 @@
 <context>
     <name>FiducialsToModelRegistration</name>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="24"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="20"/>
         <source>
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
@@ -15,7 +15,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </translation>
     </message>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="24"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -24,6 +24,11 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 Цей файл був спочатку розроблений Jean-Christophe Fillion-Robin, Kitware Inc.
 і Стіва Піпера, Isomics, Inc. і частково фінансувався грантом NIH 3P41RR013218-12S1.
 </translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
+        <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
@@ -66,12 +71,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>Встановіть масштабний коефіцієнт для знімків екрана.</translation>
     </message>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="121"/>
         <source>Run the algorithm.</source>
         <translation>Виконайте алгоритм.</translation>
     </message>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="129"/>
         <source>Output</source>
         <translation>Вихід</translation>
     </message>
@@ -81,7 +86,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>Середня відстань після реєстрації: </translation>
     </message>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="141"/>
         <source>Advanced</source>
         <translation>Просунутий</translation>
     </message>
@@ -99,12 +104,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>Guidelet.GuideletLoadable</name>
     <message>
-        <location filename="Guidelet/GuideletLoadable.py" line="18"/>
+        <location filename="Guidelet/GuideletLoadable.py" line="17"/>
         <source>Guidelet</source>
         <translation>Посібник</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLoadable.py" line="45"/>
+        <location filename="Guidelet/GuideletLoadable.py" line="44"/>
         <source>Guidelet launcher</source>
         <translation>Засіб запуску путівників</translation>
     </message>
@@ -122,7 +127,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>GuideletLib.Guidelet</name>
     <message>
-        <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="164"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
@@ -165,7 +170,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>GuideletLib.UltraSound</name>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="48"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
         <source>Ultrasound</source>
         <translation>Ультразвук</translation>
     </message>
@@ -185,22 +190,22 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>Заморозити</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="75"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="73"/>
         <source>Brightness </source>
         <translation>Яскравість </translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
         <source>Normal</source>
         <translation>Нормальний</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
         <source>Bright</source>
         <translation>Яскравий</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="93"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
         <source>Brighter</source>
         <translation>Яскравіше</translation>
     </message>
@@ -228,12 +233,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>ModelRegistration</name>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="17"/>
         <source>Model Registration</source>
         <translation>Реєстрація моделі</translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="21"/>
         <source>
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
@@ -244,7 +249,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 </translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="35"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
@@ -253,7 +258,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 </translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="43"/>
         <source>Parameters</source>
         <translation>Параметри</translation>
     </message>
@@ -288,12 +293,17 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
         <translation>Вихідне перетворення: </translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
+        <source>Apply</source>
+        <translation type="unfinished">Застосувати</translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
         <source>Run the algorithm.</source>
         <translation>Виконайте алгоритм.</translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="111"/>
         <source>Output</source>
         <translation>Вихід</translation>
     </message>
@@ -303,7 +313,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
         <translation>Середня відстань після реєстрації:</translation>
     </message>
     <message>
-        <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="123"/>
         <source>Advanced</source>
         <translation>Просунутий</translation>
     </message>
@@ -336,12 +346,12 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
         <translation>Записані вузли</translation>
     </message>
     <message>
-        <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="34"/>
         <source>Sequence Replay</source>
         <translation>Повторення послідовності</translation>
     </message>
     <message>
-        <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="40"/>
         <source>
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
@@ -352,7 +362,7 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 </translation>
     </message>
     <message>
-        <location filename="SequenceReplay/SequenceReplay.py" line="51"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -366,12 +376,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>TextureModel</name>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="21"/>
+        <location filename="TextureModel/TextureModel.py" line="20"/>
         <source>Texture Model</source>
         <translation>Модель текстури</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="29"/>
+        <location filename="TextureModel/TextureModel.py" line="24"/>
         <source>This module applies a texture (stored in a volume node) to a model node.
 It is typically used to display colored surfaces, provided by surface scanners, exported in OBJ format.
 The model must contain texture coordinates. Only a single texture file per model is supported.
@@ -384,7 +394,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 </translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="50"/>
+        <location filename="TextureModel/TextureModel.py" line="49"/>
         <source>Parameters</source>
         <translation>Параметри</translation>
     </message>
@@ -429,7 +439,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <translation>Плаваючі компоненти RGB</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="91"/>
+        <location filename="TextureModel/TextureModel.py" line="89"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
         <translation>Зберегти колір у точкових даних. «RGB vector» рекомендовано для сумісності з більшістю програмного забезпечення. Дані точок можуть використовуватися для порогового значення або обробки на основі кольору.</translation>
     </message>
@@ -439,7 +449,12 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <translation>Зберегти інформацію про колір як точкові дані:</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="99"/>
+        <location filename="TextureModel/TextureModel.py" line="97"/>
+        <source>Apply</source>
+        <translation type="unfinished">Застосувати</translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="98"/>
         <source>Apply texture to selected model.</source>
         <translation>Застосувати текстуру до обраної моделі.</translation>
     </message>
@@ -447,12 +462,12 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 <context>
     <name>Viewpoint</name>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="13"/>
+        <location filename="Viewpoint/Viewpoint.py" line="12"/>
         <source>Viewpoint</source>
         <translation>Точка огляду</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="23"/>
+        <location filename="Viewpoint/Viewpoint.py" line="19"/>
         <source>This module adjusts camera viewpoint of a 3D viewer.
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
@@ -463,7 +478,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
 </translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="25"/>
+        <location filename="Viewpoint/Viewpoint.py" line="23"/>
         <source>
     This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
     </source>
@@ -472,27 +487,27 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     </translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="65"/>
+        <location filename="Viewpoint/Viewpoint.py" line="64"/>
         <source>Enable Bullseye View Mode</source>
         <translation>Увімкніть режим перегляду Bullseye</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="68"/>
+        <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Disable Bullseye View Mode</source>
         <translation>Вимкніть режим перегляду Bullseye</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="94"/>
+        <location filename="Viewpoint/Viewpoint.py" line="93"/>
         <source>Enable Auto-Center Mode</source>
         <translation>Увімкніть режим автоматичного центру</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="96"/>
+        <location filename="Viewpoint/Viewpoint.py" line="94"/>
         <source>Disable Auto-Center Mode</source>
         <translation>Вимкніть режим автоматичного центру</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="103"/>
+        <location filename="Viewpoint/Viewpoint.py" line="102"/>
         <source>View Selection</source>
         <translation>Переглянути вибір</translation>
     </message>
@@ -507,7 +522,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Виберіть вид, який потрібно налаштувати, напр. &quot;View1&quot;</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="122"/>
+        <location filename="Viewpoint/Viewpoint.py" line="121"/>
         <source>Parameters for Bullseye View</source>
         <translation>Параметри для Bullseye View</translation>
     </message>
@@ -522,12 +537,12 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Виберіть трансформацію, яку має виконувати камера, наприклад. &apos;cauteryCameraToCauteryTransform&apos;</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="142"/>
+        <location filename="Viewpoint/Viewpoint.py" line="141"/>
         <source>Camera Control</source>
         <translation>Керування камерою</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="150"/>
+        <location filename="Viewpoint/Viewpoint.py" line="149"/>
         <source>Degrees of Freedom</source>
         <translation>Ступені свободи</translation>
     </message>
@@ -557,7 +572,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Камера буде віртуально прикріплена до інструменту і обертатиметься разом з ним</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="178"/>
+        <location filename="Viewpoint/Viewpoint.py" line="177"/>
         <source>Up Direction</source>
         <translation>Напрямок вгору</translation>
     </message>
@@ -592,12 +607,12 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Неповноцінний: </translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="219"/>
+        <location filename="Viewpoint/Viewpoint.py" line="218"/>
         <source>Target Model</source>
         <translation>Цільова модель</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="228"/>
+        <location filename="Viewpoint/Viewpoint.py" line="227"/>
         <source>Target model: </source>
         <translation>Цільова модель: </translation>
     </message>
@@ -607,7 +622,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Ця модель буде центром обертання за допомогою точки огляду 3DOF (наприклад, пухлина)</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="240"/>
+        <location filename="Viewpoint/Viewpoint.py" line="239"/>
         <source>Zoom</source>
         <translation>Збільшити</translation>
     </message>
@@ -628,12 +643,12 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Масштаб перегляду: </translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="274"/>
+        <location filename="Viewpoint/Viewpoint.py" line="273"/>
         <source>Translation</source>
         <translation>Переклад</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="281"/>
+        <location filename="Viewpoint/Viewpoint.py" line="280"/>
         <source>Left/Right (mm): </source>
         <translation>Вліво/вправо (мм): </translation>
     </message>
@@ -663,7 +678,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Камера постійно оновлюватиме своє положення, щоб слідувати за інструментом.</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="328"/>
+        <location filename="Viewpoint/Viewpoint.py" line="327"/>
         <source>Parameters for Auto-Center</source>
         <translation>Параметри для Автоцентру</translation>
     </message>
@@ -678,7 +693,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Виберіть модель, яку має використовувати камера, напр. &apos;tumorModel&apos;</translation>
     </message>
     <message>
-        <location filename="Viewpoint/Viewpoint.py" line="347"/>
+        <location filename="Viewpoint/Viewpoint.py" line="346"/>
         <source>Safe Zone (Viewport X percentage): </source>
         <translation>Безпечна зона (вікно перегляду X у відсотках): </translation>
     </message>
@@ -771,10 +786,10 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
 <context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
-        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="18"/>
-        <location filename="ModelRegistration/ModelRegistration.py" line="19"/>
-        <location filename="SequenceReplay/SequenceReplay.py" line="36"/>
-        <location filename="Viewpoint/Viewpoint.py" line="14"/>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="17"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
+        <location filename="Viewpoint/Viewpoint.py" line="13"/>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="78"/>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="62"/>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="95"/>
@@ -791,12 +806,12 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>IGT</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLoadable.py" line="19"/>
+        <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
         <translation>Посібник</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="22"/>
+        <location filename="TextureModel/TextureModel.py" line="21"/>
         <source>Surface Models</source>
         <translation>Модельний поверхості</translation>
     </message>
@@ -814,11 +829,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Набір параметрів:</translation>
     </message>
     <message>
-        <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="35"/>
-        <source>vtkMRMLBreachWarningNode</source>
-        <translation>Вузол попередження про порушення vtkMRML</translation>
-    </message>
-    <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="64"/>
         <source>Inputs</source>
         <translation>Вхідні дані</translation>
@@ -829,19 +839,9 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Модель для перегляду:</translation>
     </message>
     <message>
-        <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="84"/>
-        <source>vtkMRMLModelNode</source>
-        <translation>вузол моделі vtkMRML</translation>
-    </message>
-    <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
         <translation>Перетворення підказки (до RAS): </translation>
-    </message>
-    <message>
-        <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>вузол лінійного перетворення vtkMRML</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
@@ -927,147 +927,103 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Очки збиратимуться відповідно до початку цієї системи координат.</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>вузол лінійного перетворення vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
-        <source>vtkMRMLBSplineTransformNode</source>
-        <translation>splinter vtkMRML і для вузла</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
-        <source>vtkMRMLGridTransformNode</source>
-        <translation>вузол перетворення сітки vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
-        <source>vtkMRMLTransformNode</source>
-        <translation>вузол перетворення vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="57"/>
-        <source>vtkMRMLCollectPointsNode</source>
-        <translation>vtkMRML збір балів вузол</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="68"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="67"/>
         <source>Toggle visibility of the output node</source>
         <translation>Перемкнути видимість вихідного вузла</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="71"/>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="85"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="70"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="84"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="82"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="81"/>
         <source>Delete the last point from the output node (hold click to see the option delete all)</source>
         <translation>Видалити останню точку з вихідного вузла (утримуйте клацання, щоб побачити опцію видалити все)</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="96"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="95"/>
         <source>Store points in either a markups or a model node</source>
         <translation>Зберігайте точки або в розмітці, або у вузлі моделі</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
-        <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>vtkMRML розмітки фідуальний вузол</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
-        <source>vtkMRMLModelNode</source>
-        <translation>вузол моделі vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
-        <source>vtkMRMLMarkupsCurveNode</source>
-        <translation>вузол кривої розмітки vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="116"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="115"/>
         <source>Change the color of the output node</source>
         <translation>Змініть колір вихідного вузла</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="128"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="127"/>
         <source>Output Node:</source>
         <translation>Вихідний вузол:</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="137"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="136"/>
         <source>Collect points either one at a time, or collect them automatically (tick the checkbox).</source>
         <translation>Збирайте бали по одному або збирайте їх автоматично (поставте прапорець).</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="140"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="139"/>
         <source>Collect</source>
         <translation>Збирати</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="146"/>
         <source>Advanced</source>
         <translation>Просунутий</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="156"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="155"/>
         <source>Label Base:</source>
         <translation>База етикеток:</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="163"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="162"/>
         <source>Markups will be numbered according to the current counter (incremented automatically)</source>
         <translation>Націнки будуть пронумеровані відповідно до поточного лічильника (збільшуються автоматично)</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="170"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="169"/>
         <source>Minimum Distance:</source>
         <translation>Мінімальна відстань:</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="177"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="176"/>
         <source>Next Label Number:</source>
         <translation>Наступний номер етикетки:</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="184"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="183"/>
         <source>Markups will have labels that begin with this text.</source>
         <translation>Розмітки матимуть мітки, які починатимуться з цього тексту.</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="187"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="186"/>
         <source>P</source>
         <translation>P</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="194"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="193"/>
         <source>Specify a minimum distance before a new point is automatically collected (Auto-Collect mode only)</source>
         <translation>Укажіть мінімальну відстань до автоматичного збору нової точки (тільки в режимі автоматичного збору)</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="204"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="203"/>
         <source>Points will be collected relative to the anchor coordinate system.</source>
         <translation>Точки збиратимуться відносно опорної системи координат.</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="225"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="223"/>
         <source>Anchor Node:</source>
         <translation>Якірний вузол:</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="252"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="250"/>
         <source>Delete All Points</source>
         <translation>Видалити всі точки</translation>
     </message>
     <message>
-        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="255"/>
+        <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="253"/>
         <source>Delete all points from the node</source>
         <translation>Видалити всі точки з вузла</translation>
     </message>
@@ -1267,11 +1223,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Дисплей</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="41"/>
-        <source>vtkMRMLFiducialRegistrationWizardNode</source>
-        <translation>вузол майстра довірчої реєстрації vtkMRML</translation>
-    </message>
-    <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
         <source>From fiducials</source>
         <translation>З довірених осіб</translation>
@@ -1290,13 +1241,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="80"/>
         <source>Place fiducials using transforms</source>
         <translation>Розмістіть фідуціали за допомогою трансформацій</translation>
-    </message>
-    <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="95"/>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="113"/>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>вузол лінійного перетворення vtkMRML</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="140"/>
@@ -1319,52 +1263,47 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Перетворення результату реєстрації (Від-&gt;До)</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
-        <source>vtkMRMLTransformNode</source>
-        <translation>вузол перетворення vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="205"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="204"/>
         <source>Result transform type:</source>
         <translation>Тип перетворення результату:</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="218"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="217"/>
         <source>Rigid</source>
         <translation>Жорсткий</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="234"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="233"/>
         <source>Similarity</source>
         <translation>Подібність</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="247"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="246"/>
         <source>Warping</source>
         <translation>Викривлення</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="258"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="257"/>
         <source>Point Matching Method:</source>
         <translation>Метод зіставлення точок:</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="270"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="269"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Перетворення обчислювального виводу з довірчих значень. Установіть прапорець для автоматичного оновлення.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="272"/>
         <source>Update</source>
         <translation>Оновлення</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="286"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="285"/>
         <source>Status:</source>
         <translation>Статус:</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="302"/>
+        <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="301"/>
         <source>Preview transform</source>
         <translation>Попередній перегляд трансформації</translation>
     </message>
@@ -1472,11 +1411,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Вузол параметрів:</translation>
     </message>
     <message>
-        <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="29"/>
-        <source>vtkMRMLLandmarkDetectionNode</source>
-        <translation>vtkMRML орієнтир Вузол виявлення</translation>
-    </message>
-    <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="46"/>
         <source>IO</source>
         <translation>IO</translation>
@@ -1485,17 +1419,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="52"/>
         <source>Stylus tip transform:</source>
         <translation>Трансформація наконечника стилуса:</translation>
-    </message>
-    <message>
-        <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="59"/>
-        <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="83"/>
-        <source>vtkMRMLTransformNode</source>
-        <translation>вузол перетворення vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="71"/>
-        <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>vtkMRML розмітки фідуальний вузол</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="95"/>
@@ -1590,11 +1513,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Шляхи:</translation>
     </message>
     <message>
-        <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="32"/>
-        <source>vtkMRMLPathPlannerTrajectoryNode</source>
-        <translation>vtkMRML вузол траєкторії планувальника шляху</translation>
-    </message>
-    <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="37"/>
         <source>Trajectory list</source>
         <translation>Список траєкторій</translation>
@@ -1679,12 +1597,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="41"/>
         <source>Input (ToolToReference):</source>
         <translation>Введення (ToolToReference):</translation>
-    </message>
-    <message>
-        <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="48"/>
-        <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="64"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>Вузол лінійного перетворення vtkMRML</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="57"/>
@@ -2051,36 +1963,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Водій:</translation>
     </message>
     <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>вузол лінійного перетворення vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRML Вузол скалярного обсягу</translation>
-    </message>
-    <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLMarkupsPlaneNode</source>
-        <translation>vtkMRML розмітки плоского вузла</translation>
-    </message>
-    <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLMarkupsLineNode</source>
-        <translation>вузол лінії розмітки vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="58"/>
-        <source>vtkMRMLAnnotationRulerNode</source>
-        <translation>вузол лінійки анотацій vtkMRML</translation>
-    </message>
-    <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
         <source>Mode:</source>
@@ -2167,11 +2049,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Виберіть вузли для попереднього перегляду трансформації</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="51"/>
-        <source>vtkMRMLTransformableNode</source>
-        <translation>vtkMRML трансформований вузол</translation>
-    </message>
-    <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="68"/>
         <source>Apply transform to selected nodes.</source>
         <translation>Застосувати перетворення до вибраних вузлів.</translation>
@@ -2213,19 +2090,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="46"/>
         <source>Select which transform you want to add below.</source>
         <translation>Виберіть нижче перетворення, яке ви хочете додати.</translation>
-    </message>
-    <message>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="49"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="100"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="118"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="143"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="168"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="306"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="427"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="452"/>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="563"/>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation>вузол лінійного перетворення vtkMRML</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
@@ -2277,11 +2141,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="186"/>
         <source>This stores all parameters for transform processing.</source>
         <translation>Тут зберігаються всі параметри для обробки перетворення.</translation>
-    </message>
-    <message>
-        <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="189"/>
-        <source>vtkMRMLTransformProcessorNode</source>
-        <translation>vtkMRML Transform Processor Node</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="204"/>
@@ -2516,11 +2375,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Ультразвукове зображення: </translation>
     </message>
     <message>
-        <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="47"/>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRML Вузол скалярного обсягу</translation>
-    </message>
-    <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
         <source>Controls</source>
         <translation>Елементи управління</translation>
@@ -2557,19 +2411,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     </message>
 </context>
 <context>
-    <name>qSlicerUltrasoundSnapshotsModuleWidget</name>
-    <message>
-        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="122"/>
-        <source>This action will delete all snapshots.</source>
-        <translation>Ця дія видалить усі знімки.</translation>
-    </message>
-    <message>
-        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="123"/>
-        <source>Continue with this action?</source>
-        <translation>Продовжити цю дію?</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerVolumeReconstructionModule</name>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="14"/>
@@ -2580,11 +2421,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="22"/>
         <source>Volume reconstruction node:</source>
         <translation>Вузол реконструкції обсягу:</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="29"/>
-        <source>vtkMRMLVolumeReconstructionNode</source>
-        <translation>vtkMRML вузол реконструкції обсягу</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="43"/>
@@ -2614,11 +2450,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Вихідний вузол обсягу:</translation>
     </message>
     <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="83"/>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRML Вузол скалярного обсягу</translation>
-    </message>
-    <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="98"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="116"/>
         <source>Region of interest in which the volume should be reconstructed.</source>
@@ -2628,16 +2459,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="101"/>
         <source>ROI node:</source>
         <translation>Вузол ROI:</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
-        <source>vtkMRMLAnnotationROINode</source>
-        <translation>vtkMRML анотація ROI вузол</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
-        <source>vtkMRMLMarkupsROINode</source>
-        <translation>Вузол ROI розмітки vtkMRML</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="138"/>
@@ -2753,16 +2574,6 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="354"/>
         <source>Input volume node:</source>
         <translation>Вузол вхідного обсягу:</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="361"/>
-        <source>vtkMRMLVolumeNode</source>
-        <translation>вузол тому vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="379"/>
-        <source>vtkMRMLSequenceBrowserNode</source>
-        <translation>vtkMRML послідовність браузера вузол</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="394"/>
@@ -3027,24 +2838,9 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <translation>Сторожовий вузол: </translation>
     </message>
     <message>
-        <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="47"/>
-        <source>vtkMRMLWatchdogNode</source>
-        <translation>vtkMRML сторожовий вузол</translation>
-    </message>
-    <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="64"/>
         <source>Observed nodes</source>
         <translation>Спостережувані вузли</translation>
-    </message>
-    <message>
-        <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
-        <source>vtkMRMLTransformNode</source>
-        <translation>вузол перетворення vtkMRML</translation>
-    </message>
-    <message>
-        <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
-        <source>vtkMRMLVolumeNode</source>
-        <translation>вузол тому vtkMRML</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>
