@@ -116,7 +116,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="79"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished">Tutorial Maker – Anotador</translation>
+        <translation>Criador de Tutorial – Anotações</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="92"/>
