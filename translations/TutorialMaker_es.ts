@@ -121,7 +121,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="92"/>
         <source>Title for the slide</source>
-        <translation type="unfinished">Título para la diapositiva</translation>
+        <translation>Título para la diapositiva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="96"/>
