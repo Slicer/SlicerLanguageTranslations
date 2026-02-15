@@ -4,12 +4,6 @@
 <context>
     <name>Main</name>
     <message>
-        <location filename="text_dict_default.json" line="24"/>
-        <source>Select the model Prostate - Multisequence</source>
-        <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="text_dict_default.json" line="8"/>
         <source>AIBasedSegmentationIn3DSlicer</source>
         <extracomment>0_TextBox_0</extracomment>
@@ -58,6 +52,12 @@ Modules’ menu and browse to
         <source>Enter the model’s name Prostate in
 the Segmentation model menu</source>
         <extracomment>4_ArrowText_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="24"/>
+        <source>Select the model Prostate - Multisequence</source>
+        <extracomment>4_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
