@@ -2866,7 +2866,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation>Serie Directorio Holding DICOM</translation>
+        <translation>Series de Directorio Holding DICOM</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
@@ -7095,12 +7095,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="21"/>
         <source>lanczos</source>
-        <translation type="unfinished">lanczos</translation>
+        <translation>lanczos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="22"/>
         <source>blackman</source>
-        <translation type="unfinished">blackman</translation>
+        <translation>blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
@@ -11171,7 +11171,7 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="135"/>
         <source>Otsu</source>
-        <translation type="unfinished">Otsu</translation>
+        <translation>Otsu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="136"/>
@@ -14392,7 +14392,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="253"/>
         <source>Times</source>
-        <translation>Times</translation>
+        <translation>Veces</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="258"/>
@@ -14497,7 +14497,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="123"/>
         <source>Y Axis Column:</source>
-        <translation>Columna Eje Y</translation>
+        <translation>Columna Eje Y:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
@@ -18609,7 +18609,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
         <source>IJK to RAS Direction Matrix:</source>
-        <translation>Matriz de dirección  DAS IJK</translation>
+        <translation>Matriz de dirección DAS IJK:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
@@ -18742,7 +18742,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="29"/>
         <source>Window/Level:</source>
-        <translation>Ventana/Nivel</translation>
+        <translation>Ventana/Nivel:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="37"/>
@@ -22742,7 +22742,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
         <source>Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</source>
-        <translation>Conmuta indicador de visibilidad en todos los puntos de control dentro del listado.  Utilice el menú desplegado para establecer todo lo visible o invisible.</translation>
+        <translation>Conmuta indicador de visibilidad en todos los puntos de control dentro del listado. Utilice el menú desplegado para establecer todo lo visible o invisible.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="319"/>
@@ -23575,12 +23575,12 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="54"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="59"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
 </context>
 <context>
@@ -23782,7 +23782,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="189"/>
         <source>Contributors:</source>
-        <translation type="unfinished">Colaboradores:</translation>
+        <translation>Colaboradores:</translation>
     </message>
 </context>
 <context>
@@ -23821,7 +23821,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="153"/>
         <source>History</source>
-        <translation type="unfinished">Historial</translation>
+        <translation>Historial</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="162"/>
@@ -23831,7 +23831,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="165"/>
         <source>Previous</source>
-        <translation type="unfinished">Anterior</translation>
+        <translation>Anterior</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="166"/>
@@ -23872,7 +23872,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="82"/>
         <source>View</source>
-        <translation type="unfinished">Vista</translation>
+        <translation>Vista</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="95"/>
@@ -23997,7 +23997,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="14"/>
         <source>Node Writer Options</source>
-        <translation type="unfinished">Node Writer Options</translation>
+        <translation>Opciones de Nodo Escritor</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
@@ -24010,7 +24010,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="44"/>
         <source>Plots</source>
-        <translation type="unfinished">Plots</translation>
+        <translation>Tramas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="70"/>
@@ -24125,7 +24125,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="197"/>
         <source>Origin</source>
-        <translation type="unfinished">Origen</translation>
+        <translation>Origen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="215"/>
@@ -24220,12 +24220,12 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="428"/>
         <source>Normal:</source>
-        <translation type="unfinished">Normal:</translation>
+        <translation>Normal:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="435"/>
         <source>Horizontal:</source>
-        <translation type="unfinished">Horizontal:</translation>
+        <translation>Horizontal:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="518"/>
@@ -24511,7 +24511,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="216"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
 </context>
 <context>
@@ -24588,12 +24588,12 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="89"/>
         <source>If checked, the nodes already contained in the scene view will be updated to match the current state of the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcado, los nodos ya contenidos en la vista de escena serán actualizados para coincidir con el estado actual de la escena.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="95"/>
         <source>Capture display nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar nodos de pantalla</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
@@ -24654,13 +24654,13 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
         <source>Restore</source>
-        <translation type="unfinished">Restaurar</translation>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="188"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
         <source>Edit</source>
-        <translation type="unfinished">Editar</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
@@ -24830,7 +24830,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1523"/>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -24878,7 +24878,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1222"/>
         <source>Circle</source>
-        <translation type="unfinished">Círculo</translation>
+        <translation>Círculo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1223"/>
@@ -25046,7 +25046,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="220"/>
@@ -25086,7 +25086,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
@@ -25096,7 +25096,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
         <source>+&gt;</source>
-        <translation type="unfinished">+&gt;</translation>
+        <translation>+&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="419"/>
@@ -25106,7 +25106,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="422"/>
         <source>&lt;+</source>
-        <translation type="unfinished">&lt;+</translation>
+        <translation>&lt;+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="447"/>
@@ -25116,7 +25116,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="450"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="472"/>
@@ -25166,12 +25166,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="606"/>
         <source>Export</source>
-        <translation type="unfinished">Exportar</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="613"/>
         <source>Import</source>
-        <translation type="unfinished">Importar</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="620"/>
@@ -25191,7 +25191,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="663"/>
         <source>Visible</source>
-        <translation type="unfinished">Visible</translation>
+        <translation>Visible</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="671"/>
@@ -25243,7 +25243,7 @@ Por favor, elija un directorio vacío.</translation>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="823"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="866"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="830"/>
@@ -25253,17 +25253,17 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="833"/>
         <source>Force collapse to single layer:</source>
-        <translation type="unfinished">Force collapse to single layer:</translation>
+        <translation>Forzar el colapso a una sola capa:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="840"/>
         <source>Number of segments:</source>
-        <translation type="unfinished">Number of segments:</translation>
+        <translation>Número de segmentos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="856"/>
         <source>Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</source>
-        <translation type="unfinished">Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</translation>
+        <translation>Minimice el número de capas moviendo segmentos a capas compartidas para minimizar el uso de memoria. El contenido de los segmentos no se modifica a menos que haya segmentos superpuestos y se fuerce la contracción a una sola capa.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="859"/>
@@ -25291,7 +25291,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="319"/>
         <source>Volume</source>
-        <translation type="unfinished">Volumen</translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="320"/>
@@ -25301,7 +25301,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="616"/>
         <source>Output type:</source>
-        <translation type="unfinished">Tipo de salida:</translation>
+        <translation>Tipo de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="617"/>
@@ -25364,7 +25364,7 @@ Nota: Esto puede provocar una pérdida de datos no deseada en %5.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished">¡Error al convertir %1 a %2!</translation>
+        <translation>¡Ha fallado al convertir %1 a %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="776"/>
@@ -25615,7 +25615,7 @@ Nota: Esto se aplica a las tablas de segmentos en el Editor de segmentos y los m
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="104"/>
         <source>Sequence browser</source>
-        <translation type="unfinished">Explorador de secuencias</translation>
+        <translation>Explorador de secuencia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="162"/>
@@ -25638,7 +25638,7 @@ Nota: Esto se aplica a las tablas de segmentos en el Editor de segmentos y los m
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished">Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="32"/>
@@ -26475,32 +26475,32 @@ Por defecto: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="509"/>
         <source>Hide ignored modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar módulos ignorados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="512"/>
         <source>Ignored</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="562"/>
         <source>Hide Failed to load modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar Fallo al cargar módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="565"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="632"/>
         <source>Default startup module:</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo de inicio predeterminado:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="676"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregue módulos a la lista arrastrando desde la lista &quot;Módulos&quot; anterior. Nota: Los módulos sin iconos no aparecerán en la barra de herramientas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
@@ -26828,7 +26828,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished">Directorio donde las escenas se guardan por defecto</translation>
+        <translation>Directorio donde las escenas se guardan por defecto</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
@@ -27112,22 +27112,22 @@ p, li { espacio en blanco: preenvoltura; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="166"/>
         <source>Orthographic projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyección ortográfica</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="171"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished">Visibilidad de las sombras</translation>
+        <translation>Visibilidad de sombras</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="176"/>
         <source>Ambient shadows size scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de tamaño de sombreado ambiental</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="181"/>
         <source>Ambient shadows volume opacity threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral de opacidad del volumen de sombras ambiental</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="186"/>
@@ -27164,7 +27164,7 @@ p, li { espacio en blanco: preenvoltura; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="598"/>
         <source>Label</source>
-        <translation type="unfinished">Etiqueta</translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
@@ -27231,7 +27231,7 @@ p, li { espacio en blanco: preenvoltura; }
     <message>
         <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="88"/>
         <source>Show color legend</source>
-        <translation type="unfinished">Mostrar color de leyenda</translation>
+        <translation>Mostrar color de leyenda</translation>
     </message>
 </context>
 <context>
@@ -27615,7 +27615,7 @@ Seleccionar el complemento para agregar el nodo nombrado
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="97"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation type="unfinished">Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</translation>
+        <translation>Seleccione el volumen como imagen en movimiento para el registro. El segundo volumen se puede seleccionar desde el menú contextual después de configurar el primero.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="102"/>
@@ -27785,7 +27785,7 @@ Nota: Esto puede provocar una pérdida de datos no deseada en %4.</translation>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
         <source> (Number of segments: %1)</source>
         <extracomment>parameter is the representation name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> (Número de segmentos: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1058"/>
@@ -27797,7 +27797,7 @@ Please visit the Segmentation module and try the advanced create representation 
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1062"/>
         <source>Failed to export segmentation to labelmap node</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallado al exportar segmentación para nodo labelmap</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1080"/>
@@ -27857,33 +27857,33 @@ Please visit the Segmentation module and try the advanced create representation 
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="102"/>
         <source>Show only this segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo mostrar este segmento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="106"/>
         <source>Show all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todos los segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="110"/>
         <source>Jump slices</source>
-        <translation type="unfinished">Lonchas de salto</translation>
+        <translation>Salto de ranuras</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="114"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Clon</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="121"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="131"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacidad</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="132"/>
         <source>Set segment opacity in the sub-menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer opacidad de semento en el sub-menú</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="239"/>
@@ -28244,7 +28244,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="185"/>
         <source>Ctrl+b</source>
-        <translation type="unfinished">Ctrl+b</translation>
+        <translation>Ctrl+B</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
@@ -28323,17 +28323,17 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="83"/>
         <source>Show in all views</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra en todas las vistas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="86"/>
         <source>2D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="91"/>
         <source>3D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad 3D</translation>
     </message>
 </context>
 <context>
@@ -28341,17 +28341,17 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="95"/>
         <source>Show in 3D views as volume rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra en vistas 3D como representación de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="100"/>
         <source>Volume rendering options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de representación de volumen…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="101"/>
         <source>Switch to Volume Rendering module to manage display options</source>
-        <translation type="unfinished"></translation>
+        <translation>Intercambiar al módulo de Representación de Volumen para gestionar opciones de reproducción</translation>
     </message>
 </context>
 <context>
@@ -28359,22 +28359,22 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="137"/>
         <source>Show volumes in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra volúmenes en carpeta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="140"/>
         <source>Show in slice views as foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra vistas de ranura como fondo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="143"/>
         <source>Reset field of view on show</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer campo de vista al mostrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="148"/>
         <source>Reset view orientation on show</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer orientación de vista en muestra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="155"/>
@@ -28384,12 +28384,12 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="164"/>
         <source>Window/level presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Ventana/preselecciones de nivel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="188"/>
         <source>Default preset for the selected volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Preselección por defecto para el volumen seleccionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="196"/>
@@ -28486,7 +28486,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
         <source>string</source>
-        <translation type="unfinished">cadena</translation>
+        <translation>cadena</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="73"/>
@@ -28852,7 +28852,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesReader.cxx" line="71"/>
         <source>Terminology</source>
-        <translation type="unfinished">Terminología</translation>
+        <translation>Terminología</translation>
     </message>
 </context>
 <context>
@@ -28980,7 +28980,7 @@ Etiquetas: %6</translation>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1874"/>
         <source>%1, %2</source>
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished">%1, %2</translation>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1889"/>
@@ -29103,7 +29103,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="154"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Matriz de Transformación</translation>
+        <translation>Matriz de Transformación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="207"/>
@@ -29420,7 +29420,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="102"/>
         <source>Basic + intersection</source>
-        <translation type="unfinished"></translation>
+        <translation>Básico + intersección</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="103"/>
@@ -29445,7 +29445,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="113"/>
         <source>Small crosshair.</source>
-        <translation>Retícula pequeña</translation>
+        <translation>Retícula pequeña.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="136"/>
@@ -29455,7 +29455,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="137"/>
         <source>Fine crosshair.</source>
-        <translation>Retícula fina</translation>
+        <translation>Retícula fina.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="141"/>
@@ -29533,12 +29533,12 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="229"/>
         <source>Thick lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas gruesas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="230"/>
         <source>Thick lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas gruesas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="245"/>
@@ -29548,7 +29548,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="246"/>
         <source>Show handles for slice interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra manipuladores para interacción de ranura.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="252"/>
@@ -29573,7 +29573,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="264"/>
         <source>Interaction options</source>
-        <translation type="unfinished">Opciones de interacción</translation>
+        <translation>Opciones de interacción</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="269"/>
@@ -29614,12 +29614,12 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="146"/>
         <source>Transfer Function</source>
-        <translation type="unfinished">Función Transferencial</translation>
+        <translation>Función Transferencial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="150"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedad de Sombreador</translation>
     </message>
 </context>
 <context>
@@ -29707,12 +29707,12 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="320"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="357"/>
         <source>Blank value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor en blanco:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="471"/>
@@ -29732,7 +29732,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="512"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad de memoria asignada por volumen representando un la tarjeta gráfica. “Predeterminado” puede ser modificado en los ajustes.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="522"/>
@@ -29752,7 +29752,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="562"/>
         <source>Advanced rendering properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades de renderizado avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="593"/>
@@ -30305,19 +30305,19 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;Documentation&lt;/b&gt;&lt;/p&gt;
+        <translation type="unfinished">&lt;p&gt;&lt;b&gt;Documentación&lt;/b&gt;&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Quick Start&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Get Help&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;User Interface&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Mouse Buttons, &amp;quot;Hot-keys&amp;quot; and Keyboard Shortcuts&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Browse Tutorials&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;Contact Us&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Contáctenos Us&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Visit the Slicer Forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/feed/hashtag/?keywords=3dslicer&quot;&gt;Join Us on LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Search Feature Requests&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Report a Bug&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;About 3D Slicer&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Acerca de 3D Slicer&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;View License&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
@@ -30471,7 +30471,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="52"/>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="728"/>
@@ -30492,7 +30492,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorNode.cxx" line="35"/>
         <source>Color</source>
-        <translation type="unfinished">Color</translation>
+        <translation>Color</translation>
     </message>
 </context>
 <context>
@@ -31032,7 +31032,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelNode.cxx" line="53"/>
         <source>Model</source>
-        <translation type="unfinished">Modelo</translation>
+        <translation>Modelo</translation>
     </message>
 </context>
 <context>
@@ -31197,7 +31197,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeNode.cxx" line="37"/>
         <source>Volume</source>
-        <translation type="unfinished">Volumen</translation>
+        <translation>Volumen</translation>
     </message>
 </context>
 <context>
@@ -31205,7 +31205,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSceneViewNode.cxx" line="42"/>
         <source>Scene View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista de Escena</translation>
     </message>
 </context>
 <context>
@@ -31221,7 +31221,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/Segmentations/MRML/vtkMRMLSegmentEditorNode.cxx" line="50"/>
         <source>Segment Editor</source>
-        <translation type="unfinished">Editor de Segmento</translation>
+        <translation>Editor de Segmento</translation>
     </message>
 </context>
 <context>
@@ -31324,7 +31324,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceCompositeNode.cxx" line="45"/>
         <source>Slice Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>Composición de Rebanada</translation>
     </message>
 </context>
 <context>
@@ -31332,7 +31332,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceDisplayNode.cxx" line="29"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Slice Display</translation>
+        <translation>Pantalla Rebanada</translation>
     </message>
 </context>
 <context>
@@ -31340,7 +31340,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceNode.cxx" line="47"/>
         <source>Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Rebanada</translation>
     </message>
 </context>
 <context>
@@ -31348,7 +31348,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSnapshotClipNode.cxx" line="33"/>
         <source>Snapshot Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de Clip</translation>
     </message>
 </context>
 <context>
@@ -31356,7 +31356,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLStreamingVolumeNode.cxx" line="49"/>
         <source>Streaming Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de Flujo</translation>
     </message>
 </context>
 <context>
@@ -31364,7 +31364,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableNode.cxx" line="66"/>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla</translation>
     </message>
 </context>
 <context>
@@ -31372,7 +31372,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="50"/>
         <source>SQLite Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacén de Tabla SQLite</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="305"/>
@@ -31387,7 +31387,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="80"/>
         <source>Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacén de Tabla</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
@@ -31411,7 +31411,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTensorVolumeNode.cxx" line="32"/>
         <source>Tensor Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de Tensor</translation>
     </message>
 </context>
 <context>
@@ -31419,7 +31419,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextNode.cxx" line="34"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
 </context>
 <context>
@@ -31427,7 +31427,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="44"/>
         <source>Text Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacén de Texto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="226"/>
@@ -31454,7 +31454,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="276"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="290"/>
         <source>Text file (.%1)</source>
-        <translation type="unfinished">Text file (.%1)</translation>
+        <translation>Archivo de texto (.%1)</translation>
     </message>
 </context>
 <context>
@@ -31470,7 +31470,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformNode.cxx" line="54"/>
         <source>Transform</source>
-        <translation type="unfinished">Transformar</translation>
+        <translation>Transformar</translation>
     </message>
 </context>
 <context>
@@ -31643,7 +31643,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="617"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">Propiedad de Volumen MRML</translation>
+        <translation>Propiedad de Volumen MRML</translation>
     </message>
 </context>
 <context>
