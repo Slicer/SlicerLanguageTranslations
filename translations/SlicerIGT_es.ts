@@ -28,7 +28,7 @@ Steve Pieper, Isomics, Inc. y fue fundado parcialmente por NIH grant 3P41RR01321
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
         <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: No se utilizan las transformaciones principales de los fiduciales. Los fiduciales deben definirse en el sistema de coordenadas que se está registrando.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
@@ -295,7 +295,7 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
@@ -451,7 +451,7 @@ Para obtener más información, visite el sitio web del &lt;a href=&apos;https:/
     <message>
         <location filename="TextureModel/TextureModel.py" line="97"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="98"/>
