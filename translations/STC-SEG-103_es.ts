@@ -264,8 +264,8 @@ Clic en Aplicar para iniciar la segmentación</translation>
         <source>Once the segmentation is done, ‘Processing finished’
 appears in the Slicer GUI</source>
         <extracomment>13_ArrowText_1</extracomment>
-        <translation type="unfinished">Una vez la segmentación esté hecha, &apos;procesamiento terminado&apos;
-aparece en la Slicer GUI</translation>
+        <translation>Una vez que la segmentación esté hecha, &apos;Procesamiento terminado&apos;
+aparece en el IGU Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
