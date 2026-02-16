@@ -161,32 +161,32 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="175"/>
         <source>Square</source>
-        <translation type="unfinished">Cuadrado</translation>
+        <translation>Cuadrado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="184"/>
         <source>Arrow</source>
-        <translation type="unfinished">Flecha</translation>
+        <translation>Flecha</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="187"/>
         <source>Arrow text</source>
-        <translation type="unfinished">Texto de flecha</translation>
+        <translation>Texto de flecha</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="193"/>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="208"/>
         <source>color</source>
-        <translation type="unfinished">color</translation>
+        <translation>color</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="212"/>
         <source> thick.</source>
-        <translation type="unfinished"> Espesor.</translation>
+        <translation> espesor.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="284"/>
