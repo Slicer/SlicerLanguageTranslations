@@ -126,7 +126,7 @@ la base de datos Rebanador</translation>
         <location filename="text_dict_default.json" line="8"/>
         <source>AIBasedSegmentationIn3DSlicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished">SegmentaciónBasadaEnIaEn3DSlicer</translation>
+        <translation type="unfinished">AIBasedSegmentationIn3DSlicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
