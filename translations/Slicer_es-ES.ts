@@ -8445,7 +8445,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="778"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation>Error al crear archivos DICOM desde un volumen escalar. Consulte el registro de la aplicación para obtener más información.</translation>
+        <translation>No fue posible crear archivos DICOM desde un volumen escalar. Consulte el registro de la aplicación para obtener más información.</translation>
     </message>
 </context>
 <context>
@@ -8967,7 +8967,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="394"/>
         <source>Module loading failed</source>
-        <translation>Error en la carga del módulo</translation>
+        <translation>No fue posible la carga del módulo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
@@ -9228,7 +9228,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
         <source>Failed to load file: </source>
-        <translation>Error al cargar el archivo: </translation>
+        <translation>No fue posible cargar el archivo: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="142"/>
@@ -15352,7 +15352,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="401"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation>¡Error al convertir %1 a %2!</translation>
+        <translation>¡No fue posible convertir %1 a %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="402"/>
@@ -15843,7 +15843,7 @@ Mantenga pulsado el botón para acceder a las opciones avanzadas de conversión 
         <source>Failed to convert %1 to %2!
 
 Probably there is no valid conversion path between the source representation and %2</source>
-        <translation>¡Error al convertir %1 a %2!
+        <translation>¡No fue posible convertir %1 a %2!
 
 Probablemente no hay una ruta de conversión válida entre la representación de origen y %2</translation>
     </message>
@@ -17322,7 +17322,7 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="476"/>
         <source>Column %1 is invalid. Failed to generate a plot</source>
-        <translation>La columna %1 no es válida. Error al generar un gráfico</translation>
+        <translation>La columna %1 no es válida. No fue posible generar una trama</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="478"/>
@@ -22525,7 +22525,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="356"/>
         <source>Error Log</source>
-        <translation>Bitácora Errónea</translation>
+        <translation>Error de Bitácora</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="366"/>
@@ -23689,7 +23689,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation>&amp; Pruebas</translation>
+        <translation>&amp;Pruebas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="105"/>
@@ -23749,7 +23749,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="275"/>
         <source>Location:</source>
-        <translation type="unfinished">Ubicación:</translation>
+        <translation>Lugar:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="284"/>
@@ -23851,7 +23851,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="181"/>
         <source>Next modules</source>
-        <translation>Próximos módulos</translation>
+        <translation>Módulos siguientes</translation>
     </message>
 </context>
 <context>
@@ -23940,7 +23940,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="159"/>
         <source>Place</source>
-        <translation>Colocar</translation>
+        <translation>Lugar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="360"/>
@@ -24028,22 +24028,22 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="20"/>
         <source>Plots</source>
-        <translation>Dibujos</translation>
+        <translation>Tramas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="46"/>
         <source>Charts</source>
-        <translation>Gráficos</translation>
+        <translation>Diagramas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="58"/>
         <source>Chart:</source>
-        <translation>Gráfico:</translation>
+        <translation>Diagrama:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="94"/>
         <source>Allow plot editing</source>
-        <translation>Permite la edición del diagrama</translation>
+        <translation>Concede editar trama</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="114"/>
@@ -24105,7 +24105,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
         <source>Slice:</source>
-        <translation>Sección:</translation>
+        <translation>Ranura:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
@@ -24120,7 +24120,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="117"/>
         <source>Offset</source>
-        <translation type="unfinished">Offset</translation>
+        <translation>Offset</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="197"/>
@@ -24240,7 +24240,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="562"/>
         <source>Flip slice view vertically (upside-down)</source>
-        <translation>Girar la vista del sector verticalmente (al revés)</translation>
+        <translation>Girar la vista del ranura verticalmente (al revés)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="565"/>
@@ -24430,13 +24430,13 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="845"/>
         <source>Failed to save node %1 to file %2.</source>
-        <translation>Error al guardar el nodo %1 en el archivo %2.</translation>
+        <translation>No fue posible guardar el nodo %1 en el archivo %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1005"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1159"/>
         <source>Scene</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Escena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1463"/>
@@ -24446,7 +24446,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1497"/>
         <source>Saving file...</source>
-        <translation>Guardar el fichero...</translation>
+        <translation>Guardar archivo…</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1498"/>
@@ -24532,7 +24532,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="14"/>
         <source>Scene Options</source>
-        <translation>Opciones del espacio de trabajo</translation>
+        <translation>Opciones de Escena</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="23"/>
@@ -24546,12 +24546,12 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="64"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="102"/>
         <source>MRML Scene</source>
-        <translation>Espacio de trabajo MRML</translation>
+        <translation>Escena MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="131"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
-        <translation>El espacio de trabajo se guardó con la aplicación %1 (esta aplicación es %2).</translation>
+        <translation>La escena fue guardada con la aplicación %1 (esta aplicación es %2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="139"/>
@@ -24691,13 +24691,13 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="176"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-        <translation>Error al guardar el espacio de trabajo como %1 (la ruta %2 no se puede escribir)</translation>
+        <translation>No fue posible guardar la escena como %1 (la ruta %2 no se puede escribir)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="148"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="192"/>
         <source>Failed to save scene as %1</source>
-        <translation>Error al guardar el espacio de trabajo como %1</translation>
+        <translation>No fue posible guardar escena como %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="228"/>
@@ -24721,7 +24721,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
 %2.
 Please choose an empty directory.</source>
         <translation>Directorio seleccionado
-&quot;%1&quot;
+«%1»
 %2.
 Por favor, elija un directorio vacío.</translation>
     </message>
@@ -24820,7 +24820,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1419"/>
         <source>Pixel mode</source>
-        <translation>Modo de píxeles</translation>
+        <translation>Modo pixelar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1420"/>
@@ -24853,17 +24853,17 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1200"/>
         <source>Erase outside</source>
-        <translation>Borrar fuera</translation>
+        <translation>Borrar el exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1201"/>
         <source>Fill inside</source>
-        <translation>Rellene el interior</translation>
+        <translation>Rellenar el interior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
         <source>Fill outside</source>
-        <translation>Rellenar el exterior</translation>
+        <translation>Relleno exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
@@ -25046,17 +25046,17 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="220"/>
         <source>Display settings for the segmentation (all segments)</source>
-        <translation>Parámetros de presentación de la segmentación (todos los segmentos)</translation>
+        <translation>Ajustes de presentación de la segmentación (todos los segmentos)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="223"/>
         <source>Display</source>
-        <translation type="unfinished">Presentar</translation>
+        <translation>Presentar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="250"/>
@@ -25091,7 +25091,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation>Copiar de la segmentación actual a otro nodo (nodo de segmentación para copiar y Modelar o nodo de mapa de etiquetas para importar/exportar)</translation>
+        <translation>Copiar desde segmentación actual a otro nodo (Nodo de segmentación para copiar y nodo Modelo o Mapa de Etiqueta para importar/exportar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
@@ -25101,7 +25101,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="419"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation>Copiar a la segmentación actual desde otro nodo (nodo de segmentación para copiar y Modelar o nodo de mapa de etiquetas para importar/exportar)</translation>
+        <translation>Copiar a segmentación actual desde otro nodo (Nodo de segmentación para copiar y nodo Modelo o Mapa etiquetada para importar/exportar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="422"/>
@@ -25359,7 +25359,7 @@ Nota: Esto puede provocar una pérdida de datos no deseada en %5.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="768"/>
         <source>Failed to copy segment</source>
-        <translation>Error al copiar segmento</translation>
+        <translation>No fue posible copiar segmento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
@@ -25421,22 +25421,22 @@ Lo más probable es que el segmento no se pueda convertir en una representación
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1046"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
-        <translation>Error al copiar etiquetas desde el nodo de volumen labelmap %1!</translation>
+        <translation>No fue posible copiar etiquetas desde el nodo de volumen labelmap %1!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1048"/>
         <source>Failed to import labelmap volume</source>
-        <translation>Error al importar el volumen de mapa de etiquetas</translation>
+        <translation>No fue posible importar el volumen de mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1057"/>
         <source>Failed to copy polydata from model node %1!</source>
-        <translation>Error al copiar polidatos del nodo modelo %1!</translation>
+        <translation>¡No fue posible copiar polidatos del nodo modelo %1!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1059"/>
         <source>Failed to import model node</source>
-        <translation>Error al importar el nodo del modelo</translation>
+        <translation>No fue posible importar el nodo del modelo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1068"/>
@@ -27052,22 +27052,22 @@ p, li { espacio en blanco: preenvoltura; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="99"/>
         <source>Slice view orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño del marcador de vista de orientación de ranura</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
         <source>Slice view ruler type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de regla de vista de ranura</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="109"/>
         <source>patient right is screen left (default)</source>
-        <translation type="unfinished">la derecha del paciente está a la izquierda de la pantalla (predeterminado)</translation>
+        <translation>la derecha del paciente está a la izquierda de la pantalla (predeterminado)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
         <source>patient right is screen right</source>
-        <translation type="unfinished">la derecha del paciente está a la derecha de la pantalla</translation>
+        <translation>la derecha del paciente está a la derecha de la pantalla</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="115"/>
@@ -27620,7 +27620,7 @@ Seleccionar el complemento para agregar el nodo nombrado
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="102"/>
         <source>Register * to this using...</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro * para esto utilizando…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="107"/>
@@ -27792,7 +27792,9 @@ Nota: Esto puede provocar una pérdida de datos no deseada en %4.</translation>
         <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No fue posible crear representación de mapa de etiqueta binaria para segmentación %1 utilizando parámetros de conversión por defecto!
+
+Visite el módulo Segmentación e intente crear la función de representación avanzada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1062"/>
@@ -27809,7 +27811,9 @@ Please visit the Segmentation module and try the advanced create representation 
         <source>Failed to export segments from segmentation %1 to labelmap node!
 
 Most probably the segment cannot be converted into binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No fue posible exportar segmentos desde la segmentación %1 para nodo de etiqueta de mapa!
+
+Mas probablemente el segmento no puede ser convertido en representación de mapa etiqueta binaria</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1100"/>
@@ -27889,13 +27893,14 @@ Please visit the Segmentation module and try the advanced create representation 
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="239"/>
         <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
 Please check the error window for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>ID se segmento del segmento movido (%1) tal vez exista en la segmentación destino.
+Compruebe la ventana de error para detalles.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="242"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="257"/>
         <source>Failed to move segment between segmentations</source>
-        <translation>Error al mover segmentos entre segmentaciones</translation>
+        <translation>No fue posible mover segmentos entre segmentaciones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="247"/>
@@ -28790,7 +28795,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="188"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
-        <translation>Error al leer la tabla de  &apos;%1&apos;</translation>
+        <translation>No fue posible leer la tabla desde  &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -29275,7 +29280,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="736"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation>Error al convertir la transformación. Consultar el registro de la aplicación para obtener más detalles.</translation>
+        <translation>No fue posible convertir la transformación. Consulte el registro de la aplicación para obtener más detalles.</translation>
     </message>
 </context>
 <context>
@@ -29405,17 +29410,17 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="93"/>
         <source>No crosshair displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se exhibe ninguna cruz.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="97"/>
         <source>Basic crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>Mira básica</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="98"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mira básica extendiendo a través del campo de vista con un hueco pequeño en la posición de la mira.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="102"/>
@@ -29627,7 +29632,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen Renderizado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
@@ -29652,7 +29657,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="183"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantalla</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
@@ -29692,7 +29697,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="340"/>
         <source>Clipping:</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="347"/>
@@ -29910,7 +29915,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="111"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished">Recursos auto-liberados:</translation>
+        <translation>Recursos auto-liberados:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="118"/>
@@ -30250,7 +30255,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Comparta sus historias con nosotros en el &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;foro Slicer&lt;/a&gt; y háganos saber cómo 3D Slicer ha permitido su investigación.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
-&lt;p&gt;Siempre estamos interesados en mejorar 3D Slicer, para informarnos sobre su problema o enviar un informe de error, abra &lt;b&gt;Help -&amp;gt; Enviar un Error&lt;/b&gt;.&lt;/p&gt;</translation>
+&lt;p&gt;Siempre estamos interesados en mejorar 3D Slicer, para informarnos sobre su problema o enviar un informe de defecto, abra &lt;b&gt;Help -&amp;gt; Enviar un Defecto&lt;/b&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
@@ -30556,7 +30561,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="359"/>
         <source>Failed to read color from column %1 in line %2, value: &apos;%3&apos;</source>
-        <translation>Error al leer el color de la columna %1 en la línea %2, valor: &apos;%3&apos;</translation>
+        <translation>No fue posible leer el color de la columna %1 en la línea %2, valor: &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="379"/>
@@ -31590,12 +31595,12 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="867"/>
         <source>Failed to delete directory &apos;%1&apos;</source>
-        <translation>Error al eliminar el directorio &apos;%1&apos;</translation>
+        <translation>No fue posible eliminar el directorio &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="875"/>
         <source>Failed to create directory &apos;%1&apos;</source>
-        <translation>Error al crear el directorio &apos;%1&apos;</translation>
+        <translation>No fue posible crear el directorio &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="934"/>
@@ -31605,7 +31610,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="946"/>
         <source>Failed to open directory &apos;%1&apos;</source>
-        <translation>Error al abrir el directorio &apos;%1&apos;</translation>
+        <translation>No fue posible abrir el directorio &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1059"/>
@@ -31615,7 +31620,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1087"/>
         <source>Failed to remove temporary directory &apos;%1&apos;</source>
-        <translation>Error al eliminar el directorio temporal &apos;%1&apos;</translation>
+        <translation>No fue posible eliminar el directorio temporal &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1142"/>
