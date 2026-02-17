@@ -61,7 +61,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
@@ -9371,12 +9371,12 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>Ação</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="35"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>Ficheiro</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
@@ -9411,17 +9411,17 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="79"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="86"/>
         <source>Results</source>
-        <translation type="unfinished">Results</translation>
+        <translation>Resultados</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
@@ -9431,7 +9431,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
         <source>Node</source>
-        <translation type="unfinished">Node</translation>
+        <translation>Nó</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
@@ -9441,7 +9441,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
         <source>SceneView</source>
-        <translation type="unfinished">SceneView</translation>
+        <translation>SceneView</translation>
     </message>
 </context>
 <context>
@@ -11821,7 +11821,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="104"/>
         <source>Amount</source>
-        <translation type="unfinished">Amount</translation>
+        <translation>Quantidade</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
@@ -11831,17 +11831,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="127"/>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="134"/>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
@@ -11856,12 +11856,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
         <source>Times</source>
-        <translation type="unfinished">Times</translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
         <source>Arial</source>
-        <translation type="unfinished">Arial</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
@@ -11923,7 +11923,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
@@ -11958,7 +11958,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Resultados</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="92"/>
@@ -11993,7 +11993,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="172"/>
@@ -12013,7 +12013,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="201"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -12102,7 +12102,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
         <source>Maintenance:</source>
-        <translation type="unfinished">Maintenance:</translation>
+        <translation>Manutenção:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
@@ -12498,7 +12498,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="107"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Captura de ecrã</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="108"/>
@@ -12575,7 +12575,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="14"/>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="66"/>
@@ -12590,7 +12590,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="49"/>
         <source>Union</source>
-        <translation type="unfinished">Union</translation>
+        <translation>União</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="46"/>
@@ -12600,7 +12600,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="35"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>Interseção</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="32"/>
@@ -12624,12 +12624,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="68"/>
         <source>Title:</source>
-        <translation type="unfinished">Title:</translation>
+        <translation>Título:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
@@ -12644,7 +12644,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
@@ -12679,22 +12679,22 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
         <source>Orientation:</source>
-        <translation type="unfinished">Orientation:</translation>
+        <translation>Orientação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="189"/>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="202"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="214"/>
         <source>Position:</source>
-        <translation type="unfinished">Position:</translation>
+        <translation>Posição:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="223"/>
@@ -12706,7 +12706,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
         <source>H:</source>
         <extracomment>abbreviation of &quot;horizontal&quot;</extracomment>
-        <translation type="unfinished">H:</translation>
+        <translation>H:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="252"/>
@@ -12718,12 +12718,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="255"/>
         <source>V:</source>
         <extracomment>abbreviation of &quot;vertical&quot;</extracomment>
-        <translation type="unfinished">V:</translation>
+        <translation>V:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="283"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Tamanho:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
@@ -12736,7 +12736,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
         <source>S:</source>
         <extracomment>abbreviation of &quot;short&quot;</extracomment>
-        <translation type="unfinished">S:</translation>
+        <translation>C:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
@@ -12749,7 +12749,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
         <source>L:</source>
         <extracomment>abbreviation of &quot;long&quot;</extracomment>
-        <translation type="unfinished">L:</translation>
+        <translation>L:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
@@ -12764,7 +12764,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="380"/>
         <source>Format:</source>
-        <translation type="unfinished">Format:</translation>
+        <translation>Formato:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="83"/>
@@ -12797,7 +12797,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="160"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="542"/>
@@ -12860,7 +12860,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Visibilidade</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
@@ -12871,12 +12871,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation type="unfinished">&amp;Selected:</translation>
+        <translation>&amp;Selecionado:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation type="unfinished">&amp;Clip:</translation>
+        <translation>&amp;Clip:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
@@ -12892,7 +12892,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="132"/>
@@ -12907,7 +12907,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="168"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="175"/>
@@ -12949,7 +12949,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="61"/>
         <source>Minimal</source>
-        <translation type="unfinished">Minimal</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
@@ -12993,7 +12993,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="89"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Superfície</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="98"/>
@@ -13018,17 +13018,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="167"/>
         <source>activeScalar</source>
-        <translation type="unfinished">activeScalar</translation>
+        <translation>escalarAtivo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="180"/>
         <source>)^2</source>
-        <translation type="unfinished">)^2</translation>
+        <translation>)^2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="196"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="211"/>
@@ -13043,7 +13043,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="233"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
@@ -13054,7 +13054,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
         <source>Resample</source>
-        <translation type="unfinished">Resample</translation>
+        <translation>Reamostrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="333"/>
@@ -13172,12 +13172,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="424"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="491"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Visibilidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
@@ -13188,19 +13188,19 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="354"/>
         <source>absolute</source>
-        <translation type="unfinished">absolute</translation>
+        <translation>absoluto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="91"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="376"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="566"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
@@ -13210,32 +13210,32 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="148"/>
         <source>Bold</source>
-        <translation type="unfinished">Bold</translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="155"/>
         <source>Italic</source>
-        <translation type="unfinished">Italic</translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="162"/>
         <source>Shadow</source>
-        <translation type="unfinished">Shadow</translation>
+        <translation>Sombra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
         <source>Font:</source>
-        <translation type="unfinished">Font:</translation>
+        <translation>Fonte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
         <source>Background:</source>
-        <translation type="unfinished">Background:</translation>
+        <translation>Fundo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
@@ -13255,7 +13255,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
         <source>Fill:</source>
-        <translation type="unfinished">Fill:</translation>
+        <translation>Enchimento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
@@ -13265,7 +13265,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
@@ -13275,7 +13275,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
         <source>Outline:</source>
-        <translation type="unfinished">Outline:</translation>
+        <translation>Contorno:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="332"/>
@@ -13340,7 +13340,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
         <source>Scalars</source>
-        <translation type="unfinished">Scalars</translation>
+        <translation>Escalares</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="595"/>
@@ -13363,7 +13363,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLMarkupsFiducialProjectionPropertyWidget</source>
-        <translation type="unfinished">qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
+        <translation>qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
@@ -13416,7 +13416,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="148"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="155"/>
@@ -13454,7 +13454,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="140"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Tamanho:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="153"/>
@@ -13464,7 +13464,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="209"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Visibilidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="242"/>
@@ -13484,7 +13484,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="189"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
 </context>
 <context>
@@ -13502,7 +13502,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="52"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="62"/>
@@ -13512,22 +13512,22 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="72"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Tamanho:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="87"/>
         <source>X:</source>
-        <translation type="unfinished">X:</translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="107"/>
         <source>Y:</source>
-        <translation type="unfinished">Y:</translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
         <source>Bounds:</source>
-        <translation type="unfinished">Bounds:</translation>
+        <translation>Limites:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
@@ -13552,12 +13552,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="226"/>
         <source>Normal:</source>
-        <translation type="unfinished">Normal:</translation>
+        <translation>Normal:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="97"/>
@@ -13683,22 +13683,22 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation type="unfinished">Representation:</translation>
+        <translation>Representação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished">Points</translation>
+        <translation>Pontos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
         <source>Wireframe</source>
-        <translation type="unfinished">Wireframe</translation>
+        <translation>Estrutura de arame</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Superfície</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="67"/>
@@ -13718,22 +13718,22 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="91"/>
         <source>Front-facing</source>
-        <translation type="unfinished">Front-facing</translation>
+        <translation>Virado para a frente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="96"/>
         <source>Back-facing</source>
-        <translation type="unfinished">Back-facing</translation>
+        <translation>Virado para trás</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="104"/>
         <source>Clipping:</source>
-        <translation type="unfinished">Clipping:</translation>
+        <translation>Recortar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
@@ -13748,12 +13748,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="132"/>
         <source>Configure...</source>
-        <translation type="unfinished">Configure...</translation>
+        <translation>Configurar...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="154"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="166"/>
@@ -13774,27 +13774,27 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="216"/>
         <source>Lighting:</source>
-        <translation type="unfinished">Lighting:</translation>
+        <translation>Iluminação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="230"/>
         <source>Interpolation:</source>
-        <translation type="unfinished">Interpolation:</translation>
+        <translation>Interpolação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="238"/>
         <source>Flat</source>
-        <translation type="unfinished">Flat</translation>
+        <translation>Liso</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="243"/>
         <source>Gouraud</source>
-        <translation type="unfinished">Gouraud</translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="248"/>
         <source>Phong</source>
-        <translation type="unfinished">Phong</translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="253"/>
@@ -13831,18 +13831,18 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="360"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="558"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Visibilidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="374"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="536"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="406"/>
         <source>Mode:</source>
-        <translation type="unfinished">Mode:</translation>
+        <translation>Modo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="413"/>
@@ -13852,12 +13852,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>Interseção</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="422"/>
         <source>Projection</source>
-        <translation type="unfinished">Projection</translation>
+        <translation>Projeção</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="427"/>
@@ -13867,7 +13867,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="442"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="458"/>
@@ -13882,12 +13882,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="475"/>
         <source>Scalars</source>
-        <translation type="unfinished">Scalars</translation>
+        <translation>Escalares</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="493"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Visibilidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="499"/>
@@ -13897,12 +13897,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="506"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="520"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>Cor:</translation>
     </message>
 </context>
 <context>
@@ -13925,17 +13925,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="47"/>
         <source>mm^2</source>
-        <translation type="unfinished">mm^2</translation>
+        <translation>mm^2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="57"/>
         <source>Volume:</source>
-        <translation type="unfinished">Volume:</translation>
+        <translation>Volume:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="67"/>
         <source>mm^3</source>
-        <translation type="unfinished">mm^3</translation>
+        <translation>mm^3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="77"/>
@@ -13955,7 +13955,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
         <source>Filename:</source>
-        <translation type="unfinished">Filename:</translation>
+        <translation>Nome do ficheiro:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="185"/>
@@ -13964,27 +13964,27 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="229"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="260"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="195"/>
         <source>Verts</source>
-        <translation type="unfinished">Verts</translation>
+        <translation>Verts</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="212"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="239"/>
         <source>Polys</source>
-        <translation type="unfinished">Polys</translation>
+        <translation>Polys</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="246"/>
         <source>Strips</source>
-        <translation type="unfinished">Strips</translation>
+        <translation>Tiras</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="253"/>
@@ -14002,7 +14002,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="26"/>
         <source>qMRMLNodeAttributeTableView</source>
-        <translation type="unfinished">qMRMLNodeAttributeTableView</translation>
+        <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
@@ -14035,7 +14035,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="14"/>
         <source>qMRMLNodeAttributeTableWidget</source>
-        <translation type="unfinished">qMRMLNodeAttributeTableWidget</translation>
+        <translation>qMRMLNodeAttributeTableWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="35"/>
@@ -14050,7 +14050,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="77"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="103"/>
@@ -14060,7 +14060,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="106"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="118"/>
@@ -14073,7 +14073,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="62"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="233"/>
@@ -14124,7 +14124,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="586"/>
         <source>node</source>
-        <translation type="unfinished">node</translation>
+        <translation>nó</translation>
     </message>
 </context>
 <context>
@@ -14197,17 +14197,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="248"/>
         <source>Arial</source>
-        <translation type="unfinished">Arial</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="253"/>
         <source>Times</source>
-        <translation type="unfinished">Times</translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="258"/>
         <source>Courier</source>
-        <translation type="unfinished">Courier</translation>
+        <translation>Courier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="266"/>
@@ -14282,17 +14282,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="86"/>
         <source>line</source>
-        <translation type="unfinished">line</translation>
+        <translation>linha</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="91"/>
         <source>bar</source>
-        <translation type="unfinished">bar</translation>
+        <translation>barra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="96"/>
         <source>scatter</source>
-        <translation type="unfinished">scatter</translation>
+        <translation>dispersão</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="101"/>
@@ -14318,57 +14318,57 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="195"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="156"/>
         <source>cross</source>
-        <translation type="unfinished">cross</translation>
+        <translation>cruz</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="161"/>
         <source>plus</source>
-        <translation type="unfinished">plus</translation>
+        <translation>mais</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="166"/>
         <source>square</source>
-        <translation type="unfinished">square</translation>
+        <translation>quadrado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="171"/>
         <source>circle</source>
-        <translation type="unfinished">circle</translation>
+        <translation>círculo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="176"/>
         <source>diamond</source>
-        <translation type="unfinished">diamond</translation>
+        <translation>diamante</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="200"/>
         <source>solid</source>
-        <translation type="unfinished">solid</translation>
+        <translation>sólido</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="205"/>
         <source>dash</source>
-        <translation type="unfinished">dash</translation>
+        <translation>traço</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="210"/>
         <source>dot</source>
-        <translation type="unfinished">dot</translation>
+        <translation>ponto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="215"/>
         <source>dash-dot</source>
-        <translation type="unfinished">dash-dot</translation>
+        <translation>traço-ponto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="220"/>
         <source>dash-dot-dot</source>
-        <translation type="unfinished">dash-dot-dot</translation>
+        <translation>traço-ponto-ponto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="258"/>
@@ -14398,7 +14398,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="293"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>Cor:</translation>
     </message>
 </context>
 <context>
@@ -14429,7 +14429,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="54"/>
         <source>Export...</source>
-        <translation type="unfinished">Export...</translation>
+        <translation>Exportar...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
@@ -14459,17 +14459,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
         <source>line</source>
-        <translation type="unfinished">line</translation>
+        <translation>linha</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="123"/>
         <source>bar</source>
-        <translation type="unfinished">bar</translation>
+        <translation>barra</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="128"/>
         <source>scatter</source>
-        <translation type="unfinished">scatter</translation>
+        <translation>dispersão</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="133"/>
@@ -14509,7 +14509,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="183"/>
         <source>Grid</source>
-        <translation type="unfinished">Grid</translation>
+        <translation>Grelha</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="186"/>
@@ -14519,7 +14519,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="194"/>
         <source>Legend</source>
-        <translation type="unfinished">Legend</translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="197"/>
@@ -14529,7 +14529,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"/>
         <source>Fit_to_window</source>
-        <translation type="unfinished">Fit_to_window</translation>
+        <translation>Ajustar_à_janela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
@@ -14539,7 +14539,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="107"/>
         <source>P</source>
-        <translation type="unfinished">P</translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="330"/>
@@ -14629,7 +14629,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="80"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="85"/>
@@ -14664,7 +14664,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
         <source>Threshold:</source>
-        <translation type="unfinished">Threshold:</translation>
+        <translation>Limite:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
@@ -14728,7 +14728,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="189"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
@@ -14773,7 +14773,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="142"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="174"/>
@@ -14806,7 +14806,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="14"/>
         <source>qMRMLSegmentEditorWidget</source>
-        <translation type="unfinished">qMRMLSegmentEditorWidget</translation>
+        <translation>qMRMLSegmentEditorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
@@ -14823,7 +14823,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentation:</translation>
+        <translation>Segmentação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
@@ -14853,7 +14853,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="116"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="127"/>
@@ -14863,7 +14863,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="130"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="144"/>
@@ -14874,7 +14874,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="147"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="427"/>
         <source>Segmentations</source>
-        <translation type="unfinished">Segmentations</translation>
+        <translation>Segmentações</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="191"/>
@@ -14884,7 +14884,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="194"/>
         <source>Undo</source>
-        <translation type="unfinished">Undo</translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="211"/>
@@ -14894,7 +14894,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="214"/>
         <source>Redo</source>
-        <translation type="unfinished">Redo</translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
@@ -14904,7 +14904,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="333"/>
@@ -14914,7 +14914,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="352"/>
         <source>Masking</source>
-        <translation type="unfinished">Masking</translation>
+        <translation>Mascaramento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="376"/>
@@ -14944,7 +14944,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="413"/>
         <source>Everywhere</source>
-        <translation type="unfinished">Everywhere</translation>
+        <translation>Em todo o lado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="414"/>
@@ -15036,7 +15036,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2387"/>
         <source>Inside </source>
-        <translation type="unfinished">Inside </translation>
+        <translation>Dentro </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3460"/>
@@ -15049,12 +15049,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="14"/>
         <source>qMRMLSegmentSelectorWidget</source>
-        <translation type="unfinished">qMRMLSegmentSelectorWidget</translation>
+        <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
         <source>Segment: </source>
-        <translation type="unfinished">Segment: </translation>
+        <translation>Segmento: </translation>
     </message>
 </context>
 <context>
@@ -15067,12 +15067,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
         <source>Converting</source>
-        <translation type="unfinished">Converting</translation>
+        <translation>Converter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="57"/>
         <source>in</source>
-        <translation type="unfinished">in</translation>
+        <translation>em</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
@@ -18443,7 +18443,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="261"/>
         <source>VolumeTag</source>
-        <translation type="unfinished">VolumeTag</translation>
+        <translation>EtiquetaDeVolume</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="268"/>
@@ -18494,27 +18494,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="29"/>
         <source>Threshold: </source>
-        <translation type="unfinished">Threshold: </translation>
+        <translation>Limite: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="37"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="42"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="47"/>
         <source>Off</source>
-        <translation type="unfinished">Off</translation>
+        <translation>Desligado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="60"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -18551,7 +18551,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
-        <translation type="unfinished">W: </translation>
+        <translation>W: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
@@ -18561,12 +18561,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
-        <translation type="unfinished">L: </translation>
+        <translation>L: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -18815,17 +18815,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="14"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Ações</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="27"/>
         <source>Shortcuts</source>
-        <translation type="unfinished">Shortcuts</translation>
+        <translation>Atalhos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="44"/>
         <source>More...</source>
-        <translation type="unfinished">More...</translation>
+        <translation>Mais...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="72"/>
@@ -18843,17 +18843,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
         <source>Fiducial</source>
-        <translation type="unfinished">Fiducial</translation>
+        <translation>Fiduciário</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>Régua</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
 </context>
 <context>
@@ -18989,54 +18989,54 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="417"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="885"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="420"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="894"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>Módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="423"/>
         <source>Appearance</source>
-        <translation type="unfinished">Appearance</translation>
+        <translation>Aparência</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="426"/>
         <source>Views</source>
-        <translation type="unfinished">Views</translation>
+        <translation>Vistas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="430"/>
         <source>User</source>
-        <translation type="unfinished">User</translation>
+        <translation>Utilizador</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="434"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="438"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="442"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>Internationalização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="448"/>
         <source>Python</source>
-        <translation type="unfinished">Python</translation>
+        <translation>Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="453"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>Desenvolvedor</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="563"/>
@@ -19310,7 +19310,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="14"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="47"/>
@@ -19336,7 +19336,7 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="94"/>
         <source>AutoRun</source>
-        <translation type="unfinished">AutoRun</translation>
+        <translation>AutoRun</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
@@ -19346,7 +19346,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="146"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="156"/>
@@ -19356,7 +19356,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="159"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="96"/>
@@ -19417,12 +19417,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Estado:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="156"/>
         <source>Idle</source>
-        <translation type="unfinished">Idle</translation>
+        <translation>Ocioso</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="367"/>
@@ -19440,7 +19440,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Técnica:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
@@ -19486,22 +19486,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="14"/>
         <source>Cameras</source>
-        <translation type="unfinished">Cameras</translation>
+        <translation>Câmeras</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="30"/>
         <source>Camera</source>
-        <translation type="unfinished">Camera</translation>
+        <translation>Câmera</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="39"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
-        <translation type="unfinished">Camera:</translation>
+        <translation>Câmera:</translation>
     </message>
 </context>
 <context>
@@ -19527,7 +19527,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="14"/>
         <source>Colors</source>
-        <translation type="unfinished">Colors</translation>
+        <translation>Cores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
@@ -19537,7 +19537,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
         <source>Colors:</source>
-        <translation type="unfinished">Colors:</translation>
+        <translation>Cores:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="153"/>
@@ -19557,7 +19557,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="78"/>
         <source>Create</source>
-        <translation type="unfinished">Create</translation>
+        <translation>Criar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="85"/>
@@ -19577,7 +19577,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="98"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="107"/>
@@ -19761,7 +19761,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
@@ -19812,7 +19812,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="325"/>
@@ -19838,7 +19838,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="361"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="374"/>
@@ -19848,7 +19848,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="394"/>
         <source>Interpolator:</source>
-        <translation type="unfinished">Interpolator:</translation>
+        <translation>Interpolador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="403"/>
@@ -19859,7 +19859,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="406"/>
         <source>B-spline</source>
-        <translation type="unfinished">B-spline</translation>
+        <translation>B-spline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="413"/>
@@ -19879,7 +19879,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="426"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="436"/>
@@ -19918,7 +19918,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="607"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="635"/>
         <source>0,0,0</source>
-        <translation type="unfinished">0,0,0</translation>
+        <translation>0,0,0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="541"/>
@@ -19930,23 +19930,23 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="569"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="655"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>Dimensões:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="576"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="648"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Espaçamento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="692"/>
         <source>Fix</source>
-        <translation type="unfinished">Fix</translation>
+        <translation>Arranjar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="707"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="85"/>
@@ -20046,7 +20046,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="359"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="461"/>
@@ -20074,12 +20074,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Visibilidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
@@ -20104,17 +20104,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
         <source>Tubes</source>
-        <translation type="unfinished">Tubes</translation>
+        <translation>Tubos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
         <source>Ellipsoids</source>
-        <translation type="unfinished">Ellipsoids</translation>
+        <translation>Elipsóides</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
@@ -20124,7 +20124,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Espaçamento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
@@ -20136,19 +20136,19 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="249"/>
         <source>Major</source>
-        <translation type="unfinished">Major</translation>
+        <translation>Principal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
         <source>Middle</source>
-        <translation type="unfinished">Middle</translation>
+        <translation>Meio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="259"/>
         <source>Minor</source>
-        <translation type="unfinished">Minor</translation>
+        <translation>Menor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
@@ -20176,17 +20176,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="78"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>Ficheiro</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="83"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="88"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="106"/>
@@ -20236,12 +20236,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filter:</translation>
+        <translation>Filtro:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
@@ -20350,17 +20350,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
         <source>Red</source>
-        <translation type="unfinished">Red</translation>
+        <translation>Vermelho</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="103"/>
         <source>Yellow</source>
-        <translation type="unfinished">Yellow</translation>
+        <translation>Amarelo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="110"/>
         <source>Green</source>
-        <translation type="unfinished">Green</translation>
+        <translation>Verde</translation>
     </message>
 </context>
 <context>
@@ -20454,7 +20454,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refresh</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
@@ -20691,7 +20691,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="162"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="169"/>
@@ -20711,7 +20711,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="189"/>
         <source>Enable</source>
-        <translation type="unfinished">Enable</translation>
+        <translation>Ativar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="196"/>
@@ -20721,7 +20721,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="199"/>
         <source>Disable</source>
-        <translation type="unfinished">Disable</translation>
+        <translation>Desativar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="92"/>
@@ -20736,7 +20736,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Uninstall</translation>
+        <translation>Desinstalar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="102"/>
@@ -21446,7 +21446,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Técnica:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
@@ -21567,7 +21567,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="35"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="64"/>
@@ -21611,7 +21611,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
 </context>
 <context>
@@ -21624,7 +21624,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="76"/>
         <source>Load/Save</source>
-        <translation type="unfinished">Load/Save</translation>
+        <translation>Carregar/Guardar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="90"/>
@@ -21655,7 +21655,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="148"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="160"/>
@@ -21665,7 +21665,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="207"/>
         <source>&amp;File</source>
-        <translation type="unfinished">&amp;File</translation>
+        <translation>&amp;Ficheiro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="211"/>
@@ -21676,23 +21676,23 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="225"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">&amp;Edit</translation>
+        <translation>&amp;Editar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="238"/>
         <source>&amp;View</source>
-        <translation type="unfinished">&amp;View</translation>
+        <translation>&amp;Vista</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="242"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="304"/>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="280"/>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished">&amp;Toolbars</translation>
+        <translation>&amp;Barra de Ferramentas</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="285"/>
@@ -21702,7 +21702,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="301"/>
         <source>&amp;Help</source>
-        <translation type="unfinished">&amp;Help</translation>
+        <translation>&amp;Ajuda</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="315"/>
@@ -21753,7 +21753,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="372"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished">Ctrl+O</translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="381"/>
@@ -21778,7 +21778,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="574"/>
         <source>Save</source>
-        <translation type="unfinished">Save</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="408"/>
@@ -21788,7 +21788,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="411"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="420"/>
@@ -21823,12 +21823,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="450"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished">Ctrl+W</translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="455"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished">E&amp;xit</translation>
+        <translation>S&amp;air</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="458"/>
@@ -21838,7 +21838,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="467"/>
         <source>Undo</source>
-        <translation type="unfinished">Undo</translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="470"/>
@@ -21848,12 +21848,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="473"/>
         <source>Ctrl+Z</source>
-        <translation type="unfinished">Ctrl+Z</translation>
+        <translation>Ctrl+Z</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="482"/>
         <source>Redo</source>
-        <translation type="unfinished">Redo</translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="485"/>
@@ -21863,7 +21863,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="488"/>
         <source>Ctrl+Y</source>
-        <translation type="unfinished">Ctrl+Y</translation>
+        <translation>Ctrl+Y</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="405"/>
@@ -21888,7 +21888,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="503"/>
         <source>Ctrl+4</source>
-        <translation type="unfinished">Ctrl+4</translation>
+        <translation>Ctrl+4</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="508"/>
@@ -21918,12 +21918,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="534"/>
         <source>Ctrl+2</source>
-        <translation type="unfinished">Ctrl+2</translation>
+        <translation>Ctrl+2</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="543"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="546"/>
@@ -21933,12 +21933,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="549"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished">Ctrl+X</translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="558"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="561"/>
@@ -21948,12 +21948,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="564"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="573"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="576"/>
@@ -21963,7 +21963,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="579"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished">Ctrl+V</translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="590"/>
@@ -21978,7 +21978,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="596"/>
         <source>Ctrl+6</source>
-        <translation type="unfinished">Ctrl+6</translation>
+        <translation>Ctrl+6</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="365"/>
@@ -21988,7 +21988,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="367"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished">Ctrl+0</translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="601"/>
@@ -22018,12 +22018,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="626"/>
         <source>Conventional</source>
-        <translation type="unfinished">Conventional</translation>
+        <translation>Convencionarl</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="638"/>
         <source>Four-Up</source>
-        <translation type="unfinished">Four-Up</translation>
+        <translation>Four-Up</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="650"/>
@@ -22068,7 +22068,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="746"/>
         <source>Compare</source>
-        <translation type="unfinished">Compare</translation>
+        <translation>Comparar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="758"/>
@@ -22089,7 +22089,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="788"/>
         <source>Home</source>
-        <translation type="unfinished">Home</translation>
+        <translation>Página Inicial</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="791"/>
@@ -22099,7 +22099,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="794"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished">Ctrl+H</translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="806"/>
@@ -22434,7 +22434,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="143"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="51"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation>Marcações</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
@@ -22444,7 +22444,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
@@ -22485,7 +22485,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
         <source>Interaction: </source>
-        <translation type="unfinished">Interaction: </translation>
+        <translation>Interação: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
@@ -22510,17 +22510,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
         <source>offset</source>
-        <translation type="unfinished">offset</translation>
+        <translation>desvio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
         <source>centered</source>
-        <translation type="unfinished">centered</translation>
+        <translation>centrado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
@@ -22570,22 +22570,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="501"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="511"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="520"/>
         <source>Coordinates:  </source>
-        <translation type="unfinished">Coordinates:  </translation>
+        <translation>Coordenadas:  </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="533"/>
@@ -22595,7 +22595,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
         <source>World</source>
-        <translation type="unfinished">World</translation>
+        <translation>Global</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="542"/>
@@ -23381,7 +23381,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Módulo de Modelos carrega e ajusta os parâmetros de exibição de modelos como Cor, Transparência e Corte.&lt;br&gt;Guardar modelos através do menu de Ficheiros, botão de Guardar.&lt;br&gt; O Adicionar modelo 3D ou o botão de diretório de modelo permitir-lhe-à carregar qualquer modelo que o Slicer possa ler, bem como os todos os modelos VTK em um diretório. Adicionar Sobreposição Escalar irá carregar um ficheiro escalar e associá-lo-à ao modelo atualmente ativo.&lt;br&gt;Pode ajustar as definições de exibição dos modelos no painel Exibir. Selecione o modelo em que pretende trabalhar a partir do menu suspenso de seleção de modelo. Sobreposições escalares são carregadas com a tabela de cores padrão, mas pode ser reatribuído manualmente. Quando uma nova sobreposição escalar estiver escolhida, o mapa de cores antigo ainda está em uso, e então terá que ser ajustado em conjunto com a sobreposição.&lt;br&gt;Recorte está ligado para o modelo no painel de Exibir, e os planos de corte que irão recortar o modelo são selecionados no painel de Recorte.&lt;br&gt;O Modelo de Hierarquia permite-lhe agrupar modelos e definir propriedades do grupo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"/>
@@ -25583,12 +25583,12 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="411"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="440"/>
         <source>Sequence:</source>
-        <translation type="unfinished">Sequence:</translation>
+        <translation>Sequência:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="298"/>
@@ -25661,7 +25661,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="14"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="23"/>
@@ -25697,7 +25697,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="61"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="90"/>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="80"/>
@@ -25760,7 +25760,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="14"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>Desenvolvedor</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="20"/>
@@ -25791,7 +25791,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="73"/>
         <source>ms</source>
-        <translation type="unfinished">ms</translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="80"/>
@@ -25801,7 +25801,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="89"/>
         <source>launch</source>
-        <translation type="unfinished">launch</translation>
+        <translation>lançar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="111"/>
@@ -25834,7 +25834,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
@@ -25932,7 +25932,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="14"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
@@ -25952,7 +25952,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
         <source>Language</source>
-        <translation type="unfinished">Language</translation>
+        <translation>Língua</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="57"/>
@@ -26085,7 +26085,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>Internationalização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
@@ -26103,7 +26103,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="20"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
@@ -26186,18 +26186,18 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>Caminhos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="289"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="296"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="768"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="338"/>
@@ -26207,12 +26207,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="341"/>
         <source>Modules:</source>
-        <translation type="unfinished">Modules:</translation>
+        <translation>Módulos:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="403"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filtrar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="412"/>
@@ -26242,7 +26242,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="459"/>
         <source>Loaded</source>
-        <translation type="unfinished">Loaded</translation>
+        <translation>Carregado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="509"/>
@@ -26252,7 +26252,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="512"/>
         <source>Ignored</source>
-        <translation type="unfinished">Ignored</translation>
+        <translation>Ignorado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="562"/>
@@ -26262,7 +26262,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="565"/>
         <source>Failed</source>
-        <translation type="unfinished">Failed</translation>
+        <translation>Falhou</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="632"/>
@@ -26287,7 +26287,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="759"/>
         <source>Favorite</source>
-        <translation type="unfinished">Favorite</translation>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="765"/>
@@ -26335,7 +26335,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="14"/>
         <source>Python</source>
-        <translation type="unfinished">Python</translation>
+        <translation>Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
@@ -26405,7 +26405,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="14"/>
         <source>StyleSettings</source>
-        <translation type="unfinished">StyleSettings</translation>
+        <translation>DefiniçõesDeEstilo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="23"/>
@@ -26415,7 +26415,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="49"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>Caminhos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="55"/>
@@ -26437,7 +26437,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="71"/>
@@ -26459,7 +26459,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="103"/>
@@ -26477,7 +26477,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
         <source>Style</source>
-        <translation type="unfinished">Style</translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="130"/>
@@ -26585,7 +26585,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="41"/>
@@ -26595,7 +26595,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="58"/>
         <source>Login:</source>
-        <translation type="unfinished">Login:</translation>
+        <translation>Login:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
@@ -26605,7 +26605,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="95"/>
@@ -26615,7 +26615,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="102"/>
         <source>Organization:</source>
-        <translation type="unfinished">Organization:</translation>
+        <translation>Organização:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="129"/>
@@ -26625,7 +26625,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="132"/>
         <source>Email:</source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="161"/>
@@ -26638,7 +26638,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="14"/>
         <source>ViewsSettings</source>
-        <translation type="unfinished">ViewsSettings</translation>
+        <translation>DefiniçõesDeVista</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="41"/>
@@ -26657,61 +26657,61 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="264"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="82"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>nenhum</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="198"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
         <source>cube</source>
-        <translation type="unfinished">cube</translation>
+        <translation>cubo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="203"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="84"/>
         <source>human</source>
-        <translation type="unfinished">human</translation>
+        <translation>humano</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="208"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="85"/>
         <source>axes</source>
-        <translation type="unfinished">axes</translation>
+        <translation>eixos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="66"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="220"/>
         <source>small</source>
-        <translation type="unfinished">small</translation>
+        <translation>pequeno</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="71"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="225"/>
         <source>medium</source>
-        <translation type="unfinished">medium</translation>
+        <translation>médio</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="76"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="230"/>
         <source>large</source>
-        <translation type="unfinished">large</translation>
+        <translation>grande</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="86"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="250"/>
         <source>Ruler:</source>
-        <translation type="unfinished">Ruler:</translation>
+        <translation>Régua:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="99"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="269"/>
         <source>thin</source>
-        <translation type="unfinished">thin</translation>
+        <translation>fino</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="104"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="274"/>
         <source>thick</source>
-        <translation type="unfinished">thick</translation>
+        <translation>grosso</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="112"/>
@@ -26982,7 +26982,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="282"/>
         <source>Options:</source>
-        <translation type="unfinished">Options:</translation>
+        <translation>Opções:</translation>
     </message>
 </context>
 <context>
@@ -27323,7 +27323,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchyModule.ui" line="14"/>
         <source>SubjectHierarchy</source>
-        <translation type="unfinished">SubjectHierarchy</translation>
+        <translation>HierarquiaDeSujeito</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="49"/>
@@ -27705,12 +27705,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="14"/>
         <source>SubjectHierarchySettingsPanel</source>
-        <translation type="unfinished">SubjectHierarchySettingsPanel</translation>
+        <translation>PainelDeDefiniçõesDeHierarquiaDeSujeito</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="20"/>
         <source>Operation</source>
-        <translation type="unfinished">Operation</translation>
+        <translation>Operação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="29"/>
@@ -27730,7 +27730,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="52"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="138"/>
@@ -28217,7 +28217,7 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
 </context>
 <context>
@@ -28230,7 +28230,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="41"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="58"/>
@@ -28240,32 +28240,32 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
         <source>string</source>
-        <translation type="unfinished">string</translation>
+        <translation>string</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="73"/>
         <source>double</source>
-        <translation type="unfinished">double</translation>
+        <translation>double</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="78"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="83"/>
         <source>bit</source>
-        <translation type="unfinished">bit</translation>
+        <translation>bit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
         <source>char</source>
-        <translation type="unfinished">char</translation>
+        <translation>char</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="98"/>
@@ -28275,12 +28275,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="103"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="108"/>
         <source>long</source>
-        <translation type="unfinished">long</translation>
+        <translation>long</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="113"/>
@@ -28290,12 +28290,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
         <source>__int64</source>
-        <translation type="unfinished">__int64</translation>
+        <translation>__int64</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="123"/>
         <source>idtype</source>
-        <translation type="unfinished">idtype</translation>
+        <translation>idtype</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="128"/>
@@ -28330,7 +28330,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="161"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>Converter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="168"/>
