@@ -4058,7 +4058,15 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleFillholeImageFilter preenche buracos em uma imagem em escalas de cinzentos. Buracos são mínimos locais na topografia da escala de cinzentos que não estão ligados aos limites da imagem. Valores de níveis de cinzento adjacentes a um buraco são extrapolados ao longo do buraco.
+
+Este filtro é utilizado para suavizar sobre mínimos locais sem afetar os valores dos máximos locais. Se tomar a diferença entre o resultado deste filtro e a imagem original (e provavelmente limitar a diferença acima de um valor pequeno), obterá um mapa dos mínimos locais.
+
+Este filtro usa o itkGrayscaleGeodesicErodeImageFilter. Ele fornece o seu próprio input na forma de input &quot;máscara&quot; para a erosão geodésica. A imagem &quot;marcadora&quot; para a erosão geodésica é construída de maneira que os pixeis limite correspondam aos pixeis limite da imagem de entrada e que os pixeis interiores são definidos para o valor máximo de pixel na imagem de entrada.
+
+Morfologia geodésica e o algoritmo de Fillhole são descritos no Capítulo 6 no livro do Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, Segunda Edição, Springer, 2003. 
+
+Um filtro complementar, Redução de Picos de Escala de Cinzentos, remove picos em imagens de escalas de cinzentos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
@@ -4313,7 +4321,13 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaliza os valores da escala de cinzentos da imagem de fonte baseado nos valores da escala de cinzentos da imagem de referência.  Este filtro utiliza uma técnica de correspondência de histogramas onde os histogramas das duas imagens são correspondidos apenas a um número específico de valores de quantis.
+
+O filtro foi originalmente desenhado para normalizar imagens RM do protocolo sameMR e a mesma parte do corpo. O algoritmo funciona melhor se os pixeis do plano de fundo são excluídos dos histogramas fonte e referência.  Um método simples de exclusão de plano de fundo é excluir todos os pixeis cujos valores da escala de cinzentos são menores que o valor médio da escala de cinzentos. ThresholdAtMeanIntensity muda neste simples métodos de exclusão de plano de fundo.
+
+Número de pontos de correspondência governa o número de valores de quantis a serem correspondidos.
+
+O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo de imagem de entrada e saída têm um mesmo número de dimensões e tipos de pixeis escalares.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
@@ -10271,7 +10285,21 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar segmentos para criar segmentação completa&lt;br&gt;.
+        Localização, tamanho, e forma dos segmentos iniciais e conteúdo do volume fonte são considerados.
+        Limites de segmentos finais serão colocados onde o brilho de volume da fonte muda abruptamente. Instruções:&lt;p&gt;
+        &lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;Use Pintar ou outros efeitos para desenhar sementes em cada região que deve pertencer a um segmento separado.
+        Pinte cada semente com um segmento diferente. São precisos dois segmentos, no mínimo.
+        &lt;li&gt;Clique em &lt;dfn&gt;Inicializar&lt;/dfn&gt; para computar uma pré-visualização do segmento completo.
+        &lt;li&gt;Navegue pelos recortes. Se a pré-visualização do resultado do segmento não está correto então mude para
+        Pintar ou outros efeitos e adicione mais sementes à região mal classificada. Segmentação completa será
+        atualizada automaticamente em poucos segundos
+        &lt;li&gt;Clique em &lt;dfn&gt;Aplicar&lt;/dfn&gt; para atualizar a segmentação com o resultado pré-visualizado.
+        &lt;/ul&gt;&lt;p&gt;
+        Se os segmentos se sobrepõem, segmentos mais altos na tabela de segmentos terão prioridade
+        Este efeito usa o &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;método fast grow-cut&lt;/a&gt;.
+        &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="79"/>
