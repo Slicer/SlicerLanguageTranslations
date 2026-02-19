@@ -2677,7 +2677,11 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Executa difusão anisotrópica em uma imagem usando uma equação de difusão de curvatura modificada (MCDE).
+
+MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópica clássica, a qual em certas condições podem sofrer uma difusão &apos;negativa&apos;, que melhora o contraste das bordas.  Equações da forma da MCDE sofrem sempre difusão positiva, onde o termo da condutância apenas varia a intensidade dessa difusão. 
+
+ Qualitativamente, MCDE compara bem com outras técnicas de difusão não-lineares.  É menos sensível a contraste que o estilo clássico de difusão Perona-Malik, e conserva estruturas com detalhe mais fino em imagens.  Há um potencial compromisso de velocidade ao usar esta função em vez da Difusão Gradiente Anisotrópica.  Cada iteração da solução leva aproximadamente o dobro do tempo.  Menos iterações, no entanto, poderão ser precisas para chegar a uma solução aceitável.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
@@ -8630,7 +8634,18 @@ The Frame Delay slider slows down the animation by adding more time between fram
 The View Angle provides is used to approximate the optics of an endoscopy system.
 You can save the camera position at any point by clicking &quot;Save camera position&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Crie ou importe uma curva de marcações.
+Escolha a Câmara a usar para reproduzir o modo de voo ou editar os quadros-chave associados.
+Selecione a Câmara a usar para reproduzir o modo de voo.
+Clicar &quot;Usar esta curva&quot; irá criar uma curva de modo de voo e ativar o painel de modo de voo.
+Pode deslizar manualmente pelo caminho com o controlador deslizante de Quadros.
+O botão de Reproduzir/Pausar altera o modo de voo animado.
+O controlador deslizante de Salto de Quadros acelera a animação ao saltar pontos no caminho.
+O controlador deslizante de Atraso de Quadros abranda a animação ao adicionar mais tempo entre quadros.
+O ângulo de visão é usado para aproximar as óticas de um sistema de endoscopia.
+Pode guardar a posição da câmara em qualquer momento ao clicar em &quot;Guardar posição da câmara&quot;.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
@@ -10879,7 +10894,16 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
 &lt;li&gt;&lt;b&gt;Joint smoothing:&lt;/b&gt; smoothes multiple segments at once, preserving watertight interface between them. Masking settings are bypassed.
 If segments overlap, segment higher in the segments table will have priority. &lt;b&gt;Applied to all visible segments.&lt;/b&gt;
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Faz limites dos segmentos mais suaves&lt;br&gt; ao remover extrusões e encher pequenos buracos. O efeito pode ser aplicado localmente
+(ao pintar nos visualizadores) ou para o segmento inteiro (ao clicar no botão Aplicar). Métodos disponíveis:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Mediano:&lt;/b&gt; remove detalhes pequenos enquanto que mantém pequenos contornos praticamente inalterados. Aplicado apenas ao segmento selecionado.
+&lt;li&gt;&lt;b&gt;Abertura:&lt;/b&gt; remove extrusões mais pequenas que o tamanho do kernel especificado. Aplicado apenas ao segmento selecionado.
+&lt;li&gt;&lt;b&gt;Fechamento:&lt;/b&gt; preenche cantos pontiagudos e buracos mais pequenos que o tamanho do kernel especificado. Aplicado apenas ao segmento selecionado.
+&lt;li&gt;&lt;b&gt;Gaussiana:&lt;/b&gt; suaviza todos os contornos, tende a encolher o segmento. Aplicado apenas ao segmento selecionado.
+&lt;li&gt;&lt;b&gt;Suavização de juntas:&lt;/b&gt; suaviza múltiplos segmentos de uma vez, preservando a interface à prova de água entre eles. Configurações de mascaramento são ignoradas.
+Se os segmentos se sobrepõem, segmentos mais altos na tabela de segmentos terão prioridade. &lt;b&gt;Aplicado a todos os segmentos visíveis.&lt;/b&gt;
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="49"/>
@@ -19542,7 +19566,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="158"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>O &lt;b&gt;Módulo de Cores&lt;/b&gt; gere tabelas de consulta de cores, armazenado em nós de Cores.&lt;br&gt;Estas tabelas traduzem entre um valor numérico e uma cor para exibir vários tipos de dados, como volumes e modelos.&lt;br&gt; Dois tipos de tabelas de consulta estão disponíveis:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Tabela discreta: Lista de nomes de cores é especificado (exemplo: GenericAnatomyColors). Tabelas discretas também podem ser utilizadas para mapeamento contínuo, neste caso as cores são usadas como amostras equidistantes dentro do intervalo especificado, e suavemente interpolados entre elas (exemplo: Cinzento).&lt;/li&gt;&lt;li&gt;Escala contínua: Cor é especificada para valores numéricos arbitrários e o valor de cor pode ser computado ao interpolar suavemente entre estes valores (exemplo: PET-DICOM). Nomes não são especificados para cores.&lt;/li&gt; Todas as tabelas de cores embutidas são apenas de leitura. Para editar cores, crie uma cópia da tabela de cores ao clicar no ícone de pasta de &apos;cópia&apos;.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="179"/>
@@ -30145,7 +30169,14 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Desenvolvimento do 3D Slicer é suportado por &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; e a &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Comunidade Slicer&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; para detalhes.&lt;/p&gt;
+&lt;p&gt;Nós também gostávamos de expressar o nosso sincero agradecimento aos membros da Comunidade de Utilizadores do Slicer que nos têm ajudado a criar os conteúdos deste Módulo de Boas Vindas, e cujo feedback continua a melhorar funcionalidade, estabilidade, usabilidade e a experiência de utilizador do Slicer.&lt;/p&gt;
+&lt;p&gt;Este módulo foi desenvolvido por Jean-Christophe Fillion-Robin e Julien Finet em Kitware, Inc., e por Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis no Brigham and Women&apos;s Hospital.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
