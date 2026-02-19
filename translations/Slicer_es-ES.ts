@@ -6046,7 +6046,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation>Remuestra de una imagen es una tarea importante en análisis de imagen. Es importante especialmente en el registro del marco de imagen. Este módulo implementa imagen DT a través del uso de itk Tranforms. La remuestra está controlada por el Espaciado de Salida. &quot;Remuestra&quot; es realizada en coordenadas de espacio, no coordenadas de pixel/cuadrícula. Es muy importante asegurar que el espaciado de imagen es apropiadamente fijado en la imagen resuelta. Se requiere el interpolador desde la distribución desde un espacio para el otro a menudo requerirá evaluación de la intensidad de la imagen en posiciones no-cuadrícula.</translation>
+        <translation>Remuestra de una imagen es una tarea importante en análisis de imagen. Es importante especialmente en el registro del marco de imagen. Este módulo implementa imagen DT a través del uso de itk Tranforms. La remuestra está controlada por el Espaciado de Salida. &quot;Remuestrar&quot; es realizada en coordenadas de espacio, no coordenadas de píxel/cuadrícula. Es muy importante asegurar que el espaciado de imagen es apropiadamente fijado en la imagen resuelta. Se requiere el interpolador desde la distribución desde un espacio para el otro a menudo requerirá evaluación de la intensidad de la imagen en posiciones no-cuadrícula.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
@@ -6577,9 +6577,9 @@ Warning: To resample DWMR Images, use nrrd input and output files.
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
         <translation>Este módulo implementa el remuestreo de imágenes y de imágenes vectoriales mediante el uso de transformaciones itk. También puede manejar el remuestreo de imágenes de resonancia magnética ponderada por difusión. El &quot;remuestreo&quot; se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de la imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeo de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas.
 
-Advertencia: Para remuestrear imágenes DWMR, utilice archivos de entrada y salida nrrd.
+Advertencia: Para remuestrar imágenes DWMR, utilice archivos de entrada y salida nrrd.
 
-Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los tensores no se reorientarían</translation>
+Advertencia: No utilizar para remuestrar imágenes de tensor de difusión, los tensores no se reorientarían</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
@@ -18452,7 +18452,7 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -23953,7 +23953,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>MultiVolume GPU RayCast</source>
-        <translation type="unfinished">MultiVolume GPU RayCast</translation>
+        <translation>RayCast GPU MultiVolumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
@@ -24666,7 +24666,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="195"/>
         <source>Delete</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
 </context>
 <context>
@@ -24996,7 +24996,7 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="64"/>
         <source>vtkMRMLColorTableNode</source>
-        <translation type="unfinished">vtkMRMLColorTableNode</translation>
+        <translation>vtkMRMLColorTableNode</translation>
     </message>
 </context>
 <context>
@@ -25833,7 +25833,7 @@ Nota: Esto se aplica a las tablas de segmentos en el Editor de segmentos y los m
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="868"/>
         <source>M</source>
-        <translation type="unfinished">M</translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="869"/>
@@ -27170,7 +27170,7 @@ p, li { espacio en blanco: preenvoltura; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="598"/>
         <source>R</source>
-        <translation type="unfinished">R</translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
@@ -27531,7 +27531,7 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="205"/>
         <source>Unstructured grid</source>
-        <translation>Rejilla desestructurada</translation>
+        <translation>Cuadrícula desestructurada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="209"/>
@@ -27855,7 +27855,9 @@ Lo más probable es que el segmento no se pueda convertir a una representación 
         <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear la representación %1 para la segmentación %2 con los parámetros de conversión predeterminados.
+
+Visite el módulo Segmentación y pruebe la función avanzada de creación de representación.</translation>
     </message>
 </context>
 <context>
@@ -28819,7 +28821,7 @@ Etiquetas: %6</translation>
         <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="39"/>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="40"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TemplateKey</translation>
     </message>
 </context>
 <context>
@@ -30313,8 +30315,8 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
         <translation type="unfinished">&lt;p&gt;&lt;b&gt;Documentación&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Quick Start&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Documentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Inicio Rápido&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Get Help&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;User Interface&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Mouse Buttons, &amp;quot;Hot-keys&amp;quot; and Keyboard Shortcuts&lt;/a&gt;&lt;/li&gt;
@@ -30725,7 +30727,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeDisplayNode.cxx" line="37"/>
         <source>Glyphable Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visualización de volumen glifo</translation>
     </message>
 </context>
 <context>
@@ -30733,7 +30735,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeSliceDisplayNode.cxx" line="32"/>
         <source>Glyphable Volume Slice Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nodo de visualización de cortes de volumen con glifos</translation>
     </message>
 </context>
 <context>
@@ -30741,7 +30743,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGridTransformNode.cxx" line="33"/>
         <source>Grid Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de Cuadrícula</translation>
     </message>
 </context>
 <context>
