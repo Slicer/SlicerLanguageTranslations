@@ -291,7 +291,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
         <source>Debug Level</source>
-        <translation>Nivel de Depuración</translation>
+        <translation>Nivel Depurativo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
@@ -439,7 +439,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation>Transformación que se aplicará al imagen en marcha para iniciar registro.   Esto solo se puede usar si el Modo de Iniciar Transformación está apagado.</translation>
+        <translation>Transformación que se aplicará al imagen en marcha para iniciar registro.  Esto solo se puede usar si el Modo de Iniciar Transformación está Apagado.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
@@ -475,12 +475,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
         <source>Registration Phases (Check one or more, executed in order listed)</source>
-        <translation>Fases de Registración (Elige uno o más, ejecutados en el orden indicado)</translation>
+        <translation>Fases de Registro (Elige uno o más, ejecutados en el orden indicado)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
         <source>Each of the registration phases will be used to initialize the next phase</source>
-        <translation>Cada una de las fases de registración se usarán para iniciar la próxima fase</translation>
+        <translation>Cada una de las fases de registro se usarán para iniciar la próxima fase</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"/>
@@ -520,37 +520,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>Realizar una registración rígida como parte de las etapas secuenciales de registración.   Esta familia de opciones anula el uso de transformarTipo si cualquiera de ellos se han asignado.</translation>
+        <translation>Realiza un registro rígido como parte de las etapas secuenciales de registro.  Esta familia de opciones anula el uso de transformType si cualquiera de ellos se han asignado.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>Realice un registro EscalaVersor3D como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformarTipo si alguna de ellas está establecida.</translation>
+        <translation>Realice un registro ScaleVersor3D como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>Realice un registro EscalaDesviarVersor3D como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformarTipo si alguna de ellas está establecida.</translation>
+        <translation>Realice un registro ScaleSkewVersor3D como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>Realice un registro Afín como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformarTipo si alguna de ellas está establecida.</translation>
+        <translation>Realice un registro Afín como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>Realice un registro BSpline como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformarTipo si alguna de ellas está establecida.</translation>
+        <translation>Realice un registro BSpline como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>Realice un registro SyN como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformarTipo si alguna de ellas está establecida.</translation>
+        <translation>Realice un registro SyN como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>Realice un registro Compuesto como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformarTipo si alguna de ellas está establecida.</translation>
+        <translation>Realice un registro Composite como parte de los pasos de registro secuencial. Esta serie de opciones invalida el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
@@ -560,12 +560,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation>Opcion de Enmascarar</translation>
+        <translation>Opción de Enmascarar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation>(ROI) Enmascarar entrada fija</translation>
+        <translation>(ROI) Enmascarar entrada fijada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
@@ -575,12 +575,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation>(ROIAUTO) Máscara fija de salida</translation>
+        <translation>(ROIAUTO) Salida de máscara fijada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation>(ROIAUTO) Máscara en movimiento de salida</translation>
+        <translation>(ROIAUTO) Salida de máscara en movimiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
@@ -595,27 +595,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation>Tamaño medio del filtro</translation>
+        <translation>Tamaño Medio del Filtro</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation>Eliminar los Valores Atípicos de intensidad en una cola</translation>
+        <translation>Quitar valor de Intensidad Atípica en una cola</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation>Específica una máscara para considerar solamente una determina región de la imagen para el registro. Si elige ROIAUTO, la máscara se computa utilizando el umbral de Otsu y el relleno de agujeros. Si se elige ROI, la máscara debe especificarse como entrada.</translation>
+        <translation>Específica una máscara para considerar solamente una determina región de la imagen para el registro. Si elige ROIAUTO, la máscara se computa utilizando el umbral de Otsu y el relleno de hueco. Si se elige ROI, la máscara debe especificarse como entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>Si la opción de la máscara es ROI, se requiere el volumen fijo de la máscara binaria de la imagen. Las áreas de la imagen donde el volumen de la máscara tiene el valor cero se ignoran durante el registro.</translation>
+        <translation>Volumen de máscara binaria de imagen fija, requerida si Opción de Máscara es ROI. Las áreas de la imagen donde el volumen de la máscara tiene el valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>Si la opción de máscara es ROI, se requiere el volumen de máscara binaria en movimiento. Las áreas de imagen en las que el volumen de máscara tiene valor cero se ignoran durante el registro.</translation>
+        <translation>Volumen de máscara binaria de imagen en movimiento, requerida si la Opción de Máscara es ROI. Las áreas de imagen en las que el volumen de máscara tiene valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
@@ -645,7 +645,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation>Elimina los vóxeles de intensidad muy alta y muy baja de los volúmenes de entrada. El parámetro especifica el porcentaje medio para determinar los valores atípicos de las intensidades de la imagen. El valor predeterminado es cero, lo que significa que no se eliminarán valores atípicos. Si se establece en 0&apos;005, se descartará el 0&apos;005% de ambos extremos, por lo que en total se ignorará el 0&apos;01% de las intensidades en el cálculo estadístico.</translation>
+        <translation>Quita los vóxeles de intensidad muy alta y muy baja de los volúmenes de entrada. El parámetro especifica el porcentaje medio para determinar los valores atípicos de las intensidades de la imagen. El valor predeterminado es cero, lo que significa que no se eliminarán valores atípicos. Si se establece en 0&apos;005, se descartará el 0&apos;005% de ambos extremos, por lo que en total se ignorará el 0&apos;01% de las intensidades en el cálculo estadístico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
@@ -743,7 +743,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation>Corto</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
@@ -833,47 +833,47 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
         <source>Relaxation Factor</source>
-        <translation>Factor de relajación</translation>
+        <translation>Factor de Relajación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation>Escala de transformación</translation>
+        <translation>Escala de Transformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
         <source>Reproportion Scale</source>
-        <translation>Escala de reproporción</translation>
+        <translation>Escala de Reproporción</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
         <source>Skew Scale</source>
-        <translation>Escala de sesgado</translation>
+        <translation>Escala de Sesgo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation>Desplazamiento máximo de B-Spline</translation>
+        <translation>Desplazamiento Máximo de B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation>El número máximo de iteraciones que se intentarán antes de detener la optimización. Al usar un valor más bajo (500-1000), la registración se verá obligada a terminar antes, pero existe un mayor riesgo de detenerse antes de alcanzar una solución óptima.</translation>
+        <translation>El número máximo de iteraciones que se intentarán antes de detener la optimización. Al usar un valor más bajo (500-1000), el registro se verá obligado a terminar antes, pero existe un mayor riesgo de detenerse antes de alcanzar una solución óptima.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
         <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
-        <translation>Longitud de paso inicial del optimizador. En general, valores más altos permiten recuperar desalineaciones iniciales mayores, pero hay una mayor probabilidad de que la registración no converja.</translation>
+        <translation>Longitud de paso inicial del optimizador. En general, valores más altos permiten recuperar desalineaciones iniciales mayores, pero hay una mayor probabilidad de que el registro no converja.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation>Cada paso en la optimización da pasos de al menos este tamaño. Cuando no se pueden realizar más, la registración está completa. Los valores más pequeños permiten que el optimizador realice ajustes más pequeños, pero el tiempo de registración puede aumentar.</translation>
+        <translation>Cada paso en la optimización da pasos de al menos este tamaño. Cuando no se pueden realizar más, el registro está completa. Los valores más pequeños permiten que el optimizador realice ajustes más pequeños, pero el tiempo de registro puede aumentar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
         <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
-        <translation>Especifica qué tan rápido se reduce la longitud del paso de optimización durante la registración. El valor debe ser mayor que 0 y menor que 1. Los valores más grandes resultan en una disminución más lenta del tamaño del paso, lo que permite recuperar desalineaciones iniciales mayores, pero aumenta el tiempo de registración y la probabilidad de que la registración no converja.</translation>
+        <translation>Especifica qué tan rápido se reduce la longitud del paso de optimización durante el registro. El valor debe ser mayor que 0 y menor que 1. Los valores más grandes resultan en una disminución más lenta del tamaño del paso, lo que permite recuperar desalineaciones iniciales mayores, pero aumenta el tiempo de registro y la probabilidad de que el registro no converja.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
@@ -4085,7 +4085,7 @@ Este filtro utiliza itkGrayscaleGeodesicErodeImageFilter. Esto proporciona su pr
 
 La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille “Análisis Morfológico de Imágenes: Principios y Aplicaciones”, segunda edición, Springer, 2003.
 
-Un filtro complementario, Pico Amolación en Escalada Grisácea, elimina los picos en las imágenes en escala de grises.</translation>
+Un filtro complementario, Pico Amolación en Escalada Grisácea, quita los picos en las imágenes en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
@@ -4143,7 +4143,7 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation>GrayscaleGrindPeakImageFilter elimina los picos en una imagen en escala de grises. Los picos son máximos locales en la topografía en escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un pico se extrapolan a través de él.
+        <translation>GrayscaleGrindPeakImageFilter quita los picos en una imagen en escala de grises. Los picos son máximos locales en la topografía en escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un pico se extrapolan a través de él.
 
 Este filtro se utiliza para suavizar los máximos locales sin afectar los valores de los mínimos locales. Si se toma la diferencia entre la salida de este filtro y la imagen original (y quizás se establece un umbral para la diferencia por encima de un valor pequeño), se obtendrá un mapa de los máximos locales.
 
@@ -5019,7 +5019,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation>Seleccione la reducción objetivo del número de polígonos como un porcentaje decimal (entre 0 y 1) del número de polígonos. Especifica el porcentaje de triángulos que se eliminarán. Por ejemplo, 0&apos;1 significa una reducción del 10% y 0&apos;9 significa una reducción del 90%.</translation>
+        <translation>Seleccione la reducción objetivo del número de polígonos como un porcentaje decimal (entre 0 y 1) del número de polígonos. Especifica el porcentaje de triángulos que se quitarán. Por ejemplo, 0&apos;1 significa una reducción del 10% y 0&apos;9 significa una reducción del 90%.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
@@ -5066,7 +5066,7 @@ El filtro asume que tanto la imagen de origen como la de referencia son del mism
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation>Un archivo mrml que contiene un árbol jerárquico de modelos de plantilla con un nodo de jerarquía por cada color utilizado en la tabla de colores del volumen de entrada. Los nombres de los colores utilizados en los modelos se corresponden con los nombres de la jerarquía de plantillas para crear un árbol de salida multinivel. Cree una jerarquía en la interfaz gráfica dentro de los modelos, guarde una escena y, a continuación, vacíala para eliminar todo excepto la jerarquía del modelo y exhibir nodos.</translation>
+        <translation>Un archivo mrml que contiene un árbol jerárquico de modelos de plantilla con un nodo de jerarquía por cada color utilizado en la tabla de colores del volumen de entrada. Los nombres de los colores utilizados en los modelos se corresponden con los nombres de la jerarquía de plantillas para crear un árbol de salida multinivel. Cree una jerarquía en la interfaz gráfica dentro de los modelos, guarde una escena y, a continuación, vacíala para quitar todo excepto la jerarquía del modelo y exhibir nodos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
@@ -8285,7 +8285,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="146"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation>Si está marcada, se eliminará de los archivos DICOM parcheados cierta información identificable del paciente. Hay muchos campos que pueden identificar a un paciente, esta función no los elimina todos.</translation>
+        <translation>Si está marcada, se quitarán de los archivos DICOM parcheados cierta información identificable del paciente. Hay muchos campos que pueden identificar a un paciente, esta función no los elimina todos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"/>
@@ -8774,12 +8774,12 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="205"/>
         <source>Delete Keyframe Orientation</source>
-        <translation>Borrar orientación de fotogramas clave</translation>
+        <translation>Eliminar Orientación de Fotogramas Clave</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="207"/>
         <source>Delete the saved camera orientation for this frame.</source>
-        <translation>Borra la orientación de cámara guardada para este fotograma.</translation>
+        <translation>Elimina la orientación de cámara guardada para este fotograma.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="216"/>
@@ -9049,7 +9049,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="28"/>
         <source>Remove</source>
-        <translation>Eliminar</translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
@@ -9126,7 +9126,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="62"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Borrar</translation>
+        <translation>&amp;Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="130"/>
@@ -9359,7 +9359,7 @@ el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterá
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="789"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation>Carga fallida (intento {current} de {total}). Imposible borrar e intentar de nuevo cargar {path}</translation>
+        <translation>Carga fallida (intento {current} de {total}). Imposible eliminar e intentar de nuevo cargar {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="793"/>
@@ -10256,7 +10256,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="186"/>
         <source>Segmentation operation is cancelled because an input segment was deleted.</source>
-        <translation>Operación de segmentación está cancelada porque un segmento de entrada fue borrado.</translation>
+        <translation>Operación de segmentación está cancelada porque un segmento de entrada fue eliminado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="264"/>
@@ -10305,7 +10305,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
 &lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
 &lt;li&gt;&lt;b&gt;Pulsar izq:&lt;/b&gt; añade punto.
 &lt;li&gt;&lt;b&gt;Botón izq arrastrar-y-soltar:&lt;/b&gt; añade múltiples puntos.
-&lt;li&gt;&lt;b&gt;x:&lt;/b&gt; borra último punto.
+&lt;li&gt;&lt;b&gt;x:&lt;/b&gt; elimina último punto.
 &lt;li&gt;&lt;b&gt;Pulsación doble izq&lt;/b&gt; o &lt;b&gt;pulsación secundaria&lt;/b&gt; o &lt;b&gt;A&lt;/b&gt; o &lt;b&gt;Intro&lt;/b&gt;: aplica línea saliente.
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
@@ -10518,7 +10518,7 @@ sobre cada operación, pase el ratón por encima de la opción y espere a que ap
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="45"/>
         <source>Keep only the largest island in selected segment, remove all other islands in the segment.</source>
-        <translation>Mantenga sólo la isla más grande del segmento seleccionado, elimine todas las demás islas del segmento.</translation>
+        <translation>Mantenga sólo la isla más grande del segmento seleccionado, quite todas las demás islas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="49"/>
@@ -10528,22 +10528,22 @@ sobre cada operación, pase el ratón por encima de la opción y espere a que ap
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="51"/>
         <source>Click on an island in a slice view to keep that island and remove all other islands in selected segment.</source>
-        <translation>Pulse en una isla en una vista de corte para conservar esa isla y eliminar todas las otras islas en el segmento seleccionado.</translation>
+        <translation>Pulse en una isla en una vista de corte para conservar esa isla y quitar todas las otras islas en el segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="55"/>
         <source>Remove small islands</source>
-        <translation>Retirar islas pequeñas</translation>
+        <translation>Quitar islas pequeñas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="57"/>
         <source>Remove all islands from the selected segment that are smaller than the specified minimum size.</source>
-        <translation>Retira todas las islas desde el segmento seleccionado que son más pequeñas que el tamaño mínimo especificado.</translation>
+        <translation>Quita todas las islas desde el segmento seleccionado que son más pequeñas que el tamaño mínimo especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="61"/>
         <source>Remove selected island</source>
-        <translation>Retirar isla seleccionada</translation>
+        <translation>Quita isla seleccionada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="63"/>
@@ -10568,7 +10568,7 @@ sobre cada operación, pase el ratón por encima de la opción y espere a que ap
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="76"/>
         <source>Create a new segment for each island of selected segment. Islands smaller than minimum size will be removed. Segments will be ordered by island size.</source>
-        <translation>Cree un nuevo segmento para cada isla del segmento seleccionado. Se eliminarán las islas de tamaño inferior al mínimo. Los segmentos se ordenarán por tamaño de isla.</translation>
+        <translation>Cree un nuevo segmento para cada isla del segmento seleccionado. Se quitarán las islas de tamaño inferior al mínimo. Los segmentos se ordenarán por tamaño de isla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="92"/>
@@ -10999,8 +10999,8 @@ If segments overlap, segment higher in the segments table will have priority. &l
         <translation>Haga que los límites de los segmentos sean más suaves&lt;br&gt; eliminando extrusiones y rellenando pequeños huecos. El efecto puede aplicarse localmente
 (pintando en los visores) o a todo el segmento (pulsando el botón Aplicar). Métodos disponibles:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
-&lt;li&gt;&lt;b&gt;Mediana:&lt;/b&gt; elimina pequeños detalles mientras mantiene los contornos suaves casi sin cambios. Se aplica sólo al segmento seleccionado.
-&lt;li&gt;&lt;b&gt;Apertura:&lt;/b&gt; elimina las extrusiones más pequeñas que el tamaño del núcleo especificado. Sólo se aplica al segmento seleccionado.
+&lt;li&gt;&lt;b&gt;Mediana:&lt;/b&gt; quita pequeños detalles mientras mantiene los contornos suaves casi sin cambios. Se aplica sólo al segmento seleccionado.
+&lt;li&gt;&lt;b&gt;Apertura:&lt;/b&gt; quita las extrusiones más pequeñas que el tamaño del núcleo especificado. Sólo se aplica al segmento seleccionado.
 &lt;li&gt;&lt;b&gt;Cerrar:&lt;/b&gt; rellena esquinas afiladas y agujeros más pequeños que el tamaño del núcleo especificado. Se aplica sólo al segmento seleccionado.
 &lt;li&gt;&lt;b&gt;Gaussiano:&lt;/b&gt; suaviza todos los contornos, tiende a encoger el segmento. Se aplica sólo al segmento seleccionado.
 &lt;li&gt;&lt;b&gt;Suavizado conjunto:&lt;/b&gt; suaviza varios segmentos a la vez, preservando la interfaz estanca entre ellos. Se omiten los ajustes de máscara.
@@ -12288,22 +12288,22 @@ Ontario (CCO) y el Ontario Consortium for Adaptive Interventions in Radiation On
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation>Elimina todos los elementos de la base de datos DICOM si el archivo DICOM de referencia no se encuentra en el disco.</translation>
+        <translation>Quita todos los elementos de la base de datos DICOM si el archivo DICOM de referencia no se encuentra en el disco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
         <source>Remove unavailable data sets</source>
-        <translation>Eliminar conjuntos de datos no disponibles</translation>
+        <translation>Quita conjuntos de datos no disponibles</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
         <source>Removes all data from the database and all files that were copied into the database during import.</source>
-        <translation>Elimina todos los datos de la base de datos y todos los archivos que se copiaron en la base de datos durante la importación.</translation>
+        <translation>Quita todos los datos de la base de datos y todos los archivos que se copiaron en la base de datos durante la importación.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
         <source>Remove all data sets</source>
-        <translation>Eliminar todos los conjuntos de datos</translation>
+        <translation>Quita todos los conjuntos de datos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
@@ -14245,7 +14245,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="103"/>
         <source>Remove selected attribute(s)</source>
-        <translation>Quitar atributo(s) seleccionados</translation>
+        <translation>Quita atributo(s) seleccionados</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="106"/>
@@ -14298,7 +14298,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="318"/>
         <source>Delete current %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation>Borrar actual %1</translation>
+        <translation>Eliminar actual %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="680"/>
@@ -14884,7 +14884,7 @@ ese caso, debería apagar (OFF) las opciones de Representación “backface” y
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="27"/>
         <source>Delete Scene</source>
-        <translation>Borrar Escena</translation>
+        <translation>Eliminar Escena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="44"/>
@@ -14894,7 +14894,7 @@ ese caso, debería apagar (OFF) las opciones de Representación “backface” y
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="61"/>
         <source>Delete Node</source>
-        <translation>Borrar Nodo</translation>
+        <translation>Eliminar Nodo</translation>
     </message>
 </context>
 <context>
@@ -15048,12 +15048,12 @@ ese caso, debería apagar (OFF) las opciones de Representación “backface” y
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="127"/>
         <source>Remove selected segment(s)</source>
-        <translation>Eliminar segmentos seleccionados</translation>
+        <translation>Quitar segmentos seleccionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="130"/>
         <source>Remove</source>
-        <translation>Eliminar</translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="144"/>
@@ -15615,7 +15615,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="288"/>
         <source>Exporting may erase data</source>
-        <translation>Exportar puede eliminar datos</translation>
+        <translation>Exportar puede suprimir datos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="294"/>
@@ -15806,7 +15806,7 @@ Haga clic en el botón de flecha abajo para ver operaciones adicionales.</transl
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="246"/>
         <source>Remove %1 representation from segmentation</source>
-        <translation>Eliminar la representación %1 de la segmentación</translation>
+        <translation>Quitar la representación %1 de la segmentación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="256"/>
@@ -17245,7 +17245,7 @@ Nota: si selecciona “No”, la transformación aplicada simplemente se reempla
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="224"/>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="228"/>
@@ -17290,7 +17290,7 @@ Nota: si selecciona “No”, la transformación aplicada simplemente se reempla
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1843"/>
         <source>Delete subject hierarchy branch?</source>
-        <translation>¿Borrar rama jerárquica de asunto?</translation>
+        <translation>¿Eliminar rama jerárquica de asunto?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1844"/>
@@ -17298,7 +17298,7 @@ Nota: si selecciona “No”, la transformación aplicada simplemente se reempla
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-        <translation>El elemento de la jerarquía de materias eliminado tiene elementos secundarios. ¿Desea eliminarlos también?
+        <translation>El elemento de la jerarquía de materias eliminado tiene elementos secundarios. ¿Desea quitarlos también?
 
 Si elije “Sí”, se eliminará toda la rama, incluidos todos los elementos secundarios.
 Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos los elementos secundarios de la jerarquía de materias se eliminarán automáticamente. Esto se puede cambiar posteriormente en la configuración de la aplicación.</translation>
@@ -17402,7 +17402,7 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="187"/>
         <source>Delete column</source>
-        <translation>Borrar columna</translation>
+        <translation>Elimina columna</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="201"/>
@@ -17417,7 +17417,7 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="248"/>
         <source>Delete row</source>
-        <translation>Borrar fila</translation>
+        <translation>Elimina fila</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
@@ -18414,7 +18414,7 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="112"/>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="116"/>
@@ -18452,7 +18452,7 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -19781,12 +19781,12 @@ Capacidades gráficas de este equipo:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="95"/>
         <source>Delete the color legend for the selected displayable node.</source>
-        <translation>Borra la leyenda de color del nodo exhibible seleccionado.</translation>
+        <translation>Eliminar la leyenda de color del nodo exhibible seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="98"/>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="107"/>
@@ -19823,7 +19823,7 @@ Capacidades gráficas de este equipo:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="333"/>
         <source>Delete currently selected color</source>
-        <translation>Borrar color seleccionado actualmente</translation>
+        <translation>Eliminar color seleccionado actualmente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -20890,7 +20890,7 @@ Si no se marca, el conjunto de datos exportado se añadirá a la base de datos D
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
         <source>Click to remove the bookmark.</source>
-        <translation>Pulse para eliminar el marcador.</translation>
+        <translation>Pulse para quitar el marcador.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
@@ -22762,7 +22762,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
         <source>Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</source>
-        <translation>Vacíe la posición de punto(s) de control resaltados desde el listado activo (los puntos de control no serán borrados).</translation>
+        <translation>Vacíe la posición de punto(s) de control resaltados desde el listado activo (los puntos de control no serán eliminados).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
@@ -23119,7 +23119,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Editar: Introduzca el modo de lugar para modificar la posición del punto de control en la vista ranura
 - Omitir: Omite el control &apos;Colocar múltiples puntos de control&apos; sobre el apunte del punto de control.
 - Restaurar: Establece la posición del punto de control a su última posición establecida conocida.
-- Purgar: Purga la posición del punto de control definida, pero no borra el punto de control</translation>
+- Purgar: Purga la posición del punto de control definida, pero no elimina el punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="756"/>
@@ -23139,7 +23139,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="944"/>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
-        <translation>Pulse para desbloquear el número de puntos de control tal que los puntos puedan ser añadidos o borrados</translation>
+        <translation>Pulse para desbloquear el número de puntos de control tal que los puntos puedan ser añadidos o eliminados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="951"/>
@@ -23155,27 +23155,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1545"/>
         <source>Delete %1 control points from this list?</source>
-        <translation>¿Borro %1 puntos de control desde este listado?</translation>
+        <translation>¿Elimino %1 puntos de control desde este listado?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1550"/>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1752"/>
         <source>Delete all %1 control points from this list?</source>
-        <translation>¿Borro todos los %1 puntos de control desde este listado?</translation>
+        <translation>¿Elimino todos los %1 puntos de control desde este listado?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1758"/>
         <source>Delete All</source>
-        <translation>Borrar Todo</translation>
+        <translation>Eliminar Todo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2214"/>
         <source>Delete highlighted control point(s)</source>
-        <translation>Eliminar puntos de control resaltados</translation>
+        <translation>Eliminar puntos de control resaltado(s)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2219"/>
@@ -23302,12 +23302,12 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="135"/>
         <source>Delete all control points</source>
-        <translation>Borra todos los puntos de control</translation>
+        <translation>Elimina todos los puntos de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="138"/>
         <source>Delete all control points in the list</source>
-        <translation>Borra todos los puntos de control de la lista</translation>
+        <translation>Elimina todos los puntos de control de la lista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="147"/>
@@ -23327,7 +23327,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="163"/>
         <source>Clear the position of all control points in the list (the control points will not be deleted).</source>
-        <translation>Vacía la posición de todos los puntos de control dentro de listado (los puntos de control no serán borrados).</translation>
+        <translation>Vacía la posición de todos los puntos de control dentro de listado (los puntos de control no serán eliminados).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="173"/>
@@ -23367,7 +23367,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="149"/>
         <source>Delete options</source>
-        <translation>Borrar opciones</translation>
+        <translation>Eliminar opciones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="166"/>
@@ -23593,7 +23593,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished">El módulo Modelos carga y ajusta los parámetros de visualización de los modelos, como el color, la transparencia y el recorte.&lt;br&gt;Guarde los modelos mediante el botón Guardar del menú Archivo.&lt;br&gt;El botón Agregar modelo 3D o directorio de modelos le permite cargar cualquier modelo que Slicer pueda leer, así como todos los modelos VTK de un directorio. Agregar superposición escalar carga un archivo escalar y lo asocia con el modelo activo.&lt;br&gt;Puede ajustar las propiedades de visualización de los modelos en el panel Visualización. Seleccione el modelo con el que desea trabajar en el menú desplegable del selector de modelos. Las superposiciones escalares se cargan con una tabla de consulta de colores predeterminada, pero se pueden reasignar manualmente. Una vez que se elige una nueva superposición escalar, actualmente todavía se utiliza el mapa de colores antiguo, por lo que debe ajustarse junto con la superposición.&lt;br&gt;El recorte se activa para un modelo en el panel Visualización, y los planos de corte que recortarán el modelo se seleccionan en el panel Recorte.&lt;br&gt;El panel Jerarquía del modelo le permite agrupar modelos y configurar las propiedades del grupo.</translation>
+        <translation>El módulo Modelos carga y ajusta los parámetros de visualización de los modelos, como el color, la transparencia y el recorte.&lt;br&gt;Guarde los modelos mediante el botón Guardar del menú Archivo.&lt;br&gt;El botón Agregar modelo 3D o directorio de modelos le permite cargar cualquier modelo que Slicer pueda leer, así como todos los modelos VTK de un directorio. Agregar superposición escalar carga un archivo escalar y lo asocia con el modelo activo.&lt;br&gt;Puede ajustar las propiedades de visualización de los modelos en el panel Visualización. Seleccione el modelo con el que desea trabajar en el menú desplegable del selector de modelos. Las superposiciones escalares se cargan con una tabla de consulta de colores predeterminada, pero se pueden reasignar manualmente. Una vez que se elige una nueva superposición escalar, actualmente todavía se utiliza el mapa de colores antiguo, por lo que debe ajustarse junto con la superposición.&lt;br&gt;El recorte se activa para un modelo en el panel Visualización, y los planos de corte que recortarán el modelo se seleccionan en el panel Recorte.&lt;br&gt;El panel Jerarquía del modelo le permite agrupar modelos y configurar las propiedades del grupo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"/>
@@ -24235,7 +24235,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="555"/>
         <source>Flip H</source>
-        <translation type="unfinished">Flip H</translation>
+        <translation>Flip H</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="562"/>
@@ -24245,7 +24245,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="565"/>
         <source>Flip V</source>
-        <translation type="unfinished">Flip V</translation>
+        <translation>Flip V</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="572"/>
@@ -24744,12 +24744,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="59"/>
         <source>Erase</source>
-        <translation>Borrar</translation>
+        <translation>Suprimir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="79"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation>Borrar del segmento actual con un pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin:0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; borrar del segmento alrededor del puntero del ratón.&lt;li&gt;&lt; b&gt;Mayús+rueda del ratón&lt;/b&gt; o &lt;b&gt;teclas+/-:&lt;/b&gt; ajusta el tamaño del pincel.&lt;li&gt;&lt;b&gt;Ctrl+rueda del ratón:&lt;/b&gt; vista de corte acercar/alejar.&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en vistas de corte como en 3D.&lt;p&gt;</translation>
+        <translation>Suprime del segmento actual con un pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin:0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; borrar del segmento alrededor del puntero del ratón.&lt;li&gt;&lt; b&gt;Mayús+rueda del ratón&lt;/b&gt; o &lt;b&gt;teclas+/-:&lt;/b&gt; ajusta el tamaño del pincel.&lt;li&gt;&lt;b&gt;Ctrl+rueda del ratón:&lt;/b&gt; vista de corte acercar/alejar.&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en vistas de corte como en 3D.&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -24805,17 +24805,17 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1404"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
-        <translation>Seleccione segmento muestreando la ubicación de los píxelesdonde comienza el trazo del pincel. Si el trazo del pincel comienza en un área vacía, el pincel borra la región resaltada del segmento seleccionado.</translation>
+        <translation>Seleccione segmento muestreando la ubicación de los píxelesdonde comienza el trazo del pincel. Si el trazo del pincel comienza en un área vacía, el pincel suprime la región resaltada del segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1411"/>
         <source>Erase all segments</source>
-        <translation>Borrar todos los segmentos</translation>
+        <translation>Suprime todos los segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1412"/>
         <source>If not checked then highlighted area is erased from all segments. If unchecked then only area is only erased from selected segment.</source>
-        <translation>Si no está marcada, el área resaltada se borra de todos los segmentos. Si no está marcada, solo el área se borra del segmento seleccionado.</translation>
+        <translation>Si no está marcada, el área resaltada se suprime de todos los segmentos. Si no está marcada, solo el área se borra del segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1419"/>
@@ -24848,12 +24848,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1199"/>
         <source>Erase inside</source>
-        <translation>Borrar dentro</translation>
+        <translation>Suprimir dentro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1200"/>
         <source>Erase outside</source>
-        <translation>Borrar el exterior</translation>
+        <translation>Suprimir el exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1201"/>
@@ -25031,12 +25031,12 @@ Por favor, elija un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="174"/>
         <source>Remove selected segment</source>
-        <translation>Suprimir el segmento seleccionado</translation>
+        <translation>Quita el segmento seleccionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="177"/>
         <source>Remove selected</source>
-        <translation>Suprimir los seleccionados</translation>
+        <translation>Quita los seleccionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="191"/>
@@ -25374,7 +25374,7 @@ Nota: Esto puede provocar una pérdida de datos no deseada en %5.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="895"/>
         <source>Export may erase data</source>
-        <translation>La exportación puede borrar datos</translation>
+        <translation>La exportación puede suprimir datos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="900"/>
@@ -25673,7 +25673,7 @@ Nota: Esto se aplica a las tablas de segmentos en el Editor de segmentos y los m
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="134"/>
         <source>Remove the selected sequence(s) from the browser.</source>
-        <translation>Eliminar las secuencias seleccionadas del navegador.</translation>
+        <translation>Quita las secuencias seleccionadas del navegador.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="162"/>
@@ -25961,7 +25961,7 @@ Nota: Esto se aplica a las tablas de segmentos en el Editor de segmentos y los m
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="143"/>
         <source>Delete all files in cache directory</source>
-        <translation>Borra todos los archivos en el directorio caché</translation>
+        <translation>Elimina todos los archivos en el directorio caché</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="146"/>
@@ -26425,7 +26425,7 @@ Por defecto: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="296"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="768"/>
         <source>Remove</source>
-        <translation>Retirar</translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="338"/>
@@ -26520,7 +26520,7 @@ Por defecto: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="765"/>
         <source>Remove selected module from favorites</source>
-        <translation>Eliminar el módulo seleccionado de favoritos</translation>
+        <translation>Quita el módulo seleccionado de favoritos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="775"/>
@@ -26658,7 +26658,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Añade una ruta al complemento de estilo.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Agregar una ruta de complemento de estilo hará que este complemento de estilo (y, por lo tanto, todos sus estilos) sea accesible para la aplicación. Esta acción &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;necesita&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; para reiniciar la aplicación.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -26676,18 +26676,18 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Quita la ruta del complemento del estilo seleccionado actualmente.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Eliminar la ruta de un complemento de estilo hará inaccesible este complemento de estilo (y, por lo tanto, todos sus estilos) la próxima vez que se abra la aplicación. Esta acción &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requiere&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; para reiniciar la aplicación.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
         <source>Remove</source>
-        <translation>Retirar</translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="103"/>
@@ -26696,11 +26696,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Mostrar la interfaz para agregar/eliminar rutas de estilo adicionales.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Mostrar la interfaz para agregar/quitar rutas de estilo adicionales.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
@@ -26714,7 +26714,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -26732,7 +26732,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -26750,7 +26750,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -26768,7 +26768,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -26786,7 +26786,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -27033,7 +27033,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { espacio en blanco: preenvoltura; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -27176,13 +27176,13 @@ p, li { espacio en blanco: preenvoltura; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="599"/>
         <source>A</source>
-        <translation type="unfinished">A</translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="129"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="600"/>
         <source>S</source>
-        <translation type="unfinished">S</translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="408"/>
@@ -27488,7 +27488,7 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="594"/>
         <source>Delete %1</source>
-        <translation>Borrar %1</translation>
+        <translation>Eliminar %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="595"/>
@@ -27709,12 +27709,12 @@ Seleccionar el complemento para agregar el nodo nombrado
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="132"/>
         <source>Remove binary labelmap representation</source>
-        <translation>Eliminar representación binaria de mapa de etiquetas</translation>
+        <translation>Quitar representación binaria de mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="134"/>
         <source>Remove closed surface representation</source>
-        <translation>Eliminar la representación de superficies cerradas</translation>
+        <translation>Quita la representación de superficies cerradas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="137"/>
@@ -27960,7 +27960,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="14"/>
         <source>SubjectHierarchySettingsPanel</source>
-        <translation type="unfinished">SubjectHierarchySettingsPanel</translation>
+        <translation>SubjectHierarchySettingsPanel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="20"/>
@@ -27970,17 +27970,17 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="29"/>
         <source>Delete whole branch under the deleted item from subject hierarchy.</source>
-        <translation>Eliminar toda la rama debajo del elemento suprimido de la jerarquía de temas.</translation>
+        <translation>Elimina toda la rama debajo del elemento suprimido de la jerarquía de temas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="32"/>
         <source>Automatically delete subject hierarchy children:</source>
-        <translation>Eliminar automáticamente los elementos secundarios de la jerarquía de temas:</translation>
+        <translation>Elimina automáticamente los elementos secundarios de la jerarquía de temas:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="39"/>
         <source>Automatically delete subject hierarchy children for nodes removed from the scene.</source>
-        <translation>Eliminar automáticamente los elementos secundarios de la jerarquía de temas para los nodos eliminados de la escena.</translation>
+        <translation>Elimina automáticamente los elementos secundarios de la jerarquía de temas para los nodos retirados de la escena.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="52"/>
@@ -28459,7 +28459,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
-        <translation type="unfinished">qSlicerSuperLoadableModuleTemplateModule</translation>
+        <translation>qSlicerSuperLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -28467,7 +28467,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
-        <translation type="unfinished">SlicerSuperLoadableModuleTemplate</translation>
+        <translation>SlicerSuperLoadableModuleTemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -28631,12 +28631,12 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="260"/>
         <source>Delete all control points</source>
-        <translation>Eliminar todos los puntos de control</translation>
+        <translation>Elimina todos los puntos de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="263"/>
         <source>Delete all control points in the list</source>
-        <translation>Eliminar todos los puntos de control de la lista</translation>
+        <translation>Elimina todos los puntos de control de la lista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="273"/>
@@ -28731,7 +28731,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="218"/>
         <source>Delete column</source>
-        <translation>Borrar columna</translation>
+        <translation>Eliminar columna</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="232"/>
@@ -28746,7 +28746,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="279"/>
         <source>Delete row</source>
-        <translation>Borrar fila</translation>
+        <translation>Eliminar fila</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="293"/>
@@ -28821,7 +28821,7 @@ Etiquetas: %6</translation>
         <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="39"/>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="40"/>
         <source>TemplateKey</source>
-        <translation type="unfinished">TemplateKey</translation>
+        <translation>TemplateKey</translation>
     </message>
 </context>
 <context>
@@ -28869,7 +28869,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="14"/>
         <source>qSlicerTerminologyEditorWidget</source>
-        <translation type="unfinished">qSlicerTerminologyEditorWidget</translation>
+        <translation>qSlicerTerminologyEditorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
@@ -29214,7 +29214,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="471"/>
         <source>Remove the selected transform from the selected transformed nodes</source>
         <oldsource>Remove the active transform from the selected transformed nodes</oldsource>
-        <translation>Eliminar la transformación seleccionada de los nodos transformados seleccionados</translation>
+        <translation>Quitar la transformación seleccionada de los nodos transformados seleccionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="474"/>
@@ -29309,7 +29309,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -30314,23 +30314,23 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;Documentación&lt;/b&gt;&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;b&gt;Documentación&lt;/b&gt;&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Documentación&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Inicio Rápido&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Get Help&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;User Interface&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Mouse Buttons, &amp;quot;Hot-keys&amp;quot; and Keyboard Shortcuts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Browse Tutorials&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Obtener Ayuda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;Interfaz de Usuario&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Botones de Ratón, &amp;quot;Teclas-calientes&amp;quot; y Atajos de Teclado&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Explorar Tutoriales&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;Contáctenos Us&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Visit the Slicer Forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/feed/hashtag/?keywords=3dslicer&quot;&gt;Join Us on LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Search Feature Requests&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Report a Bug&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Visitar el Foro de Slicer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/feed/hashtag/?keywords=3dslicer&quot;&gt;Únete en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Proporciona Soluciones de Características&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Reportar un Defecto&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;Acerca de 3D Slicer&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;View License&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Vista de la Licencia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;Como Citar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Lanzamientos de Slicer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Reconocimientos&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
@@ -30727,7 +30727,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeDisplayNode.cxx" line="37"/>
         <source>Glyphable Volume Display</source>
-        <translation type="unfinished">Visualización de volumen glifo</translation>
+        <translation>Exhibir Volumen Glifable</translation>
     </message>
 </context>
 <context>
@@ -30735,7 +30735,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeSliceDisplayNode.cxx" line="32"/>
         <source>Glyphable Volume Slice Display Node</source>
-        <translation type="unfinished">Nodo de visualización de cortes de volumen con glifos</translation>
+        <translation>Nodo de Exhibición Recorte de Volumen Glifable</translation>
     </message>
 </context>
 <context>
@@ -31017,7 +31017,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.h" line="52"/>
         <source>TL</source>
-        <translation type="unfinished">TL</translation>
+        <translation>TL</translation>
     </message>
 </context>
 <context>
@@ -31569,7 +31569,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="637"/>
         <source>Unable to remove old version of file: &apos;%1&apos;</source>
-        <translation>No es capaz de retirar la versión antigua del archivo: &apos;%1&apos;</translation>
+        <translation>No es capaz de quitar la versión antigua del archivo: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="648"/>
@@ -31624,7 +31624,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1087"/>
         <source>Failed to remove temporary directory &apos;%1&apos;</source>
-        <translation>No fue posible eliminar el directorio temporal &apos;%1&apos;</translation>
+        <translation>No fue posible quitar el directorio temporal &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1142"/>
