@@ -937,7 +937,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="680"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="577"/>
         <source>Delete this version</source>
-        <translation>Eliminar esta versión</translation>
+        <translation>Elimina esta versión</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="681"/>
@@ -949,7 +949,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="682"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="603"/>
         <source>Image Id: </source>
-        <translation>ID de Imagen: </translation>
+        <translation>Id de Imagen: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="683"/>
