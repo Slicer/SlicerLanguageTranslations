@@ -7,13 +7,13 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Slicer Welcome</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bem-vindo ao Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -23,7 +23,8 @@
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
-        <source><byte value="x2"/>Assistant	Professor	of	Radiology	
+        <source>
+            <byte value="x2"></byte>Assistant	Professor	of	Radiology	
 Brigham	and	Women’s	Hospital	
 Harvard	Medical	School	</source>
         <extracomment>0_TextBox_3</extracomment>
