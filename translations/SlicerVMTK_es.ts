@@ -2602,7 +2602,7 @@ Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P4
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="287"/>
         <source>For the &apos;Smoothing::RemoveExtrusion&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation>Para el efecto &apos;Suavizado::EliminarExtrusión&apos; del &apos;Editor de segmentos&apos;.</translation>
+        <translation>Para el efecto &apos;Suavizado::QuitarExtrusión&apos; del &apos;Editor de segmentos&apos;.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="309"/>
@@ -2654,7 +2654,7 @@ gaussiana:</translation>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="449"/>
         <source>Remove overlaps:</source>
-        <translation>Eliminar superposiciones:</translation>
+        <translation>Quitar superposiciones:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="465"/>
