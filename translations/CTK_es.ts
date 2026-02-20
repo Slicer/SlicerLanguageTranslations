@@ -327,7 +327,7 @@ Cerrar la aplicación cancelará todos los cálculos actuales.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="82"/>
         <source>Remove</source>
-        <translation>Eliminar</translation>
+        <translation>Quitar</translation>
     </message>
 </context>
 <context>
@@ -845,7 +845,7 @@ debido a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
         <source>Remove selected series from database</source>
-        <translation>Retira series seleccionados desde base de datos</translation>
+        <translation>Quita series seleccionados desde base de datos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="271"/>
@@ -938,7 +938,7 @@ Do you want to remove the series from the DICOM database?</source>
 Nombre del paciente: %1
 Descripción del estudio: %2
 Descripción de la serie: %3
-¿Desea eliminar la serie de la base de datos DICOM?</translation>
+¿Desea quitar la serie de la base de datos DICOM?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
@@ -956,7 +956,7 @@ Descripción de la serie: %3
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1259"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1337"/>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1177"/>
@@ -973,7 +973,7 @@ Descripción de la serie: %3
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1188"/>
         <source>Delete %1 selected patients</source>
-        <translation>Borra %1 pacientes seleccionados</translation>
+        <translation>Elimina %1 pacientes seleccionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1193"/>
@@ -1007,7 +1007,7 @@ Descripción de la serie: %3
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1262"/>
         <source>Delete %1 selected studies</source>
-        <translation>Borrar %1 estudios seleccionados</translation>
+        <translation>Elimina %1 estudios seleccionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1270"/>
@@ -1027,7 +1027,7 @@ Descripción de la serie: %3
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1340"/>
         <source>Delete %1 selected series</source>
-        <translation>Suprimir %1 series seleccionadas</translation>
+        <translation>Elimina %1 series seleccionadas</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1348"/>
@@ -1151,7 +1151,7 @@ Deteniendo exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="39"/>
         <source>Remove Directory</source>
-        <translation>Eliminar Directorio</translation>
+        <translation>Quitar Directorio</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
@@ -2343,7 +2343,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="57"/>
         <source>Remove Server</source>
-        <translation>Retirar Servidor</translation>
+        <translation>Quitar Servidor</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="64"/>
@@ -2498,7 +2498,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="341"/>
         <source> Remove host</source>
-        <translation> Retirar host</translation>
+        <translation> Quitar host</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="352"/>
@@ -3148,7 +3148,7 @@ Configure al menos un filtro para consultar los servidores y compruebe que al me
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3412"/>
         <source>Delete patient from local database</source>
-        <translation>Borrar paciente desde base de datos local</translation>
+        <translation>Elimina paciente desde base de datos local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3417"/>
@@ -3194,12 +3194,12 @@ Configure al menos un filtro para consultar los servidores y compruebe que al me
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3510"/>
         <source>Delete study from local database</source>
-        <translation>Borrar estudio desde la base de datos local</translation>
+        <translation>Elimina estudio desde la base de datos local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3511"/>
         <source>Delete %1 studies from local database</source>
-        <translation>Borra %1 estudios de la base de datos local</translation>
+        <translation>Elimina %1 estudios de la base de datos local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3516"/>
@@ -3249,12 +3249,12 @@ Configure al menos un filtro para consultar los servidores y compruebe que al me
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3620"/>
         <source>Delete series from local database</source>
-        <translation>Borrar series desde base de datos local</translation>
+        <translation>Elimina series desde base de datos local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3621"/>
         <source>Delete %1 series from local database</source>
-        <translation>Borrar la serie %1 de la base de datos local</translation>
+        <translation>Elimina la serie %1 de la base de datos local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3626"/>
@@ -3279,7 +3279,7 @@ Configure al menos un filtro para consultar los servidores y compruebe que al me
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3702"/>
         <source>Delete all Patients from local database</source>
-        <translation>Borra todos los Pacientes desde la base de datos local</translation>
+        <translation>Elimina todos los Pacientes desde la base de datos local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3823"/>
@@ -3377,7 +3377,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4061"/>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Eliminar</translation>
     </message>
 </context>
 <context>
@@ -3996,7 +3996,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="73"/>
         <source>US</source>
-        <translation type="unfinished">US</translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="80"/>
@@ -4086,7 +4086,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="163"/>
         <source>RG</source>
-        <translation>RG</translation>
+        <translation>IR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="170"/>
@@ -4096,7 +4096,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="173"/>
         <source>ST</source>
-        <translation>TS</translation>
+        <translation>TF</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="180"/>
@@ -4106,7 +4106,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="183"/>
         <source>TG</source>
-        <translation>TG</translation>
+        <translation>GT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="190"/>
@@ -4171,7 +4171,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="250"/>
         <source>RT Treatment Record</source>
-        <translation>Registro de tratamiento de RT</translation>
+        <translation>Registro de Tratamiento de RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
@@ -4196,7 +4196,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="273"/>
         <source>DX</source>
-        <translation>XD</translation>
+        <translation>RD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="280"/>
@@ -4211,12 +4211,12 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="290"/>
         <source>Intra-oral Radiography</source>
-        <translation>Radiografía intraoral</translation>
+        <translation>Radiografía Intraoral</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="293"/>
         <source>IO</source>
-        <translation>IO</translation>
+        <translation>RI</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="300"/>
@@ -4226,12 +4226,12 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="303"/>
         <source>PX</source>
-        <translation>XP</translation>
+        <translation>RP</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="310"/>
         <source>General Microscopy</source>
-        <translation>Microscopía general</translation>
+        <translation>Microscopía General</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="313"/>
@@ -4241,7 +4241,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="320"/>
         <source>Slide Microscopy</source>
-        <translation>Diapositiva de microscopio</translation>
+        <translation>Diapositiva de Microscopio</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="323"/>
@@ -4251,7 +4251,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="330"/>
         <source>External-camera Photography</source>
-        <translation>Fotografía con cámara externa</translation>
+        <translation>Fotografía con Cámara Externa</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="333"/>
@@ -4301,7 +4301,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="380"/>
         <source>Hemodynamic Waveform</source>
-        <translation>Forma de onda hemodinámica</translation>
+        <translation>Forma de Onda Hemodinámica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="383"/>
@@ -4331,7 +4331,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="410"/>
         <source>Ophthalmic Photography</source>
-        <translation>Fotografía oftálmica</translation>
+        <translation>Fotografía Oftálmica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="413"/>
@@ -4341,7 +4341,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="420"/>
         <source>Stereometric Relationship</source>
-        <translation>Relación estereométrica</translation>
+        <translation>Relación Estereométrica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="423"/>
@@ -4351,7 +4351,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="430"/>
         <source>Optical Coherence Tomography</source>
-        <translation>Tomografía de coherencia óptica</translation>
+        <translation>Tomografía de Coherencia Óptica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="433"/>
@@ -4396,7 +4396,7 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="473"/>
         <source>KO</source>
-        <translation>CO</translation>
+        <translation>SCO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="480"/>
@@ -4468,12 +4468,12 @@ Los datos no se eliminarán del servidor PACs.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="43"/>
         <source>Remove selected entries</source>
-        <translation>Retirar apuntes seleccionados</translation>
+        <translation>Quita apuntes seleccionados</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
         <source>Remove</source>
-        <translation>Retirar</translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
@@ -5040,7 +5040,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation>&lt;h1&gt;reproductor de visor de imágenes CTK simple &lt;/h1&gt;contribuido por: &lt;URL&gt;.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt; &lt;em&gt;q&lt;/em&gt;: quit &lt;em&gt;h&lt;/em&gt;: display this help &lt;em&gt;i&lt;/em&gt;: invert intensities &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom &lt;em&gt;x y&lt;/em&gt;: flip along the X / Y axis &lt;em&gt;r&lt;/em&gt;: reset to initial conditions &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor &lt;em&gt;arriba-Flecha abajo-flecha&lt;/em&gt;: change to next / previous slice&lt;h3&gt;mouse commands:&lt;/h3&gt; &lt;em&gt;left-button&lt;/em&gt;: ventana y nivel &lt;em&gt;middle-button&lt;/em&gt;: zoom &lt;em&gt;right-button&lt;/em&gt;: center</translation>
+        <translation>&lt;h1&gt;reproductor de visor de imágenes CTK simple &lt;/h1&gt;contribuido por: &lt;URL&gt;.&lt;br&gt;&lt;h3&gt;Ordenes de teclado:&lt;/h3&gt; &lt;em&gt;q&lt;/em&gt;: quit &lt;em&gt;h&lt;/em&gt;: exhibe esta ayuda &lt;em&gt;i&lt;/em&gt;: invertir intensidades &lt;em&gt;[ ]&lt;/em&gt;: incrementar / decrementar zoom &lt;em&gt;x y&lt;/em&gt;: girar a lo largo del eje X/Y &lt;em&gt;r&lt;/em&gt;: restablecer a condiciones iniciales &lt;em&gt;barra de espacio&lt;/em&gt;: conmuta seguimiento continuo de cursor &lt;em&gt;Flecha-arriba Flecha-abajo&lt;/em&gt;: cambiar a siguiente / anterior ranura&lt;h3&gt;instrucciones de ratón:&lt;/h3&gt; &lt;em&gt;botón izquierdo&lt;/em&gt;: ventana y nivel &lt;em&gt;botón del medio&lt;/em&gt;: zoom &lt;em&gt;botón-derecho&lt;/em&gt;: central</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"/>
@@ -5896,7 +5896,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"/>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"/>
