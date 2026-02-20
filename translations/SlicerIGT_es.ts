@@ -940,7 +940,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="81"/>
         <source>Delete the last point from the output node (hold click to see the option delete all)</source>
-        <translation>Borra el último punto desde el nodo de salida (mantener pulsación para ver la opción borrar todo)</translation>
+        <translation>Elimina el último punto desde el nodo de salida (mantener pulsación para ver la opción eliminar todo)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="95"/>
@@ -1020,12 +1020,12 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="250"/>
         <source>Delete All Points</source>
-        <translation>Borrar Todos los Puntos</translation>
+        <translation>Eliminar Todos los Puntos</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="253"/>
         <source>Delete all points from the node</source>
-        <translation>Borra todos los puntos del nodo</translation>
+        <translation>Elimina todos los puntos del nodo</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="73"/>
@@ -1048,7 +1048,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="97"/>
         <source>Delete options</source>
-        <translation>Borrar opciones</translation>
+        <translation>Eliminar opciones</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="521"/>
@@ -2094,7 +2094,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
         <source>Remove the transform selected below.</source>
-        <translation>Elimine la transformación seleccionada a continuación.</translation>
+        <translation>Quite la transformación seleccionada a continuación.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="67"/>
@@ -2855,7 +2855,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="141"/>
         <source>Remove the node selected in the table from the list of watched nodes</source>
-        <translation>Retirar el nodo seleccionado en la tabla del listado de nodos vigilados</translation>
+        <translation>Quitar el nodo seleccionado en la tabla del listado de nodos vigilados</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="163"/>
@@ -2940,7 +2940,7 @@ Para obtener ayuda sobre cómo usar este módulo, visite: &lt;a href=&apos;https
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="303"/>
         <source>Delete highlighted row</source>
-        <translation>Borrar fila resaltada</translation>
+        <translation>Eliminar fila resaltada</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="463"/>
