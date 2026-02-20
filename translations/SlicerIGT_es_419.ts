@@ -1198,7 +1198,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="68"/>
         <source>Module for creating simple shapes, such as sphere, cylinder, prism, needle, and coordinate system axes.For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation>Módulo para crear formas sencillas, como esfera, cilindro, prisma, aguja y ejes de sistemas de coordenadas.Para obtener ayuda sobre cómo utilizar este módulo, visite: : &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;sitio web SlicerIGT &lt;/a&gt;.</translation>
+        <translation>Módulo para crear formas sencillas, como esfera, cilindro, prisma, aguja y ejes de sistemas de coordenadas.Para obtener ayuda sobre cómo utilizar este módulo, visite : &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;sitio web SlicerIGT &lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
