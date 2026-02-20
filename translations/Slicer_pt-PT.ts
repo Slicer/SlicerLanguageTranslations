@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
@@ -374,7 +374,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Frações de voxels da imagem fixa que serão utilizados para registo. O número tem que ser maior que zero e menor ou igual a um. Valores mais altos aumentam o tempo de computação mas fornecem resultados mais precisos. Também pode limitar o foco de amostragem com máscaras ROI e geração automática de máscara ROIAUTO. A predefinição é 0.002 (usa aproximadamente 0.2% dos voxels, resultado em 100000 de amostragens em um volume 512x512x192) para fornecer um registo muito rápido na maior parte dos casos. Valores típicos variam entre 0.01 (1%) para imagens de baixo detalhe até 0.2 (20%) para imagens de alto detalhe.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
@@ -732,7 +732,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
@@ -743,7 +743,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
@@ -1314,12 +1314,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
@@ -1329,7 +1329,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
@@ -1364,7 +1364,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Inputs</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
@@ -3937,7 +3937,9 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Executa difusão de gradiente anisotrópico em um volume.
+
+Métodos de difusão anisotrópica reduzem barulho (ou detalhes indesejados) em imagens enquanto que preserva detalhes específicos de imagem, como bordas.  Para muitas aplicações, há uma suposição que transições de claro para escuro (bordas) são interessantes.  Métodos de difusão anisotrópica padrão mexem e desfocam fronteiras de claro para escuro.  Métodos de difusão anisotrópica são formulados para preservar essas bordas especificamente. O termo de condutância para esta implementação é uma função da magnitude do gradiente da imagem em cada ponto, reduzindo a força da difusão nas bordas. A implementação numérica desta equação é semelhante à descrita no papel Perona-Malik, mas usa uma técnica mais robusta para estimativas de magnitude de gradiente e foi generalizada para N-dimensões.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
@@ -5312,7 +5314,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolução da grelha bspline inicial definida como uma sequência de três números. A resolução real será definida ao adicionar a ordem do bspline (o padrão é 3) à resolução em cada dimensão especificada aqui. Por exemplo, 1,1,1 resultará numa grelha 4x4x4 de pontos de controlo. Este parâmetro poderá ser preciso ajustar baseado na sua imagem de input. Na framework multi-resolução N4, a resolução a resolução da grelha bspline nas iterações subsequentes será duplicada. O número de resoluções é definida implicitamente pelo parâmetro de Número de iterações (o tamanho desta lista é o número de resoluções)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
@@ -6991,7 +6993,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reamostrar uma imagem é uma tarefa importante em análise de imagem. É especialmente importante no contexto de registo de imagem. Este módulo implementa reamostragem de imagem através do use de Transformações itk. Este módulo usa uma Transformação de Identidade. A reamostragem é controlada pelo Espaço de Output. &quot;Reamostragem&quot; é executada em coordenadas de espaço, não em coordenadas de pixel/grelha. É bastante importante assegurar-se que espaçamento de imagem é devidamente definido nas imagens envolvidas. O interpolador é necessário uma vez que o mapeamento de um espaço para o outro frequentemente exige avaliação da intensidade da imagem em posições fora da grelha. Vários interpoladores estão disponíveis: linear, vizinho mais próximo, bspline e cinco sabores de sinc. Os interpoladores de sinc, ainda que mais precisos, são muito mais lentos que os interpoladores linear e vizinho mais próximo. Para reamostrar volumes de rótulos, interpolação de vizinho mais próximo deve ser usado exclusivamente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -9236,7 +9238,19 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Este trabalho foi financiado em parte pelo Cancer Care Ontario
+em o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)&lt;/p&gt;
+
+&lt;p&gt;Conjuntos de dados MRHead, CBCT-MR Head, and CT-MR Brain foram doados ao projeto 3D Slicer pelas pessoas visíveis nas imagens, para serem utilizados sem quaisquer restrições.&lt;/p&gt;
+
+&lt;p&gt;Conjunto de dados CTLiver vem do &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;projeto Medical Decathlon &lt;/a&gt; (imagesTr/liver_100.nii.gz na coleção Task03_Liver)
+com uma licença de direitos autorais permissiva (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), permitindo que dados sejam partilhados, distribuídos e melhorados.&lt;/p&gt;
+
+&lt;p&gt;Conjunto de dados CTA abdomen (Panoramix) vem da &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;biblioteca de imagens Osirix DICOM&lt;/a&gt;
+e está disponível exclusivamente para pesquisa e ensino. Não está autorizado a redistribui-lo ou vendê-lo, ou
+utilizá-lo para fins comerciais.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"/>
@@ -10258,7 +10272,17 @@ do not use sphere brush with Paint effect and always leave at least one empty sl
 Masking settings are ignored. If segments overlap, segment higher in the segments table will have priority.
 The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;morphological contour interpolation method&lt;/a&gt;.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolar segmentação entre fatias&lt;br&gt;. Instruções:
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;Crie segmentação completa nas fatias selecionadas ao usar qualquer efeito de editor.
+Segmentação só expandirá se uma fatia é segmentada mas nenhuma das vizinhas diretas são segmentadas, então
+não use o pincel esférico com o efeito de Pintar e deixe sempre pelo menos uma fatia vazia entre segmentos fatiados.
+&lt;li&gt;Todos os segmentos visíveis serão interpolados, e não apenas o segmento selecionado.
+&lt;li&gt;A segmentação completa será criada ao interpolar segmentações em fatias vazias.
+&lt;/ul&gt;&lt;p&gt;
+Definições de mascaramento são ignorados. Se segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá prioridade.
+Este efeito usa o  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;método de interpolação de contorno morfológico&lt;/a&gt;.
+&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -13101,7 +13125,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
         <source>Resample a curve with the number of points specified.</source>
         <oldsource>Resample a curve and optionally constrain the points to a node</oldsource>
-        <translation type="unfinished">Resample a curve and optionally constrain the points to a node</translation>
+        <translation>Reamostrar uma curva com o número de pontos especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
@@ -20443,7 +20467,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Perguntas e solicitação de funcionalidades:&lt;/span&gt; visite o &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Fórum Slicer&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Comunicar erros: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;publicar um tópico novo no fórum Slicer&lt;/span&gt;&lt;/a&gt; para comunicar-nos o seu problema ou submeter um relatório de um erro para o &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Descreva os passos que levam ao erro e anexe as mensagens no registo.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Aviso - se trabalha com dados de pacientes:&lt;/span&gt; Verifique que as mensagens do registo não contém qualquer informação que possa identificar um paciente. Envie as mensagens do registo para pessoas em específico em vez de as partilhar publicamente em uma lista de correio eletrónico ou no website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -21279,9 +21303,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>Clique OK para esperar que concluam, ou escolha Ignorar para fechar o Gestor de Extensões agora.</translation>
     </message>
 </context>
 <context>
@@ -21566,7 +21588,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="305"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Select a reader to use for your data?</translation>
+        <translation>Selecionar um leitor a utilizar para lêr os seus dados:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"/>
@@ -22512,7 +22534,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display properties to defaults. These properties will be used even after application restart.</source>
         <oldsource>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</oldsource>
-        <translation type="unfinished">Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</translation>
+        <translation>Guardar as propriedades de exibição como predefinições. Estas propriedades serão usadas mesmo após reiniciar a aplicação.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -26233,7 +26255,11 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
 &lt;/body&gt;&lt;/html&gt;
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;Caminhos adicionais de módulos:&lt;/p&gt;
+&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Arraste &amp;amp; solte ficheiros ou pastas&lt;br/&gt;a partir do Navegador de Ficheiros&lt;/span&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
@@ -28742,14 +28768,14 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="861"/>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
-        <translation type="unfinished">Select type modifier...</translation>
+        <translation>Sem modificador de tipo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1321"/>
         <source>No region modifier</source>
         <oldsource>Select anatomic region modifier...</oldsource>
-        <translation type="unfinished">Select anatomic region modifier...</translation>
+        <translation>Sem modificador de região</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="95"/>
