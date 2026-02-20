@@ -126,13 +126,13 @@ la base de datos Rebanador</translation>
         <location filename="text_dict_default.json" line="8"/>
         <source>AIBasedSegmentationIn3DSlicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished">AIBasedSegmentationIn3DSlicer</translation>
+        <translation>AIBasedSegmentationIn3DSlicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished">Sonia Pujol, Dra. en Filos.</translation>
+        <translation>Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -306,8 +306,8 @@ Clic en Aplicar para iniciar la segmentación</translation>
         <source>Slicer displays the result of the AI-based segmentation
 using the Whole Body Segmentation TS1- quick</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished">Slicer muestra los resultados de la segmentación basada en IA
-usando la Segmentación de Cuerpo Completo TS1-quick</translation>
+        <translation>Slicer exhibe los resultados de la segmentación basada en IA
+usando la Segmentación de Cuerpo Completo TS1- rápida</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="61"/>
