@@ -141,7 +141,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="162"/>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="163"/>
@@ -499,13 +499,13 @@ Por favor, no interactúe con Slicer.</translation>
         <location filename="TutorialMaker/TutorialMaker.py" line="404"/>
         <source>You don&apos;t have any annotations to export.
 Please annotate your screenshots first using &quot;Edit Annotations&quot;.</source>
-        <translation>No tiene anotaciones para exportar.
-Anote sus capturas de pantalla primero usando &quot;Editar anotaciones&quot;.</translation>
+        <translation>No tienes anotaciones para exportar.
+Por favor, pulsa &quot;Editar anotaciones&quot; para anotar tus capturas.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="406"/>
         <source>No Annotations Found</source>
-        <translation>No Se Encontraron Anotaciones</translation>
+        <translation>No se encontraron anotaciones</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="409"/>
@@ -522,7 +522,7 @@ Seleccione un tutorial y haga clic en &quot;Capturar capturas de pantalla&quot;.
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="441"/>
         <source>No Screenshots Found</source>
-        <translation>No Se Encontraron Capturas De Pantalla</translation>
+        <translation>No se encontraron capturas</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="451"/>
@@ -532,12 +532,12 @@ Would you like to load the existing annotations?
 
 Yes: Load existing annotations
 No: Start fresh from raw tutorial</source>
-        <translation>Se encontró un archivo de anotaciones existente.
+        <translation>Se ha detectado un archivo de anotaciones ya existente.
 
-¿Le gustaría cargar las anotaciones existentes?
+¿Deseas cargar las anotaciones existentes?
 
 Sí: Cargar anotaciones existentes
-No: Comience de cero tutorial</translation>
+No: Comenzar de nuevo desde el tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="453"/>
@@ -553,7 +553,7 @@ No: Comience de cero tutorial</translation>
         <location filename="TutorialMaker/TutorialMaker.py" line="571"/>
         <source>Tutorial Execution Failed: {tutorial_name} - Error: {e}. 
 </source>
-        <translation>Error en la ejecución del Tutorial: {tutorial_name} - Error: {e}. 
+        <translation>Ejecución del tutorial fallida:  {tutorial_name} - Error: {e}. 
 </translation>
     </message>
     <message>
