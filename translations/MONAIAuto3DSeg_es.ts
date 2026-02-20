@@ -228,7 +228,7 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="791"/>
         <source>All downloaded model files will be deleted. The files will be automatically downloaded again as needed.</source>
-        <translation>Se eliminarán todos los archivos de modelo descargados. Se descargarán automáticamente cuando sea necesario.</translation>
+        <translation>Serán eliminados todos los archivos de modelo descargados. Se descargarán automáticamente cuando sea necesario.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="794"/>
@@ -447,7 +447,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="498"/>
         <source>Delete all downloaded files for all models. The files will be automatically downloaded again as needed.</source>
-        <translation>Borra todos los archivos descargados para todos los modelos. Los archivos serán descargados automáticamente de nuevo como se necesite.</translation>
+        <translation>Elimina todos los archivos descargados para todos los modelos. Los archivos serán descargados automáticamente de nuevo como se necesite.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="501"/>
