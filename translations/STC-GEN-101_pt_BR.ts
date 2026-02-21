@@ -40,19 +40,19 @@ Harvard	Medical	School	</source>
         <location filename="text_dict_default.json" line="18"/>
         <source>This tutorial is a short introduction to the Welcome module of the Slicer open-source software. </source>
         <extracomment>1_Goal_body</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Este tutorial é uma breve introdução ao módulo de boas-vindas do software de código aberto Slicer. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
         <source>3D Slicer version 4.8</source>
         <extracomment>2_3DSlicerversion48_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D Slicer versão 4.8</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>Welcome to Slicer</source>
         <extracomment>3_WelcometoSlicer_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bem-vindo ao Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
@@ -65,13 +65,20 @@ Click	on	the	arrow
 symbol	to	display	the	
 content	of	each	tab.	</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cada módulo do Slicer
+inclui uma série de abas,
+que dão acesso a
+diferentes funcionalidades.
+
+Clique no símbolo de seta
+para exibir o
+conteúdo de cada aba.	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Slicer User Interface</source>
         <extracomment>4_SlicerUserInterface_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Interface do usuário do Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -80,25 +87,28 @@ content	of	each	tab.	</source>
 Slicer	Welcome	
 Module	</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Interface do usuário
+(UI) painel do
+Slicer Bem-vindo
+Módulo	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>Toolbar</source>
         <extracomment>4_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Barras de ferramentas</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>3D viewer</source>
         <extracomment>4_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>visualizador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>2D anatomical viewers</source>
         <extracomment>4_ArrowText_4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>visualizadores anatômicos 2D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
