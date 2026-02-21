@@ -27,25 +27,27 @@
 Brigham and Women’s Hospital
 Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Professor Assistente de Radiologia
+Hospital Brigham and Women&apos;s
+Faculdade de Medicina de Harvard</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Overall Goal</source>
         <extracomment>1_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Objetivo geral</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>This tutorial is an introduction to the basics of loading and viewing DICOM images and 3D models in 3D Slicer.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este tutorial é uma introdução aos conceitos básicos de carregamento e visualização de imagens DICOM e modelos 3D no 3D Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
         <source>Learning Objectives</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Objectivos de aprendizagem</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
@@ -55,13 +57,17 @@ Harvard Medical School</source>
 • to load and visualize 3D models reconstructed 
 from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seguindo este tutorial, você será capaz de:
+• carregar e visualizar imagens DICOM no Slicer
+• realizar renderização volumétrica de dados de tomografia computadorizada (TC)
+• carregar e visualizar modelos 3D reconstruídos
+a partir de dados de ressonância magnética (RM)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>Tutorial materials</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Materiais do tutorial</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -69,7 +75,9 @@ from MRI data</source>
 
 -3D VisualizationDataSet.zip</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>-3D Slicer versão 5.10
+
+-3D VisualizationDataSet.zip</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -78,7 +86,7 @@ from MRI data</source>
         <extracomment>4_TextBox_0
 ----------
 33_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de dados do tutorial</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -90,13 +98,18 @@ two directories:
 Unzip the file 3DVisualizationDataset.zip on 
 your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O arquivo 3DVisualizationDataset.zip contém
+dois diretórios:
+– dataset1_Thorax_Abdomen
+– dataset2_Head
+Descompacte o arquivo 3DVisualizationDataset.zip em
+seu computador para acessar os conjuntos de dados.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Disclaimer</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Isenção de responsabilidade</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
