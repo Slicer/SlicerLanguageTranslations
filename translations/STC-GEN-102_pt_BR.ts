@@ -33,13 +33,13 @@ Harvard	Medical	School	</source>
         <location filename="text_dict_default.json" line="19"/>
         <source>3D Slicer version 4.8	</source>
         <extracomment>2_3DSlicerversion48_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer versão 4.8	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="21"/>
         <source>3D Slicer version 4.8</source>
         <extracomment>3_3DSlicerversion48_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D Slicer versão 4.8</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="23"/>
@@ -47,13 +47,15 @@ Harvard	Medical	School	</source>
 slicer4minute.mrb	to	load	
 the	scene	in	Slicer</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arrastar e soltar o
+slicer4minute.mrb para carregar
+a cena em Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="25"/>
         <source>Slicer4minute Scene</source>
         <extracomment>4_Slicer4minuteScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cena Slicer em 4 minutos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="27"/>
@@ -63,7 +65,12 @@ The	scene	contains	an	MRI
 scan	and	3D	surface	models	
 of	the	brain.	</source>
         <extracomment>4_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer exibe os elementos
+da cena slicer4minute.
+
+A cena contém uma ressonância magnética
+e modelos de superfície 3D
+do cérebro.	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="29"/>
@@ -87,19 +94,19 @@ of	the	brain.	</source>
 11_3DVisualization_title
 ----------
 12_3DVisualization_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visualização 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="31"/>
         <source>Select	the	module	Models	</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o módulo Modelos	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="35"/>
         <source>Toogle slice visibility in 3D view</source>
         <extracomment>6_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alternar a visibilidade da fatia na visualização 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="37"/>
@@ -107,7 +114,10 @@ of	the	brain.	</source>
 display	the	slice	viewer	menu.
 Click	on	the	eye	icon	to	display	the	axial	slice	in	the	3D	Viewer</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique no ícone de alfinete no canto superior esquerdo da fatia vermelha para
+exibir o menu do visualizador de fatias.
+
+Clique no ícone de olho para exibir a fatia axial no visualizador 3D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="41"/>
