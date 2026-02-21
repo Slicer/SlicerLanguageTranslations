@@ -31,13 +31,13 @@
         <location filename="text_dict_default.json" line="16"/>
         <source>Click on Add Data in the Welcome to 	Slicer module</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique em Adicionar Dados no módulo Bem-vindo ao Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Slicer loads the prostate MRI dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer carrega o conjunto de dados de RM da próstata</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -45,39 +45,43 @@
 Modules’ menu and browse to
  the category Segmentation.</source>
         <extracomment>3_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clique em Bem-vindo ao Slicer no
+Menu de módulos e navegar para
+a categoria Segmentação.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>Enter the model’s name Prostate in
 the Segmentation model menu</source>
         <extracomment>4_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira o nome do modelo Próstata no
+menu Modelo de segmentação</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>Select the model Prostate - Multisequence</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo Próstata - Multisequência</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Enter the Input T2 volume msdprostate-01-adc</source>
         <extracomment>5_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira o volume T2 de entrada msdprostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
         <source>And the Input ADC volume msd-prostate-01-adc</source>
         <extracomment>6_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>E o volume de entrada ADC msd-prostate-01-adc</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>Click on Create new segmentation on
 Apply</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione Criar novo segmento ao
+Aplicar</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
@@ -86,13 +90,13 @@ Apply</source>
         <extracomment>7_TextBox_0
 ----------
 17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer inicia a inferência.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer shows the result of the AIbased prostate segmentation</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer mostra o resultado da segmentação da próstata baseada em IA.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
