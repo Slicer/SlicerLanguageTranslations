@@ -192,7 +192,7 @@ In	the	Clipping	Planes	tab,	select	the	option ‘Green	Slice	Clipping’	and	che
         <location filename="text_dict_default.json" line="65"/>
         <source>Acknowledgements</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="67"/>
