@@ -121,72 +121,72 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="92"/>
         <source>Title for the slide</source>
-        <translation type="unfinished">Título para o slide</translation>
+        <translation>Título para o slide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="96"/>
         <source>Write a description for the slide</source>
-        <translation type="unfinished">Escreva uma descrição para o slide</translation>
+        <translation>Escreva uma descrição para o slide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="159"/>
         <source>Open</source>
-        <translation type="unfinished">Abrir</translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="160"/>
         <source>Save</source>
-        <translation type="unfinished">Salvar</translation>
+        <translation>Salvar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="162"/>
         <source>Delete</source>
-        <translation type="unfinished">Excluir</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="163"/>
         <source>Add</source>
-        <translation type="unfinished">Adicionar</translation>
+        <translation>Adicione</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="164"/>
         <source>Copy</source>
-        <translation type="unfinished">Copiar</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="172"/>
         <source>Select</source>
-        <translation type="unfinished">Selecionar</translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="175"/>
         <source>Square</source>
-        <translation type="unfinished">Quadrado</translation>
+        <translation>Quadrado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="184"/>
         <source>Arrow</source>
-        <translation type="unfinished">Seta</translation>
+        <translation>Seta</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="187"/>
         <source>Arrow text</source>
-        <translation type="unfinished">Seta de texto</translation>
+        <translation>Texto de seta</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="193"/>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="208"/>
         <source>color</source>
-        <translation type="unfinished">cor</translation>
+        <translation>cor</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="212"/>
         <source> thick.</source>
-        <translation type="unfinished"> grosso.</translation>
+        <translation> espesso.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="284"/>
@@ -430,11 +430,9 @@ The window may appear unresponsive but the process is running in the background.
 This process will take some minutes.
 Click on &quot;OK&quot; to continue.</source>
         <translation>Buscando tutoriais no GitHub.
-
-A janela pode parecer não responder, mas o processo está sendo executado em segundo plano.
-
+A janela pode parecer não responder, 
+mas o processo está sendo executado em segundo plano.
 Este processo levará alguns minutos.
-
 Clique em &quot;OK&quot; para continuar.</translation>
     </message>
     <message>
@@ -451,7 +449,6 @@ Do you want to continue with the tutorial capture anyway?
         <translation>A cena não foi salva.
 
 Deseja continuar com a captura do tutorial mesmo assim?
-
 (A cena será apagada)</translation>
     </message>
     <message>
@@ -497,7 +494,6 @@ Por favor, não interaja com o Slicer.</translation>
         <source>Failed to capture tutorial, please send this error on our GitHub Issue page:
 {err}</source>
         <translation>Falha ao capturar o tutorial. Por favor, envie este erro para nossa página de problemas no GitHub:
-
 {err}</translation>
     </message>
     <message>
@@ -622,7 +618,7 @@ Não: Começar do zero a partir do tutorial básico</translation>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="438"/>
         <source>Save current scene before clearing</source>
-        <translation>Salve a cena atual antes de concluir o processo.</translation>
+        <translation>Salve a cena atual antes de concluir o processo</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="440"/>
