@@ -19,13 +19,13 @@
         <location filename="text_dict_default.json" line="12"/>
         <source>30/06/2025</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>30/06/2025</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>AI - based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação baseada em IA no 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
@@ -45,8 +45,8 @@
 Modules’ menu and browse to
  the category Segmentation.</source>
         <extracomment>3_ArrowText_0</extracomment>
-        <translation type="unfinished">Clique em Bem-vindo ao Slicer no
-Menu de módulos e navegar para
+        <translation>Clique em Bem-vindo ao Slicer no
+Menu de módulos e navegue para
 a categoria Segmentação.</translation>
     </message>
     <message>
@@ -102,7 +102,7 @@ Aplicar</translation>
         <location filename="text_dict_default.json" line="36"/>
         <source>Load dataset4_BrainMRI_Glioma</source>
         <extracomment>9_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Carregar dataset4_BrainMRI_Glioma</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -110,14 +110,17 @@ Aplicar</translation>
 model’s name Brain Tumor Segmentation in the
 Segmentation model menu</source>
         <extracomment>10_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o módulo MONAIAuto3DSeg e no menu
+de modelos de Segmentação, insira o modelo
+Brain Tumor Segmentation</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>Select the model Brain Tumor Segmentation
 (BRATS) GLI</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo Brain Tumor Segmentation
+(BRATS) GLI</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
@@ -129,20 +132,27 @@ Input T2W volume: BraTS-GLI_00005-000-t2w
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insira os volumes de entrada da seguinte forma:
+Volume de entrada T2F: BraTS-GLI_00005-000-t12f
+Volume de entrada T1C: BraTS-GLI_00005-000-t1c
+Volume de entrada T1N: BraTS-GLI_00005-000-t1n
+Volume de entrada T2W: BraTS-GLI_00005-000-t2w
+Clique em Criar nova segmentação e depois em Aplicar.
+Clique em Aplicar para iniciar a segmentação.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer starts running the inference task</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer inicia a execução da tarefa de inferência.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>Once the segmentation is done, ‘Processing finished’
 appears in the Slicer GUI</source>
         <extracomment>13_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Assim que a segmentação for concluída, a mensagem &quot;Processamento finalizado&quot;
+aparecerá na interface gráfica do Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
@@ -152,7 +162,11 @@ double click on the image
 CT_Thorax_Abdomen to load it in
 Slicer</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>No módulo Adicionar Dados DICOM,
+selecione o Paciente patient1 e
+clique duas vezes na imagem
+CT_Thorax_Abdomen para carregá-la no
+Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
@@ -160,7 +174,9 @@ Slicer</source>
 model’s name Whole Body Segmentation in the
 Segmentation model menu);</source>
         <extracomment>15_ArrowText_0 15_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o módulo MONAIAuto3DSeg e insira 
+o nome do modelo (Whole Body Segmentation) no
+menu Modelo de Segmentação.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="55"/>
@@ -168,20 +184,23 @@ Segmentation model menu);</source>
 Click on Create new Segmentation on Apply
 Click on Apply to start the segmentation</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o Volume de entrada 6: CT_Tórax_Abdômen,
+Clique em Criar nova Segmentação e depois em Aplicar.
+Clique em Aplicar para iniciar a segmentação.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="59"/>
         <source>Slicer displays the result of the AI-based segmentation
 using the Whole Body Segmentation TS1- quick</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O Slicer exibe o resultado da segmentação baseada em IA
+usando a Segmentação Corporal Completa TS1 - rápida</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="61"/>
         <source>Acknowledgements</source>
         <extracomment>19_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimentos</translation>
     </message>
 </context>
 </TS>
