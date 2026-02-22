@@ -13,7 +13,7 @@
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation>Sonia Pujol, Ph.D.</translation>
+        <translation>Sonia Pujol, Ph.D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -21,13 +21,15 @@
 Brigham	and	Women’s	Hospital	
 Harvard	Medical	School	</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Professora Assistente de Radiologia
+Hospital Brigham and Women&apos;s
+Faculdade de Medicina de Harvard	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Slicer4 minute tutorial	);</source>
         <extracomment>1_Slicer4minutetutorial_title 1_Slicer4minutetutorial_body</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial de 4 minutos do Slicer	);</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="19"/>
@@ -39,7 +41,7 @@ Harvard	Medical	School	</source>
         <location filename="text_dict_default.json" line="21"/>
         <source>3D Slicer version 4.8</source>
         <extracomment>3_3DSlicerversion48_title</extracomment>
-        <translation type="unfinished">3D Slicer versão 4.8</translation>
+        <translation>3D Slicer versão 4.8</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="23"/>
@@ -67,7 +69,6 @@ of	the	brain.	</source>
         <extracomment>4_TextBox_0</extracomment>
         <translation>O Slicer exibe os elementos
 da cena slicer4minute.
-
 A cena contém uma ressonância magnética
 e modelos de superfície 3D
 do cérebro.	</translation>
@@ -116,8 +117,7 @@ Click	on	the	eye	icon	to	display	the	axial	slice	in	the	3D	Viewer</source>
         <extracomment>6_TextBox_1</extracomment>
         <translation>Clique no ícone de alfinete no canto superior esquerdo da fatia vermelha para
 exibir o menu do visualizador de fatias.
-
-Clique no ícone de olho para exibir a fatia axial no visualizador 3D.</translation>
+Clique no ícone de olho para exibir a fatia axial no visualizador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="41"/>
@@ -126,7 +126,10 @@ browse	through	the	axial	MR	slices.
 Slicer	simultaneously	displays	the	
 axial	slice	in	the	3D	viewer	</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Use o controle deslizante do visualizador vermelho para
+navegar através das partes MR axial.
+Slicer exibe simultaneamente o
+fatia axial no espectador 3D	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="45"/>
@@ -134,27 +137,31 @@ axial	slice	in	the	3D	viewer	</source>
 its	opacity	using	the	Opacity	slider	
 in	the	3D	Display	tab	</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo de pele e baixe o
+sua opacidade usando o controle deslizante de opacidade
+na guia de exibição 3D	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="47"/>
         <source>The	skull_bone.vtk	model	
 appears	through	the	skin.	</source>
         <extracomment>8_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O modelo skull_bone.vtk
+aparece através da pele.	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="51"/>
         <source>Position the mouse in the 3D viewer, click on the left-mouse button to drag and rotate the model.
 Click on the right mouse button to zoom in and out</source>
         <extracomment>9_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Posicione o mouse no visualizador 3D, clique no botão esquerdo para arrastar e girar o modelo.
+Clique no botão direito do mouse para ampliar e sair</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="53"/>
         <source>Anatomical views</source>
         <extracomment>10_Anatomicalviews_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vistas anatômicas</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="55"/>
@@ -168,7 +175,15 @@ display	the	axial	and
 coronal	slice	in	the	3D	
 viewer</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique nos ícones de pino no 
+canto superior esquerdo do 
+visualizador vermelho e verde 
+para exibir o menu do 
+visualizador de fatias
+
+Clique no ícone de olho para 
+exibir a fatia axial e coronal 
+no visualizador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="59"/>
@@ -176,7 +191,9 @@ viewer</source>
 skull	to	display	the	brain	
 white	maPer	mode</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desative a visibilidade do crânio 
+para exibir o cérebro no modo 
+mapeador branco</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="63"/>
@@ -186,7 +203,11 @@ Check	Clipping	in	the	3D	Display	tab
 
 In	the	Clipping	Planes	tab,	select	the	option ‘Green	Slice	Clipping’	and	check	‘Negative&apos;</source>
         <extracomment>12_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo hemispheric_white matter.vtk
+
+Verificar Clipping na guia Display 3D
+
+Na guia Clipping Planes, selecione a opção ‘Green Slice Clipping’ e verifique ‘Negativo’</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="65"/>
@@ -205,7 +226,14 @@ NIH P41EB015902
 Chan Zuckerberg Initiative
 Essential Open Source for Science Grant #2022-252572 (5022)</source>
         <extracomment>13_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aliança Nacional para Computação de Imagens Médicas
+NIH U54EB005149
+
+Centro de Análise de Neuroimagens
+NIH P41EB015902
+
+Iniciativa Chan Zuckerberg
+Subvenção Essencial de Código Aberto para Ciência nº 2022-252572 (5022)</translation>
     </message>
 </context>
 </TS>
