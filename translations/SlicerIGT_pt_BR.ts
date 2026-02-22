@@ -28,7 +28,7 @@ e Steve Pieper, Isomics, Inc., e foi parcialmente financiado pelo subsídio do N
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
         <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: As transformações pai de fiduciais não são usadas. Os fiduciais devem ser definidos no sistema de coordenadas que está sendo registrado.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
@@ -295,7 +295,7 @@ Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Can
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
@@ -451,7 +451,7 @@ Para mais informações, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sl
     <message>
         <location filename="TextureModel/TextureModel.py" line="97"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="98"/>
