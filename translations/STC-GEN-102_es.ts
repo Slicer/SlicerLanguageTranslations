@@ -115,9 +115,9 @@ magnética y modelos de superficie
 display	the	slice	viewer	menu.
 Click	on	the	eye	icon	to	display	the	axial	slice	in	the	3D	Viewer</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation>Pulse en el icono del alfiler en la esquina superior izquierda del corte rojo
+        <translation type="unfinished">Pulse en el icono del alfiler en la esquina superior izquierda del corte rojo
 para abrir el menú del visor de cortes.
-Pulse en el icono del ojo para ver el corte axial en el visor 3D.</translation>
+Pulse en el icono del ojo para ver el corte axial en el visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="41"/>
@@ -175,7 +175,7 @@ visor rojo y verde para abrir el
 menú del visor de cortes.
 
 Pulse en el icono del ojo para mostrar los
-cortes axial y coronal en el visor 3D.</translation>
+cortes axial y coronal en el visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="59"/>
