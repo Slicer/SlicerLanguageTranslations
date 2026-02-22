@@ -553,7 +553,7 @@ No: Comenzar de nuevo desde el tutorial</translation>
         <location filename="TutorialMaker/TutorialMaker.py" line="571"/>
         <source>Tutorial Execution Failed: {tutorial_name} - Error: {e}. 
 </source>
-        <translation>Ejecución del tutorial fallida:  {tutorial_name} - Error: {e}. 
+        <translation>Ejecución del Tutorial Incorreca: {tutorial_name} - Error: {e}. 
 </translation>
     </message>
     <message>
