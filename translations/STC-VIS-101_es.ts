@@ -56,8 +56,9 @@ from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
         <translation>Siguiendo este tutorial, podrá:
 • cargar y visualizar imágenes DICOM en Slicer
-• realizar renderizado volumétrico de datos de TC
-• cargar y visualizar modelos 3D reconstruidos a partir de datos de RM</translation>
+• realizar representación volumétrico de datos de TC
+• cargar y visualizar modelos 3D reconstruidos a partir
+de datos de MRI</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
@@ -321,8 +322,8 @@ el diseño de pantalla ancha convencional </translation>
 to Conventional 
 Widescreen layout</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation>Slicer cambia el diseño a
-pantalla ancha convencional</translation>
+        <translation>Slicer cambia el distribución a
+Pantalla Ancha Convencional</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="94"/>
@@ -463,7 +464,7 @@ the volume rendered image in the 3D viewer</source>
         <extracomment>26_TextBox_2</extracomment>
         <translation>Seleccione Representación de Ray Casting por GPU VTK.
 Pulse en el icono del ojo en la pestaña Volumen para exhibir
-la imagen representada del volumen en el visor 3D.</translation>
+la imagen representada del volumen en el visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="126"/>
