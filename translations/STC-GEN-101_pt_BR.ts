@@ -224,7 +224,7 @@ its	different	functionalities, visit the Slicer4.8 compendium</source>
         <location filename="text_dict_default.json" line="76"/>
         <source>Acknowledgements</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
