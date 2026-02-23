@@ -7,13 +7,13 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Slicer4 Minute</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer en 4 minutos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dra. Sonia Pujol</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
