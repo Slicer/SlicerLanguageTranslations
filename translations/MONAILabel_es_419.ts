@@ -90,7 +90,7 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation>Active esta opción para ejecutar automáticamente la segmentación si existe un modelo previamente configurado cuando se busque la &quot;Muestra siguiente&quot;.</translation>
+        <translation>Active esta opción para ejecutar automáticamente la segmentación si existe un modelo previamente configurado cuando se busque la &quot;Muestra siguiente&quot;</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
