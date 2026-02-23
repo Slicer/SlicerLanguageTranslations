@@ -421,6 +421,7 @@ due to:
 </source>
         <translation>Error al registrar el módulo:
 %1
+
 debido a:
 %2
 
@@ -437,6 +438,7 @@ due to xml validation error:
 </source>
         <translation>Error al registrar el módulo:
 %1
+
 debido a un error de validación xml:
 %2
 
