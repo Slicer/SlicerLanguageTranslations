@@ -535,7 +535,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="136"/>
         <source>Pick the transform that the camera should follow, e.g. &apos;cauteryCameraToCauteryTransform&apos;</source>
-        <translation>Elija la transformación que la cámara debe seguir, por ejemplo, &apos;cauterio Cámara A Cauterio Transformar &apos;.</translation>
+        <translation>Elija la transformación que la cámara debe seguir, por ejemplo, &apos;cauterio Cámara A Cauterio Transformar &apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="141"/>
