@@ -21,25 +21,27 @@
 Brigham	and	Women’s	Hospital	
 Harvard	Medical	School	</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Profesor adjunto de radiología    
+Brigham and Women’s Hospital    
+Facultad de Medicina de Harvard	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Slicer4 minute tutorial	);</source>
         <extracomment>1_Slicer4minutetutorial_title 1_Slicer4minutetutorial_body</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial de Slicer de 4 minutos    );</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="19"/>
         <source>3D Slicer version 4.8	</source>
         <extracomment>2_3DSlicerversion48_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer versión 4.8	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="21"/>
         <source>3D Slicer version 4.8</source>
         <extracomment>3_3DSlicerversion48_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer versión 4.8</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="23"/>
@@ -47,13 +49,15 @@ Harvard	Medical	School	</source>
 slicer4minute.mrb	to	load	
 the	scene	in	Slicer</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arrastre y suelte el 
+slicer4minute.mrb para cargar 
+la escena en Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="25"/>
         <source>Slicer4minute Scene</source>
         <extracomment>4_Slicer4minuteScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Escena de Slicer 4 minutos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="27"/>
@@ -63,7 +67,11 @@ The	scene	contains	an	MRI
 scan	and	3D	surface	models	
 of	the	brain.	</source>
         <extracomment>4_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer muestra los elementos
+de la escena de Slicer en 4 minutos.
+La escena contiene una resonancia magnética
+y modelos de superficie en 3D
+del cerebro.	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="29"/>
@@ -87,19 +95,19 @@ of	the	brain.	</source>
 11_3DVisualization_title
 ----------
 12_3DVisualization_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visualización 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="31"/>
         <source>Select	the	module	Models	</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el módulo Modelos	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="35"/>
         <source>Toogle slice visibility in 3D view</source>
         <extracomment>6_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar u ocultar el corte en la vista 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="37"/>
@@ -107,7 +115,9 @@ of	the	brain.	</source>
 display	the	slice	viewer	menu.
 Click	on	the	eye	icon	to	display	the	axial	slice	in	the	3D	Viewer</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en e icono del alfiler en la esquina superior izquierda del corte rojo para
+mostrar el menú del corte.
+Haga clic en el icono del ojo para mostrar el corte axial en la Vista 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="41"/>
@@ -116,7 +126,10 @@ browse	through	the	axial	MR	slices.
 Slicer	simultaneously	displays	the	
 axial	slice	in	the	3D	viewer	</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Use el control deslizante del visor rojo para
+desplazarse a través de los cortes axiales de la RM.
+Slicer visualiza simultáneamente el 
+corte axial en el visor 3D	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="45"/>
@@ -124,27 +137,31 @@ axial	slice	in	the	3D	viewer	</source>
 its	opacity	using	the	Opacity	slider	
 in	the	3D	Display	tab	</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el modelo de Piel y disminuya 
+su opacidad con el control deslizante de Opacidad
+en la pestaña de Vista 3D	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="47"/>
         <source>The	skull_bone.vtk	model	
 appears	through	the	skin.	</source>
         <extracomment>8_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El modelo skull_bone.vtk
+aparece a través de la piel.	</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="51"/>
         <source>Position the mouse in the 3D viewer, click on the left-mouse button to drag and rotate the model.
 Click on the right mouse button to zoom in and out</source>
         <extracomment>9_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Coloque el cursor en el Visor 3D, haga clic en el botón izquierdo del mouse para arrastrar y rotar el modelo.
+Haz clic en el botón derecho del mouse para acercarlo o alejarlo</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="53"/>
         <source>Anatomical views</source>
         <extracomment>10_Anatomicalviews_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vistas anatómicas</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="55"/>
@@ -158,7 +175,15 @@ display	the	axial	and
 coronal	slice	in	the	3D	
 viewer</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en el icono del alfiler
+en la esquina superior izquierda de los
+visores rojo y verde para mostrar
+el menú del visor de cortes
+
+Haga clic en el icono del ojo para
+mostrar los cortes axial
+y coronal en el visor
+3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="59"/>
@@ -166,7 +191,9 @@ viewer</source>
 skull	to	display	the	brain	
 white	maPer	mode</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desactive la visibilidad del
+cráneo para mostrar el cerebro
+en modo sustancia blanca</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="63"/>
@@ -176,13 +203,17 @@ Check	Clipping	in	the	3D	Display	tab
 
 In	the	Clipping	Planes	tab,	select	the	option ‘Green	Slice	Clipping’	and	check	‘Negative&apos;</source>
         <extracomment>12_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el modelo hemispheric_white_matter.vtk.
+
+Marque la casilla Recorte en la pestaña Visualización 3D.
+
+En la pestaña Planos de recorte, seleccione la opción &quot;Recorte de corte verde&quot;  y marque &quot;Negativo&quot;.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="65"/>
         <source>Acknowledgements</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="67"/>
@@ -195,7 +226,14 @@ NIH P41EB015902
 Chan Zuckerberg Initiative
 Essential Open Source for Science Grant #2022-252572 (5022)</source>
         <extracomment>13_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>National Alliance for Medical Imaging Computing
+NIH U54EB005149
+
+Neuroimage Analysis Center
+NIH P41EB015902
+
+Chan Zuckerberg Initiative
+Essential Open Source for Science Grant #2022-252572 (5022)</translation>
     </message>
 </context>
 </TS>
