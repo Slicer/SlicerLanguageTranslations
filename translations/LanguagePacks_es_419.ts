@@ -66,7 +66,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation>Carpeta que contiene los archivos de traducción (.ts)</translation>
+        <translation>Carpeta que contiene los archivos de traducción (.ts).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="285"/>
