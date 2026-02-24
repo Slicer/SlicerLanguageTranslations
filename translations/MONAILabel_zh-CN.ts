@@ -691,7 +691,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="619"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="80"/>
         <source>Image Ids</source>
-        <translation>影像 ID</translation>
+        <translation>影像 Ids</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="622"/>
@@ -789,7 +789,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="646"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="258"/>
         <source>Image Id</source>
-        <translation>图像ID</translation>
+        <translation>图像 Id</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="648"/>
