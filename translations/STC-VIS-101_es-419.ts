@@ -13,19 +13,19 @@
         <location filename="text_dict_default.json" line="2"/>
         <source>Author: Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Autor: Dra. Sonia Pujol</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="3"/>
         <source>24/11/2024</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>24/11/2024</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="4"/>
         <source>Assistant Professor of Radiology Brigham and Women’s Hospital Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Profesor Asistente de Radiología Brigham and Women’s Hospital Harvard Medical School</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="5"/>
@@ -55,7 +55,13 @@
 
 • to load and visualize 3D models reconstructed from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> • Tras seguir este tutorial, podrá:
+
+• cargar y visualizar imágenes DICOM en Slicer
+
+• realizar renderizado volumétrico de datos de TC
+
+• cargar y visualizar modelos 3D reconstruidos a partir de datos de RM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="9"/>
@@ -455,8 +461,9 @@ handles</source>
 display the volume rendered 
 image</source>
         <extracomment>28_ArrowText_0</extracomment>
-        <translation type="finished">Haga clic en el icono del ojo para 
-mostrar la imagen con volumen renderizado</translation>
+        <translation>Haga clic en el icono del ojo para 
+mostrar la imagen con el volumen
+renderizado</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="61"/>
@@ -734,7 +741,7 @@ Contact: spujol@bwh.harvard.edu</source>
         <location filename="text_dict_default.json" line="96"/>
         <source>Acknowledgements</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="97"/>
