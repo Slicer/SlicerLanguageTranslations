@@ -8,7 +8,8 @@
         <source>Slicer4 Minute
 </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer4 Minutos
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="2"/>
@@ -22,7 +23,9 @@
 Brigham and Women’s Hospital
 Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Profesor Asistente de Radiología
+Brigham and Women’s Hospital
+Harvard Medical School</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="4"/>
@@ -34,13 +37,13 @@ Harvard Medical School</source>
         <location filename="text_dict_default.json" line="5"/>
         <source>This tutorial is a 4-minute introduction to the 3D visualization capabilities of the Slicer5 software for medical image analysis. </source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Este tutorial es una introducción de 4 minutos a las capacidades de visualización 3D del software Slicer para el análisis de imágenes médicas. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="6"/>
         <source>Slicer5 software &amp; dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer5 software &amp; base de datos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="7"/>
@@ -48,7 +51,9 @@ Harvard Medical School</source>
 
 *Download the Slicer4minute dataset available at https://www.slicer.org/wiki/Documentation/4.10/Training</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*Descargue el software Slicer5 disponible en http://download.slicer.org 
+
+*Descargue el conjunto de datos Slicer4minute disponible en https://www.slicer.org/wiki/Documentation/4.10/Training</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="8"/>
@@ -223,7 +228,7 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer4 minute tutorial</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial Slicer4 Minutos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="35"/>
@@ -237,7 +242,7 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
         <location filename="text_dict_default.json" line="36"/>
         <source>Acknowledgements</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="37"/>
