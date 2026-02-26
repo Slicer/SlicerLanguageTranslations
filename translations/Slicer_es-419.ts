@@ -28784,7 +28784,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="213"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation>Haga clic para bloquear esta tabla e impedir la modificación de los valores en la interfaz de usuario.</translation>
+        <translation>Haga clic para bloquear esta tabla e impedir la modificación de los valores en la interfaz de usuario</translation>
     </message>
 </context>
 <context>
