@@ -1796,9 +1796,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
         <source>
   </source>
         <translation>
-
-  
-</translation>
+    </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
@@ -7028,7 +7026,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation>El remuestreo de una imagen es una tarea importante en el análisis de imágenes. Es especialmente importante en el marco del registro de imágenes. Este módulo implementa el remuestreo de imágenes mediante el uso de Transformaciones ITK. Este módulo utiliza una Transformación de Identidad. El remuestreo es controlado por el Espaciado de Salida. &quot;El remuestreo se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeado de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones fuera de cuadrícula. Existen varios interpoladores: lineal, vecino más próximo, bspline y cinco tipos de sinc. Los interpoladores sinc, aunque más precisos, son mucho más lentos que los interpoladores lineal y de vecino más próximo. Para remuestrear volúmenes de etiquetas, debe utilizarse exclusivamente la interpolación del vecino más próximo.</translation>
+        <translation>El remuestreo de una imagen es una tarea importante en el análisis de imágenes. Es especialmente importante en el marco del registro de imágenes. Este módulo implementa el remuestreo de imágenes mediante el uso de Transformaciones ITK. Este módulo utiliza una Transformación de Identidad. El remuestreo es controlado por el Espaciado de Salida. El &quot;Remuestreo&quot; se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeado de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones fuera de cuadrícula. Existen varios interpoladores: lineal, vecino más próximo, bspline y cinco tipos de sinc. Los interpoladores sinc, aunque más precisos, son mucho más lentos que los interpoladores lineal y de vecino más próximo. Para remuestrear volúmenes de etiquetas, debe utilizarse exclusivamente la interpolación del vecino más próximo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -7726,7 +7724,7 @@ a = Transformada Afín</translation>
 This file was originally developed by Andras Lasso
 </source>
         <translation>
-This file was originally developed by Andras Lasso
+Este archivo fue desarrollado en un inicio por Andras Lasso
 </translation>
     </message>
     <message>
@@ -8404,7 +8402,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="306"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation>{count} files, grouped by {tag} = {value}. First file: {filename}</translation>
+        <translation>{count} archivos, agrupados por {tag} = {value}. Primer archivo: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="344"/>
@@ -10408,7 +10406,7 @@ El efecto utiliza  &lt;a href=&quot;https://insight-journal.org/browse/publicati
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="79"/>
         <source>Increasing this value makes the effect of seeds more localized, thereby reducing leaks, but requires seed regions to be more evenly distributed in the image. The value is specified as an additional &quot;intensity level difference&quot; per &quot;unit distance.&quot;</source>
-        <translation>Aumentar este valor hace que el efecto de las semillas sea más localizado, reduciendo así las fugas, pero requiere que las regiones de semillas estén distribuidas más uniformemente en la imagen. El valor se especifica como una &quot;diferencia de nivel de intensidad&quot; adicional por &quot;unidad de distancia&quot;.</translation>
+        <translation>Aumentar este valor hace que el efecto de las semillas sea más localizado, reduciendo así las fugas, pero requiere que las regiones de semillas estén distribuidas más uniformemente en la imagen. El valor se especifica como una &quot;diferencia de nivel de intensidad&quot; adicional por &quot;unidad de distancia.&quot;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="80"/>
