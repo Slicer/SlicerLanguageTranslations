@@ -1772,7 +1772,7 @@ La tortuosidad del tubo y la distribución de los diámetros determinan este par
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="266"/>
         <source> Centerline computation may fail. Try to increase target point count or reduce decimation aggressiveness</source>
-        <translation> El cálculo de la línea central puede fallar. Intente aumentar el número de puntos objetivo o reducir la agresividad de la decimación.</translation>
+        <translation> El cálculo de la línea central puede fallar. Intente aumentar el número de puntos objetivo o reducir la agresividad de la decimación</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="277"/>
