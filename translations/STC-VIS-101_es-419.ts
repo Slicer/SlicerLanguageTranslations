@@ -734,7 +734,7 @@ Contact: spujol@bwh.harvard.edu</source>
         <location filename="text_dict_default.json" line="96"/>
         <source>Acknowledgements</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation type="finished">Agradecimientos</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="97"/>
