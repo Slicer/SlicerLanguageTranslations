@@ -2061,7 +2061,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="84"/>
         <source>Harden transform to selected nodes.</source>
-        <translation>Endurezca la transformación a los nodos seleccionados</translation>
+        <translation>Aplique la transformación a los nodos seleccionados</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="87"/>
@@ -2129,7 +2129,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="140"/>
         <source>The transform node *from* which the output is based (e.g. Source in SourceToTarget)</source>
-        <translation>El nodo de transformación *desde* en el que está basado el resultado (por ejemplo, origen en Origen a Destino).</translation>
+        <translation>El nodo de transformación *desde* en el que está basado el resultado (por ejemplo, origen en Origen a Destino)</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="165"/>
@@ -2180,7 +2180,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="303"/>
         <source>The transform node *to* which the output is based (e.g. Target in SourceToTarget)</source>
-        <translation>El nodo de transformación *al* en el que está basado el resultado (por ejemplo, destino en Origen a Destino).</translation>
+        <translation>El nodo de transformación *al* en el que está basado el resultado (por ejemplo, destino en Origen a Destino)</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="334"/>
@@ -2431,7 +2431,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="60"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="376"/>
         <source>Input sequence browser containing the images and transforms used for volume reconstruction</source>
-        <translation>Navegador de secuencias de entrada que contiene las imágenes y las transformaciones utilizadas para la reconstrucción del volumen.</translation>
+        <translation>Navegador de secuencias de entrada que contiene las imágenes y las transformaciones utilizadas para la reconstrucción del volumen</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="63"/>
@@ -2447,7 +2447,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="73"/>
         <source>Output volume node:</source>
-        <translation>Nodo de volumen de salida</translation>
+        <translation>Nodo de volumen de salida:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="98"/>
