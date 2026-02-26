@@ -2397,7 +2397,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="68"/>
         <source>Module for taking a snapshot of a position tracked ultrasound image and display it as a model node. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation>Este módulo permite tomar una imagen instantánea de una ecografía con seguimiento de posición y mostrarla como un nodo modelo. Para obtener ayuda sobre cómo utilizar este módulo, visite&lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
+        <translation>Este módulo permite tomar una imagen instantánea de una ecografía con seguimiento de posición y mostrarla como un nodo modelo. Para obtener ayuda sobre cómo utilizar este módulo, visite&lt;a href=&apos;https://ww.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
