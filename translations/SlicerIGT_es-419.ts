@@ -10,7 +10,8 @@ This module registers fiducial list to a model surface using iterative closest p
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
         <translation>
-Este módulo registra la lista fiducial en una superficie modelo utilizando el método iterativo de puntos más cercanos (ICP).Para obtener ayuda sobre cómo utilizar este módulo, visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+Este módulo registra la lista fiducial en una superficie modelo utilizando el método iterativo de puntos más cercanos (ICP).
+Para obtener ayuda sobre cómo utilizar este módulo, visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </translation>
     </message>
     <message>
@@ -244,7 +245,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 </source>
         <translation>
 Este módulo aplica el registro iterativo por puntos más cercanos entre dos modelos de superficie.
-
 Para obtener ayuda sobre cómo utilizar este módulo, visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </translation>
     </message>
@@ -358,8 +358,7 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 </source>
         <translation>
 Este es un ejemplo de módulo cargable con script incluido en una extensión.
-
-Más información en &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
+Más información en &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;
 </translation>
     </message>
     <message>
