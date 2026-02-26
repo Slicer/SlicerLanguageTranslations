@@ -22,7 +22,10 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Profesor Asistente de Radiología
+Brigham and Women’s Hospital
+Harvard Medical School
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="4"/>
@@ -45,13 +48,18 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>1_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Profesor Asistente de Radiología
+
+Brigham and Women’s Hospital
+
+Harvard Medical School
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="7"/>
         <source>Goal</source>
         <extracomment>2_Goal_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Meta</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="8"/>
@@ -315,7 +323,7 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <location filename="text_dict_default.json" line="49"/>
         <source>Acknowledgements</source>
         <extracomment>19_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
