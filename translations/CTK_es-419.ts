@@ -404,6 +404,7 @@ Al cerrar la pestaña se cancelará el cálculo actual.</translation>
 
 %2</source>
         <translation>Error al crear un %1 frontend:
+
 %2</translation>
     </message>
 </context>
