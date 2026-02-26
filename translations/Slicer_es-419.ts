@@ -25099,7 +25099,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation>Copiar de la segmentación actual a otro nodo (nodo Segmentación para copiar y nodo Modelo o Mapa de etiquetas para importar/exportar)</translation>
+        <translation>Copiar de la segmentación actual a otro nodo (nodo de Segmentación para copiar y nodo de Modelo o Mapa de etiquetas para importar/exportar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
@@ -25109,7 +25109,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="419"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation>Copiar de la segmentación actual a otro nodo (nodo Segmentación para copiar y nodo Modelo o Mapa de etiquetas para importar/exportar)</translation>
+        <translation>Copiar de la segmentación actual a otro nodo (nodo de Segmentación para copiar y nodo de Modelo o Mapa de etiquetas para importar/exportar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="422"/>
