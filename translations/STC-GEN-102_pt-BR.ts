@@ -89,19 +89,19 @@ Faculdade de Medicina de Harvard</translation>
         <location filename="text_dict_default.json" line="12"/>
         <source>Drag and drop the slicer4minute.mrb to load the scene in Slicer</source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arraste e solte o slicer4minute.mrb para carregar a cena no Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="13"/>
         <source>Slicer4minute Scene</source>
         <extracomment>6_Slicer4minuteScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cena Slicer em 4 minutos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Slicer displays the elements of the slicer4minute scene. The scene contains and MRI scan and 3D surface models of the brain.</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer exibe os elementos da cena slicer4minute. A cena contém e ressonância magnética e modelos de superfície 3D do cérebro.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="15"/>
@@ -113,20 +113,21 @@ Faculdade de Medicina de Harvard</translation>
         <location filename="text_dict_default.json" line="16"/>
         <source>Select the module Models</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o módulo Modelos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="17"/>
         <source>3D visualization</source>
         <extracomment>8_3Dvisualization_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visualização 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Click on the pin icon on the top left corner of the red slice to display the slice viewer menu.
 Click on the eye icon to display the axial slice in the 3D viewer</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique no ícone de alfinete no canto superior esquerdo da fatia vermelha para exibir o menu do visualizador de fatias.
+Clique no ícone de olho para exibir a fatia axial no visualizador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="19"/>
@@ -140,7 +141,9 @@ Click on the eye icon to display the axial slice in the 3D viewer</source>
 
 Slicer simultaneously displays the axial slice in the 3D viewer</source>
         <extracomment>9_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Use o controle deslizante do visualizador vermelho para navegar pelos cortes de RM axial.
+
+Slicer exibe simultaneamente a fatia axial no espectador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="21"/>
@@ -152,13 +155,13 @@ Slicer simultaneously displays the axial slice in the 3D viewer</source>
         <location filename="text_dict_default.json" line="22"/>
         <source>Select the Skin model and lower its opacity using the Opacity slider in the 3D Display tab</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo de pele e baixe sua opacidade usando o controle deslizante de opacidade na guia Display 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="23"/>
         <source>The skull_bone.vtk model appears through the skin.</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O modelo skull_bone.vtk aparece através da pele.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
@@ -171,13 +174,14 @@ Slicer simultaneously displays the axial slice in the 3D viewer</source>
         <source>Position the mouse in the 3D viewer, click on the left-mouse button to drag and rotate the model. 
 Click on the right-mouse button to zoom in and out</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Posicione o mouse no visualizador 3D, clique no botão esquerdo para arrastar e girar o modelo.
+Clique no botão direito do mouse para ampliar e sair</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Anatomical Views</source>
         <extracomment>12_AnatomicalViews_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visões anatômicas</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="27"/>
@@ -185,7 +189,9 @@ Click on the right-mouse button to zoom in and out</source>
 
 Click on the eye icon to display the axial and coronal slice in the 3D viewer</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique nos ícones de alfinete no canto superior esquerdo do visor vermelho e verde para exibir o menu do espectador de cortes
+
+Clique no ícone do olho para exibir o corte axial e coronal no visualizador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -197,7 +203,7 @@ Click on the eye icon to display the axial and coronal slice in the 3D viewer</s
         <location filename="text_dict_default.json" line="29"/>
         <source>Turn off the visibility of the skull to display the brain white matter model</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desligue a visibilidade do crânio para exibir o modelo de matéria branca do cérebro</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -209,13 +215,13 @@ Click on the eye icon to display the axial and coronal slice in the 3D viewer</s
         <location filename="text_dict_default.json" line="31"/>
         <source>The white matter surface, as well as the left and right optic nerves, appear in the viewer</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A superfície da matéria branca, bem como os nervos ópticos esquerdo e direito, aparecem no visualizador</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>3D Visualization</source>
         <extracomment>15_3DVisualization_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visualização 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="33"/>
@@ -225,7 +231,11 @@ Check Clipping in the 3D Display tab
 
 In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; and check &apos;Negative&apos;</source>
         <extracomment>15_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o modelo hemispheric_white_matter.vtk
+
+Verificar Clipping na guia Display 3D
+
+Na guia Clipping Planes, selecione a opção &apos;Green Slice Clipping&apos; e verifique &apos;Negativo&apos;</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
@@ -239,7 +249,9 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
 
 *The Slicer5 training compendium contains a series of tutorials and pre-computed datasets to learn how to use the software.</source>
         <extracomment>16_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*Este tutorial foi uma breve introdução na visualização 3D interativa de dados de RM e modelos 3D em Slicer.
+
+*O Compêndio de treinamento Slicer5 contém uma série de tutoriais e conjuntos de dados pré-computados para aprender a usar o software.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
@@ -257,7 +269,13 @@ Neuroimage Analysis Center
 NIH P41EB015902
 </source>
         <extracomment>17_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aliança Nacional para Computação de
+Imagem Médica
+NIH U54EB005149
+
+Centro de Análise de Neuroimagem
+NIH P41EB015902
+</translation>
     </message>
 </context>
 </TS>
