@@ -7,7 +7,7 @@
         <location filename="text_dict_default.json" line="1"/>
         <source>AI-based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación basada en IA en 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="2"/>
@@ -16,14 +16,18 @@ Brigham and Women&apos;s Hospital,
 Harvard Medical School
 Boston, MA</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dra. Sonia Pujol
+Brigham and Women&apos;s Hospital,
+Harvard Medical School
+Boston, MA</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="3"/>
         <source>Slicer Ribeirão Preto Workshop
 June 30, 2025</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer Workshop Ribeirão Preto 
+Junio 30, 2025</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="4"/>
@@ -35,13 +39,13 @@ June 30, 2025</source>
         <location filename="text_dict_default.json" line="5"/>
         <source>Medical images have traditionally been manually segmented, which is a time-consuming process that requires intensive effort by radiologists and is subject to inter-reader variability.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Las imágenes médicas han sido segmentadas tradicionalmente de forma manual, lo cual es un proceso que consume mucho tiempo, requiere un esfuerzo intensivo por parte de los radiólogos y está sujeto a variabilidad entre radiólogos.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="6"/>
         <source>Manual vs AI-powered Segmentation</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación manual vs. segmentación asistida por IA</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="7"/>
@@ -50,13 +54,16 @@ June 30, 2025</source>
 
 AI-powered segmentation tools can reduce the segmentation time and provide more reproducible results.</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>En la última década, la segmentación de imágenes ha sido impulsada por el desarrollo de algoritmos de aprendizaje profundo (p. ej., nnUnet del Centro Alemán de Investigación del Cáncer (DKFZ)/Helmholtz Research).
+
+
+ Las herramientas de segmentación basadas en IA pueden reducir el tiempo de segmentación y proporcionar resultados más reproducibles.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="8"/>
         <source>AI Terminology</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Terminología de IA</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="9"/>
@@ -333,7 +340,7 @@ Click on Apply to start the segmentation</source>
         <location filename="text_dict_default.json" line="44"/>
         <source>Conclusion</source>
         <extracomment>30_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conclusión</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="45"/>
@@ -348,7 +355,7 @@ The module can run on standard laptop and desktop computers with no GPU.</source
         <location filename="text_dict_default.json" line="46"/>
         <source>Acknowledgements</source>
         <extracomment>31_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="47"/>
