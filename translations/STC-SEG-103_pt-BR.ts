@@ -7,7 +7,7 @@
         <location filename="text_dict_default.json" line="1"/>
         <source>AI-based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentação baseada em IA no 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="2"/>
@@ -16,14 +16,18 @@ Brigham and Women&apos;s Hospital,
 Harvard Medical School
 Boston, MA</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sonia Pujol, Ph. D
+Brigham and Women&apos;s Hospital ,
+Escola de Medicina de Harvard
+Boston, MA</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="3"/>
         <source>Slicer Ribeirão Preto Workshop
 June 30, 2025</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Oficina de Slicer Ribeirão Preto
+30 de junho de 2025</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="4"/>
@@ -35,13 +39,13 @@ June 30, 2025</source>
         <location filename="text_dict_default.json" line="5"/>
         <source>Medical images have traditionally been manually segmented, which is a time-consuming process that requires intensive effort by radiologists and is subject to inter-reader variability.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>As imagens médicas têm sido tradicionalmente segmentadas manualmente, o que é um processo demorado que requer esforço intensivo de radiologistas e está sujeito à variabilidade inter-reader.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="6"/>
         <source>Manual vs AI-powered Segmentation</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Manual vs Segmentação por IA</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="7"/>
@@ -50,13 +54,14 @@ June 30, 2025</source>
 
 AI-powered segmentation tools can reduce the segmentation time and provide more reproducible results.</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Na última década, a segmentação de imagem tem sido alimentada pelo desenvolvimento de algoritmos de aprendizagem profunda (por exemplo, nnUnet pelo Centro Alemão de Pesquisa de Câncer (DKFZ)/Helmholtz Research).
+As ferramentas de segmentação alimentadas por IA podem reduzir o tempo de segmentação e proporcionar resultados mais reprodutíveis.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="8"/>
         <source>AI Terminology</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Terminologia</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="9"/>
