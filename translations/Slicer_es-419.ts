@@ -1796,8 +1796,9 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
         <source>
   </source>
         <translation>
-  ..
-  </translation>
+
+  
+</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
