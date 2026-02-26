@@ -2387,7 +2387,8 @@ Si a continuación se especifica un nodo Forma::Tubo, este parámetro se ignora.
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
         <source>Use a Shape::Tube node to limit the circumferential
 extent, instead of a fixed diameter tube.</source>
-        <translation>Utilice un nodo de Forma::Tubo para limitar la extensión circunferencial, en lugar de un tubo de diámetro fijo.</translation>
+        <translation>Utilice un nodo de Forma::Tubo para limitar la extensión circunferencial, 
+en lugar de un tubo de diámetro fijo.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="329"/>
@@ -2458,7 +2459,7 @@ Si se extraen líneas centrales, sustituir opcionalmente el segmento por su regi
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
         <translation>
-Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;/a&gt; intenta segmentar las venas principales utilizando efectos del &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;editor de segmentos&lt;/a&gt;.
+Este &lt;a href=“https://github.com/vmtk/SlicerExtension-VMTK/”&gt;módulo&lt;/a&gt; intenta segmentar las venas principales utilizando efectos del &apos;editor de segmentos&apos;.
 </translation>
     </message>
     <message>
@@ -2607,7 +2608,8 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="309"/>
         <source>Gaussian standard
 deviation:</source>
-        <translation>Desviación del estándar Gaussian:</translation>
+        <translation>Desviación estándar
+Gaussiana:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="323"/>
@@ -2961,7 +2963,7 @@ Se recomienda generar líneas centrales en segmentaciones precisas.</translation
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; straightens an open input markups curve and displays cumulative and individual lengths between control points. It is intended for quick one dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
         <translation>
-Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;/a&gt; endereza una curva de marcas de entrada abierta y muestra las longitudes acumuladas e individuales entre los puntos de control. Está pensado para la evaluación rápida de estenosis arteriales unidimensionales, pero en realidad no tiene ningún propósito.
+Este &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; endereza una curva de marcas de entrada abierta y muestra las longitudes acumuladas e individuales entre los puntos de control. Está pensado para la evaluación rápida de estenosis arteriales unidimensionales, pero en realidad no tiene ningún propósito.
 </translation>
     </message>
     <message>
@@ -3040,7 +3042,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
         <translation>
-Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;/a&gt; calcula la superficie de los segmentos cortados por un plano de corte en su orientación. Está pensado para la evaluación rápida de estenosis arteriales bidimensionales, pero en realidad no tiene ningún propósito.
+Este &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; calcula la superficie de los segmentos cortados por un plano de corte en su orientación. Está pensado para la evaluación rápida de estenosis arteriales bidimensionales, pero en realidad no tiene ningún propósito.
 </translation>
     </message>
     <message>
