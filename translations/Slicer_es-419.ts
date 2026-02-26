@@ -25954,7 +25954,7 @@ Nota: Esto se aplica a las tablas de segmentos de los módulos Editor de segment
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="116"/>
         <source>Control whether a file must be downloaded even if it is already in the cache</source>
-        <translation>Controlar si un archivo debe descargarse aunque ya esté en la memoria caché.</translation>
+        <translation>Controlar si un archivo debe descargarse aunque ya esté en la memoria caché</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="119"/>
