@@ -27760,7 +27760,7 @@ Nota: Esto puede provocar una pérdida de datos no deseada en el %4.</translatio
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
         <source>Failed to convert %1 to %2</source>
-        <translation>¡Error al convertir %1 a %2!</translation>
+        <translation>Error al convertir %1 a %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
@@ -27819,9 +27819,9 @@ Visite el módulo Segmentación y pruebe la función avanzada de creación de re
         <source>Failed to export segments from segmentation %1 to labelmap node!
 
 Most probably the segment cannot be converted into binary labelmap representation</source>
-        <translation>Error al exportar segmentos de la segmentación %1 al nodo mapa de etiquetas.
+        <translation>¡Error al exportar segmentos de la segmentación %1 al nodo mapa de etiquetas!.
 
-Lo más probable es que el segmento no pueda convertirse en una representación binaria de mapa de etiquetas.</translation>
+Lo más probable es que el segmento no pueda convertirse en una representación binaria de mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1100"/>
@@ -27935,7 +27935,7 @@ Nota: Esto puede provocar una pérdida de datos no deseada en %5.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="264"/>
         <source>Failed to convert %1 to %2</source>
-        <translation>¡Error al convertir %1 a %2!</translation>
+        <translation>Error al convertir %1 a %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="265"/>
