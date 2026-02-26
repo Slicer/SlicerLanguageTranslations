@@ -19504,7 +19504,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="226"/>
         <source>Failed to resolve expected symbol &apos;%1&apos;</source>
-        <translation>No se ha podido resolver el símbolo esperado &apos;%1&apos;.</translation>
+        <translation>No se ha podido resolver el símbolo esperado &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -20166,7 +20166,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="85"/>
         <source>Select or create a new parameter node.</source>
-        <translation>Seleccionar o crear un nuevo nodo de parámetros</translation>
+        <translation>Seleccionar o crear un nuevo nodo de parámetros.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="96"/>
@@ -21192,7 +21192,7 @@ Exportar %n nodos</numerusform>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1812"/>
         <source>Failed downloading: %1</source>
-        <translation>Failed downloading: %1</translation>
+        <translation>Descarga fallida: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1823"/>
@@ -21202,12 +21202,12 @@ Exportar %n nodos</numerusform>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1843"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
-        <translation>Error al listar el archivo de extensión &apos;%1&apos;.</translation>
+        <translation>Error al listar el archivo de extensión &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1858"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
-        <translation>No se ha encontrado la descripción de la extensión en el archivo &apos;%1&apos;.</translation>
+        <translation>No se ha encontrado la descripción de la extensión en el archivo &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1873"/>
@@ -24163,7 +24163,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="302"/>
         <source>Rotate the slice in the current slice plane, around the slice normal</source>
-        <translation>Rota el corte en el plano de corte actual, alrededor de la normal del corte.</translation>
+        <translation>Rota el corte en el plano de corte actual, alrededor de la normal del corte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="315"/>
