@@ -5,224 +5,299 @@
     <name>Main</name>
     <message>
         <location filename="text_dict_default.json" line="8"/>
+        <location filename="text_dict_default.json" line="14"/>
         <source>Slicer Welcome</source>
-        <extracomment>0_TextBox_0</extracomment>
+        <extracomment>0_TextBox_0
+----------
+1_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
-        <source>Sonia Pujol, Ph.D.</source>
-        <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="12"/>
-        <source>28/08/2024</source>
-        <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="14"/>
-        <source><byte value="x2"/>Assistant	Professor	of	Radiology	
-Brigham	and	Women’s	Hospital	
-Harvard	Medical	School	</source>
-        <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="text_dict_default.json" line="16"/>
-        <source>Goal</source>
-        <extracomment>1_Goal_title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="18"/>
-        <source>This tutorial is a short introduction to the Welcome module of the Slicer open-source software. </source>
-        <extracomment>1_Goal_body</extracomment>
+        <source>Sonia Pujol, Ph.D.</source>
+        <extracomment>0_TextBox_1
+----------
+1_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
-        <source>3D Slicer version 4.8</source>
-        <extracomment>2_3DSlicerversion48_title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="22"/>
-        <source>Welcome to Slicer</source>
-        <extracomment>3_WelcometoSlicer_title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="24"/>
-        <source>Each	module	of	Slicer	
-includes	a	series	of	tabs,	
-which	give	access	
-different	functionalities.
-
-Click	on	the	arrow	
-symbol	to	display	the	
-content	of	each	tab.	</source>
-        <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="26"/>
-        <source>Slicer User Interface</source>
-        <extracomment>4_SlicerUserInterface_title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="28"/>
-        <source>User	Interface	
-(UI)	panel	of	the	
-Slicer	Welcome	
-Module	</source>
-        <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="30"/>
-        <source>Toolbar</source>
-        <extracomment>4_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="32"/>
-        <source>3D viewer</source>
-        <extracomment>4_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="34"/>
-        <source>2D anatomical viewers</source>
-        <extracomment>4_ArrowText_4</extracomment>
+        <source>Goal</source>
+        <extracomment>2_Goal_title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
-        <source>Data probe</source>
-        <extracomment>4_ArrowText_5</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="38"/>
-        <location filename="text_dict_default.json" line="42"/>
-        <location filename="text_dict_default.json" line="54"/>
-        <source>Welcome Module</source>
-        <extracomment>5_WelcomeModule_title
-----------
-6_WelcomeModule_title
-----------
-9_WelcomeModule_title</extracomment>
+        <source>Welcome to Slicer</source>
+        <extracomment>6_WelcometoSlicer_title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
-        <source>The	Documentation &amp;	Tutorials	
-tab	contains	links	to	the	training	
-compendium	and	documentation  pages	of	3D	Slicer	version	4.8.	</source>
-        <extracomment>5_TextBox_0</extracomment>
+        <source>Slicer User Interface</source>
+        <extracomment>7_SlicerUserInterface_title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="42"/>
+        <source>Toolbar</source>
+        <extracomment>7_ArrowText_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
-        <source>The	Welcome	module	panel	contains	
-shortcuts	for	loading	different	types	
-of	data.	A	series	of	sample	data	are	
-also	available		
-
-Click	on		Download	Sample	Data	to	
-access	the	Sample	Data	Module	</source>
-        <extracomment>6_TextBox_0</extracomment>
+        <source>3D viewer</source>
+        <extracomment>7_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="46"/>
         <location filename="text_dict_default.json" line="50"/>
-        <source>Sample data</source>
-        <extracomment>7_Sampledata_title
-----------
-8_Sampledata_title</extracomment>
+        <source>2D anatomical viewers</source>
+        <extracomment>7_ArrowText_6</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
-        <source>The	Sample	Data	module	
-contains	links	to	different	
-sample	datasets	that	can	be	
-downloaded	into	Slicer.	</source>
-        <extracomment>7_TextBox_0</extracomment>
+        <source>Data probe</source>
+        <extracomment>7_TextBox_5</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="12"/>
+        <source>Assistant Professor of Radiology
+Brigham and Women’s Hospital
+Harvard Medical School
+</source>
+        <extracomment>0_TextBox_3</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="18"/>
+        <source>Assistant Professor of Radiology
+
+Brigham and Women’s Hospital
+
+Harvard Medical School
+</source>
+        <extracomment>1_TextBox_3</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="22"/>
+        <source>This tutorial is a short introduction to the Welcome module of the Slicer open-source software.</source>
+        <extracomment>2_Goal_body</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="24"/>
+        <location filename="text_dict_default.json" line="28"/>
+        <source>Slicer5 Basics</source>
+        <extracomment>3_TextBox_0
+----------
+4_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="26"/>
+        <source>*Slicer is an open-source software for segmentation, registration and visualization of medical imaging data.
+*The platform is developed through a multi-institution effort of several NIH funded large-scale consortia.
+*Slicer is for medical research only, and is not FDA approved. </source>
+        <extracomment>3_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="30"/>
+        <source>3D Slicer 5 version 5.10.0 includes over 100 modules and more than 190 extensions for image segmentation, registration and 3D visualization of medical imaging data.</source>
+        <extracomment>4_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="32"/>
+        <source>Supported Platforms</source>
+        <extracomment>5_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="34"/>
+        <source>*Slicer is a multi-platform software developed and maintained on Mac OSX, Linux and Windows.
+
+*Slicer requires a minimum of 2 GB of RAM and a dedicated graphic accelerator with 64 MB of on-board graphic memory. </source>
+        <extracomment>5_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="38"/>
+        <source>Each module of Slicer includes a series of tabs, which give access to different functionalities.
+
+Click on the arrow symbol to display the content of each tab. </source>
+        <extracomment>6_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="46"/>
+        <source>User Interface (UI) panel of the Slicer Welcome Module</source>
+        <extracomment>7_TextBox_3</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
-        <source>Click	on	MRHead to	download	the	
-dataset	in	Slicer.	</source>
-        <extracomment>8_ArrowText_0</extracomment>
+        <location filename="text_dict_default.json" line="56"/>
+        <location filename="text_dict_default.json" line="80"/>
+        <source>Welcome Module</source>
+        <extracomment>8_WelcomeModule_title
+----------
+9_WelcomeModule_title
+----------
+13_WelcomeModule_title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="56"/>
-        <source>The	MR	scan	of	the	brain	appears	
-in	the	2D	viewers.</source>
-        <extracomment>9_TextBox_0</extracomment>
+        <location filename="text_dict_default.json" line="54"/>
+        <source>The Documentation &amp; Tutorials tab contains links to the training compendium and documentation pages of 3D Slicer.</source>
+        <extracomment>8_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
-        <location filename="text_dict_default.json" line="62"/>
-        <source>MR Brain Sample Dataset</source>
-        <extracomment>10_MRBrainSampleDataset_title
-----------
-11_MRBrainSampleDataset_title</extracomment>
+        <source>The Welcome module panel contains shortcuts for loading different types of data. A series of sample data are also available.
+
+Click on Download Sample Data to access the Sample Data Module</source>
+        <extracomment>9_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
-        <source>Position the mouse on the little pin	
-icon	in the top left corner of the red viewer to display the viewer menu</source>
-        <extracomment>10_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="text_dict_default.json" line="64"/>
-        <source>Click	on	the	link	icon	to	link	all	three	2D	
-viewers,	and	on	the	eye	icon	next	to	it	
-to	display	the	slices	in	the	3D	viewer	);</source>
-        <extracomment>11_TextBox_0 12_MRBrainSampleDataset_title</extracomment>
+        <location filename="text_dict_default.json" line="76"/>
+        <source>Sample Data</source>
+        <extracomment>10_SampleData_title
+----------
+11_SampleData_title
+----------
+12_SampleData_title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="69"/>
-        <source>The	axial,	coronal	and	sagittal slices	
-appear	in	the	3D	viewer.	
-Go	back	to	the	Welcome	module	
-using	the	green	arrow	in	the	toolbar	);</source>
-        <extracomment>12_TextBox_0 13_GoingFurther_title</extracomment>
+        <location filename="text_dict_default.json" line="62"/>
+        <source>The Sample Data module contains links to different sample datasets that can be downloaded into Slicer.</source>
+        <extracomment>10_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="66"/>
+        <source>Brain MR</source>
+        <extracomment>11_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="68"/>
+        <source>Chest CT</source>
+        <extracomment>11_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="70"/>
+        <source>Cardiac CT</source>
+        <extracomment>11_TextBox_2</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="72"/>
+        <source>Diffusion Tensor Imaging (DTI) Dataset</source>
+        <extracomment>11_TextBox_3</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="74"/>
-        <source>To	learn	more	about	Slicer	and	
-its	different	functionalities, visit the Slicer4.8 compendium</source>
-        <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="76"/>
-        <source>Acknowledgements</source>
-        <extracomment>14_TextBox_0</extracomment>
+        <source>Brain MRI (tumor patient)</source>
+        <extracomment>11_TextBox_4</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
-        <source>National Alliance for Medical Image Computing
-NIH U54EB005148
+        <source>Click on MRHead to download the
+dataset in Slicer.</source>
+        <extracomment>12_ArrowText_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="82"/>
+        <source>The MR scan of the brain appears
+in the 2D viewers.</source>
+        <extracomment>13_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="86"/>
+        <source>Position the mouse on the little pin icon in the top left corner of the red viewer to display the viewer menu</source>
+        <extracomment>14_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="90"/>
+        <source>Click on the link icon to link all three 2D viewers, and on the eye icon next to it
+to display the slices in the 3D viewer</source>
+        <extracomment>15_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="94"/>
+        <source>The axial, coronal and sagittal slices appear in the 3D viewer.
+Go back to the Welcome module using the green arrow in the toolbar</source>
+        <extracomment>16_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="96"/>
+        <location filename="text_dict_default.json" line="100"/>
+        <source>Going Further</source>
+        <extracomment>17_GoingFurther_title
+----------
+18_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="98"/>
+        <source>To learn more about Slicer and its different functionalities, visit the Slicer Compendium</source>
+        <extracomment>17_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="102"/>
+        <source>https://training.slicer.org/</source>
+        <extracomment>18_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="106"/>
+        <source>National Alliance for Medical Image
+Computing
+NIH U54EB005149
 
-Neuroimaging Analysis Center
-NIH P41EB015902</source>
-        <extracomment>14_TextBox_1</extracomment>
+Neuroimage Analysis Center
+NIH P41EB015902
+
+Chan Zuckerberg Initiative (CZI)</source>
+        <extracomment>19_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="84"/>
+        <location filename="text_dict_default.json" line="88"/>
+        <location filename="text_dict_default.json" line="92"/>
+        <source>MR Brain Sample Dataset</source>
+        <extracomment>14_MRBrainSampleDataset_title
+----------
+15_MRBrainSampleDataset_title
+----------
+16_MRBrainSampleDataset_title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="104"/>
+        <source>Acknowledgements</source>
+        <extracomment>19_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
