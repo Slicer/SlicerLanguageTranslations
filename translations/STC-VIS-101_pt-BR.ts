@@ -25,7 +25,7 @@
         <location filename="text_dict_default.json" line="4"/>
         <source>Assistant Professor of Radiology Brigham and Women’s Hospital Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Professora Assistente de Radiologia Brigham e Escola Médica de Harvard do Hospital das Mulheres</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="5"/>
@@ -55,7 +55,13 @@
 
 • to load and visualize 3D models reconstructed from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> • Seguindo este tutorial, você será capaz
+
+• para carregar e visualizar imagens DICOM no Slicer
+
+• executar a renderização de volume de dados CT
+
+• para carregar e visualizar modelos 3D reconstruídos a partir de dados de RM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="9"/>
@@ -69,7 +75,9 @@
 
 •  3D VisualizationDataSet.zip</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>-3D Slicer versão 5.10
+
+-3D VisualizationDataSet.zip</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="11"/>
@@ -86,7 +94,13 @@
 
 Unzip the file 3DVisualizationDataset.zip on your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo 3DVisualizationDataset.zip contém
+dois diretórios:
+-dataset1_Thorax_Abdomen
+-dataset2_Head
+
+Descompactar o arquivo 3DVisualizationDataset.zip em
+seu computador para acessar os conjuntos de dados</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="13"/>
@@ -102,7 +116,8 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 • The software is not FDA approved or CE-Marked, and is for research use only.
 Tutorial Outline</source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• O 3D Slicer é um software de código aberto gratuito distribuído sob uma licença no estilo BSD.
+• O software não possui aprovação da FDA nem marcação CE, e é apenas para uso em pesquisa.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="15"/>
@@ -119,13 +134,17 @@ Tutorial Outline</source>
 
 • Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Parte 1: Carregando e visualizando dados DICOM
+
+Parte 2: Renderização de volume
+
+Parte 3: Carregando e visualizando modelos 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="17"/>
         <source>Part 1: DICOM Data Loading</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Parte 1: Carregamento de Dados DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
@@ -514,7 +533,7 @@ viewing 3D models
         <location filename="text_dict_default.json" line="68"/>
         <source>Tutorial dataset</source>
         <extracomment>33_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de dados do tutorial</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="69"/>
