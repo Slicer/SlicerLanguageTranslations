@@ -8,13 +8,14 @@
         <source>Slicer4 Minute
 </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer em 4 Minutos
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="2"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="3"/>
@@ -22,7 +23,9 @@
 Brigham and Women’s Hospital
 Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Professor Assistente de Radiologia
+Hospital Brigham and Women&apos;s
+Faculdade de Medicina de Harvard</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="4"/>
@@ -34,13 +37,13 @@ Harvard Medical School</source>
         <location filename="text_dict_default.json" line="5"/>
         <source>This tutorial is a 4-minute introduction to the 3D visualization capabilities of the Slicer5 software for medical image analysis. </source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Este tutorial é uma introdução de 4 minutos às capacidades de visualização 3D do software Slicer5 para análise de imagem médica. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="6"/>
         <source>Slicer5 software &amp; dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Software Slicer5 e conjunto de dados</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="7"/>
@@ -48,19 +51,21 @@ Harvard Medical School</source>
 
 *Download the Slicer4minute dataset available at https://www.slicer.org/wiki/Documentation/4.10/Training</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*Baixe o software Slicer5 disponível em http://download.slicer.org
+
+*Baixe o conjunto de dados Slicer4minute disponível em https://www.slicer.org/wiki/Documentation/4.10/Training</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="8"/>
         <source>3D Slicer version 5</source>
         <extracomment>3_3DSlicerversion5_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer versão 5</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="9"/>
         <source>3D Slicer Scene</source>
         <extracomment>4_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cena 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -69,13 +74,16 @@ Harvard Medical School</source>
 *The scene file and datasets have been saved as a MRB (Medical Reality Bundle) file. 
 *The MRB file format is Slicer&apos;s archive file format.</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*A cena Slicer é um arquivo MRML (Medical Reality Modeling Language) que contém uma lista de elementos carregados em Slicer (volumes, modelos, fiduciais, transformas, etc.)
+*No exemplo a seguir, usamos uma cena &apos;Slicer4minute.mrml&apos; composta por uma varredura de RM e modelos 3D da cabeça.
+*O arquivo de cena e conjuntos de dados foram salvos como um arquivo MRB (Medical Reality Bundle).
+*O formato de arquivo MRB é o formato de arquivo Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="11"/>
         <source>Loading the Slicer4minute dataset</source>
         <extracomment>5_LoadingtheSlicer4minutedataset_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Carregando o conjunto de dados Slicer4minute</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -223,7 +231,7 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer4 minute tutorial</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial de 4 minutos do Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="35"/>
@@ -237,7 +245,7 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
         <location filename="text_dict_default.json" line="36"/>
         <source>Acknowledgements</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="37"/>
