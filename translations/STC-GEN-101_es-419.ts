@@ -34,7 +34,7 @@ Harvard Medical School
         <location filename="text_dict_default.json" line="5"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dra. Sonia Pujol</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="6"/>
