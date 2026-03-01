@@ -1054,7 +1054,13 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again. A &apos;fast fix&apos; function is also provided.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obter o número de regiões distintas conectadas na superfície lumen.
+
+Idealmente, deveria existir apenas uma região. Mais regiões podem indicar a presença de buracos no lumen e/ou regiões distintas fora do lumen. Buracos no lumen podem significar medições da área da secção transversal imprecisas.
+
+Quando as regiões indesejadas tiverem sido corrigidas, tipicamente usando o efeito &apos;Pintar&apos; do &apos;Editor de Segmentos&apos;, esta função poderá ser executada novamente. Uma função de &apos;correção rápida&apos; também é fornecida.
+
+Após completar a reparação da superfície lumen, as linhas centrais devem ser extraídas novamente para que as arrays de raio da &apos;esfera máxima inscrita&apos; sejam atualizadas.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="478"/>
