@@ -444,7 +444,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation>உருமாற்ற மையத்தை எவ்வாறு துவக்குவது என்பதை தீர்மானிக்கவும். படங்களின் வெகுசன நடுவண் ஒத்த கட்டமைப்புகளைக் குறிக்கிறது என்று USEMOMENTIGNIGN கருதுகிறது. வெகுசன மதிப்பீட்டின் மையத்தை இயக்க USECENTEROFHEADALIGN தலை மற்றும் கழுத்தின் வடிவத்தைப் பயன்படுத்த முயற்சிக்கிறது. படங்களின் வோக்சல் லட்டியின் நடுவண் ஒத்த கட்டமைப்புகளைக் குறிக்கிறது என்று கருதுகிறது. படங்களின் உடல் இடம் நெருக்கமாக இருப்பதாக ஆஃப் கருதுகிறது. துவக்க உருமாற்றத்துடன் இந்த கொடி இருவழி பிரத்தியேகமானது.</translation>
+        <translation>உருமாற்ற மையத்தை எவ்வாறு துவக்குவது என்பதை தீர்மானிக்கவும். படங்களின் வெகுசன நடுவண் ஒத்த கட்டமைப்புகளைக் குறிக்கிறது என்று useMomentsAlign கருதுகிறது. வெகுசன மதிப்பீட்டின் மையத்தை இயக்க useCenterOfHeadAlign தலை மற்றும் கழுத்தின் வடிவத்தைப் பயன்படுத்த முயற்சிக்கிறது. படங்களின் வோக்சல் லட்டியின் நடுவண் ஒத்த கட்டமைப்புகளைக் குறிக்கிறது என்று கருதுகிறது. படங்களின் உடல் இடம் நெருக்கமாக இருப்பதாக ஆஃப் கருதுகிறது. துவக்க உருமாற்றத்துடன் இந்தக் கொடி இருவழி பிரத்தியேகமானது.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -525,7 +525,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>தொடர்ச்சியான பதிவு நடவடிக்கைகளின் ஒரு பகுதியாக ஒரு SCALVERSOR3D பதிவைச் செய்யுங்கள். இந்த விருப்பங்களின் குடும்பம் உருமாற்ற வகை பயன்படுத்துவதை மேலெழுதும்.</translation>
+        <translation>தொடர்ச்சியான பதிவு நடவடிக்கைகளின் ஒரு பகுதியாக ஒரு ScaleVersor3D பதிவைச் செய்யுங்கள். இந்த விருப்பங்களின் குடும்பம் உருமாற்ற வகை பயன்படுத்துவதை மேலெழுதும்.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
@@ -545,7 +545,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>தொடர்ச்சியான பதிவு படிகளின் ஒரு பகுதியாக SYN பதிவைச் செய்யுங்கள். இந்த விருப்பங்களின் குடும்பம் உருமாற்ற வகை பயன்பாட்டை மேலெழுதும்.</translation>
+        <translation>தொடர்ச்சியான பதிவு படிகளின் ஒரு பகுதியாக SyN பதிவைச் செய்யுங்கள். இந்த விருப்பங்களின் குடும்பம் உருமாற்ற வகை பயன்பாட்டை மேலெழுதும்.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
@@ -1137,12 +1137,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
         <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
-        <translation>LBFGSB ஆப்டிமைசரில் வரி தேடலுக்கான அதிகபட்ச மதிப்பீடுகள்.</translation>
+        <translation>lbfgsb ஆப்டிமைசரில் வரி தேடலுக்கான அதிகபட்ச மதிப்பீடுகள்.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
         <source>Maximum number of corrections in lbfgsb optimizer.</source>
-        <translation>LBFGSB உகப்பாக்கியில் அதிகபட்ச திருத்தங்களின் எண்ணிக்கை.</translation>
+        <translation>lbfgsb உகப்பாக்கியில் அதிகபட்ச திருத்தங்களின் எண்ணிக்கை.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
@@ -1182,7 +1182,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation>இந்த நிரல் ஒரு படத்தில் மிக முக்கியமான முன்புற பிராந்தியத்தில் முகமூடியை உருவாக்க பயன்படுகிறது. இது OTSU வாசல் மற்றும் இறுதி செயல்பாட்டின் கலவையின் மூலம் நிறைவேற்றப்படுகிறது.
+        <translation>இந்த நிரல் ஒரு படத்தில் மிக முக்கியமான முன்புற பிராந்தியத்தில் முகமூடியை உருவாக்கப் பயன்படுகிறது. இது otsu வாசல் மற்றும் இறுதி செயல்பாட்டின் கலவையின் மூலம் நிறைவேற்றப்படுகிறது.
   </translation>
     </message>
     <message>
@@ -1258,12 +1258,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation>OTSU சதவீத வாசல்</translation>
+        <translation>otsu சதவீத வாசல்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation>OTSU திருத்தம் காரணி</translation>
+        <translation>otsu திருத்தம் காரணி</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
@@ -1288,12 +1288,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation>OTSU வாசல் வழிமுறைக்கு அளவுரு.</translation>
+        <translation>otsu வாசல் வழிமுறைக்கு அளவுரு.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation>OTSU வழிமுறையின் முடிவு வாசலை அளவிடுவதற்கான ஒரு காரணி, கிளிப்பிங் படத்தை உருவாக்குகிறது.</translation>
+        <translation>otsu வழிமுறையின் முடிவு வாசலை அளவிடுவதற்கான ஒரு காரணி, கிளிப்பிங் படத்தை உருவாக்குகிறது.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
@@ -2846,7 +2846,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"/>
         <source>Dicom To Nrrd Conversion Parameters</source>
-        <translation>NRRD மாற்று அளவுருக்களுக்கு DICOM</translation>
+        <translation>Nrrd மாற்று அளவுருக்களுக்கு Dicom</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
@@ -2856,7 +2856,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation>உள்ளீட்டு DICOM தரவு அடைவு</translation>
+        <translation>உள்ளீட்டு Dicom தரவு அடைவு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
@@ -2877,12 +2877,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"/>
         <source>Input bval file</source>
-        <translation>உள்ளீட்டு BVAL கோப்பு</translation>
+        <translation>உள்ளீட்டு bval கோப்பு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"/>
         <source>Input bvec file</source>
-        <translation>உள்ளீட்டு BVEC கோப்பு</translation>
+        <translation>உள்ளீட்டு bvec கோப்பு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
@@ -2917,12 +2917,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"/>
         <source>Output bval file</source>
-        <translation>வெளியீட்டு BVAL கோப்பு</translation>
+        <translation>வெளியீட்டு bval கோப்பு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"/>
         <source>Output bvec file</source>
-        <translation>வெளியீட்டு BVEC கோப்பு</translation>
+        <translation>வெளியீட்டு bvec கோப்பு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
@@ -2987,7 +2987,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation>ஒவ்வொரு பரவல் சாய்வு திசையையும் அளவீட்டுச் சட்டத்தால் பெருக்கி புரோகோலில் குறிப்பிடப்பட்டுள்ளதால், &quot;.txt&quot; ஆல் பின்னொட்டு செய்யப்பட்ட ஒரு கோப்பிற்கு நெறிமுறை சாய்வுகளை எழுதுங்கள். இந்த கோப்பு பிழைத்திருத்த நோக்கங்களுக்காக மட்டுமே, வடிவம் சரி செய்யப்படவில்லை, மேலும் புதிய DICOM வடிவங்களை பிழைத்திருத்துவது தேவை என்பதால் மாறும்.</translation>
+        <translation>ஒவ்வொரு பரவல் சாய்வு திசையையும் அளவீட்டுச் சட்டத்தால் பெருக்கி புரோகோலில் குறிப்பிடப்பட்டுள்ளதால், &quot;.txt&quot; ஆல் பின்னொட்டு செய்யப்பட்ட ஒரு கோப்பிற்கு நெறிமுறை சாய்வுகளை எழுதுங்கள். இந்தக் கோப்பு பிழைத்திருத்த நோக்கங்களுக்காக மட்டுமே, வடிவம் சரி செய்யப்படவில்லை, மேலும் புதிய dicom வடிவங்களைப் பிழைத்திருத்துவது தேவை என்பதால் மாறும்.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
@@ -3299,7 +3299,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
         <source>Input 4D Image (txyz)</source>
-        <translation>உள்ளீடு 4D படம் (TXYZ)</translation>
+        <translation>உள்ளீடு 4D படம் (txyz)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
@@ -3334,7 +3334,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
         <source>Input transform bspline</source>
-        <translation>உள்ளீட்டு உருமாற்றம் BSPline</translation>
+        <translation>உள்ளீட்டு உருமாற்றம் bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
@@ -3354,7 +3354,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"/>
         <source>Output transform bspline</source>
-        <translation>வெளியீட்டு உருமாற்றம் BSPline</translation>
+        <translation>வெளியீட்டு உருமாற்றம் bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
@@ -3374,7 +3374,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
         <source>A bspline input transform</source>
-        <translation>ஒரு BSPLINE உள்ளீட்டு மாற்றம்</translation>
+        <translation>ஒரு bspline உள்ளீட்டு மாற்றம்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
@@ -3394,7 +3394,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
         <source>A bspline output transform</source>
-        <translation>ஒரு BSPline வெளியீட்டு உருமாற்றம்</translation>
+        <translation>ஒரு bspline வெளியீட்டு உருமாற்றம்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
@@ -4773,7 +4773,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
         <source>Merge the polydata from two input models and output a new model with the combined polydata. Uses the vtkAppendPolyData filter. Works on .vtp and .vtk surface files.</source>
-        <translation>இரண்டு உள்ளீட்டு மாதிரிகளிலிருந்து பாலிடேட்டாவை ஒன்றிணைத்து, ஒருங்கிணைந்த பாலிடேட்டாவுடன் ஒரு புதிய மாதிரியை வெளியிடுங்கள். VTKAppendPolydata வடிப்பானைப் பயன்படுத்துகிறது. .Vtp மற்றும் .vtk மேற்பரப்பு கோப்புகளில் வேலை செய்கிறது.</translation>
+        <translation>இரண்டு உள்ளீட்டு மாதிரிகளிலிருந்து பாலிடேட்டாவை ஒன்றிணைத்து, ஒருங்கிணைந்த பாலிடேட்டாவுடன் ஒரு புதிய மாதிரியை வெளியிடுங்கள். vtkAppendPolyData வடிப்பானைப் பயன்படுத்துகிறது. .Vtp மற்றும் .vtk மேற்பரப்பு கோப்புகளில் வேலை செய்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
@@ -4997,7 +4997,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation>இங்கே நீங்கள் லாப்லாசியன் மென்மையாக்கலுக்கான மென்மையான மறு செய்கைகளின் எண்ணிக்கையை அமைக்கலாம் அல்லது சாளர SINC செயல்பாட்டை தோராயமாக பல்லுறுப்புக்கோவையின் அளவு அமைக்கலாம். நீங்கள் மென்மையாக்க விரும்பினால் 0 ஐப் பயன்படுத்தவும். </translation>
+        <translation>இங்கே நீங்கள் லாப்லாசியன் மென்மையாக்கலுக்கான மென்மையான மறு செய்கைகளின் எண்ணிக்கையை அமைக்கலாம் அல்லது சாளர Sinc செயல்பாட்டைத் தோராயமாகப் பல்லுறுப்புக்கோவையின் அளவு அமைக்கலாம். நீங்கள் மென்மையாக்க விரும்பினால் மென்மையாக்குதல் இல்லைப் பயன்படுத்தவும். </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
@@ -5313,7 +5313,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation>ஆரம்ப BSPLINE கட்டத்தின் தீர்மானம் மூன்று எண்களின் வரிசையாக வரையறுக்கப்படுகிறது. இங்கே குறிப்பிடப்பட்டுள்ள ஒவ்வொரு பரிமாணத்திலும் தெளிவுத்திறனில் BSPline ஆர்டரை (இயல்புநிலை 3) சேர்ப்பதன் மூலம் உண்மையான தீர்மானம் வரையறுக்கப்படும். எடுத்துக்காட்டாக, 1,1,1 கட்டுப்பாட்டு புள்ளிகளின் 4x4x4 கட்டத்தை ஏற்படுத்தும். உங்கள் உள்ளீட்டு படத்தின் அடிப்படையில் இந்த அளவுருவை சரிசெய்ய வேண்டியிருக்கலாம். பல-தெளிவுத்திறன் கொண்ட N4 கட்டமைப்பில், அடுத்தடுத்த மறு செய்கைகளில் BSPline கட்டத்தின் தீர்மானம் இரட்டிப்பாகும். தீர்மானங்களின் எண்ணிக்கை மறைமுகமாக மறு செய்கைகள் அளவுருவின் எண்ணிக்கையால் வரையறுக்கப்படுகிறது (இந்த பட்டியலின் அளவு தீர்மானங்களின் எண்ணிக்கை)</translation>
+        <translation>ஆரம்ப bspline கட்டத்தின் தீர்மானம் மூன்று எண்களின் வரிசையாக வரையறுக்கப்படுகிறது. இங்கே குறிப்பிடப்பட்டுள்ள ஒவ்வொரு பரிமாணத்திலும் தெளிவுத்திறனில் bspline ஆர்டரை (இயல்புநிலை 3) சேர்ப்பதன் மூலம் உண்மையான தீர்மானம் வரையறுக்கப்படும். எடுத்துக்காட்டாக, 1,1,1 கட்டுப்பாட்டு புள்ளிகளின் 4x4x4 கட்டத்தை ஏற்படுத்தும். உங்கள் உள்ளீட்டு படத்தின் அடிப்படையில் இந்த அளவுருவைச் சரிசெய்ய வேண்டியிருக்கலாம். பல-தெளிவுத்திறன் கொண்ட N4 கட்டமைப்பில், அடுத்தடுத்த மறு செய்கைகளில் bspline கட்டத்தின் தீர்மானம் இரட்டிப்பாகும். தீர்மானங்களின் எண்ணிக்கை மறைமுகமாக மறு செய்கைகள் அளவுருவின் எண்ணிக்கையால் வரையறுக்கப்படுகிறது (இந்தப் பட்டியலின் அளவு தீர்மானங்களின் எண்ணிக்கை)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
@@ -5970,7 +5970,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation>ஒரு அளவால் ஒரு மாதிரியை வரைவதற்கு (VTKProbefilter ஐப் பயன்படுத்தி).</translation>
+        <translation>ஒரு அளவால் ஒரு மாதிரியை வரைவதற்கு (vtkProbeFilter ஐப் பயன்படுத்தி).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
@@ -6427,7 +6427,7 @@ Preservation of the Principal Direction (PPD)</source>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation>சாளர SINC இடைக்கணிப்புக்கு பயன்படுத்தப்படும் அளவுருக்கள்</translation>
+        <translation>சாளர Sinc இடைக்கணிப்புக்கு பயன்படுத்தப்படும் அளவுருக்கள்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
@@ -6521,7 +6521,7 @@ b = Blackman</source>
 rt = Rigid Transform
 a = Affine Transform</source>
         <translation>மாற்றும் வழிமுறை
- RT = கடுமையான உருமாற்றம்
+ rt = கடுமையான உருமாற்றம்
  a = அஃபைன் உருமாற்றம்</translation>
     </message>
     <message>
@@ -6878,7 +6878,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation>சாளர SINC இடைக்கணிப்புக்கு பயன்படுத்தப்படும் அளவுருக்கள்</translation>
+        <translation>சாளர Sinc இடைக்கணிப்புக்கு பயன்படுத்தப்படும் அளவுருக்கள்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
@@ -6968,7 +6968,7 @@ b = Blackman</source>
 rt = Rigid Transform
 a = Affine Transform</source>
         <translation>மாற்றும் வழிமுறை
- RT = கடுமையான உருமாற்றம்
+ rt = கடுமையான உருமாற்றம்
  a = அஃபைன் உருமாற்றம்</translation>
     </message>
     <message>
@@ -9630,7 +9630,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation>கைப்பற்றப்பட்ட படங்கள் எவ்வாறு சேமிக்கப்படும் என்பதைத் தேர்ந்தெடுக்கவும். வீடியோ பயன்முறையில் மேம்பட்ட பிரிவில் FFMPEG இயங்கக்கூடிய பாதையை அமைக்க வேண்டும்.</translation>
+        <translation>கைப்பற்றப்பட்ட படங்கள் எவ்வாறு சேமிக்கப்படும் என்பதைத் தேர்ந்தெடுக்கவும். வீடியோ பயன்முறையில் மேம்பட்ட பிரிவில் ffmpeg இயங்கக்கூடிய பாதையை அமைக்க வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
@@ -9761,7 +9761,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation>FFMPEG இயங்கக்கூடிய பாதையை அமைக்கவும். இதிலிருந்து பதிவிறக்கு: https://www.ffmpeg.org/</translation>
+        <translation>ffmpeg இயங்கக்கூடிய பாதையை அமைக்கவும். இதிலிருந்து பதிவிறக்கு: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="293"/>
@@ -9771,7 +9771,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="297"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt; &lt;b&gt; &lt;font color = &quot;red&quot;&gt; செல்லுபடியாகும் FFMPEG இயங்கக்கூடிய பாதையை அமைக்கவும்! &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-ffmpeg&quot;&gt; உதவி ... &lt;/a&gt; &lt;/font&gt; &lt;/b&gt; &lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color = &quot;red&quot;&gt; செல்லுபடியாகும் ffmpeg இயங்கக்கூடிய பாதையை அமைக்கவும்! &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-ffmpeg&quot;&gt;உதவி... &lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="305"/>
