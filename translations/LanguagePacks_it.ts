@@ -16,7 +16,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci le traduzioni</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="202"/>
