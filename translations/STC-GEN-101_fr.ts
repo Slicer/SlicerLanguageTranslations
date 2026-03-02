@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>
-            <byte value="x2"/>Assistant	Professor	of	Radiology	
+            <byte value="x2"></byte>Assistant	Professor	of	Radiology	
 Brigham	and	Women’s	Hospital	
 Harvard	Medical	School	</source>
         <extracomment>0_TextBox_3</extracomment>
@@ -116,7 +116,10 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Professeur adjoint en radiologie
+Brigham and Women’s Hospital
+Harvard Medical School
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
@@ -127,13 +130,18 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>1_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Professeur adjoint en radiologie
+
+Brigham and Women’s Hospital
+
+Harvard Medical School
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>This tutorial is a short introduction to the Welcome module of the Slicer open-source software.</source>
         <extracomment>2_Goal_body</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ce tutoriel est une courte introduction au module Welcome du logiciel open-source Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
@@ -142,7 +150,7 @@ Harvard Medical School
         <extracomment>3_TextBox_0
 ----------
 4_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Notions de base Slicer5</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -150,19 +158,21 @@ Harvard Medical School
 *The platform is developed through a multi-institution effort of several NIH funded large-scale consortia.
 *Slicer is for medical research only, and is not FDA approved. </source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*Slicer est un logiciel open-source dédié à la segmentation, au recalage et à la visualisation de données d’imagerie médicale.
+*La plateforme est développée grâce à un effort multi-institutionnel impliquant plusieurs grands consortiums financés par le NIH.
+*Slicer est destiné uniquement à la recherche médicale et n’est pas approuvé par la FDA. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>3D Slicer 5 version 5.10.0 includes over 100 modules and more than 190 extensions for image segmentation, registration and 3D visualization of medical imaging data.</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer 5 version 5.10.0 comprend plus de 100 modules et plus de 190 extensions pour la segmentation d’images, le recalage et la visualisation 3D de données d’imagerie médicale.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Supported Platforms</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Plateformes prises en charge</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
@@ -170,7 +180,9 @@ Harvard Medical School
 
 *Slicer requires a minimum of 2 GB of RAM and a dedicated graphic accelerator with 64 MB of on-board graphic memory. </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*Slicer est un logiciel multiplateforme développé et maintenu sur Mac OS X, Linux et Windows.
+
+*Slicer nécessite au minimum 2 Go de mémoire vive (RAM) ainsi qu’un accélérateur graphique dédié disposant de 64 Mo de mémoire vidéo embarquée.* </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -178,13 +190,15 @@ Harvard Medical School
 
 Click on the arrow symbol to display the content of each tab. </source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Chaque module de Slicer comprend une série d’onglets qui donnent accès à différentes fonctionnalités.
+
+Cliquez sur le symbole en forme de flèche pour afficher le contenu de chaque onglet. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>User Interface (UI) panel of the Slicer Welcome Module</source>
         <extracomment>7_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Panneau d’interface utilisateur (UI) du module Welcome de Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -202,7 +216,7 @@ Click on the arrow symbol to display the content of each tab. </source>
         <location filename="text_dict_default.json" line="54"/>
         <source>The Documentation &amp; Tutorials tab contains links to the training compendium and documentation pages of 3D Slicer.</source>
         <extracomment>8_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>L’onglet Documentation &amp; Tutorials contient des liens vers le compendium de formation et les pages de documentation de 3D Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
@@ -210,7 +224,9 @@ Click on the arrow symbol to display the content of each tab. </source>
 
 Click on Download Sample Data to access the Sample Data Module</source>
         <extracomment>9_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le panneau du module Welcome contient des raccourcis pour charger différents types de données. Une série de données exemples est également disponible.
+
+Cliquez sur Download Sample Data pour accéder au module Sample Data.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
@@ -222,57 +238,57 @@ Click on Download Sample Data to access the Sample Data Module</source>
 11_SampleData_title
 ----------
 12_SampleData_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Données exemples</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="62"/>
         <source>The Sample Data module contains links to different sample datasets that can be downloaded into Slicer.</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le module Sample Data contient des liens vers différents jeux de données exemples pouvant être téléchargés dans Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="66"/>
         <source>Brain MR</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>IRM cérébrale</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
         <source>Chest CT</source>
         <extracomment>11_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Scanner thoracique</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="70"/>
         <source>Cardiac CT</source>
         <extracomment>11_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Scanner cardiaque</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>Diffusion Tensor Imaging (DTI) Dataset</source>
         <extracomment>11_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Jeu de données d’imagerie par tenseur de diffusion (DTI)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="74"/>
         <source>Brain MRI (tumor patient)</source>
         <extracomment>11_TextBox_4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>IRM cérébrale (patient atteint d’une tumeur)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
         <source>Click on MRHead to download the
 dataset in Slicer.</source>
         <extracomment>12_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur MRHead pour télécharger le jeu de données dans Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="82"/>
         <source>The MR scan of the brain appears
 in the 2D viewers.</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le scanner IRM du cerveau apparaît dans les visualiseurs 2D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="86"/>
