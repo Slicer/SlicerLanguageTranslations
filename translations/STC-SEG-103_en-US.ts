@@ -2,7 +2,7 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="en-US">
 <context>
-    <name>Main</name>
+    <name>TutorialMaker</name>
     <message>
         <location filename="text_dict_default.json" line="8"/>
         <source>AI-based Segmentation in 3D Slicer</source>
@@ -11,7 +11,7 @@
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
-        <source>Sonia Pujol, Ph. D
+        <source>Sonia Pujol, Ph. D. 
 Brigham and Women&apos;s Hospital,
 Harvard Medical School
 Boston, MA</source>
@@ -57,11 +57,11 @@ AI-powered segmentation tools can reduce the segmentation time and provide more 
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
-        <source>A is an AI algorithm that was trained to perform a specific task (e.g. brain tumor segmentation model).
+        <source>A Model is an AI algorithm that was trained to perform a specific task (e.g. brain tumor segmentation model).
 
-The Weights of an AI model are small numbers that determine how  much importance the model gives to different image features.
+The Weights of an AI model are small numbers that determine how much importance the model gives to different image features.
 
-During the Training phase, a Model learns patterns from data labelled  by experts and adjusts its weights to improve its predictions.
+During the Training phase, a model learns patterns from data labelled by experts and adjusts its weights to improve its predictions.
 
 During the Validation/Test phase, the model is evaluated on a separate set of data not used during the Training phase.
 
@@ -71,13 +71,13 @@ During Inference, the model is applied to new datasets to perform the specific t
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
-        <source>3D Slicer AI Workshop</source>
+        <source>3D Slicer AI Tutorial</source>
         <extracomment>4_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
-        <source>This tutorial focuses on running inference tasks using various pretrained AI models for automated segmentation of anatomical and pathological structures.</source>
+        <source>This tutorial focuses on running inference tasks using various pre-trained AI models for automated segmentation of anatomical and pathological structures.</source>
         <extracomment>4_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -119,13 +119,13 @@ Multiple pathologies (tumor, hemorrhage, edema).</source>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
-        <source>Segmentation Task #1: Prostate.
+        <source>Segmentation Task #1: Prostate 
 
 
-Segmentation Task #2: Brain Glioma.
+Segmentation Task #2: Brain Glioma 
 
 
-Segmentation Task #3: Whole Body Segmentation.</source>
+Segmentation Task #3: Whole Body Segmentation</source>
         <extracomment>7_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -148,15 +148,17 @@ msd_prostate_01-adc</source>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
-        <source>Click on Add Data in the Welcome to Slicer Module
+        <source>Click on Add Data in the Welcome to Slicer module
 
-Click on Choose Directory to Add and browse to the location of the Slicer datasets</source>
+Click on Choose Directory to Add and browse to the location of the Slicer datasets
+
+Select the dataset3_ProstateMRI and click on Open</source>
         <extracomment>10_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
-        <source>Slicer loads the prostate MRI data set</source>
+        <source>Slicer loads the prostate MRI dataset</source>
         <extracomment>11_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -164,7 +166,7 @@ Click on Choose Directory to Add and browse to the location of the Slicer datase
         <location filename="text_dict_default.json" line="50"/>
         <source>Click on Welcome to Slicer in the Modules&apos; menu and browse to the category Segmentation
 
-Selec the MONAI Auto3DSeg module</source>
+Select the MONAIAuto3DSeg module</source>
         <extracomment>12_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -182,7 +184,7 @@ Selec the MONAI Auto3DSeg module</source>
     </message>
     <message>
         <location filename="text_dict_default.json" line="56"/>
-        <source>Enter the Input T2 volume msd-prostate-01-adc and the Input ADC volume msd-prostate-01-adc.</source>
+        <source>Enter the Input T2 volume msd-prostate-01-t2 and the Input ADC volume msd-prostate-01-adc</source>
         <extracomment>14_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -190,6 +192,12 @@ Selec the MONAI Auto3DSeg module</source>
         <location filename="text_dict_default.json" line="58"/>
         <source>Click on Create new segmentation on Apply</source>
         <extracomment>14_TextBox_1</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="60"/>
+        <source>Slicer starts the inference</source>
+        <extracomment>15_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -219,9 +227,13 @@ Datasets:
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
-        <source>Click on Add Data in the Welcome to Slicer Module
+        <source>Click on Add Data in the Welcome to Slicer module
 
-Click on Choose File(s) to Add and browse to the loccation of the Slicer datasets</source>
+Click on Choose File(s) to Add and browse to the location of the Slicer datasets
+
+In the subdirectory dataset4_BrainMRI_Glioma, select the four datasets BraTS-GLI-00006-t1c.nii.gz, BraTS-GLI-00006-t1n.nii.gz, BraTS-GLI-00006-t2f.nii.gz, BraTS-GLI-00006-t2w.nii.gz
+
+Click on Open</source>
         <extracomment>19_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -241,13 +253,13 @@ Click on Choose File(s) to Add and browse to the loccation of the Slicer dataset
         <location filename="text_dict_default.json" line="74"/>
         <source>Enter the input volumes as follows:
 
-Input T2F volume: BraTS-GLI_00005-000-t12f
-Input T1C volume: BraTS-GLI_00005-00-t1c
+Input T2F volume: BraTS-GLI_00005-000-t2f
+Input T1C volume: BraTS-GLI_00005-000-t1c
 Input T1N volume: BraTS-GLI_00005-000-t1n
 Input T2W volume: BraTS-GLI_00005-000-t2w
 
 
-Click on Create new Segmentation on Appply
+Click on Create new Segmentation on Apply
 
 Click on Apply to start the segmentation</source>
         <extracomment>21_TextBox_0</extracomment>
@@ -291,7 +303,7 @@ CT_ThoraxAbdomen</source>
     </message>
     <message>
         <location filename="text_dict_default.json" line="86"/>
-        <source>Select the module MONAIAuto3DSeg and enter the model&apos;s name Whole Body Segmentation in the  Segmentation model menu</source>
+        <source>Select the module MONAIAuto3DSeg and enter the model&apos;s name Whole Body Segmentation in the Segmentation model menu</source>
         <extracomment>27_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -303,7 +315,7 @@ CT_ThoraxAbdomen</source>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
-        <source>Select the input Volume 6: CT_Thorax_Abdomen,
+        <source>Select the input Volume 6:CT_Thorax_Abdomen,
 
 Click on Create new Segmentation on Apply
 
@@ -313,7 +325,7 @@ Click on Apply to start the segmentation</source>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
-        <source>Slicer displays the results of the IA-based segmentation using the Whole Body Segmentation TS1-quick</source>
+        <source>Slicer displays the results of the AI-based segmentation using the Whole Body Segmentation TS1-quick</source>
         <extracomment>29_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -325,7 +337,7 @@ Click on Apply to start the segmentation</source>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
-        <source>The 3D SlicerMONAIAuto3DSeg extension provides fast AI-based segmentation of anatomical and pathological structures.
+        <source>The 3D Slicer MONAIAuto3DSeg extension provides fast AI-based segmentation of anatomical and pathological structures.
 
 
 The module can run on standard laptop and desktop computers with no GPU.</source>
@@ -333,21 +345,15 @@ The module can run on standard laptop and desktop computers with no GPU.</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="100"/>
-        <source>The 3D Slicer internationalization project and the 3D Slicer for Latin America project have been made possible by two CZI Essential  Open Source Software for Science (EOSS cycle 4 &amp; 5) grants.</source>
-        <extracomment>31_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="60"/>
-        <source>Slicer starts the inference</source>
-        <extracomment>15_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>31_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="text_dict_default.json" line="100"/>
+        <source>The 3D Slicer internationalization project and the 3D Slicer for Latin America project have been made possible through funding by the Chan Zuckerberg Initiative.</source>
+        <extracomment>31_TextBox_1</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
