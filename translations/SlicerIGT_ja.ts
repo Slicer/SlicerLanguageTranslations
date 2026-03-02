@@ -28,7 +28,7 @@ Isomics, Inc.のSteve Pieper氏により、NIH助成金 3P41RR013218-12S1 によ
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
         <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>注：基準点の親変換は使用されません。基準点は登録する座標系で定義する必要があります。</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
@@ -295,7 +295,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
         <source>Apply</source>
-        <translation type="unfinished">適用する</translation>
+        <translation>適用する</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
@@ -451,7 +451,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="97"/>
         <source>Apply</source>
-        <translation type="unfinished">適用する</translation>
+        <translation>適用する</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="98"/>
