@@ -294,7 +294,7 @@ in the 2D viewers.</source>
         <location filename="text_dict_default.json" line="86"/>
         <source>Position the mouse on the little pin icon in the top left corner of the red viewer to display the viewer menu</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Placez la souris sur la petite icône en forme d’épingle dans le coin supérieur gauche du visualiseur rouge pour afficher le menu du visualiseur</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
