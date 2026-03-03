@@ -2766,7 +2766,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation type="unfinished"></translation>
+        <translation>Converte imagens MR de difusão ponderada em séries DICOM para o formato NRRD para análise no Slicer. Este programa tem sido testado apenas com um subconjunto limitado de formatos DTI DICOM disponíveis a partir de scanners Siemens, GE e Philips. Trabalhos em curso para suportar dados multi-frame DICOM. O programa analisa cabeçalho DICOM para extrair informação necessária sobre o quadro de medição, direções de difusão ponderada, b-values, etc, e grava um imagem NRRD. Para imagens DICOM ponderadas sem difusão, carrega uma série DICOM inteira e grava um único volume dicom num par .nhdr/.raw.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
@@ -4116,7 +4116,17 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleGrindPeakImageFilter remove picos em uma imagem de escala de cinzentos. Picos são um máximo local na topografia da escala de cinzentos que não estão ligados aos limites da imagem. Valores de nível de cinzento adjacentes a um pico são extrapolados através do pico.
+
+Este filtro é utilizado para suavizar sobre máximos locais sem afetar os valores dos mínimos locais.  Se subtrair a diferença entre o resultado deste filtro e a imagem original (e talvez limitar a diferença acima de um valor pequeno), irá obter um mapa dos máximos locais.
+
+Este filtro utiliza o GrayscaleGeodesicDilateImageFilter.  Ele fornece o seu próprio input como o input &quot;máscara&quot; para a erosão geodésica.  A imagem &quot;marcador&quot; para a erosão geodésica é construida de tal maneira que pixeis de limite correspondem aos pixeis de limite da imagem de entrada e os pixeis interiores são definidos para o valor mínimo de pixel da imagem de entrada.
+
+Este filtro é o dual do GrayscaleFillholeImageFilter que implementa o algoritmo Fillhole.  Sendo que é um dual, é relativamente supérfluo mas é fornecido como uma conveniência.
+
+Morfologia geodésica e o algoritmo Fillhole são descritos no Capítulo 6 do livro do Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, Segunda Edição, Springer, 2003.
+
+Um filtro complementar, Grayscale Fill Hole, preenche buracos em imagens em escala de cinzentos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
@@ -6010,7 +6020,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reamostrar uma imagem é uma tarefa muito importante em análise de imagem. É especialmente importante no contexto de registo de imagens. Este módulo implementa reamostragem de imagem DT através do uso de Transformações itk. A reamostragem é controlada pelo Espaçamento de Saída. &quot;Reamostragem&quot; é executada no espaço das coordenadas, não nas coordenadas de pixel/grelha. É bastante importante que se assegure que o espaçamento de imagens está devidamente definido nas imagens envolvidas. O interpolador é necessário uma vez que o mapeamento de um espaço para o outro frequentemente requer avaliação da intensidade da imagem em posições fora da grelha.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
