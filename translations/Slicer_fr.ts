@@ -26960,7 +26960,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
         <source>Show colored frame around the slice when displayed in 3D views.</source>
-        <translation>Afficher cadre coloré autour de la tranche lorsque affichée dans vues 3D.</translation>
+        <translation>Afficher un cadre coloré autour de la coupe lors de l&apos;affichage en vue 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="146"/>
@@ -27083,7 +27083,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="123"/>
         <source>Slice edge visibility in 3D views</source>
-        <translation>Visibilité des bords de tranche dans les vues 3D</translation>
+        <translation>Visibilité du bord de la coupe dans les vues 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="130"/>
@@ -27997,18 +27997,18 @@ Balises&#xa0;: %6</translation>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="138"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="151"/>
         <source>ID:</source>
-        <translation>ID&#xa0;:</translation>
+        <translation>ID:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="158"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="168"/>
         <source>If enabled, double-clicking the color column opens the terminology selector. Otherwise the color can be edited via simple color selector. True by default.</source>
-        <translation>Si activé, double-cliquer sur la colonne de couleur ouvre le sélecteur de terminologie. Sinon, la couleur peut être modifiée via un simple sélecteur de couleur. Vrai par défaut.</translation>
+        <translation>Si cette option est activée, double-clic sur la colonne des couleurs ouvre le sélecteur de terminologie. Sinon, la couleur peut être modifié avec un sélecteur de couleur simple. Par défaut, c&apos;est activé.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="161"/>
         <source>Use standard terminology:</source>
-        <translation>Utiliser terminologie standard&#xa0;:</translation>
+        <translation>Utiliser la terminologie standard:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
@@ -28033,7 +28033,7 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="77"/>
         <source>Enable/disable automatic subject hierarchy children deletion</source>
-        <translation>Activer/désactiver suppression automatique des enfants de la hiérarchie des sujets</translation>
+        <translation>Activer/désactiver la suppression automatique des enfants de la hiérarchie des sujets</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="84"/>
@@ -28058,7 +28058,7 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="108"/>
         <source>Use standard terminology for color selection</source>
-        <translation>Utiliser la terminologie standard pour le choix des couleurs</translation>
+        <translation>Utiliser la terminologie standard pour la sélection de la couleur</translation>
     </message>
 </context>
 <context>
@@ -29039,7 +29039,7 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="96"/>
         <source>This work was supported through CANARIE&apos;s Research Software Program, and Cancer Care Ontario. The Texts module was contributed by Kyle Sunderland and Andras Lasso (Perk Lab, Queen&apos;s University)</source>
-        <translation>Ce travail a été soutenu par le programme CANARIE&apos;s Research Software et Cancer Care Ontario. Le module Textes a été contribué par Kyle Sunderland et Andras Lasso (Perk Lab, Queen&apos;s University).</translation>
+        <translation>Ce travail a été soutenu par le programme CANARIE&apos;s Research Software et Cancer Care Ontario. Le module Textes a été contribué par Kyle Sunderland et Andras Lasso (Perk Lab, Queen&apos;s University)</translation>
     </message>
 </context>
 <context>
