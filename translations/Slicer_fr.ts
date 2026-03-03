@@ -1910,7 +1910,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation>paramètres ENtrées/Sorties</translation>
+        <translation>paramètres Entrées/Sorties</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
@@ -4361,7 +4361,7 @@ Le filtre suppose que la source et la référence sont du même type et que les 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
         <source>Parameters for Histogram Matching</source>
-        <translation>Paramètres de correspondance d&apos;histogramme</translation>
+        <translation>Paramètres pour la correspondance d&apos;histogramme</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"/>
@@ -7077,7 +7077,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="17"/>
         <source>bspline</source>
-        <translation>ligne BSP</translation>
+        <translation>bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"/>
@@ -7735,7 +7735,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="67"/>
         <source>Sequence</source>
-        <translation type="unfinished">Séquence</translation>
+        <translation>Séquence</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
@@ -7765,7 +7765,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="108"/>
         <source>Crop volume parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Recadrer paramètre volume</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
@@ -8615,7 +8615,7 @@ Le module Sonde de données est utilisé pour obtenir des informations sur la po
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="343"/>
         <source>{description} [slice: {instanceNumber}]</source>
-        <translation type="unfinished"></translation>
+        <translation>{description} [coupe&#xa0;: {instanceNumber}]</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="425"/>
@@ -14275,19 +14275,19 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="233"/>
         <source>Select a %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner un %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="292"/>
         <source>Rename current %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Renommer %1 actuel</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="298"/>
         <source>Edit current %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifier %1 actuel</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="306"/>
@@ -14298,13 +14298,13 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="310"/>
         <source>Create new %1 as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer nouveau %1 comme...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="318"/>
         <source>Delete current %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer %1 actuel</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="680"/>
@@ -16836,12 +16836,12 @@ Souhaitez-vous continuer à changer la représentation source ?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1321"/>
         <source>Show slice edge</source>
-        <translation>Afficher le bord de la tranche</translation>
+        <translation>Afficher le bord de la coupe</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1324"/>
         <source>Show slice edge in the 3D view</source>
-        <translation>Afficher le bord de la tranche dans la vue 3D</translation>
+        <translation>Afficher le bord de la coupe dans la vue 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="345"/>
@@ -18683,7 +18683,7 @@ p, li { white-space&#xa0;: pre-wrap&#x202f;; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="45"/>
         <source>RGBA</source>
-        <translation type="unfinished"></translation>
+        <translation>RGBA</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="55"/>
@@ -21133,7 +21133,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1571"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
-        <translation>Récupération des fichiers de l&apos;extension %1 (ID de l&apos;extension : %2)</translation>
+        <translation>Récupération des fichiers de l&apos;extension %1 (Identifient de l&apos;extension&#xa0;: %2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1602"/>
@@ -21698,7 +21698,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="40"/>
         <source>GeneralizedReformat</source>
-        <translation type="unfinished"></translation>
+        <translation>ReformatageGénéralisé</translation>
     </message>
 </context>
 <context>
@@ -24619,7 +24619,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="110"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avancé</translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="111"/>
@@ -25292,12 +25292,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="316"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="319"/>
         <source>Volume</source>
-        <translation type="unfinished">Volume</translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="320"/>
@@ -26955,12 +26955,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="126"/>
         <source>Show slice edge in 3D:</source>
-        <translation type="unfinished">Afficher bord de tranche en 3D&#xa0;:</translation>
+        <translation>Afficher le bord de la coupe en 3D&#xa0;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
         <source>Show colored frame around the slice when displayed in 3D views.</source>
-        <translation>Afficher un cadre coloré autour de la coupe lors de l&apos;affichage en vue 3D</translation>
+        <translation>Afficher un cadre coloré autour de la coupe lors de l&apos;affichage en vue 3D.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="146"/>
@@ -27532,7 +27532,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="200"/>
         <source>Poly data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données poly</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/SubjectHierarchyPlugins/qSlicerSubjectHierarchyModelsPlugin.cxx" line="205"/>
@@ -27997,7 +27997,7 @@ Balises&#xa0;: %6</translation>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="138"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="151"/>
         <source>ID:</source>
-        <translation>ID:</translation>
+        <translation>ID&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="158"/>
@@ -28008,7 +28008,7 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="161"/>
         <source>Use standard terminology:</source>
-        <translation>Utiliser la terminologie standard:</translation>
+        <translation>Utiliser la terminologie standard&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
@@ -28875,7 +28875,7 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="14"/>
         <source>qSlicerTerminologyEditorWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerTerminologyEditorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
@@ -28885,7 +28885,7 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="47"/>
         <source>Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Schéma</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="57"/>
@@ -28896,7 +28896,7 @@ Balises&#xa0;: %6</translation>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="87"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="163"/>
         <source>    Modifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>    Modifier&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
@@ -29722,7 +29722,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="320"/>
         <source>Auto</source>
-        <translation type="unfinished">Automatique</translation>
+        <translation>Automatique</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="357"/>
@@ -29812,13 +29812,14 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="513"/>
         <source>Using fast clipping method.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisation méthode découpe rapide.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="518"/>
         <source>Using slow clipping method.
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisation méthode découpe lente.
+%1</translation>
     </message>
 </context>
 <context>
@@ -30072,7 +30073,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Dicom</source>
-        <translation>DICOM</translation>
+        <translation>Dicom</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
@@ -30469,7 +30470,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLCameraNode.cxx" line="43"/>
         <source>Camera</source>
-        <translation type="unfinished">Caméra</translation>
+        <translation>Caméra</translation>
     </message>
 </context>
 <context>
@@ -30477,7 +30478,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipModelsNode.cxx" line="30"/>
         <source>Clip Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Découper modèles</translation>
     </message>
 </context>
 <context>
@@ -30485,7 +30486,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="52"/>
         <source>Clip</source>
-        <translation type="unfinished">Agrafe</translation>
+        <translation>Découper</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="728"/>
@@ -30636,7 +30637,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/CropVolume/MRML/vtkMRMLCropVolumeParametersNode.cxx" line="40"/>
         <source>Crop Volume Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Recadrer paramètre volume</translation>
     </message>
 </context>
 <context>
@@ -30644,7 +30645,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLCrosshairNode.cxx" line="31"/>
         <source>Crosshair</source>
-        <translation type="unfinished">Réticule</translation>
+        <translation>Réticule</translation>
     </message>
 </context>
 <context>
@@ -30652,7 +30653,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionImageVolumeNode.cxx" line="31"/>
         <source>Diffusion Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d’images de diffusion</translation>
     </message>
 </context>
 <context>
@@ -30660,7 +30661,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorDisplayPropertiesNode.cxx" line="34"/>
         <source>Diffusion Tensor Display Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés d’affichage du tenseur de diffusion</translation>
     </message>
 </context>
 <context>
@@ -30668,7 +30669,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeDisplayNode.cxx" line="48"/>
         <source>Diffusion Tensor Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage du volume de tenseur de diffusion</translation>
     </message>
 </context>
 <context>
@@ -30676,7 +30677,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeNode.cxx" line="31"/>
         <source>Diffusion Tensor Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de tenseurs de diffusion</translation>
     </message>
 </context>
 <context>
@@ -30684,7 +30685,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeSliceDisplayNode.cxx" line="37"/>
         <source>Diffusion Tensor Volume Slice Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud d’affichage en coupe du volume de tenseurs de diffusion</translation>
     </message>
 </context>
 <context>
@@ -30692,7 +30693,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionWeightedVolumeDisplayNode.cxx" line="36"/>
         <source>Diffusion Weighted Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage du volume pondéré en diffusion</translation>
     </message>
 </context>
 <context>
@@ -30700,7 +30701,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionWeightedVolumeNode.cxx" line="36"/>
         <source>Diffusion Weighted Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume pondéré en diffusion</translation>
     </message>
 </context>
 <context>
@@ -30740,7 +30741,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeSliceDisplayNode.cxx" line="32"/>
         <source>Glyphable Volume Slice Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud d’affichage en coupe du volume glyphable</translation>
     </message>
 </context>
 <context>
@@ -30780,7 +30781,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeDisplayNode.cxx" line="36"/>
         <source>Label Map Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage du volume de carte d&apos;étiquette</translation>
     </message>
 </context>
 <context>
@@ -30788,7 +30789,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeNode.cxx" line="39"/>
         <source>Label Map Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de carte d&apos;étiquette</translation>
     </message>
 </context>
 <context>
@@ -30796,7 +30797,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLayoutNode.cxx" line="19"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise en page</translation>
     </message>
 </context>
 <context>
@@ -30874,7 +30875,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialDisplayNode.cxx" line="34"/>
         <source>Markups Fiducial Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage des repères de marquage</translation>
     </message>
 </context>
 <context>
@@ -30895,7 +30896,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="247"/>
         <source>Markups Fiducial Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage des repères de marquage</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="789"/>
@@ -30916,7 +30917,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="59"/>
         <source>Markups JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage JSON des marquages</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="332"/>
@@ -30959,7 +30960,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneDisplayNode.cxx" line="30"/>
         <source>Markups Plane Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage du plan de marquage</translation>
     </message>
 </context>
 <context>
@@ -30967,7 +30968,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneJsonStorageNode.cxx" line="39"/>
         <source>Markups Plane JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage JSON du plan de marquage</translation>
     </message>
 </context>
 <context>
@@ -30988,7 +30989,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROIDisplayNode.cxx" line="30"/>
         <source>Markups ROI Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage de la ZI de marquage</translation>
     </message>
 </context>
 <context>
@@ -30996,7 +30997,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROIJsonStorageNode.cxx" line="38"/>
         <source>Markups ROI JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage JSON de la ZI de marquage</translation>
     </message>
 </context>
 <context>
@@ -31017,12 +31018,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.cxx" line="33"/>
         <source>Test Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne de test</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.h" line="52"/>
         <source>TL</source>
-        <translation type="unfinished"></translation>
+        <translation>LT</translation>
     </message>
 </context>
 <context>
@@ -31030,7 +31031,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelDisplayNode.cxx" line="44"/>
         <source>Model Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage du modèle</translation>
     </message>
 </context>
 <context>
@@ -31038,7 +31039,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelHierarchyNode.cxx" line="31"/>
         <source>Model Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiérarchie model</translation>
     </message>
 </context>
 <context>
@@ -31046,7 +31047,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelNode.cxx" line="53"/>
         <source>Model</source>
-        <translation type="unfinished">Modèle</translation>
+        <translation>Modèle</translation>
     </message>
 </context>
 <context>
@@ -31054,7 +31055,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="98"/>
         <source>Model Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage du modèle</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="782"/>
@@ -31154,7 +31155,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotChartNode.cxx" line="50"/>
         <source>Plot Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphique</translation>
     </message>
 </context>
 <context>
@@ -31162,7 +31163,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotSeriesNode.cxx" line="59"/>
         <source>Plot Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Série de graphique</translation>
     </message>
 </context>
 <context>
@@ -31170,7 +31171,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotViewNode.cxx" line="48"/>
         <source>Plot View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vue graphique</translation>
     </message>
 </context>
 <context>
@@ -31186,7 +31187,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="35"/>
         <source>Procedural Color Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage de couleurs procédurales</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="220"/>
@@ -31211,7 +31212,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeNode.cxx" line="37"/>
         <source>Volume</source>
-        <translation type="unfinished">Volume</translation>
+        <translation>Volume</translation>
     </message>
 </context>
 <context>
@@ -31235,7 +31236,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Segmentations/MRML/vtkMRMLSegmentEditorNode.cxx" line="50"/>
         <source>Segment Editor</source>
-        <translation type="unfinished">Éditeur de segments</translation>
+        <translation>Éditeur de segments</translation>
     </message>
 </context>
 <context>
@@ -31251,7 +31252,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationNode.cxx" line="69"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentation</translation>
     </message>
 </context>
 <context>
@@ -31290,7 +31291,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceNode.cxx" line="63"/>
         <source>Sequence</source>
-        <translation type="unfinished">Séquence</translation>
+        <translation>Séquence</translation>
     </message>
 </context>
 <context>
@@ -31338,7 +31339,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceCompositeNode.cxx" line="45"/>
         <source>Slice Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite de coupe</translation>
     </message>
 </context>
 <context>
@@ -31346,7 +31347,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceDisplayNode.cxx" line="29"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Affichage de la coupe</translation>
+        <translation>Affichage de la coupe</translation>
     </message>
 </context>
 <context>
@@ -31354,7 +31355,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceNode.cxx" line="47"/>
         <source>Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Coupe</translation>
     </message>
 </context>
 <context>
@@ -31362,7 +31363,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSnapshotClipNode.cxx" line="33"/>
         <source>Snapshot Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Découper capture</translation>
     </message>
 </context>
 <context>
@@ -31370,7 +31371,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLStreamingVolumeNode.cxx" line="49"/>
         <source>Streaming Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume en streaming</translation>
     </message>
 </context>
 <context>
@@ -31378,7 +31379,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableNode.cxx" line="66"/>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Table</translation>
     </message>
 </context>
 <context>
@@ -31425,7 +31426,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTensorVolumeNode.cxx" line="32"/>
         <source>Tensor Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de tenseur</translation>
     </message>
 </context>
 <context>
@@ -31657,7 +31658,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="617"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">Propriété de volume MRML</translation>
+        <translation>Propriété du volume MRML</translation>
     </message>
 </context>
 <context>
