@@ -735,7 +735,7 @@ quiasma óptico</translation>
         <location filename="text_dict_default.json" line="94"/>
         <source>Conclusion</source>
         <extracomment>45_TextBox_0</extracomment>
-        <translation type="finished">Conclusão</translation>
+        <translation>Conclusão</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="95"/>
