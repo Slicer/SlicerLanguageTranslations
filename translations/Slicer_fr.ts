@@ -11845,7 +11845,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="241"/>
         <source>Percentile 90</source>
-        <translation>Percentile 90</translation>
+        <translation>90 ème Percentile</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="242"/>
@@ -11855,7 +11855,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="249"/>
         <source>Percentile 95</source>
-        <translation>Percentile 95</translation>
+        <translation>95 ème Percentile</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="250"/>
