@@ -28,7 +28,7 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio do NI
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
         <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: transformações parentais de fiduciais não são utilizadas. Fiduciais devem ser definidas no sistema de coordenadas que está a ser registado.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
