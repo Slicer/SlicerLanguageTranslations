@@ -141,7 +141,7 @@ Harvard Medical School
         <location filename="text_dict_default.json" line="22"/>
         <source>This tutorial is a short introduction to the Welcome module of the Slicer open-source software.</source>
         <extracomment>2_Goal_body</extracomment>
-        <translation>Ce tutoriel est une courte introduction au module Welcome du logiciel open-source Slicer.</translation>
+        <translation>Ce tutoriel est une courte introduction au module Bienvenue du logiciel open-source Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
@@ -198,7 +198,7 @@ Cliquez sur le symbole en forme de flèche pour afficher le contenu de chaque on
         <location filename="text_dict_default.json" line="46"/>
         <source>User Interface (UI) panel of the Slicer Welcome Module</source>
         <extracomment>7_TextBox_3</extracomment>
-        <translation>Panneau d’interface utilisateur (UI) du module Welcome de Slicer</translation>
+        <translation>Panneau d’interface utilisateur (UI) du module Bienvenue de Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -210,7 +210,7 @@ Cliquez sur le symbole en forme de flèche pour afficher le contenu de chaque on
 9_WelcomeModule_title
 ----------
 13_WelcomeModule_title</extracomment>
-        <translation>Module Welcome</translation>
+        <translation>Module Bienvenue</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -238,7 +238,7 @@ Cliquez sur Download Sample Data pour accéder au module Sample Data.</translati
 11_SampleData_title
 ----------
 12_SampleData_title</extracomment>
-        <translation>Données exemples</translation>
+        <translation>Exemple de données</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="62"/>
@@ -288,27 +288,28 @@ dataset in Slicer.</source>
         <source>The MR scan of the brain appears
 in the 2D viewers.</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation>Le scanner IRM du cerveau apparaît dans les visualiseurs 2D.</translation>
+        <translation>Le scanner IRM du cerveau apparaît dans les visionneurs 2D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="86"/>
         <source>Position the mouse on the little pin icon in the top left corner of the red viewer to display the viewer menu</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation>Placez la souris sur la petite icône en forme d’épingle dans le coin supérieur gauche du visualiseur rouge pour afficher le menu du visualiseur</translation>
+        <translation>Placez la souris sur la petite icône en forme d’épingle dans le coin supérieur gauche du visionneur rouge pour afficher le menu du visionneur</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
         <source>Click on the link icon to link all three 2D viewers, and on the eye icon next to it
 to display the slices in the 3D viewer</source>
         <extracomment>15_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l’icône de lien pour lier les trois visionneurs 2D, puis sur l’icône œil à côté pour afficher les coupes dans le visionneur 3D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="94"/>
         <source>The axial, coronal and sagittal slices appear in the 3D viewer.
 Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Les coupes axiales, coronales et sagittales apparaissent dans le visualiseur 3D.
+Revenez au module Welcome en utilisant la flèche verte dans la barre d’outils.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
@@ -317,19 +318,19 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>17_GoingFurther_title
 ----------
 18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pour aller plus loin</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>To learn more about Slicer and its different functionalities, visit the Slicer Compendium</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pour en savoir plus sur Slicer et ses différentes fonctionnalités, consultez le Slicer Compendium</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="102"/>
         <source>https://training.slicer.org/</source>
         <extracomment>18_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>https://training.slicer.org/</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="106"/>
@@ -342,7 +343,14 @@ NIH P41EB015902
 
 Chan Zuckerberg Initiative (CZI)</source>
         <extracomment>19_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>National Alliance for Medical Image
+Computing
+NIH U54EB005149
+
+Neuroimage Analysis Center
+NIH P41EB015902
+
+Chan Zuckerberg Initiative (CZI)</translation>
     </message>
     <message>
         <source>The	Documentation &amp;	Tutorials	
