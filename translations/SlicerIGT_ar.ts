@@ -27,7 +27,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
         <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: لا تُستخدم تحويلات الأصل للعلامات المرجعية. يجب تعريف العلامات المرجعية في نظام الإحداثيات الذي يتم تسجيله.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
@@ -483,7 +483,9 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>
     This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    يُعدّ هذا العمل جزءًا من مشروع &quot;نافي نايف&quot; لجراحة الثدي، التابع لمختبر الجراحة عبر الجلد في جامعة كوينز، كينغستون، أونتاريو. ويتلقى توماس فوغان تمويلًا من منحة دراسات عليا من مجلس أبحاث العلوم الطبيعية والهندسية الكندي (NSERC). أما غابور فيشتينغر، فيتلقى تمويلًا بصفته رئيسًا لكرسي رعاية مرضى السرطان في أونتاريو (CCO).
+    </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="64"/>
@@ -518,7 +520,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="116"/>
         <source>Pick the view which should be adjusted, e.g. &apos;View1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر العرض الذي يجب تعديله، على سبيل المثال &quot;العرض 1&quot;.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="121"/>
