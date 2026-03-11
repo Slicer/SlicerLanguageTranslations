@@ -2,7 +2,7 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="en-US">
 <context>
-    <name>Main</name>
+    <name>TutorialMaker</name>
     <message>
         <location filename="text_dict_default.json" line="8"/>
         <source>Slicer4 Minute
@@ -99,6 +99,30 @@ Harvard Medical School</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="text_dict_default.json" line="36"/>
+        <location filename="text_dict_default.json" line="44"/>
+        <location filename="text_dict_default.json" line="48"/>
+        <location filename="text_dict_default.json" line="54"/>
+        <location filename="text_dict_default.json" line="62"/>
+        <location filename="text_dict_default.json" line="66"/>
+        <location filename="text_dict_default.json" line="70"/>
+        <source>3D Visualization</source>
+        <extracomment>7_3DVisualization_title
+----------
+9_3DVisualization_title
+----------
+10_3DVisualization_title
+----------
+11_3DVisualization_title
+----------
+13_3DVisualization_title
+----------
+14_3DVisualization_title
+----------
+15_3DVisualization_title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="text_dict_default.json" line="38"/>
         <source>Select the module Models</source>
         <extracomment>7_TextBox_0</extracomment>
@@ -112,8 +136,8 @@ Harvard Medical School</source>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
-        <source>Click on the pin icon on the top left corner of the red slice to display the slice viewer menu.
-Click on the eye icon to display the axial slice in the 3D viewer</source>
+        <source>Click on the pin icon on the top left corner of the red slice to display the slice Viewer menu.
+Click on the eye to display the axial slice in the 3D viewer</source>
         <extracomment>8_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -189,6 +213,12 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="text_dict_default.json" line="78"/>
+        <source>Acknowledgements</source>
+        <extracomment>17_TextBox_0</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="text_dict_default.json" line="80"/>
         <source>National Alliance for Medical Image
 Computing
@@ -198,36 +228,6 @@ Neuroimage Analysis Center
 NIH P41EB015902
 </source>
         <extracomment>17_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="36"/>
-        <location filename="text_dict_default.json" line="44"/>
-        <location filename="text_dict_default.json" line="48"/>
-        <location filename="text_dict_default.json" line="54"/>
-        <location filename="text_dict_default.json" line="62"/>
-        <location filename="text_dict_default.json" line="66"/>
-        <location filename="text_dict_default.json" line="70"/>
-        <source>3D Visualization</source>
-        <extracomment>7_3DVisualization_title
-----------
-9_3DVisualization_title
-----------
-10_3DVisualization_title
-----------
-11_3DVisualization_title
-----------
-13_3DVisualization_title
-----------
-14_3DVisualization_title
-----------
-15_3DVisualization_title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="text_dict_default.json" line="78"/>
-        <source>Acknowledgements</source>
-        <extracomment>17_TextBox_0</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
