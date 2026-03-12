@@ -7441,7 +7441,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
@@ -7466,7 +7466,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">Steuere wie die Module funktionieren</translation>
+        <translation>Steuere wie das Modul funktioniert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
@@ -7499,12 +7499,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
@@ -7514,12 +7514,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Eingabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
@@ -7648,12 +7648,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
         <source>Background</source>
-        <translation type="unfinished">Hintergrund</translation>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="12"/>
         <source>Foreground</source>
-        <translation type="unfinished">Vordergrund</translation>
+        <translation>Vordergrund</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
@@ -7678,12 +7678,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/A</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Eingabe-/Ausgabeparameter</translation>
+        <translation>Eingabe-/Ausgabeparameter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
@@ -7693,7 +7693,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Ausgabevolumen</translation>
+        <translation>Ausgabevolumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
@@ -7735,7 +7735,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="67"/>
         <source>Sequence</source>
-        <translation type="unfinished">Sequence</translation>
+        <translation>Sequenz</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
@@ -7785,7 +7785,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="126"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Starte den Algorithmus.</translation>
+        <translation>Starte den Algorithmus.</translation>
     </message>
 </context>
 <context>
@@ -7823,7 +7823,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
         <source>Database location:</source>
-        <translation type="unfinished">Datenbank-Standort:</translation>
+        <translation>Standort der Datenbank:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
@@ -7878,12 +7878,12 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Mittel</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="402"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Groß</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
@@ -8351,7 +8351,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>keine</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="98"/>
@@ -8631,7 +8631,7 @@ durch die Mausposition angezeigt wird.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="556"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Slice-Ansicht-Anmerkungseinstellungen</translation>
+        <translation>Slice-Ansicht-Anmerkungseinstellungen</translation>
     </message>
 </context>
 <context>
@@ -8657,7 +8657,7 @@ NA-MIC, NAC, BIRN, NCIGT und die Slicer-Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="107"/>
         <source>Path</source>
-        <translation type="unfinished">Pfad</translation>
+        <translation>Pfad</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="116"/>
@@ -8806,7 +8806,7 @@ Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposit
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation type="unfinished">Nächster/s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="232"/>
@@ -9017,7 +9017,7 @@ Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposit
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="30"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="34"/>
@@ -9051,7 +9051,7 @@ Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposit
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="28"/>
         <source>Remove</source>
-        <translation type="unfinished">Entfernen</translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
@@ -9064,7 +9064,7 @@ Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposit
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="29"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Name:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"/>
@@ -9074,7 +9074,7 @@ Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposit
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>Beschreibung:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
