@@ -7461,7 +7461,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished">Steuerung</translation>
+        <translation>Bedienelemente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
@@ -7471,12 +7471,12 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Interpolationsbefehl</translation>
+        <translation>Interpolationsordnung</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">Interpolationsbefehl, wenn sich zwei Bilder in unterschiedlichen Koordinatenrahmen befinden oder unterschiedliche Abtastwerte aufweisen.</translation>
+        <translation>Interpolationsordnung, falls sich zwei Bilder in unterschiedlichen Koordinatensystemen befinden oder unterschiedliche Abtastraten aufweisen.</translation>
     </message>
 </context>
 <context>
@@ -7494,7 +7494,7 @@ a = affine Transformation</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC), finanziert von den National Institutes of Health durch die NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Diese Arbeit ist Teil der National Alliance for Medical Image Computing (NAMIC) und wurde von den National Institutes of Health (NIH) durch die NIH Roadmap for Medical Research, Grant U54 EB005149, gefördert.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
@@ -8806,7 +8806,7 @@ Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposit
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
         <source>Next</source>
-        <translation type="unfinished">Nächster/s</translation>
+        <translation>Weiter</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="232"/>
@@ -9339,7 +9339,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="544"/>
