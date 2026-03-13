@@ -1,33 +1,33 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TS version="2.1" language="pt_PT">
 <context>
     <name>TutorialMaker</name>
     <message>
-        <location filename="text_dict_default.json" line="8" />
+        <location filename="text_dict_default.json" line="8"/>
         <source>Slicer4 Minute
 </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished" />
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="10" />
+        <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished" />
+        <translation>Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="12" />
+        <location filename="text_dict_default.json" line="12"/>
         <source>Assistant Professor of Radiology
 Brigham and Women’s Hospital
 Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
         <translation type="finished">Professor Assistente de Radiologia
-Hospital Brigham and Women's
+Hospital Brigham and Women&apos;s
 Faculdade de Medicina de Harvard</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="14" />
-        <location filename="text_dict_default.json" line="74" />
+        <location filename="text_dict_default.json" line="14"/>
+        <location filename="text_dict_default.json" line="74"/>
         <source>Slicer4 minute tutorial</source>
         <extracomment>1_TextBox_0
 ----------
@@ -35,19 +35,19 @@ Faculdade de Medicina de Harvard</translation>
         <translation type="finished">Tutorial de 4 minutos do Slicer</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="16" />
+        <location filename="text_dict_default.json" line="16"/>
         <source>This tutorial is a 4-minute introduction to the 3D visualization capabilities of the Slicer5 software for medical image analysis. </source>
         <extracomment>1_TextBox_1</extracomment>
         <translation type="finished">Este tutorial é uma introdução de 4 minutos às capacidades de visualização 3D do software Slicer5 para análise de imagem médica. </translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="18" />
+        <location filename="text_dict_default.json" line="18"/>
         <source>Slicer5 software &amp; dataset</source>
         <extracomment>2_TextBox_0</extracomment>
         <translation type="finished">Software Slicer5 e conjunto de dados</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="20" />
+        <location filename="text_dict_default.json" line="20"/>
         <source>*Download the Slicer5 software available at http://download.slicer.org
 
 *Download the Slicer4minute dataset available at https://www.slicer.org/wiki/Documentation/4.10/Training</source>
@@ -57,61 +57,61 @@ Faculdade de Medicina de Harvard</translation>
 *Descarregue o conjunto de dados Slicer4minute disponível em https://www.slicer.org/wiki/Documentation/4.10/Training</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="22" />
+        <location filename="text_dict_default.json" line="22"/>
         <source>3D Slicer version 5</source>
         <extracomment>3_3DSlicerversion5_title</extracomment>
         <translation type="finished">3D Slicer versão 5</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="24" />
+        <location filename="text_dict_default.json" line="24"/>
         <source>3D Slicer Scene</source>
         <extracomment>4_TextBox_0</extracomment>
         <translation type="finished">Cena 3D Slicer</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="26" />
+        <location filename="text_dict_default.json" line="26"/>
         <source>*A Slicer scene is a MRML (Medical Reality Modeling Language) file that contains a list of elements loaded into Slicer (volumes, models, fiducials, transforms, etc.)
-*In the following example, we use a scene 'Slicer4minute.mrml' composed of an MRI scan and 3D models of the head. 
+*In the following example, we use a scene &apos;Slicer4minute.mrml&apos; composed of an MRI scan and 3D models of the head. 
 *The scene file and datasets have been saved as a MRB (Medical Reality Bundle) file. 
-*The MRB file format is Slicer's archive file format.</source>
+*The MRB file format is Slicer&apos;s archive file format.</source>
         <extracomment>4_TextBox_1</extracomment>
         <translation type="finished">*A cena Slicer é um ficheiro MRML (Medical Reality Modeling Language) que contém uma lista de elementos carregados em Slicer (volumes, modelos, fiduciais, transformas, etc.)
-*No exemplo a seguir, usamos uma cena 'Slicer4minute.mrml' composta por uma varredura de RM e modelos 3D da cabeça.
+*No exemplo a seguir, usamos uma cena &apos;Slicer4minute.mrml&apos; composta por uma varredura de RM e modelos 3D da cabeça.
 *O ficheiro de cena e conjuntos de dados foram gravados como um ficheiro MRB (Medical Reality Bundle).
 *O formato de ficheiro MRB é o formato de ficheiro Slicer.</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="28" />
+        <location filename="text_dict_default.json" line="28"/>
         <source>Loading the Slicer4minute dataset</source>
         <extracomment>5_LoadingtheSlicer4minutedataset_title</extracomment>
         <translation type="finished">A carregar o conjunto de dados Slicer4minute</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="30" />
+        <location filename="text_dict_default.json" line="30"/>
         <source>Drag and drop the slicer4minute.mrb to load the scene in Slicer</source>
         <extracomment>5_TextBox_1</extracomment>
         <translation type="finished">Arraste e solte o slicer4minute.mrb para carregar a cena no Slicer</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="32" />
+        <location filename="text_dict_default.json" line="32"/>
         <source>Slicer4minute Scene</source>
         <extracomment>6_Slicer4minuteScene_title</extracomment>
         <translation type="finished">Cena Slicer em 4 minutos</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="34" />
+        <location filename="text_dict_default.json" line="34"/>
         <source>Slicer displays the elements of the slicer4minute scene. The scene contains and MRI scan and 3D surface models of the brain.</source>
         <extracomment>6_TextBox_1</extracomment>
         <translation type="finished">Slicer exibe os elementos da cena slicer4minute. A cena contém e ressonância magnética e modelos de superfície 3D do cérebro.</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="36" />
-        <location filename="text_dict_default.json" line="44" />
-        <location filename="text_dict_default.json" line="48" />
-        <location filename="text_dict_default.json" line="54" />
-        <location filename="text_dict_default.json" line="62" />
-        <location filename="text_dict_default.json" line="66" />
-        <location filename="text_dict_default.json" line="70" />
+        <location filename="text_dict_default.json" line="36"/>
+        <location filename="text_dict_default.json" line="44"/>
+        <location filename="text_dict_default.json" line="48"/>
+        <location filename="text_dict_default.json" line="54"/>
+        <location filename="text_dict_default.json" line="62"/>
+        <location filename="text_dict_default.json" line="66"/>
+        <location filename="text_dict_default.json" line="70"/>
         <source>3D Visualization</source>
         <extracomment>7_3DVisualization_title
 ----------
@@ -129,19 +129,19 @@ Faculdade de Medicina de Harvard</translation>
         <translation type="finished">Visualização 3D</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="38" />
+        <location filename="text_dict_default.json" line="38"/>
         <source>Select the module Models</source>
         <extracomment>7_TextBox_0</extracomment>
         <translation type="finished">Selecione o módulo Modelos</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="40" />
+        <location filename="text_dict_default.json" line="40"/>
         <source>3D visualization</source>
         <extracomment>8_3Dvisualization_title</extracomment>
         <translation type="finished">Visualização 3D</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="42" />
+        <location filename="text_dict_default.json" line="42"/>
         <source>Click on the pin icon on the top left corner of the red slice to display the slice Viewer menu.
 Click on the eye to display the axial slice in the 3D viewer</source>
         <extracomment>8_TextBox_0</extracomment>
@@ -149,7 +149,7 @@ Click on the eye to display the axial slice in the 3D viewer</source>
 Clique no ícone de olho para exibir a fatia axial no visualizador 3D</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="46" />
+        <location filename="text_dict_default.json" line="46"/>
         <source>Use the slider of the red viewer to browse through the axial MR slices. 
 
 Slicer simultaneously displays the axial slice in the 3D viewer</source>
@@ -159,19 +159,19 @@ Slicer simultaneously displays the axial slice in the 3D viewer</source>
 Slicer exibe simultaneamente a fatia axial no espectador 3D</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="50" />
+        <location filename="text_dict_default.json" line="50"/>
         <source>Select the Skin model and lower its opacity using the Opacity slider in the 3D Display tab</source>
         <extracomment>10_TextBox_0</extracomment>
         <translation type="finished">Selecione o modelo de pele e baixe a sua opacidade usando o controlo deslizante de opacidade na guia Display 3D</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="52" />
+        <location filename="text_dict_default.json" line="52"/>
         <source>The skull_bone.vtk model appears through the skin.</source>
         <extracomment>10_TextBox_1</extracomment>
         <translation type="finished">O modelo skull_bone.vtk aparece através da pele.</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="56" />
+        <location filename="text_dict_default.json" line="56"/>
         <source>Position the mouse in the 3D viewer, click on the left-mouse button to drag and rotate the model. 
 Click on the right-mouse button to zoom in and out</source>
         <extracomment>11_TextBox_0</extracomment>
@@ -179,13 +179,13 @@ Click on the right-mouse button to zoom in and out</source>
 Clique no botão direito do rato para ampliar e sair</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="58" />
+        <location filename="text_dict_default.json" line="58"/>
         <source>Anatomical Views</source>
         <extracomment>12_AnatomicalViews_title</extracomment>
         <translation type="finished">Visões anatômicas</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="60" />
+        <location filename="text_dict_default.json" line="60"/>
         <source>Click on the pin icons in the top left corner of the red and green viewer to display the slice viewer menu
 
 Click on the eye icon to display the axial and coronal slice in the 3D viewer</source>
@@ -195,33 +195,33 @@ Click on the eye icon to display the axial and coronal slice in the 3D viewer</s
 Clique no ícone do olho para exibir o corte axial e coronal no visualizador 3D</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="64" />
+        <location filename="text_dict_default.json" line="64"/>
         <source>Turn off the visibility of the skull to display the brain white matter model</source>
         <extracomment>13_TextBox_0</extracomment>
         <translation type="finished">Desligue a visibilidade do crânio para exibir o modelo de matéria branca do cérebro</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="68" />
+        <location filename="text_dict_default.json" line="68"/>
         <source>The white matter surface, as well as the left and right optic nerves, appear in the viewer</source>
         <extracomment>14_TextBox_0</extracomment>
         <translation type="finished">A superfície da matéria branca, bem como os nervos óticos esquerdo e direito, aparecem no visualizador</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="72" />
+        <location filename="text_dict_default.json" line="72"/>
         <source>Select the hemispheric_white_matter.vtk model
 
 Check Clipping in the 3D Display tab
 
-In the Clipping Planes tab, select the option 'Green Slice Clipping' and check 'Negative'</source>
+In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; and check &apos;Negative&apos;</source>
         <extracomment>15_TextBox_0</extracomment>
         <translation type="finished">Selecione o modelo hemispheric_white_matter.vtk
 
 Verificar Clipping na guia Display 3D
 
-Na guia Clipping Planes, selecione a opção 'Green Slice Clipping' e verifique 'Negativo'</translation>
+Na guia Clipping Planes, selecione a opção &apos;Green Slice Clipping&apos; e verifique &apos;Negativo&apos;</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="76" />
+        <location filename="text_dict_default.json" line="76"/>
         <source>*This tutorial was a short introduction on interactive 3D visualization of MRI data and 3D models in Slicer.
 
 *The Slicer5 training compendium contains a series of tutorials and pre-computed datasets to learn how to use the software.</source>
@@ -231,13 +231,13 @@ Na guia Clipping Planes, selecione a opção 'Green Slice Clipping' e verifique 
 *O Compêndio de treino Slicer5 contém uma série de tutoriais e conjuntos de dados pré-computados para aprender a usar o software.</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="78" />
+        <location filename="text_dict_default.json" line="78"/>
         <source>Acknowledgements</source>
         <extracomment>17_TextBox_0</extracomment>
         <translation type="finished">Agradecimentos</translation>
     </message>
     <message>
-        <location filename="text_dict_default.json" line="80" />
+        <location filename="text_dict_default.json" line="80"/>
         <source>National Alliance for Medical Image
 Computing
 NIH U54EB005149
