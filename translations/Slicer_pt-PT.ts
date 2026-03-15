@@ -610,285 +610,285 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume da máscara binária da Imagem Fixa, necessário se a Opção de Máscara é ROI. Áreas da imagem onde a máscara de volume tem valor zero são ignoradas durante o registo.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume da máscara binária de Imagem Movível, necessário se a Opção de Máscara é ROI. Áreas da imagem onde a máscara de volume tem valor zero são ignoradas durante o registo.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI que é automaticamente calculado a partir da imagem fixa. Apenas disponível se a Opção de Máscara é ROIAUTO. Áreas da imagem onde a máscara de volume tem valor zero são ignoradas durante o registo.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI que é automaticamente calculado a partir da imagem em movimento. Apenas disponível se a Opção de Máscara é ROIAUTO. Áreas da imagem onde a máscara de volume tem valor zero são ignoradas durante o registo.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se estiver ativo, então a caixa delimitadora das entradas ROIs definem a região da grelha de suporte BSpline. Caso contrário a região da grelha de suporte BSpline é a imagem fixa inteira.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica a operação de correspondência com histograma para as imagens de entrada para as fazer mais semelhantes.  Isto é adequado para imagens da mesma modalidade que possam ter brilho ou contraste diferente, mas o geralmente o mesmo perfil de intensidade. NÃO use se está a registar imagens de diferentes modalidades.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica filtragem mediana para reduzir barulho nos volumes de entrada. Os 3 valores especificam o raio para o pré-processamento opcional MedianImageFilter em todas as 3 direções (em voxels).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove voxels com intensidade muito alta e muito baixa dos volumes de entrada. O parâmetro especifica a meia percentagem para decidir valores atípicos de intensidades de imagens. O valor predefinido é zero, o que significa não remover valores atípicos. Se o valor de 0.005 for fornecido, os 0.005% de ambas as caudas serão deitados fora, e por isso 0.01% das intensidades no total seriam ignoradas no cálculo estatístico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished"></translation>
+        <translation>NENHUMAMÁSCARA</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAUTO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
         <source>Advanced Output Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições de Saída Avançadas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Imagem Fixa 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Imagem em Movimento 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Pixel da Imagem de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de Preenchimento do Plano de Fundo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Escalar Valores de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Interpolação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem fixa de entrada que será usada para registo multimodal. (a imagem em movimento será transformada para o espaço desta imagem).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem em movimento de entrada que será utilizada para registo multimodal(esta imagem será transformada para o espaço da imagem fixa).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de dados para representar um voxel no Volume de Saída.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este valor será utilizado para encher essas áreas da imagem de saída que não têm voxels correspondentes na imagem em movimento de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se verdadeiro, e os valores de voxel não se enquadram nos valores mínimos e máximos do do outputVolumePixelType desejado, depois escalam linearmente os valores min/max do voxel de imagem de saida para se enquadrarem dentro do intervalo min/max do outputVolumePixelType.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de interpolação a ser utilizado ao aplicar uma transformação a um volume em movimento.  Opções são Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, ou ResampleInPlace.  A opção ResampleInPlace irá criar uma imagem com os mesmos valores de voxel discretos e irá ajustar a origem e direção da interpretação do espaço físico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation>ResampleInPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosine</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
         <source>Advanced Optimization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições de Otimização Avançadas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"/>
         <source>Max Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iterações Máximas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"/>
         <source>Maximum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento Máximo de Passo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"/>
         <source>Minimum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento Mínimo de Passo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
         <source>Relaxation Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Fator de Relaxamento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de Transformação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
         <source>Reproportion Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de Reproporção</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
         <source>Skew Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de Inclinação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Deslocamento Máximo B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>O número máximo de iterações a tentar antes de parar a otimização. Ao usar um valor mais baixo (500-1000) então o registo é forçado a terminar mais cedo mas há um risco maior de parar antes de uma solução ótima ser alcançada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
         <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do passo inicial para o otimizador. Em geral, valores mais altos permitem recuperar desalinhamentos iniciais maiores mas há uma maior probabilidade que o registo não convergirá.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada passo na otimização dá passos pelo menos tão grandes quanto isto.  Quando nenhum é possível, registo é completado. Valores mais pequenos permitem que o otimizador faça ajustes mais pequenos, mas o tempo de registo pode aumentar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
         <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica o quão rápido o comprimento do passo da otimização é diminuído durante o registo. O valor tem que ser maior que 0 e maior que 1. Valores maiores resultam em uma diminuição de tamanho de passo mais lento, o que permite a recuperação de desalinhamentos iniciais maiores mas aumenta o tempo de registo e a chance que o registo não convergirá.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quanto é necessário para ampliar mudanças em posição (em mm) comparado a unidades de mudança rotacional (em radianos) -- diminuir isto permite mais rotação no mesmo padrão de procura.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>Fator de compensação de &apos;Escala&apos; ScaleVersor3D.  Aumente isto para permitir mais redimensionamento em um padrão de procura ScaleVersor3D ou ScaleSkewVersor3D.  1.0 funciona bem com uma transformationScale de 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>Fator de compensação de Viés ScaleSkewVersion3D.  Aumente isto para permitir mais viés no padrão de procura ScaleSkewVersor3D.  1.0 funciona bem com uma transformationScale de 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
