@@ -605,7 +605,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation>Especifica a máscara</translation>
+        <translation>Especifica a uma máscara que considere apenas uma certa região da imagem para o registo.  Se ROIAUTO é escolhido, então a máscara é computada usado o limite Otsu e preenchimento de buracos. Se ROI é escolhido então a máscara tem que ser especificado na entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
