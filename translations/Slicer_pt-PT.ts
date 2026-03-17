@@ -980,27 +980,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation type="unfinished"></translation>
+        <translation>O índice na série de tempo para encaixar a imagem em movimento 3D. Permitido apenas se o volume de entrada em movimento tem 4 dimensões</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>O número de níveis de histograma usados para métricas de estimativas de informação mútua.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de pontos de correspondência usados para métricas de estimativas de informação mútua.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation>A métrica de custo para ser usado durante o ajuste. O valor padrão é o MMI. Opções são MMI (Mattes Mutual Information), MSE (Erro Quadrático Médio), NC (Correlação Normalizada), MC (Corresponder Cardinalidade para imagens binárias)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se o Modo de Inicialização de Transformação está definido para useCenterOfHeadAlign ou Opção de Máscara é ROIAUTO então este valor define quanto é que é cortado a partir da parte inferior da imagem. A distância de limite é especificada em milímetros, relativamente ao centro da imagem. Se of valor é 1000 ou maior então nenhum limite é executado.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
