@@ -9286,7 +9286,7 @@ use it for commercial purposes.&lt;/p&gt;
 &lt;p&gt;Este trabajo fue financiado parcialmente por Cancer Care Ontario 
 y por Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)&lt;/p&gt;
 
-&lt;p&gt;Los conjuntos de datos MRHead, CBCT-MR Head, y CT-MR Brain  fueron donados  al proyecto 3D Slicer por las personas que aparecen en las imágenes, para ser utilizados sin restricción alguna.&lt;/p&gt;
+&lt;p&gt;Los conjuntos de datos MRHead, CBCT-MR Head, y CT-MR Brain fueron donados al proyecto 3D Slicer por las personas que aparecen en las imágenes, para ser utilizados sin restricción alguna.&lt;/p&gt;
 
 &lt;p&gt;El conjunto de datos CTLiver  se obtuvo de  &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;proyecto Medical Decathlon&lt;/a&gt; (imagesTr/liver_100.nii.gz in Task03_Liver collection)
 con una licencia de derechos de autor de tipo (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), que permite compartir, distribuir  y mejorar los datos .&lt;/p&gt;
