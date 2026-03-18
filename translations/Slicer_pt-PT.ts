@@ -1005,28 +1005,29 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este marcador é relevante apenas quando se usa o modo ROIAUTO para inicializar máscaras.  Define o tamanho final de dilatação para capturar um pouco do plano de fundo fora da região de tecido.  Uma definição de 10mm já demonstrou que ajuda a regularizar um tipo de registo BSpline para que hajam algumas restrições para corresponder os cantos da cabeça melhor.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este marcador so é relevante ao usar modo ROIAUTO para inicializar máscaras.  Define o tamanho de fecho do orifício em mm.  É arredondado para o o tamanho de pixel inteiro mais próximo em cada direção. O padrão é usar um tamanho de fecho de 9mm.  Para dados de rato este valor pode ser preciso ser reiniciado para 0.9 ou menor.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>O número de amostras de voxels para computação de informação mútua.  Aumente isto para maior precisão, à custa de um tempo de computação mais longo.
+NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No entanto, se for definida para não-zero, númeroDeAmostras sobrescreve opção percentagemDeAmostragem.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Componente rígida da transformação afim estimada. Pode ser usada para registar rigidamente a imagem em movimento para a imagem fixa. NOTA:  Este valor é sobrescrito se transformaçãoBspline ou transformaçãoLinear estão definidos.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica a lista de tipos de registo a ser usados.  Os tipos válidos são Rígido, VersorDeEscala3D, VersorDeEscalaDistorcida3D, Afim, BSpline, e SyN.  Especificar mais do que um com uma lista separada por vírgulas irá inicializar a próxima etapa com os resultados anteriores. Se o marcador classeDeRegisto é usado, sobrescreve esta definição de parâmetro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
@@ -1041,18 +1042,18 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por predefinição, a transformações de registo de saída (ou a transformação composta de saída ou cada componente de transformação) é escrita no disco em dupla precisão. Se este marcador está LIGADO, as transformações de saída serão escritas em precisão (vírgula flutuante) individual. Isto é especialmente importante se a transformação de saída é uma transformação de deslocamento de campo, ou é uma transformação composta que inclui vários campos de deslocamento.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
