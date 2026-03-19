@@ -12,7 +12,7 @@
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished">Sonia Pujol, Ph.D.</translation>
+        <translation>Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -280,13 +280,13 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <location filename="text_dict_default.json" line="96"/>
         <source>https://training.slicer.org/</source>
         <extracomment>17_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>https://training.slicer.org/</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Reconocimiento</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
