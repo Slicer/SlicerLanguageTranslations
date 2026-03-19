@@ -5916,7 +5916,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="132"/>
         <source>User name:</source>
-        <translation>ID Usuario:</translation>
+        <translation>Nombre de usuario:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="145"/>
