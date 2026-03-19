@@ -104,37 +104,37 @@ Haz clic en la flecha para ver el contenido de cada pestaña. </translation>
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer User Interface</source>
         <extracomment>6_SlicerUserInterface_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Interfaz de Usuario Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Toolbar</source>
         <extracomment>6_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Herramientas</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
         <source>3D viewer</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visor 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>User Interface (UI) panel of the Slicer Welcome Module</source>
         <extracomment>6_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Panel de interfaz de usuario (IU) del Módulo Bienvenida a Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
         <source>Data probe</source>
         <extracomment>6_TextBox_5</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prueba de datos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>2D anatomical viewers</source>
         <extracomment>6_ArrowText_6</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visores 2D anatómicos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
@@ -146,13 +146,13 @@ Haz clic en la flecha para ver el contenido de cada pestaña. </translation>
 8_WelcomeModule_title
 ----------
 12_WelcomeModule_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Módulo Bienvenido</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
         <source>The Documentation &amp; Tutorials tab contains links to the training compendium and documentation pages of 3D Slicer.</source>
         <extracomment>7_TextBox_1</extracomment>
-        <translation type="finished">Visor 3D</translation>
+        <translation>La pestaña Documentación y Tutoriales contiene enlaces al compendio de formación y a las páginas de documentación de 3D Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -160,7 +160,9 @@ Haz clic en la flecha para ver el contenido de cada pestaña. </translation>
 
 Click on Download Sample Data to access the Sample Data Module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El panel del módulo de bienvenida contiene accesos directos para cargar diferentes tipos de datos. También hay disponibles datos de muestra.
+
+Pulse sobre «Descargar datos de muestra» para acceder al módulo de datos de muestra</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -172,57 +174,59 @@ Click on Download Sample Data to access the Sample Data Module</source>
 10_SampleData_title
 ----------
 11_SampleData_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datos de muestra</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="56"/>
         <source>The Sample Data module contains links to different sample datasets that can be downloaded into Slicer.</source>
         <extracomment>9_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El módulo de Datos de Muestra contiene enlaces a conjunto de datos de muestra diferente que puede ser descargado a Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
         <source>Brain MR</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RM Cerebral</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="62"/>
         <source>Chest CT</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TC Pecho</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
         <source>Cardiac CT</source>
         <extracomment>10_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TC Cardiaco</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="66"/>
         <source>Diffusion Tensor Imaging (DTI) Dataset</source>
         <extracomment>10_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dataset de Imagen de Tensor de Difusión (ITD)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
         <source>Brain MRI (tumor patient)</source>
         <extracomment>10_TextBox_4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RMI Cerebral (paciente del tumor)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>Click on MRHead to download the
 dataset in Slicer.</source>
         <extracomment>11_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pulse en MRHead para descargar el
+dataset en Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
         <source>The MR scan of the brain appears
 in the 2D viewers.</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El escaneo RM del cerebro
+aparece en los visores 2D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
@@ -234,7 +238,7 @@ in the 2D viewers.</source>
 14_MRBrainSampleDataset_title
 ----------
 15_MRBrainSampleDataset_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de datos de Muestra Cerebral de RM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -259,7 +263,8 @@ NIH P41EB015902</translation>
         <source>The axial, coronal and sagittal slices appear in the 3D viewer.
 Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>15_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Las rodajas axiales, coronales y sagitales aparecen en el visor 3D.
+Vuelva al módulo Bienvenido usando la flecha verde en la barra de herramientas</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
@@ -268,13 +273,13 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>16_GoingFurther_title
 ----------
 17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ir Más Allá</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
         <source>To learn more about Slicer and its different functionalities, visit the Slicer Compendium</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Para aprender más sobre Slicer y sus diferentes funcionalidades, visite el Compendium de Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
@@ -286,7 +291,7 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation>Reconocimiento</translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -299,7 +304,14 @@ NIH P41EB015902
 
 Chan Zuckerberg Initiative (CZI)</source>
         <extracomment>18_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alianza Nacional para Computación
+de Imagen Médica
+NIH U54EB005149
+
+Centro de Análisis de Neuroimage
+NIH P41EB015902
+
+Iniciativa de Chan Zuckerberg (CZI)</translation>
     </message>
 </context>
 </TS>
