@@ -12,7 +12,7 @@
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -23,13 +23,18 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Profesor adjunto de Radiología
+
+Hospital Brigham and Women’s
+
+Facultad de Medicina de Harvard
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Goal</source>
         <extracomment>1_Goal_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Logro</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
@@ -44,7 +49,7 @@ Harvard Medical School
         <extracomment>2_TextBox_0
 ----------
 3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Básico de Slicer5</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -52,19 +57,21 @@ Harvard Medical School
 *The platform is developed through a multi-institution effort of several NIH funded large-scale consortia.
 *Slicer is for medical research only, and is not FDA approved. </source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>*Slicer es un software de código abierto para la segmentación, el registro y la visualización de datos de imágenes médicas.
+*La plataforma se desarrolla mediante un esfuerzo conjunto de varias instituciones, incluyendo consorcios a gran escala financiados por los NIH.
+*Slicer es exclusivamente para investigación médica y no cuenta con la aprobación de la FDA. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>3D Slicer 5 version 5.10.0 includes over 100 modules and more than 190 extensions for image segmentation, registration and 3D visualization of medical imaging data.</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer 5 versión 5.10.0 incluye más de 100 módulos y más de 190 extensiones para la segmentación de imágenes, el registro y la visualización 3D de datos de imágenes médicas.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Supported Platforms</source>
         <extracomment>4_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Plataformas Compatibles</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -81,7 +88,7 @@ de Slicer	</translation>
         <location filename="text_dict_default.json" line="30"/>
         <source>Welcome to Slicer</source>
         <extracomment>5_WelcometoSlicer_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido a Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
