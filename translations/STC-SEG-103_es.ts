@@ -422,7 +422,7 @@ El módulo puede ejecutarse en ordenadores portátiles y de sobremesa estándar 
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>31_TextBox_0</extracomment>
-        <translation type="finished">Agradecimientos</translation>
+        <translation>Reconocimiento</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
