@@ -96,7 +96,9 @@ de Slicer	</translation>
 
 Click on the arrow symbol to display the content of each tab. </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cada módulo de Slicer incluye una serie de pestañas que dan acceso a diferentes funcionalidades.
+
+Haz clic en la flecha para ver el contenido de cada pestaña. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
