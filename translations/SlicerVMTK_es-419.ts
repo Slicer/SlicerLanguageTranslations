@@ -1397,7 +1397,7 @@ Thanks to Andras Lasso for requiring import/export from/to a centerline model/cu
 </source>
         <translation>
 Crea un nodo de marcas Shape:: Tubo guiado por una curva de marcas arbitraria, un modelo de línea central o una curva de línea central.
-Ver más información en&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo de documentación&lt;/a&gt;
+Ver más información en &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo de documentación&lt;/a&gt;
 Gracias a Andras Lasso por requerir la importación/exportación desde/a un modelo/curva de línea central.
 </translation>
     </message>
