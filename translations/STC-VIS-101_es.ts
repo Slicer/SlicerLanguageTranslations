@@ -453,11 +453,10 @@ change the transfer
 function and display the
 aorta</source>
         <extracomment>25_ArrowText_0</extracomment>
-        <translation>Utilice el control deslizante
-de desplazamiento para
-cambiar la función de
-transferencia y visualizar
-la aorta</translation>
+        <translation>Utilice el control deslizante de 
+desplazamiento para cambiar 
+la función de transferencia y
+exhibición de la aorta</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="118"/>
@@ -487,10 +486,9 @@ las cortes axiales, sagitales y
 coronales en el visor 2D 
 
 
-Coloque la región de interés 
-(ROI) alrededor del riñón 
-izquierdo usando los 
-controladores de color</translation>
+Coloca la RDI alrededor del
+riñón izquierdo usando los
+puntos de control de color</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="126"/>
@@ -765,7 +763,7 @@ Contacto: spujol@bwh.harvard.edu</translation>
         <location filename="text_dict_default.json" line="198"/>
         <source>Acknowledgements</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation>Reconocimiento</translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="200"/>
