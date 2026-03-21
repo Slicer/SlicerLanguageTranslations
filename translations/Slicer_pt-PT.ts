@@ -1037,7 +1037,7 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se este marcador está LIGADO, a transformação genérica composta atual, resultante das etapas de registo linear, é definida para otimizar o seguinte processo de registo não linear. No entanto, pelo comportamento predefinido, a imagem em movimento é primeiro distorcida baseada na transformação existente antes de ser passada para o filtro de registo BSpline. É feito para acelerar o registo BSpline ao reduzir as computações da Jacobiana de transformação composta.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
@@ -1124,49 +1124,51 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>De itkLBFGSBOptimizer.h: Define/Obtém o CostFunctionConvergenceFactor. O algoritmo termina quando a redução na função de custo e menor que (fator * epsmcj) one epsmch é a precisão da máquina. Valores típicos para fator: 1e+12 para baixa precisão; 1e+7 para uma precisão moderada e 1e+1 para uma precisão extremamente alta.  1e+9 parece funcionar bem.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>De itkLBFGSBOptimizer.h: Define/Obtém o ProjectedGradientTolerance. O algoritmo termina quando o gradiente do projeto está abaixo da tolerância. O valor padrão lbfgsb é 1e-5, mas 1e-4 parece funcionar bem.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
         <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de avaliações para procura de linhas no otimizador lbfgsb.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
         <source>Maximum number of corrections in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de correções no otimizador lbfgsb.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra imagens intermédias de volume para depuração. NOTA:  Isto não é parte do sistema de compilação padrão, e provavelmente não faz nada na sua instalação.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicita o utilizador a pressionar enter cada vez que uma imagem é enviada para o DebugImageViewer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Define o método que o filtro de registo usa para amostrar a entrada de imagem fixa. Apenas Aleatório é suportado por enquanto.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished"></translation>
+        <translation>Um ficheiro para escrever o relatório da informação final em ficheiro CSV: NomeMétrico,ValorMétrico,NomeDaImagemFixa,NomeDaMáscaraFixa,NomeDaImagemEmMovimento,NomeDaMáscaraEmMovimento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Aleatório</translation>
     </message>
 </context>
 <context>
@@ -1174,28 +1176,29 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mascaramento de primeiro plano (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>Este programa é usado para criar uma máscara sobre a região mais saliente do primeiro plano em uma imagem.  Isto é feito através de uma combinação de limitar o otsu e uma operação de fecho.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished"></translation>
+        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Integração do Slicer); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
@@ -1205,57 +1208,57 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
         <source>Output Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Máscara de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
         <source>Mask Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Máscara de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de Saída recortada por ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
         <source>The input image for finding the largest region filled mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>A imagem de entrada para encontrar a máscara da maior região preenchida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>O ROI encontrada automaticamente a partir da imagem de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>O volumeDeEntrada com a opcional [saídaDeMáscara|saídaDeRecorte] para a região da máscara de cérebro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
         <source>The inputVolume multiplied by the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>O volumeDeEntrada multiplicado pela máscara de ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
         <source>The inputVolume cropped to the region of the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>O volumeDeEntrada recortado pela região da máscara de ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
         <source>Configuration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração de Parâmetros</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite Percentual de Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
@@ -1265,52 +1268,52 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
         <source>Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho de Fecho</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho de Dilatação ROIAuto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Pixel da Imagem de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Threads</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro do algoritmo de limite de Otsu.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um fator para escalonamento do limite do resultado do algoritmo Otsu, em caso que o recorte distorça a imagem.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Tamanho de Fecho (em milímetros) para a maior máscara conectada preenchida.  Este valor é dividido pelo espaçamento da imagem e arredondado para o seguinte maior número de voxel.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este marcador só é relevante ao usar o modo ROIAUTO para inicializar máscaras. Define o tamanho de dilatação final para capturar um pouco do plano de fundo fora da região de tecido.  Uma definição de 10mm demonstrou que ajuda a regularizar um tipo registo BSpline para que hajam alguns limites de plano de fundo para corresponder as bordas da cabeça melhor.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
         <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Tipo de Pixel da imagem de saída é o tipo de dados escalar para a representação do Volume de Saída.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Explicitamente especifica o número máximo de threads a usar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
@@ -1326,7 +1329,7 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
@@ -1336,12 +1339,12 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
 </context>
 <context>
@@ -1349,19 +1352,21 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reamostrar Imagem (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
         <source>
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Este programa agrupa três tarefas comuns de processamento de imagem em que todas envolvem reamostragem de um volume de imagem. Reamostrar para uma nova resolução e espaçamento, aplicar a transformação (ao usar um mecanismo de transformação ITK de IO) e Deformação (ao usar um campo vetorial de distorção de imagem).
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>O desenvolvimento desta ferramenta foi financiado por subvenções NS050568 e NS40068 do National Institute of Neurological Disorders and Stroke e subvenções MH31593, MH40856 do National Institute of Mental Health.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
@@ -1371,23 +1376,23 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para especificar a imagem a distorcer e o espaço da imagem resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem A Distorer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
         <source>Reference Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de Referência</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
         <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de referência usada apenas para definir o espaço de saída. Se não for especificado, o distorcer é feito no mesmo espaço da imagem a distorcer.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
@@ -1397,27 +1402,27 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
         <source>Resulting deformed image parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros da imagem deformada resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Pixel</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem deformada resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="18"/>
         <source>Specifies the pixel type for the input/output images.  If the type is &quot;input&quot;, then infer from the input image.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica o tipo de pixel para as imagens de entrada/saída.  Se o tipo é &quot;entrada&quot;, então infere a partir da imagem de entrada.  O tipo de pixel &quot;binário&quot; usa um algoritmo modificado onde a imagem é carregada com o unsigned char, um mapa de distância com sinal é criado, mapa de distância com sinal é reamostrado, e depois uma imagem de limite do tipo unsigned char é escrita para o disco.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
@@ -1433,7 +1438,7 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
@@ -1443,82 +1448,82 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>binário</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
         <source>Warping Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Deformação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros usado para definir como é que a imagem é distorcida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
         <source>Displacement Field (deprecated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de Deslocamento (obsoleto)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de transformação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Interpolação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular transformação inversa a partir da transformação dada?</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
         <source>Default Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor Padrão</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
         <source>Displacement Field to be used to warp the image (ITKv3 or earlier)</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de Deslocamento a ser usado para distorcer a imagem (ITKv3 ou anterior)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
         <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do ficheiro para a transformação BRAINSFit (ITKv3 ou anterior) ou ficheiro de transformação composta (ITKv4)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de interpolação a ser usada ao aplicar a transformação ao volume em movimento.  Opções São Linear, ResampleInPlace, NearestNeighbor, BSpline, ou WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdadeiro/Falso é para computar o inverso de uma dada transformação. O padrão é falso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
         <source>Default voxel value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor padrão do voxel</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
@@ -1529,57 +1534,57 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation>ResampleInPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosine</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="49"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
         <source>Advanced Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções Avançadas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="52"/>
         <source>Add Grids</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar Grelhas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
