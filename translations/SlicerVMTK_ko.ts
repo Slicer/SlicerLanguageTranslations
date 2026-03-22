@@ -160,7 +160,10 @@ See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExten
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+이 파일은 Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab에 의해 원래 개발되었습니다.
+그리고 Steve Pieper, Isomics, Inc. 및 부분적으로 NIH 보조금 3P41RR013218-12S1에 의해 자금을 지원했다.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="88"/>
@@ -567,7 +570,7 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="378"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation type="unfinished"></translation>
+        <translation>사전 처리 결과 저장. 질 체크를 위해 유용한 및 반복된 계산을 더 빠른 만들기를 위해: 전처리한 표면은 입력 표면으로 사용될 수 있습니다 (및 “Preprocess 입력 표면” 선택권은 그 후에 장애인일 수 있습니다).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="389"/>
@@ -630,7 +633,10 @@ This module describes cross-sections along a VMTK centerline model, a VMTK cente
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+이 파일은 Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab에 의해 원래 개발되었습니다.
+그리고 Steve Pieper, Isomics, Inc. 및 부분적으로 NIH 보조금 3P41RR013218-12S1에 의해 자금을 지원했다.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
@@ -2032,7 +2038,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="559"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation type="unfinished"></translation>
+        <translation>사전 처리 결과 저장. 질 체크를 위해 유용한 및 반복된 계산을 더 빠른 만들기를 위해: 전처리한 표면은 입력 표면으로 사용될 수 있습니다 (및 “Preprocess 입력 표면” 선택권은 그 후에 장애인일 수 있습니다).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="570"/>
@@ -2108,7 +2114,10 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+이 파일은 Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab에 의해 원래 개발되었습니다.
+그리고 Steve Pieper, Isomics, Inc. 및 부분적으로 NIH 보조금 3P41RR013218-12S1에 의해 자금을 지원했다.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="113"/>
@@ -2349,7 +2358,8 @@ If specified, the regular tube diameter above is ignored.</source>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="442"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>지역은 인근의 황색과 유사한 따뜻한 강도의 모든 Voxels에만 추가됩니다. 더 높은 값을 사용하여 Lekaage를 사용합니다. 모든 캡처 전체에 대한 유용한 값.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="488"/>
@@ -2384,7 +2394,11 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+이 파일은 Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab에 의해 원래 개발되었습니다.
+그리고 Steve Pieper, Isomics, Inc. 및 부분적으로 NIH 보조금 3P41RR013218-12S1에 의해 자금을 지원했다.
+.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="190"/>
