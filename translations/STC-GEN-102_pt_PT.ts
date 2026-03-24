@@ -7,7 +7,8 @@
         <source>Slicer4 Minute
 </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Minuto Slicer4
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
