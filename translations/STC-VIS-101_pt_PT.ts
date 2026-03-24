@@ -177,7 +177,8 @@ Descompacte o ficheiro 3DVisualizationDataset.zip no seu computador para aceder 
         <source>Select patient1 and click on Load 
 to load the dataset in Slicer</source>
         <extracomment>9_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecione patient1 e clique em Carregar
+para carregar o conjunto de dados para o Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -224,7 +225,8 @@ Conjunto de dados Thorax Abdomen </translation>
         <source>Left click on DICOM to display 
 the list of modules of Slicer</source>
         <extracomment>11_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo no DICOM para mostrar 
+a lista de módulos do Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
@@ -241,7 +243,8 @@ preset to automatically adjust
 the window/level display of the 
 CT dataset</source>
         <extracomment>12_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique na predefinição 
+CT-abdomen para ajustar automaticamente</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
