@@ -157,9 +157,9 @@ Clique no símbolo da seta para mostrar o conteúdo de cada separador. </transla
 
 Click on Download Sample Data to access the Sample Data Module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation>O módulo de Boas Vindas contém atalhos para carregar diferentes tipos de dados. Uma série de dados de amostragem também está disponível.
+        <translation>O módulo de Boas Vindas contém atalhos para carregar diferentes tipos de dados. Uma série de dados de exemplo também está disponível.
 
-Clique em Transferir Dados de Amostragem para aceder ao Módulo de Dados de Amostragem</translation>
+Clique em Transferir Dados de Exemplo para aceder ao Módulo de Dados de Amostragem</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -177,7 +177,7 @@ Clique em Transferir Dados de Amostragem para aceder ao Módulo de Dados de Amos
         <location filename="text_dict_default.json" line="56"/>
         <source>The Sample Data module contains links to different sample datasets that can be downloaded into Slicer.</source>
         <extracomment>9_TextBox_1</extracomment>
-        <translation>O módulo de Dados de Amostragem contém links para diferentes conjuntos de dados de amostragem que podem ser transferidos para o Slicer.</translation>
+        <translation>O módulo de Dados de Exemplo contém links para diferentes conjuntos de dados de amostragem que podem ser transferidos para o Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
@@ -201,27 +201,29 @@ Clique em Transferir Dados de Amostragem para aceder ao Módulo de Dados de Amos
         <location filename="text_dict_default.json" line="66"/>
         <source>Diffusion Tensor Imaging (DTI) Dataset</source>
         <extracomment>10_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de Dados de Imagem por Tensor de Difusão (DTI)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
         <source>Brain MRI (tumor patient)</source>
         <extracomment>10_TextBox_4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MRI do Cérebro (paciente com tumor)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>Click on MRHead to download the
 dataset in Slicer.</source>
         <extracomment>11_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique no MRHead para transferir o
+conjunto de dados para o Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
         <source>The MR scan of the brain appears
 in the 2D viewers.</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A ressonância magnética do cérebro aparece
+nos visualizadores 2D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
@@ -233,7 +235,7 @@ in the 2D viewers.</source>
 14_MRBrainSampleDataset_title
 ----------
 15_MRBrainSampleDataset_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de Dados Exemplo da RM do Cérebro</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
