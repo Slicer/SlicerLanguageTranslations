@@ -244,7 +244,9 @@ the window/level display of the
 CT dataset</source>
         <extracomment>12_ArrowText_0</extracomment>
         <translation>Clique na predefinição 
-CT-abdomen para ajustar automaticamente</translation>
+CT-abdomen para ajustar automaticamente 
+a mostragem da janela/nivel  do 
+conjunto de dados de CT</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
@@ -263,14 +265,28 @@ Click on the Eye icon to
 display the three anatomical 
 slices in the 3D Viewer</source>
         <extracomment>13_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Posicione o cursor do rato 
+sobre a bandeira vermelha no 
+Visualizador Vermelho para mostrar o menu 
+de fatias.
+
+
+Clique no ícone de Link para ligar 
+os controlos de fatia a todas 
+as Vistas de Fatia. 
+
+
+Clique no ícone de Olho para 
+mostrar as três fatias 
+anatómicas no Visualizador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>The three anatomical slices 
 appear in the 3D viewer.</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>As três fatias anatómicas 
+aparecem no visualizador 3D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -278,7 +294,9 @@ appear in the 3D viewer.</source>
 icon, and select the 
 Conventional Widescreen layout</source>
         <extracomment>15_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique no ícone do menu de layout 
+do Slicer, e selecione o
+Layout de Ecrã Largo Convencional</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
