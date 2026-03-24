@@ -6,7 +6,7 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Slicer Welcome</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer Bem Vindo</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -157,7 +157,9 @@ Clique no símbolo da seta para mostrar o conteúdo de cada separador. </transla
 
 Click on Download Sample Data to access the Sample Data Module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O módulo de Boas Vindas contém atalhos para carregar diferentes tipos de dados. Uma série de dados de amostragem também está disponível.
+
+Clique em Transferir Dados de Amostragem para aceder ao Módulo de Dados de Amostragem</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -169,19 +171,19 @@ Click on Download Sample Data to access the Sample Data Module</source>
 10_SampleData_title
 ----------
 11_SampleData_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dados da Amostragem</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="56"/>
         <source>The Sample Data module contains links to different sample datasets that can be downloaded into Slicer.</source>
         <extracomment>9_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O módulo de Dados de Amostragem contém links para diferentes conjuntos de dados de amostragem que podem ser transferidos para o Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
         <source>Brain MR</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MR do Cérebro</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="62"/>
@@ -193,7 +195,7 @@ Click on Download Sample Data to access the Sample Data Module</source>
         <location filename="text_dict_default.json" line="64"/>
         <source>Cardiac CT</source>
         <extracomment>10_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TC Cardíaca</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="66"/>
