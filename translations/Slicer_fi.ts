@@ -21469,7 +21469,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="305"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Select a reader to use for your data?</translation>
+        <translation>Valitse tiedoillesi käytettävä lukija:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"/>
