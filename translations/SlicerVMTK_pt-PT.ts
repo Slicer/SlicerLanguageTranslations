@@ -309,22 +309,22 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio 3P41R
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
         <source>Processing centerline ids started</source>
-        <translation>Processamento de IDs de linha central iniciado</translation>
+        <translation>Processamento de ids de linha central iniciado</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="652"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
-        <translation>Processamento de IDs de linha central concluído em {duration} segundos</translation>
+        <translation>Processamento de ids de linha central concluído em {duration} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="662"/>
         <source>Processing group ids started</source>
-        <translation>Processamento de IDs de grupo iniciado</translation>
+        <translation>Processamento de ids de grupo iniciado</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="695"/>
         <source>Processing group ids completed in {duration} seconds</source>
-        <translation>Processamento de IDs de grupo concluído em {duration} segundos</translation>
+        <translation>Processamento de ids de grupo concluído em {duration} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="711"/>
@@ -2963,7 +2963,7 @@ Recomenda-se gerar linhas centrais em segmentações precisas.</translation>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; straightens an open input markups curve and displays cumulative and individual lengths between control points. It is intended for quick one dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
         <translation>
-Este&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; endireita uma curva de marcação de entrada aberta e exibe comprimentos cumulativos e individuais entre os pontos de controle. Destina-se à avaliação rápida de estenose arterial unidimensional, mas, na verdade, é independente da finalidade.
+Este &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; endireita uma curva de marcação de entrada aberta e exibe comprimentos cumulativos e individuais entre os pontos de controle. Destina-se à avaliação rápida de estenose arterial unidimensional, mas, na verdade, é independente da finalidade.
 </translation>
     </message>
     <message>
@@ -3042,7 +3042,7 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio 3P41R
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
         <translation>
-Este&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; calcula a área de superfície dos segmentos cortados por um plano de corte na sua orientação. Destina-se à avaliação rápida da estenose arterial bidimensional, mas, na verdade, não tem finalidade específica.
+Este &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; calcula a área de superfície dos segmentos cortados por um plano de corte na sua orientação. Destina-se à avaliação rápida da estenose arterial bidimensional, mas, na verdade, não tem finalidade específica.
 </translation>
     </message>
     <message>
