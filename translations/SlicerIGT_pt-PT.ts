@@ -295,7 +295,7 @@ Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Can
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
@@ -451,7 +451,7 @@ Para mais informações, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sl
     <message>
         <location filename="TextureModel/TextureModel.py" line="97"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="98"/>
