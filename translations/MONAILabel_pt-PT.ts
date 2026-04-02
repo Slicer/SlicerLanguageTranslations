@@ -272,7 +272,7 @@ Tem certeza de que deseja continuar?</translation>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1108"/>
         <source>Please upgrade the monai server to latest version</source>
-        <translation>Atualize o servidor MONAI para a versão mais recente</translation>
+        <translation>Atualize o servidor monai para a versão mais recente</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1119"/>
@@ -383,8 +383,8 @@ Clique em &quot;Cancelar&quot; para não carregar nenhum dado e cancelar a segme
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
-        <translation>Erro do servidor: Falha na criação da sessão
-Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
+        <translation>Erro do servidor: Falha na criação da Sessão
+Atualize para a versão mais recente do monailabel (&gt; 0.2.0)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1438"/>
@@ -1026,7 +1026,7 @@ Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="383"/>
         <source>Server Url</source>
-        <translation>URL do servidor</translation>
+        <translation>Url do Servidor</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="400"/>
