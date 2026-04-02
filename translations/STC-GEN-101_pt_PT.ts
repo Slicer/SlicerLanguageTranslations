@@ -23,9 +23,11 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="finished">Professor Assistente de Radiologia
-Hospital Brigham and Women&apos;s
-Faculdade de Medicina de Harvard
+        <translation>Professor Assistente de Radiologia
+
+Brigham and Women’s Hospital
+
+Harvard Medical School
 </translation>
     </message>
     <message>
@@ -63,9 +65,7 @@ Faculdade de Medicina de Harvard
         <location filename="text_dict_default.json" line="24"/>
         <source>3D Slicer 5 version 5.10.0 includes over 100 modules and more than 190 extensions for image segmentation, registration and 3D visualization of medical imaging data.</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="finished">*Slicer é um software de código aberto para segmentação, registo e visualização de dados de imagens médicas. 
-*A plataforma foi desenvolvida por meio de um esforço multi-institucional, com vários consórcios de grande escala financiados pelo NIH.
-*O Slicer destina-se exclusivamente à pesquisa médica e não possui aprovação da FDA. </translation>
+        <translation>3D Slicer 5 versão 5.10.0 inclui mais de 100 módulos e mais de 190 extensões para segmentação de imagem, registo e visualização 3D de dados de imagiologia médica.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -79,7 +79,9 @@ Faculdade de Medicina de Harvard
 
 *Slicer requires a minimum of 2 GB of RAM and a dedicated graphic accelerator with 64 MB of on-board graphic memory. </source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="finished">O 3D Slicer 5 versão 5.10.0 inclui mais que 100 módulos e mais que 190 extensões para segmentação de imagens, registo e visualização 3D de dados de imagens médicas.</translation>
+        <translation>*Slicer é um software multi plataforma desenvolvido e mantido em Mac OSX, Linux and Windows.
+
+*Slicer requer um mínimo de 2 GB of RAM e um acelerador gráfico dedicado com 64 MB de memória gráfica na placa. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -189,7 +191,7 @@ Clique em Transferir Dados de Exemplo para aceder ao Módulo de Dados de Amostra
         <location filename="text_dict_default.json" line="62"/>
         <source>Chest CT</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="finished">O módulo Dados de Exemplo contém ligações para conjuntos de dados de exemplos diferentes que podem ser descarregados no Slicer.</translation>
+        <translation>TC Peito</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
@@ -241,22 +243,23 @@ nos visualizadores 2D.</translation>
         <location filename="text_dict_default.json" line="80"/>
         <source>Position the mouse on the little pin icon in the top left corner of the red viewer to display the viewer menu</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="finished">A imagem de ressonância magnética
-do cérebro aparece nos visualizadores 2D.</translation>
+        <translation>Posicione o cursor no pequeno ícone do alfinete no canto superior esquerdo do visualizador vermelho para exibir o menu de visualizador</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="84"/>
         <source>Click on the link icon to link all three 2D viewers, and on the eye icon next to it
 to display the slices in the 3D viewer</source>
         <extracomment>14_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clique no ícone do link para ligar todos os três visualizadores 2D, e no ícone do olho ao lado do mesmo
+para mostrar as fatias no visualizador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
         <source>The axial, coronal and sagittal slices appear in the 3D viewer.
 Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>15_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>As fatias axial, coronal e sagital aparecem no visualizador 3D.
+Volte ao módulo de Boas Vindas usando a seta verde na barra de ferramentas</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
@@ -265,25 +268,25 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>16_GoingFurther_title
 ----------
 17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Indo Mais Além</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
         <source>To learn more about Slicer and its different functionalities, visit the Slicer Compendium</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Para aprender mais sobre o Slicer e as suas funcionalidades diferentes, visite o Compêndio Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
         <source>https://training.slicer.org/</source>
         <extracomment>17_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>https://training.slicer.org/</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -296,7 +299,14 @@ NIH P41EB015902
 
 Chan Zuckerberg Initiative (CZI)</source>
         <extracomment>18_TextBox_1</extracomment>
-        <translation type="finished">https://training.slicer.org/</translation>
+        <translation>National Alliance for Medical Image
+Computing
+NIH U54EB005149
+
+Neuroimage Analysis Center
+NIH P41EB015902
+
+Chan Zuckerberg Initiative (CZI)</translation>
     </message>
 </context>
 </TS>
