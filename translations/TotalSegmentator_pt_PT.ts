@@ -146,7 +146,7 @@
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="27"/>
         <source>Total Segmentator</source>
-        <translation>Total Segmentator</translation>
+        <translation>Segmentador Total</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="34"/>
