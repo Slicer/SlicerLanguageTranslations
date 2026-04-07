@@ -218,7 +218,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation>Diretório de Saída</translation>
+        <translation>DiretórioDeSaída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
@@ -1858,27 +1858,27 @@ Este programa é útil para reduzir a resolução de uma imagem por um fator de 
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
         <source>ScaleVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
         <source>ScaleSkewVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleSkewVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation type="unfinished"></translation>
+        <translation>DisplacementField</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
         <source>Same</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesmo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
 </context>
 <context>
@@ -1886,105 +1886,107 @@ Este programa é útil para reduzir a resolução de uma imagem por um fator de 
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter Volume Escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter um volume para um dado tipo de dados.
+Use por sua conta e risco ao converter um volume de entrada para um tipo de precisão inferior!
+Permite converter para o mesmo tipo que o volume de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
         <source>Input volume, the volume to cast.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada, o volume a converter.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
         <source>Output volume, cast to the new type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de saída, convertido para o novo tipo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições de Filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
         <source>Output Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Resultado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
         <source>Scalar data type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de dados escalares para o novo volume resultante.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Short</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Double</translation>
     </message>
 </context>
 <context>
@@ -1992,52 +1994,52 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"/>
         <source>CheckerBoard Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro CheckerBoard</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
         <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cria um volume em xadrez de dois volumes. O volume resultante mostrará as duas entradas alternadamente conforme o checkerPattern fornecido pelo utilizador. Este filtro é frequentemente utilizado comparar os resultados de registo de imagem. Note que a segunda entrada é reamostrada para a mesma origem, espaçamento e direção antes de ser composta com a primeira entrada. O tipo de escalar do volume resultante será o mesmo que o tipo de escalar da imagem de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
         <source>CheckerBoard Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros do CheckerBoard</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"/>
         <source>Parameters for the checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para o checkerboard</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
         <source>Checker Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão em Xadrez</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation type="unfinished"></translation>
+        <translation>O padrão da entrada 1 e entrada 2 na imagem de saída. O utilizador pode especificar o número de quadrados em cada dimensão. Um checkerPattern em 2,2,1 significa que imagens irão alternar a cada outro quadrado nas primeiras duas dimensões. O mesmo padrão será utilizado na 3ª dimensão.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Volume de Entrada 1</translation>
+        <translation>Volume de Entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
@@ -2052,17 +2054,17 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
         <source>First Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeiro Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="17"/>
         <source>Second Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado filtrado</translation>
     </message>
 </context>
 <context>
@@ -2070,602 +2072,602 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar uma Série DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar uma Série DICOM a partir de um volume Slicer. O utilizador pode especificar valores para etiquetas DICOM selecionadas no UI. Dado o número de etiquetas que as séries DICOM têm, é impossível de expor todas as etiquetas no UI.Então, apenas etiquetas importantes podem ser definidas pelo utilizador.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo de comando foi derivado a partir do Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada a ser reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
         <source>Output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"/>
         <source>DICOM filename prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefixo de nome de ficheiro DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"/>
         <source>DICOM file number format</source>
-        <translation type="unfinished"></translation>
+        <translation>formato do número de ficheiro DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
         <source>Reverse Slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter Fatias</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar Compressão</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
         <source>Output Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Saída:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation type="unfinished"></translation>
+        <translation>O diretório a conter as séries DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
         <source>The prefix of the DICOM filename.</source>
-        <translation type="unfinished"></translation>
+        <translation>O prefixo do nome do ficheiro DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
         <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>O formato ao estilo do printf a ser utilizado ao criar o nome de ficheiro por fatia DICOM. O sinal indicativo % pode ser omitido.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
         <source>Reverse the slices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter as fatias.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
         <source>Compress the output pixel data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprime os dados de píxel da saída.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"/>
         <source>Type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo para o novo volume de saída.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Short</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"/>
         <source>Patient Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros do Paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="34"/>
         <source>Parameters that apply to a patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros que são aplicados a um paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="35"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="36"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID do Paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="37"/>
         <source>Patient Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de Nascimento do Paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="38"/>
         <source>Patient Sex</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexo do Paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="39"/>
         <source>Patient Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários do Paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="40"/>
         <source>The name of the patient (0010,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do paciente (0010,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"/>
         <source>The patient ID (0010,0020). If set to [random] then a random ID will be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>O ID do paciente (0010,0020). Se for definido para [aleatório] então um ID aleatório será gerado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"/>
         <source>Patient birth date (0010,0030) in the format YYYYMMDD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de nascimento do paciente (0010, 0030) no formato AAAAMMDD.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="43"/>
         <source>Patient sex (0010,0040). M=male, F=female, O=other, [unknown]=not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexo do paciente M=masculino, F=feminino, O=outro, [unknown]=não especificado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="44"/>
         <source>Patient comments (0010,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários do paciente (0010,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="45"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="46"/>
         <source>[unknown]</source>
-        <translation type="unfinished"></translation>
+        <translation>[desconhecido]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="47"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="48"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="49"/>
         <source>O</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="50"/>
         <source>Study Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Estudo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="51"/>
         <source>Parameters that apply to a study</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros que se aplicam a um estudo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="52"/>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID do Estudo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"/>
         <source>Study Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data do Estudo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"/>
         <source>Study Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora do Estudo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"/>
         <source>Study Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários do Estudo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"/>
         <source>Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição do Estudo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="57"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalidade</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="58"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabricante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
         <source>The study ID (0020,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>O ID do estudo (0020,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"/>
         <source>The date of the study (0008,0020) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>A data do estudo (0008,0020) no formato AAAAMMDD. Se definir para &quot;[agora]&quot; então a data atual é utilizada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
         <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hora do estudo (0008,0030) no formato HHMMSS. Se for definido para &quot;[agora]&quot; então a hora atual será utilizado.\</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"/>
         <source>Study comments (0032,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários do estudo (0032,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="64"/>
         <source>Study description (0008,1030)</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição do estudo (0008,1030)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"/>
         <source>Modality (0008,0060)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalidade (0008,0060)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="66"/>
         <source>Manufacturer (0008,0070)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabricante (0008,0070)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="67"/>
         <source>model (0008,1090)</source>
-        <translation type="unfinished"></translation>
+        <translation>modelo (0008,1090)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="68"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>RM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="71"/>
         <source>NM</source>
-        <translation type="unfinished"></translation>
+        <translation>NM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"/>
         <source>US</source>
-        <translation type="unfinished"></translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>CR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"/>
         <source>SC</source>
-        <translation type="unfinished"></translation>
+        <translation>SC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
         <source>Series Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Série</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"/>
         <source>Parameters that apply to a series</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros que se aplicam a uma série</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="77"/>
         <source>Series Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome de Série</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="78"/>
         <source>Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição de Série</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="79"/>
         <source>Series Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data da Série</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="80"/>
         <source>Series Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora da Série</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="81"/>
         <source>Patient Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Posição do Paciente:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"/>
         <source>The series number (0020,0011)</source>
-        <translation type="unfinished"></translation>
+        <translation>O número de série (0020,0011)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"/>
         <source>Series description (0008,103E)</source>
-        <translation type="unfinished"></translation>
+        <translation>A descrição da série (0008,103E)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"/>
         <source>The date of the series (0008,0021) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>A data da série (0008,0021) no formato AAAAMMDD. Se definir para &quot;[agora]&quot; então a data atual será utilizada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"/>
         <source>The time of the series (0008,0031) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hora da série (0008,0031) no formato HHMMSS. Se for definido para &quot;[agora]&quot; então a hora atual é utilizada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="86"/>
         <source>Patient position descriptor relative to the equipment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição da posição do paciente relativo ao equipamento.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="87"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
         <source>HFS</source>
-        <translation type="unfinished"></translation>
+        <translation>HFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"/>
         <source>HFP</source>
-        <translation type="unfinished"></translation>
+        <translation>HFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"/>
         <source>HFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>HFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="91"/>
         <source>HFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>HFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"/>
         <source>FFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>FFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"/>
         <source>FFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>FFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"/>
         <source>FFP</source>
-        <translation type="unfinished"></translation>
+        <translation>FFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"/>
         <source>FFS</source>
-        <translation type="unfinished"></translation>
+        <translation>FFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="96"/>
         <source>LFP</source>
-        <translation type="unfinished"></translation>
+        <translation>LFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="97"/>
         <source>LFS</source>
-        <translation type="unfinished"></translation>
+        <translation>LFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="98"/>
         <source>RFP</source>
-        <translation type="unfinished"></translation>
+        <translation>RFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"/>
         <source>RFS</source>
-        <translation type="unfinished"></translation>
+        <translation>RFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"/>
         <source>AFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>AFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="101"/>
         <source>AFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>AFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="102"/>
         <source>PFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>PFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="103"/>
         <source>PFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>PFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"/>
         <source>Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros da Imagem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
         <source>Parameters that apply to the images and data in each image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros que se aplicam às imagens e dados em cada imagem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"/>
         <source>Window center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro da janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="107"/>
         <source>Window width</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura da janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="108"/>
         <source>Rescale intercept</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionar a interseção</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="109"/>
         <source>Rescale slope</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionar inclinação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="110"/>
         <source>Rescale Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionar Tipo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="111"/>
         <source>Content Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data do Conteúdo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="112"/>
         <source>Content Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora do Conteúdo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro da janela (0028,1050). Especifica uma conversão linear de valores de pixeis armazenados (depois de terem sido aplicadas o Declive de Redimensionamento e Interseção) para valores para serem exibidos. Centro de Janela contém o valor de entrada que é o centro da janela. Se o centro ou largura da janela estiver indefinido então a janela é definida para o ângulo de intensidade inteiro da imagem.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura da janela (0028,1051). Especifica uma conversão linear de valores de pixeis armazenados (após terem sido aplicadas o Declive de Redimensionamento e Interseção) para valores a serem exibidos. Largura da Janela contém a largura da janela. Se o centro ou largura da janela estiverem indefinidos, então a janela é definida para o ângulo de intensidade inteiro da imagem.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Interseção de redimensionamento (0028,1052). Converte valores de pixeis no disco para valores de pixeis em memória. (Valor de pixel na memória) = (Valor de pixel no disco) * decliveDeRedimensionamento + interseçãoDeRedimensionamento.  O padrão é 0.0. Valores de dados são convertidos na escrita (os dados são escalonados e ajustados para que o declive e interseção tragam-os de volta para o intervalo de intensidade atual).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Declive de redimensionamento (0028,1053). Converte valores de pixeis no disco para valores de pixeis na memória. (Valor de pixel na memória) = (Valor de pixel no disco) * decliveDeRedimensionamento + interseçãoDeRedimensionamento.  O padrão é 1.0. Valores de dados são convertidos na escrita (os dados são escalonados e ajustados para que o declive e interseção tragam-os de volta para o intervalo de intensidade atual).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
         <source>Specifies the output units of the rescaled image (0008,1054). Leave it blank to set it automatically (Hounsfield unit for CT, unspecified for others).</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica as unidades de resultado da imagem redimensionada (0008,1054). Deixe em branco para defini-las automaticamente (Unidade Hounsfield para TC, não-especificado para outras).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
         <source>The date of the image content (0008,0023) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>A data do conteúdo da imagem (0008,0023) no formato AAAAMMDD. Se definir para &quot;[agora]&quot; então a data atual é usada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"/>
         <source>The time of the image content (0008,0033) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hora do conteúdo da imagem (0008,0033) no formato HHMMSS. Se definir para &quot;[agora]&quot; então a hora atual é usada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"/>
         <source>Unique Identifiers (UIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificadores Únicos (UIDs)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificadores Únicos (UIDs) que permite anexar quadros a estudos ou séries existentes. Para gerar UIDs automáticamente, deixe isto tudo em branco.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
         <source>Study Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID da Instância de Estudo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"/>
         <source>Series Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID da Instância de Série</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
         <source>Frame of Reference UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID do Quadro de Referência</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
         <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>O UID da instância de estudo (0020,000d). Deixe em branco para gerar UIDs automaticamente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
         <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>O UID da instância da série (0020,000e). Deixe em branco para gerar UIDs automaticamente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"/>
         <source>The frame of reference UID (0020,0052). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>O UID do quadro de referência (0020,0052). Deixe em branco para gerar UIDs automaticamente.</translation>
     </message>
 </context>
 <context>
@@ -2673,7 +2675,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="5"/>
         <source>Curvature Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>Difusão Anisotrópica de Curvatura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
@@ -2691,49 +2693,49 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo de comando foi derivado a partir do Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros da Difusão Anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para o algoritmo de difusão anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="10"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="14"/>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation>Condutância</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iterações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="12"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="17"/>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de Tempo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valores de condutância controlam a sensibilidade do termo de condutância. Enquanto regra geral, quanto mais baixo o valor, mais fortemente o filtro preserva as bordas. Um valor mais alto causará difusão (suavização) ao logo das bordas. Note que o número de iterações controla quanta suavização é feita em regiões delimitadas por bordas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quantas mais iterações, quanto mais suavização. Cada iteração leva a mesma quantidade de tempo. Se demora 10 segundos para uma iteração, então demorará 100 segundos para 10 iterações. Note que a condutância controla o quanto uma iteração suaviza ao longo das bordas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>O intervalo de tempo depende na dimensionalidade da imagem. No Slicer as imagens são 3D e o intervalo de tempo padrão (0.0625) fornece uma solução estável.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
@@ -2748,7 +2750,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
@@ -2758,12 +2760,12 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado filtrado</translation>
     </message>
 </context>
 <context>
@@ -2771,7 +2773,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="5"/>
         <source>Diffusion-weighted DICOM Import (DWIConvert)</source>
-        <translation type="unfinished"></translation>
+        <translation>Importe DICOM ponderado com difusão (DWIConvert)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
@@ -2781,220 +2783,221 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Additional support for DTI data produced on Philips scanners was contributed by Vincent Magnotta and Hans Johnson at the University of Iowa.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiado pela National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Suporte adicional para dados DTI produzido em scanners Philips foi contribuido por Vincent Magnotta e Hans Johnson na University of Iowa.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
         <source>Conversion Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de Conversão</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="9"/>
         <source>Options that are used for all conversion modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções que são usadas para todos os modos de conversão</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="10"/>
         <source>Input DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de volume de entrada DWI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="11"/>
         <source>Output DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de volume de resultado DWI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"/>
         <source>Determine which conversion to perform. DicomToNrrd (default): Convert DICOM series to NRRD DicomToFSL: Convert DICOM series to NIfTI File + gradient/bvalue text files NrrdToFSL: Convert DWI NRRD file to NIfTI File + gradient/bvalue text files FSLToNrrd: Convert NIfTI File + gradient/bvalue text files to NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Determina qual conversão a efetuar. DicomParaNrrd (padrão): Converte uma série DICOM para NRRD DicomParaFSL: Converte uma série DICOM para um ficheiro NIfTI + ficheiros de texto gradiente/bvalue NrrdParaFSL: Converte um ficheiro DWI NRRD para Ficheiro NIfTI + ficheiros de texto gradiente/bvalue FSLParaNrrd: Converte um Ficheiro NIfTI + ficheiros de texto gradiente/bvalue para um ficheiro NRRD.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"/>
         <source>Input DWI volume -- not used for DicomToNrrd mode.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Importar volume DWI -- não utilizado para o modo DicomParaNrrd.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"/>
         <source>Output filename (.nhdr or .nrrd)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do ficheiro de saída (.nhdr ou .nrrd)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"/>
         <source>DicomToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>DicomParaNrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"/>
         <source>DicomToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>DicomParaFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="18"/>
         <source>NrrdToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>NrrdParaFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="19"/>
         <source>FSLToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>FSLParaNrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"/>
         <source>Dicom To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros De Conversão De Dicom Para Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
         <source>Parameters for Dicom to NRRD Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para Conversão Dicom para NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório de Entrada de Dados Dicom</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório que contém séries Dicom</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="25"/>
         <source>NiftiFSL To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Conversão de NiftiFSL para Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="26"/>
         <source>FSL NIfTI File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro FSL NIfTI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"/>
         <source>Input bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de entrada bval</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"/>
         <source>Input bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de entrada bvec</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
         <source>4D NIfTI file containing gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro 4D NIfTI que contém volumes de gradientes</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"/>
         <source>The B Values are stored in FSL .bval text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Os B Values estão armazenados em ficheiro de texto de formato FSL .bval</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="31"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Os Vetores de Gradiente estão armazenados em ficheiro de formato FSL .bvec</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="32"/>
         <source>Nrrd To NiftiFSL Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Conversão de Nrrd Para NiftiFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="33"/>
         <source>Nrrd To NiftiFSL (NrrdToFSL) Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Conversão de Nrrd Para NiftiFSL (NrrdParaFSL)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"/>
         <source>Output nii file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de saída nii</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"/>
         <source>Output bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de saída bval</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"/>
         <source>Output bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de saída bvec</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
         <source>Nifti output filename (for Slicer GUI use).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome de ficheiro de saída Nifti (apenas para uso do GUI do Slicer).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="38"/>
         <source>The B Values are stored in FSL .bval text file format (defaults to &lt;outputVolume&gt;.bval)</source>
-        <translation type="unfinished"></translation>
+        <translation>Os B Values estão armazenados em ficheiros de texto de formato FSL .bval (por padrão é &lt;volumeDeSaída&gt; .bval)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="39"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format (defaults to &lt;outputVolume&gt;.bvec)</source>
-        <translation type="unfinished"></translation>
+        <translation>Os Vetores de Gradiente estão gura</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="40"/>
         <source>Advanced Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros Avançados de Conversão</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"/>
         <source>Options to control the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções para controlar o resultado.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
         <source>Write Protocol Gradients File</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrever Ficheiro de Protocolo de Gradientes</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"/>
         <source>Use Identity Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar Quadro de Medição de Identidade</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="44"/>
         <source>Use BMatrix Gradient Directions</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar Direções de Gradiente BMatrix</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"/>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório De Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"/>
         <source>Small Gradient Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite de Pequeno Gradiente</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"/>
         <source>Transpose Input BVectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Transpor BVectors de Entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"/>
         <source>Allow lossy image conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir conversão com perdas de imagem</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escreve os protocolos de gradientes para um ficheiro com sufixo &quot;.txt&quot;, tal como foram especificados no protocolo ao multiplicar cada direção de gradiente de difusão pelo quadro de medições.  Este ficheiro serve apenas para fins de depuração, o formato não é fixo, e provavelmente mudará uma vez que depuração de novos formatos dicom é necessário.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
         <source>Adjust all the gradients so that the measurement frame is an identity matrix.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajusta todos os gradientes de maneira que o quadro de medições é uma matriz identitária.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preenche o cabeçalho nhdr com as direções do gradiente e bvalues computados através da BMatrix. Apenas alteram comportamento para dados Siemens.  Em alguns casos os gradientes públicos standard não são devidamente computados.  Os gradientes podem ser empiricamente computados a partir de campos BMatrix.  Em alguns casos a BMatrix privada é mais consistente com gradientes públicos, mas não em todos os casos, quando a mesma existe BMatrix é normalmente a mais robusta.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
@@ -5187,7 +5190,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volume de Entrada 1</translation>
+        <translation>Volume de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
@@ -5439,7 +5442,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volume de Entrada 1</translation>
+        <translation>Volume de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
@@ -7394,7 +7397,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volume de Entrada 1</translation>
+        <translation>Volume de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
