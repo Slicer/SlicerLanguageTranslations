@@ -19,12 +19,12 @@
         <translation>சேவையகம்:</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="38"/>
         <source>MONAI Auto3DSeg</source>
         <translation>மோனை ஆட்டோ3டிபிரி</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="46"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="42"/>
         <source>
 3D Slicer extension for segmentation using MONAI Auto3DSeg AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
@@ -35,7 +35,7 @@ MONAI Auto3DSeg AI மாதிரியைப் பயன்படுத்த
 </translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="51"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="46"/>
         <source>
 This file was originally developed by Andras Lasso (PerkLab, Queen&apos;s University).
 The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
@@ -76,7 +76,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
         <translation>ரத்துசெய்கிறது</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="199"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="196"/>
         <source>Processing Failed</source>
         <translation>செயலாக்கம் தோல்வியடைந்தது</translation>
     </message>
@@ -111,32 +111,32 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
         <translation>&apos;{input_title}&apos; இல் தனிப்பட்ட உள்ளீடு இல்லை (&apos;{already_in_input}&apos; ஏற்கனவே மற்றொரு உள்ளீடாகப் பயன்படுத்தப்பட்டுள்ளது).</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="502"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="501"/>
         <source>Start segmentation</source>
         <translation>பிரிவைத் தொடங்கவும்</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="506"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="505"/>
         <source>Please wait while the segmentation is being initialized</source>
         <translation>பிரிவு துவக்கப்படும் வரை காத்திருக்கவும்</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="509"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="508"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="510"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="509"/>
         <source>Cancel in-progress segmentation</source>
         <translation>செயல்பாட்டில் உள்ள பிரிவை நீக்கறல்</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="513"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="512"/>
         <source>Please wait while the segmentation result is being imported</source>
         <translation>பிரிவு முடிவு இறக்குமதி செய்யப்படும் வரை காத்திருக்கவும்</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="516"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="515"/>
         <source>Please wait for the segmentation to be cancelled</source>
         <translation>பிரிவு ரத்து செய்யப்படும் வரை காத்திருக்கவும்</translation>
     </message>
@@ -166,12 +166,12 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
         <translation>செயலாக்கத்தை ரத்து செய்ய முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="708"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="706"/>
         <source>Processing finished.</source>
         <translation>செயலாக்கம் முடிந்தது.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="711"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="709"/>
         <source>Processing was cancelled.</source>
         <translation>செயலாக்கம் ரத்து செய்யப்பட்டது.</translation>
     </message>
@@ -236,7 +236,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
         <translation>பதிவிறக்கம் செய்யப்பட்ட மாதிரிகள் நீக்கப்படும்.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="799"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="798"/>
         <source>Connected</source>
         <translation>இணைக்கப்பட்டது</translation>
     </message>
@@ -253,7 +253,7 @@ Please check address, port, and connection.</source>
 முகவரி, துறைமுகம் மற்றும் இணைப்பைச் சரிபார்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="814"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="813"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="112"/>
         <source>Connect</source>
         <translation>இணை</translation>
@@ -269,7 +269,7 @@ Please check address, port, and connection.</source>
         <translation>சர்வர் தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="854"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="852"/>
         <source>Server was stopped.</source>
         <translation>சர்வர் நிறுத்தப்பட்டது.</translation>
     </message>
@@ -279,7 +279,7 @@ Please check address, port, and connection.</source>
         <translation>பிழைக் குறியீடு {return_code} மூலம் செயலாக்கம் தோல்வியடைந்தது. மேலும் விவரங்களுக்கு `GUI இல் உள்நுழைக` மூலம் மீண்டும் முயற்சிக்கவும்.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="1433"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="1428"/>
         <source>Segmenting sequence item {number_of_processed_items}/{number_of_items}</source>
         <translation>வரிசை உருப்படி {number_of_processed_items}/{number_of_items}</translation>
     </message>
@@ -364,7 +364,7 @@ Please check address, port, and connection.</source>
         <translation>பிரிவைத் தொடங்கவும்.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="463"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="462"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="363"/>
         <source>Apply</source>
         <translation>இடு</translation>
@@ -485,7 +485,7 @@ Please check address, port, and connection.</source>
         <translation>GUI இல் உள்நுழைக: </translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="540"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="539"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="597"/>
         <source>Start server</source>
         <translation>சேவையகத்தைத் தொடங்கவும்</translation>
@@ -837,7 +837,7 @@ Please check address, port, and connection.</source>
 <context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="40"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
         <source>Segmentation</source>
         <translation>பிரித்தல்</translation>
     </message>

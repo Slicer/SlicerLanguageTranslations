@@ -2385,6 +2385,19 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </message>
 </context>
 <context>
+    <name>qSlicerUltrasoundSnapshotsModuleWidget</name>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="122"/>
+        <source>This action will delete all snapshots.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="123"/>
+        <source>Continue with this action?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerVolumeReconstructionModule</name>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="14"/>

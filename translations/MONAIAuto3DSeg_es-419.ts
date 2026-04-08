@@ -19,12 +19,12 @@
         <translation>Servidor:</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="38"/>
         <source>MONAI Auto3DSeg</source>
         <translation>MONAI Segmentación automática en 3D</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="46"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="42"/>
         <source>
 3D Slicer extension for segmentation using MONAI Auto3DSeg AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
@@ -35,7 +35,7 @@ Consulte más información en &lt;a href=&quot;https://github.com/lassoan/Slicer
 </translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="51"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="46"/>
         <source>
 This file was originally developed by Andras Lasso (PerkLab, Queen&apos;s University).
 The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
@@ -76,7 +76,7 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
         <translation>Cancelando</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="199"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="196"/>
         <source>Processing Failed</source>
         <translation>Ha fallado el procesamiento</translation>
     </message>
@@ -111,32 +111,32 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
         <translation>&apos;{input_title}&apos; no tiene una entrada única (&apos;{already_in_input}&apos; ya se utiliza como otra entrada).</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="502"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="501"/>
         <source>Start segmentation</source>
         <translation>Iniciar segmentación</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="506"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="505"/>
         <source>Please wait while the segmentation is being initialized</source>
         <translation>Por favor, espere mientras se inicializa la segmentación</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="509"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="508"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="510"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="509"/>
         <source>Cancel in-progress segmentation</source>
         <translation>Cancelar la segmentación en curso</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="513"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="512"/>
         <source>Please wait while the segmentation result is being imported</source>
         <translation>Espere mientras se importa el resultado de la segmentación</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="516"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="515"/>
         <source>Please wait for the segmentation to be cancelled</source>
         <translation>Espere a que se cancele la segmentación</translation>
     </message>
@@ -166,12 +166,12 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
         <translation>No se ha podido cancelar el proceso.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="708"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="706"/>
         <source>Processing finished.</source>
         <translation>Procesamiento finalizado.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="711"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="709"/>
         <source>Processing was cancelled.</source>
         <translation>El procesamiento fue cancelado.</translation>
     </message>
@@ -236,7 +236,7 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
         <translation>Se eliminan los modelos descargados.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="799"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="798"/>
         <source>Connected</source>
         <translation>Conectado</translation>
     </message>
@@ -253,7 +253,7 @@ Please check address, port, and connection.</source>
 Compruebe la dirección, el puerto y la conexión.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="814"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="813"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="112"/>
         <source>Connect</source>
         <translation>Conectar</translation>
@@ -269,7 +269,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
         <translation>Servidor activado</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="854"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="852"/>
         <source>Server was stopped.</source>
         <translation>Se ha detenido el servidor.</translation>
     </message>
@@ -279,7 +279,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
         <translation>El proceso ha fallado con el código de error {regresar_código}. Inténtelo de nuevo con &quot;Registrar en GUI&quot; para obtener más detalles.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="1433"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="1428"/>
         <source>Segmenting sequence item {number_of_processed_items}/{number_of_items}</source>
         <translation>Segmentación de elemento de secuencia {número_de_elementos_procesados}/{número_de_elementos}</translation>
     </message>
@@ -364,7 +364,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
         <translation>Iniciar segmentación.</translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="463"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="462"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="363"/>
         <source>Apply</source>
         <translation>Aplicar</translation>
@@ -485,7 +485,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
         <translation>Registro en GUI: </translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="540"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="539"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="597"/>
         <source>Start server</source>
         <translation>Arrancar servidor</translation>
@@ -837,7 +837,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
 <context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
-        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="40"/>
+        <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
         <source>Segmentation</source>
         <translation>Segmentación</translation>
     </message>

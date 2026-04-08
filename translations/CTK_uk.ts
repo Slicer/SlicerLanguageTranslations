@@ -17,22 +17,22 @@
 <context>
     <name>ctkActionsWidget</name>
     <message>
-        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
+        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Action</source>
         <translation>Дія</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
+        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Shortcut(s)</source>
         <translation>Ярлик(и)</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
+        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="90"/>
         <source>Context</source>
         <translation>Контекст</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
+        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="90"/>
         <source>Details</source>
         <translation>Подробиці</translation>
     </message>
@@ -94,12 +94,12 @@ Closing the application will cancel all current computations.</source>
 <context>
     <name>ctkCheckableComboBox</name>
     <message>
-        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="398"/>
+        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="397"/>
         <source>All</source>
         <translation>Всі</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="393"/>
+        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="392"/>
         <source>None</source>
         <translation>Жодного</translation>
     </message>
@@ -528,49 +528,49 @@ due to:
 <context>
     <name>ctkConsole</name>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="140"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
         <source>&amp;Run file</source>
         <translation>&amp;Запустити файл</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="142"/>
         <source>Ctrl+g</source>
         <translation>Ctrl+g</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="145"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
         <source>Print &amp;help</source>
         <translation>Друк &amp;довідка</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="147"/>
         <source>Ctrl+h</source>
         <translation>Ctrl+h</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="152"/>
         <source>&amp;Run script from file</source>
         <translation>&amp;Запуск сценарію з файлу</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="1380"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
         <translation>Не вдається прочитати файл &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="1400"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="1409"/>
         <source>Select a script file to run</source>
         <translation>Виберіть файл сценарію для запуску</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="1412"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="1421"/>
         <source>CTRL+h: Print this help message
 </source>
         <translation>CTRL+h: надрукувати це довідкове повідомлення
 </translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkConsole.cpp" line="1413"/>
+        <location filename="Libs/Widgets/ctkConsole.cpp" line="1422"/>
         <source>CTRL+r: Open a file dialog to select a file to run
 </source>
         <translation>CTRL+r: Відкрийте діалогове вікно файлу, щоб вибрати файл для запуску
@@ -636,7 +636,7 @@ due to:
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="475"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="308"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="313"/>
         <source>Import</source>
         <translation>Імпорт</translation>
     </message>
@@ -686,39 +686,39 @@ due to:
         <translation>Видалити з бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="150"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="149"/>
         <source>DICOM Schema Update</source>
         <translation>Оновлення схеми DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="150"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="192"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="149"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="191"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="155"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="197"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="154"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="196"/>
         <source>Initialization...</source>
         <translation>Ініціалізація...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="192"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="191"/>
         <source>DICOM Import</source>
         <translation>Імпорт DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="300"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="305"/>
         <source>Copy on import</source>
         <translation>Копія при імпорті</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="309"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="314"/>
         <source>Import DICOM files from directory ...</source>
         <translation>Імпорт файлів DICOM з каталогу ...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="677"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="682"/>
         <source>Directory import completed.
 
 %1 New Patients
@@ -736,7 +736,7 @@ due to:
 </translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="686"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="688"/>
         <source>DICOM Directory Import</source>
         <translation>Імпорт каталогу DICOM</translation>
     </message>
@@ -786,8 +786,8 @@ due to:
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="272"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1146"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="213"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1107"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
@@ -798,7 +798,7 @@ due to:
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="219"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="386"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="327"/>
         <source>Import</source>
         <translation>Імпорт</translation>
     </message>
@@ -858,76 +858,76 @@ due to:
         <translation>Перевірте, чи всі файли, пов’язані із зображеннями в локальній базі даних, доступні на диску.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="272"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="213"/>
         <source>DICOM Schema Update</source>
         <translation>Оновлення схеми DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="275"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="216"/>
         <source>Initialization...</source>
         <translation>Ініціалізація...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="366"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="307"/>
         <source>Add Link</source>
         <translation>Додати посилання</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="367"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="308"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="369"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="310"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
         <translation>Вкажіть, чи слід копіювати файли до каталогу локальної бази даних чи лише створювати посилання?</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="371"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="312"/>
         <source>Import Directory Mode:</source>
         <translation>Режим імпорту каталогу:</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="387"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="328"/>
         <source>Import DICOM files from directory ...</source>
         <translation>Імпорт файлів DICOM з каталогу ...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="392"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="333"/>
         <source>DICOM File Metadata</source>
         <translation>Метадані файлу DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="585"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="526"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>Не вдалося створити нову базу даних у папці %1.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="641"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="669"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="582"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="610"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>У папці %1 не знайдено дійсну базу даних DICOM.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="689"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="630"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>У папці %1 знайдено несумісну версію бази даних DICOM.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="831"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="772"/>
         <source>Database Repair</source>
         <translation>Ремонт бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="861"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="802"/>
         <source>All the files in the local database are available.</source>
         <translation>Усі файли в локальній базі даних доступні.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="888"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
         <source>The files for the following series are not available on the disk: 
 Patient Name: %1
 Study Description: %2
@@ -941,106 +941,106 @@ Do you want to remove the series from the DICOM database?</source>
 Ви бажаєте видалити серію з бази даних DICOM?</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1053"/>
         <source>Do you want to delete the following selected items?</source>
         <translation>Ви бажаєте видалити наступні вибрані елементи?</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1113"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1074"/>
         <source>(and %1 more)</source>
         <translation>(і ще %1)</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1145"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1185"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1259"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1337"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1106"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1146"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1220"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1298"/>
         <source>Delete</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1177"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1251"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1329"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1138"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1212"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1290"/>
         <source>View DICOM metadata</source>
         <translation>Перегляд метаданих DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1180"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1141"/>
         <source>View DICOM metadata of %1 selected patients</source>
         <translation>Перегляньте метадані DICOM %1 вибраних пацієнтів</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1188"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1149"/>
         <source>Delete %1 selected patients</source>
         <translation>Видалити %1 вибраних пацієнтів</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1193"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1267"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1345"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1154"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1228"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1306"/>
         <source>Export to file system</source>
         <translation>Експорт у файлову систему</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1196"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1157"/>
         <source>Export %1 selected patients to file system</source>
         <translation>Експорт %1 вибраних пацієнтів у файлову систему</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1201"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1275"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1353"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1162"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1236"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1314"/>
         <source>Send to DICOM server</source>
         <translation>Надіслати на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1204"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1165"/>
         <source>Send %1 selected patients to DICOM server</source>
         <translation>Надіслати %1 вибраних пацієнтів на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1254"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1215"/>
         <source>View DICOM metadata of %1 selected studies</source>
         <translation>Перегляньте метадані DICOM %1 вибраних досліджень</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1262"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1223"/>
         <source>Delete %1 selected studies</source>
         <translation>Видалити %1 вибраних досліджень</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1270"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1231"/>
         <source>Export %1 selected studies to file system</source>
         <translation>Експорт %1 вибраних досліджень у файлову систему</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1278"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1239"/>
         <source>Send %1 selected studies to DICOM server</source>
         <translation>Надіслати %1 вибраних досліджень на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1332"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1293"/>
         <source>View DICOM metadata of %1 selected series</source>
         <translation>Перегляньте метадані DICOM %1 вибраної серії</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1340"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1301"/>
         <source>Delete %1 selected series</source>
         <translation>Видалити %1 вибрану серію</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1348"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1309"/>
         <source>Export %1 selected series to file system</source>
         <translation>Експорт %1 вибраної серії до файлової системи</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1356"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1317"/>
         <source>Send %1 selected series to DICOM server</source>
         <translation>Надіслати %1 вибрану серію на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1440"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1401"/>
         <source>Unable to create export destination directory:
 
 %1
@@ -1054,23 +1054,23 @@ Halting export.</source>
 Припинення експорту.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1454"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1415"/>
         <source>DICOM Export</source>
         <translation>Експорт DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1454"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1415"/>
         <source>Close</source>
         <translation>Закрити</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1460"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1421"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
         <translation>Експорт серії %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1477"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1438"/>
         <source>Export source file not found:
 
 %1
@@ -1088,7 +1088,7 @@ Error may be fixed via Repair.</source>
 Помилка може бути виправлена за допомогою Repair.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1490"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1451"/>
         <source>Export destination file already exists:
 
 %1
@@ -1102,7 +1102,7 @@ Halting export.</source>
 Припинення експорту.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1505"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1466"/>
         <source>Failed to copy
 
 %1
@@ -1124,12 +1124,12 @@ Halting export.</source>
 Припинення експорту.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1535"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1495"/>
         <source>Updating database displayed fields...</source>
         <translation>Оновлення відображених полів бази даних...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1809"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1769"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
         <translation>Імпорт завершено: додано %1 пацієнтів, %2 досліджень, %3 серій, %4 випадків.</translation>
@@ -1244,25 +1244,25 @@ Halting export.</source>
 <context>
     <name>ctkDICOMIndexer</name>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="105"/>
-        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="222"/>
-        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="249"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="106"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="223"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="250"/>
         <source>Parsing DICOM files</source>
         <translation>Розбір файлів DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="131"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="132"/>
         <source>Updating database displayed fields</source>
         <translation>Оновлення відображених полів бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="152"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="153"/>
         <source>Indexing complete</source>
         <translation>Індексування завершено</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="220"/>
-        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="247"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="221"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="248"/>
         <source>Updating database fields</source>
         <translation>Оновлення полів бази даних</translation>
     </message>
@@ -1270,373 +1270,373 @@ Halting export.</source>
 <context>
     <name>ctkDICOMItem</name>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="869"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="871"/>
         <source>Head First - Prone</source>
         <translation>Голова вперед - лежачи</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="870"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="872"/>
         <source>Head First - Decubitus Right</source>
         <translation>Голова вперед - пролежень справа</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="871"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="873"/>
         <source>Feet First - Decubitus Right</source>
         <translation>Ноги спочатку - пролежень справа</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="872"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="874"/>
         <source>Feet First - Prone</source>
         <translation>Ноги вперед - на животі</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="873"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="875"/>
         <source>Head First - Supine</source>
         <translation>Голова вперед - на спині</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="874"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="876"/>
         <source>Head First - Decubitus Left</source>
         <translation>Голова спочатку - пролежень зліва</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="875"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="877"/>
         <source>Feet First - Decubitus Left</source>
         <translation>Ноги спочатку - пролежні зліва</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="876"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="878"/>
         <source>Feet First - Supine</source>
         <translation>Ноги спочатку - на спині</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="897"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
         <source>Computed Radiography</source>
         <translation>Комп&apos;ютерна рентгенографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="898"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="900"/>
         <source>Computed Tomography</source>
         <translation>Комп&apos;ютерна томографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="901"/>
         <source>Magnetic Resonance</source>
         <translation>Магнітний резонанс</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="900"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
         <source>Nuclear Medicine</source>
         <translation>Ядерна медицина</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="901"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
         <source>Ultrasound</source>
         <translation>Ултразвук</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
         <source>Other</source>
         <translation>Інше</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
         <source>Biomagnetic imaging</source>
         <translation>Біомагнітне зображення</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
         <source>Color flow Doppler</source>
         <translation>Колір потік Допплер</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
         <source>Duplex Doppler</source>
         <translation>Дуплекс Допплер</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
         <source>Endoscopy</source>
         <translation>Ендоскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="909"/>
         <source>Laser surface scan</source>
         <translation>Лазерне сканування поверхні</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
         <source>Positron emission tomography (PET)</source>
         <translation>Томографія Positron (PET)</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="909"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
         <source>Radiographic imaging (conventional film/screen)</source>
         <translation>Радіографічне зображення (традиційна плівка / екран)</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>Single-photon emission computed tomograpy (SPECT)</source>
         <translation>Однофотонна емісія комп&apos;ютерна томографія (СПЕК)</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
         <source>Thermography</source>
         <translation>Термографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>X-Ray Aniography</source>
         <translation>X-Ray Аніографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
         <source>Radio Fluoroscopy</source>
         <translation>Радіо Фтороскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
         <source>Radiotherapy Image</source>
         <translation>Радіотерапія зображення</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
         <source>Radiotherapy Dose</source>
         <translation>Радіотерапія Даза</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>Radiotherapy Structure Set</source>
         <translation>Набір структури радіотерапії</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
         <source>Radiotherapy Plan</source>
         <translation>План радіотерапії</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"/>
         <source>RT Treatment Record</source>
         <translation>RT Запис лікування</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
         <source>Hard Copy</source>
         <translation>Жорсткий Копіювати</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
         <source>Digital Radiography</source>
         <translation>Цифрова рентгенографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
         <source>Mammography</source>
         <translation>Мамографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
         <source>Intra-oral Radiography</source>
         <translation>Радіографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
         <source>Panoramic X-Ray</source>
         <translation>Панорамний X-Ray</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
         <source>General Microscopy</source>
         <translation>Загальна мікроскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
         <source>Slide Microscopy</source>
         <translation>Слайд мікроскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
         <source>External-camera Photography</source>
         <translation>Зовнішня камера Відео</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="929"/>
         <source>Presentation state</source>
         <translation>Стан презентації</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="930"/>
         <source>Audio</source>
         <translation>Аудіо</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="929"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="931"/>
         <source>Electrocardiography</source>
         <translation>Електрокардіографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="930"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="932"/>
         <source>Cardiac Electrophysiology</source>
         <translation>Електрофізіологія серця</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="931"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="933"/>
         <source>Hemodynamic Waveform</source>
         <translation>Гемодинамічна Хвиля</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="932"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="934"/>
         <source>SR Document</source>
         <translation>SR документ</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="933"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="935"/>
         <source>Intravascular Ultrasound</source>
         <translation>Внутрішньосудинне УЗД</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="934"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="936"/>
         <source>Ophthalmic Photography</source>
         <translation>Офтальмічна фотографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="935"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="937"/>
         <source>Stereometric Relationship</source>
         <translation>Стереометричні відносини</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="936"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="938"/>
         <source>Optical Coherence Tomography (non-Ophthalmic)</source>
         <translation>Оптичний похід Томографія (неофтальмічний)</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="937"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
         <source>Ophthalmic Refraction</source>
         <translation>Офтальмічна реакція</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="938"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
         <source>Ophthalmic Visual Field</source>
         <translation>Офтальмічне візуальне поле</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
         <source>Ophthalmic Mapping</source>
         <translation>Офтальмічний Mapping</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
         <source>Key Object Selection</source>
         <translation>Вибір об&apos;єкта</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="943"/>
         <source>Segmentation</source>
         <translation>Сегментація</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="944"/>
         <source>Registration</source>
         <translation>Реєстрація</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="943"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="945"/>
         <source>Ophthalmic Tomography</source>
         <translation>Офтальмологічна Томографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="944"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="946"/>
         <source>Bone Densitometry (ultrasound)</source>
         <translation>Кісткова денситометрія (УЗД)</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="945"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="947"/>
         <source>Bone Densitometry (X-Ray)</source>
         <translation>Кісткова денситометрія (рентгенівська)</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="946"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="948"/>
         <source>Document</source>
         <translation>Документ</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="949"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="951"/>
         <source>Digital Subtraction Angiography</source>
         <translation>Ангіографія цифрового наркоманії</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="950"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="952"/>
         <source>Cinefluorography</source>
         <translation>Кінфторографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="951"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="953"/>
         <source>Digital fluoroscopy</source>
         <translation>Цифрова фтороскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="952"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="954"/>
         <source>Videofluorography</source>
         <translation>Відеофлюорографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="953"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="955"/>
         <source>Angioscopy</source>
         <translation>Ангіоскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="954"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="956"/>
         <source>Cystoscopy</source>
         <translation>Кистоскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="955"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="957"/>
         <source>Echocardiography</source>
         <translation>Ехокардіографія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="956"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="958"/>
         <source>Laparoscopy</source>
         <translation>Лапароскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="957"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="959"/>
         <source>Fluorescein angiography </source>
         <translation>Ангіографія фторицеїну </translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="958"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="960"/>
         <source>Culposcopy</source>
         <translation>Кульпоскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="959"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="961"/>
         <source>Digital microscopy</source>
         <translation>Мікроскопія цифрова</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="960"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="962"/>
         <source>Fundoscopy</source>
         <translation>Фуноскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="961"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="963"/>
         <source>Magnetic resonance angiography</source>
         <translation>Ангіографія магнітного резонансу</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="962"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="964"/>
         <source>Magnetic resonance spectroscopy</source>
         <translation>Магнітно-резонансна спектроскопія</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="993"/>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="1014"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="995"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="1016"/>
         <source>Unknown (no DICOM dictionary loaded)</source>
         <translation>Невідомий (без словника DICOM завантажений)</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="997"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="999"/>
         <source>Unknown</source>
         <translation>Невідомо</translation>
     </message>
@@ -1747,229 +1747,229 @@ p, li { біло-просторовий: pre-wrap; }
         <translation>Очистити завершено</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="156"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="157"/>
         <source>Query patients</source>
         <translation>Пацієнти</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="158"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="159"/>
         <source>Query studies</source>
         <translation>Дослідження запитів</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="160"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="161"/>
         <source>Query series</source>
         <translation>Серія запитів</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="162"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="163"/>
         <source>Query instances</source>
         <translation>Приклади запитів</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="173"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="174"/>
         <source>Retrieve patients</source>
         <translation>Забрати пацієнтів</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="175"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="176"/>
         <source>Retrieve studies</source>
         <translation>Отримати дослідження</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="177"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="178"/>
         <source>Retrieve series</source>
         <translation>Отримати серію</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="179"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="180"/>
         <source>Retrieve instances</source>
         <translation>Отримати екземпляри</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="184"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="185"/>
         <source>Storage listener</source>
         <translation>Прихильник зберігання</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="188"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="189"/>
         <source>Echo server</source>
         <translation>Ехо сервер</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="192"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="193"/>
         <source>Inserter</source>
         <translation>Інсертер</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="196"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="197"/>
         <source>Thumbnail generator</source>
         <translation>Thumbnail генератор</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="325"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="470"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="996"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1239"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1334"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="326"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="471"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="997"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1240"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>failed</source>
         <translation>не вдалося</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="330"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="476"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="996"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1239"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1333"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="331"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="477"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="997"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1240"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>user-stopped</source>
         <translation>користувачі</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="335"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="462"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="336"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="463"/>
         <source>attempt-failed</source>
         <translation>спроба</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="340"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="463"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="341"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="464"/>
         <source>completed</source>
         <translation>завершено</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="506"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="590"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="507"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="591"/>
         <source>Type</source>
         <translation>Типи</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="510"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="592"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="511"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="593"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="514"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="594"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="515"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="595"/>
         <source>Progress</source>
         <translation>Прогрес</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="518"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="596"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="519"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="597"/>
         <source>Time and Date</source>
         <translation>Час і дата</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="522"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="598"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="523"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="599"/>
         <source>Starting Time and Date</source>
         <translation>Час початку та дата</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="526"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="600"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="527"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="601"/>
         <source>Completion Time and Date</source>
         <translation>Час і дата завершення</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="530"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="602"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="531"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="603"/>
         <source>DICOM Level</source>
         <translation>Рівень DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="534"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="604"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="535"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="605"/>
         <source>Patient ID</source>
         <translation>ID пацієнта</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="538"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="606"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="539"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="607"/>
         <source>Patient Name</source>
         <translation>Ім&apos;я пацієнта</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="542"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="608"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="543"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="609"/>
         <source>Birth Date</source>
         <translation>Дата народження</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="546"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="610"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="547"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="611"/>
         <source>Study UID</source>
         <translation>Вивчення UID</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="550"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="612"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="551"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="613"/>
         <source>Series UID</source>
         <translation>Серія UID</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="554"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="555"/>
         <source>SOPInstance UID</source>
         <translation>SOPInstance УІД</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="558"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="616"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="559"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="617"/>
         <source>Connection</source>
         <translation>Підключення</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="562"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="618"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="563"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="619"/>
         <source>Job UID</source>
         <translation>Робота UID</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="566"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="620"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="567"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="621"/>
         <source>Class</source>
         <translation>Класика</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="570"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="622"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="571"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="623"/>
         <source>Thread</source>
         <translation>Нитка</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="574"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="624"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="575"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="625"/>
         <source>Logging</source>
         <translation>Лісозаготівля</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="614"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="615"/>
         <source>SOP UID</source>
         <translation>СОП УЇД</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="313"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1259"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1294"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1332"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="314"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1258"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1293"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>in-progress</source>
         <translation>в-прогрес</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="304"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="482"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1260"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1295"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1331"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="305"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="483"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1259"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1294"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>queued</source>
         <translation>черга</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="221"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1261"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1296"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1330"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="222"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1260"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1295"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>initialized</source>
         <translation>ініціалізація</translation>
     </message>
@@ -2098,52 +2098,72 @@ p, li { біло-просторовий: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>ctkDICOMPatientItemWidget</name>
+    <name>ctkDICOMPatientDelegate</name>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="14"/>
-        <source>Patient Item</source>
-        <translation>Предмет пацієнта</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="326"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="507"/>
+        <source>MRN: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="50"/>
-        <source>Patient Information   </source>
-        <translation>Інформація про пацієнта   </translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="330"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="511"/>
+        <source>Birth Date: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="101"/>
-        <source>Servers:</source>
-        <translation>Сервери:</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="365"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="543"/>
+        <source>Date added: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="120"/>
-        <source>Name:</source>
-        <translation>ім&apos;я:</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="515"/>
+        <source>Sex: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkDICOMPatientModel</name>
+    <message>
+        <location filename="Libs/DICOM/Core/ctkDICOMPatientModel.cpp" line="862"/>
+        <source>Patients</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkDICOMPatientView</name>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="894"/>
+        <source>Toggle between Tab Mode and List Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="143"/>
-        <source>Birth Date:</source>
-        <translation>Дата народження:</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="927"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1198"/>
+        <source>Show all patients</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="162"/>
-        <source>Sex:</source>
-        <translation>Секс:</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="934"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1205"/>
+        <source>Switch to Tab Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="194"/>
-        <source>ID:</source>
-        <translation>ID:</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="945"/>
+        <source>Allowed servers:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="319"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="727"/>
-        <source>UNDEFINED</source>
-        <translation>ОНОВЛЕННЯ</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1622"/>
+        <source>Query in progress...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="735"/>
-        <source>Study</source>
-        <translation>Навчання</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1626"/>
+        <source>No results found in the database</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2182,46 +2202,46 @@ p, li { біло-просторовий: pre-wrap; }
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="304"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="210"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="308"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="309"/>
         <source>Initialization...</source>
         <translation>Ініціалізація.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="304"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Retrieve from DICOM servers</source>
         <translation>Отримати з серверів DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="342"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="343"/>
         <source>Retrieving:
 %1</source>
         <translation>Ретривування:
 %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="408"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="443"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="409"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="444"/>
         <source>Query Retrieve</source>
         <translation>Отримання запиту</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="408"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="409"/>
         <source>Retrieve failed.  Keep trying?</source>
         <translation>Не вдалося отримати.  Продовжувати спроби?</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="438"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="439"/>
         <source>Retrieve Process Finished</source>
         <translation>Отримати процес Завершено</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="441"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="442"/>
         <source>Retrieve Process Canceled</source>
         <translation>Процес отримання скасовано</translation>
     </message>
@@ -2294,23 +2314,11 @@ p, li { біло-просторовий: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>ctkDICOMSeriesItemWidget</name>
+    <name>ctkDICOMSeriesDelegate</name>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMSeriesItemWidget.ui" line="14"/>
-        <source>Series Item</source>
-        <translation>Елемент серії</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="513"/>
-        <source>Series: %1
-%2</source>
-        <translation>Серія: %1
-%2</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="516"/>
-        <source>Series: %1</source>
-        <translation>Серія: %1</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesDelegate.cpp" line="292"/>
+        <source>Unknown Series</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2385,171 +2393,171 @@ p, li { біло-просторовий: pre-wrap; }
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="41"/>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="245"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="185"/>
         <source>Storage</source>
         <translation>Зберігання</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="53"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="67"/>
         <source>Port:</source>
         <translation>Порт:</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="60"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="105"/>
         <source>11112</source>
         <translation>11112</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="74"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="81"/>
         <source>Enable:</source>
         <translation>Увімкнути:</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="113"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="98"/>
         <source>Status:</source>
         <translation>Статус:</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="132"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1278"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="53"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1283"/>
         <source>Inactive</source>
         <translation>Неактивний</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="155"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="74"/>
         <source>AETitle: </source>
         <translation>AE Назва: </translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="162"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="88"/>
         <source>CTKSTORE</source>
         <translation>КТКСТОР</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="175"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="115"/>
         <source>Servers   </source>
         <translation>Сервери   </translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="230"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="170"/>
         <source>Name</source>
         <translation>Ім’я</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="235"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="175"/>
         <source>Verification</source>
         <translation>Верифікація</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="240"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="180"/>
         <source>Query/Retrieve</source>
         <translation>Книжка/Ретриве</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="250"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="190"/>
         <source>Trusted</source>
         <translation>Довіра</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="255"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="195"/>
         <source>Calling AETitle</source>
         <translation>Виклик AETitle</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="260"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="200"/>
         <source>Called AETitle</source>
         <translation>Називається AETitle</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="265"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="205"/>
         <source>Address</source>
         <translation>Контакти</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="270"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="210"/>
         <source>Port</source>
         <translation>Порт</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="275"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="215"/>
         <source>Timeout</source>
         <translation>Час очікування</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="280"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="220"/>
         <source>Retrieve Protocol</source>
         <translation>Протокол отримання</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="285"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="225"/>
         <source>Retrieve Proxy</source>
         <translation>Отримати проксі</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="307"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="247"/>
         <source> Add host</source>
         <translation> Додати хост</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="324"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="264"/>
         <source> Verify host</source>
         <translation> Перевірити хост</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="341"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="281"/>
         <source> Remove host</source>
         <translation> Видалити хост</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="352"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="292"/>
         <source>Restore Defaults</source>
         <translation>Відновлення за замовчуванням</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="378"/>
-        <source>Apply changes  </source>
-        <translation>Застосувати зміни  </translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="384"/>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="381"/>
-        <source>Discard changes</source>
-        <translation>Зміни дискримінації</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="387"/>
+        <source>Discard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="593"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="716"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="953"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1061"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1346"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1501"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1517"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="598"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="721"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="958"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1066"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1351"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1505"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1521"/>
         <source>unknown</source>
         <translation>невідомий</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="905"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1253"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="910"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1258"/>
         <source>success</source>
         <translation>успіх</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="909"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1217"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="914"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1222"/>
         <source>in-progress</source>
         <translation>в-прогрес</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1229"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1234"/>
         <source>user-stopped</source>
         <translation>зупинено користувачем</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1241"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1246"/>
         <source>failed</source>
         <translation>не вдалося</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1274"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1279"/>
         <source>Active</source>
         <translation>Активний</translation>
     </message>
@@ -2563,21 +2571,45 @@ p, li { біло-просторовий: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>ctkDICOMStudyItemWidget</name>
+    <name>ctkDICOMStudyDelegate</name>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMStudyItemWidget.ui" line="14"/>
-        <source>Study Item</source>
-        <translation>Вивчення пункту</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="361"/>
+        <source>Anonomyzed study</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMStudyItemWidget.ui" line="110"/>
-        <source>Series</source>
-        <translation>Серія</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="447"/>
+        <source>%1/%2 series</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyItemWidget.cpp" line="250"/>
-        <source>UNDEFINED</source>
-        <translation>ОНОВЛЕННЯ</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="451"/>
+        <source>%1 series</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkDICOMStudyListView</name>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="404"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="409"/>
+        <source>Load (%1k)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="413"/>
+        <source>Load (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="526"/>
+        <source>Load selected series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="555"/>
+        <source>Load</source>
+        <translation type="unfinished">Навантаження</translation>
     </message>
 </context>
 <context>
@@ -2792,7 +2824,7 @@ p, li { біло-просторовий: pre-wrap; }
 <context>
     <name>ctkDICOMThumbnailListWidget</name>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMThumbnailListWidget.cpp" line="167"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMThumbnailListWidget.cpp" line="166"/>
         <source>Image %1</source>
         <extracomment>%1 is the image sequence number</extracomment>
         <translation>Зображення %1</translation>
@@ -2801,488 +2833,471 @@ p, li { біло-просторовий: pre-wrap; }
 <context>
     <name>ctkDICOMVisualBrowserWidget</name>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="17"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="29"/>
         <source>Select data to load</source>
         <translation>Виберіть дані для завантаження</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="42"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="54"/>
         <source>Warning</source>
         <translation>Увага</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="49"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="61"/>
         <source>Update database</source>
         <translation>Оновлення бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="56"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="68"/>
         <source>Create new database</source>
         <translation>Створити нову базу даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="63"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="75"/>
         <source>Select database folder</source>
         <translation>Виберіть папку бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="75"/>
-        <source>Patients Search   </source>
-        <translation>Пошук пацієнтів   </translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="120"/>
-        <source>ID</source>
-        <translation>ID</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="136"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="111"/>
         <source>Filter by patient ID</source>
         <translation>Фільтрувати за ідентифікатором пацієнта</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="175"/>
-        <source>Name</source>
-        <translation>Ім&apos;я</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="191"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="124"/>
         <source>Filter by patient name</source>
         <translation>Фільтрувати за іменем пацієнта</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="230"/>
-        <source>Study</source>
-        <translation>Дослідження</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="246"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="157"/>
         <source>Filter by study description</source>
         <translation>Фільтрувати за описом дослідження</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="285"/>
-        <source>Series</source>
-        <translation>Серія</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="301"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="170"/>
         <source>Filter by series description</source>
         <translation>Фільтрувати за описом серії</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="352"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="137"/>
         <source>Modality</source>
         <translation>Модальність</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="380"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="87"/>
+        <source>Filtering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="117"/>
+        <source> MRN...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="130"/>
+        <source> Name...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="189"/>
         <source>Filter by modality</source>
         <translation>Фільтрувати за модальністю</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="383"/>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="399"/>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="515"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="221"/>
         <source>Any</source>
         <translation>Будь-який</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="404"/>
-        <source>CR</source>
-        <translation>CR</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="409"/>
-        <source>CT</source>
-        <translation>CT</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="414"/>
-        <source>MR</source>
-        <translation>MR</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="419"/>
-        <source>NM</source>
-        <translation>NM</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="424"/>
-        <source>US</source>
-        <translation>US</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="429"/>
-        <source>PT</source>
-        <translation>PT</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="434"/>
-        <source>XA</source>
-        <translation>XA</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="483"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="147"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="511"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="163"/>
+        <source> Study Description...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="176"/>
+        <source> Series Description ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="217"/>
         <source>Filter by date</source>
         <translation>Фільтрувати за датою</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="520"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="226"/>
         <source>Today</source>
         <translation>Сьогодні</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="525"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="231"/>
         <source>Yesterday</source>
         <translation>Вчора</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="530"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="236"/>
         <source>Last week</source>
         <translation>Минулого тижня</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="535"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="241"/>
         <source>Last month</source>
         <translation>Останній місяць</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="540"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="246"/>
         <source>Last year</source>
         <translation>Минулого року</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="572"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search the database. If servers are specified, the widget will also conduct queries and retrieve the data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Пошук у базі даних. Якщо вказано сервери, віджет також виконуватиме запити та отримуватиме дані.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="251"/>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="615"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="355"/>
+        <source> Import </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="268"/>
         <source>Actions</source>
         <translation>Дії</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="639"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="304"/>
+        <source>Query and retrieve. If filters are set, a patient query will be sent to the DICOM servers.
+If no filters are set, a study query for the currently selected patient in the local database
+(or the first patient if none is selected) will be sent to the DICOM servers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="309"/>
+        <source>Query </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="332"/>
         <source> Close</source>
         <translation> Закрити</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="656"/>
-        <source> Import</source>
-        <translation> Імпорт</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="693"/>
-        <source>No filters have been set and no patients have been found in the local database.
-Please set at least one filter to query the servers</source>
-        <translation>Жодних фільтрів не встановлено, і пацієнтів не знайдено в локальній базі даних.
-Установіть принаймні один фільтр для запиту до серверів</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="793"/>
-        <source>Patient 1</source>
-        <translation>пацієнт 1</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="802"/>
-        <source>Patient 2</source>
-        <translation>пацієнт 2</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="808"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="455"/>
         <source>Advanced</source>
         <translation>Просунутий</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="814"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="461"/>
         <source>Jobs   </source>
         <translation>Вакансії   </translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="841"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="488"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="900"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="547"/>
         <source>Progress</source>
         <translation>Прогрес</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="926"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="606"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1079"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4062"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="573"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="638"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3659"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4314"/>
         <source>Cancel</source>
         <translation>&amp;Скасуватися</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="281"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="226"/>
         <source>DICOM File Metadata</source>
         <translation>Метадані файлу DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="379"/>
-        <source>Show options</source>
-        <translation>Показати параметри</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="384"/>
-        <source>Query/Retrieve from servers</source>
-        <translation>Запит/Отримання із серверів</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="385"/>
-        <source>If enabled, the widget will also conduct queries and retrieve the data.</source>
-        <translation>Якщо ввімкнено, віджет також виконуватиме запити та отримуватиме дані.</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="433"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="480"/>
         <source>Add Link</source>
         <translation>Додати посилання</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="434"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="481"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="436"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="483"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
         <translation>Вкажіть, чи слід копіювати файли до каталогу локальної бази даних чи лише створювати посилання?</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="438"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="485"/>
         <source>Import Directory Mode:</source>
         <translation>Режим імпорту каталогу:</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="453"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="500"/>
         <source>Import</source>
         <translation>Імпорт</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="454"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="501"/>
         <source>Import DICOM files from directory ...</source>
         <translation>Імпорт файлів DICOM з каталогу ...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="606"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="638"/>
         <source>DICOM Schema Update</source>
         <translation>DICOM Оновлення схеми</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="609"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="641"/>
         <source>Initialization...</source>
         <translation>Ініціалізація...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1078"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="883"/>
+        <source>No server is configured for query/retrieve operations. The server settings section is below.
+Check also the allowed servers at patient level.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2481"/>
+        <source>No server is configured for query/retrieve operations.
+The server settings section is below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2494"/>
+        <source>No filters are set and no patients are found in the local database.
+Please specify at least one filter to query the servers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2622"/>
+        <source>The patients query provided no results. Please refine your filters in the search section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2996"/>
+        <source>Load patient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2997"/>
+        <source>Load %1 patients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3003"/>
+        <source>View %1 patients DICOM metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3009"/>
+        <source>Delete %1 patients from local database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3016"/>
+        <source>Export %1 patients to file system</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3022"/>
+        <source>Send %1 patients to DICOM server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3114"/>
+        <source>Force retrieve study</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3115"/>
+        <source>Force retrieve %1 studies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3229"/>
+        <source>Force retrieve %1 series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3658"/>
         <source>Retrieving and processing selected series...</source>
         <translation>Отримання та обробка вибраних серій...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2328"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2356"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1949"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1977"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>У папці %1 не знайдено дійсну базу даних DICOM.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2351"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="386"/>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1972"/>
         <source>Database error: %1 
 </source>
         <translation>Помилка бази даних: %1 
 </translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2375"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1996"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>У папці %1 знайдено несумісну версію бази даних DICOM.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2592"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2212"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>Не вдалося створити нову базу даних у папці %1.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2933"/>
-        <source>No patients have been found in the local database.</source>
-        <translation>У локальній базі даних пацієнтів не виявлено.</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2998"/>
-        <source>No filters or query/retrieve servers have been set and no patients have been found in the local database.
-Please set at least one filter to query the servers and check that at least one server has the Query/Retrieve property toggled.</source>
-        <translation>Жодних фільтрів або серверів запитів/отримання не встановлено, і в локальній базі даних не знайдено пацієнтів.
-Установіть принаймні один фільтр для запиту до серверів і переконайтеся, що принаймні на одному сервері перемикається властивість Запит/Отримання.</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3100"/>
-        <source>The patients query provided no results. Please refine your filters.</source>
-        <translation>Запит пацієнтів не дав результатів. Уточніть ваші фільтри.</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3227"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2736"/>
         <source>The patients query failed. Please check the servers settings.</source>
         <translation>Запит пацієнтів не виконано. Перевірте налаштування серверів.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3404"/>
-        <source>Load patient files</source>
-        <translation>Завантажити файли пацієнтів</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3408"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3002"/>
         <source>View patient DICOM metadata</source>
         <translation>Перегляд метаданих пацієнта DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3412"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3008"/>
         <source>Delete patient from local database</source>
         <translation>Видалити пацієнта з локальної бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3417"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3015"/>
         <source>Export patient to file system</source>
         <translation>Експорт пацієнта до файлової системи</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3421"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3021"/>
         <source>Send patient to DICOM server</source>
         <translation>Відправити пацієнта на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3495"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3102"/>
         <source>Load study</source>
         <translation>Дослідження навантаження</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3496"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3103"/>
         <source>Load %1 studies</source>
         <translation>Завантажити дослідження %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3500"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3108"/>
         <source>View study DICOM metadata</source>
         <translation>Переглянути метадані дослідження DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3501"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3109"/>
         <source>View %1 studies DICOM metadata</source>
         <translation>Переглянути %1 вивчає метадані DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3505"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3615"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3228"/>
         <source>Force retrieve series</source>
         <translation>Серія примусового відновлення</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3506"/>
-        <source>Force retrieve series for %1 studies</source>
-        <translation>Примусове отримання серії для %1 досліджень</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3510"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3120"/>
         <source>Delete study from local database</source>
         <translation>Видалити дослідження з локальної бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3511"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3121"/>
         <source>Delete %1 studies from local database</source>
         <translation>Видалити %1 дослідження з локальної бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3516"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3127"/>
         <source>Export study to file system</source>
         <translation>Експорт дослідження у файлову систему</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3517"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3128"/>
         <source>Export %1 studies to file system</source>
         <translation>Експорт %1 досліджень у файлову систему</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3521"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3133"/>
         <source>Send study to DICOM server</source>
         <translation>Надіслати дослідження на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3522"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3134"/>
         <source>Send %1 studies to DICOM server</source>
         <translation>Надіслати дослідження %1 на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3605"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3216"/>
         <source>Load series</source>
         <translation>Серія навантаження</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3606"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3217"/>
         <source>Load %1 series</source>
         <translation>Завантажити серію %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3610"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3222"/>
         <source>View series DICOM metadata</source>
         <translation>Переглянути метадані серії DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3611"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3223"/>
         <source>View %1 series DICOM metadata</source>
         <translation>Переглянути метадані DICOM серії %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3616"/>
-        <source>Force retrieve for %1 series</source>
-        <translation>Примусове отримання для %1 серії</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3620"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3234"/>
         <source>Delete series from local database</source>
         <translation>Видалити серію з локальної бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3621"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3235"/>
         <source>Delete %1 series from local database</source>
         <translation>Видалити серію %1 з локальної бази даних</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3626"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3241"/>
         <source>Export series to file system</source>
         <translation>Експорт серій у файлову систему</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3627"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3242"/>
         <source>Export %1 series to file system</source>
         <translation>Експортуйте серію %1 у файлову систему</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3631"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3247"/>
         <source>Send series to DICOM server</source>
         <translation>Надіслати серію на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3632"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3248"/>
         <source>Send %1 series to DICOM server</source>
         <translation>Надіслати серію %1 на сервер DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3702"/>
-        <source>Delete all Patients from local database</source>
-        <translation>Видалити всіх пацієнтів із локальної бази даних</translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3823"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4018"/>
         <source>Unable to create export destination directory:
 
 %1
@@ -3296,23 +3311,23 @@ Halting export.</source>
 Припинення експорту.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3837"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4032"/>
         <source>DICOM Export</source>
         <translation>Експорт DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3837"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4032"/>
         <source>Close</source>
         <translation>Закрити</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3843"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4038"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
         <translation>Експорт серії %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3860"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4055"/>
         <source>Export source file not found:
 
 %1
@@ -3330,7 +3345,7 @@ Error may be fixed via Repair.</source>
 Помилка може бути виправлена за допомогою Repair.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3873"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4068"/>
         <source>Export destination file already exists:
 
 %1
@@ -3344,7 +3359,7 @@ Halting export.</source>
 Припинення експорту.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3888"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4083"/>
         <source>Failed to copy
 
 %1
@@ -3366,7 +3381,7 @@ Halting export.</source>
 Припинення експорту.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4026"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4278"/>
         <source>Do you want to delete the following selected items from the LOCAL database? 
 The data will not be deleted from the PACs server. 
 </source>
@@ -3375,7 +3390,7 @@ The data will not be deleted from the PACs server.
 </translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4061"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4313"/>
         <source>Delete</source>
         <translation>Видалити</translation>
     </message>
@@ -3664,27 +3679,27 @@ The data will not be deleted from the PACs server.
 <context>
     <name>ctkJobScheduler</name>
     <message>
-        <location filename="Libs/Core/ctkJobScheduler.cpp" line="814"/>
+        <location filename="Libs/Core/ctkJobScheduler.cpp" line="809"/>
         <source>started</source>
         <translation>почався</translation>
     </message>
     <message>
-        <location filename="Libs/Core/ctkJobScheduler.cpp" line="832"/>
+        <location filename="Libs/Core/ctkJobScheduler.cpp" line="827"/>
         <source>user stopped</source>
         <translation>користувач зупинено</translation>
     </message>
     <message>
-        <location filename="Libs/Core/ctkJobScheduler.cpp" line="862"/>
+        <location filename="Libs/Core/ctkJobScheduler.cpp" line="856"/>
         <source>finished</source>
         <translation>закінчено</translation>
     </message>
     <message>
-        <location filename="Libs/Core/ctkJobScheduler.cpp" line="892"/>
+        <location filename="Libs/Core/ctkJobScheduler.cpp" line="885"/>
         <source>attempt failed</source>
         <translation>спроба не вдалася</translation>
     </message>
     <message>
-        <location filename="Libs/Core/ctkJobScheduler.cpp" line="922"/>
+        <location filename="Libs/Core/ctkJobScheduler.cpp" line="914"/>
         <source>failed</source>
         <translation>не вдалося</translation>
     </message>
@@ -3908,12 +3923,12 @@ The data will not be deleted from the PACs server.
 <context>
     <name>ctkMenuComboBox</name>
     <message>
-        <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="93"/>
+        <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="94"/>
         <source>Search</source>
         <translation>Пошук</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="125"/>
+        <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="126"/>
         <source>Search...</source>
         <translation>Пошук...</translation>
     </message>
@@ -3926,12 +3941,12 @@ The data will not be deleted from the PACs server.
         <translation>Більше не показувати це повідомлення</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkMessageBox.cpp" line="220"/>
+        <location filename="Libs/Widgets/ctkMessageBox.cpp" line="221"/>
         <source>Don&apos;t show this message again and always %1</source>
         <translation>Більше не показувати це повідомлення і завжди %1</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkMessageBox.cpp" line="335"/>
+        <location filename="Libs/Widgets/ctkMessageBox.cpp" line="337"/>
         <source>Are you sure you want to exit?</source>
         <translation>Ви впевнені, що бажаєте вийти?</translation>
     </message>
@@ -4422,22 +4437,22 @@ The data will not be deleted from the PACs server.
 <context>
     <name>ctkPathLineEdit</name>
     <message>
-        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="336"/>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="243"/>
         <source>Open a dialog</source>
         <translation>Відкрийте діалогове вікно</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="646"/>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="557"/>
         <source>Select a file to save </source>
         <translation>Виберіть файл для збереження </translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="661"/>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="572"/>
         <source>Open a file</source>
         <translation>Відкрийте файл</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="677"/>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="588"/>
         <source>Select a directory...</source>
         <translation>Виберіть каталог...</translation>
     </message>
@@ -4515,27 +4530,27 @@ Please check your permissions.</source>
 Перевірте свої дозволи.</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="152"/>
+        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="203"/>
         <source>Select one or more files</source>
         <translation>Виберіть один або декілька файлів</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="156"/>
+        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="207"/>
         <source>Select a file</source>
         <translation>Виберіть файл</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="241"/>
+        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="284"/>
         <source>Select a directory</source>
         <translation>Виберіть каталог</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="316"/>
+        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="323"/>
         <source>Adding paths failed</source>
         <translation>Не вдалося додати шляхи</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="317"/>
+        <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="324"/>
         <source>Failed to add the following paths:
 
 %1
@@ -5043,42 +5058,42 @@ p, li { white-space: pre-wrap; }
         <translation>&lt;h1&gt;Простий віджет перегляду зображень CTK&lt;/h1&gt;Надано: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Клавіатурні команди:&lt;/h3&gt; &lt;em&gt;q&lt;/em&gt;: quit &lt;em&gt;h&lt;/em&gt; : відобразити цю довідку &lt;em&gt;i&lt;/em&gt;: інвертувати інтенсивність &lt;em&gt;[ ]&lt;/em&gt;: збільшити / зменшити масштаб &lt;em&gt;x y&lt;/em&gt;: гортати вздовж осі x / y &lt;em&gt;r&lt;/em&gt;: скинути початкові умови &lt;em&gt;пробіл&lt;/em&gt;: увімкнути безперервне відстеження курсору &lt;em&gt;стрілка вгору-стрілка вниз&lt;/em&gt;: перейти до наступного/попереднього фрагмента&lt;h3&gt; Команди миші:&lt;/h3&gt; &lt;em&gt;ліва кнопка&lt;/em&gt;: вікно та рівень &lt;em&gt;середня кнопка&lt;/em&gt;: масштабування &lt;em&gt;права кнопка&lt;/em&gt;: центр</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"/>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1073"/>
         <source>Intensity Range = %1 .. %2</source>
         <translation>Діапазон інтенсивності = %1 .. %2</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1064"/>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1085"/>
         <source>W / L = %1 / %2</source>
         <translation>W / L = %1 / %2</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1077"/>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1097"/>
         <source>Spacing = %1, %2, %3</source>
         <translation>Інтервал = %1, %2, %3</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1090"/>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1108"/>
         <source>Size = %1, %2, %3</source>
         <translation>Розмір = %1, %2, %3</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1102"/>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1118"/>
         <source>RAS = %1, %2, %3</source>
         <translation>RAS = %1, %2, %3</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1115"/>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1129"/>
         <source>IJK = %1, %2, %3</source>
         <translation>IJK = %1, %2, %3</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1127"/>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1141"/>
         <source>Value = %1</source>
         <translation>Значення = %1</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1165"/>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1183"/>
         <source>No Image Loaded.</source>
         <translation>Зображення не завантажено.</translation>
     </message>
@@ -5233,12 +5248,12 @@ p, li { white-space: pre-wrap; }
         <translation>Недійсне співвідношення сторін</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="396"/>
+        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="395"/>
         <source>Screen Capture</source>
         <translation>Захоплення екрана</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="397"/>
+        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="396"/>
         <source>File already exists. Overwrite ?</source>
         <translation>Файл уже існує. Перезаписати?</translation>
     </message>
@@ -5279,22 +5294,22 @@ p, li { white-space: pre-wrap; }
         <translation>Відновлення налаштувань до значень за замовчуванням. Щоб скасувати «Відновлення», ви можете «Скинути» налаштування.</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="170"/>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
         <source>Restart required!</source>
         <translation>Потрібен перезапуск!</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="172"/>
         <source>The application must be restarted to take into account the new values of the following properties:</source>
         <translation>Програму потрібно перезапустити, щоб врахувати нові значення наступних властивостей:</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="300"/>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="301"/>
         <source>Restart required</source>
         <translation>Потрібен перезапуск</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="301"/>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="302"/>
         <source>For settings to be taken into account, the application
 must be restarted. Restart the application now ?
 </source>
@@ -5303,12 +5318,12 @@ must be restarted. Restart the application now ?
 </translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="409"/>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="410"/>
         <source>Restore all settings</source>
         <translation>Відновити всі налаштування</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="410"/>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="411"/>
         <source>Are you sure you want to reset
 all settings to their default values?
 </source>
@@ -5366,7 +5381,7 @@ all settings to their default values?
 <context>
     <name>ctkVTKAbstractView</name>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="523"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="520"/>
         <source>FPS: %1(%2s)</source>
         <translation>FPS: %1(%2с)</translation>
     </message>
@@ -5409,32 +5424,32 @@ all settings to their default values?
         <translation>Інші варіанти</translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="194"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="183"/>
         <source>Reset</source>
         <translation>Скинути</translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="242"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="231"/>
         <source>NaN values</source>
         <translation>значення NaN</translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="244"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="233"/>
         <source>NaN color</source>
         <translation>Колір NaN</translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="249"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="238"/>
         <source>Discretize</source>
         <translation>Дискретизувати</translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="250"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="239"/>
         <source>Discretize color transfer function</source>
         <translation>Функція дискретизації кольору</translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="254"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="243"/>
         <source>Number of discrete values</source>
         <translation>Кількість дискретних значень</translation>
     </message>
@@ -5565,12 +5580,12 @@ all settings to their default values?
 <context>
     <name>ctkVTKRenderViewEventPlayer</name>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="67"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"/>
         <source>Size issue ...</source>
         <translation>Проблема розміру...</translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="69"/>
         <source>The Render view size is: width : %1 	 height : %2 
 But the size was         width : %3 	 height : %4 
 during the record 
@@ -5864,12 +5879,12 @@ Do you want to replace it ?</source>
 <context>
     <name>ctkXMLEventSource</name>
     <message>
-        <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="195"/>
+        <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="200"/>
         <source>Playback ...</source>
         <translation>Відтворення ...</translation>
     </message>
     <message>
-        <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="196"/>
+        <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="201"/>
         <source>The settings are different from the record Settings.
 Do you want to restore the settings?</source>
         <translation>Параметри відрізняються від параметрів запису.

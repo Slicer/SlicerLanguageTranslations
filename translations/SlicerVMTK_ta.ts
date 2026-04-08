@@ -4,7 +4,7 @@
 <context>
     <name>ArterialCalcificationPreProcessor</name>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="42"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="37"/>
         <source>
 Segment calcifications around an arterial lumen within a margin.
 See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
@@ -15,7 +15,7 @@ See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/Slic
 </translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="52"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="42"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -26,7 +26,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="103"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="114"/>
         <source>Show 3D on success</source>
         <translation>வெற்றியில் 3D ஐக் காட்டு</translation>
     </message>
@@ -36,37 +36,49 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>முடிவுகளை கணக்கிடுவதில் தோல்வி.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="266"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="256"/>
+        <source>Failed to probe the intensity range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="264"/>
+        <source>Failed to determine the intensity range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="308"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="402"/>
         <source>Parameter node is None.</source>
         <translation>அளவுரு முனை எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="278"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="320"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="409"/>
         <source>Input segmentation, volume, segment ID or margin size is invalid.</source>
         <translation>உள்ளீட்டு பிரிவு, தொகுதி, பிரிவு அடையாளம் அல்லது விளிம்பு அளவு தவறானது.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="282"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="324"/>
         <source>Input segmentation or volume mismatch with the segment editor... fixing.</source>
         <translation>பிரிவு எடிட்டருடன் உள்ளீட்டு பிரிவு அல்லது தொகுதி பொருந்தாதது ... சரிசெய்தல்.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="331"/>
         <source>Processing started</source>
         <translation>செயலாக்கம் தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="364"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="396"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>செயலாக்கம் {duration} விநாடிகளில் முடிந்தது</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="386"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="447"/>
         <source>Starting the test</source>
         <translation>சோதனையைத் தொடங்குதல்</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="388"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="449"/>
         <source>Test passed</source>
         <translation>சோதனை கடந்துவிட்டது</translation>
     </message>
@@ -131,12 +143,57 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>தேர்ந்தெடுக்கப்பட்ட பிரிவின் மூல தொகுதி முனையைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="207"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="200"/>
+        <source>Options</source>
+        <translation type="unfinished">விருப்பங்கள்</translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="212"/>
+        <source>Intensity range:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="239"/>
+        <source>Use this specified value as the lower bound of the calcification intensity range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="252"/>
+        <source>Use this specified value as the upper bound of the calcification intensity range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="262"/>
+        <source>Probe the intensity range defining the calcifications.
+
+It is calculated as:
+ - lower: (medianSegmentIntensity + maxSegmentIntensity) / 2.0
+ - upper: maxVolumeIntensity * 0.95
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="270"/>
+        <source>Probe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="277"/>
+        <source>Reset the intensity range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="280"/>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="305"/>
         <source>Run the algorithm.</source>
         <translation>வழிமுறையை இயக்கவும்.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="210"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="308"/>
         <source>Apply</source>
         <translation>இடு</translation>
     </message>
@@ -144,12 +201,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>CenterlineDisassembly</name>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="33"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="32"/>
         <source>Centerline disassembly</source>
         <translation>சென்டர்லைன் பிரித்தெடுத்தல்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="41"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="36"/>
         <source>
 Break down a centerline model into parts.
 This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
@@ -162,7 +219,7 @@ See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExten
 </translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="51"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="41"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -193,146 +250,146 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>வளைவு பெயர்களைக் காட்டு</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="200"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="204"/>
         <source>Failed to compute results.</source>
         <translation>முடிவுகளை கணக்கிடுவதில் தோல்வி.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="204"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="208"/>
         <source>Please select the components to create.</source>
         <translation>உருவாக்க கூறுகளைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="208"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="212"/>
         <source>Please specify whether centerline &apos;Models&apos; and/or &apos;Curves&apos; should be generated.</source>
         <translation>சென்டர்லைன் &apos;மாதிரிகள்&apos; மற்றும்/அல்லது &apos;வளைவுகள்&apos; உருவாக்கப்பட வேண்டுமா என்பதைக் குறிப்பிடவும்.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="210"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="214"/>
         <source>Splitting centerline</source>
         <translation>சென்டர்லைன் பிரித்தல்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="226"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="244"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="262"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="230"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="248"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="266"/>
         <source> models</source>
         <translation> மாதிரிகள்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="229"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="247"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="265"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="233"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="251"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="269"/>
         <source> curves</source>
         <translation> வளைவுகள்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="231"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="235"/>
         <source>Creating bifurcations</source>
         <translation>பிளவுகளை உருவாக்குதல்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="234"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="238"/>
         <source>Bifurcation_Model</source>
         <translation>பிளவுபடுத்தும் மாதிரி</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="237"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="241"/>
         <source>Bifurcation_Curve</source>
         <translation>பிளவுபடுத்தும் வளைவு</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="249"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="253"/>
         <source>Creating branches</source>
         <translation>கிளைகளை உருவாக்குதல்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="256"/>
         <source>Branch_Model</source>
         <translation>கிளை_மாடல்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="255"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="259"/>
         <source>Branch_Curve</source>
         <translation>BRANCH_CURVE</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="267"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="271"/>
         <source>Creating centerlines</source>
         <translation>சென்டர்லைன்களை உருவாக்குதல்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="270"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="274"/>
         <source>Centerline_Model</source>
         <translation>சென்டர்லைன்_மாடல்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="273"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="277"/>
         <source>Centerline_Curve</source>
         <translation>சென்டர்லைன்_கர்வ்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="278"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="281"/>
         <source>Invalid component</source>
         <translation>தவறான கூறு</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="282"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="286"/>
         <source>Finished</source>
         <translation>முடிந்தது</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="402"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="406"/>
         <source>Input centerline is invalid</source>
         <translation>உள்ளீட்டு சென்டர்லைன் தவறானது</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="419"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="430"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="442"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="453"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="627"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="658"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="423"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="434"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="446"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="457"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="662"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline polydata first.</source>
         <translation>முதலில் உள்ளீட்டு சென்டர்லைன் பாலிடேட்டாவுடன் &apos;ச்ப்ளிட் சென்டர்லைன்ச் ()&apos; ஐ அழைக்கவும்.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="610"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="614"/>
         <source>Processing curve creation started</source>
         <translation>செயலாக்க வளைவு உருவாக்கம் தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="626"/>
         <source>Processing curve creation completed in {duration} seconds</source>
         <translation>செயலாக்க வளைவு உருவாக்கம் {duration} விநாடிகளில் முடிந்தது</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="635"/>
         <source>Processing centerline ids started</source>
         <translation>சென்டர்லைன் ஐடிகளை செயலாக்கியது</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="652"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="656"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
         <translation>செயலாக்க மையக் கோடு {duration} விநாடிகளில் முடிக்கப்படுகிறது</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="662"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="666"/>
         <source>Processing group ids started</source>
         <translation>குழு ஐடிகளை செயலாக்கியது</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="695"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="699"/>
         <source>Processing group ids completed in {duration} seconds</source>
         <translation>குழு ஐடிகளை செயலாக்குவது {duration} விநாடிகளில் முடிக்கப்பட்டது</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="711"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="715"/>
         <source>Starting the test</source>
         <translation>சோதனையைத் தொடங்குதல்</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="713"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="717"/>
         <source>Test passed</source>
         <translation>சோதனை கடந்துவிட்டது</translation>
     </message>
@@ -630,7 +687,7 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
 <context>
     <name>CrossSectionAnalysis</name>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="32"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="29"/>
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
@@ -639,7 +696,7 @@ This module describes cross-sections along a VMTK centerline model, a VMTK cente
 </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="42"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="32"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -650,199 +707,241 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="117"/>
         <source>Regions</source>
         <translation>பகுதிகள்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="105"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="118"/>
         <source>Coordinates</source>
         <translation>ஒருங்கிணைப்புகள்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="398"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1101"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="453"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1293"/>
         <source>Input is invalid.</source>
         <translation>உள்ளீடு தவறானது.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="507"/>
-        <source>N/A (input lumen surface not specified)</source>
-        <translation>இதற்கில்லை (உள்ளீட்டு லுமேன் மேற்பரப்பு குறிப்பிடப்படவில்லை)</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="526"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="576"/>
         <source> (MIS diameter {sign}</source>
         <translation> (தவறான விட்டம் {sign}</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="659"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="753"/>
         <source>Selected Shape node is not a Tube.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட வடிவ முனை ஒரு குழாய் அல்ல.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="665"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="762"/>
         <source>Selected model node does not have radius information.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட மாதிரி முனைக்கு ஆரம் செய்தி இல்லை.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="688"/>
-        <source>MIS diameter</source>
-        <translation>தவறான விட்டம்</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="690"/>
-        <source>CE diameter</source>
-        <translation>CE விட்டம்</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="691"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1800"/>
-        <source>Cross-section area</source>
-        <translation>குறுக்கு வெட்டு பகுதி</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="693"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1801"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2184"/>
         <source>Wall diameter</source>
         <translation>சுவர் விட்டம்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="694"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1802"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2185"/>
         <source>Wall cross-section area</source>
         <translation>சுவர் குறுக்கு வெட்டு பகுதி</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="696"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1805"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2187"/>
         <source>Stenosis by diameter (CE)</source>
         <translation>விட்டம் (சி.இ) மூலம் ச்டெனோசிச்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="697"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1803"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2186"/>
         <source>Stenosis by surface area</source>
         <translation>மேற்பரப்பு பகுதியால் ச்டெனோசிச்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="815"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="207"/>
+        <source>Subtract the lumen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="451"/>
+        <source>Failed to compute results.</source>
+        <translation type="unfinished">முடிவுகளை கணக்கிடுவதில் தோல்வி.</translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="556"/>
+        <source>N/A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="557"/>
+        <source>Input lumen surface not specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="701"/>
+        <source>Lumen cross-section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="719"/>
+        <source>Wall cross-section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="829"/>
+        <source>Failed to clip the lumen in the tube.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="954"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
         <translation>லுமேன் பிராந்தியங்களின் சேகரிப்பு எதிர்பாராத விதமாக எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="820"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="959"/>
         <source>Requested region is beyond range.</source>
         <translation>கோரப்பட்ட பகுதி வரம்பிற்கு அப்பாற்பட்டது.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="828"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="967"/>
         <source> points</source>
         <translation> புள்ளிகள்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="831"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="967"/>
         <source> cells</source>
         <translation> செல்கள்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="851"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="990"/>
         <source>Could not prepare the segment editor.</source>
         <translation>பிரிவு எடிட்டரைத் தயாரிக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1022"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1215"/>
         <source>Invalid surface polydata.</source>
         <translation>தவறான மேற்பரப்பு பாலிடேட்டா.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1104"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1297"/>
         <source>Processing started</source>
         <translation>செயலாக்கம் தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1110"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1303"/>
         <source>Processing completed</source>
         <translation>செயலாக்கம் முடிந்தது</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1248"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1273"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1333"/>
+        <source>Unknown lumen node type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1472"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1501"/>
         <source>Waiting for background jobs...</source>
         <translation>பின்னணி வேலைகளுக்காக காத்திருக்கிறது ...</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1286"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1514"/>
         <source>Updating table:</source>
         <translation>அட்டவணை புதுப்பித்தல்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1330"/>
-        <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
-        <translation>செயலாக்கம் {duration} விநாடிகளில் முடிக்கப்பட்டது - {countOfPoints} புள்ளிகள்</translation>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1559"/>
+        <source>Processing completed in {duration} seconds - {countOfPoints} points.{hasEmptySections}</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1388"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1390"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1394"/>
-        <source>Diameter ({unitOfLength})</source>
-        <translation>விட்டம் ({unitOfLength})</translation>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1928"/>
+        <source>Error creating a cross-section polydata of the wall at point index {indexOfPoint}.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1392"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1396"/>
-        <source>Area ({unitOfArea})</source>
-        <translation>பகுதி ({unitOfArea})</translation>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2019"/>
+        <source>Invalid centerline or lumen surface: cannot clip the lumen.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1398"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1400"/>
-        <source>Stenosis (%)</source>
-        <translation>(பேச்சு வழக்கில்) ச்டெனோசிச்</translation>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2027"/>
+        <source>Invalid segment.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1579"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2059"/>
+        <source>Empty lumen surface retrieved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2066"/>
+        <source>The input wall surface and the input lumen surfaces could not be intersected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2183"/>
+        <source>Lumen cross-section area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1807"/>
         <source>Lumen surface node is not set.</source>
         <translation>லுமேன் மேற்பரப்பு முனை அமைக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1619"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1821"/>
+        <source>Input centerline node node is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1823"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1895"/>
+        <source>Input centerline node is not a Shape node.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1846"/>
+        <source>Could not decimate the wall surface, continuing with the full surface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1855"/>
+        <source>Input surface node is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1887"/>
         <source>Error creating a cross-section polydata of the lumen at point index {indexOfPoint}.</source>
         <translation>புள்ளி குறியீட்டில் {indexofpoint on இல் லுமினின் குறுக்கு வெட்டு பாலிடேட்டாவை உருவாக்குவது பிழை.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1639"/>
-        <source>Cross-section</source>
-        <translation>குறுக்குவெட்டு முகம்</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1726"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1085"/>
         <source>Maximum inscribed sphere</source>
         <translation>அதிகபட்ச பொறிக்கப்பட்ட கோளம்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1760"/>
-        <source>empty sections have been detected; consider improving the input lumen {nameOfSurface}.</source>
-        <translation>வெற்று பிரிவுகள் கண்டறியப்பட்டுள்ளன; உள்ளீட்டை மேம்படுத்துவதைக் கவனியுங்கள் {nameOfSurface}.</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1659"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2074"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>அதிகபட்ச பொறிக்கப்பட்ட கோள ஆரம் கிடைக்கவில்லை</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1797"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2143"/>
+        <source>empty sections have been detected; consider improving the input surface {nameOfSurface}.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2180"/>
         <source>Distance</source>
         <translation>தூரம்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1798"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2181"/>
         <source>Diameter (MIS)</source>
         <translation>விட்டம் (தவறான)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1799"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1170"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2182"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1277"/>
         <source>Diameter (CE)</source>
         <translation>விட்டம் (சி.இ)</translation>
     </message>
@@ -857,7 +956,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>சென்டர்லைன் ஆதாரம்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="133"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="641"/>
         <source>The centerline source may be:
 
 - a centerline curve created by &apos;Extract centerline&apos; module,
@@ -878,102 +977,103 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 - ஒரு வடிவத்தின் கண்ணுக்கு தெரியாத சென்டர்லைன் ஒரு குழாயாகப் பயன்படுத்தப்படும் முனையின் முனையின்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="173"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="136"/>
         <source>Input lumen surface:</source>
         <translation>உள்ளீட்டு லுமேன் மேற்பரப்பு:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="182"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="153"/>
         <source>Input segmentation or model node, required for computing cross-sectional area.
 The input centerline is expected to be inside the lumen surface.</source>
         <translation>உள்ளீட்டு பிரிவு அல்லது மாதிரி முனை, குறுக்கு வெட்டு பகுதியைக் கணக்கிடுவதற்கு தேவை. 
 உள்ளீட்டு சென்டர்லைன் லுமேன் மேற்பரப்புக்குள் இருக்கும் என்று எதிர்பார்க்கப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="214"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="203"/>
         <source>Select an input segment node</source>
         <translation>உள்ளீட்டு பிரிவு முனையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="229"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="221"/>
         <source>Output table:</source>
         <translation>வெளியீட்டு அட்டவணை:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="238"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="230"/>
         <source>Pick the output table to the algorithm.</source>
         <translation>வழிமுறைக்கு வெளியீட்டு அட்டவணையைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="268"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="260"/>
         <source>Toggle between the table layout and the previous one.</source>
         <translation>அட்டவணை தளவமைப்பு மற்றும் முந்தைய ஒன்றுக்கு இடையில் மாற்றவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="271"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="326"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1043"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1106"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="263"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="305"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1150"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1213"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1466"/>
         <source>show</source>
         <translation>காட்டு</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="280"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="272"/>
         <source>Output plot series:</source>
         <translation>வெளியீட்டு சூழ்ச்சி தொடர்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="289"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="281"/>
         <source>Pick the output plot series to the algorithm.</source>
         <translation>வெளியீட்டு சூழ்ச்சி தொடரை வழிமுறைக்கு தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="310"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="320"/>
         <source>Select the plot&apos;s Y axis</source>
         <translation>சதித்திட்டத்தின் ஒய் அச்சைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="323"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="302"/>
         <source>Toggle between the plot layout and the previous one.</source>
         <translation>சூழ்ச்சி தளவமைப்புக்கும் முந்தைய இடத்திற்கும் இடையில் மாற்றவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="341"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="339"/>
         <source>Tools / Options</source>
         <translation>கருவிகள் / விருப்பங்கள்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="381"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="379"/>
         <source>Manage connected regions of the lumen surface.</source>
         <translation>லுமேன் மேற்பரப்பின் இணைக்கப்பட்ட பகுதிகளை நிர்வகிக்கவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="384"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="382"/>
         <source>Tab 1</source>
         <translation>தாவல் 1</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="405"/>
         <source>Get:</source>
         <translation>பெறு:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="416"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="420"/>
         <source>Cycle through the identified distinct regions.</source>
         <translation>அடையாளம் காணப்பட்ட தனித்துவமான பகுதிகள் வழியாக சுழற்சி.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="438"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="442"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட பகுதியின் அளவைக் குறிக்கிறது. குறைந்த மதிப்புகள் ஒரு ஒட்டுண்ணி பகுதியை பரிந்துரைக்கின்றன.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="448"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="452"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
         <translation>மாற்றப்பட்டால், தேர்ந்தெடுக்கப்பட்ட பகுதி அனைத்து துண்டு காட்சிகளிலும் மையமாக உள்ளது, ஒரு ஒற்றை பகுதி இருக்கும் சிறந்த வழக்கில் தவிர.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="461"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="465"/>
         <source>Activate the &apos;Paint&apos; effect of the &apos;Segment editor&apos;.
 
 This is available if the lumen surface is a segmentation.
@@ -986,47 +1086,47 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
 &apos;கோளம்&apos; தூரிகை செயல்படுத்தப்படுகிறது. மேலும் தனிப்பயனாக்கம் &apos;பிரிவு எடிட்டரில்&apos; செய்யப்படலாம்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="468"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="472"/>
         <source>paint</source>
         <translation>வண்ணப்பூச்சு</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="493"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="546"/>
         <source>Specify how to output point coordinates of the centerline.</source>
         <translation>சென்டர்லைனின் வெளியீட்டு புள்ளி ஆயங்களை எவ்வாறு குறிப்பிடுவது என்பதைக் குறிப்பிடவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="496"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="549"/>
         <source>Tab 2</source>
         <translation>தாவல் 2</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="576"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="629"/>
         <source>Run the algorithm.</source>
         <translation>வழிமுறையை இயக்கவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="579"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="632"/>
         <source>Apply</source>
         <translation>இடு</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="507"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="560"/>
         <source>Coordinate system:</source>
         <translation>ஒருங்கிணைப்பு அமைப்பு:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="547"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="600"/>
         <source>Split coordinates:</source>
         <translation>பிளவு ஆயத்தொலைவுகள்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="554"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="607"/>
         <source>Split coordinate system values into three separate table columns.</source>
         <translation>கணினி மதிப்புகளை மூன்று தனித்தனி அட்டவணை நெடுவரிசைகளாக ஒருங்கிணைக்கவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="516"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="569"/>
         <source>Right-Anterior-Superior coordinate system. Used in the Slicer scene.</source>
         <translation>வலது-முன்புற-சூத்திர ஒருங்கிணைப்பு அமைப்பு. ச்லைசர் காட்சியில் பயன்படுத்தப்படுகிறது.</translation>
     </message>
@@ -1046,7 +1146,7 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
         <translation>↺</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="392"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="396"/>
         <source>Get the number of distinct connected regions in the lumen surface.
 
 Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
@@ -1063,92 +1163,82 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
 லுமேன் மேற்பரப்பின் முழுமையான பழுதுபார்க்கப்பட்ட பிறகு, சென்டர்லைன்ச் மீண்டும் பிரித்தெடுக்கப்பட வேண்டும், இதனால் &apos;அதிகபட்ச பொறிக்கப்பட்ட கோளம்&apos; ஆரம் வரிசைகள் புதுப்பிக்கப்படும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="478"/>
-        <source>Replace the segment by the largest region.</source>
-        <translation>பிரிவை மிகப்பெரிய பிராந்தியத்தால் மாற்றவும்.</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="481"/>
-        <source>fast fix</source>
-        <translation>விரைவான பிழைத்திருத்தம்</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="519"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="572"/>
         <source>RAS (Slicer convention)</source>
         <translation>ராச் (ச்லைசர் மாநாடு)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="529"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="582"/>
         <source>Left-Posterior-Superior coordinate system. Used commonly in files.</source>
         <translation>இடது-பின்புற-சூப்பர் ஒருங்கிணைப்பு அமைப்பு. கோப்புகளில் பொதுவாகப் பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="532"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="585"/>
         <source>LPS (DICOM convention)</source>
         <translation>எல்.பி.எச் (டிகாம் மாநாடு)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="595"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="702"/>
         <source>Browse cross-sections</source>
         <translation>குறுக்குவெட்டுகளை உலாவுக</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="612"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="719"/>
         <source>Point index:</source>
         <translation>புள்ளி அட்டவணை:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="619"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="726"/>
         <source>Point of the centerline where the selected slice view should be moved</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட துண்டு காட்சி நகர்த்தப்பட வேண்டிய சென்டர்லைனின் புள்ளி</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="635"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="742"/>
         <source>Move slice view:</source>
         <translation>ச்லைச் பார்வையை நகர்த்தவும்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="644"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="735"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="751"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="842"/>
         <source>Move this slice view to a point along the centerline</source>
         <translation>இந்த துண்டு பார்வையை சென்டர்லைன் வழியாக ஒரு புள்ளிக்கு நகர்த்தவும்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="668"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="775"/>
         <source>Center the selected point in the slice view</source>
         <translation>ச்லைச் பார்வையில் தேர்ந்தெடுக்கப்பட்ட புள்ளியை மையப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="671"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="778"/>
         <source>centered</source>
         <translation>மையப்படுத்தப்பட்ட</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="684"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="791"/>
         <source>Orient the slice view orthogonal to the centerline</source>
         <translation>சென்டர்லைன் வரை ச்லைச் பார்வை ஆர்த்தோகனலை ஓரியண்ட்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="687"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="794"/>
         <source>orthogonal</source>
         <translation>செங்கோண, செங்குத்து</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="700"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="805"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="807"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="912"/>
         <source>Axial:</source>
         <translation>அச்சு:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="815"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="850"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="922"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="957"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
         <translation>உடற்கூறியல் நோக்குநிலையை மீட்டெடுக்க அதன் இசட்-அச்சில் ச்லைச் காட்சியை சுழற்றுங்கள்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="728"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="833"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="868"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="835"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="940"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="975"/>
         <source> deg</source>
         <translation> டிகிரி</translation>
     </message>
@@ -1158,38 +1248,82 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
         <translation>அளவுரு தொகுப்பு:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="191"/>
+        <source>Clip the lumen inside the tube. A new segment or a new model is generated. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="194"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="502"/>
+        <source>Remove holes in a contiguous segment. There should remain 1 region ideally. Complex segments may not always be reduced to a single region.
+
+This function cannot be undone, proceed with small increments.
+
+The result must be inspected before use. If it is not satisfactory, the source segment should be updated by any other means.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="509"/>
+        <source>Smoothing gap size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="522"/>
+        <source>This value is used to calculate the gap pixel size. High values mean longer processing time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="525"/>
+        <source> mm</source>
+        <translation type="unfinished"> மிமீ</translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="678"/>
+        <source>Decimate the input Tube surface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="681"/>
+        <source>⭭</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="817"/>
         <source>Rotation angle for longitudinal slice view</source>
         <translation>நீளமான துண்டு பார்வைக்கு சுழற்சி கோணம்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="762"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="869"/>
         <source>Rotate:</source>
         <translation>சுழற்றுங்கள்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="769"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="876"/>
         <source>Longitudinal</source>
         <translation>நீளமான</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="772"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="840"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="879"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="947"/>
         <source>Long.:</source>
         <translation>நீண்ட .:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="781"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="888"/>
         <source>Spin / Flip</source>
         <translation>ச்பின் / ஃபிளிப்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="875"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="982"/>
         <source>Flip:</source>
         <translation>திருப்பு:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="884"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="991"/>
         <source>Flip the slice view horizontally.
 
 Concerns orthogonal reformat in axial navigation.</source>
@@ -1198,12 +1332,12 @@ Concerns orthogonal reformat in axial navigation.</source>
 அச்சு வழிசெலுத்தலில் ஆர்த்தோகனல் மறுவடிவமைப்பைப் பற்றியது.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="889"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="996"/>
         <source>Horizontal</source>
         <translation>கிடைமட்டமாக</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="896"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1003"/>
         <source>Flip the slice view vertically.
 
 Concerns orthogonal reformat in axial navigation.</source>
@@ -1212,133 +1346,138 @@ Concerns orthogonal reformat in axial navigation.</source>
 அச்சு வழிசெலுத்தலில் ஆர்த்தோகனல் மறுவடிவமைப்பைப் பற்றியது.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="901"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1008"/>
         <source>Vertical</source>
         <translation>செங்குத்து</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="916"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1023"/>
         <source>Distance from origin:</source>
         <translation>தோற்றத்திலிருந்து தூரம்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="925"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1032"/>
         <source>Cumulative distance from start of centerline</source>
         <translation>சென்டர்லைன் தொடக்கத்திலிருந்து ஒட்டுமொத்த தூரம்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="938"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1045"/>
         <source>Set the current point as origin</source>
         <translation>தற்போதைய புள்ளியை தோற்றமாக அமைக்கவும்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="941"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1048"/>
         <source>set</source>
         <translation>கணம்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="951"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1058"/>
         <source>Go to origin point</source>
         <translation>ஆரிசின் பாயிண்டிற்குச் செல்லுங்கள்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="451"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="954"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1463"/>
+        <source>Show the cross-section of an input wall surface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="455"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1061"/>
         <source>go to</source>
         <translation>செல்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="969"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1076"/>
         <source>Coordinates:</source>
         <translation>ஒருங்கிணைப்புகள்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="976"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1083"/>
         <source>RAS coordinate of selected point</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட புள்ளியின் RAS ஒருங்கிணைப்பு</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1007"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1114"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட புள்ளியில் அதிகபட்ச பொறிக்கப்பட்ட கோளம் (MIS) விட்டம்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1020"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1127"/>
         <source>Jump to the smallest MIS diameter point.</source>
         <translation>மிகச்சிறிய தவறான விட்டம் புள்ளிக்கு செல்லவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1023"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1080"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1339"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1130"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1187"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1446"/>
         <source>min</source>
         <translation>மணித்துளி</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1030"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1137"/>
         <source>Jump to the largest MIS diameter point.</source>
         <translation>மிகப்பெரிய தவறான விட்டம் புள்ளிக்கு செல்லவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1033"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1093"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1308"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1346"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1140"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1200"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1415"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1453"/>
         <source>max</source>
         <translation>அதிகபட்சம்</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1040"/>
-        <source>Show the maximum inscribed sphere diameter.</source>
-        <translation>அதிகபட்ச பொறிக்கப்பட்ட கோள விட்டம் காட்டு.</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="998"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1105"/>
         <source>Diameter (MIS):</source>
         <translation>விட்டம் (MIS):</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1064"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1147"/>
+        <source>Show the maximum inscribed sphere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1171"/>
         <source>Area of the cross-section</source>
         <translation>குறுக்குவெட்டின் பகுதி</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1077"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1184"/>
         <source>Jump to the smallest cross-section area point.</source>
         <translation>மிகச்சிறிய குறுக்கு வெட்டு பகுதி புள்ளிக்கு செல்லவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1090"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1197"/>
         <source>Jump to the largest cross-section area point.</source>
         <translation>மிகப்பெரிய குறுக்கு வெட்டு பகுதி புள்ளிக்கு செல்லவும்.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1103"/>
-        <source>Show cross-section at current point. Requires input lumen surface.</source>
-        <translation>தற்போதைய புள்ளியில் குறுக்குவெட்டைக் காட்டு. உள்ளீட்டு லுமேன் மேற்பரப்பு தேவை.</translation>
-    </message>
-    <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1055"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1162"/>
         <source>Cross-section area:</source>
         <translation>குறுக்கு வெட்டு பகுதி:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1118"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1225"/>
         <source>Diameter (CE):</source>
         <translation>விட்டம் (சி):</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1149"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1256"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
         <translation>கோணங்கள் ச்லைசரின் ஒருங்கிணைப்பு அமைப்பில் உள்ளன</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1142"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1249"/>
         <source>Orientation:</source>
         <translation>நோக்குநிலை:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1125"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1210"/>
+        <source>Show the cross-section of an input lumen surface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1232"/>
         <source>Circular equivalent (CE) diameter: that of a circle having the surface area of the cross-section.
 
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
@@ -1351,32 +1490,32 @@ Caution: values at bifurcations may not have clinical meaning.</source>
 எச்சரிக்கை: பிளவுபடுகையில் மதிப்புகளுக்கு மருத்துவ பொருள் இருக்காது.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1167"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1274"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
         <translation>வட்ட சமமான விட்டம், மேற்பரப்பு பகுதியிலிருந்து பெறப்பட்டது.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1230"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1337"/>
         <source>Surface area</source>
         <translation>மேற்பரப்புஅளவு</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1190"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1297"/>
         <source>Lumen:</source>
         <translation>லுமேன்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1243"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1350"/>
         <source>Wall:</source>
         <translation>சுவர்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1206"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1313"/>
         <source>Stenosis:</source>
         <translation>ச்டெனோசிச்:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1412"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
         <translation>மேற்பரப்பு பரப்பளவில் அதிகபட்ச ச்டெனோசிச் புள்ளிக்கு செல்லவும்.</translation>
     </message>
@@ -1384,12 +1523,12 @@ Caution: values at bifurcations may not have clinical meaning.</source>
 <context>
     <name>EditCenterline</name>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="31"/>
+        <location filename="EditCenterline/EditCenterline.py" line="30"/>
         <source>Edit centerline</source>
         <translation>சென்டர்லைன் திருத்து</translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="39"/>
+        <location filename="EditCenterline/EditCenterline.py" line="34"/>
         <source>
 Create a Shape::Tube markups node guided by an arbitrary markups curve, a centerline model or a centerline curve.
 See more information in &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
@@ -1402,7 +1541,7 @@ Thanks to Andras Lasso for requiring import/export from/to a centerline model/cu
 </translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="44"/>
+        <location filename="EditCenterline/EditCenterline.py" line="39"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -1438,39 +1577,39 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>மிகபெரிய</translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="236"/>
+        <location filename="EditCenterline/EditCenterline.py" line="224"/>
         <source>Failed to compute results.</source>
         <translation>முடிவுகளை கணக்கிடுவதில் தோல்வி.</translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="357"/>
-        <location filename="EditCenterline/EditCenterline.py" line="402"/>
-        <location filename="EditCenterline/EditCenterline.py" line="452"/>
+        <location filename="EditCenterline/EditCenterline.py" line="358"/>
+        <location filename="EditCenterline/EditCenterline.py" line="403"/>
+        <location filename="EditCenterline/EditCenterline.py" line="453"/>
         <source>Parameter node is None.</source>
         <translation>அளவுரு முனை எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="361"/>
+        <location filename="EditCenterline/EditCenterline.py" line="362"/>
         <source>Input centerline is None.</source>
         <translation>உள்ளீட்டு சென்டர்லைன் எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="407"/>
+        <location filename="EditCenterline/EditCenterline.py" line="408"/>
         <source>Processing started.</source>
         <translation>செயலாக்கம் தொடங்கியது.</translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="419"/>
+        <location filename="EditCenterline/EditCenterline.py" line="420"/>
         <source>Centerline model processing failed.</source>
         <translation>சென்டர்லைன் மாதிரி செயலாக்கம் தோல்வியடைந்தது.</translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="421"/>
+        <location filename="EditCenterline/EditCenterline.py" line="422"/>
         <source>Centerline is bifurcated, it must not be bifurcated.</source>
         <translation>சென்டர்லைன் பிரிக்கப்பட்டுள்ளது, அது பிரிக்கப்படக்கூடாது.</translation>
     </message>
     <message>
-        <location filename="EditCenterline/EditCenterline.py" line="431"/>
+        <location filename="EditCenterline/EditCenterline.py" line="432"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>செயலாக்கம் {duration} விநாடிகளில் முடிந்தது</translation>
     </message>
@@ -1734,7 +1873,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
 <context>
     <name>ExtractCenterline</name>
     <message>
-        <location filename="ExtractCenterline/ExtractCenterline.py" line="33"/>
+        <location filename="ExtractCenterline/ExtractCenterline.py" line="27"/>
         <source>
     Compute and quantify centerline network of vasculature or airways from a surface model.
     Surface model can be created from image volume using Segment Editor module.
@@ -2157,7 +2296,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
 <context>
     <name>GuidedArterySegmentation</name>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="42"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="34"/>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; is intended to create a segmentation from a contrast enhanced CT angioscan, and to finally extract centerlines from the surface model.
 &lt;br&gt;&lt;br&gt;It assumes that curve control points are placed in the contrasted lumen.
@@ -2172,7 +2311,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="47"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="41"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -2183,110 +2322,103 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="113"/>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="119"/>
-        <source>Use the largest region of the segment</source>
-        <translation>பிரிவின் மிகப்பெரிய பகுதியைப் பயன்படுத்தவும்</translation>
-    </message>
-    <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="141"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="126"/>
         <source>Failed to install {nameOfExtension} extension</source>
         <translation>{nameOfExtension} நீட்டிப்பை நிறுவுவதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="152"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="137"/>
         <source>Curve node must have at least 3 points.</source>
         <translation>வளைவு முனை குறைந்தது 3 புள்ளிகளைக் கொண்டிருக்க வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="163"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="148"/>
         <source>Shape node is not a Tube.</source>
         <translation>வடிவ முனை ஒரு குழாய் அல்ல.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="170"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="155"/>
         <source>Shape node must have at least 4 points.</source>
         <translation>வடிவ முனை குறைந்தது 4 புள்ளிகளைக் கொண்டிருக்க வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="261"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="232"/>
         <source>No input curve node specified.</source>
         <translation>உள்ளீட்டு வளைவு முனை எதுவும் குறிப்பிடப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="264"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="235"/>
         <source>Input curve node must have at least 3 control points.</source>
         <translation>உள்ளீட்டு வளைவு முனை குறைந்தது 3 கட்டுப்பாட்டு புள்ளிகளைக் கொண்டிருக்க வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="267"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="238"/>
         <source>No input slice node specified.</source>
         <translation>உள்ளீட்டு துண்டு முனை குறிப்பிடப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="273"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="244"/>
         <source>No volume node selected in input slice node.</source>
         <translation>உள்ளீட்டு துண்டு முனையில் தொகுதி முனை தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="284"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="255"/>
         <source>Failed to compute results: </source>
         <translation>முடிவுகளை கணக்கிடுவதில் தோல்வி: </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="368"/>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="391"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="340"/>
         <source>Invalid segmentation or segmentID.</source>
         <translation>தவறான பிரிவு அல்லது பிரிவு.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="380"/>
-        <source>Number of regions in segment: </source>
-        <translation>பிரிவில் உள்ள பகுதிகளின் எண்ணிக்கை: </translation>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="350"/>
+        <source>Region count: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="430"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="409"/>
         <source>Parameter node is None.</source>
         <translation>அளவுரு முனை எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="434"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="413"/>
         <source>Processing started</source>
         <translation>செயலாக்கம் தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="436"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="415"/>
         <source>Segment editor setup</source>
         <translation>பிரிவு எடிட்டர் அமைப்பு</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="454"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="433"/>
         <source>Background volume node in the selected slice node is None.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட ச்லைச் முனையில் பின்னணி தொகுதி முனை எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="570"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="549"/>
         <source>Flood filling: {duration} seconds - </source>
         <translation>வெள்ள நிரப்புதல்: {duration} விநாடிகள் - </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="607"/>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="695"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="598"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="673"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>செயலாக்கம் {duration} விநாடிகளில் முடிந்தது</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="613"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="604"/>
         <source>Extract centerline setup</source>
         <translation>சென்டர்லைன் அமைப்பைப் பிரித்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="723"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="701"/>
         <source>Starting the test</source>
         <translation>சோதனையைத் தொடங்குதல்</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="725"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="703"/>
         <source>Test passed</source>
         <translation>சோதனை கடந்துவிட்டது</translation>
     </message>
@@ -2310,12 +2442,12 @@ The control points are assumed to be on the contrasted lumen.</source>
 கட்டுப்பாட்டு புள்ளிகள் மாறுபட்ட லுமனில் இருப்பதாக கருதப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="162"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="237"/>
         <source>Tube diameter:</source>
         <translation>குழாய் விட்டம்:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="169"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="244"/>
         <source>Specify a value slightly above the maximum estimated diameter of the target artery.
 
 If a Shape::Tube node is specified below, this parameter is ignored.</source>
@@ -2324,17 +2456,17 @@ If a Shape::Tube node is specified below, this parameter is ignored.</source>
 ஒரு வடிவம் :: குழாய் முனை கீழே குறிப்பிடப்பட்டால், இந்த அளவுரு புறக்கணிக்கப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="193"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="200"/>
         <source>Segmentation:</source>
         <translation>பிரிவு:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="200"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="207"/>
         <source>Select an output segmentation</source>
         <translation>வெளியீட்டு பிரிவைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="229"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="171"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
         <translation>ஒரு துண்டு காட்சியைத் தேர்ந்தெடுங்கள். பின்னணி தொகுதி முனை பயன்படுத்தப்படும். சரியான தொகுதி முனையைப் பயன்படுத்த கவனமாக இருங்கள்.</translation>
     </message>
@@ -2359,44 +2491,45 @@ If a Shape::Tube node is specified below, this parameter is ignored.</source>
         <translation>↺</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="261"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="162"/>
         <source>Slice node:</source>
         <translation>துண்டு முனை:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="270"/>
-        <source>Ideally, there should be only one region in the output segment.</source>
-        <translation>வெறுமனே, வெளியீட்டு பிரிவில் ஒரே ஒரு பகுதி மட்டுமே இருக்க வேண்டும்.</translation>
+        <source>Ideally, there should be only one region in the input segment.</source>
+        <oldsource>Ideally, there should be only one region in the output segment.</oldsource>
+        <translation type="unfinished">வெறுமனே, வெளியீட்டு பிரிவில் ஒரே ஒரு பகுதி மட்டுமே இருக்க வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="280"/>
-        <source>If the segment has more than one region, this function replaces the input segment by a new segment having a single region. It is created from the largest region of the input segment.</source>
-        <translation>இந்த பிரிவில் ஒன்றுக்கு மேற்பட்ட பிராந்தியங்கள் இருந்தால், இந்த செயல்பாடு உள்ளீட்டு பிரிவை ஒரு புதிய பகுதியைக் கொண்ட புதிய பிரிவு மூலம் மாற்றுகிறது. இது உள்ளீட்டு பிரிவின் மிகப்பெரிய பகுதியிலிருந்து உருவாக்கப்பட்டது.</translation>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="375"/>
+        <source>Segment editor effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="283"/>
-        <source>Fix</source>
-        <translation>சரிசெய்</translation>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="389"/>
+        <source>Flood filling</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="304"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="294"/>
         <source>Alternative extent</source>
         <translation>மாற்று அளவு</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="309"/>
         <source>Use a Shape::Tube node to limit the circumferential
 extent, instead of a fixed diameter tube.</source>
         <translation>சுற்றளவு கட்டுப்படுத்த ஒரு வடிவத்தைப் பயன்படுத்தவும் :: குழாய் முனை 
 ஒரு நிலையான விட்டம் குழாய்க்கு பதிலாக நீளம்.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="329"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
         <source>Tube node:</source>
         <translation>குழாய் முனை:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="336"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="326"/>
         <source>Limit the region of interest to this Shape::Tube node.
 
 If specified, the regular tube diameter above is ignored.</source>
@@ -2405,48 +2538,54 @@ If specified, the regular tube diameter above is ignored.</source>
 குறிப்பிடப்பட்டால், மேலே உள்ள வழக்கமான குழாய் விட்டம் புறக்கணிக்கப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="385"/>
-        <source>Flood filling parameters</source>
-        <translation>வெள்ள நிரப்புதல் அளவுருக்கள்</translation>
-    </message>
-    <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="406"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="399"/>
         <source>Intensity tolerance:</source>
         <translation>தீவிரம் சகிப்புத்தன்மை:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="413"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="412"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
         <translation>கட்டுப்பாட்டு புள்ளியின் நிலையில் உள்ள ஒன்றுக்கு இடையில் தீவிரத்தன்மை வரம்பைக் கொண்ட இணைக்கப்பட்ட வோக்சல்களைத் தேர்ந்தெடுக்கவும் +/- இந்த சகிப்புத்தன்மை.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="435"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="434"/>
         <source>Neighbourhood size:</source>
         <translation>அண்டை அளவு:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="442"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="447"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
         <translation>அருகிலுள்ள அனைத்து வோக்சல்களுக்கும் ஒத்த தீவிரங்கள் இருந்தால் மட்டுமே பகுதிகள் சேர்க்கப்படுகின்றன. அதிக மதிப்புகளைப் பயன்படுத்துங்கள் கசிவைத் தடுக்கிறது. சிறந்த விவரங்களைக் கைப்பற்ற அனுமதிக்க குறைந்த மதிப்புகளைப் பயன்படுத்தவும்.
 </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="488"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="473"/>
+        <source>Remove holes in a contiguous segment. There should remain 1 region ideally. Complex segments may not always be reduced to a single region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="476"/>
+        <source>Smoothing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="492"/>
+        <source>This value is used to calculate the gap pixel size. Large values also mean longer processing time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="495"/>
+        <source> mm</source>
+        <translation type="unfinished"> மிமீ</translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="532"/>
         <source>Extract centerlines</source>
         <translation>சென்டர்லைன்களைப் பிரித்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="495"/>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve. Output nodes from the last run will be replaced.
-
-If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
-        <translation>ஒரு பிரிவு மற்றும் விருப்பமாக ஒரு சென்டர்லைன் மாதிரி மற்றும் சென்டர்லைன் வளைவை உருவாக்கவும். கடைசி ஓட்டத்திலிருந்து வெளியீட்டு முனைகள் மாற்றப்படும். 
-
-சென்டர்லைன்ச் பிரித்தெடுக்கப்பட்டால், ஒன்றுக்கு மேற்பட்ட பிராந்தியங்களைக் கொண்டிருந்தால், அந்த பிரிவை அதன் மிகப்பெரிய பிராந்தியத்தால் விருப்பமாக மாற்றவும்.</translation>
-    </message>
-    <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="500"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="545"/>
         <source>Apply</source>
         <translation>இடு</translation>
     </message>
@@ -2454,7 +2593,7 @@ If centerlines are extracted, optionally replace the segment by its largest regi
 <context>
     <name>GuidedVeinSegmentation</name>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="38"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="35"/>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
@@ -2463,7 +2602,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="48"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="38"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -2474,49 +2613,49 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="190"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="175"/>
         <source>Failed to compute results.</source>
         <translation>முடிவுகளை கணக்கிடுவதில் தோல்வி.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="267"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="272"/>
         <source>Parameter node is None.</source>
         <translation>அளவுரு முனை எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="280"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="285"/>
         <source>Input curve or volume or segmentation is invalid.</source>
         <translation>உள்ளீட்டு வளைவு அல்லது தொகுதி அல்லது பிரிவு தவறானது.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="288"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="292"/>
         <source>Extrusion kernel size or Gaussian standard deviation
                 or seed radius or shell margin or shell thickness is invalid.</source>
         <translation>எக்ச்ட்ரூசன் கர்னல் அளவு அல்லது காசியன் நிலையான விலகல் 
 அல்லது விதை ஆரம் அல்லது செல் விளிம்பு அல்லது செல் தடிமன் தவறானது.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="292"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="297"/>
         <source>Processing started</source>
         <translation>செயலாக்கம் தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="316"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="320"/>
         <source>Segment</source>
         <translation>பிரிவு</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="407"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="412"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>செயலாக்கம் {duration} விநாடிகளில் முடிந்தது</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="433"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="438"/>
         <source>Starting the test</source>
         <translation>சோதனையைத் தொடங்குதல்</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="435"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="440"/>
         <source>Test passed</source>
         <translation>சோதனை கடந்துவிட்டது</translation>
     </message>
@@ -2670,7 +2809,7 @@ deviation:</source>
 <context>
     <name>QuickArterySegmentation</name>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="41"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="34"/>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; is intended to create a segmentation from a contrast enhanced CT angioscan, and to finally extract centerlines from the surface model.
 &lt;br&gt;&lt;br&gt;It assumes that data acquisition of the input volume is nearly perfect, and that fiducial points are placed in the contrasted lumen.
@@ -2685,7 +2824,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="51"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="41"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -2696,104 +2835,85 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="114"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="120"/>
-        <source>Use the largest region of the segment</source>
-        <translation>பிரிவின் மிகப்பெரிய பகுதியைப் பயன்படுத்தவும்</translation>
-    </message>
-    <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="142"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="129"/>
         <source>Failed to install {nameOfExtension} extension</source>
         <translation>{nameOfExtension} நீட்டிப்பை நிறுவுவதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="156"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="143"/>
         <source>Fiducial node must have at least 2 points.</source>
         <translation>நம்பகமான முனை குறைந்தது 2 புள்ளிகளைக் கொண்டிருக்க வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="270"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="244"/>
         <source>No input fiducial node specified.</source>
         <translation>உள்ளீட்டு நம்பகமான முனை எதுவும் குறிப்பிடப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="273"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="247"/>
         <source>No input slice node specified.</source>
         <translation>உள்ளீட்டு துண்டு முனை குறிப்பிடப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="279"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="253"/>
         <source>No volume node selected in input slice node.</source>
         <translation>உள்ளீட்டு துண்டு முனையில் தொகுதி முனை தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="283"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="257"/>
         <source>No input ROI node specified.</source>
         <translation>உள்ளீட்டு ROI முனை குறிப்பிடப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="294"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="268"/>
         <source>Failed to compute results: </source>
         <translation>முடிவுகளை கணக்கிடுவதில் தோல்வி: </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="382"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="404"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="357"/>
         <source>Invalid segmentation or segmentID.</source>
         <translation>தவறான பிரிவு அல்லது பிரிவு.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="393"/>
-        <source>Number of regions in segment: </source>
-        <translation>பிரிவில் உள்ள பகுதிகளின் எண்ணிக்கை: </translation>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="367"/>
+        <source>Region count: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="441"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="424"/>
         <source>Parameter node is None.</source>
         <translation>அளவுரு முனை எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="445"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="428"/>
         <source>Processing started</source>
         <translation>செயலாக்கம் தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="447"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="430"/>
         <source>Segment editor setup</source>
         <translation>பிரிவு எடிட்டர் அமைப்பு</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="455"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="438"/>
         <source>Background volume node in the selected slice node is None.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட ச்லைச் முனையில் பின்னணி தொகுதி முனை எதுவும் இல்லை.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="523"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="506"/>
         <source>Flood filling: {duration} seconds - </source>
         <translation>வெள்ள நிரப்புதல்: {duration} விநாடிகள் - </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="546"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="612"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="541"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="599"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>செயலாக்கம் {duration} விநாடிகளில் முடிந்தது</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="552"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="547"/>
         <source>Extract centerline setup</source>
         <translation>சென்டர்லைன் அமைப்பைப் பிரித்தெடுக்கவும்</translation>
-    </message>
-    <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="619"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="634"/>
-        <source>Segmentation or segmentID is invalid.</source>
-        <translation>பிரிவு அல்லது பிரிவு அடையாளம் தவறானது.</translation>
-    </message>
-    <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="621"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="636"/>
-        <source>Segment not found in the segmentation.</source>
-        <translation>பிரிவு பிரிவில் காணப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="22"/>
@@ -2821,7 +2941,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>உள்ளீடுகள்</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="111"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="121"/>
         <source>Pick an input markups fiducial node.
 
 The fiducial points are assumed to be on the contrasted lumen.</source>
@@ -2830,113 +2950,115 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
 நம்பகமான புள்ளிகள் மாறுபட்ட லுமனில் இருப்பதாக கருதப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="148"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="206"/>
         <source>Pick an optional ROI node. This may speed up segmentation and centerline extraction. The ROI will be forcibly hidden after completion.</source>
         <translation>விருப்ப ROI முனையைத் தேர்ந்தெடுக்கவும். இது பிரிவு மற்றும் சென்டர்லைன் பிரித்தெடுத்தலை விரைவுபடுத்தக்கூடும். ROI முடிந்ததும் வலுக்கட்டாயமாக மறைக்கப்படும்.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="159"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="217"/>
         <source>QuickROI</source>
         <translation>குயிக்ரூய்</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="175"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="233"/>
         <source>Set the bounds of the ROI accounting for that of the fiducial node. It must  further be manually adjusted to enclose the target region of interest.</source>
         <translation>நம்பகமான முனைக்கு ROI கணக்கியலின் எல்லைகளை அமைக்கவும். ஆர்வத்தின் இலக்கு பகுதியை இணைக்க இது மேலும் கைமுறையாக சரிசெய்யப்பட வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="181"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="239"/>
         <source>Pre-fit</source>
         <translation>முன் பொருத்தம்</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="193"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="197"/>
         <source>ROI node:</source>
         <translation>எனவே:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="203"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="114"/>
         <source>Fiducial node:</source>
         <translation>நம்பகமான முனை:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="210"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="248"/>
         <source>Segmentation:</source>
         <translation>பிரிவு:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="217"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="255"/>
         <source>Select an output segmentation</source>
         <translation>வெளியீட்டு பிரிவைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="246"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="165"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
         <translation>ஒரு துண்டு காட்சியைத் தேர்ந்தெடுங்கள். பின்னணி தொகுதி முனை பயன்படுத்தப்படும். சரியான தொகுதி முனையைப் பயன்படுத்த கவனமாக இருங்கள்.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="442"/>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve. Output nodes from the last run will be replaced.
-
-If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
-        <translation>ஒரு பிரிவு மற்றும் விருப்பமாக ஒரு சென்டர்லைன் மாதிரி மற்றும் சென்டர்லைன் வளைவை உருவாக்கவும். கடைசி ஓட்டத்திலிருந்து வெளியீட்டு முனைகள் மாற்றப்படும். 
-
-சென்டர்லைன்ச் பிரித்தெடுக்கப்பட்டால், ஒன்றுக்கு மேற்பட்ட பிராந்தியங்களைக் கொண்டிருந்தால், அந்த பிரிவை அதன் மிகப்பெரிய பிராந்தியத்தால் விருப்பமாக மாற்றவும்.</translation>
-    </message>
-    <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="156"/>
         <source>Slice node:</source>
         <translation>துண்டு முனை:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="284"/>
-        <source>Ideally, there should be only one region in the output segment.</source>
-        <translation>வெறுமனே, வெளியீட்டு பிரிவில் ஒரே ஒரு பகுதி மட்டுமே இருக்க வேண்டும்.</translation>
+        <source>Ideally, there should be only one region in the input segment.</source>
+        <oldsource>Ideally, there should be only one region in the output segment.</oldsource>
+        <translation type="unfinished">வெறுமனே, வெளியீட்டு பிரிவில் ஒரே ஒரு பகுதி மட்டுமே இருக்க வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="294"/>
-        <source>If the segment has more than one region, this function replaces the input segment by a new segment having a single region. It is created from the largest region of the input segment.</source>
-        <translation>இந்த பிரிவில் ஒன்றுக்கு மேற்பட்ட பிராந்தியங்கள் இருந்தால், இந்த செயல்பாடு உள்ளீட்டு பிரிவை ஒரு புதிய பகுதியைக் கொண்ட புதிய பிரிவு மூலம் மாற்றுகிறது. இது உள்ளீட்டு பிரிவின் மிகப்பெரிய பகுதியிலிருந்து உருவாக்கப்பட்டது.</translation>
-    </message>
-    <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="297"/>
-        <source>Fix</source>
-        <translation>சரிசெய்</translation>
-    </message>
-    <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="315"/>
-        <source>Use a parameter set for a distinct study.</source>
-        <translation>ஒரு தனித்துவமான ஆய்வுக்கு ஒரு அளவுருவைப் பயன்படுத்தவும்.</translation>
-    </message>
-    <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="318"/>
-        <source>Flood filling parameters</source>
-        <translation>வெள்ள நிரப்புதல் அளவுருக்கள்</translation>
-    </message>
-    <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="342"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="437"/>
         <source>Intensity tolerance:</source>
         <translation>தீவிரம் சகிப்புத்தன்மை:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="349"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="335"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
         <translation>கட்டுப்பாட்டு புள்ளியின் நிலையில் உள்ள ஒன்றுக்கு இடையில் தீவிரத்தன்மை வரம்பைக் கொண்ட இணைக்கப்பட்ட வோக்சல்களைத் தேர்ந்தெடுக்கவும் +/- இந்த சகிப்புத்தன்மை.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="371"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="308"/>
+        <source>Segment editor effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="322"/>
+        <source>Flood filling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="357"/>
         <source>Neighbourhood size:</source>
         <translation>அண்டை அளவு:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="378"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="370"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
         <translation>அருகிலுள்ள அனைத்து வோக்சல்களுக்கும் ஒத்த தீவிரங்கள் இருந்தால் மட்டுமே பகுதிகள் சேர்க்கப்படுகின்றன. அதிக மதிப்புகளைப் பயன்படுத்துங்கள் கசிவைத் தடுக்கிறது. சிறந்த விவரங்களைக் கைப்பற்ற அனுமதிக்க குறைந்த மதிப்புகளைப் பயன்படுத்தவும்.
 </translation>
     </message>
     <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="402"/>
+        <source>This value is used to calculate the gap pixel size. Large values also mean longer processing time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="405"/>
+        <source> mm</source>
+        <translation type="unfinished"> மிமீ</translation>
+    </message>
+    <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="421"/>
+        <source>Remove holes in a contiguous segment. There should remain 1 region ideally. Complex segments may not always be reduced to a single region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="424"/>
+        <source>Smoothing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="462"/>
         <source>Use &apos;Extract centerline&apos; module to generate a centerline model and a centerline curve.
 
 It is recommended to generate centerlines on accurate segmentations.</source>
@@ -2945,12 +3067,12 @@ It is recommended to generate centerlines on accurate segmentations.</source>
 துல்லியமான பிரிவுகளில் சென்டர்லைன்களை உருவாக்க பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="429"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="470"/>
         <source>Extract centerlines</source>
         <translation>சென்டர்லைன்களைப் பிரித்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="447"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="489"/>
         <source>Apply</source>
         <translation>இடு</translation>
     </message>
@@ -2958,7 +3080,7 @@ It is recommended to generate centerlines on accurate segmentations.</source>
 <context>
     <name>StenosisMeasurement1D</name>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="38"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="34"/>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; straightens an open input markups curve and displays cumulative and individual lengths between control points. It is intended for quick one dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
@@ -2967,7 +3089,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="48"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="38"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -2998,8 +3120,8 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>பகுதி %</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="275"/>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="289"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="274"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="288"/>
         <source>No curve.</source>
         <translation>வளைவு இல்லை.</translation>
     </message>
@@ -3037,7 +3159,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>StenosisMeasurement2D</name>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="38"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="34"/>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
@@ -3046,7 +3168,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="43"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="38"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -3167,87 +3289,87 @@ The result is influenced by :
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="241"/>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="629"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="631"/>
         <source>Input segmentation is invalid</source>
         <translation>உள்ளீட்டு பிரிவு தவறானது</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="346"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="348"/>
         <source>Select a slice node</source>
         <translation>ஒரு துண்டு முனையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="349"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="351"/>
         <source>Select a fiducial node</source>
         <translation>நம்பகமான முனையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="352"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="354"/>
         <source>Select a segmentation node</source>
         <translation>ஒரு பிரிவு முனையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="355"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="357"/>
         <source>Click on a fiducial control point</source>
         <translation>நம்பகமான கட்டுப்பாட்டு புள்ளியைக் சொடுக்கு செய்க</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="357"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="359"/>
         <source>Failed to compute results.</source>
         <translation>முடிவுகளை கணக்கிடுவதில் தோல்வி.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="542"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="544"/>
         <source>Fiducial node is no longer observed</source>
         <translation>நம்பகமான முனை இனி கவனிக்கப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="548"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="550"/>
         <source>Fiducial node is being observed</source>
         <translation>நம்பகமான முனை அனுசரிக்கப்படுகிறது</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="561"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="563"/>
         <source>Slice node not set</source>
         <translation>துண்டு முனை அமைக்கப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="578"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="580"/>
         <source>Slice orientation recorded</source>
         <translation>ச்லைச் நோக்குநிலை பதிவு செய்யப்பட்டது</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="588"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="590"/>
         <source>Slice orientation restored</source>
         <translation>துண்டு நோக்குநிலை மீட்டெடுக்கப்பட்டது</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="595"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="597"/>
         <source>Reset orientation at point</source>
         <translation>புள்ளியில் நோக்குநிலையை மீட்டமைக்கவும்</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="631"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="633"/>
         <source>Input segment ID is invalid</source>
         <translation>உள்ளீட்டு பிரிவு அடையாளம் தவறானது</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="635"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="637"/>
         <source>Processing started</source>
         <translation>செயலாக்கம் தொடங்கியது</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="678"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="682"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>செயலாக்கம் {duration} விநாடிகளில் முடிந்தது</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="730"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="734"/>
         <source>Starting the test</source>
         <translation>சோதனையைத் தொடங்குதல்</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="732"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="736"/>
         <source>Test passed</source>
         <translation>சோதனை கடந்துவிட்டது</translation>
     </message>
@@ -3328,8 +3450,8 @@ Right click for more.</source>
 <context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="34"/>
-        <location filename="EditCenterline/EditCenterline.py" line="32"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="33"/>
+        <location filename="EditCenterline/EditCenterline.py" line="31"/>
         <source>Vascular Modeling Toolkit</source>
         <translation>வாச்குலர் மாடலிங் கருவித்தொகுப்பு</translation>
     </message>
@@ -3398,88 +3520,93 @@ Right click for more.</source>
         <translation>இடு</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="112"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="113"/>
         <source>No centerline selected.</source>
         <translation>சென்டர்லைன் எதுவும் தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="122"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="123"/>
         <source>No surface selected.</source>
         <translation>எந்த மேற்பரப்பு தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="128"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="129"/>
         <source>No output selected.</source>
         <translation>எந்த வெளியீடும் தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="145"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="146"/>
         <source>Segmentation is NULL in MRML node, aborting</source>
         <translation>எம்.ஆர்.எம்.எல் முனையில் பிரிவு பூச்யமானது, கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="156"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="153"/>
+        <source>No segment found in the segmentation, aborting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="164"/>
         <source>No segment selected.</source>
         <translation>எந்த பிரிவும் தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="167"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="175"/>
         <source>Could not create closed surface representation.</source>
         <translation>மூடிய மேற்பரப்பு பிரதிநிதித்துவத்தை உருவாக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="183"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="191"/>
         <source>Unknown surface node</source>
         <translation>அறியப்படாத மேற்பரப்பு முனை</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="193"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="201"/>
         <source>Splitting, please wait...</source>
         <oldsource>Debranching, please wait...</oldsource>
         <translation>பிரித்தல், தயவுசெய்து காத்திருங்கள் ...</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="201"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="209"/>
         <source>Could not create a valid surface.</source>
         <translation>சரியான மேற்பரப்பை உருவாக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="221"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="229"/>
         <source>No branches could be retrieved; the centerline may be invalid.</source>
         <translation>எந்த கிளைகளையும் மீட்டெடுக்க முடியவில்லை; சென்டர்லைன் செல்லாது.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="230"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="238"/>
         <source>Branches</source>
         <translation>கிளைகள்</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="236"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="244"/>
         <source>Processing branch </source>
         <translation>செயலாக்க கிளை </translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="249"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="257"/>
         <source>Could not retrieve branch surface </source>
         <translation>கிளை மேற்பரப்பை மீட்டெடுக்க முடியவில்லை </translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="312"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="311"/>
         <source>Could not get a valid collection of bifurcation profiles.</source>
         <translation>பிளவுபடுத்தும் சுயவிவரங்களின் சரியான தொகுப்பைப் பெற முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="320"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="319"/>
         <source>Could not get a valid subject hierarchy node.</source>
         <translation>செல்லுபடியாகும் பொருள் வரிசைமுறை முனை பெற முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="330"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="329"/>
         <source>Bifurcation profiles</source>
         <translation>பிளவுபடுத்தும் சுயவிவரங்கள்</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="354"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="353"/>
         <source>Finished</source>
         <translation>முடிந்தது</translation>
     </message>
@@ -3506,148 +3633,291 @@ Right click for more.</source>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="22"/>
+        <source>Parameter set:</source>
+        <translation type="unfinished">அளவுரு தொகுப்பு:</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="32"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished">பெயரிடப்பட்ட ஆய்வை தெளிவாக வரையறுக்கும் ஒரு அளவுரு குழுக்கள் அளவுருக்களை அமைக்கிறது.</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="46"/>
+        <source>StenosisMeasurement3D</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="64"/>
+        <source>Inputs</source>
+        <translation type="unfinished">உள்ளீடுகள்</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="70"/>
         <source>Wall surface:</source>
         <translation>சுவர் மேற்பரப்பு:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="29"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="84"/>
+        <source>Select an input markups fiducial node.
+
+The first and second points are the boundaries between which the analysis will be performed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="128"/>
         <source>Select an input shape (tube) node, drawn to represent the vascular wall.</source>
         <translation>வாச்குலர் சுவரைக் குறிக்க வரையப்பட்ட உள்ளீட்டு வடிவம் (குழாய்) முனையைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="37"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="136"/>
         <source>Tube</source>
         <translation>தூம்பு</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="59"/>
-        <source>Select an input markups fiducial node.
-
-The first and second points are the boundaries between which the analysis will be performed. They should not be at the very ends of the wall surface for accurate results.</source>
-        <translation>உள்ளீட்டு மார்க்அப்கள் நம்பகமான முனையைத் தேர்ந்தெடுக்கவும். 
-
-முதல் மற்றும் இரண்டாவது புள்ளிகள் பகுப்பாய்வு செய்யப்படும் எல்லைகள். துல்லியமான முடிவுகளுக்கு அவை சுவர் மேற்பரப்பின் முனைகளில் இருக்கக்கூடாது.</translation>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="158"/>
+        <source>Decimate the tube&apos;s surface during processing.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="69"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="161"/>
+        <source>⭭</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="175"/>
+        <source>Select a segment representing the vascular lumen.
+
+This should ideally exceed the wall surface a little.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="197"/>
+        <source>Ideally, there should be only one region in the input segment.</source>
+        <translation type="unfinished">வெறுமனே, வெளியீட்டு பிரிவில் ஒரே ஒரு பகுதி மட்டுமே இருக்க வேண்டும்.</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="207"/>
+        <source>Remove holes in a contiguous segment. There should remain 1 region ideally. Complex segments may not always be reduced to a single region.
+
+This function cannot be undone, proceed with small increments.
+
+The result must be inspected before use. If it is not satisfactory, the source segment should be updated by any other means.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="214"/>
+        <source>Smoothing gap size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="227"/>
+        <source>This value is used to calculate the gap pixel size. High values mean longer processing time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="230"/>
+        <source> mm</source>
+        <translation type="unfinished"> மிமீ</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="254"/>
+        <source>Outputs</source>
+        <translation type="unfinished">வெளியீடுகள்</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="352"/>
+        <source>Show the lesion between the boundary points as a model.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="360"/>
+        <source>Lesion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="376"/>
+        <source>Table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="385"/>
+        <source>Specify a table to store the result in append mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="396"/>
+        <source>Result table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="415"/>
+        <source>Move the boundary points to the positions referenced in this table row.
+
+Note: this is intended for processing again at known locations. The study and the results stored in the table are not taken into consideration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
         <source>P</source>
         <translation>ப</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="77"/>
         <source>Boundary node:</source>
         <translation>எல்லை முனை:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="101"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="119"/>
         <source>Lumen surface:</source>
         <translation>லுமேன் மேற்பரப்பு:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="108"/>
-        <source>Select a segment representing the vascular lumen.
-
-This should ideally exceed the wall surface a little, and must not be bifurcated for accurate results.</source>
-        <translation>வாச்குலர் லுமனைக் குறிக்கும் ஒரு பகுதியைத் தேர்ந்தெடுக்கவும். 
-
-இது சுவர் மேற்பரப்பை கொஞ்சம் அதிகமாக மீற வேண்டும், மேலும் துல்லியமான முடிவுகளுக்கு பிரிக்கப்படக்கூடாது.</translation>
-    </message>
-    <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="308"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="447"/>
         <source>Run the algorithm.</source>
         <translation>வழிமுறையை இயக்கவும்.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="311"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="450"/>
         <source>Apply</source>
         <translation>இடு</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
-        <source>Result</source>
-        <translation>முடிவு</translation>
-    </message>
-    <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="139"/>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="222"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="262"/>
         <source>Wall:</source>
         <translation>சுவர்:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="153"/>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="253"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="276"/>
         <source>Lumen:</source>
         <translation>லுமேன்:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="167"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="290"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="345"/>
         <source>Lesion:</source>
         <translation>புண்:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="181"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="304"/>
         <source>Stenosis:</source>
         <translation>ச்டெனோசிச்:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="195"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="318"/>
         <source>Length:</source>
         <translation>நீளம்:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="211"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="334"/>
         <source>Model</source>
         <translation>மாதிரியுரு</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="229"/>
-        <source>Show the wall between the boundary points as a model.</source>
-        <translation>எல்லை புள்ளிகளுக்கு இடையிலான சுவரை ஒரு மாதிரியாகக் காட்டுங்கள்.</translation>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="176"/>
+        <source>Clear the enclosed lumen cache</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="237"/>
-        <source>Wall</source>
-        <translation>சுவர்</translation>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="182"/>
+        <source>Dump aggregate volumes to database</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="260"/>
-        <source>Show the lumen between the boundary points as a model.</source>
-        <translation>எல்லை புள்ளிகளுக்கு இடையில் லுமனை ஒரு மாதிரியாகக் காட்டுங்கள்.</translation>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="185"/>
+        <source>Attempt to save a database containing aggregate volumes of the study in your document directory.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="268"/>
-        <source>Lumen</source>
-        <translation>லுமேன்</translation>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="215"/>
+        <source>Invalid parameter node.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="114"/>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="226"/>
         <source>Insufficient input.</source>
         <translation>போதுமான உள்ளீடு.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="120"/>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="232"/>
         <source>Wrong shape node.</source>
         <translation>தவறான வடிவ முனை.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="126"/>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="238"/>
         <source>Inconsistent fiducial input.</source>
         <translation>சீரற்ற நம்பகமான உள்ளீடு.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="131"/>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="243"/>
         <source>Two fiducial input points are mandatory.</source>
         <translation>இரண்டு நம்பகமான உள்ளீட்டு புள்ளிகள் கட்டாயமாகும்.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="137"/>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="249"/>
         <source>Inconsistent segmentation input.</source>
         <translation>சீரற்ற பிரிவு உள்ளீடு.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="151"/>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="273"/>
         <source>Processing failed.</source>
         <translation>செயலாக்கம் தோல்வியடைந்தது.</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="685"/>
+        <source>Invalid or empty table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="696"/>
+        <source>The tube does not have a valid spline.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="701"/>
+        <source>Invalid tube or boundary node.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="803"/>
+        <source>Error getting the enclosed lumen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="809"/>
+        <source>Error: input tube and input lumen could not be intersected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="941"/>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1015"/>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1045"/>
+        <source>Parameter node is invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="962"/>
+        <source>Processing, this can be long running, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="965"/>
+        <source>Error dumping aggregate volumes to database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="968"/>
+        <source> is saved in your document directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1001"/>
+        <source>Region count: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1025"/>
+        <source>Invalid segmentation or segmentID.</source>
+        <translation type="unfinished">தவறான பிரிவு அல்லது பிரிவு.</translation>
     </message>
 </context>
 <context>
@@ -3661,6 +3931,64 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="23"/>
         <source>Foo Bar</source>
         <translation>ஃபூ பார்</translation>
+    </message>
+</context>
+<context>
+    <name>vtkSlicerStenosisMeasurement3DLogic</name>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="499"/>
+        <source>Study</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="500"/>
+        <source>Wall volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="501"/>
+        <source>Lumen volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="502"/>
+        <source>Lesion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="503"/>
+        <source>Stenosis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="504"/>
+        <source>From spline id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="505"/>
+        <source>To spline id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="506"/>
+        <source>Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="507"/>
+        <source>Lesion volume per cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="508"/>
+        <source>Stenosis per cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="509"/>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
