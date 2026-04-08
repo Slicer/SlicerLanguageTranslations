@@ -7,13 +7,13 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Slicer Welcome</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>مرحباً بك في Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>دكتورة سونيا بوجول</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -24,19 +24,24 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>أستاذ مساعد في الأشعة
+
+مستشفى بريغهام للنساء
+
+كلية الطب بجامعة هارفارد
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Goal</source>
         <extracomment>1_Goal_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>هدف</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>This tutorial is a short introduction to the Welcome module of the Slicer open-source software.</source>
         <extracomment>1_Goal_body</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>هذا الدليل التعليمي هو مقدمة قصيرة لوحدة الترحيب في برنامج Slicer مفتوح المصدر.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
@@ -45,7 +50,7 @@ Harvard Medical School
         <extracomment>2_TextBox_0
 ----------
 3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>أساسيات Slicer 5</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -53,19 +58,21 @@ Harvard Medical School
 *The platform is developed through a multi-institution effort of several NIH funded large-scale consortia.
 *Slicer is for medical research only, and is not FDA approved. </source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>* Slicer هو برنامج مفتوح المصدر يُستخدم لتقسيم الصور الطبية (Segmentation)، ومحاذاتها (Registration)، وعرضها (Visualization).
+* تم تطوير المنصة من خلال تعاون مع عدة مؤسسات ضمن عدة اتحادات بحثية كبيرة ممولة من المعاهد الوطنية للصحة (National Institutes of Health).
+* يُستخدم Slicer لأغراض البحث الطبي فقط، وهو غير معتمد من قبل إدارة الغذاء والدواء الأمريكية (Food and Drug Administration). </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>3D Slicer 5 version 5.10.0 includes over 100 modules and more than 190 extensions for image segmentation, registration and 3D visualization of medical imaging data.</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>يتضمن برنامج 3D Slicer الإصدار 5 (النسخة 5.10.0) أكثر من 100 وحدة (Modules) وأكثر من 190 إضافة (Extensions) لتقسيم الصور الطبية (Segmentation)، ومحاذاتها (Registration)، وعرضها بشكل ثلاثي الأبعاد (3D Visualization).</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>Supported Platforms</source>
         <extracomment>4_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>منصات التشغيل المدعومة</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -73,13 +80,15 @@ Harvard Medical School
 
 *Slicer requires a minimum of 2 GB of RAM and a dedicated graphic accelerator with 64 MB of on-board graphic memory. </source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>* Slicer هو برنامج متعدد المنصات، تم تطويره وصيانته للعمل على أنظمة Mac OS X وLinux وWindows.
+
+* يتطلب Slicer حدًا أدنى يبلغ 2 جيجابايت من ذاكرة الوصول العشوائي (RAM)، بالإضافة إلى معالج رسومي مخصص مزود بذاكرة رسومية لا تقل عن 64 ميجابايت. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>Welcome to Slicer</source>
         <extracomment>5_WelcometoSlicer_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>مرحبًا بك في Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
@@ -87,43 +96,45 @@ Harvard Medical School
 
 Click on the arrow symbol to display the content of each tab. </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تتضمن كل وحدة في Slicer على مجموعة من علامات التبويب (Tabs)، والتي تتيح الوصول إلى وظائف مختلفة.
+
+انقر على رمز السهم لعرض محتوى كل علامة تبويب. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer User Interface</source>
         <extracomment>6_SlicerUserInterface_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>واجهة مستخدم Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Toolbar</source>
         <extracomment>6_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شريط الأدوات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
         <source>3D viewer</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>عارض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>User Interface (UI) panel of the Slicer Welcome Module</source>
         <extracomment>6_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>لوحة واجهة المستخدم الخاصة بوحدة الترحيب في Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
         <source>Data probe</source>
         <extracomment>6_TextBox_5</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>أداة استكشاف البيانات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>2D anatomical viewers</source>
         <extracomment>6_ArrowText_6</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>عارضات تشريحية 2D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
@@ -135,13 +146,13 @@ Click on the arrow symbol to display the content of each tab. </source>
 8_WelcomeModule_title
 ----------
 12_WelcomeModule_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>وحدة الترحيب</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
         <source>The Documentation &amp; Tutorials tab contains links to the training compendium and documentation pages of 3D Slicer.</source>
         <extracomment>7_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تحتوي علامة تبويب &quot;التوثيق والدروس التعليمية&quot; على روابط إلى مجموعة المواد التدريبية وصفحات التوثيق الخاصة بـ 3D Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -149,7 +160,9 @@ Click on the arrow symbol to display the content of each tab. </source>
 
 Click on Download Sample Data to access the Sample Data Module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تحتوي لوحة وحدة الترحيب على اختصارات لتحميل أنواع مختلفة من البيانات. كما تتوفر أيضًا مجموعة من بيانات تجريبية.
+
+انقر على &quot;Download Sample Data&quot; للوصول إلى وحدة بيانات العينات (Sample Data Module).</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -161,13 +174,13 @@ Click on Download Sample Data to access the Sample Data Module</source>
 10_SampleData_title
 ----------
 11_SampleData_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>بيانات تجريبية</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="56"/>
         <source>The Sample Data module contains links to different sample datasets that can be downloaded into Slicer.</source>
         <extracomment>9_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تحتوي وحدة &quot;البيانات التجريبية&quot; على روابط لمجموعات بيانات نموذجية مختلفة يمكن تحميلها داخل Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
