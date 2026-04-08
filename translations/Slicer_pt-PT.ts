@@ -3002,17 +3002,17 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
         <source>Directory holding the output NRRD file</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório que contém o ficheiro de saída NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
         <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se a magnitude de um gradiente é maior que 0 e menos que o smallGradientThreshold, então DWIConvert irá exibir um erro e terminar, a menos que a opção useBMatrixGradientDirections for definida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
         <source>FSL input BVectors are expected to be encoded in the input file as one vector per line. If it is not the case, use this option to transpose the file as it is read</source>
-        <translation type="unfinished"></translation>
+        <translation>BVectors FSL de entrada são esperados</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
