@@ -156,11 +156,6 @@
         <translation>Käännöstiedostokansiot:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>Luettelo kansioista, joista sovellus etsii käännöksiä. Tämä on vain tiedoksi, polkuja ei voi muuttaa.</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>Näytä lisää...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 Tämä moduuli voi rakentaa käännöstiedostoja ja asentaa ne paikallisesti. Se on hyödyllinen käännösten luomiseen ja testaamiseen.
 Katso lisätietoja &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;laajennuksen dokumentaatiosta&lt;/a&gt;.
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-Tämän moduulin kehittäminen on osittain rahoitettu &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS -apurahalla&lt;/a&gt;.
 </translation>
     </message>
     <message>

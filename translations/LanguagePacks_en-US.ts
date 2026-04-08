@@ -156,11 +156,6 @@
         <translation>Translation file folders:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>Show more...</translation>
@@ -207,13 +202,6 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

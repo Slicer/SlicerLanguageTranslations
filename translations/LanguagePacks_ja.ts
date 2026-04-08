@@ -156,11 +156,6 @@
         <translation>翻訳ファイルのフォルダー:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>アプリケーションが翻訳を検索するフォルダーのリスト。これは情報提供のみを目的としており、パスを変更することはできません。</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>もっと見る...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 このモジュールは翻訳ファイルを構築し、ローカルにインストールできます。翻訳の作成とテストに役立ちます。
 詳細については、&lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;拡張機能のドキュメント&lt;/a&gt;をご覧ください。
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-このモジュールの開発には、&lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-langage-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS 助成金&lt;/a&gt;による資金の一部が提供されました。
 </translation>
     </message>
     <message>

@@ -156,11 +156,6 @@
         <translation>翻譯檔資料夾：</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>程式會在列於清單的資料夾中尋找翻譯檔案。僅供說明，路徑不可更改。</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>顯示更多...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 此模組可建置並於本機安裝翻譯檔。建立和測試翻譯時非常好用。
 請見 &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;附加元件的說明文件&lt;/a&gt;以獲得更多資訊。
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-此模組一部分由 &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;贊助。
 </translation>
     </message>
     <message>

@@ -156,11 +156,6 @@
         <translation>Ordner für Übersetzungsdateien:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>Liste von Ordnern, in denen die Anwendung nach Übersetzungen sucht. Dies ist nur zur Information, die Pfade können nicht geändert werden.</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>Mehr anzeigen...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 Dieses Modul kann Übersetzungsdateien erstellen und lokal installieren. Es ist nützlich zum Erstellen und Testen von Übersetzungen.
 Weitere Informationen finden Sie in der Dokumentation der &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;Erweiterung&lt;/a&gt;.
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-Die Entwicklung dieses Moduls wurde teilweise durch &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS Grant finanziert&lt;/a&gt;.
 </translation>
     </message>
     <message>

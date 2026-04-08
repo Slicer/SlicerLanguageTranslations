@@ -156,11 +156,6 @@
         <translation>Fordítási fájl mappák:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>A mappák listája, ahol az alkalmazás fordításokat keres. Ez csak információ, a mappák helye nem változtatható.</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>Mutasson többet...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 Ez a modul képes fordítási fájlokat építeni, és helyileg telepíteni őket. Ez hasznos a fordítások létrehozásához és teszteléséhez.
 További információ a &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt; kiterjesztés dokumentációjában &lt;/a&gt;.
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-Ennek a modulnak a kifejlesztését részben a &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS pályázat&lt;/a&gt; finanszírozta.
 </translation>
     </message>
     <message>

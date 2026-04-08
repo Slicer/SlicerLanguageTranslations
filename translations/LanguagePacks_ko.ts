@@ -156,11 +156,6 @@
         <translation>번역 파일 폴더:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>응용 프로그램이 번역을 찾는 폴더 목록입니다. 이는 정보 제공용이며 경로는 변경할 수 없습니다.</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>더 보기...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 이 모듈은 번역 파일을 생성하고 로컬에 설치할 수 있습니다. 번역을 생성하고 테스트하는 데 유용합니다.
 자세한 내용은 &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;확장 프로그램의 문서에서 확인하세요&lt;/a&gt;.
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-본 모듈의 개발은 부분적으로&lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;의 지원을 받아 이루어졌습니다.&lt;/a&gt;.
 </translation>
     </message>
     <message>

@@ -156,11 +156,6 @@
         <translation>Překladové složky souborů:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>Seznam složek, kde aplikace hledá překlady. Jedná se pouze o informace, cesty nejdou změnit.</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>Zobrazit více...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 Tento modul dokáže sestavit překladové soubory a nainstalovat je lokálně. Je užitečný pro vytváření a testování překladů.
 Další informace naleznete v &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks“&gt;dokumentaci rozšíření&lt;/a&gt;.
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-Vývoj tohoto modulu byl částečně financován z &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/“&gt;grantu CZI EOSS&lt;/a&gt;.
 </translation>
     </message>
     <message>

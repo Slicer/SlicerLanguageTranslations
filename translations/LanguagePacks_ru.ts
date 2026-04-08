@@ -156,11 +156,6 @@
         <translation>Папки с файлами перевода:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>Список папок, в которых приложение ищет переводы. Это только для информации, пути изменить нельзя.</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>Показать ещё...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 Этот модуль может создавать файлы переводов и устанавливать их локально. Это полезно для создания и тестирования переводов.
 Смотрите дополнительную информацию на &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;в документации расширения &lt;/a&gt;..
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-Разработка этого модуля была частично профинансирована &lt;a href=&quot;https://chan zuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt; Грант CZI EOSS&lt;/a&gt;.
 </translation>
     </message>
     <message>

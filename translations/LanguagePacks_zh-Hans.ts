@@ -156,11 +156,6 @@
         <translation>翻译文件夹：</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>应用程序查找翻译的文件夹列表。仅供参考，路径无法更改。</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>显示更多...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 该模块可以构建翻译文件并在本地安装。它对于创建和测试翻译非常有用。
 更多信息请参见 &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;扩展的文档&lt;/a&gt;。
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-该模块的开发部分由 &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS基金&lt;/a&gt; 资助。
 </translation>
     </message>
     <message>

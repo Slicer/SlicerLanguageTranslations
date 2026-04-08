@@ -156,11 +156,6 @@
         <translation>மொழிபெயர்ப்பு கோப்பு கோப்புறைகள்:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
-        <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation>பயன்பாடு மொழிபெயர்ப்புகளைத் தேடும் கோப்புறைகளின் பட்டியல். இது தகவலுக்கு மட்டுமே, பாதைகளை மாற்ற முடியாது.</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
         <translation>மேலும் காட்டு ...</translation>
@@ -210,15 +205,6 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <translation type="unfinished">
 இந்தத் தொகுதி மொழிபெயர்ப்புக் கோப்புகளை உருவாக்கி அவற்றை உள்நாட்டில் நிறுவ முடியும். மொழிபெயர்ப்புகளை உருவாக்குவதற்கும் சோதிப்பதற்கும் இது பயனுள்ளதாக இருக்கும்.
  &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt; நீட்டிப்பின் ஆவணங்கள் &lt;/a&gt; இல் கூடுதல் தகவல்களைக் காண்க.
-</translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/LanguageTools.py" line="29"/>
-        <source>
-Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-</source>
-        <translation>
-இந்தத் தொகுதியின் வளர்ந்த &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt; czi eoss கிராண்ட் &lt;/a&gt;.
 </translation>
     </message>
     <message>
