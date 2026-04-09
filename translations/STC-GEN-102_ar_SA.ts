@@ -14,7 +14,7 @@
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation>دكتورة سونيا بوجول</translation>
+        <translation>دكتورة سونيا بوجول.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -216,7 +216,7 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
         <location filename="text_dict_default.json" line="78"/>
         <source>Acknowledgements</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الإقرارات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
