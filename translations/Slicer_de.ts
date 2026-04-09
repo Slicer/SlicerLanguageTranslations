@@ -31685,7 +31685,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceNode.cxx" line="63"/>
         <source>Sequence</source>
-        <translation>Sequence</translation>
+        <translation>Sequenz</translation>
     </message>
 </context>
 <context>
@@ -32168,7 +32168,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="719"/>
         <source>Sequence</source>
-        <translation>Sequence</translation>
+        <translation>Sequenz</translation>
     </message>
 </context>
 </TS>
