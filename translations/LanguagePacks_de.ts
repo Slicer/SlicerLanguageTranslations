@@ -16,7 +16,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate-API-Schlüssel:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Textrichtung:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
@@ -232,17 +232,17 @@ Weitere Informationen finden Sie in der Dokumentation der &lt;a href=&quot;https
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch erkennen</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
         <source>Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Von links nach rechts</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="269"/>
         <source>Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Von rechts nach links</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="332"/>
@@ -292,7 +292,7 @@ Weitere Informationen finden Sie in der Dokumentation der &lt;a href=&quot;https
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersprungen. Die heruntergeladene Datei ist ungültig.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
