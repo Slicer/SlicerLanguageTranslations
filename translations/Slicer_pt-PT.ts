@@ -51,7 +51,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation>Volume de Entrada 2</translation>
+        <translation>Volume de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
@@ -2044,7 +2044,7 @@ Permite converter para o mesmo tipo que o volume de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Volume de Entrada 2</translation>
+        <translation>Volume de Entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
@@ -3012,7 +3012,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
         <source>FSL input BVectors are expected to be encoded in the input file as one vector per line. If it is not the case, use this option to transpose the file as it is read</source>
-        <translation>BVectors FSL de entrada são esperados</translation>
+        <translation>Os BVectors FSL de entrada são esperados serem codificados no ficheiro de entrada com um vetor por linha. Se este não for o caso , use esta opção para transpor o ficheiro à medida que é lido</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
@@ -10576,7 +10576,21 @@ Este efeito usa o  &lt;a href=&quot;https://insight-journal.org/browse/publicati
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Crescer segmentos para criar segmentação completa&lt;br&gt;.
+        Localização, tamanho, e forma dos segmentos inicias e conteúdo do volume fonte são tidos em conta.
+        Limites de segmento final serão colocados onde o brilho de volume fonte mudam abruptamente. Instruções:&lt;p&gt;
+        &lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;Use Pintar ou outros efeitos para desenhas sementes
+        Pinte cada semente com um segmento diferente. Um mínimo de dois segmentos são necessários.
+        &lt;li&gt;Clique &lt;dfn&gt;Inicializar&lt;/dfn&gt; para computar uma pré-visualização da segmentação inteira.
+        &lt;li&gt;Navegue pelas fatias de imagem. Se a pré-visualização do resultado da segmentação não está correta então mude para
+        Pintar ou outros efeitos e adicione mais sementes na região mal classificada. Segmentação inteira será
+        atualizada automaticamente dentro de poucos segundos
+        &lt;li&gt;Clique &lt;dfn&gt;Aplicar&lt;/dfn&gt; para atualizar segmentação com o resultado pré-visualizado.
+        &lt;/ul&gt;&lt;p&gt;
+        Se os segmentos se sobrepõe, o segmento mais alto na tabela de segmentos terão prioridade.
+        Este efeito usa &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;o método fast grow-cut&lt;/a&gt;.
+        &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
