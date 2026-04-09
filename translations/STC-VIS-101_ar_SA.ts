@@ -628,7 +628,7 @@ Contact: spujol@bwh.harvard.edu</source>
         <location filename="text_dict_default.json" line="198"/>
         <source>Acknowledgements</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الإقرارات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="200"/>
