@@ -13,7 +13,7 @@
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation>دكتورة سونيا بوجول</translation>
+        <translation>دكتورة سونيا بوجول.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -162,7 +162,7 @@ Click on Download Sample Data to access the Sample Data Module</source>
         <extracomment>8_TextBox_0</extracomment>
         <translation>تحتوي لوحة وحدة الترحيب على اختصارات لتحميل أنواع مختلفة من البيانات. كما تتوفر أيضًا مجموعة من بيانات تجريبية.
 
-انقر على &quot;Download Sample Data&quot; للوصول إلى وحدة بيانات العينات (Sample Data Module).</translation>
+انقر على &quot;Download Sample Data&quot; للوصول إلى وحدة بيانات العينات (Sample Data Module)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -186,45 +186,47 @@ Click on Download Sample Data to access the Sample Data Module</source>
         <location filename="text_dict_default.json" line="60"/>
         <source>Brain MR</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>رنين مغناطيسي للدماغ</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="62"/>
         <source>Chest CT</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>أشعة مقطعية للصدر</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
         <source>Cardiac CT</source>
         <extracomment>10_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>أشعة مقطعية للقلب</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="66"/>
         <source>Diffusion Tensor Imaging (DTI) Dataset</source>
         <extracomment>10_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة بيانات التصوير بالانتشار الموجّه (DTI)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
         <source>Brain MRI (tumor patient)</source>
         <extracomment>10_TextBox_4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>رنين مغناطيسي للدماغ (مريض بورم)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>Click on MRHead to download the
 dataset in Slicer.</source>
         <extracomment>11_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>انقر على MRHead لتحميل 
+مجموعة البيانات داخل Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
         <source>The MR scan of the brain appears
 in the 2D viewers.</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>صورة الرنين المغناطيسي للدماغ تظهر بشكل 
+ ثنائي الأبعاد.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
@@ -236,27 +238,29 @@ in the 2D viewers.</source>
 14_MRBrainSampleDataset_title
 ----------
 15_MRBrainSampleDataset_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة بيانات MR للدماغ</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
         <source>Position the mouse on the little pin icon in the top left corner of the red viewer to display the viewer menu</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ضع مؤشر الفأرة على أيقونة الدبوس الصغيرة في الزاوية العلوية اليسرى من نافذة العرض الحمراء لعرض قائمة العارض</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="84"/>
         <source>Click on the link icon to link all three 2D viewers, and on the eye icon next to it
 to display the slices in the 3D viewer</source>
         <extracomment>14_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>انقر على أيقونة الرابط لربط جميع نوافذ العرض ثنائية الأبعاد الثلاث، ثم على أيقونة العين المجاورة لها
+ لعرض المقاطع في العارض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
         <source>The axial, coronal and sagittal slices appear in the 3D viewer.
 Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>15_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تظهر المقاطع المحورية (Axial) والإكليلية (Coronal) والسهمية (Sagittal) في العارض ثلاثي الأبعاد.
+عد إلى وحدة الترحيب باستخدام السهم الأخضر في شريط الأدوات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
@@ -265,25 +269,25 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>16_GoingFurther_title
 ----------
 17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>للمضي قدمًا</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
         <source>To learn more about Slicer and its different functionalities, visit the Slicer Compendium</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>لاكتساب فهم أعمق حول 3D Slicer ووظائفه المختلفة، يُنصح بالاطلاع على مرجع Slicer Compendium</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
         <source>https://training.slicer.org/</source>
         <extracomment>17_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>https://training.slicer.org/</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الإقرارات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -296,7 +300,13 @@ NIH P41EB015902
 
 Chan Zuckerberg Initiative (CZI)</source>
         <extracomment>18_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>التحالف الوطني لحوسبة الصور الطبية
+NIH U54EB005149
+
+مركز تحليل الصور العصبية
+NIH P41EB015902
+
+مبادرة تشان زوكربيرغ</translation>
     </message>
 </context>
 </TS>
