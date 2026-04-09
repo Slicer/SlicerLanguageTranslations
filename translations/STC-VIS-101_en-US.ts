@@ -7,43 +7,43 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Basics of Data Loading and 3D Visualization in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>أساسيات تحميل البيانات والتصور ثلاثي الأبعاد في 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Author: Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>المؤلف: دكتورة سونيا بوجول</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>24/11/2024</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>24/11/2024</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Assistant Professor of Radiology Brigham and Women’s Hospital Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>أستاذ مساعد في علم الأشعة، مستشفى بريغهام للنساء، كلية الطب بجامعة هارفارد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Overall Goal</source>
         <extracomment>1_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الهدف الكلي</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>This tutorial is an introduction to the basics of loading and viewing DICOM images and 3D models in 3D Slicer.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تُعد هذه الدورة التعليمية مقدمة لأساسيات تحميل وعرض صور DICOM والنماذج ثلاثية الأبعاد في 3D Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
         <source>Learning Objectives</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الأهداف التعليمية</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
@@ -55,13 +55,19 @@
 
 • to load and visualize 3D models reconstructed from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> • بعد إكمال هذا الدرس، ستكون قادرًا على:
+
+• تحميل وعرض صور DICOM في 3D Slicer
+
+• تنفيذ التصيير الحجمي (Volume Rendering) لبيانات CT
+
+• تحميل وعرض نماذج ثلاثية الأبعاد مُعاد بناؤها من بيانات MRI</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>Tutorial materials</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>محتويات الدورة</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -69,7 +75,9 @@
 
 •  3D VisualizationDataSet.zip</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• 3D Slicer إصدار 5.10
+
+• ملف ‎3D VisualizationDataSet.zip‎ (حزمة بيانات التصور ثلاثي الأبعاد)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -78,7 +86,7 @@
         <extracomment>4_TextBox_0
 ----------
 33_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>بيانات الدورة</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -89,13 +97,18 @@
 
 Unzip the file 3DVisualizationDataset.zip on your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>يحتوي الملف ‎3DVisualizationDataset.zip‎ على مجلدين:
+
+‎dataset1_Thorax_Abdomen‎ (الصدر والبطن)
+‎dataset2_Head‎ (الرأس)
+
+قم بفك ضغط الملف ‎3DVisualizationDataset.zip‎ على جهازك للوصول إلى مجموعات البيانات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Disclaimer</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>إخلاء المسؤولية</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
