@@ -24,9 +24,7 @@
         <location filename="text_dict_default.json" line="14"/>
         <source>Assistant Professor of Radiology Brigham and Women’s Hospital Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="finished">Professeur adjoint en radiologie
-Brigham and Women’s Hospital
-Harvard Medical School</translation>
+        <translation>Professeur adjoint en radiologie Brigham and Women’s Hospital Harvard Medical School</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
@@ -119,11 +117,11 @@ Décompressez le fichier 3DVisualizationDataset.zip sur votre ordinateur pour ac
 • The software is not FDA approved or CE-Marked, and is for research use only.
 </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="finished">• 3D Slicer est un logiciel libre et open source, distribué sous une licence de type BSD.
+        <translation>• 3D Slicer est un logiciel libre et open source, distribué sous une licence de type BSD.
 
 
 • Le logiciel n’est pas approuvé par la FDA ni marqué CE, et est destiné uniquement à un usage de recherche.
-Plan du tutoriel</translation>
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
@@ -179,7 +177,8 @@ Plan du tutoriel</translation>
         <source>Select patient1 and click on Load 
 to load the dataset in Slicer</source>
         <extracomment>9_ArrowText_1</extracomment>
-        <translation type="finished">Sélectionnez patient1 et cliquez sur Chargez pour charger le jeu de données dans Slicer</translation>
+        <translation>Sélectionnez patient1 et cliquez sur Chargez 
+pour charger le jeu de données dans Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -414,7 +413,7 @@ change the transfer
 function and display the
 aorta</source>
         <extracomment>25_ArrowText_0</extracomment>
-        <translation type="finished">Utilisez le curseur **Shift** pour modifier la fonction de transfert et afficher l’aorte</translation>
+        <translation>Utilisez le curseur Shift pour modifier la fonction de transfert et afficher l’aorte</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="118"/>
