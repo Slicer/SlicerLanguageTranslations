@@ -1,0 +1,59 @@
+name: Auto translate TS
+
+on:
+  push:
+    paths:
+      - "**.ts"
+
+jobs:
+  translate:
+    if: github.actor != 'github-actions[bot]'
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run translation script
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+        run: python scripts/auto_translate_ts.py
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request with translations
+        if: steps.diff.outputs.no_changes == 'false'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: translation-bot-${{ github.run_id }}
+          base: ${{ github.ref_name }}
+          commit-message: "Automatic translations using DeepL"
+          title: "Automatic translation update"
+          body: |
+            Automatic translations generated through DeepL Free API.
+
+            Please review before merging.
+          labels: |
+            translations
+            automated
+          delete-branch: true
