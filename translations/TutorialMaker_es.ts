@@ -121,17 +121,17 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="65"/>
         <source>The Annotations file has been modified. Do you want to save it before closing the Annotator tool?</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo de Anotación ha sido modificado. ¿Desea guardarlo antes de cerrar la herramienta de Anotación?</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="108"/>
         <source>Slide Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de Diapositiva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="112"/>
         <source>Slide Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción de Diapositiva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="176"/>
@@ -226,17 +226,17 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1206"/>
         <source>Section Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de Sección</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1219"/>
         <source>Text Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de Texto</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1229"/>
         <source>Text Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuerpo del Texto</translation>
     </message>
 </context>
 <context>
@@ -303,22 +303,22 @@
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="91"/>
         <source>Capture Screenshots</source>
         <oldsource>Capture screenshots</oldsource>
-        <translation type="unfinished">Capturar pantalla</translation>
+        <translation>Capturar pantalla</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="100"/>
         <source>Edit Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Anotaciones</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="107"/>
         <source>Resume Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Resumir Anotaciones</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="119"/>
         <source>Generate Tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar Tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="129"/>
@@ -444,12 +444,12 @@ Seleccione un tutorial y haga clic en &quot;Capturar capturas de pantalla&quot;.
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="90"/>
         <source>Version Build Date: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de creación de versión: {}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="356"/>
         <source>Screenshot Capture in Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de Pantallazo en Progreso</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="386"/>
@@ -458,12 +458,16 @@ Seleccione un tutorial y haga clic en &quot;Capturar capturas de pantalla&quot;.
 Step {current} of {total}
 
 Please do not use the mouse or keyboard to interact with 3D Slicer until the screenshot capture is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturando pantallas del tutorial...
+
+Paso {current} de {total}
+
+Por favor, no utilice el ratón ni el teclado para interactuar con 3D Slicer hasta que finalice la captura de pantalla.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="413"/>
         <source>Screenshot Capture Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de Pantalla Completada</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="506"/>
@@ -493,22 +497,22 @@ Please do not use the mouse or keyboard to interact with 3D Slicer until the scr
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="829"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconocimientos</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="835"/>
         <source>Section Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de Sección</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="840"/>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="841"/>
         <source>Body text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto del cuerpo</translation>
     </message>
 </context>
 <context>
@@ -526,27 +530,27 @@ Please do not use the mouse or keyboard to interact with 3D Slicer until the scr
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="422"/>
         <source>Screenshot Capture Environment Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Entorno de Captura de Pantalla</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="430"/>
         <source>&lt;b&gt;⚠ Warning:&lt;/b&gt; The current scene data will be cleared before starting the screenshots capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;⚠ Aviso:&lt;/b&gt; Los datos de la escena actual serán vaciados antes de comenzar la captura de la pantalla.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="443"/>
         <source>Save current scene data</source>
-        <translation type="unfinished"></translation>
+        <translation>Guarda los datos de escena actuales</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="447"/>
         <source>Maximize 3D Slicer window for screen capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximizar ventana de Slicer 3D para capturar pantalla</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="451"/>
         <source>Close Python console and Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation>Cierra la consola de Python y la ventana de Error de Bitácora</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="453"/>
