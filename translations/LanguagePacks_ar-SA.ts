@@ -163,12 +163,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="318"/>
         <source>Find text</source>
-        <translation>ابحث عن نص</translation>
+        <translation>البحث عن نص</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Enable text finder:</source>
-        <translation>مكّن مكتشف النص:</translation>
+        <translation>تمكين أداة البحث عن النص:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="339"/>
