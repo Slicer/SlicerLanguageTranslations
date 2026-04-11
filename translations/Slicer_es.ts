@@ -374,7 +374,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation>Fracción de vóxeles de la imagen fija que se utilizaran para el registro. El numero tiene que ser mas grande que cero y menor o igual a uno. Valores de mayor tamaño incrementan el tiempo de calculo pero pueden dar resultados más precisos. También puede limitar el enfoque de muestras con mascaras ROI y la generación de mascaras ROIAUTO. El valor por defecto es 0&apos;002 (usa aproximadamente 0&apos;2% de los vóxeles, resultando en 100.000 muestras en un volumen de 512×512×192) para proveer un registro muy rápido en la mayoría de los casos. Rango de valores típicos de 0&apos;01 (1%) para imágenes de bajo detalle a 0&apos;2 (20%) para imágenes de alto detalle.</translation>
+        <translation>Fracción de vóxeles de la imagen fija que se utilizaran para el registro. El numero tiene que ser mas grande que cero y menor o igual a uno. Valores de mayor tamaño incrementan el tiempo de calculo pero pueden dar resultados más precisos. También puede limitar el enfoque de muestras con mascaras ROI y la generación de mascaras ROIAUTO. El valor por defecto es 0&apos;002 (usa aproximadamente 0&apos;2% de los vóxeles, resultando en 100.000 muestras en un volumen de 512×512×192) para proveer un registro muy rápido en la mayoría de los casos. Intervalo de valores típicos de 0&apos;01 (1%) para imágenes de bajo detalle a 0&apos;2 (20%) para imágenes de alto detalle.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
@@ -721,7 +721,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation>Si es verdadero, y los valores de los vóxeles no encajan dentro de los valores mínimo y máximo del outputVolumePixelType deseado, entonces los valores mínimos/máximos de los vóxeles de la imagen de salida se escalarán linealmente para ajustarse al rango mínimo/máximo del outputVolumePixelType.</translation>
+        <translation>Si es verdadero, y los valores de los vóxeles no encajan dentro de los valores mínimo y máximo del outputVolumePixelType deseado, entonces los valores mínimos/máximos de los vóxeles de la imagen de salida se escalarán linealmente para ajustarse al intervalo mínimo/máximo del outputVolumePixelType.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
@@ -2597,22 +2597,22 @@ Permite fundición al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>Centro de ventana (0028,1050). Especifica una conversión lineal de valores de píxeles almacenados (después de que se hayan aplicado la pendiente y la intersección de reescalado) a valores que se mostrarán. El centro de ventana contiene el valor de entrada que es el centro de la ventana. Si el centro de ventana o el ancho no están definidos, entonces la ventana se establece en el rango completo de intensidad de la imagen.</translation>
+        <translation>Centro de ventana (0028,1050). Especifica una conversión lineal de valores de píxeles almacenados (después que se hayan aplicado la pendiente y la intersección de reescalado) a valores que se exhibirán. El centro de ventana contiene el valor de entrada que es el centro de la ventana. Si el centro de ventana o el ancho no están definidos, entonces la ventana se establece en el intervalo completo de intensidad de la imagen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>Ancho de ventana (0028,1051). Especifica una conversión lineal de valores de píxeles almacenados (después de que se hayan aplicado la pendiente y la intersección de reescalado) a valores que se mostrarán. El ancho de ventana contiene la amplitud de la ventana. Si el centro de ventana o el ancho no están definidos, entonces la ventana se establece en el rango completo de intensidad de la imagen.</translation>
+        <translation>Ancho de ventana (0028,1051). Especifica una conversión lineal de valores de píxeles almacenados (después de que se hayan aplicado la pendiente y la intersección de reescalado) a valores que se exhibirán. El ancho de ventana contiene la amplitud de la ventana. Si el centro de ventana o el ancho no están definidos, entonces la ventana se establece en el intervalo completo de intensidad de la imagen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation>Intersección de reescalado (0028,1052). Convierte los valores de píxeles en disco a valores de píxeles en memoria. (Valor de píxel en memoria) = (Valor de píxel en disco) * pendiente de reescalado + intersección de reescalado. El valor predeterminado es 0.0. Los valores de datos se convierten durante la escritura (los datos se escalan y se desplazan para que la pendiente y la intersección los devuelvan al rango de intensidad actual).</translation>
+        <translation>Intersección de reescalado (0028,1052). Convierte los valores de píxeles en disco a valores de píxeles en memoria. (Valor de píxel en memoria) = (Valor de píxel en disco) * pendiente de reescalado + intersección de reescalado. El valor predeterminado es 0.0. Los valores de datos se convierten durante la escritura (los datos se escalan y se desplazan para que la pendiente y la intersección los devuelvan al intervalo de intensidad actual).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation>Pendiente de reescalado (0028,1053). Convierte los valores de píxeles en disco a valores de píxeles en memoria. (Valor de píxel en memoria) = (Valor de píxel en disco) * pendiente de reescalado + intersección de reescalado. El valor predeterminado es 1.0. Los valores de datos se convierten durante la escritura (los datos se escalan y se desplazan para que la pendiente y la intersección los devuelvan al rango de intensidad actual).</translation>
+        <translation>Pendiente de reescalado (0028,1053). Convierte los valores de píxeles en disco a valores de píxeles en memoria. (Valor de píxel en memoria) = (Valor de píxel en disco) * pendiente de reescalado + intersección de reescalado. El valor predeterminado es 1.0. Los valores de datos se convierten durante la escritura (los datos se escalan y se desplazan para que la pendiente y la intersección los devuelvan al intervalo de intensidad actual).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
@@ -7487,7 +7487,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Umbral de una imagen.&lt;/p&gt;&lt;p&gt;Establecer los valores de la imagen en un valor externo especificado por el usuario si están por debajo, por encima o entre valores de umbral simples.&lt;/p&gt;&lt;p&gt;UmbralArriba: Los valores mayores o iguales al valor del umbral se establecen en ValorExterior.&lt;/p&gt;&lt;p&gt;UmbralAbajo: Los valores menores o iguales al valor del umbral se establecen en ValorExterior.&lt;/p&gt;&lt;p&gt;UmbralFuera: Los valores fuera del rango Inferior-Superior se establecen en ValorExterior.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Umbral de una imagen.&lt;/p&gt;&lt;p&gt;Establecer los valores de la imagen en un valor externo especificado por el usuario si están por debajo, por encima o entre valores de umbral simples.&lt;/p&gt;&lt;p&gt;UmbralArriba: Los valores mayores o iguales al valor del umbral se establecen en ValorExterior.&lt;/p&gt;&lt;p&gt;UmbralAbajo: Los valores menores o iguales al valor del umbral se establecen en ValorExterior.&lt;/p&gt;&lt;p&gt;UmbralFuera: Los valores fuera del intervalo Inferior-Superior se establecen en ValorExterior.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
@@ -7582,7 +7582,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation>Establecer los vóxeles en este valor si se quedan fuera del rango umbral</translation>
+        <translation>Establecer los vóxeles en este valor si se quedan fuera del intervalo umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
@@ -7783,7 +7783,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="124"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
@@ -7796,18 +7796,18 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="52"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Conmutar a pantalla completa</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="62"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="137"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1113"/>
         <source>Show DICOM Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Base de Datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="159"/>
@@ -7827,7 +7827,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="200"/>
         <source>DICOM Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de Datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="395"/>
@@ -7882,51 +7882,51 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="597"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance. Detailed logging will be automatically disabled after 4 hours.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registra más detalles durante las operaciones DICOM. Esto resulta útil para investigar problemas de carga DICOM, pero puede afectar al rendimiento. El registro detallado se auto‐desactivará tras 4 horas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="617"/>
         <source>Thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de uña del pulgar:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="676"/>
         <source>Enabled until {time}</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitador hasta {time}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="677"/>
         <source>Disable</source>
-        <translation type="unfinished">Inhabilitar</translation>
+        <translation>Inhabilitar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="680"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhabilitado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="681"/>
         <source>Enable for 4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar por 4 horas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="903"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1048"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1091"/>
         <source>Hide DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar BB.DD: DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="905"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1049"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1095"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar BB.DD. DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel lateral</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
@@ -7941,7 +7941,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="612"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Oculto</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
@@ -8017,7 +8017,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1295"/>
         <source>running at port %s with TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>ejecutando como puerto %s con TLS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
@@ -8350,7 +8350,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="152"/>
         <source>Patch</source>
-        <translation type="unfinished"></translation>
+        <translation>Parche</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="153"/>
@@ -8360,7 +8360,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="159"/>
         <source>Import to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa a BB.BB. DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="160"/>
@@ -9306,7 +9306,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="30"/>
         <source>Line Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfil lineal</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="34"/>
@@ -9317,191 +9317,199 @@ Notes:
 2. Probed points within the image volume are linearly interpolated among adjacent voxel centers
 and then returned with the same data type as the probed image (e.g. rounded to integers if the image has integer data type).
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo calcula el perfil de intensidad de un volumen a lo largo de una línea o curva definida.
+Notas:
+1. A las líneas que se encuentran en el acotamiento de la imagen (fuera del centro de los vóxeles del acotamiento) se les puede asignar un valor de 0.
+2. Los puntos analizados dentro del volumen de la imagen se interpolan linealmente entre los centros de los vóxeles adyacentes y, a
+continuación, se devuelven con el mismo tipo de datos que la imagen analizada (por ejemplo, redondeados a enteros si la imagen tiene un tipo de datos entero).
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="42"/>
         <source>
 This file was originally developed by Andras Lasso (PerkLab) and was partially funded by CCO ACRU.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Andras Lasso (PerkLab) y fue financiado parcialmente por CCO ACRU.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="509"/>
         <source>{name} intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensidad de {name}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="510"/>
         <source>{name} intensity table</source>
-        <translation type="unfinished"></translation>
+        <translation>tabla de intansidad {name}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="14"/>
         <source>LineProfile</source>
-        <translation type="unfinished"></translation>
+        <translation>LíneaPerfil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="20"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="23"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parámetros</translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="29"/>
         <source>Input Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen entrante:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="36"/>
         <source>Pick the input to the algorithm which will be sampled along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recoja la entrada para el algoritmo que se muestreará a lo largo de la línea.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="72"/>
         <source>Input Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea entrante:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="79"/>
         <source>Line Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución lineal:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="86"/>
         <source>Number of points to sample along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de puntos para muestra a lo largo de la línea.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="114"/>
         <source>Pick line or curve to take image samples along.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomar línea o curva para tomar muestras de imagen a lo largo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="134"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avanzado</translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="140"/>
         <source>Plotting</source>
-        <translation type="unfinished">Grafo</translation>
+        <translation>Tramando</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="146"/>
         <source>Output Intensities Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida de tabla de intensidades:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="153"/>
         <source>Pick the table that will store the intensity and distance values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toma la tabla que almacenará la intensidad y los valores de distancia.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="176"/>
         <source>Create new table</source>
-        <translation type="unfinished">Crear nueva tabla</translation>
+        <translation>Crear tabla nueva</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="186"/>
         <source>Output Intensities Plot Series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida de series de trama de intensidades:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="193"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recoja la salida de las tramas de serie para el algoritmo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="216"/>
         <source>Create new plot</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear trama nueva</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="226"/>
         <source>Plot Proportional Distance (%):</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia proporcional de trama (%):</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="233"/>
         <source>If checked, then distance along the line in plot is not absolute, but the percent distance from the start of the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, la distancia a lo largo de la línea en la trama no es absoluta, sino el porcentaje de distancia desde el inicio de la línea.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="246"/>
         <source>Show plot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar trama:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="253"/>
         <source>If checked, then the intensity profile plot is automatically shown when the intensity profile is updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcado, entonces la intensidad del perfil de trama es mostrada automáticamente cuando la intensidad del perfil es actualizada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="269"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="275"/>
         <source>Peak Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Detección de Pico</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="281"/>
         <source>Peaks Output Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla saliente de picos:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="288"/>
         <source>Pick the output table that will store information about each detected peak.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toma la tabla saliente que almacenará información sobre cada pico detectado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="299"/>
         <source>Peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Picos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="321"/>
         <source>Minimum Peak Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anchura de pico mínimo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="328"/>
         <source>Minimum width of the peak. Use higher values to reject small peaks detected due to image noise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anchura mínima del pico. Utiliza valores más altos para rechazar picos pequeños detectados debido a ruido de imagen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="347"/>
         <source>Height for Width Measurement:</source>
-        <translation type="unfinished"></translation>
+        <translation>Altura para medida de anchura:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="354"/>
         <source>Height at which the peak width is measured. 50% computes full width at half maximum. Larger value means that the height is measured near the top of the peak.</source>
-        <translation type="unfinished"></translation>
+        <translation>Altura en la cual el la anchura de pico es medida. 50% calcula anchura completa en media máxima. Valor más largo que la anchura es medida cerca de la cima del pico.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="357"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="379"/>
         <source>Peak is Maximum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pico es máximo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="386"/>
         <source>If checked then peaks are local maximum values. If unchecked then peaks are local minimum values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si marcado entonces los picos son valores máximos locales. Si no está marcado entonces los picos son valores mínimos locales.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="405"/>
         <source>Compute intensity profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcula intensidad de perfil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="414"/>
         <source>autoUpdate</source>
-        <translation type="unfinished"></translation>
+        <translation>autoActualizar</translation>
     </message>
 </context>
 <context>
@@ -9519,7 +9527,7 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.cxx" line="41"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar/Restaurar</translation>
     </message>
 </context>
 <context>
@@ -9582,12 +9590,12 @@ el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterá
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="291"/>
         <source>Download URLs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar las URL:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="294"/>
         <source>Enter one or more URLs (one per line) to download and load the corresponding data sets. Press Ctrl+Enter or click &apos;Load&apos; button to start loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca una o más URL (una por línea) para descargar y cargar los conjuntos de datos correspondientes. Pulse Ctrl+Intro o pulse el botón &apos;Cargar&apos; para iniciar la carga.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="303"/>
@@ -9612,12 +9620,12 @@ el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterá
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="355"/>
         <source>All {totalCount} data sets were loaded successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los datos de {totalCount} fueron cargados correctamente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="357"/>
         <source>Failed to load {errorCount} out of {totalCount} data sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallado al cargar {errorCount} fuera de los conjuntos de datos {totalCount}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="619"/>
@@ -10649,7 +10657,21 @@ El efecto utiliza &lt;a href=&quot;https://insight-journal.org/browse/publicatio
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación en expansión para crear una segmentación completa.
+                Se tienen en cuenta la ubicación, el tamaño y la forma de los segmentos iniciales, así como el contenido del volumen de origen.
+                Los límites de los segmentos finales se colocarán donde el brillo del volumen de origen cambie bruscamente. Instrucciones:
+                &lt;ul style=&quot;margin: 0&quot;&gt;
+                &lt;li&gt;Utilice Paint u otros efectos para dibujar semillas en cada región que deba pertenecer a un segmento diferente.
+                Dibuje cada semilla con un segmento distinto. Se requieren al menos dos segmentos.
+                &lt;li&gt;Pulse en &lt;dfn&gt;Inicializar&lt;/dfn&gt; para obtener una vista previa de la segmentación completa.
+                &lt;li&gt;Explore las secciones de la imagen. Si el resultado de la vista previa de la segmentación no es correcto, cambie a
+                Pintar u otros efectos y añada más semillas en la región mal clasificada. La segmentación completa se
+                actualizará automáticamente en unos segundos.
+                &lt;li&gt;Pulse en &lt;dfn&gt;Aplicar&lt;/dfn&gt; para actualizar la segmentación con el resultado de la vista previa.
+                &lt;/ul&gt;&lt;p&gt;
+                Si los segmentos se superponen, el segmento que aparezca más arriba en la tabla de segmentos tendrá prioridad.
+                El efecto utiliza el método de crecimiento y corte rápido &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;.&lt;/a&gt;
+                &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
@@ -11381,16 +11403,16 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation>Rellenar segmento en función del rango de intensidad del volumen de la fuente&lt;br&gt;. Opciones:&lt;p&gt;
+        <translation>Rellenar segmento en función del intervalo de intensidad del volumen de la fuente&lt;br&gt;. Opciones:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
-&lt;li&gt;&lt;b&gt;Utilizar para enmascarar:&lt;/b&gt; establezca el rango de intensidad seleccionado como &lt;dfn&gt;Rango de intensidad editable&lt;/dfn&gt; y cambie al efecto Pintar.
+&lt;li&gt;&lt;b&gt;Utilizar para enmascarar:&lt;/b&gt; establezca el intervalo de intensidad seleccionado como &lt;dfn&gt;Intervalo de intensidad editable&lt;/dfn&gt; y cambie al efecto Pintar.
 &lt;li&gt;&lt;b&gt;Aplicar:&lt;/b&gt; establezca la segmentación previsualizada en el segmento seleccionado. Se sobrescribe el contenido anterior del segmento.
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="157"/>
         <source>Threshold Range:</source>
-        <translation>Rango de umbral:</translation>
+        <translation>Intervalo de umbral:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="158"/>
@@ -11420,7 +11442,7 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="171"/>
         <source>How to set lower and upper values of the threshold range. Threshold above/below: sets the range from the computed value to maximum/minimum. Set as lower/upper value: only modifies one side of the threshold range.</source>
-        <translation>Cómo establecer los valores inferior y superior del rango del umbral. Umbral superior/inferior: establece el rango desde el valor calculado hasta el máximo/mínimo. Establecer como valor inferior/superior: sólo modifica un lado del rango del umbral.</translation>
+        <translation>Cómo establecer los valores inferior y superior del intervalo del umbral. Umbral superior/inferior: establece el intervalo desde el valor calculado hasta el máximo/mínimo. Establecer como valor inferior/superior: sólo modifica un lado del intervalo del umbral.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="176"/>
@@ -11578,7 +11600,7 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="389"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation>Utilice el rango de intensidad especificado para el enmascaramiento y cambie al efecto Pintura.</translation>
+        <translation>Utilice el intervalo de intensidad especificado para el enmascaramiento y cambie al efecto Pintura.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="392"/>
@@ -11588,7 +11610,7 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="394"/>
         <source>Fill selected segment in regions that are in the specified intensity range.</source>
-        <translation>Rellena el segmento seleccionado en las regiones que se encuentran en el rango de intensidad especificado.</translation>
+        <translation>Rellena el segmento seleccionado en las regiones que se encuentran en el intervalo de intensidad especificado.</translation>
     </message>
 </context>
 <context>
@@ -12461,33 +12483,33 @@ Ontario (CCO) y el Ontario Consortium for Adaptive Interventions in Radiation On
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="40"/>
         <source> Import DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation> Importar archivos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="57"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="60"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="80"/>
         <source>If enabled, the DICOM browser widget will be substituted with the visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está habilitado, el widget del navegador DICOM se sustituirá por el navegador visual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="83"/>
         <source>Visual browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorador visual</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="103"/>
         <source>Show the dicom database in vertical mode allowing to use the Slicer views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra la base de datos dicom en modo vertical, lo que permite utilizar las vistas de Ranura.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="106"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel lateral</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="151"/>
@@ -12582,12 +12604,12 @@ Ontario (CCO) y el Ontario Consortium for Adaptive Interventions in Radiation On
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="325"/>
         <source>Refresh the visual DICOM browser to show the current state of the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualice el navegador DICOM visual para mostrar el estado actual de la base de datos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="328"/>
         <source>Refresh browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Refrescar explorador</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="338"/>
@@ -13806,88 +13828,88 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="550"/>
         <source>Direction Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicadores de Dirección</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="568"/>
         <source>Show Direction Markers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar marcadores de dirección:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="571"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="578"/>
         <source>Show or hide directional arrow markers along curve and line markups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar u ocultar marcadores de flecha direccional a lo largo de marcadores de curva y línea.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="588"/>
         <source>3D Visibility:</source>
-        <translation type="unfinished">Visibilidad 3D:</translation>
+        <translation>Visibilidad 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="591"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="598"/>
         <source>Show direction markers in 3D views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar marcadores de dirección en vista 3D. Requiere «Mostrar Marcadores de Dirección» para ser habilitado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="608"/>
         <source>2D Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad 2D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="611"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="618"/>
         <source>Show direction markers in 2D slice views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra marcadores de dirección en vistas de ranuras 2D. Requiere «Mostrar Marcador de Dirección» para ser habilitado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="628"/>
         <source>Slice Intersection Points:</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de intersección de corte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="631"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="638"/>
         <source>Show markers at positions where the curve/line crosses the current slice plane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra marcadores en posiciones donde la curva/línea cruza el actual plano de corte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="648"/>
         <source>Reverse Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Revertir dirección:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="651"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="658"/>
         <source>Reverse the direction of the arrow markers so they point in the opposite direction along the curve or line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Revierte la dirección de los marcadores de flecha tal que apunten en la dirección opuesta a lo largo de la curva o línea.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="668"/>
         <source>Marker Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam. marcador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="671"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="678"/>
         <source>Size of each direction marker relative to the physical line thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de cada marcador de dirección relativo al grosor de línea física.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="703"/>
         <source>Marker Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado de marcador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="706"/>
         <source>Distance between direction markers relative to the marker height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia entre marcadores de dirección relativos a la altura del marcador.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="713"/>
         <source>Distance between consecutive direction markers relative to the marker height. 100% = markers touch, 200% = one gap, 300% = two gaps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia entre marcadores de dirección consecutiva relativa a la anchura del marcador. 100% = toque de marcadores, 200% = un hueco, 300% = dos huecos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="744"/>
@@ -14124,12 +14146,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="267"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Volteo normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="270"/>
         <source>Reverse direction of the plane normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Revierte dirección del plano normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="102"/>
@@ -14168,17 +14190,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="77"/>
         <source>L-R Range:</source>
-        <translation>Rango I-D:</translation>
+        <translation>Intervalo I-D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="720"/>
         <source>P-A Range:</source>
-        <translation>Rango P-A:</translation>
+        <translation>Intervalo P-A:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1996"/>
         <source>I-S Range:</source>
-        <translation>Rango I-S:</translation>
+        <translation>Intervalo I-S:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2038"/>
@@ -14285,7 +14307,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
         <source>All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</source>
-        <translation>Todo: recomendado para abrir superficie. Frontal: recomendado para análisis más rápido de superficies opacas cerradas. Atrás: Útil para análisis de trazas de superficies de superficies abiertas con color diferente..</translation>
+        <translation>Todo: recomendado para abrir superficie. Frontal: recomendado para análisis más rápido de superficies opacas cerradas. Atrás: Útil para análisis de tramas de superficies de superficies abiertas con color diferente.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
@@ -14704,7 +14726,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
-        <translation>Propiedades de Cartas de Ploteado</translation>
+        <translation>Propiedades de Diagrama de Trama</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
@@ -14714,17 +14736,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation>Añadir/Quitar series de datos de tramas para/desde el mapa actual.</translation>
+        <translation>Añadir/Quitar series de datos de tramas para/desde el diagrama actual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
         <source>Chart title:</source>
-        <translation>Título de mapa:</translation>
+        <translation>Título de diagrama:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="79"/>
         <source>Enter a title for the chart.</source>
-        <translation>Introduzca un título para el mapa.</translation>
+        <translation>Introduzca un título para el diagrama.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="95"/>
@@ -14734,7 +14756,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
         <source>Enter a label for the X-axis.</source>
-        <translation>Introduzca una etiqueta para el eje-X.</translation>
+        <translation>Introduzca una etiqueta para el eje‐X.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="112"/>
@@ -14774,7 +14796,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="253"/>
         <source>Times</source>
-        <translation>Veces</translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="258"/>
@@ -14789,7 +14811,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="273"/>
         <source>Chart title font size:</source>
-        <translation>Tamaño de fuente del título del gráfico:</translation>
+        <translation>Tamaño de fuente del título del diagrama:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="287"/>
@@ -14839,7 +14861,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
-        <translation>Propiedades de la serie Plot</translation>
+        <translation>Propiedades de Serie de Trama</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
@@ -14849,7 +14871,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
         <source>Plot Type:</source>
-        <translation>Tipo de grafo:</translation>
+        <translation>Tipo de trama:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="86"/>
@@ -14884,7 +14906,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
         <source>This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</source>
-        <translation>Esta columna contiene una etiqueta para cada punto de datos. La etiqueta se muestra en la información sobre herramientas al pasar el ratón sobre un punto de datos en la vista del gráfico.</translation>
+        <translation>Esta columna contiene una etiqueta para cada punto de datos. La etiqueta se muestra en la información sobre herramientas al pasar el ratón sobre un punto de datos dentro de la vista de trama.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
@@ -14986,12 +15008,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="14"/>
         <source>Plot View Controller</source>
-        <translation>Controlador de Vista del Tramado</translation>
+        <translation>Controlador de Vista de la Trama</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
         <source>Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</source>
-        <translation>Seleccione PlotChartNode que maneja las propiedades generales del tramado y permite seleccionar múltiples PlotSeriesNodes.</translation>
+        <translation>Seleccione PlotChartNode que maneja las propiedades generales de la Trama y permite seleccionar múltiples PlotSeriesNodes.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
@@ -15011,12 +15033,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
         <source>Plot chart:</source>
-        <translation>Diagrama de traza:</translation>
+        <translation>Diagrama de trama:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
         <source>Plot data series:</source>
-        <translation>Series de datos de trama:</translation>
+        <translation>Series de datos de tramado:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
@@ -15196,7 +15218,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
         <source>Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</source>
-        <translation>Establezca el indicador de modo de rango escalar. La opción Datos (automática) actualiza el rango escalar de visualización a partir del rango escalar de los datos. La opción de asignación directa de color omite la tabla de búsqueda y utiliza valores escalares como color RGB.</translation>
+        <translation>Establezca el indicador de modo de intervalo escalar. La opción Datos (automática) actualiza el intervalo escalar de visualización a partir del intervalo escalar de los datos. La opción de asignación directa de color omite la tabla de búsqueda y utiliza valores escalares como color RGB.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="80"/>
@@ -15849,7 +15871,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="314"/>
         <source>3D Display</source>
-        <translation type="unfinished">Pantalla 3D</translation>
+        <translation>Pantalla 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="554"/>
@@ -17631,12 +17653,12 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="484"/>
         <source>Type of column %1 is &apos;bit&apos;. Plotting of these types are currently not supported. Please convert the data type of this column to numeric using Table module&apos;s Column properties section, or select different columns for plotting.</source>
-        <translation>El tipo de columna %1 es &apos;bit&apos;. El trazado de estos tipos actualmente no están admitidos. Convierta el tipo de datos de esta columna a numérico utilizando la sección propiedades de Tabla, o seleccione columnas diferentes para el trazado.</translation>
+        <translation>El tipo de columna %1 es &apos;bit&apos;. La trama de estos tipos actualmente no están admitidos. Convierta el tipo de datos de esta columna a numérico utilizando la sección propiedades de Tabla, o seleccione columnas diferentes para tramado.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="501"/>
         <source>Multiple &apos;string&apos; type of columns are selected for plotting (%1, %2) but only one is allowed. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation>Se han seleccionado múltiples columnas de tipo &apos;string&apos; para traza (%1, %2) pero se concede solo una. Cambie la selección o convierta el tipo de datos de esta columna a numérico utilizando la sección ‘Propiedades de columna’ del módulo Tabla.</translation>
+        <translation>Se han seleccionado múltiples columnas de tipo &apos;string&apos; para trama (%1, %2) pero se concede solo una. Cambie la selección o convierta el tipo de datos de esta columna a numérico utilizando la sección ‘Propiedades de columna’ del módulo Tabla.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="517"/>
@@ -17646,7 +17668,7 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="520"/>
         <source>Failed to plot data</source>
-        <translation>Incorrecto al trazar datos</translation>
+        <translation>Incorrecto al tramar datos</translation>
     </message>
 </context>
 <context>
@@ -17689,7 +17711,7 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="97"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation>Genera una Traza Interactiva basada en selección-usuario de las columnas de la tabla.</translation>
+        <translation>Genera una Trama Interactiva basada en selección-usuario de las columnas de la tabla.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="173"/>
@@ -18546,22 +18568,22 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="339"/>
         <source>2D line width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anchura de línea 2D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="446"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Porcentaje de desplazamiento utilizado para ajustar el tamaño de glifo. 100% significa que el tamaño de glifo es el desplazamiento actual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="569"/>
         <source>2D glyph settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes de glifo 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="963"/>
@@ -18604,17 +18626,17 @@ Si elije “Sí” a todo&quot;, esta pregunta no volverá a aparecer y todos lo
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1260"/>
         <source>Enable scaling by manipulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita escalada manipulando widget 3D (pulsar a izquierda y soltar el manipulador en el centro del rostro del widget)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1369"/>
         <source>Enable translating by manipulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita traslado manipulando widget 3D (pulsación izquierda y soltar en cualquier lado en el rostro del widget)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1423"/>
         <source>Enable scaling by manipulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita escalado manipulando widget 3D (Mayús + pulsación izquierda y soltar el manipulador en el centro del rostro del widget, o pulsación izquierda y arrastrar al manipulador central)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1488"/>
@@ -19100,7 +19122,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="51"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca de %1…</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="66"/>
@@ -19467,7 +19489,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="140"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca de %1…</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
@@ -20044,7 +20066,7 @@ Capacidades gráficas de este equipo:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="159"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation>El &lt;b&gt;Módulo Colores&lt;/b&gt; administra tablas de búsqueda de colores, almacenadas en nodos de color.&lt;br&gt;Estas tablas se traducen entre un valor numérico y un color para mostrar varios tipos de datos, como volúmenes y modelos.&lt;br&gt;Hay dos tipos de tablas de búsqueda disponibles:&lt;br&gt;&lt;ul&gt;&lt;li &gt; Tabla discreta: Se especifica la lista de colores con nombre (ejemplo: GenericAnatomyColors). Las tablas discretas también se pueden usar para mapeo continuo, en este caso los colores se usan como muestras a la misma distancia dentro del rango especificado, y se interpolan suavemente entre ellos (ejemplo: Gris).&lt;/li&gt; &lt;li&gt;Escala continua: El color se especifica para valores numéricos elegidos arbitrariamente y el valor del color se puede calcular interpolando suavemente entre estos valores (ejemplo: PET-DICOM). No se especifican nombres para los colores.&lt;/li&gt;Todas las tablas de colores integradas son de solo lectura. Para editar colores, cree una copia de la tabla de colores haciendo clic en el icono de la carpeta &apos;copiar&apos;.&lt;br&gt;</translation>
+        <translation>El &lt;b&gt;Módulo Colores&lt;/b&gt; administra tablas de búsqueda de colores, almacenadas en nodos de color.&lt;br&gt;Estas tablas se traducen entre un valor numérico y un color para exhibir varios tipos de datos, como volúmenes y modelos.&lt;br&gt;Hay dos tipos de tablas de búsqueda disponibles:&lt;br&gt;&lt;ul&gt;&lt;li &gt; Tabla discreta: Se especifica la lista de colores con nombre (ejemplo: GenericAnatomyColors). Las tablas discretas también se pueden usar para relación continua, en este caso los colores se usan como muestras a la misma distancia dentro del intervalo especificado, y se interpolan suavemente entre ellos (ejemplo: Gris).&lt;/li&gt; &lt;li&gt;Escala continua: El color se especifica para valores numéricos elegidos arbitrariamente y el valor del color se puede calcular interpolando suavemente entre estos valores (ejemplo: PET-DICOM). No se especifican nombres para los colores.&lt;/li&gt;Todas las tablas de colores integradas son de solo lectura. Para editar colores, cree una copia de la tabla de colores pulsando sobre el icono de la carpeta &apos;copiar&apos;.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="180"/>
@@ -20342,17 +20364,17 @@ Capacidades gráficas de este equipo:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="283"/>
         <source>Reorient volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Re‐orientar volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="309"/>
         <source>Initialize</source>
-        <translation type="unfinished">Inicializar</translation>
+        <translation>Inicializar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="328"/>
@@ -20393,32 +20415,32 @@ Capacidades gráficas de este equipo:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="756"/>
         <source>Align to volume axes + Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear al eje del volumen + Redimensionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="759"/>
         <source>Set axes of the ROI box to match the volume axes</source>
-        <translation type="unfinished"></translation>
+        <translation>Establece eje de la caja ROI para coincidir el eje del volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="767"/>
         <source>Align to world axes + Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear al eje mundial + Redimensionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="770"/>
         <source>Set axes of the ROI box to match the world coordinate system axes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajusta los ejes del cuadro de ROI para que coincidan con los ejes del sistema de coordenadas global</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="778"/>
         <source>Resize only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo re‐dimensionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="781"/>
         <source>Do not change ROI box orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>No cambie la orientación del cuadro ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="458"/>
@@ -20552,7 +20574,7 @@ Capacidades gráficas de este equipo:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="246"/>
         <source>ROI fit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de ajuste de ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
@@ -24184,7 +24206,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="174"/>
         <source>Previous module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo anterior</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="176"/>
@@ -24194,12 +24216,12 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="177"/>
         <source>Switch to previously used module</source>
-        <translation type="unfinished"></translation>
+        <translation>Conmutar al módulo utilizado anteriormente</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="197"/>
         <source>Switch to next used module</source>
-        <translation type="unfinished"></translation>
+        <translation>Conmutar al siguiente módulo utilizado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="185"/>
@@ -24209,7 +24231,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="194"/>
         <source>Next module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo siguiente</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="196"/>
@@ -24378,7 +24400,7 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="70"/>
         <source>The Plots module allows editing properties of plots.</source>
-        <translation>El módulo de Trama concede editar las propiedades de las tramas.</translation>
+        <translation>El módulo de Tramas concede editar las propiedades de las tramas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="78"/>
@@ -24957,23 +24979,24 @@ Nombres de columnas de la tabla: etiqueta, r, a, s (o l, p, s), definido, selecc
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="95"/>
         <source>Save display settings</source>
         <oldsource>Capture display nodes</oldsource>
-        <translation type="unfinished">Capturar nodos de pantalla</translation>
+        <translation>Guardar ajustes de pantalla</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
         <source>When enabled, the Scene View will store which objects are visible as well as color and transparency, and restore them when the Scene View is loaded.
 This option does not affect saving of view layout and window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando está activada, la Vista de escena guarda los objetos visibles, así como su color y transparencia, y los restaura al cargar la Vista de escena.
+Esta opción no afecta al guardado del diseño de la vista ni a la disposición de las ventanas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="104"/>
         <source>Save view layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar diseño de vista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="106"/>
         <source>When enabled, the Scene View will store the arrangement of views on the screen (for example, which slice and 3D views are shown, how they are arranged, and their slice positions and 3D view orientations), and will restore this arrangement when the Scene View is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando está habilitada, la Vista de escena almacenará la disposición de las vistas en la pantalla (por ejemplo, qué vistas de corte y 3D se muestran, cómo están dispuestas y sus posiciones de corte y orientaciones de vista 3D), y restaurará esta disposición cuando se cargue la Vista de escena.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="113"/>
@@ -26093,7 +26116,7 @@ Nota: Esto se aplica a las tablas de segmentos en el Editor de segmentos y los m
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="227"/>
         <source>Plotting</source>
-        <translation>Grafo</translation>
+        <translation>Tramando</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="242"/>
@@ -27552,7 +27575,8 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="132"/>
         <source>Click to cycle through position states:
 Defined -&gt; Undefined (by clearing position) -&gt; Preview (by entering into place mode) -&gt; Missing (by marking as skip from placement) -&gt; Defined (by restoring last position)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse para alternar entre los estados de posición:
+Definida → Indefinida (borrando la posición) → Vista previa (entrando en el modo de colocación) → Ausente (marcando como omitida en la colocación) → Definida (restaurando la última posición)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="487"/>
@@ -27853,18 +27877,18 @@ Clic en Cancelar para crear la jerarquía de pacientes/estudios manualmente y ar
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="258"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltear normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="450"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="456"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>No válido</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="470"/>
         <source> (Number of control points: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Número de puntos de control: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="592"/>
@@ -28689,7 +28713,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="231"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation>Habilitar la Reconstrucción de Cortes Gruesos (TSR). TSR se utiliza para fusionar cortes contiguos dentro de un rango determinado.</translation>
+        <translation>Habilitar la Reconstrucción de Cortes Gruesos (TSR). TSR se utiliza para fusionar cortes contiguos dentro de un intervalo determinado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="238"/>
@@ -28741,17 +28765,17 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="102"/>
         <source>Volume rendering settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes de renderizado de volumen…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="106"/>
         <source>Volume rendering settings follow slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes de renderizado de volumen sigue vistas de corte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="108"/>
         <source>Make volume rendering use the same window/level and color map settings as slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer que la representación volumétrica utilice la misma relaciones de ventana/nivel y mapa de color que las vistas de corte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="103"/>
@@ -28804,7 +28828,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="199"/>
         <source>Display the full intensity range of the volume.</source>
-        <translation>Muestra el rango de intensidad completo del volumen.</translation>
+        <translation>Muestra el intervalo de intensidad completo del volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="365"/>
@@ -29117,7 +29141,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="174"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</source>
-        <translation>Generar un gráfico interactivo basado en la selección por parte del usuario de las columnas de la tabla. La Primera Columna (de izquierda a derecha) se usará como Eje X y cada Columna adicional se trazará en el mismo Gráfico que el Eje Y.</translation>
+        <translation>Generar una trama interactiva basada en la selección por parte del usuario de las columnas de la tabla. La Primera Columna (de izquierda a derecha) se usará como Eje X y cada Columna adicional se tramará en el mismo Diagrama que el Eje-Y.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="204"/>
@@ -29752,7 +29776,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="36"/>
         <source>Plot View Controllers</source>
-        <translation>Controladores de la vista de dibujo</translation>
+        <translation>Controladores de la Vista de Trama</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="47"/>
@@ -29762,7 +29786,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-        <translation>Seleccione una vista desde la escena actual. Cada elemento corresponde a un widget específico. Los nodos de vista están conectados con widgets de representación en 3D. PlotView con widgets de Vista de Trazado. Sectores (Rojo, Verde, Amarillo) con widgets de representación en 2D.</translation>
+        <translation>Seleccione una vista desde la escena actual. Cada elemento corresponde a un widget específico. Los nodos de vista están conectados con widgets de representación en 3D. PlotView con widgets de Vista de Trama. Sectores (Rojo, Verde, Amarillo) con widgets de representación en 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
@@ -30182,7 +30206,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="653"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
-        <translation>No usar valores umbral. Establecer la rampa de opacidad desde el rango de ventana/Nivel en su lugar.</translation>
+        <translation>No usar valores umbral. Establecer la rampa de opacidad desde el intervalo de ventana/Nivel en su lugar.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="656"/>
@@ -31544,7 +31568,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotChartNode.cxx" line="50"/>
         <source>Plot Chart</source>
-        <translation>Gráfico de Trama</translation>
+        <translation>Diagrama de Trama</translation>
     </message>
 </context>
 <context>
@@ -31706,7 +31730,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="254"/>
         <source>MRML Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Secuencia MRML</translation>
     </message>
 </context>
 <context>
@@ -31893,7 +31917,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
         <location filename="Libs/MRML/Core/vtkMRMLTransformSequenceStorageNode.cxx" line="629"/>
         <source>Grid Transform Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Secuencia de Transformación de Cuadrícula</translation>
     </message>
 </context>
 <context>
@@ -32127,7 +32151,7 @@ Esto solo lo deben usarusuarios avanzados que comprendan las consecuencias de ca
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="59"/>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.h" line="61"/>
         <source>Volume Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de Secuencias de Volumen</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="527"/>
