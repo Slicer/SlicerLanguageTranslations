@@ -663,7 +663,7 @@ degut a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="497"/>
         <source>Query and Retrieve DICOM studies from a DICOM node</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta i recupera estudis DICOM d&apos;un node DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="505"/>
@@ -673,7 +673,7 @@ degut a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="508"/>
         <source>Send DICOM Studies to a DICOM node (not yet available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Envia estudis DICOM a un node DICOM (encara no disponible)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="516"/>
@@ -934,7 +934,11 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Els fitxers de les següents sèries no estan disponibles al disc:
+Nom del pacient: %1 
+Descripció de l&apos;estudi: %2 
+Descripció de la sèrie: %3 
+Voleu eliminar les sèries de la base de dades DICOM?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1053"/>
@@ -1075,7 +1079,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha trobat el fitxer font d&apos;exportació:
+
+%1
+
+S&apos;està aturant l&apos;exportació.
+
+L&apos;error es pot solucionar mitjançant Reparació.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1451"/>
@@ -1085,7 +1095,11 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El fitxer de destinació d&apos;exportació ja existeix:
+
+%1
+
+S&apos;està aturant l&apos;exportació.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1466"/>
