@@ -1113,18 +1113,26 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de copiar
+
+%1
+
+a
+
+%2
+
+Aturant l'exportació.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1495"/>
         <source>Updating database displayed fields...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzant els camps de la base de dades que es mostren...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1769"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Importació completada: s'han afegit %1 pacients, %2 estudis, %3 sèries, %4 instàncies.</translation>
     </message>
 </context>
 <context>
@@ -1143,7 +1151,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="39"/>
         <source>Remove Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix directori</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
@@ -1153,7 +1161,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMDirectoryListWidget.cpp" line="77"/>
         <source>Open Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori obert</translation>
     </message>
 </context>
 <context>
@@ -1161,17 +1169,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="25"/>
         <source>Unnamed RT Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Pla RT sense nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="26"/>
         <source>Unnamed RT Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunt d'estructures RT sense nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="27"/>
         <source>Unnamed RT Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge RT sense nom</translation>
     </message>
 </context>
 <context>
@@ -1179,17 +1187,17 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="64"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>Trieu l'aplicació allotjada</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="128"/>
         <source>Series selected: </source>
-        <translation type="unfinished"></translation>
+        <translation>Sèries seleccionades: </translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="138"/>
         <source>no series selected</source>
-        <translation type="unfinished"></translation>
+        <translation>No s'ha seleccionat cap sèrie</translation>
     </message>
 </context>
 <context>
@@ -1197,12 +1205,12 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="14"/>
         <source>DICOM Hosts</source>
-        <translation type="unfinished"></translation>
+        <translation>Amfitrions DICOM</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="56"/>
         <source>Show extended controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra els controls avançats</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="83"/>
@@ -1212,12 +1220,12 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="93"/>
         <source>Send Data to Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>Envia dades a l'aplicació allotjada</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="100"/>
         <source>nothing selected</source>
-        <translation type="unfinished"></translation>
+        <translation>res seleccionat</translation>
     </message>
 </context>
 <context>
@@ -1225,7 +1233,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="14"/>
         <source>Import DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="29"/>
@@ -1240,23 +1248,23 @@ Halting export.</source>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="223"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="250"/>
         <source>Parsing DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation>Anàlisi de fitxers DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="132"/>
         <source>Updating database displayed fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar els camps de la base de dades que es mostren</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="153"/>
         <source>Indexing complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Índex completat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="221"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="248"/>
         <source>Updating database fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar camps de la base de dades</translation>
     </message>
 </context>
 <context>
@@ -1264,42 +1272,42 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="871"/>
         <source>Head First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap endavant - Decúbit prònom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="872"/>
         <source>Head First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap endavant - Decúbit dret</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="873"/>
         <source>Feet First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Peus primer - decúbit dret</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="874"/>
         <source>Feet First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>Peus primer - Decúbit prònom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="875"/>
         <source>Head First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap endavant - Supin</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="876"/>
         <source>Head First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap per davant - Decúbit esquerre</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="877"/>
         <source>Feet First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Peus primer - decúbit esquerre</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="878"/>
         <source>Feet First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Peus primer - Supina</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
@@ -1324,7 +1332,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecografia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
@@ -1364,12 +1372,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatgeria radiogràfica (pel·lícula/pantalla convencional)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>Single-photon emission computed tomograpy (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia computada d'emissió de fotó únic (SPECT)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
@@ -1384,12 +1392,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fluoroscòpia de radiografia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge de radioteràpia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
@@ -1399,7 +1407,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunt d'estructures de radioteràpia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
@@ -1409,12 +1417,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre de tractament RT</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Còpia impresa</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
@@ -1434,27 +1442,27 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografia panoràmica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscòpia general</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscòpia de diapositives</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografia amb càmera externa</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="929"/>
         <source>Presentation state</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat de presentació</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="930"/>
@@ -1474,52 +1482,52 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="933"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma d'ona hemodinàmica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="934"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document SR</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="935"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrasonografia intravascular</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="936"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografia oftalmològica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="937"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>Relació estereomètrica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="938"/>
         <source>Optical Coherence Tomography (non-Ophthalmic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia de coherència òptica (no oftàlmica)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Refracció oftàlmica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Camp visual oftalmològic</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapeig oftàlmic</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecció d'objecte clau</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="943"/>
@@ -1534,7 +1542,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="945"/>
         <source>Ophthalmic Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia oftàlmica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="946"/>
@@ -1554,7 +1562,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="951"/>
         <source>Digital Subtraction Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografia per subtracció digital</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="952"/>
@@ -1564,12 +1572,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="953"/>
         <source>Digital fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fluoroscòpia digital</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="954"/>
         <source>Videofluorography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fluoroscòpia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="955"/>
@@ -1584,7 +1592,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="957"/>
         <source>Echocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecocardiografia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="958"/>
@@ -1594,7 +1602,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="959"/>
         <source>Fluorescein angiography </source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografia de fluoresceïna </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="960"/>
@@ -1604,28 +1612,28 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="961"/>
         <source>Digital microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscòpia digital</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="962"/>
         <source>Fundoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundoscòpia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="963"/>
         <source>Magnetic resonance angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografia de ressonància magnètica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="964"/>
         <source>Magnetic resonance spectroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Espectroscòpia de ressonància magnètica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="995"/>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="1016"/>
         <source>Unknown (no DICOM dictionary loaded)</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconegut (no s'ha carregat cap diccionari DICOM)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="999"/>
@@ -1686,117 +1694,117 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="111"/>
         <source>Stop all the in-progress jobs and clear all entries in the table</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura totes les tasques en curs i neteja totes les entrades de la taula.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="114"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Esborra tot</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="125"/>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtres</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="146"/>
         <source>Column used for filtering the entries with the RegEx filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Columna utilitzada per filtrar les entrades amb el filtre RegEx</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="153"/>
         <source>Reset all filters to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Restabliu tots els filtres als valors per defecte</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="156"/>
         <source>Reset filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablir els filtres</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="167"/>
         <source>Show completed jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra les feines completades</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="170"/>
         <source>Show completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra completada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="196"/>
         <source>RegEx filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre d'expressió regular</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="203"/>
         <source>Clear the completed jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>Esborrar les feines completades</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="206"/>
         <source>Clear completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Completat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="157"/>
         <source>Query patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Interrogatori dels pacients</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="159"/>
         <source>Query studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudis de consulta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="161"/>
         <source>Query series</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie de consultes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="163"/>
         <source>Query instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Instances de consulta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="174"/>
         <source>Retrieve patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar pacients</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="176"/>
         <source>Retrieve studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar estudis</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="178"/>
         <source>Retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="180"/>
         <source>Retrieve instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar instàncies</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="185"/>
         <source>Storage listener</source>
-        <translation type="unfinished"></translation>
+        <translation>Escoltador d'emmagatzematge</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="189"/>
         <source>Echo server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servei d'eco</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="193"/>
         <source>Inserter</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertor</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="197"/>
         <source>Thumbnail generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generador de miniatures</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="326"/>
@@ -1805,7 +1813,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1240"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>fallit</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="331"/>
@@ -1814,31 +1822,31 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1240"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>user-stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>aturat per l'usuari</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="336"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="463"/>
         <source>attempt-failed</source>
-        <translation type="unfinished"></translation>
+        <translation>intent fallit</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="341"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="464"/>
         <source>completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Completat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="507"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="591"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="511"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="593"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="515"/>
@@ -1850,95 +1858,95 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="519"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="597"/>
         <source>Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora i data</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="523"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="599"/>
         <source>Starting Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora i data d'inici</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="527"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="601"/>
         <source>Completion Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora i data de finalització</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="531"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="603"/>
         <source>DICOM Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivell DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="535"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="605"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID del pacient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="539"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="607"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del pacient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="543"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="609"/>
         <source>Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de naixement</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="547"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="611"/>
         <source>Study UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudi UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="551"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="613"/>
         <source>Series UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador únic de sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="555"/>
         <source>SOPInstance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID de l'instància SOP</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="559"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="617"/>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Coneixement</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="563"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="619"/>
         <source>Job UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID de feina</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="567"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="621"/>
         <source>Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Classe</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="571"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="623"/>
         <source>Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="575"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="625"/>
         <source>Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="615"/>
         <source>SOP UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Unitat de Procediment Operatiu Estàndard</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="314"/>
@@ -1946,7 +1954,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1293"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>in-progress</source>
-        <translation type="unfinished"></translation>
+        <translation>En curs</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="305"/>
@@ -1955,7 +1963,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1294"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>en cua</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="222"/>
@@ -1963,7 +1971,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1295"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>inicialitzat</translation>
     </message>
 </context>
 <context>
@@ -1971,7 +1979,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMListenerWidget.ui" line="14"/>
         <source>DICOM Listener</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolta DICOM</translation>
     </message>
 </context>
 <context>
@@ -1980,12 +1988,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="511"/>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="517"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="513"/>
         <source>No description</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap descripció</translation>
     </message>
 </context>
 <context>
@@ -1993,12 +2001,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="14"/>
         <source>DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadades DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
         <source>File path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminada del fitxer:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="44"/>
@@ -2013,12 +2021,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filtreu els metadades mostrats segons el contingut de les columnes Etiqueta, Atribut i Valor.   Cerca senzilla: introduïu qualsevol text per mostrar només els elements que continguin aquest text. Utilitzeu els caràcters comodí ? i * per representar qualsevol caràcter o seqüència de caràcters.Cerca amb expressió regular (per a usuaris avançats):&lt;/span&gt; Introduïu &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; seguit d'una expressió regular. Per exemple, per mostrar 3 etiquetes específiques, introduïu: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandir-ho tot</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="82"/>
@@ -2048,17 +2056,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="116"/>
         <source>Double-click to show DICOM tag definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fes doble clic per mostrar la definició de l'etiqueta DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="123"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="130"/>
         <source>Show image thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra la miniatura de la imatge</translation>
     </message>
 </context>
 <context>
@@ -2066,7 +2074,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="81"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="82"/>
@@ -2076,17 +2084,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="83"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="84"/>
         <source>VR</source>
-        <translation type="unfinished"></translation>
+        <translation>Realitat virtual</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="85"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud</translation>
     </message>
 </context>
 <context>
@@ -2095,24 +2103,24 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="326"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="507"/>
         <source>MRN: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MRN: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="330"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="511"/>
         <source>Birth Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de naixement: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="365"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="543"/>
         <source>Date added: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Data d'addició: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="515"/>
         <source>Sex: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gènere: %1</translation>
     </message>
 </context>
 <context>
@@ -2120,7 +2128,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMPatientModel.cpp" line="862"/>
         <source>Patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacients</translation>
     </message>
 </context>
 <context>
@@ -2128,34 +2136,34 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="894"/>
         <source>Toggle between Tab Mode and List Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia entre el mode de pestanyes i el mode de llista</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="927"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1198"/>
         <source>Show all patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra tots els pacients</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="934"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1205"/>
         <source>Switch to Tab Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia al mode de pestanyes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="945"/>
         <source>Allowed servers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidors permesos:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1622"/>
         <source>Query in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta en curs...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1626"/>
         <source>No results found in the database</source>
-        <translation type="unfinished"></translation>
+        <translation>No s'han trobat resultats a la base de dades</translation>
     </message>
 </context>
 <context>
@@ -2163,24 +2171,24 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="20"/>
         <source>DICOM Query/Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta/recuperació DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="26"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="75"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="54"/>
         <source>Search Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de cerca</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="91"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="112"/>
         <source>Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="122"/>
@@ -2190,7 +2198,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
         <source>Query DICOM servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultar servidors DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
@@ -2207,34 +2215,35 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Retrieve from DICOM servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar de servidors DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="343"/>
         <source>Retrieving:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperació:
+%1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="409"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="444"/>
         <source>Query Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta Obtenir</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="409"/>
         <source>Retrieve failed.  Keep trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperació fallida.  Continuar intentant?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="439"/>
         <source>Retrieve Process Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar procés finalitzat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="442"/>
         <source>Retrieve Process Canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar procés cancel·lat</translation>
     </message>
 </context>
 <context>
@@ -2242,47 +2251,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="14"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="48"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="51"/>
         <source>Search by Person Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca pel nom de la persona</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="61"/>
         <source>Study</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="64"/>
         <source>Search in Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca a la descripció de l'estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="74"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="77"/>
         <source>Search in Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca a la descripció de la sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="87"/>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identitat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="90"/>
         <source>Search by Person ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca per ID de persona</translation>
     </message>
 </context>
 <context>
@@ -2290,18 +2299,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="103"/>
         <source>Got move request</source>
-        <translation type="unfinished"></translation>
+        <translation>He rebut una sol·licitud de moviment</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="134"/>
         <source>Got STORE request for %1</source>
         <extracomment>%1 is an instance UID</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>S'ha rebut una sol·licitud STORE per a %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
         <source>Got CGET response</source>
-        <translation type="unfinished"></translation>
+        <translation>He rebut la resposta del CGET</translation>
     </message>
 </context>
 <context>
@@ -2309,7 +2318,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesDelegate.cpp" line="292"/>
         <source>Unknown Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie desconeguda</translation>
     </message>
 </context>
 <context>
@@ -2317,7 +2326,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="14"/>
         <source>Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de servidors</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="20"/>
@@ -2332,27 +2341,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="37"/>
         <source>Storage AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Emmagatzemat AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="47"/>
         <source>Storage Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port d'emmagatzematge</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="57"/>
         <source>Remove Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar servidor</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="64"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidors</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="80"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="85"/>
@@ -2367,7 +2376,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="95"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="100"/>
@@ -2380,74 +2389,74 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="14"/>
         <source>Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de servidors</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="41"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="185"/>
         <source>Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Emmagatzematge</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="67"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ports:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="105"/>
         <source>11112</source>
-        <translation type="unfinished"></translation>
+        <translation>11112</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="81"/>
         <source>Enable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="98"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="53"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1283"/>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Inactiu</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="74"/>
         <source>AETitle: </source>
-        <translation type="unfinished"></translation>
+        <translation>Títol AET: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="88"/>
         <source>CTKSTORE</source>
-        <translation type="unfinished"></translation>
+        <translation>Botiga CTK</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="115"/>
         <source>Servers   </source>
-        <translation type="unfinished"></translation>
+        <translation>Servidors   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="170"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="175"/>
         <source>Verification</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificació</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="180"/>
         <source>Query/Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta/Recuperació</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="190"/>
         <source>Trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>De confiança</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="195"/>
@@ -2457,7 +2466,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="200"/>
         <source>Called AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Anomenat AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="205"/>
@@ -2467,52 +2476,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="210"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="215"/>
         <source>Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps mort</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="220"/>
         <source>Retrieve Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar protocol</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="225"/>
         <source>Retrieve Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar proxy</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="247"/>
         <source> Add host</source>
-        <translation type="unfinished"></translation>
+        <translation> Afegeix amfitrió</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="264"/>
         <source> Verify host</source>
-        <translation type="unfinished"></translation>
+        <translation> Verifica l'amfitrió</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="281"/>
         <source> Remove host</source>
-        <translation type="unfinished"></translation>
+        <translation> Eliminar l'amfitrió</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="292"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablix els valors per defecte</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="384"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Sol·licitar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="387"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="598"/>
@@ -2523,34 +2532,34 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1505"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1521"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>desconegut</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="910"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1258"/>
         <source>success</source>
-        <translation type="unfinished"></translation>
+        <translation>èxit</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="914"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1222"/>
         <source>in-progress</source>
-        <translation type="unfinished"></translation>
+        <translation>En curs</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1234"/>
         <source>user-stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>aturat per l'usuari</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1246"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>fallit</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1279"/>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Actiu</translation>
     </message>
 </context>
 <context>
@@ -2558,7 +2567,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMStorageListener.cpp" line="129"/>
         <source>Got STORE request for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S'ha rebut una sol·licitud STORE per a %1</translation>
     </message>
 </context>
 <context>
@@ -2566,17 +2575,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="361"/>
         <source>Anonomyzed study</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudi anonimizat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="447"/>
         <source>%1/%2 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie %1/%2</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="451"/>
         <source>%1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie %1</translation>
     </message>
 </context>
 <context>
@@ -2585,22 +2594,22 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="404"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="409"/>
         <source>Load (%1k)</source>
-        <translation type="unfinished"></translation>
+        <translation>Càrrega (%1k)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="413"/>
         <source>Load (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Càrrega (%1)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="526"/>
         <source>Load selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Carrega la sèrie seleccionada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="555"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Càrrega</translation>
     </message>
 </context>
 <context>
@@ -2608,22 +2617,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="20"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="59"/>
         <source>Patients:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacients:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="85"/>
         <source>Studies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudis:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="111"/>
         <source>Series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie:</translation>
     </message>
 </context>
 <context>
@@ -2631,38 +2640,38 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableView.ui" line="14"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dades DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableView.ui" line="50"/>
         <source>Table Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la taula</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="40"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="48"/>
         <source>Patient name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del pacient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="41"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID del pacient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="42"/>
         <source>Birth date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de naixement</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="43"/>
         <source>Birth time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora de naixement</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="44"/>
         <source>Sex</source>
-        <translation type="unfinished"></translation>
+        <translation>Gènere</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="45"/>
@@ -2672,144 +2681,144 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="46"/>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentaris</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="47"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="60"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="73"/>
         <source>Date added</source>
-        <translation type="unfinished"></translation>
+        <translation>Data d'afegiment</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="49"/>
         <source>Studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudis</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="50"/>
         <source>Last study date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de l'últim estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="51"/>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador d'estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="52"/>
         <source>Study date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de l'estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="53"/>
         <source>Study time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora d'estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="54"/>
         <source>Study description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripció de l'estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="55"/>
         <source>Accession #</source>
-        <translation type="unfinished"></translation>
+        <translation>Número d'accés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="56"/>
         <source>Modalities</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitats</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="57"/>
         <source>Institution</source>
-        <translation type="unfinished"></translation>
+        <translation>Institució</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="58"/>
         <source>Referring physician</source>
-        <translation type="unfinished"></translation>
+        <translation>Mèdic referent</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="59"/>
         <source>Performing physician</source>
-        <translation type="unfinished"></translation>
+        <translation>Mèdic que atén</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="61"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="62"/>
         <source>Series #</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie núm.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
         <source>Series date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de la sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="64"/>
         <source>Series time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora de la sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="65"/>
         <source>Series description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripció de la sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="66"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="67"/>
         <source>Body part</source>
-        <translation type="unfinished"></translation>
+        <translation>Part del cos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="68"/>
         <source>Acquisition #</source>
-        <translation type="unfinished"></translation>
+        <translation>Adquisició núm.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="69"/>
         <source>Contrast agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Agent de contrast</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="70"/>
         <source>Scanning sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Seqüència d'escaneig</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="71"/>
         <source>Echo #</source>
-        <translation type="unfinished"></translation>
+        <translation>Eco núm.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="72"/>
         <source>Temporal position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posició temporal</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="74"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Per a tu</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="75"/>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Compta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="76"/>
         <source>Number of frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de fotogrames</translation>
     </message>
 </context>
 <context>
@@ -2818,7 +2827,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMThumbnailListWidget.cpp" line="166"/>
         <source>Image %1</source>
         <extracomment>%1 is the image sequence number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imatge %1</translation>
     </message>
 </context>
 <context>
@@ -2826,7 +2835,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="29"/>
         <source>Select data to load</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu dades per carregar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="54"/>
@@ -2851,47 +2860,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="111"/>
         <source>Filter by patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra per ID de pacient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="124"/>
         <source>Filter by patient name</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra per nom del pacient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="157"/>
         <source>Filter by study description</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra per descripció de l'estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="170"/>
         <source>Filter by series description</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra per descripció de la sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="137"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="87"/>
         <source>Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="117"/>
         <source> MRN...</source>
-        <translation type="unfinished"></translation>
+        <translation> Què passa?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="130"/>
         <source> Name...</source>
-        <translation type="unfinished"></translation>
+        <translation> Nom...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="189"/>
         <source>Filter by modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra per modalitat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="221"/>
@@ -2901,79 +2910,80 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="147"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dades</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="163"/>
         <source> Study Description...</source>
-        <translation type="unfinished"></translation>
+        <translation> Descripció de l'estudi...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="176"/>
         <source> Series Description ...</source>
-        <translation type="unfinished"></translation>
+        <translation> Descripció de la sèrie ...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="217"/>
         <source>Filter by date</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra per data</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="226"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Avui</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="231"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahir</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="236"/>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>La setmana passada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="241"/>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>El mes passat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="246"/>
         <source>Last year</source>
-        <translation type="unfinished"></translation>
+        <translation>L'any passat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="251"/>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalitzat...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="355"/>
         <source> Import </source>
-        <translation type="unfinished"></translation>
+        <translation> Importar </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="268"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Accions</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="304"/>
         <source>Query and retrieve. If filters are set, a patient query will be sent to the DICOM servers.
 If no filters are set, a study query for the currently selected patient in the local database
 (or the first patient if none is selected) will be sent to the DICOM servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultar i recuperar. Si s'han establert filtres, s'enviarà una consulta de pacient als servidors DICOM.
+Si no s'han establert filtres, s'enviarà una consulta d'estudi per al pacient seleccionat actualment a la base de dades local (o el primer pacient si no n'hi ha cap de seleccionat) als servidors DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="309"/>
         <source>Query </source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="332"/>
         <source> Close</source>
-        <translation type="unfinished"></translation>
+        <translation> Tanca</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="455"/>
@@ -2983,12 +2993,12 @@ If no filters are set, a study query for the currently selected patient in the l
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="461"/>
         <source>Jobs   </source>
-        <translation type="unfinished"></translation>
+        <translation>Treball   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="488"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="547"/>
@@ -3001,7 +3011,7 @@ If no filters are set, a study query for the currently selected patient in the l
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3659"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4314"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel·la</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="226"/>
@@ -3041,7 +3051,7 @@ If no filters are set, a study query for the currently selected patient in the l
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="638"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualització de l'esquema DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="641"/>
@@ -3052,74 +3062,77 @@ If no filters are set, a study query for the currently selected patient in the l
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="883"/>
         <source>No server is configured for query/retrieve operations. The server settings section is below.
 Check also the allowed servers at patient level.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s'ha configurat cap servidor per a les operacions de consulta/recuperació. La secció de configuració del servidor és a continuació.
+Verifiqueu també els servidors permesos a nivell de pacient.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2481"/>
         <source>No server is configured for query/retrieve operations.
 The server settings section is below.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s'ha configurat cap servidor per a les operacions de consulta/recuperació.
+La secció de configuració del servidor és a continuació.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2494"/>
         <source>No filters are set and no patients are found in the local database.
 Please specify at least one filter to query the servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s'ha aplicat cap filtre i no es troba cap pacient a la base de dades local.
+Indiqueu almenys un filtre per consultar els servidors.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2622"/>
         <source>The patients query provided no results. Please refine your filters in the search section.</source>
-        <translation type="unfinished"></translation>
+        <translation>La consulta de pacients no ha donat cap resultat. Si us plau, refineu els filtres a la secció de cerca.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2996"/>
         <source>Load patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Càrrega pacient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2997"/>
         <source>Load %1 patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregueu els pacients %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3003"/>
         <source>View %1 patients DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Veure els metadades DICOM dels pacients %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3009"/>
         <source>Delete %1 patients from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix els pacients %1 de la base de dades local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3016"/>
         <source>Export %1 patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta els pacients %1 al sistema de fitxers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3022"/>
         <source>Send %1 patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 pacients al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3114"/>
         <source>Force retrieve study</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudi de recuperació forçada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3115"/>
         <source>Force retrieve %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudi de recuperació forçada %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3229"/>
         <source>Force retrieve %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperació forçada de la sèrie %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3658"/>
         <source>Retrieving and processing selected series...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperant i processant les sèries seleccionades...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1949"/>
@@ -3131,18 +3144,19 @@ Please specify at least one filter to query the servers.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="386"/>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>De:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>A:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1972"/>
         <source>Database error: %1 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Error de la base de dades: %1 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1996"/>
@@ -3159,132 +3173,132 @@ Please specify at least one filter to query the servers.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2736"/>
         <source>The patients query failed. Please check the servers settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>La consulta dels pacients ha fallat. Si us plau, comproveu la configuració dels servidors.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3002"/>
         <source>View patient DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Veure els metadades DICOM del pacient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3008"/>
         <source>Delete patient from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix el pacient de la base de dades local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3015"/>
         <source>Export patient to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar pacient al sistema de fitxers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3021"/>
         <source>Send patient to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar pacient al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3102"/>
         <source>Load study</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudi de càrrega</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3103"/>
         <source>Load %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Carrega els estudis %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3108"/>
         <source>View study DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Veure metadades DICOM de l'estudi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3109"/>
         <source>View %1 studies DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualitza els metadades DICOM de %1 estudis</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3228"/>
         <source>Force retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>Sèrie de recuperacions forçades</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3120"/>
         <source>Delete study from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix l'estudi de la base de dades local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3121"/>
         <source>Delete %1 studies from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix els estudis %1 de la base de dades local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3127"/>
         <source>Export study to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar l'estudi al sistema de fitxers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3128"/>
         <source>Export %1 studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta els estudis %1 al sistema de fitxers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3133"/>
         <source>Send study to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Envia l'estudi al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3134"/>
         <source>Send %1 studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Envia els estudis %1 al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3216"/>
         <source>Load series</source>
-        <translation type="unfinished"></translation>
+        <translation>Càrrega de la sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3217"/>
         <source>Load %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar la sèrie %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3222"/>
         <source>View series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Veure metadades DICOM de la sèrie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3223"/>
         <source>View %1 series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Veure els metadades DICOM de la sèrie %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3234"/>
         <source>Delete series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix la sèrie de la base de dades local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3235"/>
         <source>Delete %1 series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix la sèrie %1 de la base de dades local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3241"/>
         <source>Export series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar sèrie al sistema de fitxers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3242"/>
         <source>Export %1 series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta la sèrie %1 al sistema de fitxers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3247"/>
         <source>Send series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Envia la sèrie al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3248"/>
         <source>Send %1 series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar la sèrie %1 al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4018"/>
@@ -3326,7 +3340,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>No s'ha trobat el fitxer de font d'exportació:
+
+%1
+
+S'atura l'exportació.
+
+L'error es pot solucionar amb la reparació.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4068"/>
@@ -3336,7 +3356,11 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El fitxer de destinació de l'exportació ja existeix:
+
+%1
+
+S'atura l'exportació.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4083"/>
@@ -3350,14 +3374,24 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de copiar
+
+%1
+
+a
+
+%2
+
+Aturant l'exportació.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4278"/>
         <source>Do you want to delete the following selected items from the LOCAL database? 
 The data will not be deleted from the PACs server. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu suprimir els elements seleccionats següents de la base de dades LOCAL? 
+Les dades no es suprimiran del servidor PACs. 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4313"/>
@@ -3380,27 +3414,27 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="36"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Avui</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="43"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahir</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="50"/>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>La setmana passada</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="57"/>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>El mes passat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="64"/>
         <source>Select Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar interval</translation>
     </message>
 </context>
 <context>
@@ -3408,7 +3442,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="14"/>
         <source>Log messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Missatges de registre</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="37"/>
@@ -3418,17 +3452,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="47"/>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>I errors</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="57"/>
         <source>&amp;Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>i advertiments</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="67"/>
         <source>&amp;Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>i missatges</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="84"/>
@@ -3438,7 +3472,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
         <source>Select messages in the list to see details here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu missatges a la llista per veure'n els detalls aquí.</translation>
     </message>
 </context>
 <context>
@@ -3446,12 +3480,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="161"/>
         <source>Event notification for TOPIC: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificació d'esdeveniment per a TOPIC: %1</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
         <source>Server can not start. Create it first, then call startListen again!!</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor no es pot iniciar. Crea'l primer i després torna a cridar startListen!!</translation>
     </message>
 </context>
 <context>
@@ -3460,7 +3494,7 @@ The data will not be deleted from the PACs server.
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="32"/>
         <source>EventBus Demo</source>
         <oldsource>EventBus Demo App</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Demo d'EventBus</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="64"/>
@@ -3476,12 +3510,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="115"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
         <source>Me: </source>
-        <translation type="unfinished"></translation>
+        <translation>Hauria de </translation>
     </message>
 </context>
 <context>
@@ -3489,22 +3523,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="14"/>
         <source>Event Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproductor d'esdeveniments</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="23"/>
         <source>TestCase :</source>
-        <translation type="unfinished"></translation>
+        <translation>Càs de prova:</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="49"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Rècord</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="56"/>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducció</translation>
     </message>
 </context>
 <context>
@@ -3517,7 +3551,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="23"/>
         <source>Load Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Càrrega de dades</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="36"/>
@@ -3545,7 +3579,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="56"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inici</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="63"/>
@@ -3560,7 +3594,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="77"/>
         <source>Plugin Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat del connector:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="90"/>
@@ -3570,17 +3604,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="97"/>
         <source>Process Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat del procés:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="110"/>
         <source>Not running</source>
-        <translation type="unfinished"></translation>
+        <translation>No funciona</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="134"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspèn</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="141"/>
@@ -3590,7 +3624,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="172"/>
         <source>Show Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra missatges</translation>
     </message>
 </context>
 <context>
@@ -3598,17 +3632,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="105"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Obert</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>D'acord</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
         <source>Choose</source>
-        <translation type="unfinished"></translation>
+        <translation>Tria</translation>
     </message>
 </context>
 <context>
@@ -3617,7 +3651,7 @@ The data will not be deleted from the PACs server.
         <location filename="Libs/Widgets/ctkFileDialogEventTranslator.cpp" line="108"/>
         <source>Loading %1 ... </source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cargant %1 ... </translation>
     </message>
 </context>
 <context>
@@ -3625,12 +3659,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="41"/>
         <source>Show details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra els detalls...</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="42"/>
         <source>Hide details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Amaga els detalls.</translation>
     </message>
 </context>
 <context>
@@ -3638,12 +3672,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.ui" line="25"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Càrrega</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.cpp" line="66"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>Trieu l'aplicació allotjada</translation>
     </message>
 </context>
 <context>
@@ -3651,27 +3685,27 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="809"/>
         <source>started</source>
-        <translation type="unfinished"></translation>
+        <translation>va començar</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="827"/>
         <source>user stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>usuari aturat</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="856"/>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation>acabat</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="885"/>
         <source>attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Intent fallit</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="914"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>fallat</translation>
     </message>
 </context>
 <context>
@@ -3684,22 +3718,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="31"/>
         <source>Unexpected element %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Element inesperat %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="32"/>
         <source>Unexpected text %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Text inesperat %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
         <source>Missing attribute %1 in tag %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta l'atribut %1 a l'etiqueta %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="34"/>
         <source>Object Class Definition ID not found %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ID de definició de classe d'objecte no trobat %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="35"/>
@@ -3709,12 +3743,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
         <source>Missing element %1 (Reference ID = %2.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Element faltant %1 (ID de referència = %2.)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="38"/>
         <source>Unexpected exception %1 with message %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Excepció inesperada %1 amb missatge %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="39"/>
@@ -3724,17 +3758,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="40"/>
         <source>Value %1 is out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor %1 està fora de rang.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="41"/>
         <source>Value %1 is out of Option.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor %1 està fora d'opció.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="42"/>
         <source>Found too many values in %1 when expecting %2 values.</source>
-        <translation type="unfinished"></translation>
+        <translation>S'han trobat massa valors a %1 quan s'esperaven valors de %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="43"/>
@@ -3744,12 +3778,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="44"/>
         <source>Labels and Values of Option have different sizes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les etiquetes i els valors de l'opció tenen mides diferents.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="45"/>
         <source>Option value %1 is invalid because of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor de l'opció %1 és invàlid a causa de %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="46"/>
@@ -3759,22 +3793,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="48"/>
         <source>Plugin(ID=&quot;%1&quot;, name=&quot;%2&quot;) has no MetaData file.</source>
-        <translation type="unfinished"></translation>
+        <translation>El connector (ID=&quot;%1&quot;, nom=&quot;%2&quot;) no té cap fitxer de metadades.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="49"/>
         <source>OCD(ID=&quot;%1&quot;) cannot support this locale &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>OCD(ID=&quot;%1&quot;) no pot suportar aquest local &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="50"/>
         <source>The Tokenizer got invalid data.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tokenitzador ha rebut dades invàlides.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="51"/>
         <source>Plugin %1 with ID %2 provided a ctkMetaTypeProvider with an invalid property. Property %3 with value %4 was not of the expected type (QString or QStringList) and will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>El connector %1 amb ID %2 ha proporcionat un ctkMetaTypeProvider amb una propietat invàlida. La propietat %3 amb valor %4 no era del tipus esperat (QString o QStringList) i serà ignorada.</translation>
     </message>
 </context>
 <context>
@@ -3782,7 +3816,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="14"/>
         <source>Material Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietat del material</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
@@ -3792,7 +3826,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitat:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
@@ -3802,22 +3836,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation type="unfinished"></translation>
+        <translation>Disponible:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation type="unfinished"></translation>
+        <translation>Especular:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
         <source>Specular power</source>
-        <translation type="unfinished"></translation>
+        <translation>Potència especular</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
         <source>Power:</source>
-        <translation type="unfinished"></translation>
+        <translation>Poder:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
@@ -3827,67 +3861,67 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualització:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Preajustaments:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metàl·lic:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
         <source>Roughness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspror:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="308"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Plana</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="313"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="318"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation>Vent</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="323"/>
         <source>PBR</source>
-        <translation type="unfinished"></translation>
+        <translation>PBR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="106"/>
         <source>Full ambient eliminating all directional shading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambient total que elimina tota l'ombratge direccional.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="107"/>
         <source>Dull material properties (no specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats del material mate (sense il·luminació especular).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="108"/>
         <source>Smooth material properties (moderate specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats de material suaus (il·luminació especular moderada).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="109"/>
         <source>Shiny material properties (high specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats del material brillant (il·luminació especular alta).</translation>
     </message>
 </context>
 <context>
@@ -3900,7 +3934,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="126"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca...</translation>
     </message>
 </context>
 <context>
@@ -3908,12 +3942,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="78"/>
         <source>Don&apos;t show this message again</source>
-        <translation type="unfinished"></translation>
+        <translation>No tornar a mostrar aquest missatge</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="221"/>
         <source>Don&apos;t show this message again and always %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No tornar a mostrar aquest missatge i sempre %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="337"/>
@@ -3926,7 +3960,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="14"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="23"/>
@@ -3961,7 +3995,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="53"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>Senyor</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="60"/>
@@ -3971,17 +4005,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="63"/>
         <source>NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Campionats de Noruega</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="70"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecografia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="73"/>
         <source>US</source>
-        <translation type="unfinished"></translation>
+        <translation>EUA</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="80"/>
@@ -3991,7 +4025,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="83"/>
         <source>OT</source>
-        <translation type="unfinished"></translation>
+        <translation>Antic Testament</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="90"/>
@@ -4041,7 +4075,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="133"/>
         <source>ES</source>
-        <translation type="unfinished"></translation>
+        <translation>English</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="140"/>
@@ -4051,7 +4085,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="143"/>
         <source>LS</source>
-        <translation type="unfinished"></translation>
+        <translation>LS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="150"/>
@@ -4061,27 +4095,27 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="153"/>
         <source>PT</source>
-        <translation type="unfinished"></translation>
+        <translation>Empresa privada</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="160"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatgeria radiogràfica (pel·lícula/pantalla convencional)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="163"/>
         <source>RG</source>
-        <translation type="unfinished"></translation>
+        <translation>Cort Reial</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="170"/>
         <source>Single-photon emission computed tomography (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia computada d'emissió d'un sol fotó (SPECT)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="173"/>
         <source>ST</source>
-        <translation type="unfinished"></translation>
+        <translation>ST</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="180"/>
@@ -4091,37 +4125,37 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="183"/>
         <source>TG</source>
-        <translation type="unfinished"></translation>
+        <translation>Bon vespre</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="190"/>
         <source>X-Ray Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografia per raigs X</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="193"/>
         <source>XA</source>
-        <translation type="unfinished"></translation>
+        <translation>Què</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="200"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fluoroscòpia de radiografia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="203"/>
         <source>RF</source>
-        <translation type="unfinished"></translation>
+        <translation>RF</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="210"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge de radioteràpia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="213"/>
         <source>RTIMAGE</source>
-        <translation type="unfinished"></translation>
+        <translation>RTIMAGE</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="220"/>
@@ -4131,17 +4165,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="223"/>
         <source>RTDOSE</source>
-        <translation type="unfinished"></translation>
+        <translation>RTDOSE</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="230"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunt d'estructures de radioteràpia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="233"/>
         <source>RTSTRUCT</source>
-        <translation type="unfinished"></translation>
+        <translation>Estructura de registre de temps real</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="240"/>
@@ -4151,27 +4185,27 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="243"/>
         <source>RTPLAN</source>
-        <translation type="unfinished"></translation>
+        <translation>RTPLAN</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="250"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre de tractament RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
         <source>RTRECTORD</source>
-        <translation type="unfinished"></translation>
+        <translation>Rector</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="260"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Còpia impresa</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="263"/>
         <source>HC</source>
-        <translation type="unfinished"></translation>
+        <translation>HC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="270"/>
@@ -4181,7 +4215,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="273"/>
         <source>DX</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnòstic</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="280"/>
@@ -4191,7 +4225,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="283"/>
         <source>MG</source>
-        <translation type="unfinished"></translation>
+        <translation>MG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="290"/>
@@ -4201,57 +4235,57 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="293"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinc</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="300"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografia panoràmica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="303"/>
         <source>PX</source>
-        <translation type="unfinished"></translation>
+        <translation>Preu per unitat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="310"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscòpia general</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="313"/>
         <source>GM</source>
-        <translation type="unfinished"></translation>
+        <translation>Bon dia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="320"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscòpia de diapositives</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="323"/>
         <source>SM</source>
-        <translation type="unfinished"></translation>
+        <translation>Molècula petita</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="330"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografia amb càmera externa</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="333"/>
         <source>XC</source>
-        <translation type="unfinished"></translation>
+        <translation>Cros</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="340"/>
         <source>Presentation State</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat de presentació</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="343"/>
         <source>PR</source>
-        <translation type="unfinished"></translation>
+        <translation>Relacions Públiques</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="350"/>
@@ -4271,7 +4305,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="363"/>
         <source>ECG</source>
-        <translation type="unfinished"></translation>
+        <translation>Electrocardiograma</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="370"/>
@@ -4281,107 +4315,107 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="373"/>
         <source>EPS</source>
-        <translation type="unfinished"></translation>
+        <translation>Guanys per acció</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="380"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma d'ona hemodinàmica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="383"/>
         <source>HD</source>
-        <translation type="unfinished"></translation>
+        <translation>Alta definició</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="390"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="393"/>
         <source>SR</source>
-        <translation type="unfinished"></translation>
+        <translation>SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="400"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrasonografia intravascular</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="403"/>
         <source>IVUS</source>
-        <translation type="unfinished"></translation>
+        <translation>IVUS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="410"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografia oftalmològica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="413"/>
         <source>OP</source>
-        <translation type="unfinished"></translation>
+        <translation>ENCESA</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="420"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>Relació estereomètrica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="423"/>
         <source>SMR</source>
-        <translation type="unfinished"></translation>
+        <translation>RMR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="430"/>
         <source>Optical Coherence Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia de coherència òptica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="433"/>
         <source>OCT</source>
-        <translation type="unfinished"></translation>
+        <translation>OCT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="440"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Refracció oftàlmica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="443"/>
         <source>OPR</source>
-        <translation type="unfinished"></translation>
+        <translation>Sol·licitud de publicació original</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="450"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Camp visual oftalmològic</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="453"/>
         <source>OPV</source>
-        <translation type="unfinished"></translation>
+        <translation>Variació de potència òptica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="460"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapeig oftalmològic</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="463"/>
         <source>OPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Missatge original de la publicació</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="470"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecció d'objecte clau</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="473"/>
         <source>KO</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="480"/>
@@ -4391,7 +4425,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="483"/>
         <source>SEG</source>
-        <translation type="unfinished"></translation>
+        <translation>SEG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="490"/>
@@ -4401,7 +4435,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="493"/>
         <source>REG</source>
-        <translation type="unfinished"></translation>
+        <translation>Dret</translation>
     </message>
 </context>
 <context>
@@ -4409,22 +4443,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="243"/>
         <source>Open a dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre un diàleg</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="557"/>
         <source>Select a file to save </source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer per desar </translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="572"/>
         <source>Open a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre un fitxer</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="588"/>
         <source>Select a directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu una carpeta...</translation>
     </message>
 </context>
 <context>
@@ -4432,7 +4466,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="14"/>
         <source>Path list</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de camins</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="23"/>
@@ -4453,22 +4487,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="43"/>
         <source>Remove selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix les entrades seleccionades</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
         <source>Edit current entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Edita l'entrada actual</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="56"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edita</translation>
     </message>
 </context>
 <context>
@@ -4476,7 +4510,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="123"/>
         <source>Editing the path failed</source>
-        <translation type="unfinished"></translation>
+        <translation>L'edició de la ruta ha fallat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="124"/>
@@ -4489,22 +4523,30 @@ to path
 %2
 
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>S'ha fallat el canvi de camí:
+
+%1
+
+a camí
+
+%2
+
+Comproveu els vostres permisos.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="203"/>
         <source>Select one or more files</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un o més fitxers</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="207"/>
         <source>Select a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="284"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu una carpeta</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="323"/>
@@ -4517,7 +4559,10 @@ Please check your permissions.</source>
 
 %1
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>S'ha fallat l'addició de les rutes següents:
+
+%1
+Comproveu els vostres permisos.</translation>
     </message>
 </context>
 <context>
@@ -4525,22 +4570,22 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="52"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lat</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
         <source>Lazy Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Activació mandrosa</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"/>
         <source>Resolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolt</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="55"/>
         <source>Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Començat</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="56"/>
@@ -4550,42 +4595,42 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Aturat</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="58"/>
         <source>Stopping</source>
-        <translation type="unfinished"></translation>
+        <translation>Aturant</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="59"/>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstal·lat</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="60"/>
         <source>Unresolved</source>
-        <translation type="unfinished"></translation>
+        <translation>No resolt</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="61"/>
         <source>Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzat</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="115"/>
         <source>Start Plugin (ignore activation policy)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia el connector (ignora la política d'activació)</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="116"/>
         <source>Start Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia el connector</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="117"/>
         <source>Stop Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura el connector</translation>
     </message>
 </context>
 <context>
@@ -4593,52 +4638,52 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="14"/>
         <source>Plugin Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Complement del navegador</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="58"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="122"/>
         <source>Qt Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Recursos de Qt</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="159"/>
         <source>Plugin Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Recursos del connector</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="193"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveis</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="260"/>
         <source>Link services</source>
-        <translation type="unfinished"></translation>
+        <translation>Enllaçar serveis</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="304"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Esdeveniments</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>barra d'eines</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortida</translation>
     </message>
 </context>
 <context>
@@ -4652,12 +4697,12 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="194"/>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualització &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="209"/>
         <source>Successfully create plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea amb èxit un connector</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="217"/>
@@ -4682,12 +4727,12 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
         <source>Enter the name of your organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu el nom de la vostra organització:</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
         <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;la vostra organització&gt;</translation>
     </message>
 </context>
 <context>
@@ -4695,22 +4740,22 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="14"/>
         <source>Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generador de connectors</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="39"/>
         <source>Symbolic name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom simbòlic</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="66"/>
@@ -4720,12 +4765,12 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"/>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguiçós</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Aimant</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"/>
@@ -4735,7 +4780,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="105"/>
         <source>Export directive</source>
-        <translation type="unfinished"></translation>
+        <translation>Directiva d'exportació</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="115"/>
@@ -4756,7 +4801,7 @@ Please check your permissions.</source>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="35"/>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="47"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Mà</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="94"/>
@@ -4766,27 +4811,27 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="102"/>
         <source>The symbolic name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom simbòlic no pot estar buit</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="108"/>
         <source>The export directive cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>La directiva d'exportació no pot estar buida</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="114"/>
         <source>The activator class name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom de la classe activadora no pot estar buit</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="120"/>
         <source>The activator header filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom de fitxer del capçal d'activador no pot estar buit</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="126"/>
         <source>The activator source filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom de fitxer de la font de l'activador no pot estar buit</translation>
     </message>
 </context>
 <context>
@@ -4807,7 +4852,15 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generador&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="278"/>
@@ -4820,12 +4873,20 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Previsualització&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="370"/>
         <source>Output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori de sortida</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="383"/>
@@ -4835,23 +4896,23 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="431"/>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualització &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="451"/>
         <source>Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>Genera</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="458"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="489"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortida</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="478"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="492"/>
@@ -4861,7 +4922,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="497"/>
         <source>Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions...</translation>
     </message>
 </context>
 <context>
@@ -4869,32 +4930,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
         <source>Manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"/>
         <source>Symbolic Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom simbòlic</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"/>
         <source>Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>Proveïdor</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Llicència</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"/>
@@ -4924,22 +4985,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
         <source>Doc URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL del document</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Icona</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguiçós</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Aimant</translation>
     </message>
 </context>
 <context>
@@ -4947,12 +5008,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="14"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="20"/>
         <source>License template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla de llicència</translation>
     </message>
 </context>
 <context>
@@ -4960,37 +5021,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="100"/>
         <source>UNINSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>No instal·lat</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="101"/>
         <source>INSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lat</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="102"/>
         <source>RESOLVED</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolt</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="103"/>
         <source>STARTING</source>
-        <translation type="unfinished"></translation>
+        <translation>Començant</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="104"/>
         <source>STOPPING</source>
-        <translation type="unfinished"></translation>
+        <translation>Aturant</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="105"/>
         <source>ACTIVE</source>
-        <translation type="unfinished"></translation>
+        <translation>Actiu</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="115"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>desconegut</translation>
     </message>
 </context>
 <context>
@@ -4998,47 +5059,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Giny de visualitzador d'imatges senzill CTK&lt;/h1&gt;Contribució de: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Comandes del teclat:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: sortir  &lt;em&gt;h&lt;/em&gt;: mostrar aquesta ajuda  &lt;em&gt;i&lt;/em&gt;: invertir intensitats  &lt;em&gt;[ ]&lt;/em&gt;: augmentar / disminuir el zoom  &lt;em&gt;x y&lt;/em&gt;: girar al llarg de l'eix x / y  &lt;em&gt;r&lt;/em&gt;: restablir a les condicions inicials  &lt;em&gt;barra espaiadora&lt;/em&gt;: alternar el seguiment continu del cursor  &lt;em&gt;fletxa amunt fletxa avall&lt;/em&gt;: canviar a la reixeta següent / anterior  &lt;em&gt;botó esquerre&lt;/em&gt;: finestra i nivell  &lt;em&gt;botó central&lt;/em&gt;: zoom  &lt;em&gt;botó dret&lt;/em&gt;: centrar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1073"/>
         <source>Intensity Range = %1 .. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval d'intensitat = %1 .. %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1085"/>
         <source>W / L = %1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>W / L = %1 / %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1097"/>
         <source>Spacing = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaiatge = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1108"/>
         <source>Size = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1118"/>
         <source>RAS = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1129"/>
         <source>IJK = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>IJK = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1141"/>
         <source>Value = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor = %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1183"/>
         <source>No Image Loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap imatge carregada.</translation>
     </message>
 </context>
 <context>
@@ -5046,17 +5107,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="14"/>
         <source>Qt Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>Proves de Qt</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="105"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Rècord</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="115"/>
         <source>PlayBack</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducció</translation>
     </message>
 </context>
 <context>
@@ -5064,7 +5125,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkRangeWidget.ui" line="20"/>
         <source>Select range</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona l'abast</translation>
     </message>
 </context>
 <context>
@@ -5072,133 +5133,133 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="20"/>
         <source>Screen Capture Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de captura de pantalla</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="99"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="105"/>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fulletó:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="112"/>
         <source>Select a directory in which screen captures will be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu una carpeta on s'emmagatzemaran les captures de pantalla.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="119"/>
         <source>Image name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la imatge:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="126"/>
         <source>Type in a base-name for the image file, or use the default provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu un nom de base per al fitxer d'imatge, o utilitzeu el predeterminat proporcionat.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="129"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Sense títol</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="136"/>
         <source>Image version number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de versió de la imatge:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Factor d'escala:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"/>
         <source>Select an integer scale factor (between 0.5 and 5) for the image file, e.g. a value of &quot;2&quot; will save an image twice the size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un factor d'escala enter (entre 0,5 i 5) per al fitxer d'imatge; per exemple, un valor de «2» desarà una imatge amb el doble de mida.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="183"/>
         <source>Output resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolució de sortida:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="190"/>
         <source>Width of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplada de la captura de pantalla</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="193"/>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="216"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation> per píxel</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="203"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="213"/>
         <source>Height of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Alçada de la captura de pantalla</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="229"/>
         <source>Lock/unlock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueja/desbloqueja la proporció d'aspecte</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="249"/>
         <source>Overwrite:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobreescriptura:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="266"/>
         <source>Screenshot delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Retard de la captura de pantalla:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="273"/>
         <source> s</source>
-        <translation type="unfinished"></translation>
+        <translation> amb</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="67"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="172"/>
         <source>Height of widget: %1 is invalid. Check widget dimensions. Using default aspect ratio (1.0).</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alçada del widget: %1 és invàlida. Verifiqueu les dimensions del widget. S'utilitza la proporció d'aspecte per defecte (1,0).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="175"/>
         <source>Invalid widget dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensions del giny no vàlides</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="194"/>
         <source>Aspect ratio: %1 is invalid. Check widget dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ràtio d'aspecte: %1 és invàlid. Verifiqueu les dimensions del widget.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="196"/>
         <source>Invalid aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Relació d'aspecte invàlida</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="395"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de pantalla</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="396"/>
         <source>File already exists. Overwrite ?</source>
-        <translation type="unfinished"></translation>
+        <translation>El fitxer ja existeix. Sobreescriure?</translation>
     </message>
 </context>
 <context>
@@ -5206,7 +5267,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSearchBox.cpp" line="72"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca...</translation>
     </message>
 </context>
 <context>
@@ -5214,7 +5275,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSettingsDialog.ui" line="14"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="78"/>
@@ -5224,51 +5285,54 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="80"/>
         <source>Reject settings changes and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rebutjar els canvis de configuració i tancar el diàleg.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="82"/>
         <source>Reset settings to their values when the dialog opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Restabliu la configuració als seus valors quan es va obrir el diàleg.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="84"/>
         <source>Restore settings to their default values.To cancel a &quot;Restore&quot;, you can &quot;Reset&quot; the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restabliu la configuració als valors per defecte. Per cancel·lar un «Restore», podeu fer un «Reset» de la configuració.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
         <source>Restart required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cal reiniciar!</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="172"/>
         <source>The application must be restarted to take into account the new values of the following properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cal reiniciar l'aplicació per tenir en compte els nous valors de les propietats següents:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="301"/>
         <source>Restart required</source>
-        <translation type="unfinished"></translation>
+        <translation>Es requereix un reinici</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="302"/>
         <source>For settings to be taken into account, the application
 must be restarted. Restart the application now ?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Perquè els canvis es tinguin en compte, cal reiniciar l'aplicació.
+Reiniciar l'aplicació ara?
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="410"/>
         <source>Restore all settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablix tots els paràmetres</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="411"/>
         <source>Are you sure you want to reset
 all settings to their default values?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Estàs segur que vols restablir tots els paràmetres als valors per defecte?
+</translation>
     </message>
 </context>
 <context>
@@ -5276,7 +5340,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSliderWidget.ui" line="20"/>
         <source>Set value</source>
-        <translation type="unfinished"></translation>
+        <translation>Establir valor</translation>
     </message>
 </context>
 <context>
@@ -5284,7 +5348,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkTemplateWidget.ui" line="14"/>
         <source>Template Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla de widget</translation>
     </message>
 </context>
 <context>
@@ -5292,12 +5356,12 @@ all settings to their default values?
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"/>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object</translation>
     </message>
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="32"/>
         <source>My object class definition</source>
-        <translation type="unfinished"></translation>
+        <translation>La meva definició de classe d'objecte</translation>
     </message>
 </context>
 <context>
@@ -5305,7 +5369,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailLabel.ui" line="14"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura</translation>
     </message>
 </context>
 <context>
@@ -5314,7 +5378,7 @@ all settings to their default values?
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailListWidget.ui" line="14"/>
         <source>Thumbnails</source>
         <oldsource>ThumbnailList</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Miniatures</translation>
     </message>
 </context>
 <context>
@@ -5322,7 +5386,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="520"/>
         <source>FPS: %1(%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS: %1(%2s)</translation>
     </message>
 </context>
 <context>
@@ -5335,32 +5399,32 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="32"/>
         <source>Undo last change of range</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfer l'últim canvi d'abast</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="43"/>
         <source>Reset ranges to data range</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablir els rangs al rang de dades</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="54"/>
         <source>Shrink display range to current range</source>
-        <translation type="unfinished"></translation>
+        <translation>Redueix l'interval de visualització a l'interval actual</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="65"/>
         <source>Expand current range to display range</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplia l'abast actual per mostrar l'abast</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="76"/>
         <source>Invert color map</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverteix el mapa de colors</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="93"/>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Altres opcions</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="183"/>
@@ -5370,27 +5434,27 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="231"/>
         <source>NaN values</source>
-        <translation type="unfinished"></translation>
+        <translation>Valors NaN</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="233"/>
         <source>NaN color</source>
-        <translation type="unfinished"></translation>
+        <translation>No és un color numèric</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="238"/>
         <source>Discretize</source>
-        <translation type="unfinished"></translation>
+        <translation>Discretitzar</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="239"/>
         <source>Discretize color transfer function</source>
-        <translation type="unfinished"></translation>
+        <translation>Discretitzar la funció de transferència de color</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="243"/>
         <source>Number of discrete values</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de valors discrets</translation>
     </message>
 </context>
 <context>
@@ -5398,42 +5462,42 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="14"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietat</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="32"/>
         <source>Representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Representació</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Representació:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punts</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="57"/>
         <source>Wireframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquema de filferro</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>Superfície</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="70"/>
         <source>Point Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida del punt:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"/>
         <source>Line Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplada de la línia:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="110"/>
@@ -5443,7 +5507,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="119"/>
         <source>Frontface</source>
-        <translation type="unfinished"></translation>
+        <translation>Cara frontal</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="126"/>
@@ -5463,57 +5527,57 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitat:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"/>
         <source>Edge Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilitat del contorn:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="195"/>
         <source>Edge Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Color del cantó:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="208"/>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Il·luminació</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="217"/>
         <source>Lighting:</source>
-        <translation type="unfinished"></translation>
+        <translation>Il·luminació:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolació:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="239"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Plana</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="244"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="249"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation>Vent</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"/>
         <source>Shading:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombrat:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"/>
         <source>Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Materials</translation>
     </message>
 </context>
 <context>
@@ -5521,7 +5585,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"/>
         <source>Size issue ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Qüestió de mida ...</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="69"/>
@@ -5529,7 +5593,10 @@ all settings to their default values?
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation type="unfinished"></translation>
+        <translation>La mida de la vista de renderització és: amplada : %1    alçada : %2 
+Però la mida era amplada : %3    alçada : %4 
+durant l'enregistrament 
+Vols substituir-la?</translation>
     </message>
 </context>
 <context>
@@ -5538,37 +5605,37 @@ Do you want to replace it ?</source>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="14"/>
         <source>Scalar bar properties</source>
         <oldsource>vtkScalarBarWidget</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Propietats de la barra escalar</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="23"/>
         <source>Display scalar bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra la barra escalària</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="30"/>
         <source>Title properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats del títol:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="45"/>
         <source>Labels properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats de les etiquetes:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="54"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="64"/>
         <source>Maximum number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre màxim de colors:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="81"/>
         <source>Number of labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d'etiquetes:</translation>
     </message>
 </context>
 <context>
@@ -5576,7 +5643,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKScalarsToColorsComboBox.cpp" line="65"/>
         <source>Select a color transfer function...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu una funció de transferència de color...</translation>
     </message>
 </context>
 <context>
@@ -5584,62 +5651,62 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="14"/>
         <source>ScalarsToColorsWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget de scalar a color</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="41"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="54"/>
         <source>Point ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador de punt</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="44"/>
         <source>Point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Punt:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="83"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="96"/>
         <source>X coordinate of the current point</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordenada X del punt actual</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="86"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="103"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="116"/>
         <source>Opacity of the current point</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitat del punt actual</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="106"/>
         <source>O:</source>
-        <translation type="unfinished"></translation>
+        <translation>O:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="129"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="142"/>
         <source>Position of the midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Posició del punt mitjà</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="132"/>
         <source>M:</source>
-        <translation type="unfinished"></translation>
+        <translation>M:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="155"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="168"/>
         <source>Sharpness of the midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Esser agut del punt mitjà</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="158"/>
         <source>S:</source>
-        <translation type="unfinished"></translation>
+        <translation>S:</translation>
     </message>
 </context>
 <context>
@@ -5647,12 +5714,12 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="14"/>
         <source>vtkTextProperty</source>
-        <translation type="unfinished"></translation>
+        <translation>propietat de text VTK</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="23"/>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="33"/>
@@ -5662,12 +5729,12 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="43"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitat:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="63"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Font:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="71"/>
@@ -5682,12 +5749,12 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="81"/>
         <source>Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="89"/>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estil:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="96"/>
@@ -5697,17 +5764,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="103"/>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Italià</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="110"/>
         <source>shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ombra</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="117"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Per a tu:</translation>
     </message>
 </context>
 <context>
@@ -5715,17 +5782,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="14"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Límit</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="26"/>
         <source>Threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Límit:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitat:</translation>
     </message>
 </context>
 <context>
@@ -5733,22 +5800,22 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="14"/>
         <source>Volume property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietat de volum</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="23"/>
         <source>Scalar Opacity Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapes d'opacitat escalars</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="51"/>
         <source>Scalar Color Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapeig de color escalari</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="73"/>
         <source>Gradient Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opaqüitat de gradient</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"/>
@@ -5758,27 +5825,27 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolació:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="109"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Veí més proper</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="114"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="122"/>
         <source>Shade:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombra:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="132"/>
         <source>Material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Materials:</translation>
     </message>
 </context>
 <context>
@@ -5786,17 +5853,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="87"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Enrere</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="89"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Següent</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="90"/>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Acabat</translation>
     </message>
 </context>
 <context>
@@ -5804,12 +5871,12 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="20"/>
         <source>Workflow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flux de treball</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="35"/>
         <source>Step title</source>
-        <translation type="unfinished"></translation>
+        <translation>Títol del pas</translation>
     </message>
 </context>
 <context>
@@ -5817,13 +5884,14 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="200"/>
         <source>Playback ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducció ...</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="201"/>
         <source>The settings are different from the record Settings.
 Do you want to restore the settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>La configuració és diferent de la de l'enregistrament.
+Vols restaurar la configuració?</translation>
     </message>
 </context>
 <context>
@@ -5831,17 +5899,17 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="14"/>
         <source>Login Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfils d'inici de sessió</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="26"/>
         <source>Profiles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfils:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="52"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"/>
@@ -5851,62 +5919,62 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"/>
         <source>Login information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació d'inici de sessió:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="106"/>
         <source>Profile name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del perfil:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="119"/>
         <source>Server URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>URI del servidor:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="132"/>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d'usuari:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="145"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrasenya:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="162"/>
         <source>Download Dir.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori de descàrrega:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="169"/>
         <source>Use as default</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitzar com a predeterminat</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"/>
         <source>Missing XNAT server URI</source>
-        <translation type="unfinished"></translation>
+        <translation>URI del servidor XNAT no especificat</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"/>
         <source>Please enter XNAT server URI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu l'URI del servidor XNAT.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Missing user name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d'usuari absent</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Please enter user name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu el nom d'usuari.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="209"/>
         <source>Invalid Login Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error d'inici de sessió invàlid</translation>
     </message>
 </context>
 <context>
@@ -5914,14 +5982,14 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ventana principal</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="23"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="90"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="195"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia la sessió</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="33"/>
@@ -5936,17 +6004,17 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="46"/>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>Pujar fitxer</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="56"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarrega</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="69"/>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>No connectat</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="85"/>
@@ -5956,7 +6024,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
         <source>Select a xnat file, resource, scan, or scan folder to download...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer xnat, recurs, escaneig o carpeta d'escaneig per descarregar...</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"/>
@@ -5966,49 +6034,50 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="122"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>I deixa-ho</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="91"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="196"/>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconnectat</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="102"/>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanca la sessió</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="103"/>
         <source>Connected: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectat: %1</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="163"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre fitxer</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
         <source>Session Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps d'espera de la sessió</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
         <source>The session timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>La sessió ha expirat.</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="205"/>
         <source>Session Timeout Soon</source>
-        <translation type="unfinished"></translation>
+        <translation>El temps de sessió s'esgotarà aviat</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="206"/>
         <source>The session will time out in 1 minute.
 Do you want to renew the session?</source>
-        <translation type="unfinished"></translation>
+        <translation>La sessió caducarà d'aquí a 1 minut.
+Voleu renovar la sessió?</translation>
     </message>
 </context>
 </TS>
