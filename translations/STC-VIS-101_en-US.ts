@@ -118,13 +118,17 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 • The software is not FDA approved or CE-Marked, and is for research use only.
 </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• 3D Slicer is a free open source software application distributed under a BSD style license. 
+
+
+• The software is not FDA approved or CE-Marked, and is for research use only.
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Tutorial Outline</source>
         <extracomment>6_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial Outline</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -135,13 +139,18 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 
 • Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>•  Part 1: Loading and Viewing DICOM data
+
+•  Part 2: Volume Rendering
+
+
+• Part 3: Loading and Viewing 3D models</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>Part 1: DICOM Data Loading</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Part 1: DICOM Data Loading</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
@@ -150,26 +159,27 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <extracomment>8_LoadingaDICOMvolume_title
 ----------
 9_LoadingaDICOMvolume_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Loading a DICOM volume</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer displays the user interface of the DICOM module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer displays the user interface of the DICOM module</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>The patient1 study contains a CT Thorax Abdomen dataset</source>
         <extracomment>8_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>The patient1 study contains a CT Thorax Abdomen dataset</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
         <source>Select patient1 and click on Load 
 to load the dataset in Slicer</source>
         <extracomment>9_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Select patient1 and click on Load 
+to load the dataset in Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -199,7 +209,7 @@ to load the dataset in Slicer</source>
 17_VisualizingDICOMimages_title
 ----------
 18_VisualizingDICOMimages_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visualizing DICOM images</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -207,21 +217,25 @@ to load the dataset in Slicer</source>
 and sagittal images of the CT 
 Thorax Abdomen dataset </source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer displays the axial, coronal 
+and sagittal images of the CT 
+Thorax Abdomen dataset </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
         <source>Left click on DICOM to display 
 the list of modules of Slicer</source>
         <extracomment>11_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Left click on DICOM to display 
+the list of modules of Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
         <source>Select the module 
 Volumes</source>
         <extracomment>11_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Select the module 
+Volumes</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
@@ -230,7 +244,10 @@ preset to automatically adjust
 the window/level display of the 
 CT dataset</source>
         <extracomment>12_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Click on the CT-abdomen 
+preset to automatically adjust 
+the window/level display of the 
+CT dataset</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
@@ -544,13 +561,19 @@ Each data set, such as an image volume, surface model, or point set, is represen
 
 All Slicer modules operate on the data stored in a Slicer scene.</source>
         <extracomment>34_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer stores all loaded data in a repository called a scene
+
+
+Each data set, such as an image volume, surface model, or point set, is represented as a node in a Slicer scene.
+
+
+All Slicer modules operate on the data stored in a Slicer scene.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="150"/>
         <source>Loading a Scene</source>
         <extracomment>35_LoadingaScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Loading a Scene</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="152"/>
@@ -558,7 +581,9 @@ All Slicer modules operate on the data stored in a Slicer scene.</source>
 surface model of the 
 head and 2D MRI slices</source>
         <extracomment>35_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer displays a 3D 
+surface model of the 
+head and 2D MRI slices</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="154"/>
@@ -576,7 +601,7 @@ head and 2D MRI slices</source>
 39_Viewing3Dmodels_title
 ----------
 40_Viewing3Dmodels_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Viewing 3D models</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="156"/>
@@ -586,14 +611,19 @@ slice menu and click on
 the eye icon to display the 
 axial slice in the 3D viewer</source>
         <extracomment>36_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Position the cursor over 
+the pin icon to reveal the 
+slice menu and click on 
+the eye icon to display the 
+axial slice in the 3D viewer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="160"/>
         <source>Select the Models module 
 in the list of models</source>
         <extracomment>37_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Select the Models module 
+in the list of models</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="164"/>
@@ -603,7 +633,11 @@ scene
 
 Select the model Skin.vtk</source>
         <extracomment>38_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer displays the list of 
+3D models loaded in the 
+scene
+
+Select the model Skin.vtk</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="168"/>
@@ -611,7 +645,9 @@ Select the model Skin.vtk</source>
 the Skin model using 
 the visibility slider</source>
         <extracomment>39_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lower the opacity of 
+the Skin model using 
+the visibility slider</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="170"/>
@@ -619,7 +655,9 @@ the visibility slider</source>
 eyeballs models appear 
 through the skin</source>
         <extracomment>39_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>The skull bone and 
+eyeballs models appear 
+through the skin</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="174"/>
@@ -628,7 +666,10 @@ model and click on the
 eye icon to turn off its 
 visibility</source>
         <extracomment>40_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Select the skull bone 
+model and click on the 
+eye icon to turn off its 
+visibility</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="176"/>
@@ -636,7 +677,9 @@ visibility</source>
 optic nerve models 
 appear through the skin</source>
         <extracomment>40_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>The white matter and 
+optic nerve models 
+appear through the skin</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="178"/>
@@ -651,7 +694,7 @@ appear through the skin</source>
 43_Interactingwith3Dmodels_title
 ----------
 44_Interactingwith3Dmodels_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Interacting with 3D models</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="180"/>
@@ -659,7 +702,9 @@ appear through the skin</source>
 display the coronal slice 
 in the 3D viewer</source>
         <extracomment>41_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Click on the eye icon to 
+display the coronal slice 
+in the 3D viewer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="184"/>
@@ -667,7 +712,9 @@ in the 3D viewer</source>
 white matter model and 
 select the option Clipping</source>
         <extracomment>42_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Select the hemispheric 
+white matter model and 
+select the option Clipping</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="188"/>
@@ -675,20 +722,23 @@ select the option Clipping</source>
 posteriorily to display the 
 optic chiasm</source>
         <extracomment>43_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Move the coronal slice 
+posteriorily to display the 
+optic chiasm</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="192"/>
         <source>Slicer displays a 3D view of 
 the optic chiasm</source>
         <extracomment>44_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer displays a 3D view of 
+the optic chiasm</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="194"/>
         <source>Conclusion</source>
         <extracomment>45_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conclusion</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="196"/>
@@ -699,19 +749,24 @@ the optic chiasm</source>
 
 Contact: spujol@bwh.harvard.edu</source>
         <extracomment>45_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• 3D Slicer provides advanced functionalities for loading and viewing 3D medical imaging data
+
+• The tutorial demonstrates how to use volume rendering and 3D surface modeling for interactive visualization of CT and MRI data
+
+
+Contact: spujol@bwh.harvard.edu</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="198"/>
         <source>Acknowledgements</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Acknowledgements</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="200"/>
         <source>Neuroimage Analysis Center (NIBIB P41 EB015902)</source>
         <extracomment>46_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neuroimage Analysis Center (NIBIB P41 EB015902)</translation>
     </message>
 </context>
 </TS>
