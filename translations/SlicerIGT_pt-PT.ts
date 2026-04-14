@@ -2415,12 +2415,12 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="122"/>
         <source>This action will delete all snapshots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta ação eliminará todas as snapshots.</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="123"/>
         <source>Continue with this action?</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar com esta ação?</translation>
     </message>
 </context>
 <context>
