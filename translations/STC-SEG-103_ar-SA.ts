@@ -348,7 +348,7 @@ The module can run on standard laptop and desktop computers with no GPU.</source
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>31_TextBox_0</extracomment>
-        <translation>الإقرارات</translation>
+        <translation>شكر وتقدير</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
