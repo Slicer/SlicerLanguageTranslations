@@ -7,13 +7,13 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Slicer Welcome</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation>مرحباً بك في Slicer</translation>
+        <translation>مرحبًا بكم في Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation>دكتورة سونيا بوجول.</translation>
+        <translation>Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -26,7 +26,7 @@ Harvard Medical School
         <extracomment>0_TextBox_3</extracomment>
         <translation>أستاذ مساعد في الأشعة
 
-مستشفى بريغهام للنساء
+مستشفى بريغهام و النساء
 
 كلية الطب بجامعة هارفارد
 </translation>
@@ -35,7 +35,7 @@ Harvard Medical School
         <location filename="text_dict_default.json" line="14"/>
         <source>Goal</source>
         <extracomment>1_Goal_title</extracomment>
-        <translation>هدف</translation>
+        <translation>الهدف</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
@@ -72,7 +72,7 @@ Harvard Medical School
         <location filename="text_dict_default.json" line="26"/>
         <source>Supported Platforms</source>
         <extracomment>4_TextBox_0</extracomment>
-        <translation>منصات التشغيل المدعومة</translation>
+        <translation>المنصات المدعومة</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -88,7 +88,7 @@ Harvard Medical School
         <location filename="text_dict_default.json" line="30"/>
         <source>Welcome to Slicer</source>
         <extracomment>5_WelcometoSlicer_title</extracomment>
-        <translation>مرحبًا بك في Slicer</translation>
+        <translation>مرحبًا بكم في Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
@@ -128,13 +128,13 @@ Click on the arrow symbol to display the content of each tab. </source>
         <location filename="text_dict_default.json" line="42"/>
         <source>Data probe</source>
         <extracomment>6_TextBox_5</extracomment>
-        <translation>أداة استكشاف البيانات</translation>
+        <translation>التحقيق في البيانات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>2D anatomical viewers</source>
         <extracomment>6_ArrowText_6</extracomment>
-        <translation>عارضات تشريحية 2D</translation>
+        <translation>برامج عرض تشريحي ثنائي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
@@ -160,9 +160,9 @@ Click on the arrow symbol to display the content of each tab. </source>
 
 Click on Download Sample Data to access the Sample Data Module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation>تحتوي لوحة وحدة الترحيب على اختصارات لتحميل أنواع مختلفة من البيانات. كما تتوفر أيضًا مجموعة من بيانات تجريبية.
+        <translation>تحتوي لوحة وحدة الترحيب على اختصارات لتحميل أنواع مختلفة من البيانات. كما تتوفر سلسلة من البيانات النموذجية.
 
-انقر على &quot;Download Sample Data&quot; للوصول إلى وحدة بيانات العينات (Sample Data Module)</translation>
+انقر على «تنزيل البيانات النموذجية» للوصول إلى وحدة البيانات النموذجية</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -174,43 +174,43 @@ Click on Download Sample Data to access the Sample Data Module</source>
 10_SampleData_title
 ----------
 11_SampleData_title</extracomment>
-        <translation>بيانات تجريبية</translation>
+        <translation>بيانات نموذجية</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="56"/>
         <source>The Sample Data module contains links to different sample datasets that can be downloaded into Slicer.</source>
         <extracomment>9_TextBox_1</extracomment>
-        <translation>تحتوي وحدة &quot;البيانات التجريبية&quot; على روابط لمجموعات بيانات نموذجية مختلفة يمكن تحميلها داخل Slicer.</translation>
+        <translation>تحتوي وحدة &quot; البيانات النموذجية&quot; على روابط لمجموعات بيانات نموذجية مختلفة يمكن تحميلها داخل Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
         <source>Brain MR</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation>رنين مغناطيسي للدماغ</translation>
+        <translation>التصوير بالرنين المغناطيسي للدماغ</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="62"/>
         <source>Chest CT</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation>أشعة مقطعية للصدر</translation>
+        <translation>التصوير المقطعي المحوسب للصدر</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
         <source>Cardiac CT</source>
         <extracomment>10_TextBox_2</extracomment>
-        <translation>أشعة مقطعية للقلب</translation>
+        <translation>التصوير المقطعي المحوسب للقلب</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="66"/>
         <source>Diffusion Tensor Imaging (DTI) Dataset</source>
         <extracomment>10_TextBox_3</extracomment>
-        <translation>مجموعة بيانات التصوير بالانتشار الموجّه (DTI)</translation>
+        <translation>مجموعة بيانات التصوير بالتوتر الانتشاري (DTI)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
         <source>Brain MRI (tumor patient)</source>
         <extracomment>10_TextBox_4</extracomment>
-        <translation>رنين مغناطيسي للدماغ (مريض بورم)</translation>
+        <translation>التصوير بالرنين المغناطيسي للدماغ (لمريض مصاب بورم)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
@@ -238,7 +238,7 @@ in the 2D viewers.</source>
 14_MRBrainSampleDataset_title
 ----------
 15_MRBrainSampleDataset_title</extracomment>
-        <translation>مجموعة بيانات MR للدماغ</translation>
+        <translation>مجموعة بيانات عينات الدماغ بالرنين المغناطيسي</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -251,8 +251,8 @@ in the 2D viewers.</source>
         <source>Click on the link icon to link all three 2D viewers, and on the eye icon next to it
 to display the slices in the 3D viewer</source>
         <extracomment>14_TextBox_1</extracomment>
-        <translation>انقر على أيقونة الرابط لربط جميع نوافذ العرض ثنائية الأبعاد الثلاث، ثم على أيقونة العين المجاورة لها
- لعرض المقاطع في العارض ثلاثي الأبعاد</translation>
+        <translation>انقر على أيقونة الرابط لربط العارضات الثلاثة ثنائية الأبعاد، ثم انقر على أيقونة العين الموجودة بجانبها
+لعرض الشرائح في العارض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
@@ -269,13 +269,13 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <extracomment>16_GoingFurther_title
 ----------
 17_TextBox_0</extracomment>
-        <translation>للمضي قدمًا</translation>
+        <translation>المضي قدماً</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
         <source>To learn more about Slicer and its different functionalities, visit the Slicer Compendium</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation>لاكتساب فهم أعمق حول 3D Slicer ووظائفه المختلفة، يُنصح بالاطلاع على مرجع Slicer Compendium</translation>
+        <translation>لمعرفة المزيد عن Slicer ووظائفه المختلفة، تفضل بزيارة دليل Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
@@ -287,7 +287,7 @@ Go back to the Welcome module using the green arrow in the toolbar</source>
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation>الإقرارات</translation>
+        <translation>شكر وتقدير</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -306,7 +306,7 @@ NIH U54EB005149
 مركز تحليل الصور العصبية
 NIH P41EB015902
 
-مبادرة تشان زوكربيرغ</translation>
+مبادرة تشان زوكربيرغ (CZI)</translation>
     </message>
 </context>
 </TS>
