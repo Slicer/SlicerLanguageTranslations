@@ -128,6 +128,11 @@ def process_file(path, cache):
     lang_match = re.search(r"<TS\b[^>]*\blanguage=(['\"])([^'\"]+)\1", content)
     lang = (lang_match.group(2) if lang_match else "EN").upper()
 
+    # Skip English language files since source is already in English
+    if lang.startswith("EN"):
+        print("Skipping:", path, "→", lang, "(English source)")
+        return False
+
     print("Processing:", path, "→", lang)
 
     matches = list(TRANSLATION_BLOCK.finditer(content))
