@@ -4977,17 +4977,17 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pretende especificar um intervalo contínuo de etiquetas dos quais gerar modelos, introduza a etiqueta mais baixa aqui. Valor do voxel a partir do qual começar a fazer modelos. Usado em vez da lista de etiquetas para especificar um intervalo (certifique-se que a lista de etiquetas está vazia ou irá sobrepor a mesma).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pretende especificar um intervalo contínuo de etiquetas dos quais gerar modelos, introduza a etiqueta mais baixa aqui. Valor do voxel a partir do qual começar a fazer modelos. Ignora quaisquer valores com zero voxels.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione isto para não gerar modelos a partir de etiquetas que não têm nomes definidos na tabela de procura de cores associada com o mapa de etiquetas de entrada. Se for verdadeiro, apenas modelos que têm uma entrada na tabela de cores serão gerados.  Se for falso, gera todos os modelos que existem dentro do intervalo de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
