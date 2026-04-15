@@ -69,37 +69,17 @@ def preserve_entities(source_raw, translated):
     return translated
 
 
-def clean_translation_attributes(attrs):
-    return re.sub(r'\s*type=(["\'])unfinished\1', '', attrs or "")
-
-
-def has_extracomment_mt(middle_section):
-    """Checks if an mt:deepl extracomment already exists in the block."""
-    return bool(re.search(r'<extracomment>\s*mt:deepl\s*</extracomment>', middle_section))
-
-
 def build_new_block(message_prefix, middle_section, translation_tag,
                     translation_attrs, translation_gt, translated_text, translation_close):
     """
     Rebuilds the complete <message> block with:
     - type="unfinished" on <translation>
-    - <extracomment>mt:deepl</extracomment> inserted before <translation> (if absent)
     """
-    clean_attrs = clean_translation_attributes(translation_attrs)
-    new_attrs = f' type="unfinished"{clean_attrs}'
-
-    # Insertion of the extracomment if absent
-    if has_extracomment_mt(middle_section):
-        new_middle = middle_section
-    else:
-        # We insert <extracomment> just before <translation>, preserving indentation
-        indent_match = re.search(r'\n(\s*)$', middle_section)
-        indent = indent_match.group(1) if indent_match else "        "
-        new_middle = middle_section + f'<extracomment>mt:deepl</extracomment>\n{indent}'
+    new_attrs = ' type="unfinished"'
 
     return (
         f"{message_prefix}"
-        f"{new_middle}"
+        f"{middle_section}"
         f"{translation_tag}{new_attrs}{translation_gt}"
         f"{translated_text}"
         f"{translation_close}"
