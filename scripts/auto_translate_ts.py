@@ -6,6 +6,12 @@ import subprocess
 
 DEEPL_API_KEY = os.environ["DEEPL_API_KEY"]
 DEEPL_URL = "https://api-free.deepl.com/v2/translate"
+# Use "https://api.deepl.com/v2/translate" for Pro API
+# Size limits: 128 KiB for all requests (Free and Pro)
+# Text limit: 50 texts per request for both
+
+DEEPL_MAX_SIZE_KB = 128  # 128 KiB max per request
+DEEPL_MAX_TEXTS = 50     # 50 texts max per request
 
 CACHE_FILE = "scripts/translation_cache.json"
 
@@ -87,11 +93,80 @@ def build_new_block(message_prefix, middle_section, translation_tag,
 
 
 def batch_translate(texts, target_lang):
+    """
+    Translate texts in batches respecting DeepL API limits.
+    - Maximum 50 texts per request
+    - Maximum DEEPL_MAX_SIZE_KB per request
+    """
     headers = {"Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}"}
-    payload = {"target_lang": target_lang, "text": texts}
-    r = requests.post(DEEPL_URL, data=payload, headers=headers)
-    r.raise_for_status()
-    return [t["text"] for t in r.json()["translations"]]
+
+    results = []
+    current_batch = []
+    current_size = 0
+
+    for text in texts:
+        # Estimate size: each text + JSON overhead (~100 bytes per text)
+        text_size = len(text.encode('utf-8')) + 100
+
+        # Check if adding this text would exceed limits
+        would_exceed_count = len(current_batch) >= DEEPL_MAX_TEXTS
+        would_exceed_size = (current_size + text_size) > (DEEPL_MAX_SIZE_KB * 1024)
+
+        if current_batch and (would_exceed_count or would_exceed_size):
+            # Send current batch
+            print(f"  Sending batch of {len(current_batch)} texts ({current_size} bytes)...")
+            batch_results = _send_translation_request(current_batch, target_lang, headers)
+            results.extend(batch_results)
+            current_batch = []
+            current_size = 0
+
+        current_batch.append(text)
+        current_size += text_size
+
+    # Send remaining batch
+    if current_batch:
+        print(f"  Sending final batch of {len(current_batch)} texts ({current_size} bytes)...")
+        batch_results = _send_translation_request(current_batch, target_lang, headers)
+        results.extend(batch_results)
+
+    return results
+
+
+def normalize_lang_code(lang):
+    """
+    Normalize language codes for DeepL API.
+    - Replace underscores with hyphens
+    - For Arabic variants, use just 'AR'
+    """
+    # Replace underscore with hyphen
+    normalized = lang.replace("_", "-").upper()
+
+    # Handle Arabic variants: AR-SA, AR-AE, etc. → AR
+    if normalized.startswith("AR"):
+        return "AR"
+
+    return normalized
+
+
+def _send_translation_request(texts, target_lang, headers):
+    """
+    Send a single translation request to DeepL API.
+    Raises an exception if the request fails.
+    """
+    # Normalize language code for DeepL API
+    normalized_lang = normalize_lang_code(target_lang)
+    print(f"    Language: {target_lang} → {normalized_lang}")
+
+    payload = {"target_lang": normalized_lang, "text": texts}
+
+    try:
+        r = requests.post(DEEPL_URL, data=payload, headers=headers)
+        r.raise_for_status()
+        return [t["text"] for t in r.json()["translations"]]
+    except requests.exceptions.HTTPError as e:
+        print(f"    HTTP Error: {e.response.status_code}")
+        print(f"    Response: {e.response.text}")
+        raise
 
 
 def get_modified_ts_files():
