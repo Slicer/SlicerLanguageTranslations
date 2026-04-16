@@ -8,7 +8,8 @@
         <source>Slicer4 Minute
 </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer4 دقائق
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -22,7 +23,9 @@
 Brigham and Women’s Hospital
 Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أستاذ مساعد في طب الأشعة
+مستشفى بريغهام آند وومنز
+كلية الطب بجامعة هارفارد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
@@ -31,19 +34,19 @@ Harvard Medical School</source>
         <extracomment>1_TextBox_0
 ----------
 16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دليل سريع لمدة 4 دقائق حول برنامج Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>This tutorial is a 4-minute introduction to the 3D visualization capabilities of the Slicer5 software for medical image analysis. </source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">هذا البرنامج التعليمي هو مقدمة مدتها 4 دقائق لإمكانيات التصور ثلاثي الأبعاد التي يوفرها برنامج Slicer5 لتحليل الصور الطبية. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Slicer5 software &amp; dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">برنامج Slicer5 ومجموعة البيانات</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -51,19 +54,21 @@ Harvard Medical School</source>
 
 *Download the Slicer4minute dataset available at https://www.slicer.org/wiki/Documentation/4.10/Training</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*قم بتنزيل برنامج Slicer5 المتوفر على الرابط http://download.slicer.org
+
+*قم بتنزيل مجموعة بيانات Slicer4minute المتوفرة على الرابط https://www.slicer.org/wiki/Documentation/4.10/Training</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>3D Slicer version 5</source>
         <extracomment>3_3DSlicerversion5_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">برنامج 3D Slicer الإصدار 5</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>3D Slicer Scene</source>
         <extracomment>4_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مشهد في برنامج 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -72,31 +77,34 @@ Harvard Medical School</source>
 *The scene file and datasets have been saved as a MRB (Medical Reality Bundle) file. 
 *The MRB file format is Slicer&apos;s archive file format.</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*مشهد Slicer هو ملف MRML (لغة نمذجة الواقع الطبي) يحتوي على قائمة بالعناصر التي تم تحميلها في Slicer (الأحجام، والنماذج، والعلامات المرجعية، والتحويلات، وما إلى ذلك)
+*في المثال التالي، نستخدم مشهدًا باسم "Slicer4minute.mrml" يتألف من فحص بالرنين المغناطيسي ونماذج ثلاثية الأبعاد للرأس.
+*تم حفظ ملف المشهد ومجموعات البيانات كملف MRB (حزمة الواقع الطبي).
+*تنسيق ملف MRB هو تنسيق ملفات الأرشيف الخاص ببرنامج Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
         <source>Loading the Slicer4minute dataset</source>
         <extracomment>5_LoadingtheSlicer4minutedataset_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تحميل مجموعة بيانات Slicer4minute</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>Drag and drop the slicer4minute.mrb to load the scene in Slicer</source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">اسحب ملف slicer4minute.mrb وأفلته لتحميل المشهد في Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Slicer4minute Scene</source>
         <extracomment>6_Slicer4minuteScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مشهد من لعبة Slicer4minute</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer displays the elements of the slicer4minute scene. The scene contains and MRI scan and 3D surface models of the brain.</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">يعرض "Slicer" عناصر مشهد "slicer4minute". يحتوي المشهد على صورة مسح بالرنين المغناطيسي ونماذج سطحية ثلاثية الأبعاد للدماغ.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
@@ -120,26 +128,27 @@ Harvard Medical School</source>
 14_3DVisualization_title
 ----------
 15_3DVisualization_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">التصور ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
         <source>Select the module Models</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">اختر الوحدة النمطية «النماذج»</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>3D visualization</source>
         <extracomment>8_3Dvisualization_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">التصور ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
         <source>Click on the pin icon on the top left corner of the red slice to display the slice Viewer menu.
 Click on the eye to display the axial slice in the 3D viewer</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">انقر على أيقونة الدبوس الموجودة في الزاوية اليسرى العليا من الشريحة الحمراء لعرض قائمة عارض الشرائح.
+انقر على أيقونة العين لعرض الشريحة المحورية في عارض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
@@ -147,32 +156,35 @@ Click on the eye to display the axial slice in the 3D viewer</source>
 
 Slicer simultaneously displays the axial slice in the 3D viewer</source>
         <extracomment>9_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استخدم شريط التمرير في العارض الأحمر لتصفح الشرائح المحورية للرنين المغناطيسي.
+
+يعرض برنامج Slicer الشريحة المحورية في نفس الوقت في العارض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
         <source>Select the Skin model and lower its opacity using the Opacity slider in the 3D Display tab</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حدد نموذج "Skin" وقم بتخفيض شفافيته باستخدام شريط التمرير "Opacity" في علامة التبويب "3D Display"</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
         <source>The skull_bone.vtk model appears through the skin.</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">يظهر النموذج skull_bone.vtk من خلال الجلد.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="56"/>
         <source>Position the mouse in the 3D viewer, click on the left-mouse button to drag and rotate the model. 
 Click on the right-mouse button to zoom in and out</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ضع المؤشر في عارض ثلاثي الأبعاد، وانقر بالزر الأيسر للماوس لسحب النموذج وتدويره.
+انقر بالزر الأيمن للماوس للتكبير والتصغير</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
         <source>Anatomical Views</source>
         <extracomment>12_AnatomicalViews_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مناظر تشريحية</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
@@ -180,19 +192,21 @@ Click on the right-mouse button to zoom in and out</source>
 
 Click on the eye icon to display the axial and coronal slice in the 3D viewer</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">انقر على أيقونات الدبوس الموجودة في الزاوية العلوية اليسرى من عارض الشرائح الأحمر والأخضر لعرض قائمة عارض الشرائح
+
+انقر على أيقونة العين لعرض الشريحة المحورية والتاجية في عارض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
         <source>Turn off the visibility of the skull to display the brain white matter model</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">قم بإخفاء الجمجمة لعرض نموذج المادة البيضاء للدماغ</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
         <source>The white matter surface, as well as the left and right optic nerves, appear in the viewer</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">يظهر سطح المادة البيضاء، بالإضافة إلى العصبين البصريين الأيمن والأيسر، في شاشة العرض</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
@@ -202,7 +216,11 @@ Check Clipping in the 3D Display tab
 
 In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; and check &apos;Negative&apos;</source>
         <extracomment>15_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حدد النموذج hemispheric_white_matter.vtk
+
+حدد خيار "Clipping" في علامة التبويب "3D Display"
+
+في علامة التبويب "Clipping Planes"، حدد الخيار "Green Slice Clipping" وحدد "Negative"</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -210,7 +228,9 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
 
 *The Slicer5 training compendium contains a series of tutorials and pre-computed datasets to learn how to use the software.</source>
         <extracomment>16_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*كان هذا البرنامج التعليمي بمثابة مقدمة موجزة حول التصور التفاعلي ثلاثي الأبعاد لبيانات التصوير بالرنين المغناطيسي والنماذج ثلاثية الأبعاد في برنامج Slicer.
+
+*يحتوي دليل التدريب على برنامج Slicer5 على سلسلة من البرامج التعليمية ومجموعات البيانات المُعدة مسبقًا لتعلم كيفية استخدام البرنامج.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
@@ -228,7 +248,13 @@ Neuroimage Analysis Center
 NIH P41EB015902
 </source>
         <extracomment>17_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">التحالف الوطني للصور الطبية
+والحوسبة
+NIH U54EB005149
+
+مركز تحليل الصور العصبية
+NIH P41EB015902
+</translation>
     </message>
 </context>
 </TS>
