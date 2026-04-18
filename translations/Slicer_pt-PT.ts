@@ -5875,7 +5875,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished">
+        <translation>
   </translation>
     </message>
     <message>
@@ -6352,87 +6352,87 @@ Preservação da Direção Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished">Espaçamento</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
         <source>Size</source>
-        <translation type="unfinished">Para si</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished">Matriz de Direção</translation>
+        <translation>Matriz de Direção</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Espaçamento em cada dimensão (0 significa utilizar o espaçamento da entrada)</translation>
+        <translation>Espaçamento em cada dimensão (0 significa utilizar o espaçamento da entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished">Dimensão em cada eixo (0 significa utilizar a dimensão de entrada)</translation>
+        <translation>Dimensão em cada eixo (0 significa utilizar a dimensão de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished">Origem da imagem de saída</translation>
+        <translation>Origem da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished">9 parâmetros da matriz de direção por linhas (ijk para LPS, se for transformação LPS; ijk para RAS, se for transformação RAS)</translation>
+        <translation>9 parâmetros da matriz de direção por linhas (ijk para LPS, se for transformação LPS; ijk para RAS, se for transformação RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished">Parâmetros avançados de reamostragem</translation>
+        <translation>Parâmetros Avançados de Reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="83"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished">Parâmetros utilizados para a reamostragem</translation>
+        <translation>Parâmetros utilizados para a reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">Número de Threads</translation>
+        <translation>Número de Threads</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished">Valor padrão do pixel</translation>
+        <translation>Valor Padrão do Pixel</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished">Número de threads utilizados para calcular a imagem de saída</translation>
+        <translation>Número de threads utilizadas para calcular a imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished">Valor padrão em pixels para amostras que se encontram fora da região de entrada</translation>
+        <translation>Valor padrão em pixels para amostras que se encontram fora da região de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished">Parâmetros da função de interpolação Sinc com janela</translation>
+        <translation>Parâmetros da Função de Interpolação Sinc com Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished">Parâmetros utilizados na interpolação Sinc com janela</translation>
+        <translation>Parâmetros utilizados na interpolação Sinc com Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
         <source>Window Function</source>
-        <translation type="unfinished">Função de janela</translation>
+        <translation>Função de Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
@@ -6442,7 +6442,7 @@ c = Cosine
 w = Welch 
 l = Lanczos 
 b = Blackman</source>
-        <translation type="unfinished">Função de janela 
+        <translation>Função de Janela 
 h = Hamming 
 c = Cosseno 
 w = Welch 
@@ -6453,32 +6453,32 @@ b = Blackman</translation>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="92"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="94"/>
         <source>c</source>
-        <translation type="unfinished">c</translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="93"/>
         <source>h</source>
-        <translation type="unfinished">e</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="95"/>
         <source>w</source>
-        <translation type="unfinished">em</translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="96"/>
         <source>l</source>
-        <translation type="unfinished">o</translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="97"/>
         <source>b</source>
-        <translation type="unfinished">b</translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished">Parâmetros da função de interpolação B-spline</translation>
+        <translation>Parâmetros da Função de Interpolação B-spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
@@ -6488,52 +6488,52 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
         <source>Spline Order</source>
-        <translation type="unfinished">Ordem da spline</translation>
+        <translation>Ordem da Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
         <source>Spline Order (Spline order may be from 0 to 5)</source>
-        <translation type="unfinished">Ordem da spline (A ordem da spline pode variar entre 0 e 5)</translation>
+        <translation>Ordem da Spline (A ordem da spline pode variar entre 0 e 5)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
         <source>Manual Transform (Used only if no transform node set)</source>
-        <translation type="unfinished">Transformação manual (utilizada apenas se não estiver definido nenhum nó de transformação)</translation>
+        <translation>Transformação Manual (Utilizada apenas se não estiver definido nenhum nó de transformação)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>Matriz de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Tipo de Transformação</translation>
+        <translation>Tipo de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished">Os 12 parâmetros da matriz de transformação por linhas ( --sendo os últimos 3 de translação-- )</translation>
+        <translation>Os 12 parâmetros da matriz de transformação por linhas ( --sendo os últimos 3 de translação-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished">Algoritmo de transformação
-rt = Transformação rígida
-a = Transformação afim</translation>
+        <translation>Algoritmo de transformação
+rt = Transformação Rígida
+a = Transformação Afim</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="107"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="109"/>
         <source>a</source>
-        <translation type="unfinished">o</translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"/>
         <source>rt</source>
-        <translation type="unfinished">rt</translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -6541,7 +6541,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation type="unfinished">Reamostrar escalar/vetor/volume DWI</translation>
+        <translation>Reamostrar Escalar/Vetor/Volume DWI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
