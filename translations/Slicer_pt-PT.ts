@@ -16,7 +16,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation>Parâmetros de entrada</translation>
+        <translation>Parâmetros de Entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
@@ -2049,7 +2049,7 @@ Permite converter para o mesmo tipo que o volume de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
@@ -2107,7 +2107,7 @@ Permite converter para o mesmo tipo que o volume de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation>Saída</translation>
+        <translation>Resultado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
@@ -2740,12 +2740,12 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
@@ -2755,7 +2755,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
@@ -3060,7 +3060,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
@@ -3459,7 +3459,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
@@ -3524,7 +3524,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
         <source>Measurements</source>
-        <translation type="unfinished">Measurements</translation>
+        <translation>Medidas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
@@ -3667,12 +3667,12 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
@@ -3758,12 +3758,12 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"/>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="26"/>
         <source>1D</source>
-        <translation type="unfinished">1D</translation>
+        <translation>1D</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="27"/>
         <source>2D</source>
-        <translation type="unfinished">2D</translation>
+        <translation>2D</translation>
     </message>
 </context>
 <context>
@@ -3781,17 +3781,17 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
@@ -3811,7 +3811,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Tipo de Transformação</translation>
+        <translation>Tipo de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
@@ -3862,7 +3862,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
         <source>Translation</source>
-        <translation type="unfinished">Translation</translation>
+        <translation>Tradução</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
@@ -3872,7 +3872,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="26"/>
         <source>Affine</source>
-        <translation type="unfinished">Afim</translation>
+        <translation>Afim</translation>
     </message>
 </context>
 <context>
@@ -3890,17 +3890,17 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
@@ -3910,12 +3910,12 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volume de Entrada</translation>
+        <translation>Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
@@ -3952,57 +3952,57 @@ Métodos de difusão anisotrópica reduzem barulho (ou detalhes indesejados) em 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comando foi derivado a partir do Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation>Este módulo de comando foi derivado a partir do Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished">Parâmetros da Difusão Anisotrópica</translation>
+        <translation>Parâmetros da Difusão Anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished">Parâmetros para o algoritmo de difusão anisotrópica</translation>
+        <translation>Parâmetros para o algoritmo de difusão anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
         <source>Conductance</source>
-        <translation type="unfinished">Condutância</translation>
+        <translation>Condutância</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished">Iterações</translation>
+        <translation>Iterações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
         <source>Time Step</source>
-        <translation type="unfinished">Intervalo de Tempo</translation>
+        <translation>Intervalo de Tempo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished">Valores de condutância controlam a sensibilidade do termo de condutância. Enquanto regra geral, quanto mais baixo o valor, mais fortemente o filtro preserva as bordas. Um valor mais alto causará difusão (suavização) ao logo das bordas. Note que o número de iterações controla quanta suavização é feita em regiões delimitadas por bordas.</translation>
+        <translation>Valores de condutância controlam a sensibilidade do termo de condutância. Enquanto regra geral, quanto mais baixo o valor, mais fortemente o filtro preserva as bordas. Um valor mais alto causará difusão (suavização) ao logo das bordas. Note que o número de iterações controla quanta suavização é feita em regiões delimitadas por bordas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished">Quantas mais iterações, quanto mais suavização. Cada iteração leva a mesma quantidade de tempo. Se demora 10 segundos para uma iteração, então demorará 100 segundos para 10 iterações. Note que a condutância controla o quanto uma iteração suaviza ao longo das bordas.</translation>
+        <translation>Quantas mais iterações, quanto mais suavização. Cada iteração leva a mesma quantidade de tempo. Se demora 10 segundos para uma iteração, então demorará 100 segundos para 10 iterações. Note que a condutância controla o quanto uma iteração suaviza ao longo das bordas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished">O intervalo de tempo depende na dimensionalidade da imagem. No Slicer as imagens são 3D e o intervalo de tempo padrão (0.0625) fornece uma solução estável.</translation>
+        <translation>O intervalo de tempo depende na dimensionalidade da imagem. No Slicer as imagens são 3D e o intervalo de tempo padrão (0.0625) fornece uma solução estável.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
@@ -4012,22 +4012,22 @@ Métodos de difusão anisotrópica reduzem barulho (ou detalhes indesejados) em 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volume de entrada a ser filtrado</translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Resultado filtrado</translation>
+        <translation>Resultado filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
@@ -4076,17 +4076,17 @@ Um filtro complementar, Redução de Picos de Escala de Cinzentos, remove picos 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
@@ -4096,17 +4096,17 @@ Um filtro complementar, Redução de Picos de Escala de Cinzentos, remove picos 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volume de entrada a ser filtrado</translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Resultado filtrado</translation>
+        <translation>Resultado filtrado</translation>
     </message>
 </context>
 <context>
@@ -4144,17 +4144,17 @@ Um filtro complementar, Grayscale Fill Hole, preenche buracos em imagens em esca
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
@@ -4164,17 +4164,17 @@ Um filtro complementar, Grayscale Fill Hole, preenche buracos em imagens em esca
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volume de entrada a ser filtrado</translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Resultado filtrado</translation>
+        <translation>Resultado filtrado</translation>
     </message>
 </context>
 <context>
@@ -4187,22 +4187,22 @@ Um filtro complementar, Grayscale Fill Hole, preenche buracos em imagens em esca
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
-        <translation>Criar modelos 3D de superfície através de dados de escala de cinzentos. Este módulo usa Marching Cubes para criar uma isosuperfície dado um certo limite. A superfície resultante consiste de triângulos que separam um volume em regiões abaixo e acima do limite. A superfície resultante pode ser suavizada e simplificada. Este modelo funciona em dados contínuos enquanto que o módulo Criador de Modelos funciona em dados etiquetados (ou discretos).</translation>
+        <translation>Criar modelos 3D de superfície através de dados de escala de cinzentos. Este módulo usa Marching Cubes para criar uma isosuperfície dado um certo limite. A superfície resultante consiste de triângulos que separam um volume em regiões abaixo e acima do limite. A superfície resultante pode ser suavizada e simplificada. Este modelo funciona em dados contínuos enquanto que o módulo Criador de Modelos funciona em dados rotulados (ou discretos).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
@@ -4297,7 +4297,7 @@ Um filtro complementar, Grayscale Fill Hole, preenche buracos em imagens em esca
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
@@ -4337,7 +4337,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
@@ -4382,12 +4382,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
@@ -4402,12 +4402,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volume de entrada a ser filtrado</translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
@@ -4435,58 +4435,58 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
         <source>Input Label Map A</source>
-        <translation>Mapa de Etiquetas de Entrada A</translation>
+        <translation>Mapa de Rótulos de Entrada A</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="9"/>
         <source>Input Label Map B</source>
-        <translation>Mapa de Etiquetas de Entrada B</translation>
+        <translation>Mapa de Rótulos de Entrada B</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="10"/>
         <source>Output Label Map</source>
-        <translation>Mapa de Etiquetas de Saída</translation>
+        <translation>Mapa de Rótulos de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"/>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"/>
         <source>Label map image</source>
-        <translation>Imagem de mapa de etiquetas</translation>
+        <translation>Imagem de mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"/>
         <source>Resulting Label map image</source>
-        <translation>Imagem de mapa de etiquetas resultante</translation>
+        <translation>Imagem de mapa de rótulos resultante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"/>
         <source>Label combination options</source>
-        <translation>Opções de combinações de etiquetas</translation>
+        <translation>Opções de combinações de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="15"/>
         <source>Selection of how to combine label maps</source>
-        <translation>Seleção de como combinar mapas de etiquetas</translation>
+        <translation>Seleção de como combinar mapas de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="16"/>
         <source>First Label Overwrites Second</source>
-        <translation>Primeira Etiqueta Sobrescreve a Segunda</translation>
+        <translation>Primeiro Rótulos Sobrescreve o Segundo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="17"/>
         <source>Use first or second label when both are present</source>
-        <translation>Usar primeira ou segunda etiqueta quando ambos estão presente</translation>
+        <translation>Usar primeiro ou segundo rótulos quando ambos estão presentes</translation>
     </message>
 </context>
 <context>
@@ -4494,12 +4494,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="4"/>
         <source>Label Map Smoothing</source>
-        <translation>Suavização de Mapa de Etiquetas</translation>
+        <translation>Suavização de Mapa de Rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
         <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
-        <translation>Este filtro suaviza um mapa de etiquetas binário.  Com um mapa de etiquetas como entrada, este filtro executa um algoritmo de anti-aliasing seguido de um algoritmo de suavização Gaussiano.  O resultado é um mapa de etiquetas suavizado.</translation>
+        <translation>Este filtro suaviza um mapa de rótulos binário.  Com um mapa de rótulos como entrada, este filtro executa um algoritmo de anti-aliasing seguido de um algoritmo de suavização Gaussiano.  O resultado é um mapa de rótulos suavizado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
@@ -4509,22 +4509,22 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
         <source>Label Selection Parameters</source>
-        <translation>Parâmetros de Seleção de Etiqueta</translation>
+        <translation>Parâmetros de Seleção de Rótulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"/>
         <source>Parameters for selecting the label to smooth</source>
-        <translation>Parâmetros para selecionar a etiqueta a suavizar</translation>
+        <translation>Parâmetros para selecionar o rótulo a suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
         <source>Label to smooth</source>
-        <translation>Etiqueta a suavizar</translation>
+        <translation>Rótulo a suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation>A etiqueta a suavizar.  Todas as outras serão ignoradas.  Se nenhuma etiqueta for selecionada pelo utilizador, a etiqueta máxima na imagem é escolhida por padrão.</translation>
+        <translation>O rótulo a suavizar.  Todas as outras serão ignoradas.  Se nenhum rótulo for selecionada pelo utilizador, o rótulo máxima na imagem é escolhida por padrão.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
@@ -4579,12 +4579,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
@@ -4594,17 +4594,17 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
         <source>Input label map to smooth</source>
-        <translation>Mapa de etiquetas para suavizar</translation>
+        <translation>Mapa de rótulos para suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="26"/>
         <source>Smoothed label map</source>
-        <translation>Mapa de etiquetas suavizado</translation>
+        <translation>Mapa de rótulos suavizado</translation>
     </message>
 </context>
 <context>
@@ -4617,12 +4617,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation>Mascara duas imagens. A imagem de saída é definida a 0 exceto onde a etiqueta escolhida a partir da máscara de volume está presente, e nesse momento manterá os seus valores originais. Estas duas imagens não têm que ter as mesmas dimensões.</translation>
+        <translation>Mascara duas imagens. A imagem de saída é definida a 0 exceto onde o rótulo escolhido a partir da máscara de volume está presente, e nesse momento manterá os seus valores originais. Estas duas imagens não têm que ter as mesmas dimensões.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
@@ -4632,7 +4632,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
@@ -4657,12 +4657,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"/>
         <source>Label volume containing the mask</source>
-        <translation>Volume de etiqueta que contém a máscara</translation>
+        <translation>Volume de rótulo que contém a máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation>Volume de saída: Volume de Entrada mascarado pelo volume de etiqueta de Volume de Máscara</translation>
+        <translation>Volume de saída: Volume de Entrada mascarado pelo volume de rótulo de Volume de Máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
@@ -4677,7 +4677,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
         <source>Label value</source>
-        <translation>Valor de etiqueta</translation>
+        <translation>Valor do rótulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
@@ -4687,7 +4687,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation>Valor de etiqueta no Volume de Máscara a utilizar como máscara</translation>
+        <translation>Valor de rótulo no Volume de Máscara a utilizar como máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
@@ -4735,12 +4735,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
@@ -4750,17 +4750,17 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volume de entrada a ser filtrado</translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Resultado filtrado</translation>
+        <translation>Resultado filtrado</translation>
     </message>
 </context>
 <context>
@@ -4778,12 +4778,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
@@ -4832,22 +4832,22 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
         <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
-        <translation>Crie modelos de superfície 3D a partir de dados segmentados.&lt;p&gt;Modelos são importados para o Slicer sob um modelo hierárquico de nós em uma cena MRML. As cores do modelo são definidas pela tabela de cores associada com o volume de entrada (estas cores apenas serão visíveis se carregou o ficheiro de modelo de cena).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Especificar um &lt;i&gt;Volume de Entrada&lt;/i&gt; que é um mapa de segmentos de volume etiquetados. Crie uma nova hierarquia de &lt;i&gt;Modelos&lt;/i&gt; para fornecer a estrutura que contém os modelos de retorno criados a partir do volume de entrada.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Criar Múltiplos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Se especificar uma lista de &lt;i&gt;Etiquetas&lt;/i&gt;, irá sobrepor a lista de etiquetas e quaisquer definições de início/fim de etiqueta.&lt;/p&gt;&lt;p&gt;Se clicar em &lt;i&gt;Gerar Todos&lt;/i&gt; irá sobrepor a lista de etiquetas e quaisquer definições de início/fim de etiqueta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Parâmetros do Criador de Modelos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Pode definir o número de operações de suavização, priorizar redução no número de polígonos (percentagem decimal). Utilize 0 e 0 se não pretende suavizar ou simplificar a malha. &lt;br&gt;Pode definir as flags para dividir normais ou gerar pontos normais neste painel também.&lt;br&gt;Pode guardar uma cópia dos modelos após passos intermédios (marching cubes, suavização, e simplificação da malha se não suavizar as juntas, caso contrário apenas após simplificação de malha); estes modelos não são guardados no ficheiro mrml, desative eliminar ficheiros temporários primeiro na janela de python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
+        <translation>Crie modelos de superfície 3D a partir de dados segmentados.&lt;p&gt;Modelos são importados para o Slicer sob um modelo hierárquico de nós em uma cena MRML. As cores do modelo são definidas pela tabela de cores associada com o volume de entrada (estas cores apenas serão visíveis se carregou o ficheiro de modelo de cena).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Especificar um &lt;i&gt;Volume de Entrada&lt;/i&gt; que é um mapa de segmentos de volume rotulados. Crie uma nova hierarquia de &lt;i&gt;Modelos&lt;/i&gt; para fornecer a estrutura que contém os modelos de retorno criados a partir do volume de entrada.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Criar Múltiplos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Se especificar uma lista de &lt;i&gt;Rótulos&lt;/i&gt;, irá sobrepor a lista de rótulos e quaisquer definições de início/fim de rótulo.&lt;/p&gt;&lt;p&gt;Se clicar em &lt;i&gt;Gerar Todos&lt;/i&gt; irá sobrepor a lista de rótulos e quaisquer definições de início/fim de rótulo.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Parâmetros do Criador de Modelos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Pode definir o número de operações de suavização, priorizar redução no número de polígonos (percentagem decimal). Utilize 0 e 0 se não pretende suavizar ou simplificar a malha. &lt;br&gt;Pode definir as flags para dividir normais ou gerar pontos normais neste painel também.&lt;br&gt;Pode guardar uma cópia dos modelos após passos intermédios (marching cubes, suavização, e simplificação da malha se não suavizar as juntas, caso contrário apenas após simplificação de malha); estes modelos não são guardados no ficheiro mrml, desative eliminar ficheiros temporários primeiro na janela de python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
@@ -4857,22 +4857,22 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation>Mapa de etiquetas de entrada. O menu suspenso de Volume de Entrada é populado com os volumes do mapa de etiquetas que estão presentes na cena, selecione um deles para gerar modelos.</translation>
+        <translation>Mapa de rótulos de entrada. O menu suspenso de Volume de Entrada é populado com os volumes do mapa de rótulos que estão presentes na cena, selecione um deles para gerar modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
         <source>Color table to make labels to colors and objects</source>
-        <translation>Tabela de cores para fazer criar etiquetas para cores e objetos</translation>
+        <translation>Tabela de cores para fazer criar rótulos para cores e objetos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation>Modelos gerados, sob um modelo de hierarquia de nós. Modelos são importados para o Slicer sob um modelo de Hierarquia de nós, e as suas são definidas pela tabela de cores associadas com o o volume de etiquetas de entrada. O nó de modelo de hierarquia tem que ser criado antes de executar o criador de modelos, ao selecionar Criar Novo ModeloDeHierarquia a partir do menu suspenso de Modelos. Se está a executar a partir de uma linha de comandos, um nó de modelo de hierarquia em uma nova cena mrml será criado para si.</translation>
+        <translation>Modelos gerados, sob um modelo de hierarquia de nós. Modelos são importados para o Slicer sob um modelo de Hierarquia de nós, e as suas são definidas pela tabela de cores associadas com o o volume de rótulos de entrada. O nó de modelo de hierarquia tem que ser criado antes de executar o criador de modelos, ao selecionar Criar Novo ModeloDeHierarquia a partir do menu suspenso de Modelos. Se está a executar a partir de uma linha de comandos, um nó de modelo de hierarquia em uma nova cena mrml será criado para si.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
@@ -4882,7 +4882,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation>Criar mais que um modelo ao mesmo tempo, usado para intervalos contínuos de etiquetas.</translation>
+        <translation>Criar mais que um modelo ao mesmo tempo, usado para intervalos contínuos de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
@@ -4897,12 +4897,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation>Nome a usar para este modelo. Qualquer texto introduzido na caixa de entrada será a string de começo para o nome dos ficheiros dos modelos criados. O número da etiqueta e o nome da cor também serão parte do nome. Se fizer múltiplos modelos, use isto como prefixo para a etiqueta e nome da cor.</translation>
+        <translation>Nome a usar para este modelo. Qualquer texto introduzido na caixa de entrada será a string de começo para o nome dos ficheiros dos modelos criados. O número do rótulo e o nome da cor também serão parte do nome. Se fizer múltiplos modelos, use isto como prefixo para o rótulo e nome da cor.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation>Gerar modelos para todas as etiquetas no volume de entrada. Selecione esta opção se quer criar todos os modelos que correspondem a todos os valores em um volume labelmap (usar a opção Suavização de Juntas é útil com esta opção). Ignora definições de Etiquetas, Etiqueta de Começo, Etiqueta de Fim. Ignora a etiqueta 0.</translation>
+        <translation>Gerar modelos para todos os rótulos no volume de entrada. Selecione esta opção se quer criar todos os modelos que correspondem a todos os valores em um volume labelmap (usar a opção Suavização de Juntas é útil com esta opção). Ignora definições de Rótulos, Rótulo de Começo, Rótulo de Fim. Ignora o rótulo 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
@@ -4917,17 +4917,17 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
         <source>Labels</source>
-        <translation>Etiquetas</translation>
+        <translation>Rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"/>
         <source>Start Label</source>
-        <translation>Etiqueta de Começo</translation>
+        <translation>Rótulo de Começo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"/>
         <source>End Label</source>
-        <translation>Etiqueta de Fim</translation>
+        <translation>Rótulo de Fim</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
@@ -4972,79 +4972,79 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation>Uma lista separada por vírgulas de etiquetas de valores dos quais se fazem modelos. Se especificar uma lista de Etiquetas, substituirá qualquer definições de início/fim de etiqueta. Se clicar em Gerar Todos Os Modelos irá substituir a lista de etiquetas e qualquer definições de início/fim de etiqueta.</translation>
+        <translation>Uma lista separada por vírgulas de rótulos de valores dos quais se fazem modelos. Se especificar uma lista de rótulos, substituirá qualquer definições de início/fim de rótulo. Se clicar em Gerar Todos Os Modelos irá substituir a lista de rótulos e qualquer definições de início/fim de rótulo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation>Se pretende especificar um intervalo contínuo de etiquetas dos quais gerar modelos, introduza a etiqueta mais baixa aqui. Valor do voxel a partir do qual começar a fazer modelos. Usado em vez da lista de etiquetas para especificar um intervalo (certifique-se que a lista de etiquetas está vazia ou irá sobrepor a mesma).</translation>
+        <translation>Se pretende especificar um intervalo contínuo de rótulos dos quais gerar modelos, introduza o rótulo mais baixa aqui. Valor do voxel a partir do qual começar a fazer modelos. Usado em vez da lista de rótulos para especificar um intervalo (certifique-se que a lista de rótulos está vazia ou irá sobrepor a mesma).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation>Se pretende especificar um intervalo contínuo de etiquetas dos quais gerar modelos, introduza a etiqueta mais baixa aqui. Valor do voxel a partir do qual começar a fazer modelos. Ignora quaisquer valores com zero voxels.</translation>
+        <translation>Se pretende especificar um intervalo contínuo de rótulos dos quais gerar modelos, introduza o rótulo mais baixo aqui. Valor do voxel a partir do qual começar a fazer modelos. Ignora quaisquer valores com zero voxels.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation>Selecione isto para não gerar modelos a partir de etiquetas que não têm nomes definidos na tabela de procura de cores associada com o mapa de etiquetas de entrada. Se for verdadeiro, apenas modelos que têm uma entrada na tabela de cores serão gerados.  Se for falso, gera todos os modelos que existem dentro do intervalo de etiquetas.</translation>
+        <translation>Selecione isto para não gerar modelos a partir de rótulos que não têm nomes definidos na tabela de procura de cores associada com o mapa de rótulos de entrada. Se for verdadeiro, apenas modelos que têm uma entrada na tabela de cores serão gerados.  Se for falso, gera todos os modelos que existem dentro do intervalo de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
         <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
-        <translation type="unfinished">Isto garantirá que todos os modelos resultantes se encaixem perfeitamente, como peças de um puzzle. Caso contrário, os modelos serão suavizados de forma independente e poderão sobrepor-se.</translation>
+        <translation>Isto garantirá que todos os modelos resultantes se encaixem perfeitamente, como peças de um puzzle. Caso contrário, os modelos serão suavizados de forma independente e poderão sobrepor-se.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished">Aqui pode definir o número de iterações de suavização para a suavização laplaciana ou o grau do polinómio que aproxima a função Sinc com janela. Utilize 0 se não pretender qualquer suavização. </translation>
+        <translation>Aqui pode definir o número de iterações de suavização para a suavização laplaciana ou o grau do polinómio que aproxima a função Sinc com janela. Utilize 0 se não pretender qualquer suavização. </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished">Pode controlar o tipo de suavização aplicada aos modelos selecionando um tipo de filtro «Sinc» ou «Laplaciano».</translation>
+        <translation>Pode controlar o tipo de suavização aplicada aos modelos selecionando um tipo de filtro «Sinc» ou «Laplaciano».</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation type="unfinished">Selecione a redução pretendida no número de polígonos como uma percentagem decimal (entre 0 e 1) do número de polígonos. Especifica a percentagem de triângulos a remover. Por exemplo, 0,1 significa uma redução de 10% e 0,9 significa uma redução de 90%.</translation>
+        <translation>Selecione a redução pretendida no número de polígonos como uma percentagem decimal (entre 0 e 1) do número de polígonos. Especifica a percentagem de triângulos a remover. Por exemplo, 0,1 significa uma redução de 10% e 0,9 significa uma redução de 90%.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation type="unfinished">A divisão das normais é útil para visualizar características bem definidas. No entanto, cria buracos nas superfícies, o que afeta as medições.</translation>
+        <translation>A divisão das normais é útil para visualizar características bem definidas. No entanto, cria buracos nas superfícies, o que afeta as medições.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished">Ative esta opção se pretender calcular os vetores normais dos pontos.</translation>
+        <translation>Ative esta opção se pretender calcular os vetores normais dos pontos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation type="unfinished">Preencha o volume de entrada com vóxels de valor zero em todas as 6 faces, a fim de garantir a geração de superfícies fechadas. Define a translação da origem e a translação da extensão de modo a que os modelos continuem alinhados com o volume de entrada não preenchido.</translation>
+        <translation>Preencha o volume de entrada com vóxels de valor zero em todas as 6 faces, a fim de garantir a geração de superfícies fechadas. Define a translação da origem e a translação da extensão de modo a que os modelos continuem alinhados com o volume de entrada não preenchido.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
         <source>Sinc</source>
-        <translation type="unfinished">Síncrono</translation>
+        <translation>Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
         <source>Laplacian</source>
-        <translation type="unfinished">Laplaciano</translation>
+        <translation>Laplaciano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"/>
         <source>Debug</source>
-        <translation type="unfinished">Depuração</translation>
+        <translation>Depuração</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
         <source>Color Hierarchy</source>
-        <translation type="unfinished">Hierarquia de cores</translation>
+        <translation>Hierarquia de Cores</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
@@ -5077,12 +5077,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation>Interceta um modelo de entrada com um volume de referência e produz um mapa de etiquetas de saída, preenchendo voxels dentro do model com o valor especificado no valor da etiqueta.</translation>
+        <translation>Interceta um modelo de entrada com um volume de referência e produz um mapa de rótulos de saída, preenchendo voxels dentro do model com o valor especificado no valor do rótulo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5097,17 +5097,17 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
         <source>Label value</source>
-        <translation>Valor de etiqueta</translation>
+        <translation>Valor de rótulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation>O valor unsigned char de etiqueta a usar no mapa de etiquetas de saída.</translation>
+        <translation>O valor unsigned char de rótulo a usar no mapa de rótulos de saída.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
@@ -5122,12 +5122,12 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
         <source>Model</source>
-        <translation type="unfinished">Modelo</translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
@@ -5142,7 +5142,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
         <source>Unsigned char label map volume</source>
-        <translation>Volume de mapa de etiquetas unsigned char</translation>
+        <translation>Volume de mapa de rótulos unsigned char</translation>
     </message>
 </context>
 <context>
@@ -5160,17 +5160,17 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
@@ -5185,7 +5185,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
@@ -5215,7 +5215,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Ordem de interpolação</translation>
+        <translation>Ordem de interpolação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
@@ -5228,87 +5228,87 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="4"/>
         <source>N4ITK MRI Bias correction</source>
-        <translation type="unfinished">Correção do desvio na ressonância magnética N4ITK</translation>
+        <translation>Correção de viés na ressonância magnética N4ITK</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation type="unfinished">Efetua a correção do desvio da imagem utilizando o algoritmo N4. Este módulo baseia-se nos filtros ITK apresentados na seguinte publicação:  Tustison N, Gee J «N4ITK: Implementação N3 do Nick para o ITK para correção do campo de desvio na RM», The Insight Journal, janeiro-junho de 2009, https://hdl.handle.net/10380/3053</translation>
+        <translation>Efetua a correção do desvio da imagem utilizando o algoritmo N4. Este módulo baseia-se nos filtros ITK apresentados na seguinte publicação:  Tustison N, Gee J «N4ITK: Implementação N3 do Nick para o ITK para correção do campo de desvio na RM», The Insight Journal, janeiro-junho de 2009, https://hdl.handle.net/10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
         <source>The development of this module was partially supported by NIH grants R01 AA016748-01, R01 CA111288 and U01 CA151261 as well as by NA-MIC, NAC, NCIGT and the Slicer community.</source>
-        <translation type="unfinished">O desenvolvimento deste módulo foi parcialmente financiado pelas bolsas do NIH R01 AA016748-01, R01 CA111288 e U01 CA151261, bem como pela NA-MIC, NAC, NCIGT e pela comunidade Slicer.</translation>
+        <translation>O desenvolvimento deste módulo foi parcialmente financiado pelas bolsas do NIH R01 AA016748-01, R01 CA111288 e U01 CA151261, bem como pela NA-MIC, NAC, NCIGT e pela comunidade Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished">Imagem de entrada</translation>
+        <translation>Imagem de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"/>
         <source>Mask Image</source>
-        <translation type="unfinished">Imagem da máscara</translation>
+        <translation>Imagem da máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
         <source>Output bias field image</source>
-        <translation type="unfinished">Imagem do campo de polarização de saída</translation>
+        <translation>Imagem do campo de viés de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"/>
         <source>Input image where you observe signal inhomegeneity</source>
-        <translation type="unfinished">Imagem de entrada na qual se observa heterogeneidade do sinal</translation>
+        <translation>Imagem de entrada na qual observa heterogeneidade do sinal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
         <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
-        <translation type="unfinished">Máscara binária que define a estrutura de interesse. NOTA: Este parâmetro é OPCIONAL. Se a máscara não for especificada, o módulo utilizará internamente o limiar de Otsu para definir essa máscara. É frequentemente possível obter melhores resultados de processamento quando se define uma máscara significativa.</translation>
+        <translation>Máscara binária que define a estrutura de interesse. NOTA: Este parâmetro é OPCIONAL. Se a máscara não for especificada, o módulo utilizará internamente o limiar de Otsu para definir essa máscara. É frequentemente possível obter melhores resultados de processamento quando se define uma máscara significativa.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"/>
         <source>Result of processing</source>
-        <translation type="unfinished">Resultado do processamento</translation>
+        <translation>Resultado do processamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="16"/>
         <source>Recovered bias field (OPTIONAL)</source>
-        <translation type="unfinished">Campo de polarização recuperado (OPCIONAL)</translation>
+        <translation>Campo de viés recuperado (OPCIONAL)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="17"/>
         <source>N4 Parameters</source>
-        <translation type="unfinished">Parâmetros N4</translation>
+        <translation>Parâmetros N4</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="18"/>
         <source>BSpline grid resolution</source>
-        <translation type="unfinished">Resolução da grelha B-spline</translation>
+        <translation>Resolução da grelha B-spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="19"/>
         <source>Spline distance</source>
-        <translation type="unfinished">Distância da spline</translation>
+        <translation>Distância da spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="20"/>
         <source>Bias field Full Width at Half Maximum</source>
-        <translation type="unfinished">Campo de polarização: Largura total no meio do máximo</translation>
+        <translation>Campo de viés Largura Inteira a Meio Máximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
@@ -5318,37 +5318,37 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
         <source>An alternative means to define the spline grid, by setting the distance between the control points. This parameter is used only if the grid resolution is not specified.</source>
-        <translation type="unfinished">Uma forma alternativa de definir a grelha da spline, definindo a distância entre os pontos de controlo. Este parâmetro é utilizado apenas se a resolução da grelha não for especificada.</translation>
+        <translation>Uma forma alternativa de definir a grelha da spline, definindo a distância entre os pontos de controlo. Este parâmetro é utilizado apenas se a resolução da grelha não for especificada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
         <source>Bias field Full Width at Half Maximum. Zero implies use of the default value.</source>
-        <translation type="unfinished">Campo de polarização: Largura total no ponto de meio de amplitude. O valor zero implica a utilização do valor predefinido.</translation>
+        <translation>Campo de viés Largura Inteira a Meio Máximo. O valor zero implica a utilização do valor predefinido.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"/>
         <source>Advanced N4 Parameters</source>
-        <translation type="unfinished">Parâmetros avançados do N4</translation>
+        <translation>Parâmetros avançados do N4</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"/>
         <source>Advanced parameters of the algorithm</source>
-        <translation type="unfinished">Parâmetros avançados do algoritmo</translation>
+        <translation>Parâmetros avançados do algoritmo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"/>
         <source>Number of iterations</source>
-        <translation type="unfinished">Número de iterações</translation>
+        <translation>Número de iterações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="27"/>
         <source>Convergence threshold</source>
-        <translation type="unfinished">Limiar de convergência</translation>
+        <translation>Limiar de convergência</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="28"/>
         <source>BSpline order</source>
-        <translation type="unfinished">Ordem da B-spline</translation>
+        <translation>Ordem da B-spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="29"/>
@@ -5417,17 +5417,17 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
@@ -5437,7 +5437,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
@@ -5473,22 +5473,22 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="42"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="18"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="19"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="20"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagital</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="21"/>
@@ -5598,7 +5598,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="43"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="44"/>
@@ -5751,7 +5751,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished">Parâmetros de entrada</translation>
+        <translation>Parâmetros de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"/>
@@ -5776,87 +5776,87 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="13"/>
         <source>Input PET volume for SUVbw computation (must be the same volume as pointed to by the DICOM path!).</source>
-        <translation type="unfinished">Introduza o volume de PET para o cálculo do SUVbw (deve corresponder ao volume indicado no caminho DICOM!).</translation>
+        <translation>Introduza o volume de PET para o cálculo do SUVbw (deve corresponder ao volume indicado no caminho DICOM!).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="14"/>
         <source>Input label volume containing the volumes of interest</source>
-        <translation>Volume de etiqueta de entrada que contêm os volumes de interesse</translation>
+        <translation>Volume de rótulos de entrada que contêm os volumes de interesse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="15"/>
         <source>Color table to to map labels to colors and names</source>
-        <translation type="unfinished">Tabela de cores para associar rótulos a cores e nomes</translation>
+        <translation>Tabela de cores para associar rótulos a cores e nomes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Resultado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation type="unfinished">O ficheiro de saída reúne as informações do disco a partir da etiqueta de saída, das cadeias de caracteres de saída «suv max/mean/min» na interface gráfica, além de algumas informações adicionais do cabeçalho DICOM.</translation>
+        <translation>O ficheiro de saída reúne as informações do disco a partir do rótulo de saída, das cadeias de caracteres de saída suv max/mean/min na interface gráfica, além de algumas informações adicionais do cabeçalho DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
         <source>Output table</source>
-        <translation type="unfinished">Tabela de resultados</translation>
+        <translation>Tabela de resultados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="19"/>
         <source>Output Label</source>
-        <translation type="unfinished">Rótulo de saída</translation>
+        <translation>Rótulo de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="20"/>
         <source>Output Label Value</source>
-        <translation type="unfinished">Valor da etiqueta de saída</translation>
+        <translation>Valor do Rótulo de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="21"/>
         <source>SUV Max</source>
-        <translation type="unfinished">Water Max</translation>
+        <translation>SUV Max</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="22"/>
         <source>SUV Mean</source>
-        <translation type="unfinished">Meios de abastecimento de água</translation>
+        <translation>Média SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="23"/>
         <source>SUV Minimum</source>
-        <translation type="unfinished">SUV Mínimo</translation>
+        <translation>SUV Mínimo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="24"/>
         <source>A table holding the output SUV values in comma separated lines, one per label. Optional.</source>
-        <translation type="unfinished">Uma tabela que contém os valores de SUV resultantes em linhas separadas por vírgulas, uma por rótulo. Opcional.</translation>
+        <translation>Uma tabela que contém os valores de SUV resultantes em linhas separadas por vírgulas, uma por rótulo. Opcional.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="25"/>
         <source>List of labels for which SUV values were computed</source>
-        <translation type="unfinished">Lista de rótulos para os quais foram calculados valores SUV</translation>
+        <translation>Lista de rótulos para os quais foram calculados valores SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="26"/>
         <source>List of label values for which SUV values were computed</source>
-        <translation type="unfinished">Lista de valores de rótulo para os quais foram calculados valores de SUV</translation>
+        <translation>Lista de valores de rótulos para os quais foram calculados valores de SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="27"/>
         <source>SUV max for each label</source>
-        <translation type="unfinished">Número máximo de SUV por marca</translation>
+        <translation>Número máximo de SUV por cada rótulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="28"/>
         <source>SUV mean for each label</source>
-        <translation type="unfinished">Média de SUV por marca</translation>
+        <translation>Média de SUV por cada rótulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="29"/>
         <source>SUV minimum for each label</source>
-        <translation type="unfinished">Mínimo de SUV por marca</translation>
+        <translation>Mínimo de SUV para cada rótulo</translation>
     </message>
 </context>
 <context>
@@ -5864,100 +5864,100 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation type="unfinished">Teste de Métricas de Registo (BRAINS)</translation>
+        <translation>Teste de Métricas de Registo (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation type="unfinished">Comparar o valor métrico Mattes/MSQ de duas imagens de entrada e de uma possível transformação BSpline de entrada.</translation>
+        <translation>Comparar o valor métrico Mattes/MSQ de duas imagens de entrada e de uma possível transformação BSpline de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished">
+        <translation>
   </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished">Parâmetros de entrada</translation>
+        <translation>Parâmetros de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
         <source>Transform File Name</source>
-        <translation type="unfinished">Alterar o nome do ficheiro</translation>
+        <translation>Nome do Ficheiro de Transformação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="10"/>
         <source>Fixed image</source>
-        <translation type="unfinished">Imagem fixa</translation>
+        <translation>Imagem fixa</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="11"/>
         <source>Moving image</source>
-        <translation type="unfinished">Imagem em movimento</translation>
+        <translation>Imagem em movimento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation type="unfinished">Transformação de entrada utilizada para distorcer a imagem em movimento antes da comparação métrica.</translation>
+        <translation>Transformação de entrada utilizada para distorcer a imagem em movimento antes da comparação métrica.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
         <source>Input variables</source>
-        <translation type="unfinished">Variáveis de entrada</translation>
+        <translation>Variáveis de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="14"/>
         <source>Metric type and input parameters.</source>
-        <translation type="unfinished">Tipo métrico e parâmetros de entrada.</translation>
+        <translation>Tipo métrico e parâmetros de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="15"/>
         <source>Metric type</source>
-        <translation type="unfinished">Tipo métrico</translation>
+        <translation>Tipo métrico</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished">Número de Amostras</translation>
+        <translation>Número De Amostras</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
         <source>Number Of Histogram Bins</source>
-        <translation type="unfinished">Número de intervalos do histograma</translation>
+        <translation>Número De Intervalos Do Histograma</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"/>
         <source>Comparison metric type</source>
-        <translation type="unfinished">Tipo de métrica de comparação</translation>
+        <translation>Tipo de métrica de comparação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="19"/>
         <source>The number of voxels sampled for metric evaluation.</source>
-        <translation type="unfinished">O número de vóxels amostrados para a avaliação métrica.</translation>
+        <translation>O número de vóxels amostrados para a avaliação métrica.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"/>
         <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
-        <translation type="unfinished">O número de intervalos do histograma quando o MMI (Mattes) é do tipo métrico.</translation>
+        <translation>O número de intervalos do histograma quando o MMI (Mattes) é do tipo métrico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="22"/>
         <source>MMI</source>
-        <translation type="unfinished">MMI</translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
         <source>MSE</source>
-        <translation type="unfinished">MSE</translation>
+        <translation>MSE</translation>
     </message>
 </context>
 <context>
@@ -5965,27 +5965,27 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="4"/>
         <source>Probe Volume With Model</source>
-        <translation type="unfinished">Volume da sonda com o modelo</translation>
+        <translation>Volume da Sonda Com o Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation type="unfinished">Pintar um modelo por volume (utilizando o vtkProbeFilter).</translation>
+        <translation>Pintar um modelo por um volume (utilizando o vtkProbeFilter).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
         <source>BWH, NCIGT/LMI</source>
-        <translation type="unfinished">BWH, NCIGT/LMI</translation>
+        <translation>BWH, NCIGT/LMI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
@@ -5996,32 +5996,32 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"/>
         <source>Input model</source>
-        <translation type="unfinished">Modelo de entrada</translation>
+        <translation>Modelo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"/>
         <source>Output model</source>
-        <translation type="unfinished">Modelo de saída</translation>
+        <translation>Modelo de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"/>
         <source>Output array name</source>
-        <translation type="unfinished">Nome da matriz de saída</translation>
+        <translation>Nome da matriz de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
         <source>Volume to use to &quot;paint&quot; the model</source>
-        <translation type="unfinished">Volume a utilizar para «pintar» o modelo</translation>
+        <translation>Volume a utilizar para &quot;pintar&quot; o modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"/>
         <source>Output &quot;painted&quot; model</source>
-        <translation type="unfinished">Modelo «pintado»</translation>
+        <translation>Modelo &quot;pintado&quot; de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"/>
         <source>Name of the array that will contain the voxel values.</source>
-        <translation type="unfinished">Nome da matriz que irá conter os valores dos voxels.</translation>
+        <translation>Nome da matriz que irá conter os valores dos voxels.</translation>
     </message>
 </context>
 <context>
@@ -6029,7 +6029,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="5"/>
         <source>Resample DTI Volume</source>
-        <translation type="unfinished">Reamostrar o volume DTI</translation>
+        <translation>Reamostrar o Volume DTI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
@@ -6039,17 +6039,17 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para a Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde (NIH) através do Roteiro do NIH para a Investigação Médica, subvenção U54 EB005149. É possível obter informações sobre os Centros Nacionais de Computação Biomédica em http://nihroadmap.nih.gov/bioinformatics</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149. É possível obter informações sobre os Centros Nacionais de Computação Biomédica em http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
         <source>Input/Output</source>
-        <translation type="unfinished">Entrada/Saída</translation>
+        <translation>Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
@@ -6059,285 +6059,285 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished">Volume de referência (para definir os parâmetros de saída)</translation>
+        <translation>Volume de Referência (Para Definir os Parâmetros de Saída)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">Volume de entrada a ser reamostrado</translation>
+        <translation>Volume de entrada a ser reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished">Volume reamostrado</translation>
+        <translation>Volume reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="15"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished">Volume de referência (espaçamento, tamanho, orientação, origem)</translation>
+        <translation>Volume de referência (espaçamento, tamanho, orientação, origem)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="16"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished">Parâmetros de transformação</translation>
+        <translation>Parâmetros de transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished">Parâmetros utilizados para transformar a imagem de entrada na imagem de saída</translation>
+        <translation>Parâmetros utilizados para transformar a imagem de entrada na imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"/>
         <source>Transform Node</source>
-        <translation type="unfinished">Nó de transformação</translation>
+        <translation>Nó de transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="19"/>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished">Volume do campo de deformação</translation>
+        <translation>Volume do Campo de Deformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="20"/>
         <source>Displacement or h-Field</source>
-        <translation type="unfinished">Deslocamento ou campo h</translation>
+        <translation>Deslocamento ou Campo-h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="21"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished">Ficheiro que contém o campo de deformação (imagem vetorial 3D contendo vetores com 3 componentes)</translation>
+        <translation>Ficheiro que contém o campo de deformação (imagem vetorial 3D contendo vetores com 3 componentes)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="22"/>
         <source>Set if the deformation field is an -Field</source>
-        <translation type="unfinished">Definir se o campo de deformação é um campo -Field</translation>
+        <translation>Definir se o campo de deformação é um campo -Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="23"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="25"/>
         <source>h-Field</source>
-        <translation type="unfinished">Campo h</translation>
+        <translation>Campo-h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"/>
         <source>displacement</source>
-        <translation type="unfinished">deslocamento</translation>
+        <translation>deslocamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="26"/>
         <source>Processing Options</source>
-        <translation type="unfinished">Opções de processamento</translation>
+        <translation>Opções de Processamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="27"/>
         <source>Interpolation</source>
-        <translation type="unfinished">Interpolação</translation>
+        <translation>Interpolação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="28"/>
         <source>No Measurement Frame</source>
-        <translation type="unfinished">Sem quadro de medição</translation>
+        <translation>Sem Quadro de Medição</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="29"/>
         <source>Tensors Correction</source>
-        <translation type="unfinished">Correção de tensores</translation>
+        <translation>Correção de Tensores</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="30"/>
         <source>Sampling algorithm (linear , nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished">Algoritmo de amostragem (linear, nn (vizinho mais próximo), ws (WindowedSinc), bs (BSpline))</translation>
+        <translation>Algoritmo de amostragem (linear, nn (vizinho mais próximo), ws (WindowedSinc), bs (BSpline))</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation type="unfinished">Não utilize o quadro de medição presente na imagem de entrada para transformar os tensores. Em vez disso, utilize a orientação da imagem</translation>
+        <translation>Não utilizar o quadro de medição presente na imagem de entrada para transformar os tensores. Em vez disso, utiliza a orientação da imagem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
         <source>Correct the tensors if computed tensor is not semi-definite positive</source>
-        <translation type="unfinished">Corrija os tensores se o tensor calculado não for semidefinido positivo</translation>
+        <translation>Corrige os tensores se o tensor calculado não for semidefinido positivo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="35"/>
         <source>linear</source>
-        <translation type="unfinished">linear</translation>
+        <translation>linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished">zero</translation>
+        <translation>zero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
         <source>nn</source>
-        <translation type="unfinished">Não, não</translation>
+        <translation>nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
         <source>ws</source>
-        <translation type="unfinished">ws</translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
         <source>bs</source>
-        <translation type="unfinished">Antes do nascer do sol</translation>
+        <translation>bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>nenhum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
         <source>abs</source>
-        <translation type="unfinished">abdominais</translation>
+        <translation>abs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="42"/>
         <source>nearest</source>
-        <translation type="unfinished">mais próximo</translation>
+        <translation>mais próximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="43"/>
         <source>Tensor Transform Type</source>
-        <translation type="unfinished">Tipo de transformação de tensores</translation>
+        <translation>Tipo de Tensor de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
         <source>Finite Strain (FS) or 
 Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished">Deformação finita (FS) ou 
-Preservação da direção principal (PPD)</translation>
+        <translation>Deformação Finita (FS) ou 
+Preservação da Direção Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished">Escolha entre dois métodos para transformar os tensores: De Deformação Finita (FS), mais rápido mas menos preciso, ou de Preservação da Direção Principal (PPD)</translation>
+        <translation>Escolhe entre 2 métodos para transformar os tensores: De Deformação Finita (FS), mais rápido mas menos preciso, ou de Preservação da Direção Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="47"/>
         <source>PPD</source>
-        <translation type="unfinished">Depressão pós-parto</translation>
+        <translation>PPD</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="48"/>
         <source>FS</source>
-        <translation type="unfinished">FS</translation>
+        <translation>FS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished">Parâmetros avançados de transformação</translation>
+        <translation>Parâmetros Avançados de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished">Esses parâmetros não devem, normalmente, ser alterados</translation>
+        <translation>Esses parâmetros não devem, normalmente, ser alterados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
         <source>Transforms Order</source>
-        <translation type="unfinished">Transforma a ordem</translation>
+        <translation>Transforma a Ordem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished">Não é uma transformação em massa</translation>
+        <translation>Não é uma Transformação em Massa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished">Inconsistência na orientação espacial (entre a transformação e a imagem)</translation>
+        <translation>Inconsistência na Orientação Espacial (entre a transformação e a imagem)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished">Selecione a ordem em que as transformações são lidas</translation>
+        <translation>Selecione a ordem em que as transformações são lidas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished">A transformação que se segue à transformação BSpline não está definida como uma transformação em massa para a transformação BSpline</translation>
+        <translation>A transformação que se segue à transformação BSpline não está definida como uma transformação em massa para a transformação BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished">A orientação espacial entre a transformação e a imagem é diferente (RAS/LPS) (aviso: se a transformação for um nó de transformação no Slicer3, não selecione)</translation>
+        <translation>A orientação espacial entre a transformação e a imagem é diferente (RAS/LPS) (aviso: se a transformação for um Transform Node no Slicer3, não selecione)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="59"/>
         <source>output-to-input</source>
-        <translation type="unfinished">saída para entrada</translation>
+        <translation>saída para entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
         <source>input-to-output</source>
-        <translation type="unfinished">entrada-saída</translation>
+        <translation>entrada para saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
         <source>Advanced Rigid/Affine Parameters</source>
-        <translation type="unfinished">Parâmetros rígidos/afins avançados</translation>
+        <translation>Parâmetros Rígidos/Afins Avançados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="61"/>
         <source>Rotation Center</source>
-        <translation type="unfinished">Centro de rotação</translation>
+        <translation>Centro de Rotação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
         <source>Centered Transform</source>
-        <translation type="unfinished">Transformação centralizada</translation>
+        <translation>Transformação Centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
         <source>Image Center</source>
-        <translation type="unfinished">Centro de Imagens</translation>
+        <translation>Centro da Imagem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
         <source>Inverse Transformation</source>
-        <translation type="unfinished">Transformação inversa</translation>
+        <translation>Transformação Inversa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Centro de rotação (apenas para transformações rígidas e afins)</translation>
+        <translation>Centro de rotação (apenas para transformações rígidas e afins)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Definir o centro da transformação como o centro da imagem de entrada (apenas para transformações rígidas e afins)</translation>
+        <translation>Definir o centro da transformação como o centro da imagem de entrada (apenas para transformações rígidas e afins)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished">Imagem a utilizar para centrar a transformação (utilizada apenas se a opção «Transformação centrada» estiver selecionada)</translation>
+        <translation>Imagem a utilizar para centrar a transformação (utilizada apenas se a opção &quot;Transformação centrada&quot; estiver selecionada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Inverta a transformação antes de a aplicar da imagem de saída à imagem de entrada (apenas para transformações rígidas e afins)</translation>
+        <translation>Inverte a transformação antes de a aplicar da imagem de saída à imagem de entrada (apenas para transformações rígidas e afins)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished">entrada</translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
         <source>output</source>
-        <translation type="unfinished">resultado</translation>
+        <translation>resultado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
@@ -6352,87 +6352,87 @@ Preservação da direção principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished">Espaçamento</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
         <source>Size</source>
-        <translation type="unfinished">Para si</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished">Matriz de Direção</translation>
+        <translation>Matriz de Direção</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Espaçamento em cada dimensão (0 significa utilizar o espaçamento da entrada)</translation>
+        <translation>Espaçamento em cada dimensão (0 significa utilizar o espaçamento da entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished">Dimensão em cada eixo (0 significa utilizar a dimensão de entrada)</translation>
+        <translation>Dimensão em cada eixo (0 significa utilizar a dimensão de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished">Origem da imagem de saída</translation>
+        <translation>Origem da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished">9 parâmetros da matriz de direção por linhas (ijk para LPS, se for transformação LPS; ijk para RAS, se for transformação RAS)</translation>
+        <translation>9 parâmetros da matriz de direção por linhas (ijk para LPS, se for transformação LPS; ijk para RAS, se for transformação RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished">Parâmetros avançados de reamostragem</translation>
+        <translation>Parâmetros Avançados de Reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="83"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished">Parâmetros utilizados para a reamostragem</translation>
+        <translation>Parâmetros utilizados para a reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">Número de Threads</translation>
+        <translation>Número de Threads</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished">Valor padrão do pixel</translation>
+        <translation>Valor Padrão do Pixel</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished">Número de threads utilizados para calcular a imagem de saída</translation>
+        <translation>Número de threads utilizadas para calcular a imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished">Valor padrão em pixels para amostras que se encontram fora da região de entrada</translation>
+        <translation>Valor padrão em pixels para amostras que se encontram fora da região de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished">Parâmetros da função de interpolação Sinc com janela</translation>
+        <translation>Parâmetros da Função de Interpolação Sinc com Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished">Parâmetros utilizados na interpolação Sinc com janela</translation>
+        <translation>Parâmetros utilizados na interpolação Sinc com Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
         <source>Window Function</source>
-        <translation type="unfinished">Função de janela</translation>
+        <translation>Função de Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
@@ -6442,7 +6442,7 @@ c = Cosine
 w = Welch 
 l = Lanczos 
 b = Blackman</source>
-        <translation type="unfinished">Função de janela 
+        <translation>Função de Janela 
 h = Hamming 
 c = Cosseno 
 w = Welch 
@@ -6453,32 +6453,32 @@ b = Blackman</translation>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="92"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="94"/>
         <source>c</source>
-        <translation type="unfinished">c</translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="93"/>
         <source>h</source>
-        <translation type="unfinished">e</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="95"/>
         <source>w</source>
-        <translation type="unfinished">em</translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="96"/>
         <source>l</source>
-        <translation type="unfinished">o</translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="97"/>
         <source>b</source>
-        <translation type="unfinished">b</translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished">Parâmetros da função de interpolação B-spline</translation>
+        <translation>Parâmetros da Função de Interpolação B-spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
@@ -6488,52 +6488,52 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
         <source>Spline Order</source>
-        <translation type="unfinished">Ordem da spline</translation>
+        <translation>Ordem da Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
         <source>Spline Order (Spline order may be from 0 to 5)</source>
-        <translation type="unfinished">Ordem da spline (A ordem da spline pode variar entre 0 e 5)</translation>
+        <translation>Ordem da Spline (A ordem da spline pode variar entre 0 e 5)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
         <source>Manual Transform (Used only if no transform node set)</source>
-        <translation type="unfinished">Transformação manual (utilizada apenas se não estiver definido nenhum nó de transformação)</translation>
+        <translation>Transformação Manual (Utilizada apenas se não estiver definido nenhum nó de transformação)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>Matriz de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Tipo de Transformação</translation>
+        <translation>Tipo de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished">Os 12 parâmetros da matriz de transformação por linhas ( --sendo os últimos 3 de translação-- )</translation>
+        <translation>Os 12 parâmetros da matriz de transformação por linhas ( --sendo os últimos 3 de translação-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished">Algoritmo de transformação
-rt = Transformação rígida
-a = Transformação afim</translation>
+        <translation>Algoritmo de transformação
+rt = Transformação Rígida
+a = Transformação Afim</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="107"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="109"/>
         <source>a</source>
-        <translation type="unfinished">o</translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"/>
         <source>rt</source>
-        <translation type="unfinished">rt</translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -6541,7 +6541,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation type="unfinished">Reamostrar escalar/vetor/volume DWI</translation>
+        <translation>Reamostrar Escalar/Vetor/Volume DWI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
@@ -6569,7 +6569,7 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
@@ -6579,7 +6579,7 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
@@ -6716,12 +6716,12 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished">A transformação que se segue à transformação BSpline não está definida como uma transformação em massa para a transformação BSpline</translation>
+        <translation>A transformação que se segue à transformação BSpline não está definida como uma transformação em massa para a transformação BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished">A orientação espacial entre a transformação e a imagem é diferente (RAS/LPS) (aviso: se a transformação for um nó de transformação no Slicer3, não selecione)</translation>
+        <translation>A Orientação Espacial entre a transformação e a imagem é diferente (RAS/LPS) (aviso: se a transformação for um nó de transformação no Slicer3, não selecione)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
@@ -7074,12 +7074,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
@@ -7089,7 +7089,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
@@ -7162,7 +7162,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"/>
         <source>Output Label Value</source>
-        <translation type="unfinished">Valor da etiqueta de saída</translation>
+        <translation>Valor do rótulo de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"/>
@@ -7192,12 +7192,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
@@ -7207,12 +7207,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
         <source>Label Image</source>
-        <translation type="unfinished">Imagem da etiqueta</translation>
+        <translation>Imagem do rótulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
@@ -7222,7 +7222,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
         <source>Label image for initialization</source>
-        <translation type="unfinished">Imagem da etiqueta para inicialização</translation>
+        <translation>Imagem do rótulo para inicialização</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
@@ -7305,7 +7305,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
         <source>Output Label Value</source>
-        <translation type="unfinished">Valor da etiqueta de saída</translation>
+        <translation>Valor do rótulo de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
@@ -7340,12 +7340,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
@@ -7355,7 +7355,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
@@ -7388,12 +7388,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
@@ -7408,7 +7408,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
@@ -7466,12 +7466,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
@@ -7481,7 +7481,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
@@ -7645,12 +7645,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parâmetros de entrada/saída</translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
@@ -7660,7 +7660,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volume de Saída</translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
@@ -9242,17 +9242,17 @@ Pode guardar a posição da câmara em qualquer momento ao clicar em &quot;Guard
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="17"/>
         <source>Import ITK-Snap label description</source>
-        <translation type="unfinished">Importar a descrição da etiqueta do ITK-Snap</translation>
+        <translation>Importar a descrição do rótulo do ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="21"/>
         <source>Load ITK-Snap label description file (.label or .txt).</source>
-        <translation type="unfinished">Carregar o ficheiro de descrição de etiquetas do ITK-Snap (.label ou .txt).</translation>
+        <translation>Carregar o ficheiro de descrição de rótulos do ITK-Snap (.label ou .txt).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="44"/>
         <source>ITK-Snap label description file</source>
-        <translation type="unfinished">Ficheiro de descrição de etiquetas ITK-Snap</translation>
+        <translation>Ficheiro de descrição de rótulos ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"/>
@@ -9921,7 +9921,7 @@ e pelo Consórcio de Ontário para Intervenções Adaptativas em Oncologia Radio
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="174"/>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Resultado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
@@ -10147,12 +10147,12 @@ e pelo Consórcio de Ontário para Intervenções Adaptativas em Oncologia Radio
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="349"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished">Se esta opção estiver marcada, a imagem de marca d'água selecionada será adicionada a todas as imagens exportadas.</translation>
+        <translation type="unfinished">Se esta opção estiver marcada, a imagem de marca d&apos;água selecionada será adicionada a todas as imagens exportadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation type="unfinished">Adicione uma imagem de marca d'água a todas as imagens exportadas.</translation>
+        <translation type="unfinished">Adicione uma imagem de marca d&apos;água a todas as imagens exportadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="368"/>
@@ -10162,12 +10162,12 @@ e pelo Consórcio de Ontário para Intervenções Adaptativas em Oncologia Radio
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="382"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished">Opacidade da imagem da marca d'água. 100 % corresponde a opacidade total.</translation>
+        <translation type="unfinished">Opacidade da imagem da marca d&apos;água. 100 % corresponde a opacidade total.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="394"/>
         <source>Watermark image file in png format</source>
-        <translation type="unfinished">Ficheiro de imagem com marca d'água em formato PNG</translation>
+        <translation type="unfinished">Ficheiro de imagem com marca d&apos;água em formato PNG</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="398"/>
@@ -10187,7 +10187,7 @@ e pelo Consórcio de Ontário para Intervenções Adaptativas em Oncologia Radio
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Watermark image:</source>
-        <translation type="unfinished">Imagem da marca d'água:</translation>
+        <translation type="unfinished">Imagem da marca d&apos;água:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="412"/>
@@ -10419,9 +10419,9 @@ This module allows editing segmentation objects by directly drawing and using se
 Representations other than the labelmap one (which is used for editing) are automatically updated real-time,
 so for example the closed surface can be visualized as edited in the 3D view.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este módulo permite editar objetos de segmentação desenhando diretamente e utilizando ferramentas de segmentação nos segmentos incluídos.
-As representações que não sejam o mapa de etiquetas (que é utilizado para a edição) são atualizadas automaticamente em tempo real,
+As representações que não sejam o mapa de rótulos (que é utilizado para a edição) são atualizadas automaticamente em tempo real,
 pelo que, por exemplo, a superfície fechada pode ser visualizada tal como foi editada na vista 3D.
 </translation>
     </message>
@@ -11659,7 +11659,7 @@ Com o apoio da NA-MIC, da NAC, da BIRN, da NCIGT e da Comunidade Slicer. Consult
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="113"/>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Resultado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="118"/>
@@ -11809,7 +11809,7 @@ Com o apoio da NA-MIC, da NAC, da BIRN, da NCIGT e da Comunidade Slicer. Consult
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="16"/>
         <source>Label Map</source>
-        <translation type="unfinished">Mapa de etiquetas</translation>
+        <translation>Mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="404"/>
@@ -13101,12 +13101,12 @@ Roteiro do NIH para a Investigação Médica, Bolsa U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
         <source>Label text:</source>
-        <translation>Texto de etiqueta:</translation>
+        <translation>Texto de rótulo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
         <source>Show numeric value as label text</source>
-        <translation>Mostrar valores numéricos como texto de etiqueta</translation>
+        <translation>Mostrar valores numéricos como texto de rótulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
@@ -13116,7 +13116,7 @@ Roteiro do NIH para a Investigação Médica, Bolsa U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
         <source>Show color name as label text</source>
-        <translation>Mostrar nomes de cores como texto de etiqueta</translation>
+        <translation>Mostrar nomes de cores como texto de rótulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
@@ -13126,12 +13126,12 @@ Roteiro do NIH para a Investigação Médica, Bolsa U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
         <source>Number of labels:</source>
-        <translation>Número de etiquetas:</translation>
+        <translation>Número de rótulos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
         <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-        <translation>Número de etiquetas a mostrar. Apenas aplicável se os valores forem usados como etiquetas de texto (não nomes de cores).</translation>
+        <translation>Número de rótulos a mostrar. Apenas aplicável se os valores forem usados como rótulos de texto (não nomes de cores).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
@@ -13141,7 +13141,7 @@ Roteiro do NIH para a Investigação Médica, Bolsa U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
         <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-        <translation>Número máximo de cores exibidas. Reduza o número para ver cores discretas em vez de um gradiente de cor contínuo. Apenas aplicável se os valores forem usados como etiquetas de texto (não nomes de cores).</translation>
+        <translation>Número máximo de cores exibidas. Reduza o número para ver cores discretas em vez de um gradiente de cor contínuo. Apenas aplicável se os valores forem usados como rótulos de texto (não nomes de cores).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
@@ -13226,7 +13226,7 @@ Roteiro do NIH para a Investigação Médica, Bolsa U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="371"/>
         <source>Label properties</source>
-        <translation>Propriedades de etiqueta</translation>
+        <translation>Propriedades de rótulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="380"/>
@@ -13249,7 +13249,7 @@ Roteiro do NIH para a Investigação Médica, Bolsa U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="68"/>
         <source>Label</source>
-        <translation type="unfinished">Etiqueta</translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="72"/>
@@ -15570,9 +15570,9 @@ Change source representation to binary labelmap?</source>
         <oldsource>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
 
 Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">A edição requer uma representação de código-fonte do mapa de etiquetas binário, mas, atualmente, a representação de código-fonte é %1. Alterar a representação de código-fonte requer uma conversão. Alguns detalhes podem perder-se durante o processo de conversão.
+        <translation>A edição requer uma representação de código-fonte do mapa de rótulos binário, mas, atualmente, a representação de código-fonte é %1. Alterar a representação de código-fonte requer uma conversão. Alguns detalhes podem perder-se durante o processo de conversão.
 
-Deseja alterar a representação de código-fonte para um mapa de etiquetas binário?</translation>
+Deseja alterar a representação de código-fonte para um mapa de rótulos binário?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="813"/>
@@ -15584,7 +15584,7 @@ Deseja alterar a representação de código-fonte para um mapa de etiquetas bin�
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="828"/>
         <source>Failed to create binary labelmap representation in segmentation %1 for editing!
 Please see Segmentations module for details.</source>
-        <translation type="unfinished">Não foi possível criar a representação binária do mapa de etiquetas na segmentação %1 para edição!
+        <translation>Não foi possível criar a representação binária do mapa de rótulos na segmentação %1 para edição!
 Consulte o módulo Segmentações para obter mais detalhes.</translation>
     </message>
     <message>
@@ -17234,12 +17234,12 @@ Deseja prosseguir com a alteração da representação de origem?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="757"/>
         <source>Hide label volume outlines</source>
-        <translation>Ocultar contornos de volume de etiqueta</translation>
+        <translation>Ocultar contornos de volume de rótulo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="757"/>
         <source>Show label volume outlines</source>
-        <translation>Mostrar contornos de volume de etiqueta</translation>
+        <translation>Mostrar contornos de volume de rótulo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="761"/>
@@ -20271,7 +20271,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
@@ -25764,7 +25764,7 @@ Provavelmente, o segmento não pode ser convertido numa representação de super
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1046"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
-        <translation type="unfinished">Não foi possível copiar as etiquetas do nó de volume do mapa de etiquetas %1!</translation>
+        <translation>Não foi possível copiar os rótulos do nó de volume do mapa de rótulos %1!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1048"/>
@@ -27502,7 +27502,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="113"/>
         <source>Label</source>
-        <translation type="unfinished">Etiqueta</translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="115"/>
@@ -28060,7 +28060,7 @@ Selecione o plugin para adicionar o nó denominado
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
         <source>Create binary labelmap representation</source>
-        <translation type="unfinished">Criar uma representação binária do mapa de etiquetas</translation>
+        <translation>Criar uma representação binária do mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="129"/>
@@ -28165,7 +28165,7 @@ Visite o módulo de Segmentação e experimente a função avançada de criaçã
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1080"/>
         <source>-label</source>
-        <translation type="unfinished">-etiqueta</translation>
+        <translation>-etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
@@ -28312,7 +28312,7 @@ Nota: Isto pode resultar na perda indesejada de dados em %5.</translation>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="413"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
-        <translation type="unfinished">Segmento - ID: %1, Representações: %2, Cor: (%3, %4, %5)
+        <translation>Segmento - ID: %1, Representações: %2, Cor: (%3, %4, %5)
 Etiquetas: %6</translation>
     </message>
 </context>
@@ -29281,7 +29281,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
         <source>Use automatically generated label and color from selected terminology:</source>
-        <translation type="unfinished">Utilizar a etiqueta e a cor geradas automaticamente a partir da terminologia selecionada:</translation>
+        <translation>Utilizar o rótulo e a cor geradas automaticamente a partir da terminologia selecionada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
@@ -30915,22 +30915,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="264"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
-        <translation type="unfinished">O valor da etiqueta não está especificado no ficheiro de cores na linha %1. A ignorar esta linha.</translation>
+        <translation>O valor do rótulo não está especificado no ficheiro de cores na linha %1. A ignorar esta linha.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="273"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2. Skipping this line.</source>
-        <translation type="unfinished">O valor da etiqueta «%1» é inválido no ficheiro de cores, na linha %2. A ignorar esta linha.</translation>
+        <translation>labelvalue &apos;%1&apos; é inválido no ficheiro de cor na linha %2. A ignorar esta linha.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="284"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must be positive (&gt;0). Skipping this line.</source>
-        <translation type="unfinished">O valor da etiqueta «%1» é inválido no ficheiro de cores na linha %2: o valor deve ser positivo (&gt;0). A ignorar esta linha.</translation>
+        <translation>O valor do rótulo &apos;%1&apos; é inválido no ficheiro de cores na linha %2: o valor deve ser positivo (&gt;0). A ignorar esta linha.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="300"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must not go above be %3.</source>
-        <translation type="unfinished">O valor da etiqueta «%1» é inválido no ficheiro de cores, na linha %2: o valor não pode ser superior a %3.</translation>
+        <translation>O valor do rótulo &apos;%1&apos; é inválido no ficheiro de cores, na linha %2: o valor não pode ser superior a %3.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="366"/>
@@ -31145,7 +31145,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeDisplayNode.cxx" line="36"/>
         <source>Label Map Volume Display</source>
-        <translation type="unfinished">Exibição do mapa de etiquetas</translation>
+        <translation>Exibição de Volumes de Mapa de Rótulo</translation>
     </message>
 </context>
 <context>
@@ -31153,7 +31153,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeNode.cxx" line="39"/>
         <source>Label Map Volume</source>
-        <translation type="unfinished">Etiqueta Mapa Volume</translation>
+        <translation>Mapa de Volume de Rótulo</translation>
     </message>
 </context>
 <context>
