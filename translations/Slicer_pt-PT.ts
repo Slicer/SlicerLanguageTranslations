@@ -4778,7 +4778,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
@@ -4837,7 +4837,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
@@ -5082,7 +5082,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5160,7 +5160,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
@@ -5417,7 +5417,7 @@ O filtro assume que ambas a fonte e referência são do mesmo tipo e que o tipo 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
@@ -6342,12 +6342,12 @@ Preservação da Direção Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished">Parâmetros de saída do manual</translation>
+        <translation>Parâmetros de Saída Manual</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished">Parâmetros da imagem de saída</translation>
+        <translation>Parâmetros da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
@@ -6483,7 +6483,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished">Parâmetros utilizados para a interpolação BSpline</translation>
+        <translation>Parâmetros utilizados para a interpolação BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
@@ -6559,12 +6559,12 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para a Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde (NIH) através do Roteiro do NIH para a Investigação Médica, subvenção U54 EB005149. É possível obter informações sobre os Centros Nacionais de Computação Biomédica em http://nihroadmap.nih.gov/bioinformatics</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149. É possível obter informações sobre os National Centers for Biomedical Computing em http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
         <source>Input/Output</source>
-        <translation type="unfinished">Entrada/Saída</translation>
+        <translation>Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
@@ -6584,134 +6584,134 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished">Volume de referência (para definir os parâmetros de saída)</translation>
+        <translation>Volume de Referência (Para Definir os Parâmetros de Saída)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
         <source>Input Volume to be resampled</source>
-        <translation type="unfinished">Volume de entrada a ser reamostrado</translation>
+        <translation>Volume de entrada a ser reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="13"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished">Volume reamostrado</translation>
+        <translation>Volume Reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="14"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished">Volume de referência (espaçamento, tamanho, orientação, origem)</translation>
+        <translation>Volume de Referência (espaçamento, tamanho, orientação, origem)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="15"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished">Parâmetros de transformação</translation>
+        <translation>Parâmetros de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="16"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished">Parâmetros utilizados para transformar a imagem de entrada na imagem de saída</translation>
+        <translation>Parâmetros utilizados para transformar a imagem de entrada na imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"/>
         <source>Transform Node</source>
-        <translation type="unfinished">Nó de transformação</translation>
+        <translation>Nó de transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="18"/>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished">Volume do campo de deformação</translation>
+        <translation>Campo de Deformação de Volume</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="19"/>
         <source>Displacement or H-Field</source>
-        <translation type="unfinished">Deslocamento ou campo H</translation>
+        <translation>Deslocamento ou Campo H</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished">Ficheiro que contém o campo de deformação (imagem vetorial 3D contendo vetores com 3 componentes)</translation>
+        <translation>Ficheiro que contém o campo de deformação (imagem vetorial 3D contendo vetores com 3 componentes)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
         <source>Set if the deformation field is an h-Field</source>
-        <translation type="unfinished">Definir se o campo de deformação é um campo h</translation>
+        <translation>Definir se o campo de deformação é um Campo h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"/>
         <source>h-Field</source>
-        <translation type="unfinished">Campo h</translation>
+        <translation>Campo-h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"/>
         <source>displacement</source>
-        <translation type="unfinished">deslocamento</translation>
+        <translation>deslocamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="25"/>
         <source>Interpolation Type</source>
-        <translation type="unfinished">Tipo de interpolação</translation>
+        <translation>Tipo de Interpolação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="26"/>
         <source>Interpolation</source>
-        <translation type="unfinished">Interpolação</translation>
+        <translation>Interpolação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="27"/>
         <source>Sampling algorithm (linear or nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished">Algoritmo de amostragem (linear ou nn (vizinho mais próximo), ws (WindowedSinc), bs (BSpline))</translation>
+        <translation>Algoritmo de amostragem (linear ou nn (vizinho mais próximo), ws (WindowedSinc), bs (BSpline) )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="28"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="29"/>
         <source>linear</source>
-        <translation type="unfinished">linear</translation>
+        <translation>linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="30"/>
         <source>nn</source>
-        <translation type="unfinished">Não, não</translation>
+        <translation>nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="31"/>
         <source>ws</source>
-        <translation type="unfinished">ws</translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="32"/>
         <source>bs</source>
-        <translation type="unfinished">Antes do nascer do sol</translation>
+        <translation>bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="33"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished">Parâmetros avançados de transformação</translation>
+        <translation>Parâmetros Avançados de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="34"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished">Esses parâmetros não devem, normalmente, ser alterados</translation>
+        <translation>Esses parâmetros não devem, normalmente, ser alterados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"/>
         <source>Transforms Order</source>
-        <translation type="unfinished">Transforma a ordem</translation>
+        <translation>Transforma a Ordem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished">Não é uma transformação em massa</translation>
+        <translation>Não é uma Transformação em Massa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished">Inconsistência na orientação espacial (entre a transformação e a imagem)</translation>
+        <translation>Inconsistência na Orientação espacial (entre a transformação e a imagem)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished">Selecione a ordem em que as transformações são lidas</translation>
+        <translation>Selecione a ordem em que as transformações são lidas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
@@ -6727,68 +6727,68 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="43"/>
         <source>output-to-input</source>
-        <translation type="unfinished">saída para entrada</translation>
+        <translation>saída para entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="42"/>
         <source>input-to-output</source>
-        <translation type="unfinished">entrada-saída</translation>
+        <translation>entrada-para-saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="44"/>
         <source>Rigid/Affine Parameters</source>
-        <translation type="unfinished">Parâmetros rígidos/afins</translation>
+        <translation>Parâmetros Rígidos/Afins</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="45"/>
         <source>Rotation Point</source>
-        <translation type="unfinished">Ponto de rotação</translation>
+        <translation>Ponto de Rotação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="46"/>
         <source>Centered Transform</source>
-        <translation type="unfinished">Transformação centralizada</translation>
+        <translation>Transformação Centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="47"/>
         <source>Image Center</source>
-        <translation type="unfinished">Centro de Imagens</translation>
+        <translation>Centro de Imagem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="48"/>
         <source>Inverse ITK Transformation</source>
-        <translation type="unfinished">Transformação ITK inversa</translation>
+        <translation>Transformação ITK Inversa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="49"/>
         <source>Rotation Point in case of rotation around a point (otherwise useless)</source>
-        <translation type="unfinished">Ponto de rotação, no caso de rotação em torno de um ponto (caso contrário, é inútil)</translation>
+        <translation>Ponto de Rotação, no caso de rotação em torno de um ponto (caso contrário, é inútil)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"/>
         <source>Set the center of the transformation to the center of the input image</source>
-        <translation type="unfinished">Defina o centro da transformação no centro da imagem de entrada</translation>
+        <translation>Defina o centro da transformação no centro da imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished">Imagem a utilizar para centrar a transformação (utilizada apenas se a opção «Transformação centrada» estiver selecionada)</translation>
+        <translation>Imagem a utilizar para centrar a transformação (utilizada apenas se a opção &quot;Transformação Centrada&quot; estiver selecionada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
         <source>Inverse the transformation before applying it from output image to input image</source>
-        <translation type="unfinished">Inverta a transformação antes de a aplicar da imagem de saída à imagem de entrada</translation>
+        <translation>Inverter a transformação antes de a aplicar da imagem de saída à imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="54"/>
         <source>input</source>
-        <translation type="unfinished">entrada</translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="55"/>
         <source>output</source>
-        <translation type="unfinished">resultado</translation>
+        <translation>resultado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="56"/>
@@ -6980,7 +6980,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="92"/>
         <source>rt</source>
-        <translation type="unfinished">rt</translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -6988,7 +6988,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="5"/>
         <source>Resample Scalar Volume</source>
-        <translation type="unfinished">Reamostrar volume escalar</translation>
+        <translation>Reamostrar Volume Escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
@@ -6998,78 +6998,78 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
         <source>Resampling Parameters</source>
-        <translation type="unfinished">Parâmetros de reamostragem</translation>
+        <translation>Parâmetros de Reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="9"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished">Parâmetros utilizados para a reamostragem</translation>
+        <translation>Parâmetros utilizados para reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="10"/>
         <source>Spacing</source>
-        <translation type="unfinished">Espaçamento</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="11"/>
         <source>Interpolation</source>
-        <translation type="unfinished">Interpolação</translation>
+        <translation>Interpolação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="12"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Espaçamento em cada dimensão (0 significa utilizar o espaçamento da entrada)</translation>
+        <translation>Espaçamento em cada dimensão (0 significa utilizar o espaçamento da entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation type="unfinished">Algoritmo de amostragem (linear, vizinho mais próximo, b-spline (cúbico) ou sinc com janela). Existem vários algoritmos sinc disponíveis, conforme descrito na seguinte publicação: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Cada janela tem um raio de 3;</translation>
+        <translation>Algoritmo de amostragem (linear, vizinho mais próximo, b-spline (cúbico)  ou sinc com janela). Existem vários algoritmos sinc disponíveis, conforme descrito na seguinte publicação: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Cada janela tem um raio de 3;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="15"/>
         <source>linear</source>
-        <translation type="unfinished">linear</translation>
+        <translation>linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"/>
         <source>nearestNeighbor</source>
-        <translation type="unfinished">vizinho mais próximo</translation>
+        <translation>nearestNeighbor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="17"/>
         <source>bspline</source>
-        <translation type="unfinished">bspline</translation>
+        <translation>bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"/>
         <source>hamming</source>
-        <translation type="unfinished">Hamming</translation>
+        <translation>hamming</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="19"/>
         <source>cosine</source>
-        <translation type="unfinished">cosseno</translation>
+        <translation>cosseno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="20"/>
         <source>welch</source>
-        <translation type="unfinished">qual</translation>
+        <translation>welch</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="21"/>
         <source>lanczos</source>
-        <translation type="unfinished">almoço</translation>
+        <translation>lanczos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="22"/>
         <source>blackman</source>
-        <translation type="unfinished">blackman</translation>
+        <translation>blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
@@ -7094,12 +7094,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">Volume de entrada a ser reamostrado</translation>
+        <translation>Volume de entrada a ser reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished">Volume reamostrado</translation>
+        <translation>Volume Reamostrado</translation>
     </message>
 </context>
 <context>
@@ -7107,27 +7107,27 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="5"/>
         <source>Robust Statistics Segmenter</source>
-        <translation type="unfinished">Estatística Robusta Segmentos</translation>
+        <translation>Segmentador Robusto de Estatística</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="6"/>
         <source>Active contour segmentation using robust statistic.</source>
-        <translation type="unfinished">Segmentação de contornos ativos utilizando estatísticas robustas.</translation>
+        <translation>Segmentação de contornos ativos utilizando estatística robusta.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para o Processamento de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished">Parâmetros de segmentação</translation>
+        <translation>Parâmetros de Segmentação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"/>
         <source>Parameters for robust statistics segmentation</source>
-        <translation type="unfinished">Parâmetros para uma segmentação estatística robusta</translation>
+        <translation>Parâmetros para segmentação de estatística robusta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"/>
@@ -7137,27 +7137,27 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"/>
         <source>The approximate volume of the object, in mL.</source>
-        <translation type="unfinished">O volume aproximado do objeto, em mL.</translation>
+        <translation>O volume aproximado do objeto, em mL.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished">Parâmetros auxiliares</translation>
+        <translation type="unfinished">Parâmetros Auxiliares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
         <source>Some auxiliary parameters to control the stop criteria.</source>
-        <translation type="unfinished">Alguns parâmetros auxiliares para controlar os critérios de paragem.</translation>
+        <translation>Alguns parâmetros auxiliares para controlar os critérios de paragem.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="14"/>
         <source>Intensity Homogeneity[0-1.0]</source>
-        <translation type="unfinished">Homogeneidade de intensidade [0-1,0]</translation>
+        <translation>Homogeneidade de Intensidade [0-1,0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="15"/>
         <source>Boundary Smoothness[0-1.0]</source>
-        <translation type="unfinished">Suavidade dos contornos [0-1,0]</translation>
+        <translation>Suavidade de Limites [0-1,0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"/>
@@ -7167,27 +7167,27 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"/>
         <source>Max running time(min)</source>
-        <translation type="unfinished">Tempo máximo de funcionamento (min)</translation>
+        <translation>Tempo máximo de funcionamento (min)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
         <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
-        <translation type="unfinished">Qual é a homogeneidade da intensidade no interior do objeto? Considerando uma intensidade constante com uma pontuação de 1,0 e uma intensidade extremamente variável com uma pontuação de 0.</translation>
+        <translation>Qual é a homogeneidade da intensidade no interior do objeto? Considerando uma intensidade constante com uma pontuação de 1.0 e uma intensidade extremamente variável com uma pontuação de 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"/>
         <source>Given sphere 1.0 score and extreme rough boundary/surface 0 score, what is the expected smoothness of the object?</source>
-        <translation type="unfinished">Dada uma pontuação de 1,0 para a esfera e uma pontuação de 0 para o contorno/superfície extremamente rugosa, qual é a suavidade esperada do objeto?</translation>
+        <translation>Dada uma pontuação de 1.0 para a esfera e uma pontuação de 0 para o contorno/superfície extremamente rugosa, qual é a suavidade esperada do objeto?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
         <source>Label value of the output image</source>
-        <translation type="unfinished">Valor da legenda da imagem de saída</translation>
+        <translation>Valor da legenda da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"/>
         <source>The program will stop if this time is reached.</source>
-        <translation type="unfinished">O programa irá parar quando este tempo for atingido.</translation>
+        <translation>O programa irá parar se este tempo for atingido.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
@@ -7202,7 +7202,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
         <source>Original Image</source>
-        <translation type="unfinished">Imagem original</translation>
+        <translation>Imagem Original</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
@@ -7217,7 +7217,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
         <source>Original image to be segmented</source>
-        <translation type="unfinished">Imagem original a ser segmentada</translation>
+        <translation>Imagem original a ser segmentada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
@@ -7227,7 +7227,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
         <source>Segmented image</source>
-        <translation type="unfinished">Imagem segmentada</translation>
+        <translation>Imagem segmentada</translation>
     </message>
 </context>
 <context>
@@ -7235,42 +7235,42 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="5"/>
         <source>Simple Region Growing Segmentation</source>
-        <translation type="unfinished">Segmentação por Regiões Crescentes Simples</translation>
+        <translation>Segmentação por Regiões Crescentes Simples</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
         <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
-        <translation type="unfinished">Um algoritmo simples de segmentação por crescimento de região baseado em estatísticas de intensidade. Para criar uma lista de pontos de referência (Seeds) para este algoritmo, clique no ícone da barra de ferramentas que representa uma seta apontando para uma esfera de referência para entrar no «modo de colocar um novo objeto» e, em seguida, utilize o módulo Markups. Este módulo utiliza a Interface de Linha de Comandos (CLI) do Slicer e os filtros ITK CurvatureFlowImageFilter e ConfidenceConnectedImageFilter.</translation>
+        <translation>Um algoritmo simples de segmentação por crescimento de região baseado em estatísticas de intensidade. Para criar uma lista de pontos de referência (Seeds) para este algoritmo, clique no ícone da barra de ferramentas que representa uma seta apontando para uma esfera de referência para entrar no &apos;modo de colocar um novo objeto&apos; e, em seguida, utilize o módulo Markups. Este módulo utiliza a Interface de Linha de Comandos (CLI) do Slicer e os filtros ITK CurvatureFlowImageFilter e ConfidenceConnectedImageFilter.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comando foi derivado a partir do Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation>Este módulo de comando foi derivado a partir do Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
         <source>Smoothing Parameters</source>
-        <translation type="unfinished">Parâmetros de suavização</translation>
+        <translation>Parâmetros de Suavização</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
         <source>Parameters to denoise the image prior to segmenting</source>
-        <translation type="unfinished">Parâmetros para reduzir o ruído da imagem antes da segmentação</translation>
+        <translation>Parâmetros para reduzir o ruído da imagem antes da segmentação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
         <source>Smoothing iterations</source>
-        <translation type="unfinished">Iterações de suavização</translation>
+        <translation>Iterações de suavização</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"/>
         <source>Timestep</source>
-        <translation type="unfinished">Intervalo de tempo</translation>
+        <translation>Intervalo de tempo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"/>
         <source>Number of smoothing iterations</source>
-        <translation type="unfinished">Número de iterações de suavização</translation>
+        <translation>Número de iterações de suavização</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"/>
@@ -7383,7 +7383,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
@@ -7461,7 +7461,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
@@ -12663,11 +12663,11 @@ Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">
+        <translation>
 Desenvolvido por Steve Pieper, da Isomics, Inc.,
-parcialmente financiado pela bolsa 3P41RR013218-12S1 do NIH (NAC) e faz parte da Aliança Nacional
-para o Processamento de Imagens Médicas (NA-MIC), financiada pelos Institutos Nacionais de Saúde através do
-Roteiro do NIH para a Investigação Médica, Bolsa U54 EB005149.</translation>
+parcialmente financiado pela bolsa 3P41RR013218-12S1 do NIH (NAC) e faz parte da National Alliance
+for Medical Image Computing (NA-MIC), financiada pelos National Institutes of Health através da
+NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
@@ -20188,7 +20188,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1938"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">O Slicer NÃO é um dispositivo médico aprovado pela FDA.&lt;br&gt;&lt;br&gt;Apoiado por: NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.&lt;br&gt;&lt;br&gt;Agradecimentos especiais ao NIH e aos nossos outros apoiantes.&lt;br&gt;&lt;br&gt;Este trabalho faz parte da Aliança Nacional para a Computação de Imagens Médicas (NA-MIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro do NIH para a Investigação Médica, Subvenção U54 EB005149. Informações sobre os Centros Nacionais de Computação Biomédica podem ser obtidas em&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
+        <translation>O Slicer NÃO é um dispositivo médico aprovado pela FDA.&lt;br&gt;&lt;br&gt;Apoiado por: NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.&lt;br&gt;&lt;br&gt;Agradecimentos especiais ao NIH e aos nossos outros apoiantes.&lt;br&gt;&lt;br&gt;Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos National Institutes of Health através do NIH Roadmap for Medical Research, Grant U54 EB005149. Informações sobre os National Centers for Biomedical Computing podem ser obtidas em&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
