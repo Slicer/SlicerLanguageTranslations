@@ -1900,7 +1900,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
@@ -2004,7 +2004,7 @@ Tillåter casting till samma typ som indatavolymen.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
@@ -3065,7 +3065,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
@@ -3786,7 +3786,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
@@ -3895,7 +3895,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
@@ -4090,7 +4090,7 @@ Det här filtret använder itkGrayscaleGeodesicErodeImageFilter.  Det ger sin eg
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
@@ -4158,7 +4158,7 @@ Ett kompletterande filter, Grayscale Fill Hole, fyller igen hål i gråskalebild
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
@@ -4206,7 +4206,7 @@ Ett kompletterande filter, Grayscale Fill Hole, fyller igen hål i gråskalebild
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
@@ -4636,7 +4636,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
@@ -4792,7 +4792,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
@@ -4851,7 +4851,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
@@ -5096,7 +5096,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta arbete är en del av den Nationella Alliansen för Medicinsk Bildberäkning (NAMIC), finansierat av de Nationella Hälsoinstituten (NIH) genom NIH:s färdplan för medicinsk forskning, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -7735,7 +7735,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="61"/>
         <source>Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekvens</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
@@ -7765,7 +7765,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="108"/>
         <source>Crop volume parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Skördevolymparametrar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
@@ -7785,7 +7785,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="124"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicera</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
@@ -7923,12 +7923,12 @@ Den här filen utvecklades ursprungligen av Andras Lasso
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1049"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1095"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa DICOM databas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidopanel</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
@@ -7943,7 +7943,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="612"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Dold</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
@@ -8019,7 +8019,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1295"/>
         <source>running at port %s with TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>körs på port %s med TLS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
@@ -8362,7 +8362,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="159"/>
         <source>Import to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera till DICOM databas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="160"/>
