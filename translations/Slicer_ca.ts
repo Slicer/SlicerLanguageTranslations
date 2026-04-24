@@ -645,7 +645,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation>Treu els vòxels de molt alta i molt baixa intensitat dels volums d&apos;entrada. El paràmetre especifica el percentatge mitjà per a decidir els valors atípics de les intensitats de la imatge. El valor per defecte és zero, cosa que significa que no hi ha eliminació atípica. Si es dóna el valor de 0,005, es llençarà el 0,005 % de les dues cues, de manera que s&apos;ignoraria el 0,01 % de les intensitats en total en el càlcul estadístic.</translation>
+        <translation>Treu els vòxels de molt alta i molt baixa intensitat dels volums d&apos;entrada. El paràmetre especifica el percentatge mitjà per a decidir els valors atípics de les intensitats de la imatge. El valor per defecte és zero, cosa que significa que no hi ha eliminació atípica. Si es dóna el valor de 0,005, es llançarà el 0,005 % de les dues cues, de manera que s&apos;ignoraria el 0,01 % de les intensitats en total en el càlcul estadístic.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
