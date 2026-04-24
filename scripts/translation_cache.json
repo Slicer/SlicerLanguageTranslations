@@ -3034,5 +3034,13 @@
   "Slicer displays a 3D view of \nthe optic chiasm:AR_SA": "يعرض برنامج Slicer عرضًا ثلاثي الأبعاد \nللتقاطع البصري",
   "Conclusion:AR_SA": "خاتمة",
   "• 3D Slicer provides advanced functionalities for loading and viewing 3D medical imaging data\n\n• The tutorial demonstrates how to use volume rendering and 3D surface modeling for interactive visualization of CT and MRI data\n\n\nContact: spujol@bwh.harvard.edu:AR_SA": "• يوفر برنامج 3D Slicer وظائف متقدمة لتحميل وعرض بيانات التصوير الطبي ثلاثي الأبعاد\n\n• يوضح البرنامج التعليمي كيفية استخدام تقنية عرض الحجم ونمذجة الأسطح ثلاثية الأبعاد من أجل التصور التفاعلي لبيانات التصوير المقطعي المحوسب (CT) والتصوير بالرنين المغناطيسي (MRI)\n\n\nللتواصل: spujol@bwh.harvard.edu",
-  "Neuroimage Analysis Center (NIBIB P41 EB015902):AR_SA": "مركز تحليل الصور العصبية (NIBIB P41 EB015902)"
+  "Neuroimage Analysis Center (NIBIB P41 EB015902):AR_SA": "مركز تحليل الصور العصبية (NIBIB P41 EB015902)",
+  "Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.:RU": "Оставьте поле пустым, чтобы использовать значения по умолчанию. Необязательный ключ API для Weblate. Укажите его, если вам требуется доступ к закрытым проектам или необходимо обойти ограничения по частоте запросов.",
+  "Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.:RU": "Оставьте поле пустым, чтобы использовать значение по умолчанию (инструменты Qt lrelease, входящие в состав установщика Slicer или доступные в системных путях). Укажите это значение, чтобы использовать собственный исполняемый файл Qt lrelease.",
+  "Text Direction::RU": "Направление текста:",
+  "\nThis module can build translation files and install them locally. It is useful for creating and testing translations.\nSee more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.\n:RU": "\nЭтот модуль позволяет создавать файлы перевода и устанавливать их локально. Он полезен для создания и тестирования переводов.\nБолее подробную информацию см. в &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;документации по расширению&lt;/a&gt;.\n",
+  "Auto-detect:RU": "Автоматическое определение",
+  "Left to Right:RU": "Слева направо",
+  "Right to Left:RU": "Справа налево",
+  "Skipped. The downloaded file is invalid.:RU": "Пропущено. Загруженный файл недействителен."
 }
