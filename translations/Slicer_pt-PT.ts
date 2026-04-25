@@ -721,7 +721,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation>Se verdadeiro, e os valores de voxel não se enquadram nos valores mínimos e máximos do do outputVolumePixelType desejado, depois escalam linearmente os valores min/max do voxel de imagem de saida para se enquadrarem dentro do intervalo min/max do outputVolumePixelType.</translation>
+        <translation>Se verdadeiro, e os valores de voxel não se enquadram nos valores mínimos e máximos do outputVolumePixelType desejado, depois escalam linearmente os valores min/max do voxel de imagem de saida para se enquadrarem dentro do intervalo min/max do outputVolumePixelType.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
@@ -793,7 +793,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
         <source>Cosine</source>
-        <translation>Cosine</translation>
+        <translation>Cosseno</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
@@ -1371,7 +1371,7 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation>Inputs</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
@@ -1559,7 +1559,7 @@ NOTA que é sugerido que use percentagemDeAmostragem em vez desta opção. No en
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
         <source>Cosine</source>
-        <translation>Cosine</translation>
+        <translation>Cosseno</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
@@ -2350,7 +2350,7 @@ Permite converter para o mesmo tipo que o volume de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
         <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation>A hora do estudo (0008,0030) no formato HHMMSS. Se for definido para &quot;[agora]&quot; então a hora atual será utilizado.\</translation>
+        <translation>A hora do estudo (0008,0030) no formato HHMMSS. Se for definido para &quot;[agora]&quot; então a hora atual será utilizado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"/>
@@ -3404,7 +3404,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"/>
         <source>Parameters that describe point sets.</source>
-        <translation>Parâmetros que descrevem conjuntos de pontos</translation>
+        <translation>Parâmetros que descrevem conjuntos de pontos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"/>
@@ -3434,7 +3434,7 @@ MCDE não exibe as propriedades de melhoramento de borda de difusão anisotrópi
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation>Ficheiro de saída a ser lido novamente, comparado com sementes com configurações invertidas na primeira fiducial.</translation>
+        <translation>Ficheiro de saída a ser lido novamente, comparado com sementes com configurações invertidas na primeira fiducial</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
@@ -6803,17 +6803,17 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"/>
         <source>Spacing</source>
-        <translation type="unfinished">Espaçamento</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="59"/>
         <source>Size</source>
-        <translation type="unfinished">Para si</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
@@ -6904,27 +6904,27 @@ b = Blackman</translation>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="76"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="78"/>
         <source>c</source>
-        <translation type="unfinished">c</translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="77"/>
         <source>h</source>
-        <translation type="unfinished">e</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="79"/>
         <source>w</source>
-        <translation type="unfinished">em</translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="80"/>
         <source>l</source>
-        <translation type="unfinished">o</translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="81"/>
         <source>b</source>
-        <translation type="unfinished">b</translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
@@ -6950,12 +6950,12 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>Matriz de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="88"/>
         <source>Transform</source>
-        <translation type="unfinished">Transform</translation>
+        <translation>Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
@@ -6975,7 +6975,7 @@ a = Transformação afim</translation>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="91"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="93"/>
         <source>a</source>
-        <translation type="unfinished">o</translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="92"/>
@@ -7295,7 +7295,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
         <source>Multiplier</source>
-        <translation type="unfinished">Multiplicador</translation>
+        <translation>Multiplicador</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
@@ -7310,7 +7310,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
         <source>Seeds</source>
-        <translation type="unfinished">Sementes</translation>
+        <translation>Sementes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
@@ -7428,7 +7428,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished">Controlos</translation>
+        <translation>Controlos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
@@ -7511,12 +7511,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished">Mais baixo</translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished">Parte superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
@@ -7562,17 +7562,17 @@ a = Transformação afim</translation>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"/>
         <source>Outside</source>
-        <translation type="unfinished">No exterior</translation>
+        <translation>Exterior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"/>
         <source>Below</source>
-        <translation type="unfinished">Abaixo</translation>
+        <translation>Abaixo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="28"/>
         <source>Above</source>
-        <translation type="unfinished">Acima</translation>
+        <translation>Acima</translation>
     </message>
 </context>
 <context>
@@ -7615,12 +7615,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
         <source>Background</source>
-        <translation type="unfinished">Background</translation>
+        <translation>Plano de fundo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="12"/>
         <source>Foreground</source>
-        <translation type="unfinished">Foreground</translation>
+        <translation>Primeiro plano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
@@ -7702,7 +7702,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="61"/>
         <source>Sequence</source>
-        <translation type="unfinished">Sequence</translation>
+        <translation>Sequência</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
@@ -7757,7 +7757,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Run the algorithm.</translation>
+        <translation>Correr o algoritmo.</translation>
     </message>
 </context>
 <context>
@@ -7816,7 +7816,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="568"/>
         <source>Database location:</source>
-        <translation type="unfinished">Database location:</translation>
+        <translation>Localização da base de dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="571"/>
@@ -7861,12 +7861,12 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="676"/>
         <source>Enabled until {time}</source>
-        <translation type="unfinished">Ativo até às {hora}</translation>
+        <translation>Ativo até às {time}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="677"/>
         <source>Disable</source>
-        <translation type="unfinished">Disable</translation>
+        <translation>Desativar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="680"/>
@@ -7915,7 +7915,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Pequeno</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="614"/>
@@ -7991,7 +7991,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished">Ficheiro DICOM recebido: {nome do ficheiro}</translation>
+        <translation>Ficheiro DICOM recebido: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1397"/>
@@ -8061,7 +8061,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="206"/>
         <source>{modality} image sequence</source>
-        <translation type="unfinished">sequência de imagens {modalidade}</translation>
+        <translation>sequência de imagens {modality}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
@@ -8099,7 +8099,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="270"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="344"/>
@@ -8141,12 +8141,12 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="505"/>
         <source>Checking {what}</source>
-        <translation type="unfinished">Verificar {o quê}</translation>
+        <translation>Verificar {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="523"/>
         <source>Warning: {messages}</source>
-        <translation type="unfinished">Aviso: {mensagens}</translation>
+        <translation>Aviso: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="524"/>
@@ -8156,7 +8156,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="648"/>
         <source>Loading {what}</source>
-        <translation type="unfinished">A carregar {o quê}</translation>
+        <translation>A carregar {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="671"/>
@@ -8219,7 +8219,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="25"/>
         <source>DICOM Patcher</source>
-        <translation type="unfinished">DICOM Patcher</translation>
+        <translation>Corretor DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="29"/>
@@ -8319,7 +8319,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="152"/>
         <source>Patch</source>
-        <translation type="unfinished">Patch</translation>
+        <translation>Correção</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="153"/>
@@ -8621,7 +8621,7 @@ pela posição do rato.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="162"/>
         <source>No Tensor Data</source>
-        <translation type="unfinished">No Tensor Data</translation>
+        <translation>Sem Dados Tensor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="182"/>
@@ -8631,13 +8631,13 @@ pela posição do rato.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="294"/>
         <source>Data Probe: {sceneName}</source>
-        <translation type="unfinished">Data Probe: {sceneName}</translation>
+        <translation>Sonda de Dados: {sceneName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="24"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="296"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Data Probe</translation>
+        <translation>Sonda de Dados</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
@@ -8647,7 +8647,7 @@ pela posição do rato.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="343"/>
         <source>{description} [slice: {instanceNumber}]</source>
-        <translation type="unfinished">{descrição} [fatia: {número da instância}]</translation>
+        <translation>{description} [fatia: {instanceNumber}]</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="425"/>
@@ -8663,7 +8663,7 @@ pela posição do rato.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="555"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Slice View Annotations Settings</translation>
+        <translation>Definições de Anotações de Vista de Corte</translation>
     </message>
 </context>
 <context>
@@ -8689,7 +8689,7 @@ NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="106"/>
         <source>Path</source>
-        <translation type="unfinished">Path</translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="115"/>
@@ -8726,7 +8726,7 @@ Pode guardar a posição da câmara em qualquer momento ao clicar em &quot;Guard
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
         <source>Camera:</source>
-        <translation type="unfinished">Camera:</translation>
+        <translation>Câmara:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="127"/>
@@ -8858,7 +8858,7 @@ Pode guardar a posição da câmara em qualquer momento ao clicar em &quot;Guard
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="249"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="261"/>
@@ -9083,12 +9083,12 @@ Pode guardar a posição da câmara em qualquer momento ao clicar em &quot;Guard
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="27"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
         <source>Select folder</source>
-        <translation type="unfinished">Select folder</translation>
+        <translation>Selecionar pasta</translation>
     </message>
 </context>
 <context>
@@ -9150,7 +9150,7 @@ Pode guardar a posição da câmara em qualquer momento ao clicar em &quot;Guard
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="52"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished">Move &amp;Up</translation>
+        <translation>Mover Para &amp;Cima</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="57"/>
@@ -9257,7 +9257,7 @@ Pode guardar a posição da câmara em qualquer momento ao clicar em &quot;Guard
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentação</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
@@ -9306,7 +9306,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso (PerkLab) e foi pa
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="509"/>
         <source>{name} intensity</source>
-        <translation type="unfinished">{nome} intensidade</translation>
+        <translation>{name} intensidade</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="510"/>
@@ -9362,7 +9362,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso (PerkLab) e foi pa
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="140"/>
         <source>Plotting</source>
-        <translation type="unfinished">Plotting</translation>
+        <translation>Traçar Gráfico</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="146"/>
@@ -9536,7 +9536,7 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 
 &lt;p&gt;Conjuntos de dados MRHead, CBCT-MR Head, and CT-MR Brain foram doados ao projeto 3D Slicer pelas pessoas visíveis nas imagens, para serem utilizados sem quaisquer restrições.&lt;/p&gt;
 
-&lt;p&gt;Conjunto de dados CTLiver vêm do &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;projeto Medical Decathlon &lt;/a&gt; (imagesTr/liver_100.nii.gz na coleção Task03_Liver)
+&lt;p&gt;Conjunto de dados CTLiver vêm do &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;projeto Medical Decathlon&lt;/a&gt; (imagesTr/liver_100.nii.gz na coleção Task03_Liver)
 com uma licença de direitos autorais permissiva (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), permitindo que dados sejam partilhados, distribuídos e melhorados.&lt;/p&gt;
 
 &lt;p&gt;Conjunto de dados CTA abdomen (Panoramix) vêm da &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;biblioteca de imagens Osirix DICOM&lt;/a&gt;
@@ -9547,7 +9547,7 @@ utilizá-lo para fins comerciais.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Download Sample Data</translation>
+        <translation>Transferir Dados de Amostra</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="114"/>
@@ -9622,7 +9622,7 @@ utilizá-lo para fins comerciais.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished">Falha no download (tentativa {atual} de {total})...</translation>
+        <translation>Falha no download (tentativa {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="925"/>
