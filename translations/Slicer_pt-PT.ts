@@ -6793,12 +6793,12 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="56"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished">Parâmetros de saída do manual</translation>
+        <translation>Parâmetros de Saída Manuais</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="57"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished">Parâmetros da imagem de saída</translation>
+        <translation>Parâmetros da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"/>
@@ -6818,72 +6818,72 @@ Aviso: Não use Imagens de Difusão de Tensor, tensores não  seriam reorientado
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished">Matriz de Direção</translation>
+        <translation>Matriz de Direção</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="62"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Espaçamento em cada dimensão (0 significa utilizar o espaçamento da entrada)</translation>
+        <translation>Espaçamento em cada dimensão (0 significa utilizar o espaçamento da entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="63"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished">Dimensão em cada eixo (0 significa utilizar a dimensão de entrada)</translation>
+        <translation>Dimensão em cada eixo (0 significa utilizar a dimensão de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished">Origem da imagem de saída</translation>
+        <translation>Origem da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished">9 parâmetros da matriz de direção por linhas (ijk para LPS, se for transformação LPS; ijk para RAS, se for transformação RAS)</translation>
+        <translation>9 parâmetros da matriz de direção por linhas (ijk para LPS, se for transformação LPS, ijk para RAS se for transformação RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="66"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished">Parâmetros avançados de reamostragem</translation>
+        <translation>Parâmetros Avançados de Reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="67"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished">Parâmetros utilizados para a reamostragem</translation>
+        <translation>Parâmetros utilizados para a reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
         <source>Number Of Thread</source>
-        <translation type="unfinished">Número do tópico</translation>
+        <translation>Número De Threads</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="69"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished">Valor padrão do pixel</translation>
+        <translation>Valor Padrão do Pixel</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished">Número de threads utilizados para calcular a imagem de saída</translation>
+        <translation>Número de threads utilizadas para calcular a imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished">Valor padrão em pixels para amostras que se encontram fora da região de entrada</translation>
+        <translation>Valor padrão em pixels para amostras que se encontram fora da região de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished">Parâmetros da função de interpolação Sinc com janela</translation>
+        <translation>Parâmetros da Função de Interpolação Sinc de Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished">Parâmetros utilizados na interpolação Sinc com janela</translation>
+        <translation>Parâmetros utilizados na Interpolação Sinc de Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
         <source>Window Function</source>
-        <translation type="unfinished">Função de janela</translation>
+        <translation>Função de Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
@@ -6893,7 +6893,7 @@ c = Cosine
 w = Welch 
 l = Lanczos 
 b = Blackman</source>
-        <translation type="unfinished">Função de janela 
+        <translation>Função de janela 
 h = Hamming 
 c = Cosseno 
 w = Welch 
@@ -6929,23 +6929,23 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished">Parâmetros da função de interpolação B-spline</translation>
+        <translation>Parâmetros da Função de Interpolação B-spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished">Parâmetros utilizados para a interpolação BSpline</translation>
+        <translation>Parâmetros utilizados para a interpolação BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"/>
         <source>Spline Order</source>
-        <translation type="unfinished">Ordem da spline</translation>
+        <translation>Ordem da Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
         <source>Manual Transform (Only used if no transform node set)</source>
-        <translation type="unfinished">Transformação manual (utilizada apenas se não estiver definido nenhum nó de transformação)</translation>
+        <translation>Transformação manual (Utilizada apenas se não estiver definido nenhum nó de transformação)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
@@ -6960,16 +6960,16 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished">Os 12 parâmetros da matriz de transformação por linhas ( --sendo os últimos 3 de translação-- )</translation>
+        <translation>Os 12 parâmetros da matriz de transformação por linhas ( --sendo os últimos 3 de translação-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="90"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished">Algoritmo de transformação
-rt = Transformação rígida
-a = Transformação afim</translation>
+        <translation>Algoritmo de transformação
+rt = Transformação Rígida
+a = Transformação Afim</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="91"/>
@@ -7132,7 +7132,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"/>
         <source>Approximate volume(mL)</source>
-        <translation type="unfinished">Volume aproximado (mL)</translation>
+        <translation>Volume aproximado (mL)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"/>
@@ -7142,7 +7142,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished">Parâmetros Auxiliares</translation>
+        <translation>Parâmetros Auxiliares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
@@ -7275,22 +7275,22 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"/>
         <source>Timestep for curvature flow</source>
-        <translation type="unfinished">Intervalo de tempo para o fluxo de curvatura</translation>
+        <translation>Intervalo de tempo para o fluxo de curvatura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished">Parâmetros de segmentação</translation>
+        <translation>Parâmetros de Segmentação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
         <source>Parameters to prescribe the region growing</source>
-        <translation type="unfinished">Parâmetros para definir a região de crescimento</translation>
+        <translation>Parâmetros para definir a região de crescimento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
         <source>Number of iterations</source>
-        <translation type="unfinished">Número de iterações</translation>
+        <translation>Número de iterações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
@@ -7300,7 +7300,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
         <source>Neighborhood Radius</source>
-        <translation type="unfinished">Raio do bairro</translation>
+        <translation>Raio da Vizinhança</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
@@ -7315,27 +7315,27 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
         <source>Number of iterations of region growing</source>
-        <translation type="unfinished">Número de iterações do método de crescimento de região</translation>
+        <translation>Número de iterações de crescimento de região</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="22"/>
         <source>Number of standard deviations to include in intensity model</source>
-        <translation type="unfinished">Número de desvios-padrão a incluir no modelo de intensidade</translation>
+        <translation>Número de desvios-padrão a incluir no modelo de intensidade</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
         <source>The radius of the neighborhood over which to calculate intensity model</source>
-        <translation type="unfinished">O raio da área de vizinhança sobre a qual se calcula o modelo de intensidade</translation>
+        <translation>O raio da área de vizinhança sobre a qual se calcula o modelo de intensidade</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation type="unfinished">O valor inteiro (0-255) a utilizar nos resultados da segmentação. Este valor determinará a cor da segmentação que será gerada pelo algoritmo de crescimento de regiões</translation>
+        <translation>O valor inteiro (0-255) a utilizar nos resultados da segmentação. Este valor determinará a cor da segmentação que será gerada pelo algoritmo de crescimento de Regiões</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
         <source>Seed point(s) for region growing</source>
-        <translation type="unfinished">Ponto(s) de sementeira para a região</translation>
+        <translation>Ponto(s) de semente para crescimento de região</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
@@ -7360,12 +7360,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volume de entrada a ser filtrado</translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Resultado filtrado</translation>
+        <translation>Resultado filtrado</translation>
     </message>
 </context>
 <context>
@@ -7373,12 +7373,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"/>
         <source>Subtract Scalar Volumes</source>
-        <translation type="unfinished">Subtrair volumes escalares</translation>
+        <translation>Subtrair Volumes Escalares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">Subtrai duas imagens. Embora todos os tipos de imagem sejam suportados na entrada, apenas são produzidos tipos com sinal. As duas imagens não têm de ter as mesmas dimensões.</translation>
+        <translation>Subtrai duas imagens. Embora todos os tipos de imagem sejam suportados na entrada, apenas são produzidos tipos com sinal. As duas imagens não têm de ter as mesmas dimensões.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
@@ -7423,7 +7423,7 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished">Volume 1 - Volume 2</translation>
+        <translation>Volume 1 - Volume 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
@@ -7433,17 +7433,17 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">Controlar o funcionamento do módulo</translation>
+        <translation>Controlar o funcionamento do módulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Ordem de interpolação</translation>
+        <translation>Ordem de interpolação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">Ordem de interpolação quando duas imagens se encontram em sistemas de coordenadas diferentes ou têm amostragens diferentes.</translation>
+        <translation>Ordem de interpolação quando duas imagens se encontram em sistemas de coordenadas diferentes ou têm amostragens diferentes.</translation>
     </message>
 </context>
 <context>
@@ -7451,12 +7451,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished">Volume escalar de limiar</translation>
+        <translation>Volume Escalar de Limiar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Aplicar um limiar a uma imagem.&lt;/p&gt;&lt;p&gt;Definir os valores da imagem para um valor externo especificado pelo utilizador, caso estejam abaixo, acima ou entre valores-limite simples.&lt;/p&gt;&lt;p&gt;LimiteSuperior: Os valores maiores ou iguais ao valor de limiar são definidos como OutsideValue.&lt;/p&gt;&lt;p&gt;LimiteInferior: Os valores menores ou iguais ao valor de limiar são definidos como OutsideValue.&lt;/p&gt;&lt;p&gt;LimiteExterno: Os valores fora do intervalo Inferior-Superior são definidos como OutsideValue.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Aplicar um limiar a uma imagem.&lt;/p&gt;&lt;p&gt;Define os valores da imagem para um valor externo especificado pelo utilizador, caso estejam abaixo, acima ou entre valores-limite simples.&lt;/p&gt;&lt;p&gt;ThresholdAbove: Os valores maiores ou iguais ao valor de limiar são definidos como OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: Os valores menores ou iguais ao valor de limiar são definidos como OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: Os valores fora do intervalo Inferior-Superior são definidos como OutsideValue.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
@@ -7491,22 +7491,22 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
         <source>Thresholded input volume</source>
-        <translation type="unfinished">Volume de entrada com limiar</translation>
+        <translation>Volume de entrada com limiar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished">Definições de Filtro</translation>
+        <translation>Definições de Filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
         <source>Threshold Type</source>
-        <translation type="unfinished">Tipo de limiar</translation>
+        <translation>Tipo de Limiar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"/>
         <source>Threshold Value</source>
-        <translation type="unfinished">Valor-limite</translation>
+        <translation>Valor do Limite</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
@@ -7521,42 +7521,42 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
         <source>Outside Value</source>
-        <translation type="unfinished">Valor externo</translation>
+        <translation>Valor Externo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
         <source>Negate Threshold</source>
-        <translation type="unfinished">Limiar de negação</translation>
+        <translation>Negar Limite</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished">Que tipo de limiar aplicar. Se for selecionada a opção «Fora», são utilizados os valores «Superior» e «Inferior». Se for selecionada a opção «Abaixo», é utilizado o valor «ThresholdValue»; se for selecionada a opção «Acima», é utilizado o valor «ThresholdValue».</translation>
+        <translation>Que tipo de limiar aplicar. Se for selecionada a opção Fora, são utilizados os valores Superior e Inferior. Se for selecionada a opção Abaixo, é utilizado o valor ThresholdValue; se for selecionada a opção Acima, é utilizado o valor ThresholdValue.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
         <source>Threshold value</source>
-        <translation type="unfinished">Valor limite</translation>
+        <translation>Valor limite</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
         <source>Lower threshold value</source>
-        <translation type="unfinished">Valor limite inferior</translation>
+        <translation>Valor limite inferior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"/>
         <source>Upper threshold value</source>
-        <translation type="unfinished">Valor limite superior</translation>
+        <translation>Valor limite superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished">Defina os voxels com este valor se estiverem fora do intervalo do limiar</translation>
+        <translation>Defina os voxels com este valor se estiverem fora do intervalo do limiar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
         <source>Swap the outside value with the inside value.</source>
-        <translation type="unfinished">Troque o valor exterior pelo valor interior.</translation>
+        <translation>Troque o valor exterior pelo valor interior.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
@@ -7580,37 +7580,37 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation type="unfinished">Filtro de imagem binário para preenchimento de buracos com votação</translation>
+        <translation>Filtro de Imagem de Votação Binária de Preenchimento de Orificíos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished">Aplica uma operação de votação para preencher cavidades. Esta técnica pode ser utilizada para suavizar contornos e preencher buracos em imagens binárias. É frequentemente utilizada na segmentação de órgãos completos que possam conter ductos ou vasos sanguíneos que não tenham sido incluídos na segmentação inicial, por exemplo, pulmões, rins e fígado.</translation>
+        <translation>Aplica uma operação de votação para preencher cavidades. Esta técnica pode ser utilizada para suavizar contornos e preencher buracos em imagens binárias. Esta técnica é frequentemente utilizada na segmentação de órgãos completos que possam conter ductos ou vasos sanguíneos que não tenham sido incluídos na segmentação inicial, por exemplo, pulmões, rins e fígado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comando foi derivado de Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (direitos de autor) Insight Software Consortium</translation>
+        <translation>Este módulo de comando foi derivado de Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (direitos de autor) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
         <source>Binary Hole Filling Parameters</source>
-        <translation type="unfinished">Parâmetros de preenchimento de buracos binários</translation>
+        <translation>Parâmetros Binários de Preenchimento de Orifícios</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"/>
         <source>Parameters for Hole Filling</source>
-        <translation type="unfinished">Parâmetros para o preenchimento de orifícios</translation>
+        <translation>Parâmetros para Preenchimento de Orifícios</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"/>
         <source>Maximum Radius</source>
-        <translation type="unfinished">Raio máximo</translation>
+        <translation>Raio Máximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"/>
         <source>Majority Threshold</source>
-        <translation type="unfinished">Limiar de maioria</translation>
+        <translation>Limiar de Maioria</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
@@ -7625,22 +7625,22 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
         <source>The radius of a hole to be filled</source>
-        <translation type="unfinished">O raio de um orifício a preencher</translation>
+        <translation>O raio de um orifício a preencher</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished">O número de pixels acima de 50% que determinará se um pixel desligado passará a ficar ligado ou não. Por exemplo, se a vizinhança de um pixel tiver 124 pixels (excluindo o próprio pixel), os 50% corresponderão a 62; e se definir um limiar de maioria de 5, isso significa que o filtro exigirá que 67 ou mais pixels vizinhos estejam ligados para que o pixel atualmente desligado passe a ficar ligado.</translation>
+        <translation>O número de pixels acima de 50% que determinará se um pixel DESLIGADO passará a ficar LIGADO ou não. Por exemplo, se a vizinhança de um pixel tiver 124 pixels (excluindo o próprio pixel), os 50% corresponderão a 62; e se definir um limiar de maioria de 5, isso significa que o filtro exigirá que 67 ou mais pixels vizinhos estejam LIGADOS para que o pixel atualmente DESLIGADO passe a ficar LIGADO.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished">O valor associado ao fundo (não ao objeto)</translation>
+        <translation>O valor associado ao plano de fundo (não ao objeto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
         <source>The value associated with the foreground (object)</source>
-        <translation type="unfinished">O valor associado ao primeiro plano (objeto)</translation>
+        <translation>O valor associado ao primeiro plano (objeto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
@@ -7665,12 +7665,12 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volume de entrada a ser filtrado</translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Resultado filtrado</translation>
+        <translation>Resultado filtrado</translation>
     </message>
 </context>
 <context>
@@ -7678,26 +7678,26 @@ a = Transformação afim</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="25"/>
         <source>Crop volume sequence</source>
-        <translation type="unfinished">Sequência do volume da colheita</translation>
+        <translation>Sequência do volume de recorte</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished">Este módulo permite recortar e reamostrar uma sequência de volumes para reduzir o seu tamanho, permitindo uma renderização e um processamento mais rápidos.</translation>
+        <translation>Este módulo pode recortar e reamostrar uma sequência de volumes para reduzir o seu tamanho, permitindo uma renderização e um processamento mais rápidos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="31"/>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished">
+        <translation>
 Este ficheiro foi originalmente desenvolvido por Andras Lasso
 </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="55"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parâmetros</translation>
+        <translation>Parâmetros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="61"/>
@@ -7707,52 +7707,52 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished">Selecione um nó de sequência dos volumes que serão recortados e reamostrados.</translation>
+        <translation>Selecione um nó de sequência dos volumes que serão recortados e reamostrados.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="76"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished">Sequência de volume de entrada: </translation>
+        <translation>Sequência de volume de entrada: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="87"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished">(Substituir entrada)</translation>
+        <translation>(Substituir entrada)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="92"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished">Escolha um nó de sequência onde os volumes recortados e reamostrados serão armazenados.</translation>
+        <translation>Escolha um nó de sequência onde os volumes recortados e reamostrados serão armazenados.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="93"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished">Sequência de volume de saída: </translation>
+        <translation>Sequência de volume de saída: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="108"/>
         <source>Crop volume parameters</source>
-        <translation type="unfinished">Parâmetros de volume da colheita</translation>
+        <translation>Parâmetros de volume de recorte</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished">Selecione os parâmetros relativos aos volumes de colheita.</translation>
+        <translation>Selecione os parâmetros relativos aos volumes de recorte.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="115"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished">Aceda ao módulo «Volume da colheita» para editar os parâmetros de colheita.</translation>
+        <translation>Aceda ao módulo Volume de Recorte para editar os parâmetros de recorte.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished">Definições do volume de recorte: </translation>
+        <translation>Definições do volume de recorte: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="124"/>
         <source>Apply</source>
-        <translation type="unfinished">Candidatar-se</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
@@ -7765,53 +7765,53 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="52"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished">Alternar para ecrã inteiro</translation>
+        <translation>Alternar para ecrã inteiro</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="62"/>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="137"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1113"/>
         <source>Show DICOM Database</source>
-        <translation type="unfinished">Mostrar base de dados DICOM</translation>
+        <translation>Mostrar base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="159"/>
         <source>DICOM</source>
-        <translation type="unfinished">DICOM</translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="162"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished">Este módulo permite importar, carregar e exportar ficheiros DICOM, bem como enviar e receber dados através da rede DICOM.</translation>
+        <translation>Este módulo permite importar, carregar e exportar ficheiros DICOM, bem como enviar e receber dados através da rede DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="165"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Este trabalho conta com o apoio da NA-MIC, da NAC, da BIRN, da NCIGT e da Comunidade Slicer.</translation>
+        <translation>Este trabalho conta com o apoio da NA-MIC, da NAC, da BIRN, da NCIGT e da Comunidade Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="200"/>
         <source>DICOM Database</source>
-        <translation type="unfinished">Base de dados DICOM</translation>
+        <translation>Base de Dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="395"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished">Adicionar dados DICOM</translation>
+        <translation>Adicionar dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="426"/>
         <source>DICOM database</source>
-        <translation type="unfinished">Base de dados DICOM</translation>
+        <translation>Base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="564"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished">Configurações DICOM genéricas</translation>
+        <translation>Configurações DICOM genéricas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="568"/>
@@ -7821,42 +7821,42 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="571"/>
         <source>DICOM general settings</source>
-        <translation type="unfinished">Configurações gerais do DICOM</translation>
+        <translation>Configurações gerais do DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished">Determina se as séries DICOM referenciadas são apresentadas ao carregar ficheiros DICOM, ou o comportamento automático caso a interação esteja desativada. A seleção interativa das séries referenciadas é a opção predefinida</translation>
+        <translation>Determina se as séries DICOM referenciadas são apresentadas ao carregar ficheiros DICOM, ou o comportamento automático caso a interação esteja desativada. A seleção interativa das séries referenciadas é a opção predefinida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="581"/>
         <source>Ask user</source>
-        <translation type="unfinished">Perguntar ao utilizador</translation>
+        <translation>Perguntar ao utilizador</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="582"/>
         <source>Always</source>
-        <translation type="unfinished">Sempre</translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="583"/>
         <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="585"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished">Carregar a série referenciada:</translation>
+        <translation>Carregar a série referenciada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="597"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance. Detailed logging will be automatically disabled after 4 hours.</source>
-        <translation type="unfinished">Registe mais detalhes durante as operações DICOM. Útil para investigar problemas de carregamento de DICOM, mas pode afetar o desempenho. O registo detalhado será automaticamente desativado após 4 horas.</translation>
+        <translation>Registe mais detalhes durante as operações DICOM. Útil para investigar problemas de carregamento de DICOM, mas pode afetar o desempenho. O registo detalhado será automaticamente desativado após 4 horas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="617"/>
         <source>Thumbnail size:</source>
-        <translation type="unfinished">Tamanho da miniatura:</translation>
+        <translation>Tamanho da miniatura:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="676"/>
@@ -7871,46 +7871,46 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="680"/>
         <source>Disabled</source>
-        <translation type="unfinished">Desativado</translation>
+        <translation>Desativado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="681"/>
         <source>Enable for 4 hours</source>
-        <translation type="unfinished">Deixar ligado durante 4 horas</translation>
+        <translation>Ativar durante 4 horas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="903"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1048"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1091"/>
         <source>Hide DICOM database</source>
-        <translation type="unfinished">Ocultar base de dados DICOM</translation>
+        <translation>Ocultar base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="905"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1049"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1095"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished">Mostrar base de dados DICOM</translation>
+        <translation>Mostrar base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished">Painel lateral</translation>
+        <translation>Painel lateral</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished">Registo detalhado:</translation>
+        <translation>Registo detalhado:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="610"/>
         <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
-        <translation type="unfinished">Determina o tamanho relativo das miniaturas ao utilizar o navegador visual DICOM</translation>
+        <translation>Determina o tamanho relativo das miniaturas ao utilizar o navegador visual DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="612"/>
         <source>Hidden</source>
-        <translation type="unfinished">Oculto</translation>
+        <translation>Oculto</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
@@ -7920,73 +7920,73 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="614"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="615"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Grande</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="714"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished">Diretório DICOM</translation>
+        <translation>Diretório DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="715"/>
         <source>Load directory into DICOM database</source>
-        <translation type="unfinished">Carregar diretório na base de dados DICOM</translation>
+        <translation>Carregar diretório para a base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="809"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished">Não foi possível criar uma base de dados DICOM com as definições predefinidas. Crie uma nova base de dados ou atualize a base de dados existente incompatível utilizando as opções apresentadas no navegador DICOM.</translation>
+        <translation>Não foi possível criar uma base de dados DICOM com as definições predefinidas. Por favor crie uma nova base de dados ou atualize a base de dados existente incompatível utilizando as opções apresentadas no navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="818"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished">A importação de ficheiros cujos nomes contenham caracteres especiais (não ASCII) não é suportada. Recomenda-se mover os ficheiros para uma pasta diferente e tentar novamente. Deseja importar a partir da localização atual na mesma?</translation>
+        <translation>A importação de ficheiros cujos nomes contenham caracteres especiais (não ASCII) não é suportada. Recomenda-se mover os ficheiros para uma pasta diferente e tentar novamente. Tentar importar a partir da localização atual na mesma?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="884"/>
         <source>Import options</source>
-        <translation type="unfinished">Opções de importação</translation>
+        <translation>Importar opções</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="889"/>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished">Copiar ficheiros importados para a base de dados DICOM</translation>
+        <translation>Copiar ficheiros importados para a base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="890"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished">Se esta opção estiver ativada, todos os ficheiros importados são copiados para a base de dados DICOM. Isto é útil ao importar a partir de unidades removíveis.</translation>
+        <translation>Se esta opção estiver ativada, todos os ficheiros importados são copiados para a base de dados DICOM. Isto é útil ao importar a partir de unidades removíveis.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1279"/>
         <source>not started</source>
-        <translation type="unfinished">ainda não começou</translation>
+        <translation>ainda não começou</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1286"/>
         <source>starting</source>
-        <translation type="unfinished">começando</translation>
+        <translation>começando</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1291"/>
         <source>unknown</source>
-        <translation type="unfinished">desconhecido</translation>
+        <translation>desconhecido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1293"/>
         <source>running at port %s</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished">em execução na porta %s</translation>
+        <translation>em execução na porta %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1295"/>
         <source>running at port %s with TLS</source>
-        <translation type="unfinished">em execução na porta %s com TLS</translation>
+        <translation>em execução na porta %s com TLS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
@@ -7996,17 +7996,17 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1397"/>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished">A base de dados DICOM já está vazia.</translation>
+        <translation>A base de dados DICOM já está vazia.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1399"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished">Limpar toda a base de dados DICOM</translation>
+        <translation>Limpar toda a base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1400"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished">Tem a certeza de que deseja eliminar todos os dados e ficheiros copiados para a base de dados ({count} pacientes)?</translation>
+        <translation>Tem a certeza de que deseja eliminar todos os dados e ficheiros copiados para a base de dados ({count} pacientes)?</translation>
     </message>
 </context>
 <context>
@@ -8014,17 +8014,17 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="24"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished">Aumento do volume nos EUA</translation>
+        <translation>Aumento do volume US</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished">O carregamento deste tipo de imagem é experimental. Verifique a geometria da imagem e comunique qualquer problema que detecte.</translation>
+        <translation>O carregamento deste tipo de imagem é experimental. Verifique a geometria da imagem e comunique qualquer problema que encontre.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished">Volume do ultrassom</translation>
+        <translation>Volume do ultrassom</translation>
     </message>
 </context>
 <context>
@@ -8032,17 +8032,17 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="30"/>
         <source>GE ABUS</source>
-        <translation type="unfinished">Deus, ajuda-nos</translation>
+        <translation>GE ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="116"/>
         <source>GE Invenia ABUS</source>
-        <translation type="unfinished">GE Invenia ABUS</translation>
+        <translation>GE Invenia ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished">O carregamento deste tipo de imagem está em fase experimental. Verifique o tamanho e a orientação da imagem e comunique-nos se detetar algum problema.</translation>
+        <translation>O carregamento deste tipo de imagem está em fase experimental. Verifique o tamanho e a orientação da imagem e comunique-nos se detetar algum problema.</translation>
     </message>
 </context>
 <context>
@@ -8050,12 +8050,12 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="34"/>
         <source>Image sequence</source>
-        <translation type="unfinished">Sequência de imagens</translation>
+        <translation>Sequência de imagens</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="172"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation type="unfinished">Pode ser necessário ajustar o espaçamento entre as imagens para obter medições de tamanho precisas.</translation>
+        <translation>Pode ser necessário ajustar o espaçamento de imagens para obter medições de tamanho precisas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
@@ -8066,7 +8066,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation type="unfinished">Sequência de imagens {modality} ({count} cortes)</translation>
+        <translation>Sequência de imagens {modality} ({count} cortes)</translation>
     </message>
 </context>
 <context>
@@ -8074,27 +8074,27 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="194"/>
         <source>DICOM Browser</source>
-        <translation type="unfinished">Navegador DICOM</translation>
+        <translation>Navegador DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="250"/>
         <source>Uncheck All</source>
-        <translation type="unfinished">Desmarcar tudo</translation>
+        <translation>Desmarcar Tudo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="256"/>
         <source>Examine</source>
-        <translation type="unfinished">Examinar</translation>
+        <translation>Examinar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="262"/>
         <source>Load</source>
-        <translation type="unfinished">Carregar</translation>
+        <translation>Carregar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="264"/>
         <source>Load selected items into the scene</source>
-        <translation type="unfinished">Carregar os itens selecionados na cena</translation>
+        <translation>Carregar os itens selecionados para a cena</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="270"/>
@@ -8104,39 +8104,39 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="344"/>
         <source>The following data type is in your database:</source>
-        <translation type="unfinished">O seguinte tipo de dados encontra-se na sua base de dados:</translation>
+        <translation>O seguinte tipo de dados encontra-se na sua base de dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="346"/>
         <source>The following data types are in your database:</source>
-        <translation type="unfinished">A sua base de dados contém os seguintes tipos de dados:</translation>
+        <translation>A sua base de dados contém os seguintes tipos de dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="351"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished">A seguinte extensão não está instalada, mas pode ajudá-lo a trabalhar com estes dados:</translation>
+        <translation>A seguinte extensão não está instalada, mas pode ajudá-lo a trabalhar com estes dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="353"/>
         <source>The following extensions are not installed, but may help you work with this data:</source>
-        <translation type="unfinished">As seguintes extensões não estão instaladas, mas podem ajudá-lo a trabalhar com estes dados:</translation>
+        <translation>As seguintes extensões não estão instaladas, mas podem ajudá-lo a trabalhar com estes dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="357"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished">Pode instalar extensões através da opção «Gestor de Extensões» no menu «Ver».</translation>
+        <translation>Pode instalar extensões através da opção Gestor de Extensões no menu Ver.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="358"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="525"/>
         <source>DICOM</source>
-        <translation type="unfinished">DICOM</translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="498"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished">Não foi possível encontrar {missing_file_count} dos {total_file_count} ficheiros selecionados listados na base de dados no disco.</translation>
+        <translation>Não foi possível encontrar {missing_file_count} dos {total_file_count} ficheiros selecionados listados na base de dados no disco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="505"/>
@@ -8151,7 +8151,7 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="524"/>
         <source>See python console for error message.</source>
-        <translation type="unfinished">Consulte a consola do Python para ver a mensagem de erro.</translation>
+        <translation>Consulte a consola do python por mensagens de erro.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="648"/>
@@ -8161,57 +8161,57 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="671"/>
         <source>DICOM loading</source>
-        <translation type="unfinished">Carregamento de DICOM</translation>
+        <translation>Carregamento de DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="682"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished">Aviso no plugin DICOM {load_type} ao analisar o ficheiro carregável {name}: {message}</translation>
+        <translation>Aviso no plugin DICOM {load_type} ao analisar o ficheiro carregável {name}: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="686"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished">Foram detetados avisos durante o carregamento.  Consulte os dados no modo Avançado para obter mais detalhes.  Carregar na mesma?</translation>
+        <translation>Foram detetados avisos durante o carregamento.  Consulte os dados no modo Avançado para obter mais detalhes.  Carregar na mesma?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="697"/>
         <source>Referenced datasets found</source>
-        <translation type="unfinished">Conjuntos de dados referenciados encontrados</translation>
+        <translation>Conjuntos de dados referenciados encontrados</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="698"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished">Os objetos DICOM carregados contêm referências a outros conjuntos de dados que não selecionou para carregar. Selecione «Sim» se pretender carregar os conjuntos de dados referenciados a seguir, «Não» se pretender carregar apenas as séries selecionadas originalmente, ou «Cancelar» para interromper o carregamento.</translation>
+        <translation>Os objetos DICOM carregados contêm referências a outros conjuntos de dados que não selecionou para carregar. Selecione Sim se pretender carregar os conjuntos de dados referenciados seguintes, Não se pretender carregar apenas as séries selecionadas originalmente, ou Cancelar para interromper o carregamento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="712"/>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished">Lembra-te da escolha e deixa de perguntar</translation>
+        <translation>Lembra-te da escolha e deixa de perguntar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="713"/>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished">Pode ser alterado posteriormente em «Definições da aplicação» / «DICOM»</translation>
+        <translation>Pode ser alterado posteriormente em Definições da aplicação / DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="741"/>
         <source>References</source>
-        <translation type="unfinished">Referências</translation>
+        <translation>Referências</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>DICOM Data</source>
-        <translation type="unfinished">Dados DICOM</translation>
+        <translation>Dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>Reader</source>
-        <translation type="unfinished">Leitor</translation>
+        <translation>Leitor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
 </context>
 <context>
@@ -8289,32 +8289,32 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished">Gerar uma «sequência de posições de imagem» para ficheiros com vários fotogramas que apenas possuam o campo «SliceThickness». Corrige um erro nos scanners CBCT Dolphin 3D.</translation>
+        <translation>Gerar uma sequência de posições de imagem para ficheiros com vários fotogramas que apenas possuam o campo &apos;SliceThickness&apos;. Corrige um erro nos scanners CBCT Dolphin 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="102"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation type="unfinished">Gerar a posição das fatias para volumes com múltiplos quadros</translation>
+        <translation>Gerar a posição das fatias para volumes com múltiplos quadros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="112"/>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation type="unfinished">Se esta opção estiver marcada, as séries de imagens de ecografia serão divididas por número de instância. Útil quando há muitas aquisições de ecografia na mesma série.</translation>
+        <translation>Se esta opção estiver marcada, as séries de imagens de ecografia serão divididas por número de instância. Útil se várias muitas aquisições de ecografia aparecem na mesma série.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="118"/>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation type="unfinished">Se esta opção estiver marcada, a interpretação fotométrica das imagens de ecografia comprimidas em JPEG será definida como YBR_FULL_422. Isto é útil para corrigir inconsistências em imagens comprimidas em JPEG que utilizavam RGB como interpretação fotométrica, devido à ambiguidade existente na norma DICOM antes da CP156. Consulte https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE e https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf para mais detalhes.</translation>
+        <translation>Se esta opção estiver marcada, a interpretação fotométrica das imagens de ecografia comprimidas em JPEG será definida como YBR_FULL_422. Isto é útil para corrigir inconsistências em imagens comprimidas em JPEG que utilizavam RGB como interpretação fotométrica, devido à ambiguidade existente na norma DICOM antes da CP156. Consulte https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE e https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf para mais detalhes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="145"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished">Se esta opção estiver marcada, algumas informações que permitem identificar o paciente serão removidas dos ficheiros DICOM corrigidos. Existem muitos campos que permitem identificar um paciente; esta função não remove todos eles.</translation>
+        <translation>Se esta opção estiver marcada, algumas informações que permitem identificar o paciente serão removidas dos ficheiros DICOM corrigidos. Existem muitos campos que permitem identificar um paciente; esta função não os remove todos .</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"/>
         <source>Partially anonymize</source>
-        <translation type="unfinished">Anonimizar parcialmente</translation>
+        <translation>Anonimizar parcialmente</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="152"/>
@@ -8324,33 +8324,33 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="153"/>
         <source>Fix DICOM files in input directory and write them to output directory</source>
-        <translation type="unfinished">Localizar os ficheiros DICOM no diretório de entrada e gravá-los no diretório de saída</translation>
+        <translation>Localizar os ficheiros DICOM no diretório de entrada e gravá-los no diretório de saída</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="159"/>
         <source>Import to DICOM database</source>
-        <translation type="unfinished">Importar para a base de dados DICOM</translation>
+        <translation>Importar para a base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="160"/>
         <source>Import DICOM files in output directory into the application&apos;s DICOM database</source>
-        <translation type="unfinished">Importar os ficheiros DICOM do diretório de saída para a base de dados DICOM da aplicação</translation>
+        <translation>Importar os ficheiros DICOM do diretório de saída para a base de dados DICOM da aplicação</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="181"/>
         <source>Unexpected error.</source>
-        <translation type="unfinished">Erro inesperado.</translation>
+        <translation>Erro inesperado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="281"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation type="unfinished">Paciente não especificado {patientIndex}</translation>
+        <translation>Paciente não Especificado {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="349"/>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="557"/>
         <source>Unspecified Patient</source>
-        <translation type="unfinished">Paciente não identificado</translation>
+        <translation>Paciente não Especificado</translation>
     </message>
 </context>
 <context>
@@ -8358,58 +8358,58 @@ Este ficheiro foi originalmente desenvolvido por Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="36"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished">Volume escalar</translation>
+        <translation>Volume Escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="84"/>
         <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
-        <translation type="unfinished">Back-end preferencial. O Archetype era utilizado por predefinição no Slicer antes de junho de 2017. Altere esta configuração se os dados carregados anteriormente deixarem de funcionar (e comunique o problema).</translation>
+        <translation>Back-end preferencial. O Archetype era utilizado por predefinição no Slicer antes de junho de 2017. Altere esta configuração se os dados carregados anteriormente deixarem de funcionar (e comunique o problema).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished">Abordagem do leitor DICOM:</translation>
+        <translation>Abordagem do leitor DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="92"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation type="unfinished">Permite adicionar uma transformação não linear para regularizar imagens adquiridas com geometria irregular: grelha não retilínea (como aquisições de TC com gantry inclinado) e espaçamento não uniforme entre cortes. Se não for aplicada qualquer regularização, a imagem poderá parecer distorcida caso tenha sido adquirida com geometria irregular.</translation>
+        <translation>Permite adicionar uma transformação não linear para regularizar imagens adquiridas com geometria irregular: grelha não retilínea (como aquisições de TC com gantry inclinado) e espaçamento não uniforme entre cortes. Se não for aplicada qualquer regularização, a imagem poderá parecer distorcida caso tenha sido adquirida com geometria irregular.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished">padrão (aplicar transformação de regularização)</translation>
+        <translation>padrão (aplicar transformação de regularização)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="98"/>
         <source>apply regularization transform</source>
-        <translation type="unfinished">aplicar transformação de regularização</translation>
+        <translation>aplicar transformação de regularização</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="99"/>
         <source>harden regularization transform</source>
-        <translation type="unfinished">transformação de regularização de Harden</translation>
+        <translation>endurecer transformação de regularização</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="102"/>
         <source>Acquisition geometry regularization:</source>
-        <translation type="unfinished">Regularização da geometria de aquisição:</translation>
+        <translation>Regularização da geometria de aquisição:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="106"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="119"/>
         <source>DICOM examination settings</source>
-        <translation type="unfinished">Definições do exame DICOM</translation>
+        <translation>Definições de examinação DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="110"/>
         <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
-        <translation type="unfinished">Permite carregar cortes individuais ou grupos de cortes que foram adquiridos num momento específico (hora do conteúdo ou do disparador). Se esta opção estiver ativada, poderá ser apresentado um grande número de itens carregáveis na secção «Avançado» do navegador DICOM.</translation>
+        <translation>Permite carregar cortes individuais ou grupos de cortes que foram adquiridos num momento específico (hora do conteúdo ou de acionamento). Se esta opção estiver ativada, poderá ser apresentado um grande número de itens carregáveis na secção «Avançado» do navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"/>
@@ -31001,7 +31001,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/CropVolume/MRML/vtkMRMLCropVolumeParametersNode.cxx" line="40"/>
         <source>Crop Volume Parameters</source>
-        <translation type="unfinished">Parâmetros de volume da colheita</translation>
+        <translation>Parâmetros de Volumes de Recorte</translation>
     </message>
 </context>
 <context>
