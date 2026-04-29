@@ -26,10 +26,25 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Restore translation cache
+        uses: actions/cache/restore@v3
+        with:
+          path: scripts/translation_cache.json
+          key: deepl-cache-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: |
+            deepl-cache-${{ github.ref_name }}-
+            deepl-cache-
+
       - name: Run translation script
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python scripts/auto_translate_ts.py
+
+      - name: Save translation cache
+        uses: actions/cache/save@v3
+        with:
+          path: scripts/translation_cache.json
+          key: deepl-cache-${{ github.ref_name }}-${{ github.run_id }}
 
       - name: Check for changes
         id: diff

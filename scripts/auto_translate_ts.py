@@ -34,6 +34,7 @@ def load_cache():
 
 
 def save_cache(cache):
+    os.makedirs(os.path.dirname(CACHE_FILE) or ".", exist_ok=True)
     with open(CACHE_FILE, "w", encoding="utf8") as f:
         json.dump(cache, f, indent=2, ensure_ascii=False)
 
@@ -269,22 +270,25 @@ def process_file(path, cache):
 
 def main():
     cache = load_cache()
-    files = get_modified_ts_files()
-    modified = False
 
-    for f in files:
-        try:
-            if process_file(f, cache):
-                modified = True
-        except Exception as e:
-            print(f"Error processing {f}: \n\t{e}")
+    try:
+        files = get_modified_ts_files()
+        modified = False
 
-    save_cache(cache)
+        for f in files:
+            try:
+                if process_file(f, cache):
+                    modified = True
+            except Exception as e:
+                print(f"Error processing {f}: \n\t{e}")
 
-    if modified:
-        print("Translations updated")
-    else:
-        print("No translations needed")
+        if modified:
+            print("Translations updated")
+        else:
+            print("No translations needed")
+    finally:
+        # Always save cache, even if an error occurs
+        save_cache(cache)
 
 
 if __name__ == "__main__":
