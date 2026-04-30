@@ -7,43 +7,43 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Basics of Data Loading and 3D Visualization in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation>أساسيات تحميل البيانات والتصور ثلاثي الأبعاد في 3D Slicer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Author: Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation>المؤلف: دكتورة سونيا بوجول</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>24/11/2024</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation>24/11/2024</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Assistant Professor of Radiology Brigham and Women’s Hospital Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation>أستاذ مساعد في علم الأشعة، مستشفى بريغهام للنساء، كلية الطب بجامعة هارفارد</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Overall Goal</source>
         <extracomment>1_TextBox_0</extracomment>
-        <translation>الهدف الكلي</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>This tutorial is an introduction to the basics of loading and viewing DICOM images and 3D models in 3D Slicer.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation>تُعد هذه الدورة التعليمية مقدمة لأساسيات تحميل وعرض صور DICOM والنماذج ثلاثية الأبعاد في 3D Slicer.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
         <source>Learning Objectives</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation>الأهداف التعليمية</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
@@ -55,19 +55,13 @@
 
 • to load and visualize 3D models reconstructed from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation> • بعد إكمال هذا الدرس، ستكون قادرًا على:
-
-• تحميل وعرض صور DICOM في 3D Slicer
-
-• تنفيذ التصيير الحجمي (Volume Rendering) لبيانات CT
-
-• تحميل وعرض نماذج ثلاثية الأبعاد مُعاد بناؤها من بيانات MRI</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>Tutorial materials</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation>محتويات الدورة</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -75,9 +69,7 @@
 
 •  3D VisualizationDataSet.zip</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation>• 3D Slicer إصدار 5.10
-
-• ملف ‎3D VisualizationDataSet.zip‎ (حزمة بيانات التصور ثلاثي الأبعاد)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -86,7 +78,7 @@
         <extracomment>4_TextBox_0
 ----------
 33_TextBox_0</extracomment>
-        <translation>بيانات الدورة</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -97,18 +89,13 @@
 
 Unzip the file 3DVisualizationDataset.zip on your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation>يحتوي الملف ‎3DVisualizationDataset.zip‎ على مجلدين:
-
-‎dataset1_Thorax_Abdomen‎ (الصدر والبطن)
-‎dataset2_Head‎ (الرأس)
-
-قم بفك ضغط الملف ‎3DVisualizationDataset.zip‎ على جهازك للوصول إلى مجموعات البيانات</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Disclaimer</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation>إخلاء المسؤولية</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
@@ -249,28 +236,14 @@ Click on the Eye icon to
 display the three anatomical 
 slices in the 3D Viewer</source>
         <extracomment>13_TextBox_1</extracomment>
-        <translation>• ضع مؤشر الفأرة
- فوق الشريط الأحمر في عارض اللون الأحمر 
-(Red Viewer) لعرض قائمة الشرائح Slice 
-Menu.
-
-
-• انقر على أيقونة الربط (Links)
- لربط أدوات التحكم بالشرائح
- عبر جميع عارضات الشرائح (Slice Viewers).
-
-
-• انقر على أيقونة العين Eye
- لعرض المقاطع التشريحية الثلاثة 
-في العارض ثلاثي الأبعاد (3D Viewer)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>The three anatomical slices 
 appear in the 3D viewer.</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation>• تظهر المقاطع التشريحية الثلاثة
-في العارض ثلاثي الأبعاد (3D Viewer).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -278,9 +251,7 @@ appear in the 3D viewer.</source>
 icon, and select the 
 Conventional Widescreen layout</source>
         <extracomment>15_ArrowText_0</extracomment>
-        <translation>انقر على أيقونة قائمة تخطيط Slicer
-وقم باختيار
-تخطيط الشاشة العريضة التقليدي (Conventional Widescreen layout)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -288,25 +259,21 @@ Conventional Widescreen layout</source>
 to Conventional 
 Widescreen layout</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation>يقوم Slicer بتغيير التخطيط
-إلى
-تخطيط الشاشة العريضة التقليدي (Conventional Widescreen layout)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="84"/>
         <source>Use the right mouse button in the 
 3D Viewer to zoom in and out</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation>استخدم زر الفأرة الأيمن
-في العارض ثلاثي الأبعاد (3D Viewer) للتكبير والتصغير</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
         <source>Use the left mouse button in the 
 3D Viewer to rotate the images</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation>استخدم زر الفأرة الأيسر
-في العارض ثلاثي الأبعاد (3D Viewer)لتدوير الصور</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
@@ -315,7 +282,7 @@ Widescreen layout</source>
         <extracomment>19_3DViewerController_title
 ----------
 20_3DViewerController_title</extracomment>
-        <translation>متحكم العارض ثلاثي الأبعاد (3D Viewer Controller)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
@@ -329,29 +296,20 @@ top row of the 3DView
 controller to center the 3D view 
 on the scene</source>
         <extracomment>19_TextBox_1</extracomment>
-        <translation>ضع مؤشر الفأرة فوق
-أيقونة الدبوس في الشريط الأزرق
-لنافذة العارض ثلاثي الأبعاد
-لعرض متحكم العرض ثلاثي الأبعاد (3D View Controller)
-انقر على الأيقونة الثانية في
-الصف العلوي من متحكم
-العرض ثلاثي الأبعاد (3D View Controller)
-لتوسيط العرض ثلاثي الأبعاد
-على المشهد</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
         <source>Select the Volume Rendering 
 module in the list of modules </source>
         <extracomment>20_ArrowText_1</extracomment>
-        <translation>اختر وحدة العرض الحجمي (Volume Rendering)
-من قائمة الوحدات </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>Part 2: Volume Rendering</source>
         <extracomment>21_TextBox_0</extracomment>
-        <translation>الجزء 2: العرض الحجمي (Volume Rendering)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -384,7 +342,7 @@ module in the list of modules </source>
 30_VolumeRendering_title
 ----------
 31_VolumeRendering_title</extracomment>
-        <translation>العرض الحجمي (Volume Rendering)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="102"/>
@@ -398,23 +356,14 @@ module in Slicer enables
 interactive 3D visualization 
 of DICOM images</source>
         <extracomment>22_TextBox_1</extracomment>
-        <translation>• تقنيات العرض الحجمي
-تمكّن من التصور ثلاثي الأبعاد
-لمجموعات بيانات ثلاثية 
-الأبعاد
-
-• وحدة العرض الحجمي
-(Volume Rendering) في Slicer
-تتيح تصورًا ثلاثي الأبعاد تفاعليًا
-لصور DICOM</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="106"/>
         <source>Click on Preset in the Display tab 
 and select the preset CT-Cardiac3 </source>
         <extracomment>23_ArrowText_0</extracomment>
-        <translation>انقر على خيار Preset في تبويب العرض (Display)
-وقم باختيار الإعداد المسبق CT-Cardiac3 </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="110"/>
@@ -422,9 +371,7 @@ and select the preset CT-Cardiac3 </source>
 Click on the eye icon in the Volume tab to display 
 the volume rendered image in the 3D viewer</source>
         <extracomment>24_TextBox_2</extracomment>
-        <translation>اختر VTK GPU Ray Casting Rendering
-انقر على أيقونة العين في تبويب الحجم (Volume)
-لعرض الصورة المعروضة حجميًا في العارض ثلاثي الأبعاد (3D Viewer)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="114"/>
@@ -433,10 +380,7 @@ change the transfer
 function and display the
 aorta</source>
         <extracomment>25_ArrowText_0</extracomment>
-        <translation>استخدم شريط التمرير (Shift)
-لتغيير دالة النقل (Transfer Function)
-وعرض الشريان 
-الأورطي</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="118"/>
@@ -445,10 +389,7 @@ display a region of interest
 (ROI) in the 3D viewer and 
 check the option Enable</source>
         <extracomment>26_ArrowText_0</extracomment>
-        <translation>انقر على خيار Display ROI
-لعرض منطقة اهتمام (ROI)
-في العارض ثلاثي الأبعاد (3D Viewer)
-وقم بتفعيل خيار Enable</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="122"/>
@@ -461,14 +402,7 @@ Position the ROI around the
 left kidney using the color 
 handles</source>
         <extracomment>27_TextBox_0</extracomment>
-        <translation>قم بإيقاف عرض
-المقاطع المحورية (Axial) والسهمية (Sagittal) والإكليلية (Coronal)
-في العارض ثنائي الأبعاد (2D Viewer)
-
-
-ضع منطقة الاهتمام (ROI)
-حول الكلية اليسرى
-باستخدام المقابض الملونة</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="126"/>
@@ -476,9 +410,7 @@ handles</source>
 display the volume rendered 
 image</source>
         <extracomment>28_ArrowText_0</extracomment>
-        <translation>انقر على أيقونة العين
-لعرض الصورة المعروضة
- حجميًا</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="130"/>
@@ -486,9 +418,7 @@ image</source>
 volume rendered 
 image of the left kidney </source>
         <extracomment>29_TextBox_0</extracomment>
-        <translation>يقوم Slicer بعرض
-الصورة المعروضة حجميًا
-للكلية اليسرى </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="134"/>
@@ -496,17 +426,14 @@ image of the left kidney </source>
 a volume rendered image of 
 the right kidney</source>
         <extracomment>30_TextBox_0</extracomment>
-        <translation>قم بتوسيع منطقة الاهتمام (ROI)
-لإنشاء صورة عرض حجمي
-للكلية اليمنى</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="138"/>
         <source>Click on File, then Close Scene
 in the main menu</source>
         <extracomment>31_ArrowText_1</extracomment>
-        <translation>انقر على File، ثم Close Scene
-في القائمة الرئيسية</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="140"/>
@@ -514,9 +441,7 @@ in the main menu</source>
 viewing 3D models
 </source>
         <extracomment>32_TextBox_0</extracomment>
-        <translation>الجزء 3: تحميل
-وعرض النماذج ثلاثية الأبعاد
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="144"/>
@@ -524,15 +449,13 @@ viewing 3D models
 
 • The scene contains 3D models from the SPL brain atlas developed by the department of Radiology at Brigham and Women’s Hospital, Harvard Medical School (NIH P41 RR013218, NIH R01 MH05074)</source>
         <extracomment>33_TextBox_1</extracomment>
-        <translation>• يحتوي المجلد dataset2_Head على مشهد Slicer باسم Head_scene.mrb
-
-• يحتوي المشهد على نماذج ثلاثية الأبعاد من أطلس الدماغ SPL المطوّر بواسطة قسم الأشعة في Brigham and Women’s Hospital،Harvard Medical School (NIH P41 RR013218، NIH R01 MH05074)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="146"/>
         <source>Slicer Scene</source>
         <extracomment>34_TextBox_0</extracomment>
-        <translation>Slicer Scene</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="148"/>
