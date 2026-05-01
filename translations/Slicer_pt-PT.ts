@@ -10869,7 +10869,7 @@ sobre cada operação, passe o cursor do rato sobre a opção e aguarde até que
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="107"/>
         <source>Slice view is not aligned with segmentation axis.&lt;br&gt;To use this effect, click the &apos;Slice views orientation&apos; warning button.</source>
-        <translation type="unfinished">A vista em corte não está alinhada com o eixo de segmentação.&lt;br&gt;Para utilizar este efeito, clique no botão de aviso «Orientação das vistas em corte».</translation>
+        <translation>A vista em corte não está alinhada com o eixo de segmentação.&lt;br&gt;Para utilizar este efeito, clique no botão de aviso &apos;Orientação das vistas em corte&apos;.</translation>
     </message>
 </context>
 <context>
@@ -10877,7 +10877,7 @@ sobre cada operação, passe o cursor do rato sobre a opção e aguarde até que
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="18"/>
         <source>Logical operators</source>
-        <translation type="unfinished">Operadores lógicos</translation>
+        <translation>Operadores lógicos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="36"/>
@@ -10911,52 +10911,52 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="52"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Subtract</source>
-        <translation type="unfinished">Subtract</translation>
+        <translation>Subtraír</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
         <source>Intersect</source>
-        <translation type="unfinished">Intersecção</translation>
+        <translation>Intersetar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>Inverter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
         <source>Clear</source>
-        <translation type="unfinished">Limpar</translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
         <source>Fill</source>
-        <translation type="unfinished">Preencher</translation>
+        <translation>Preencher</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
         <source>Click &lt;dfn&gt;Show details&lt;/dfn&gt; link above for description of operations.</source>
-        <translation type="unfinished">Clique no link &lt;dfn&gt;Mostrar detalhes&lt;/dfn&gt; acima para ver a descrição das operações.</translation>
+        <translation>Clique no link &lt;dfn&gt;Mostrar detalhes&lt;/dfn&gt; acima para ver a descrição das operações.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="61"/>
         <source>Bypass masking</source>
-        <translation type="unfinished">Ignorar máscara</translation>
+        <translation>Ignorar máscara</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
         <source>Ignore all masking options and only modify the selected segment.</source>
-        <translation type="unfinished">Ignore todas as opções de máscara e modifique apenas o segmento selecionado.</translation>
+        <translation>Ignore todas as opções de máscara e modifica apenas o segmento selecionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="65"/>
@@ -10966,43 +10966,43 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="72"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="74"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="141"/>
         <source>Modifier segment:</source>
-        <translation type="unfinished">Editar segmento:</translation>
+        <translation>Editar segmento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="84"/>
         <source>Contents of this segment will be used for modifying the selected segment. This segment itself will not be changed.</source>
-        <translation type="unfinished">O conteúdo deste segmento será utilizado para modificar o segmento selecionado. O próprio segmento não será alterado.</translation>
+        <translation>O conteúdo deste segmento será utilizado para modificar o segmento selecionado. O próprio segmento não será alterado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="133"/>
         <source>Copy from segment:</source>
-        <translation type="unfinished">Copiar do segmento:</translation>
+        <translation>Copiar do segmento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="135"/>
         <source>Add segment:</source>
-        <translation type="unfinished">Adicionar segmento:</translation>
+        <translation>Adicionar segmento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="137"/>
         <source>Subtract segment:</source>
-        <translation type="unfinished">Subtrair segmento:</translation>
+        <translation>Subtrair segmento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="139"/>
         <source>Intersect with segment:</source>
-        <translation type="unfinished">Intersecção com o segmento:</translation>
+        <translation>Intersecção com o segmento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="144"/>
         <source>Please select a modifier segment in the list below.</source>
-        <translation type="unfinished">Selecione um segmento modificador na lista abaixo.</translation>
+        <translation>Selecione um segmento modificador na lista abaixo.</translation>
     </message>
 </context>
 <context>
@@ -11010,42 +11010,42 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="19"/>
         <source>Margin</source>
-        <translation type="unfinished">Margem</translation>
+        <translation>Margem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="36"/>
         <source>Grow or shrink selected segment by specified margin size.</source>
-        <translation type="unfinished">Aumentar ou diminuir o segmento selecionado em uma margem de tamanho especificado.</translation>
+        <translation>Aumentar ou diminuir o segmento selecionado em uma margem de tamanho especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="41"/>
         <source>Shrink</source>
-        <translation type="unfinished">Encolher</translation>
+        <translation>Encolher</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="42"/>
         <source>Grow</source>
-        <translation type="unfinished">Crescer</translation>
+        <translation>Crescer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="47"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="51"/>
         <source>Segment boundaries will be shifted by this distance. Positive value means the segments will grow, negative value means segment will shrink.</source>
-        <translation type="unfinished">Os limites dos segmentos serão deslocados por esta distância. Um valor positivo significa que os segmentos aumentarão; um valor negativo significa que os segmentos diminuirão.</translation>
+        <translation>Os limites dos segmentos serão deslocados por esta distância. Um valor positivo significa que os segmentos aumentarão, um valor negativo significa que os segmentos diminuirão.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="58"/>
         <source>Size change in pixel. Computed from the segment&apos;s spacing and the specified margin size.</source>
-        <translation type="unfinished">Alteração do tamanho em pixels. Calculada a partir do espaçamento do segmento e do tamanho da margem especificado.</translation>
+        <translation>Alteração do tamanho em pixels. Calculada a partir do espaçamento do segmento e do tamanho da margem especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="62"/>
         <source>Margin size:</source>
-        <translation type="unfinished">Dimensão da margem:</translation>
+        <translation>Dimensão da margem:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="67"/>
