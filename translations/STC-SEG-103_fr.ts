@@ -6,7 +6,7 @@
         <location filename="text_dict_default.json" line="8" />
         <source>AI-based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="vanished">AIBasedSegmentationIn3DSlicer</translation>
+        <translation type="unfinished">AIBasedSegmentationIn3DSlicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10" />
@@ -15,14 +15,14 @@ Brigham and Women's Hospital,
 Harvard Medical School
 Boston, MA</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="vanished">Sonia Pujol, Ph.D.</translation>
+        <translation type="unfinished">Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12" />
         <source>Slicer Ribeirão Preto Workshop
 June 30, 2025</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="vanished">Segmentation basée sur l'IA dans 3D Slicer</translation>
+        <translation type="unfinished">Segmentation basée sur l'IA dans 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14" />
@@ -37,7 +37,7 @@ June 30, 2025</source>
         <location filename="text_dict_default.json" line="16" />
         <source>Medical images have traditionally been manually segmented, which is a time-consuming process that requires intensive effort by radiologists and is subject to inter-reader variability.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="vanished">Cliquez sur Add Data dans le module Welcome to Slicer</translation>
+        <translation type="unfinished">Cliquez sur Add Data dans le module Welcome to Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20" />
@@ -122,7 +122,7 @@ Multiple anatomies (head, thorax, abdomen, pelvis, etc.).
 
 Multiple pathologies (tumor, hemorrhage, edema).</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="vanished">Cliquez sur Create new segmentation sur Apply</translation>
+        <translation type="unfinished">Cliquez sur Create new segmentation sur Apply</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38" />
@@ -152,7 +152,7 @@ Tâche de segmentation #3 : Segmentation du corps entier</translation>
         <location filename="text_dict_default.json" line="42" />
         <source>AI Segmentation Task #1: Prostate</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="vanished">Slicer affiche le résultat de la segmentation de la prostate basée sur l’IA</translation>
+        <translation type="unfinished">Slicer affiche le résultat de la segmentation de la prostate basée sur l’IA</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44" />
@@ -178,14 +178,14 @@ Click on Choose Directory to Add and browse to the location of the Slicer datase
 
 Select the dataset3_ProstateMRI and click on Open</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="vanished">Sélectionner le modèle Brain Tumor Segmentation
+        <translation type="unfinished">Sélectionner le modèle Brain Tumor Segmentation
 (BRATS) GLI</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48" />
         <source>Slicer loads the prostate MRI dataset</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="vanished">Saisissez les volumes d’entrée comme suit :
+        <translation type="unfinished">Saisissez les volumes d’entrée comme suit :
 Volume T2F d’entrée : BraTS-GLI_00005-000-t12f
 Volume T1C d’entrée : BraTS-GLI_00005-000-t1c
 Volume T1N d’entrée : BraTS-GLI_00005-000-t1n
@@ -199,7 +199,7 @@ Cliquez sur Apply pour démarrer la segmentation</translation>
 
 Select the MONAIAuto3DSeg module</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="vanished">Slicer commence l’exécution de la tâche d’inférence</translation>
+        <translation type="unfinished">Slicer commence l’exécution de la tâche d’inférence</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52" />
@@ -217,7 +217,7 @@ Select the MONAIAuto3DSeg module</source>
         <location filename="text_dict_default.json" line="56" />
         <source>Enter the Input T2 volume msd-prostate-01-t2 and the Input ADC volume msd-prostate-01-adc</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="vanished">Dans le module Add DICOM Data, sélectionnez le patient patient1 et double-cliquez sur l’image CT_Thorax_Abdomen pour la charger dans Slicer</translation>
+        <translation type="unfinished">Dans le module Add DICOM Data, sélectionnez le patient patient1 et double-cliquez sur l’image CT_Thorax_Abdomen pour la charger dans Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58" />
@@ -235,7 +235,7 @@ Select the MONAIAuto3DSeg module</source>
         <location filename="text_dict_default.json" line="62" />
         <source>Slicer shows the results of the AI-based prostate segmentation</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="vanished">Sélectionnez le volume d’entrée 6 : CT_Thorax_Abdomen
+        <translation type="unfinished">Sélectionnez le volume d’entrée 6 : CT_Thorax_Abdomen
 Cliquez sur Create new Segmentation dans Apply 
 Cliquez sur Apply pour démarrer la segmentation</translation>
     </message>
