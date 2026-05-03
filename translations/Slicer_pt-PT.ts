@@ -11050,12 +11050,12 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="67"/>
         <source>Grow or shrink all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished">Expandir ou recolher todos os segmentos visíveis neste nó de segmentação. Esta operação pode demorar algum tempo.</translation>
+        <translation>Expande ou encolhe todos os segmentos visíveis neste nó de segmentação. Esta operação pode demorar algum tempo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="69"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished">Aplicar aos segmentos visíveis:</translation>
+        <translation>Aplicar a segmentos visíveis:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="72"/>
@@ -11065,27 +11065,27 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="74"/>
         <source>Grows or shrinks selected segment /default) or all segments (checkbox) by the specified margin.</source>
-        <translation type="unfinished">Aumenta ou diminui o segmento selecionado (padrão) ou todos os segmentos (caixa de seleção) na margem especificada.</translation>
+        <translation>Aumenta ou diminui o segmento selecionado (padrão) ou todos os segmentos (caixa de seleção) na margem especificada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="121"/>
         <source>Not feasible at current resolution.</source>
-        <translation type="unfinished">Não é viável com a resolução atual.</translation>
+        <translation>Não é viável na resolução atual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="125"/>
         <source>Actual:</source>
-        <translation type="unfinished">Atual:</translation>
+        <translation>Atual:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="128"/>
         <source>Empty segment</source>
-        <translation type="unfinished">Segmento vazio</translation>
+        <translation>Segmento vazio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="241"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished">A processar {segmentName}...</translation>
+        <translation>A processar {segmentName}...</translation>
     </message>
 </context>
 <context>
@@ -11093,7 +11093,7 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="14"/>
         <source>Mask volume</source>
-        <translation type="unfinished">Volume da máscara</translation>
+        <translation>Volume da máscara</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="37"/>
@@ -11101,7 +11101,7 @@ lista de segmentos nas opções de efeito - abaixo.
 The mask is applied to the source volume by default.&lt;p&gt;
 Fill inside and outside operation creates a binary labelmap volume as output, with the inside and outside fill values modifiable.
 </source>
-        <translation type="unfinished">Utilize o segmento atualmente selecionado como máscara para ocultar regiões num volume&lt;br&gt;.
+        <translation>Utiliza o segmento atualmente selecionado como máscara para ocultar regiões num volume&lt;br&gt;.
 Por predefinição, a máscara é aplicada ao volume de origem.&lt;p&gt;
 A operação de preenchimento interno e externo cria um volume de mapa de rótulos binário como resultado, sendo que os valores de preenchimento interno e externo podem ser modificados.
 </translation>
@@ -11114,12 +11114,12 @@ A operação de preenchimento interno e externo cria um volume de mapa de rótul
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished">Preencher na parte de fora</translation>
+        <translation>Preencher exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
         <source>Fill inside and outside</source>
-        <translation type="unfinished">Preencha por dentro e por fora</translation>
+        <translation>Preencher interior e exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="58"/>
