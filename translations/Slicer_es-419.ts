@@ -9491,7 +9491,7 @@ Este archivo fue desarrollado originalmente por Andras Lasso (PerkLab) y fue fin
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="357"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="379"/>
@@ -12614,7 +12614,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="328"/>
         <source>Refresh browser</source>
-        <translation type="unfinished">Actualizar el navegador</translation>
+        <translation>Actualizar navegador</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="338"/>
@@ -13833,88 +13833,88 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="550"/>
         <source>Direction Markers</source>
-        <translation type="unfinished">Indicadores de dirección</translation>
+        <translation>Marcadores de dirección</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="568"/>
         <source>Show Direction Markers:</source>
-        <translation type="unfinished">Mostrar marcadores de dirección:</translation>
+        <translation>Mostrar marcadores de dirección:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="571"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="578"/>
         <source>Show or hide directional arrow markers along curve and line markups.</source>
-        <translation type="unfinished">Mostrar u ocultar los marcadores de flecha direccionales a lo largo de las anotaciones de curvas y líneas.</translation>
+        <translation>Mostrar u ocultar marcadores de flecha direccionales a lo largo de curvas y líneas de marcadores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="588"/>
         <source>3D Visibility:</source>
-        <translation type="unfinished">Visibilidad en 3D:</translation>
+        <translation>Visibilidad en 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="591"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="598"/>
         <source>Show direction markers in 3D views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished">Mostrar marcadores de dirección en las vistas 3D. Requiere que la opción «Mostrar marcadores de dirección» esté activada.</translation>
+        <translation>Mostrar marcadores de dirección en vistas 3D. Requiere que &quot;Mostrar marcadores de dirección&quot; esté habilitado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="608"/>
         <source>2D Visibility:</source>
-        <translation type="unfinished">Visibilidad en 2D:</translation>
+        <translation>Visibilidad 2D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="611"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="618"/>
         <source>Show direction markers in 2D slice views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished">Mostrar marcadores de dirección en las vistas de corte 2D. Requiere que la opción «Mostrar marcadores de dirección» esté activada.</translation>
+        <translation>Mostrar marcadores de dirección en vistas de corte 2D. Requiere que &quot;Mostrar marcadores de dirección&quot; esté habilitado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="628"/>
         <source>Slice Intersection Points:</source>
-        <translation type="unfinished">Puntos de intersección de las secciones:</translation>
+        <translation>Puntos de intersección de corte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="631"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="638"/>
         <source>Show markers at positions where the curve/line crosses the current slice plane.</source>
-        <translation type="unfinished">Mostrar marcadores en los puntos en los que la curva o línea cruza el plano de corte actual.</translation>
+        <translation>Mostrar marcadores en las posiciones donde la curva/línea cruza el plano de corte actual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="648"/>
         <source>Reverse Direction:</source>
-        <translation type="unfinished">Dirección inversa:</translation>
+        <translation>Invertir dirección:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="651"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="658"/>
         <source>Reverse the direction of the arrow markers so they point in the opposite direction along the curve or line.</source>
-        <translation type="unfinished">Cambia la dirección de las flechas para que apunten en sentido contrario a lo largo de la curva o la línea.</translation>
+        <translation>Invertir la dirección de los marcadores de flecha para que apunten en la dirección opuesta a lo largo de la curva o línea.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="668"/>
         <source>Marker Size:</source>
-        <translation type="unfinished">Tamaño del marcador:</translation>
+        <translation>Tamaño del marcador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="671"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="678"/>
         <source>Size of each direction marker relative to the physical line thickness.</source>
-        <translation type="unfinished">Tamaño de cada indicador de dirección en relación con el grosor físico de la línea.</translation>
+        <translation>Tamaño de cada marcador de dirección en relación con el grosor físico de la línea.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="703"/>
         <source>Marker Spacing:</source>
-        <translation type="unfinished">Espaciado entre marcadores:</translation>
+        <translation>Espaciado del marcador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="706"/>
         <source>Distance between direction markers relative to the marker height.</source>
-        <translation type="unfinished">Distancia entre los indicadores de dirección en relación con la altura de los mismos.</translation>
+        <translation>Distancia entre los marcadores de dirección en relación con la altura del marcador.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="713"/>
         <source>Distance between consecutive direction markers relative to the marker height. 100% = markers touch, 200% = one gap, 300% = two gaps.</source>
-        <translation type="unfinished">Distancia entre indicadores de dirección consecutivos en relación con la altura del indicador. 100 % = los indicadores se tocan; 200 % = un espacio; 300 % = dos espacios.</translation>
+        <translation>Distancia entre marcadores de dirección consecutivos en relación con la altura del marcador. 100% = los marcadores se tocan, 200% = un espacio, 300% = dos espacios.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="744"/>
@@ -14151,12 +14151,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="267"/>
         <source>Flip normal</source>
-        <translation type="unfinished">Voltear a la posición normal</translation>
+        <translation>Invertir normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="270"/>
         <source>Reverse direction of the plane normal</source>
-        <translation type="unfinished">Invertir la dirección de la normal del plano</translation>
+        <translation>Invertir la dirección de la normal del plano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="102"/>
@@ -15876,7 +15876,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="314"/>
         <source>3D Display</source>
-        <translation type="unfinished">Pantalla 3D</translation>
+        <translation>Visualización 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="554"/>
@@ -18573,22 +18573,22 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="339"/>
         <source>2D line width:</source>
-        <translation type="unfinished">Ancho de línea en 2D:</translation>
+        <translation>Ancho de línea 2D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="446"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished">Porcentaje de desplazamiento utilizado para establecer el tamaño del glifo. Un 100 % significa que el tamaño del glifo es igual al desplazamiento real.</translation>
+        <translation>Porcentaje de desplazamiento utilizado para establecer el tamaño del glifo. 100% significa que el tamaño del glifo es igual al desplazamiento real.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="569"/>
         <source>2D glyph settings</source>
-        <translation type="unfinished">Configuración de glifos 2D</translation>
+        <translation>Configuración de glifos 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="963"/>
@@ -20374,12 +20374,12 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="309"/>
         <source>Initialize</source>
-        <translation type="unfinished">Iniciar</translation>
+        <translation>Inicializar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="328"/>
@@ -24986,7 +24986,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="95"/>
         <source>Save display settings</source>
         <oldsource>Capture display nodes</oldsource>
-        <translation type="unfinished">Capturar nodos de visualización</translation>
+        <translation>Guardar configuración de visualización</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
@@ -31024,7 +31024,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="650"/>
         <source>Cancelling</source>
-        <translation>Cancelar</translation>
+        <translation>Cancelando</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="651"/>
