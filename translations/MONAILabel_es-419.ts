@@ -170,12 +170,12 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="197"/>
         <source>Enable this option to include dicom files in server-client data exchange</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar esta opción para incluir archivos DICOM en el intercambio de datos entre servidor y cliente</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="200"/>
         <source>Include DICOM files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir archivos DICOM:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="215"/>
