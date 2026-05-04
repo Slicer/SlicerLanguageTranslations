@@ -2102,24 +2102,24 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="326"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="507"/>
         <source>MRN: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MRN: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="330"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="511"/>
         <source>Birth Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de nacimiento: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="365"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="543"/>
         <source>Date added: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de adición: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="515"/>
         <source>Sex: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexo: %1</translation>
     </message>
 </context>
 <context>
@@ -2127,7 +2127,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMPatientModel.cpp" line="862"/>
         <source>Patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacientes</translation>
     </message>
 </context>
 <context>
@@ -2135,34 +2135,34 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="894"/>
         <source>Toggle between Tab Mode and List Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar entre el modo de pestañas y el modo de lista</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="927"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1198"/>
         <source>Show all patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todos los pacientes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="934"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1205"/>
         <source>Switch to Tab Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar al modo de pestañas</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="945"/>
         <source>Allowed servers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidores permitidos:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1622"/>
         <source>Query in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta en progreso...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1626"/>
         <source>No results found in the database</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontraron resultados en la base de datos</translation>
     </message>
 </context>
 <context>
@@ -2317,7 +2317,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesDelegate.cpp" line="292"/>
         <source>Unknown Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Serie desconocida</translation>
     </message>
 </context>
 <context>
@@ -2515,12 +2515,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="384"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="387"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="598"/>
@@ -2574,17 +2574,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="361"/>
         <source>Anonomyzed study</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudio anonimizado</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="447"/>
         <source>%1/%2 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/%2 series</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="451"/>
         <source>%1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 series</translation>
     </message>
 </context>
 <context>
@@ -2593,22 +2593,22 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="404"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="409"/>
         <source>Load (%1k)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar (%1k)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="413"/>
         <source>Load (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar (%1)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="526"/>
         <source>Load selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar series seleccionadas</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="555"/>
         <source>Load</source>
-        <translation type="unfinished">Cargar</translation>
+        <translation>Cargar</translation>
     </message>
 </context>
 <context>
@@ -2884,17 +2884,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="87"/>
         <source>Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrando</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="117"/>
         <source> MRN...</source>
-        <translation type="unfinished"></translation>
+        <translation> MRN...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="130"/>
         <source> Name...</source>
-        <translation type="unfinished"></translation>
+        <translation> Nombre...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="189"/>
@@ -2914,12 +2914,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="163"/>
         <source> Study Description...</source>
-        <translation type="unfinished"></translation>
+        <translation> Descripción del estudio...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="176"/>
         <source> Series Description ...</source>
-        <translation type="unfinished"></translation>
+        <translation> Descripción de las series...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="217"/>
@@ -2954,12 +2954,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="251"/>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="355"/>
         <source> Import </source>
-        <translation type="unfinished"></translation>
+        <translation> Importar </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="268"/>
@@ -2971,12 +2971,14 @@ p, li { white-space: pre-wrap; }
         <source>Query and retrieve. If filters are set, a patient query will be sent to the DICOM servers.
 If no filters are set, a study query for the currently selected patient in the local database
 (or the first patient if none is selected) will be sent to the DICOM servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultar y recuperar. Si se han establecido filtros, se enviará una consulta de paciente a los servidores DICOM.
+Si no se han establecido filtros, se enviará una consulta de estudio para el paciente actualmente seleccionado en la base de datos local
+(o el primer paciente si no hay ninguno seleccionado) a los servidores DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="309"/>
         <source>Query </source>
-        <translation type="unfinished"></translation>
+        <translation>Consultar </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="332"/>
@@ -3060,69 +3062,72 @@ If no filters are set, a study query for the currently selected patient in the l
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="883"/>
         <source>No server is configured for query/retrieve operations. The server settings section is below.
 Check also the allowed servers at patient level.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ningún servidor configurado para operaciones de consulta/recuperación. La sección de configuración del servidor se encuentra a continuación.
+Verifique también los servidores permitidos a nivel de paciente.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2481"/>
         <source>No server is configured for query/retrieve operations.
 The server settings section is below.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ningún servidor configurado para operaciones de consulta/recuperación.
+La sección de configuración del servidor se encuentra a continuación.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2494"/>
         <source>No filters are set and no patients are found in the local database.
 Please specify at least one filter to query the servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han establecido filtros y no se encontraron pacientes en la base de datos local.
+Por favor, especifique al menos un filtro para consultar los servidores.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2622"/>
         <source>The patients query provided no results. Please refine your filters in the search section.</source>
-        <translation type="unfinished"></translation>
+        <translation>La consulta de pacientes no arrojó resultados. Por favor, refine sus filtros en la sección de búsqueda.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2996"/>
         <source>Load patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar paciente</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2997"/>
         <source>Load %1 patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar %1 pacientes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3003"/>
         <source>View %1 patients DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver metadatos DICOM de %1 pacientes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3009"/>
         <source>Delete %1 patients from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar %1 pacientes de la base de datos local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3016"/>
         <source>Export %1 patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1 pacientes al sistema de archivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3022"/>
         <source>Send %1 patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 pacientes al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3114"/>
         <source>Force retrieve study</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar recuperación del estudio</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3115"/>
         <source>Force retrieve %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar recuperación de %1 estudios</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3229"/>
         <source>Force retrieve %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar recuperación de %1 series</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3658"/>
@@ -3139,12 +3144,12 @@ Please specify at least one filter to query the servers.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="386"/>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desde:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>A:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1972"/>
