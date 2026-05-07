@@ -9721,7 +9721,7 @@ el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterá
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1161"/>
         <source>Load failed!</source>
-        <translation>Carga incorrecta.</translation>
+        <translation>Carga incorrecta!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1165"/>
@@ -25829,7 +25829,7 @@ Lo más probable es que el segmento no se pueda convertir en una representación
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1068"/>
         <source>Failed to copy polydata from models under folder %1!</source>
-        <translation>No se pudo copiar polydata desde modelos bajo la carpeta %1.</translation>
+        <translation>No se pudo copiar polydata desde modelos bajo la carpeta %1!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1070"/>
@@ -29214,7 +29214,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="158"/>
         <source>Database Password:</source>
-        <translation>Contraseña de BBDD:</translation>
+        <translation>Contraseña de la base de datos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="188"/>
