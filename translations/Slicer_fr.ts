@@ -10662,7 +10662,21 @@ L&apos;effet utilise la &lt;a href=&quot;https://insight-journal.org/browse/publ
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Développement des segments pour créer une segmentation complète&lt;br&gt;.
+ L'emplacement, la taille et la forme des segments initiaux, ainsi que le contenu du volume source, sont pris en compte.
+ Les limites finales des segments seront placées là où la luminosité du volume source change brusquement. Instructions :&lt;p&gt;
+ &lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;Utilisez l'outil Peinture ou d'autres effets pour dessiner des points de départ dans chaque région qui devrait appartenir à un segment distinct.
+ Peignez chaque point de départ avec un segment différent. Au moins deux segments sont requis.
+ &lt;li&gt;Cliquez sur &lt;dfn&gt;Initialiser&lt;/dfn&gt; pour calculer un aperçu de la segmentation complète.
+ &lt;li&gt;Parcourez les coupes de l'image. Si le résultat de la segmentation prévisualisé n'est pas correct, passez à
+ Paint ou à d'autres effets et ajoutez des graines supplémentaires dans la région mal classée. La segmentation complète sera
+ mise à jour automatiquement en quelques secondes
+ &lt;li&gt;Cliquez sur &lt;dfn&gt;Apply&lt;/dfn&gt; pour mettre à jour la segmentation avec le résultat prévisualisé.
+ &lt;/ul&gt;&lt;p&gt;
+        Si des segments se chevauchent, le segment situé le plus haut dans le tableau des segments aura la priorité.
+ L'effet utilise la &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;méthode fast grow-cut&lt;/a&gt;.
+ &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
