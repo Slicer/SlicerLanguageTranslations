@@ -4679,7 +4679,7 @@ Compruebe sus permisos.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"/>
         <source>toolBar</source>
-        <translation>toolBar</translation>
+        <translation>Barra de herramientas</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
@@ -5301,7 +5301,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
         <source>Restart required!</source>
-        <translation>Se requiere reiniciar.</translation>
+        <translation>Se requiere reiniciar!</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="172"/>
