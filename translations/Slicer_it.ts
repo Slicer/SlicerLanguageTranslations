@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation>Aggiungi volumi gradualmente</translation>
+        <translation>Aggiungi volumi scalari</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation>Volume di ingresso</translation>
+        <translation>Volume di ingresso 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
@@ -4006,7 +4006,7 @@ I metodi di diffusione anisotropica riducono il rumore (o i dettagli indesiderat
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume di ingresso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
@@ -4026,22 +4026,22 @@ I metodi di diffusione anisotropica riducono il rumore (o i dettagli indesiderat
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzato</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
         <source>Advanced parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri avanzati per l&apos;algoritmo di diffusione anisotropica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
         <source>Use image spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa la spaziatura delle immagini</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation type="unfinished"></translation>
+        <translation>![CDATA[Considera la spaziatura dell&apos;immagine nel calcolo. Si consiglia di attivare questa opzione, soprattutto quando la dimensione dei pixel è diversa nelle diverse dimensioni. Tuttavia, per produrre risultati coerenti con Slicer 4.2 e versioni precedenti, questa opzione dovrebbe essere disattivata.]]</translation>
     </message>
 </context>
 <context>
@@ -4049,7 +4049,7 @@ I metodi di diffusione anisotropica riducono il rumore (o i dettagli indesiderat
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"/>
         <source>Grayscale Fill Hole Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro immagine foro di riempimento in scala di grigi</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"/>
@@ -4062,7 +4062,15 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il filtro GrayscaleFillholeImageFilter riempie i fori in un&apos;immagine in scala di grigi. I fori sono minimi locali nella topografia in scala di grigi che non sono collegati ai bordi dell&apos;immagine. I valori di livello di grigio adiacenti a un foro vengono estrapolati attraverso il foro stesso.
+
+Questo filtro viene utilizzato per uniformare i minimi locali senza alterare i valori dei massimi locali. Calcolando la differenza tra l&apos;output di questo filtro e l&apos;immagine originale (e, eventualmente, applicando una soglia alla differenza se questa supera un valore piccolo), si ottiene una mappa dei minimi locali.
+
+Questo filtro utilizza il filtro itkGrayscaleGeodesicErodeImageFilter. Fornisce il proprio input come &quot;maschera&quot; per l&apos;erosione geodetica. L&apos;immagine &quot;marker&quot; per l&apos;erosione geodetica viene costruita in modo tale che i pixel di confine corrispondano ai pixel di confine dell&apos;immagine di input e i pixel interni siano impostati al valore massimo dei pixel nell&apos;immagine di input.
+
+La morfologia geodetica e l&apos;algoritmo Fillhole sono descritti nel capitolo 6 del libro di Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, seconda edizione, Springer, 2003.
+
+Un filtro complementare, Grayscale Grind Peak, rimuove i picchi nelle immagini in scala di grigi.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
@@ -4082,7 +4090,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume di ingresso 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
@@ -4105,7 +4113,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"/>
         <source>Grayscale Grind Peak Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro immagine Grinding Peak in scala di grigi</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"/>
@@ -4120,7 +4128,15 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il filtro GrayscaleGrindPeakImageFilter rimuove i picchi da un&apos;immagine in scala di grigi. I picchi sono massimi locali nella topografia in scala di grigi che non sono collegati ai bordi dell&apos;immagine. I valori di livello di grigio adiacenti a un picco vengono estrapolati attraverso il picco stesso.
+
+Questo filtro viene utilizzato per uniformare i massimi locali senza influenzare i valori dei minimi locali. Calcolando la differenza tra l&apos;output di questo filtro e l&apos;immagine originale (e applicando eventualmente una soglia alla differenza se questa supera un valore piccolo), si ottiene una mappa dei massimi locali.
+
+Questo filtro utilizza il filtro GrayscaleGeodesicDilateImageFilter. Fornisce il proprio input come &quot;maschera&quot; per l&apos;erosione geodetica. L&apos;immagine &quot;marker&quot; per l&apos;erosione geodetica viene costruita in modo tale che i pixel di confine corrispondano ai pixel di confine dell&apos;immagine di input e i pixel interni siano impostati al valore minimo dei pixel nell&apos;immagine di input.
+
+Questo filtro è il duale del filtro GrayscaleFillholeImageFilter, che implementa l&apos;algoritmo Fillhole. Essendo un duale, è in qualche modo superfluo, ma viene fornito per comodità. La morfologia geodetica e l&apos;algoritmo Fillhole sono descritti nel Capitolo 6 del libro di Pierre Soille &quot;Analisi morfologica delle immagini: principi e applicazioni&quot;, Seconda edizione, Springer, 2003.
+
+Un filtro complementare, Grayscale Fill Hole, riempie i fori nelle immagini in scala di grigi.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
@@ -4163,12 +4179,12 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="4"/>
         <source>Grayscale Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Creatore di modelli in scala di grigi</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea modelli di superficie 3D a partire da dati in scala di grigi. Questo modulo utilizza l&apos;algoritmo Marching Cubes per creare un&apos;isosuperficie a una data soglia. La superficie risultante è composta da triangoli che dividono un volume in regioni al di sotto e al di sopra della soglia. La superficie risultante può essere levigata e decimata. Questo modello funziona con dati continui, mentre il modulo Model Maker funziona con dati etichettati (o discreti).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
@@ -4193,67 +4209,67 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
         <source>Output Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria di uscita</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"/>
         <source>Volume containing the input grayscale data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume contenente i dati di input in scala di grigi.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
         <source>Output that contains geometry model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Output contenente il modello geometrico.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="13"/>
         <source>Grayscale Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri del creatore di modelli in scala di grigi</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri utilizzati per la creazione dei modelli.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Soglia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del modello</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Liscio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"/>
         <source>Split Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>Normali divise?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="20"/>
         <source>Compute Point Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcolare le normali dei punti?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"/>
         <source>Grayscale threshold of isosurface. The resulting surface of triangles separates the volume into voxels that lie above (inside) and below (outside) the threshold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soglia di scala di grigi dell&apos;isosuperficie. La superficie di triangoli risultante separa il volume in voxel che si trovano al di sopra (all&apos;interno) e al di sotto (all&apos;esterno) della soglia.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
         <source>Name to use for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome da utilizzare per questo modello.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
@@ -4296,7 +4312,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="4"/>
         <source>Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>Corrispondenza dell&apos;istogramma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="5"/>
@@ -4317,7 +4333,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
         <source>Histogram Matching Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri di corrispondenza dell&apos;istogramma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
@@ -4342,7 +4358,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"/>
         <source>The number of hisogram levels to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Il numero di livelli dell&apos;istogramma da utilizzare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"/>
