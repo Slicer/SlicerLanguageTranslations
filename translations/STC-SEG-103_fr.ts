@@ -6,7 +6,7 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>AI-based Segmentation in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation>Segmentation basée sur l&apos;IA dans 3D Slicer</translation>
+        <translation>Segmentation basé sur l&apos;IA dans 3DSlicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
@@ -15,14 +15,18 @@ Brigham and Women&apos;s Hospital,
 Harvard Medical School
 Boston, MA</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation>Sonia Pujol, Ph.D., Brigham and Women&apos;s Hospital, Harvard Medical School, Boston, MA</translation>
+        <translation>Sonia Pujol, Ph. D. 
+Brigham and Women&apos;s Hospital,
+Harvard Medical School
+Boston, MA</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>Slicer Ribeirão Preto Workshop
 June 30, 2025</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation>Slicer Ribeirão Preto Workshop, 30 Juin 2025</translation>
+        <translation>Slicer Ribeirão Preto Workshop
+Le 30 juin 2025</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
