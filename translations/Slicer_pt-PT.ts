@@ -14663,24 +14663,24 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="310"/>
         <source>Create new %1 as...</source>
-        <translation type="unfinished">Criar um novo %1 como...</translation>
+        <translation>Criar um novo %1 como...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="318"/>
         <source>Delete current %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished">Apagar o valor atual de %1</translation>
+        <translation>Apagar o %1 atual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="680"/>
         <source>Rename %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished">Renomear %1</translation>
+        <translation>Renomear %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="714"/>
         <source>New name:</source>
-        <translation type="unfinished">Novo nome:</translation>
+        <translation>Novo nome:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="586"/>
@@ -14693,47 +14693,47 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
-        <translation type="unfinished">Propriedades do gráfico</translation>
+        <translation>Propriedades do Gráfico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
         <source>Plot data series:</source>
-        <translation type="unfinished">Plot data series:</translation>
+        <translation>Gráfico de série de dados:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation type="unfinished">Add/Remove plots data series to/from the current chart.</translation>
+        <translation>Adicionar/Remover gráfico de séries de dados para/do gráfico atual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
         <source>Chart title:</source>
-        <translation type="unfinished">Chart title:</translation>
+        <translation>Título do gráfico:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="79"/>
         <source>Enter a title for the chart.</source>
-        <translation type="unfinished">Enter a title for the chart.</translation>
+        <translation>Introduza um título para o gráfico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="95"/>
         <source>X axis title:</source>
-        <translation type="unfinished">X axis title:</translation>
+        <translation>Título do eixo X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
         <source>Enter a label for the X-axis.</source>
-        <translation type="unfinished">Enter a label for the X-axis.</translation>
+        <translation>Introduza um rótulo para o eixo X.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="112"/>
         <source>X axis range:</source>
-        <translation type="unfinished">X axis range:</translation>
+        <translation>Intervalo do eixo X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="121"/>
         <source>Enable manual setting of X axis range for all views of this chart</source>
-        <translation type="unfinished">Enable manual setting of X axis range for all views of this chart</translation>
+        <translation>Ativa a definição manual do intervalo do eixo X para todas as vistas deste gráfico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="171"/>
@@ -14743,7 +14743,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="180"/>
         <source>Enable manual setting of Y axis range for all views of this chart</source>
-        <translation type="unfinished">Enable manual setting of Y axis range for all views of this chart</translation>
+        <translation>Ativa a definição manual do intervalo do eixo Y para todas as vistas deste gráfico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="230"/>
@@ -15217,7 +15217,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="115"/>
         <source>Set the display scalar range, used when the Display option is selected.</source>
-        <translation type="unfinished">Set the display scalar range, used when the Display option is selected.</translation>
+        <translation>Defina o exibir do intervalo escalar, usado quando a opção de Exibir está selecionada.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
@@ -15228,13 +15228,13 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
         <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-        <translation type="unfinished">Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
-should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</translation>
+        <translation>Aplicar limites ao seu modelo exibido baseado nos seus valores escalares. Algumas normais de células podem estar invertidas, e em tal caso 
+deve definir &quot;parte de trás&quot; e &quot;face frontal&quot; para OFF as opções de Representação para visualizar células.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
         <source>Range used to threshold scalar values.</source>
-        <translation type="unfinished">Range used to threshold scalar values.</translation>
+        <translation>Intervalo utilizado para limitar valores escalares.</translation>
     </message>
 </context>
 <context>
@@ -15242,27 +15242,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
-        <translation type="unfinished">Fábrica de Cenas</translation>
+        <translation>Fábrica de Cenas</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
         <source>New Scene</source>
-        <translation type="unfinished">New Scene</translation>
+        <translation>Nova Cena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="27"/>
         <source>Delete Scene</source>
-        <translation type="unfinished">Delete Scene</translation>
+        <translation>Eliminar Cena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="44"/>
         <source>New Node</source>
-        <translation type="unfinished">New Node</translation>
+        <translation>Novo Nó</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="61"/>
         <source>Delete Node</source>
-        <translation type="unfinished">Delete Node</translation>
+        <translation>Eliminar Nó</translation>
     </message>
 </context>
 <context>
@@ -15270,7 +15270,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="387"/>
         <source>Checked: Force color to children</source>
-        <translation type="unfinished">Checked: Force color to children</translation>
+        <translation>Marcado: Forçar cores nos filho</translation>
     </message>
 </context>
 <context>
@@ -15278,7 +15278,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLSceneViewMenu.cxx" line="199"/>
         <source>No scene views</source>
-        <translation type="unfinished">No scene views</translation>
+        <translation>Nenhuma vista de cena</translation>
     </message>
 </context>
 <context>
@@ -15291,42 +15291,42 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">Miniatura</translation>
+        <translation>Miniatura</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
         <source>Full layout</source>
-        <translation type="unfinished">Full layout</translation>
+        <translation>Layout completo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
         <source>3D View</source>
-        <translation type="unfinished">3D View</translation>
+        <translation>Vista 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
         <source>Red Slice View</source>
-        <translation type="unfinished">Red Slice View</translation>
+        <translation>Vista de Fatia Vermelha</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="69"/>
         <source>Yellow Slice View</source>
-        <translation type="unfinished">Yellow Slice View</translation>
+        <translation>Vista de Fatia Amarela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="80"/>
         <source>Green Slice View</source>
-        <translation type="unfinished">Green Slice View</translation>
+        <translation>Vista de Fatia Verde</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="126"/>
         <source>Scale factor:</source>
-        <translation type="unfinished">Scale factor:</translation>
+        <translation>Fator de escalonamento:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="139"/>
         <source>Adjust the Magnification factor.</source>
-        <translation type="unfinished">Adjust the Magnification factor.</translation>
+        <translation>Ajusta o fator de Magnificação.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="142"/>
@@ -15336,27 +15336,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="174"/>
         <source>Save As...</source>
-        <translation type="unfinished">Guardar como...</translation>
+        <translation>Guardar Como...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="206"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="196"/>
         <source>Save snapshot via File Save. Edit in Annotations module.</source>
-        <translation type="unfinished">Save snapshot via File Save. Edit in Annotations module.</translation>
+        <translation>Guardar snapshot através de Guardar Ficheiro. Edite no módulo de Anotações.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="432"/>
         <source>Save File</source>
-        <translation type="unfinished">Save File</translation>
+        <translation>Guardar Ficheiro</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="432"/>
         <source>Images (*.png *.jpg)</source>
-        <translation type="unfinished">Images (*.png *.jpg)</translation>
+        <translation>Imagens (*.png *.jpg)</translation>
     </message>
 </context>
 <context>
@@ -15374,27 +15374,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
         <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-        <translation type="unfinished">Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</translation>
+        <translation>Especificar geometria (origem da grelha, espaçamento, direção dos eixos, e extensão padrão) da representação do mapa de rótulos editado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
         <source>Specify geometry of the edited labelmap representation</source>
-        <translation type="unfinished">Specify geometry of the edited labelmap representation</translation>
+        <translation>Especificar geometria da representação do mapa de rótulos editado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="90"/>
         <source>Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</source>
-        <translation type="unfinished">Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</translation>
+        <translation>Orientação da vista de fatias não estão alinhadas com a segmentação. Artefactos de riscas podem aparecer. Clique em alinhar vistas de corte com a segmentação.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="93"/>
         <source>Slice rotated</source>
-        <translation type="unfinished">Slice rotated</translation>
+        <translation>Fatia girada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="113"/>
         <source>Add new empty segment</source>
-        <translation type="unfinished">Add new empty segment</translation>
+        <translation>Adicionar novo segmento vazio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="116"/>
@@ -15404,7 +15404,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="127"/>
         <source>Remove selected segment(s)</source>
-        <translation type="unfinished">Remove selected segment(s)</translation>
+        <translation>Remover segmento(s) selecionado(s)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="130"/>
@@ -15414,22 +15414,22 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
-        <translation type="unfinished">Tabela de segmentos</translation>
+        <translation>Tabela de Segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
         <source>Source volume:</source>
-        <translation type="unfinished">Fonte do volume:</translation>
+        <translation>Volume fonte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
         <source>Select source volume to enable editing</source>
-        <translation type="unfinished">Selecione o volume de origem para ativar a edição</translation>
+        <translation>Selecione o volume de origem para ativar a edição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="144"/>
         <source>Go to Segmentations module</source>
-        <translation type="unfinished">Go to Segmentations module</translation>
+        <translation>Ir para o módulo de Segmentações</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="147"/>
@@ -15440,7 +15440,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="191"/>
         <source>Undo last editing operation</source>
-        <translation type="unfinished">Undo last editing operation</translation>
+        <translation>Desfazer a última operação de edição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="194"/>
@@ -15450,7 +15450,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="211"/>
         <source>Redo last editing operation</source>
-        <translation type="unfinished">Redo last editing operation</translation>
+        <translation>Refazer a última operação de edição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="214"/>
@@ -15465,7 +15465,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="333"/>
         <source>Show details.</source>
-        <translation type="unfinished">Show details.</translation>
+        <translation>Mostrar detalhes.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="352"/>
@@ -15475,27 +15475,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="376"/>
         <source>Editable area:</source>
-        <translation type="unfinished">Editable area:</translation>
+        <translation>Área editável:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="390"/>
         <source>Editable intensity range:</source>
-        <translation type="unfinished">Editable intensity range:</translation>
+        <translation>Editar intervalo de intensidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="397"/>
         <source>Only those regions are allowed to be changed where the source volume intensity is in the specified range</source>
-        <translation type="unfinished">Só é permitido alterar as regiões em que a intensidade do volume de origem se situa no intervalo especificado</translation>
+        <translation>Só é permitido alterar as regiões em que a intensidade do volume de origem se situa no intervalo especificado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="414"/>
         <source>Modify other segments:</source>
-        <translation type="unfinished">Modify other segments:</translation>
+        <translation>Modificar outros segmentos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="421"/>
         <source>Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</source>
-        <translation type="unfinished">Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</translation>
+        <translation>Controla quais segmentos o segmento atual irá sobrescrever. Segmentos que não são sobrescritos podem sobrepor-se com o segmento selecionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="308"/>
@@ -15505,62 +15505,62 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="309"/>
         <source>Inside all segments</source>
-        <translation type="unfinished">Inside all segments</translation>
+        <translation>Dentro de todos os segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="310"/>
         <source>Inside all visible segments</source>
-        <translation type="unfinished">Inside all visible segments</translation>
+        <translation>Dentro de todos os segmentos visíveis</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="311"/>
         <source>Outside all segments</source>
-        <translation type="unfinished">Outside all segments</translation>
+        <translation>Fora de todos os segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="312"/>
         <source>Outside all visible segments</source>
-        <translation type="unfinished">Outside all visible segments</translation>
+        <translation>Fora de todos os segmentos visíveis</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="316"/>
         <source>Overwrite all</source>
-        <translation type="unfinished">Overwrite all</translation>
+        <translation>Sobrescrever todos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="317"/>
         <source>Overwrite visible</source>
-        <translation type="unfinished">Overwrite visible</translation>
+        <translation>Sobrescrever visíveis</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="318"/>
         <source>Allow overlap</source>
-        <translation type="unfinished">Allow overlap</translation>
+        <translation>Permitir sobreposição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="324"/>
         <source>Import/export nodes...</source>
-        <translation type="unfinished">Importar/exportar nós...</translation>
+        <translation>Importar/exportar nós...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="327"/>
         <source>Export to files...</source>
-        <translation type="unfinished">Exportar para ficheiros...</translation>
+        <translation>Exportar para ficheiros...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="330"/>
         <source>Export to color table</source>
-        <translation type="unfinished">Exportar para a tabela de cores</translation>
+        <translation>Exportar para a tabela de cores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="491"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="492"/>
         <source>No editing</source>
-        <translation type="unfinished">Sem edições</translation>
+        <translation>Sem edições</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="808"/>
@@ -15578,7 +15578,7 @@ Deseja alterar a representação de código-fonte para um mapa de rótulos biná
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="813"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">Change master representation to binary labelmap?</translation>
+        <translation>Mostrar representação fonte para mapa de rótulos binário?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="828"/>
@@ -15590,7 +15590,7 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="829"/>
         <source>Failed to create binary labelmap for editing</source>
-        <translation type="unfinished">Failed to create binary labelmap for editing</translation>
+        <translation>Falha ao criar o mapa de rótulos binário para edição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1608"/>
@@ -15600,7 +15600,7 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2594"/>
         <source>Export segments to files</source>
-        <translation type="unfinished">Exportar segmentos para ficheiros</translation>
+        <translation>Exportar segmentos para ficheiros</translation>
     </message>
 </context>
 <context>
@@ -15621,7 +15621,7 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="14"/>
         <source>Segmentation conversion parameters</source>
-        <translation type="unfinished">Segmentation conversion parameters</translation>
+        <translation>Parâmetros de conversão de segmentação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
@@ -15636,12 +15636,12 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
         <source>1. Conversion path</source>
-        <translation type="unfinished">1. Conversion path</translation>
+        <translation>1. Caminho de conversão</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="129"/>
         <source>Estimated relative cost</source>
-        <translation type="unfinished">Estimated relative cost</translation>
+        <translation>Custo relativo estimado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
@@ -15654,7 +15654,7 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="145"/>
         <source>2. Conversion parameters</source>
-        <translation type="unfinished">2. Conversion parameters</translation>
+        <translation>2. Parâmetros de conversão</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
@@ -15683,47 +15683,47 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="106"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="253"/>
         <source>Cost</source>
-        <translation type="unfinished">Custo</translation>
+        <translation>Custo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="158"/>
         <source>Invalid segmentation</source>
-        <translation type="unfinished">Segmentação inválida</translation>
+        <translation>Segmentação inválida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="186"/>
         <source>Invalid representation</source>
-        <translation type="unfinished">Representação inválida</translation>
+        <translation>Representação inválida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="232"/>
         <source>No path available!</source>
-        <translation type="unfinished">Não existe nenhum caminho disponível!</translation>
+        <translation>Não existe nenhum caminho disponível!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="299"/>
         <source>No path selected</source>
-        <translation type="unfinished">Nenhum caminho selecionado</translation>
+        <translation>Nenhum caminho selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="318"/>
         <source>No parameters for selected path</source>
-        <translation type="unfinished">Não existem parâmetros para o caminho selecionado</translation>
+        <translation>Não existem parâmetros para o caminho selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="355"/>
         <source>Specify geometry</source>
-        <translation type="unfinished">Specify geometry</translation>
+        <translation>Especificar geometria</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="401"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished">Não foi possível converter %1 em %2!</translation>
+        <translation>Não foi possível converter %1 em %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="402"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Conversão falhada</translation>
     </message>
 </context>
 <context>
@@ -15736,24 +15736,24 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="547"/>
         <source>Overall visibility:</source>
-        <translation type="unfinished">Overall visibility:</translation>
+        <translation>Visibilidade geral:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="51"/>
         <source>Overall opacity:</source>
-        <translation type="unfinished">Overall opacity:</translation>
+        <translation>Opacidade geral:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="148"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="400"/>
         <source>Slice fill:</source>
-        <translation type="unfinished">Slice fill:</translation>
+        <translation>Preenchimento de fatia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="134"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="413"/>
         <source>Slice outline:</source>
-        <translation type="unfinished">Slice outline:</translation>
+        <translation>Contorno de fatia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="201"/>
@@ -15791,44 +15791,44 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="99"/>
         <source>Representation in 2D views:</source>
-        <translation type="unfinished">Representation in 2D views:</translation>
+        <translation>Representação em vistas 2D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="92"/>
         <source>Representation that is shown in 3D (models only)</source>
-        <translation type="unfinished">Representation that is shown in 3D (models only)</translation>
+        <translation>Representação que é mostrada em 3D (apenas modelos)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="284"/>
         <source>Representation that is shown as a model in 3D and as slice intersections in 2D if exists</source>
-        <translation type="unfinished">Representation that is shown as a model in 3D and as slice intersections in 2D if exists</translation>
+        <translation>Representação que é mostrada como um modelo em 3D e como interseções de fatias 2D se existir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="287"/>
         <source>Representation in 3D views:</source>
-        <translation type="unfinished">Representation in 3D views:</translation>
+        <translation>Representação em vistas 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="294"/>
         <source>Representation that is shown in the 2D slice views</source>
-        <translation type="unfinished">Representation that is shown in the 2D slice views</translation>
+        <translation>Representação que é mostrada nas vistas de fatia 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="106"/>
         <source>Slice intersection thickness:</source>
-        <translation type="unfinished">Slice intersection thickness:</translation>
+        <translation>Espessura da interseção de fatia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="113"/>
         <source>Selected segment</source>
-        <translation type="unfinished">Selected segment</translation>
+        <translation>Segmento selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="208"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="227"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="246"/>
         <source>Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</source>
-        <translation type="unfinished">Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</translation>
+        <translation>Valor relativo a outros segmentos. A opacidade final depende de ambos a opacidade por segmento e a opacidade geral (acima)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="314"/>
@@ -15838,22 +15838,22 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="554"/>
         <source>Clipping</source>
-        <translation type="unfinished">Recorte</translation>
+        <translation>Recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="572"/>
         <source>Clip node:</source>
-        <translation type="unfinished">Nó de clipe:</translation>
+        <translation>Nó de recorte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="256"/>
         <source>Selected segment: none</source>
-        <translation type="unfinished">Segmento selecionado: nenhum</translation>
+        <translation>Segmento selecionado: nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="297"/>
         <source>Selected segment: %1</source>
-        <translation type="unfinished">Segmento selecionado: %1</translation>
+        <translation>Segmento selecionado: %1</translation>
     </message>
 </context>
 <context>
@@ -15866,22 +15866,22 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
         <source>Visible segments only: </source>
-        <translation type="unfinished">Visible segments only: </translation>
+        <translation>Apenas segmentos visíveis: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="45"/>
         <source>Adjust the exported model size. Point coordinates in the exported model will be multiplied by this number. By default Slicer uses millimeter unit for coordinates.</source>
-        <translation type="unfinished">Adjust the exported model size. Point coordinates in the exported model will be multiplied by this number. By default Slicer uses millimeter unit for coordinates.</translation>
+        <translation>Ajusta o tamanho do modelo exportado. Coordenadas de ponto no modelo exportado serão multiplicadas por este número. Por predefinição o Slicer usa unidade milimétricas para coordenadas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="99"/>
         <source>Destination folder: </source>
-        <translation type="unfinished">Destination folder: </translation>
+        <translation>Pasta de destino: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="106"/>
         <source>Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</source>
-        <translation type="unfinished">Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</translation>
+        <translation>Eixos XYZ de saída são mapeados para direções de eixos de pacientes LPS (left-posterior-superior) ou RAS (right-anterior-superior). LPS é utilizado mais frequentemente.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="110"/>
@@ -15896,7 +15896,7 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="123"/>
         <source>Use color table values:</source>
-        <translation type="unfinished">Use color table values:</translation>
+        <translation>Usar valores da tabela de cores:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="130"/>
