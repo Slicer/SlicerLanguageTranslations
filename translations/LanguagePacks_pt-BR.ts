@@ -16,22 +16,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chave da API do Weblate:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deixe em branco para usar o padrão. Chave de API opcional para Weblate. Forneça-a se precisar acessar projetos privados ou evitar limites de requisição.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
         <source>Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deixe em branco para usar o padrão (ferramentas Qt lrelease incluídas no instalador do Slicer ou disponíveis nos caminhos do sistema). Especifique para usar um executável Qt lrelease personalizado.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção do texto:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
