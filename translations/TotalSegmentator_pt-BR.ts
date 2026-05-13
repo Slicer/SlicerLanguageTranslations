@@ -86,7 +86,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
         <source>Robust cropping:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cultivo robusto:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="230"/>
