@@ -43,7 +43,7 @@ e Steve Pieper, Isomics, Inc., com financiamento parcial do subsídio NIH 3P41RR
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="264"/>
         <source>Failed to determine the intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível determinar a faixa de intensidade.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="308"/>
