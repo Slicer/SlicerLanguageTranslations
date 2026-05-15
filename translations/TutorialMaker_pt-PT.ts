@@ -146,7 +146,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="179"/>
         <source>Delete</source>
-        <translation>Eliminar</translation>
+        <translation>Apagar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="180"/>
@@ -176,7 +176,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="204"/>
         <source>Arrow text</source>
-        <translation>Texto em seta</translation>
+        <translation>Texto na seta</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="210"/>
@@ -345,7 +345,7 @@
 The window may appear unresponsive but the process is running in the background.
 This process will take some minutes.
 Click on &quot;OK&quot; to continue.</source>
-        <translation>Buscando tutoriais no GitHub.
+        <translation>A buscar tutoriais no GitHub.
 A janela pode parecer não responsivo mas o processo está a correr no plano de fundo.
 Este processo levará alguns minutos.
 Clique em &quot;OK&quot; para continuar.</translation>
@@ -458,7 +458,7 @@ Selecione um tutorial e clique em &quot;Capturar Capturas de Ecrã&quot;.</trans
 Step {current} of {total}
 
 Please do not use the mouse or keyboard to interact with 3D Slicer until the screenshot capture is completed.</source>
-        <translation>A Capturar Capturas de Ecrã do Tutorial...
+        <translation>A Capturar capturas de ecrã do tutorial...
 
 Passo {current} de {total}
 
@@ -555,7 +555,7 @@ Por favor não use o rato ou teclado para interagir com o 3D Slicer até que a c
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="453"/>
         <source>Hides developer tools for cleaner screenshots</source>
-        <translation>Esconde ferramentas de desenvolvedores para capturas de ecrã mais claras</translation>
+        <translation>Esconde ferramentas de programadores para capturas de ecrã mais claras</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="974"/>
