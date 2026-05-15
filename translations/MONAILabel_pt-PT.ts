@@ -12,12 +12,12 @@
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation>Senha:</translation>
+        <translation>Palavra-passe:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation>Nome de usuário:</translation>
+        <translation>Nome de utilizador:</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@ Desenvolvido por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="529"/>
         <source>Training: {status}</source>
-        <translation>Treino: {status}</translation>
+        <translation>Treino: {estado}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="628"/>
@@ -277,7 +277,7 @@ Desenvolvido por NVIDIA, KCL
         <source>This will clear current scribbles session.
 Are you sure to continue?</source>
         <translation>Isto limpará a sessão atual de rabiscos.
-Tem certeza de que deseja continuar?</translation>
+Tem certeza que deseja continuar?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1123"/>
@@ -300,18 +300,18 @@ Tem certeza de que deseja continuar?</translation>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1189"/>
         <source>No Model selected is to run the training</source>
-        <translation>Nenhum modelo selecionado é para executar o treinamento</translation>
+        <translation>Nenhum modelo selecionado é para executar o treino</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1197"/>
         <source>Training: STARTED</source>
-        <translation>Treinamento: INICIADO</translation>
+        <translation>Treino: INICIADO</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1204"/>
         <source>Failed to run training in MONAI Label Server.
 {message}</source>
-        <translation>Falha ao executar o treinamento no Servidor MONAI Label.
+        <translation>Falha ao executar o treino no Servidor MONAI Label.
 {mensagem}</translation>
     </message>
     <message>
@@ -321,20 +321,20 @@ Status: {status}
 Start Time: {start_time}
 </source>
         <translation>ID: {id}
-Estado: {status}
+Estado: {estado}
 Hora de início: {start_time}
 </translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1225"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
-        <translation>Isto eliminará/parará a tarefa de treinamento atual.  Tem certeza de que deseja continuar?</translation>
+        <translation>Isto eliminará/parará a tarefa de treino atual.  Tem certeza que deseja continuar?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1236"/>
         <source>Failed to stop Training Task.
 {message}</source>
-        <translation>Falha ao interromper a tarefa de treinamento.
+        <translation>Falha ao interromper a tarefa de treino.
 {mensagem}</translation>
     </message>
     <message>
@@ -343,7 +343,7 @@ Hora de início: {start_time}
 Start Time: {start_time}
 End Time: {end_time}
 Result: {result}</source>
-        <translation>Estado: {status}
+        <translation>Estado: {estado}
 Hora de início: {start_time}
 Hora de término: {end_time}
 Resultado: {result}</translation>
@@ -353,7 +353,7 @@ Resultado: {result}</translation>
         <source>This will close current scene.  Please make sure you have saved your current work.
 Are you sure to continue?</source>
         <translation>Isto fechará a cena atual.   Certifique-se de que gravou o trabalho atual.
-Tem certeza de que deseja continuar?</translation>
+Tem certeza que deseja continuar?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1284"/>
@@ -717,7 +717,7 @@ Atualize para a versão mais recente do monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="161"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="232"/>
         <source>Search</source>
-        <translation>Busca</translation>
+        <translation>Pesquisa</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="625"/>
