@@ -556,7 +556,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_vertebrae do conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
+        <translation>Baixa resolução (3mm) para a visualização rápida. Treinado em class_map_part_vertebrae do conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="15"/>
@@ -601,7 +601,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="23"/>
         <source>Low-resolution (1mm) for quick preview. Model trained on CT scans for whole head segmentation.</source>
-        <translation>Baixa resolução (1mm) para visualização rápida. Modelo treinado em exames de TC para segmentação total da cabeça.</translation>
+        <translation>Baixa resolução (1mm) para a visualização rápida. Modelo treinado em exames de TC para segmentação total da cabeça.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="24"/>
@@ -676,7 +676,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="38"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_ribs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_ribs de conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
+        <translation>Baixa resolução (3mm) para a visualização rápida. Treinado em class_map_part_ribs de conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="39"/>
@@ -696,7 +696,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="42"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_muscles de conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
+        <translation>Baixa resolução (3mm) para a visualização rápida. Treinado em class_map_part_muscles de conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="43"/>
@@ -716,7 +716,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="46"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_cardiac of TotalSegmentatorV2 dataset.</source>
-        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_cardiac do conjunto de dados TotalSegmentatorV2.</translation>
+        <translation>Baixa resolução (3mm) para a visualização rápida. Treinado em class_map_part_cardiac do conjunto de dados TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="47"/>
@@ -736,7 +736,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation>Baixa resolução (3mm) para visualização rápida. Treinado no conjunto de dados TotalSegmentatorV2.</translation>
+        <translation>Baixa resolução (3mm) para a visualização rápida. Treinado no conjunto de dados TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="51"/>
