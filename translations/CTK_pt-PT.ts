@@ -2128,7 +2128,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMPatientModel.cpp" line="862"/>
         <source>Patients</source>
-        <translation>Pacientes</translation>
+        <translation>Utentes</translation>
     </message>
 </context>
 <context>
@@ -2142,7 +2142,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="927"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1198"/>
         <source>Show all patients</source>
-        <translation>Mostrar todos os paciente</translation>
+        <translation>Mostrar todos os utente</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="934"/>
@@ -2972,9 +2972,9 @@ p, li { white-space: pre-wrap; }
         <source>Query and retrieve. If filters are set, a patient query will be sent to the DICOM servers.
 If no filters are set, a study query for the currently selected patient in the local database
 (or the first patient if none is selected) will be sent to the DICOM servers.</source>
-        <translation>Consultar e obter. Se os filtros estão definidos, uma consulta de paciente será enviada para os servidores DICOM.
-Se nenhum filtro está definido, uma consulta de estudo para o paciente atualmente selecionado na base de dados locais
-(ou o primeiro paciente se nenhum for selecionado) será enviado para os servidores DICOM.</translation>
+        <translation>Consultar e obter. Se os filtros estão definidos, uma consulta de utente será enviada para os servidores DICOM.
+Se nenhum filtro está definido, uma consulta de estudo para o utente atualmente selecionado na base de dados locais
+(ou o primeiro utente se nenhum for selecionado) será enviado para os servidores DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="309"/>
@@ -3064,7 +3064,7 @@ Se nenhum filtro está definido, uma consulta de estudo para o paciente atualmen
         <source>No server is configured for query/retrieve operations. The server settings section is below.
 Check also the allowed servers at patient level.</source>
         <translation>Nenhum servidor está configurado para operações de consultar/obter. A secção de definições de servidor encontra-se abaixo.
-Verifique também os servidores permitidos ao nível do paciente.</translation>
+Verifique também os servidores permitidos ao nível do utente.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2481"/>
@@ -3077,43 +3077,43 @@ A secção de definições de servidor encontra-se abaixo.</translation>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2494"/>
         <source>No filters are set and no patients are found in the local database.
 Please specify at least one filter to query the servers.</source>
-        <translation>Nenhum filtro está definido e nenhum paciente foi encontrado na base de dados local.
+        <translation>Nenhum filtro está definido e nenhum utente foi encontrado na base de dados local.
 Por favor especifique pelo menos um filtro para consultar os servidores.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2622"/>
         <source>The patients query provided no results. Please refine your filters in the search section.</source>
-        <translation>A consulta de pacientes não produziu resultados. Por favor refine os seus filtro na secção de pesquisa.</translation>
+        <translation>A consulta de utentes não produziu resultados. Por favor refine os seus filtro na secção de pesquisa.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2996"/>
         <source>Load patient</source>
-        <translation>Carregar paciente</translation>
+        <translation>Carregar utente</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2997"/>
         <source>Load %1 patients</source>
-        <translation>Carregar %1 pacientes</translation>
+        <translation>Carregar %1 utentes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3003"/>
         <source>View %1 patients DICOM metadata</source>
-        <translation>Ver metadados DICOM de %1 pacientes</translation>
+        <translation>Ver metadados DICOM de %1 utentes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3009"/>
         <source>Delete %1 patients from local database</source>
-        <translation>Eliminar %1 pacientes da base de dados local</translation>
+        <translation>Apagar %1 utentes da base de dados local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3016"/>
         <source>Export %1 patients to file system</source>
-        <translation>Exportar %1 pacientes para o sistema de ficheiros</translation>
+        <translation>Exportar %1 utentes para o sistema de ficheiros</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3022"/>
         <source>Send %1 patients to DICOM server</source>
-        <translation>Enviar %1 pacientes para o servidor DICOM</translation>
+        <translation>Enviar %1 utentes para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3114"/>
@@ -4771,7 +4771,7 @@ Verifique as suas permissões.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"/>
         <source>Eager</source>
-        <translation>Entusiasmado</translation>
+        <translation>Rápido</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"/>
@@ -5001,7 +5001,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation>Entusiasmado</translation>
+        <translation>Rápido</translation>
     </message>
 </context>
 <context>
