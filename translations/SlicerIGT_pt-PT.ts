@@ -63,12 +63,12 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio do NI
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation>Se marcada, faça capturas de tela para tutoriais. Use Salvar dados para gravá-los no disco.</translation>
+        <translation>Se marcada, faça capturas de ecrã para tutoriais. Use Gravar dados para gravá-los no disco.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
         <source>Set scale factor for the screen shots.</source>
-        <translation>Defina o fator de escala para as capturas de tela.</translation>
+        <translation>Defina o fator de escala para as capturas de ecrã.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="121"/>
@@ -83,7 +83,7 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio do NI
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
         <source>Mean distance after registration: </source>
-        <translation>Distância média após o registro: </translation>
+        <translation>Distância média após o registo: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="141"/>
@@ -144,22 +144,22 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio do NI
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
         <source>Show 3D Slicer user interface</source>
-        <translation>Mostrar interface de usuário do 3D Slicer</translation>
+        <translation>Mostrar interface de utilizador do 3D Slicer</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
         <source>Show Guidelet in full screen</source>
-        <translation>Mostrar guia em tela cheia</translation>
+        <translation>Mostrar guia em ecrã cheio</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
         <source>Save Guidelet scene</source>
-        <translation>Salvar cena do Guidelet</translation>
+        <translation>Gravar cena do Guidelet</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="216"/>
         <source>Save scene directory:</source>
-        <translation>Salvar diretório de cena:</translation>
+        <translation>Gravar diretório de cena:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
@@ -217,7 +217,7 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio do NI
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="247"/>
         <source>Recording is being started...</source>
-        <translation>A gravação está sendo iniciada...</translation>
+        <translation>A gravação está a ser iniciada...</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
@@ -227,7 +227,7 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio do NI
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
-        <translation>A gravação está sendo interrompida...</translation>
+        <translation>A gravação está a ser interrompida...</translation>
     </message>
 </context>
 <context>
@@ -265,7 +265,7 @@ Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Can
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation>Nota: As transformações pai dos modelos não são usadas. Os modelos devem ser definidos no sistema de coordenadas que está sendo cadastrado.</translation>
+        <translation>Nota: As transformações pai dos modelos não são usadas. Os modelos devem ser definidos no sistema de coordenadas que está a ser cadastrado.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
@@ -310,7 +310,7 @@ Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Can
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
         <source>Mean distance after registration:</source>
-        <translation>Distância média após o registro:</translation>
+        <translation>Distância média após o registo:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="123"/>
@@ -472,8 +472,8 @@ Para mais informações, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sl
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation>Este módulo ajusta o ponto de vista da câmera em um visualizador 3D.
-Visão Bullseye: posicione/oriente a câmera usando uma ferramenta rastreada.
+        <translation>Este módulo ajusta o ponto de vista da câmara num visualizador 3D.
+Visão Bullseye: posicione/oriente a câmara usando uma ferramenta rastreada.
 Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </translation>
     </message>
@@ -539,7 +539,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="141"/>
         <source>Camera Control</source>
-        <translation>Controle da câmara</translation>
+        <translation>Controlo da câmara</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="149"/>
@@ -995,7 +995,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="183"/>
         <source>Markups will have labels that begin with this text.</source>
-        <translation>As marcações terão rótulos que começam com esse texto.</translation>
+        <translation>As marcações terão rótulos que começam com este texto.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="186"/>
@@ -1606,7 +1606,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="79"/>
         <source>Controls</source>
-        <translation>Controles</translation>
+        <translation>Controlos</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="101"/>
@@ -1857,7 +1857,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="668"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="811"/>
         <source>Maximum error allowed within a bucket. All buckets are discarded if this threshold is exceeded</source>
-        <translation>Erro máximo permitido num recipiente. Todos os recipientes serão descartados se esse limite for excedido</translation>
+        <translation>Erro máximo permitido num recipiente. Todos os recipientes serão descartados se este limite for excedido</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="681"/>
@@ -2220,7 +2220,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="424"/>
         <source>The output will be expressed relative to this anchor</source>
-        <translation>A saída será expressa em relação a essa âncora</translation>
+        <translation>A saída será expressa em relação a esta âncora</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="442"/>
@@ -2328,7 +2328,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="105"/>
         <source>Compute the inverse of transform to parent, and store it in another node.</source>
-        <translation>Calcule o inverso da transformação para o pai e armazene-o em outro nó.</translation>
+        <translation>Calcule o inverso da transformação para o pai e armazene-o noutro nó.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="107"/>
@@ -2377,7 +2377,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
         <source>Controls</source>
-        <translation>Controles</translation>
+        <translation>Controlos</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="84"/>
@@ -2888,7 +2888,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="204"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation>Selecione as visualizações nas quais esse nó será exibido. Todas as opções desmarcadas são exibidas em todas as visualizações 3D e 2D.</translation>
+        <translation>Selecione as visualizações nas quais este nó será exibido. Todas as opções desmarcadas são exibidas em todas as visualizações 3D e 2D.</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="211"/>
