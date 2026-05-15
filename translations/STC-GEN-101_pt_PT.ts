@@ -299,14 +299,14 @@ NIH P41EB015902
 
 Chan Zuckerberg Initiative (CZI)</source>
         <extracomment>18_TextBox_1</extracomment>
-        <translation>National Alliance for Medical Image
-Computing
+        <translation>Aliança Nacional para Computação de Imagens Médicas
+
 NIH U54EB005149
 
-Neuroimage Analysis Center
+Centro de Análise de Neuroimagens
 NIH P41EB015902
 
-Chan Zuckerberg Initiative (CZI)</translation>
+Iniciativa Chan Zuckerberg (CZI)</translation>
     </message>
 </context>
 </TS>
