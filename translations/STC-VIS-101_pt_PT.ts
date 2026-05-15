@@ -271,7 +271,7 @@ Visualizador Vermelho para mostrar o menu
 de fatias.
 
 
-Clique no ícone de Link para ligar 
+Clique no ícone de ligação para ligar 
 os controlos de fatia a todas 
 as Vistas de Fatia. 
 
@@ -322,7 +322,7 @@ Visualizador 3D para aumentar e diminuir o zoom</translation>
 3D Viewer to rotate the images</source>
         <extracomment>18_TextBox_0</extracomment>
         <translation>Use o botão esquerdo do rato no 
-Visualizador 3D para rodas as imagens</translation>
+Visualizador 3D para rodar as imagens</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
@@ -439,7 +439,7 @@ Click on the eye icon in the Volume tab to display
 the volume rendered image in the 3D viewer</source>
         <extracomment>24_TextBox_2</extracomment>
         <translation>Selecione a Renderização de VTK GPU Ray Casting
-Clique no ícone do olho na aba de Volume para mostrar 
+Clique no ícone do olho na guia de Volume para mostrar 
 a imagem de volume renderizado no visualizador 3D</translation>
     </message>
     <message>
@@ -560,13 +560,13 @@ Each data set, such as an image volume, surface model, or point set, is represen
 
 All Slicer modules operate on the data stored in a Slicer scene.</source>
         <extracomment>34_TextBox_1</extracomment>
-        <translation>Slicer guarda toda a informação carregada em um repositório chamado cena
+        <translation>Slicer guarda toda a informação carregada num repositório chamado cena
 
 
 Em cada conjunto de dados, como um volume de imagem, modelo de superfície, ou conjunto de pontos, é representado como um nó numa cena do Slicer.
 
 
-Todos os módulos do Slicer operam sobre os dados armazenados em uma cena Slicer.</translation>
+Todos os módulos do Slicer operam sobre os dados armazenados numa cena Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="150"/>
@@ -646,7 +646,7 @@ the visibility slider</source>
         <extracomment>39_ArrowText_0</extracomment>
         <translation>Diminua a opacidade do 
 modelo de Pele usando 
-o controle deslizante de visibilidade</translation>
+o controlo deslizante de visibilidade</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="170"/>
