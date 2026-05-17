@@ -16,7 +16,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="30"/>
         <source>Input abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abdomen, göğüs veya tüm vücut BT giriniz.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="51"/>
@@ -26,7 +26,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="58"/>
         <source>Choose &quot;total&quot; for segmenting all structures, or any of the more specialized segmentation tasks (that segment only a handful of specific structures in a certain region).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm yapıları segmente etmek için &apos;total&apos; seçeneğini veya sadece belirli bir bölgedeki birkaç özel yapıyı segmentleyen daha özel segmentasyon görevlerinden herhangi birini seçin.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="109"/>
@@ -36,22 +36,22 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="115"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentasyon:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="122"/>
         <source>This will store the segmentation result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu işlem, segmentasyon sonucunu kaydedecektir.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="148"/>
         <source>Create new segmentation on Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygula (Apply) tıklandığında yeni segmentasyon oluştur</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="164"/>
         <source>Start segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentasyon başlat.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="167"/>
@@ -66,32 +66,32 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="186"/>
         <source>Use standard segment names:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart segment adlarını kullan:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="193"/>
         <source>If enabled (default) then segment names are obtained from Slicer standard terminology files. If disabled then TotalSegmentator identifiers are used as segment names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkinleştirilirse (varsayılan), segment adları Slicer standart terminoloji dosyalarından alınır. Devre dışı bırakılırsa, segment adı olarak TotalSegmentator tanımlayıcıları kullanılır.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="206"/>
         <source>Force to use CPU: </source>
-        <translation type="unfinished"></translation>
+        <translation>İşlemci kullanmaya zorla: </translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="213"/>
         <source>Use CPU, even if GPU is available. Useful if the GPU does not have enough memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran kartı mevcut olsa bilen işlemciyi kullan. Ekran kartı belleğinin yetersiz olduğu durumlar için elverişlidir.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
         <source>Robust cropping:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gelişmiş kırpma:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="230"/>
         <source>Use 3mm model for cropping instead of default 6mm. More robust but slightly slower.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kırpma işlemi için varsayılan 6mm model yerine 3mm modeli kullanın. Daha kararlıdır ancak biraz daha yavaştır.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
@@ -101,92 +101,92 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="247"/>
         <source>Remove small disconnected regions (less than 0.2 ml) from final segmentations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nihai segmentasyonlardan küçük ve bağlantısız bölgeleri (0.2 ml&apos;den küçük) kaldırın.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="257"/>
         <source>Higher-order resampling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüksek dereceli yeniden örnekleme:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="264"/>
         <source>Use higher order resampling for segmentations. Smoother results but more runtime and memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentasyonlar için yüksek dereceli yeniden örnekleme kullanın. Daha pürüzsüz sonuçlar verir, ancak daha fazla çalışma süresi ve bellek gerektirir.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="274"/>
         <source>TotalSegmentator Python package:</source>
-        <translation type="unfinished"></translation>
+        <translation>TotalSegmentator Python paketi:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="281"/>
         <source>Force upgrade of TotalSegmentator Python package to the version required by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>TotalSegmentator Python paketini, bu modülün gerektirdiği sürüme yükseltmeye zorla.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="284"/>
         <source>Force reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniden yüklemeye zorla</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="291"/>
         <source>TotalSegmentator license: </source>
-        <translation type="unfinished"></translation>
+        <translation>TotalSegmentator lisansı: </translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="308"/>
         <source>Get metadata information for the TotalSegmentator package currently installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Şu anda yüklü olan TotalSegmentator paketinin metadata bilgilerini al</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="311"/>
         <source>Get TotalSegmentator package information</source>
-        <translation type="unfinished"></translation>
+        <translation>TotalSegmentator paket bilgilerini al</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="298"/>
         <source>Set or update TotalSegmentator license key to allow running tasks that require a license. The registration has to be done only once, the license information is stored persistently in the TotalSegmentation configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans gerektiren görevlerin çalıştırılmasına izin vermek için TotalSegmentator lisans anahtarını ayarlayın veya güncelleyin. Kayıt işleminin yalnızca bir kez yapılması yeterlidir; lisans bilgileri TotalSegmentation yapılandırmasında kalıcı olarak saklanır.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="65"/>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hız:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="74"/>
         <source>Full resolution output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam çözünürlüklü çıktı.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="77"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="84"/>
         <source>Enable fast option to get less accurate results, faster (3mm resolution).</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha hızlı fakat daha düşük hassasiyetli sonuçlar için hızlı seçeneğini aktifleştir (3mm çözünürlük).</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="87"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="94"/>
         <source>Enable faster option for very low resolution (6mm) but very fast results. Only available for total and total_mr tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Çok düşük çözünürlüklü (6mm) fakat çok hızlı sonuçlar için &apos;daha hızlı&apos; seçeneğini etkinleştirin. Yalnızca total ve total_mr görevleri için kullanılabilir.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="97"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha Hızlı</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="301"/>
         <source>Set license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans anahtarını ayarla</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="26"/>
@@ -221,12 +221,12 @@ https://arxiv.org/abs/2208.05868
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="247"/>
         <source>Start segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentasyon başlat</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="250"/>
         <source>Select input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Girdi hacmini seçin</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="254"/>
@@ -236,19 +236,21 @@ https://arxiv.org/abs/2208.05868
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="310"/>
         <source>The input volume you provided are part of a sequence. Do you want to segment all frames of that sequence?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağladığınız girdi hacmi bir sekansın parçasıdır. Bu sekansın tüm karelerini segmentlere ayırmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="321"/>
         <source>Failed to install Python dependencies:
 {exception}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Python bağımlılıkları kurulamadı:
+{exception}
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="326"/>
         <source>Application restart required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulamanın yeniden başlatılması gerekiyor.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="328"/>
