@@ -21,7 +21,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="51"/>
         <source>Segmentation task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentasyon görevi</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="58"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="109"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Çıktılar-Sonuçlar</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="115"/>
@@ -56,12 +56,12 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygula</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="177"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>İleri Seviye</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="186"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
         <source>Remove small blobs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Küçük lekeleri kaldır:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="247"/>
