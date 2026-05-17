@@ -28,7 +28,7 @@ ve Steve Pieper, Isomics, Inc. tarafından geliştirilmiş olup, kısmen NIH gra
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
         <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not: Yer işaretlerinin (fiducial) üst dönüşümleri (parent transforms) kullanılmaz. Yer işaretleri, çakıştırılmakta (register) olan koordinat sisteminde tanımlanmalıdır.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
