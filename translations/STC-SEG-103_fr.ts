@@ -128,7 +128,9 @@ Multiple pathologies (tumor, hemorrhage, edema).</source>
         <extracomment>6_TextBox_1</extracomment>
         <translation>Support de multiples modalités (CT, IRM).
 
+
 Anatomies multiples (tête, thorax, abdomen, pelvis, etc.).
+
 
 Pathologies multiples (tumeur, hémorragie, œdème).</translation>
     </message>
