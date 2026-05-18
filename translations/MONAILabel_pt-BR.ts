@@ -170,12 +170,12 @@ Desenvolvido por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="197"/>
         <source>Enable this option to include dicom files in server-client data exchange</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilite esta opção para incluir arquivos dicom na troca de dados entre servidor e cliente</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="200"/>
         <source>Include DICOM files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir arquivos DICOM:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="215"/>
@@ -282,7 +282,7 @@ Tem certeza de que deseja continuar?</translation>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1123"/>
         <source>Please upgrade the monai server to latest version</source>
-        <translation>Atualize o servidor MONAI para a versão mais recente</translation>
+        <translation>Por favor, atualize o servidor monai para a versão mais recente</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1130"/>
@@ -394,7 +394,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <translation>Erro do servidor: Falha na criação da sessão
-Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
+Atualize para a versão mais recente do monailabel (&gt; 0.2.0)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1504"/>
@@ -591,7 +591,7 @@ Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="410"/>
         <source>SmartEdit</source>
         <oldsource>SmartEdit / Deepgrow</oldsource>
-        <translation>SmartEdit</translation>
+        <translation>Inteligente</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="446"/>
@@ -1036,7 +1036,7 @@ Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="383"/>
         <source>Server Url</source>
-        <translation>URL do servidor</translation>
+        <translation>Url do Servidor</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="400"/>
