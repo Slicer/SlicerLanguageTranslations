@@ -199,7 +199,10 @@
 3D Slicer extension for fully automatic whole body CT segmentation using &quot;TotalSegmentator&quot; AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&quot;TotalSegmentator&quot; yapay zeka modelini kullanarak tam otomatik tüm vücut BT segmentasyonu sağlayan 3D Slicer eklentisi.
+Daha fazla bilgi için &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;extension documentation&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="34"/>
