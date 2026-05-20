@@ -19960,17 +19960,17 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="67"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished">Composição com sombreado</translation>
+        <translation>Composição Com Sombreado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished">Projeção de intensidade máxima</translation>
+        <translation>Projeção de Intensidade Máxima</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished">Projeção de intensidade mínima</translation>
+        <translation>Projeção de Intensidade Mínima</translation>
     </message>
 </context>
 <context>
@@ -19983,7 +19983,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="85"/>
         <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</translation>
+        <translation>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;Este trabalho é suportado por NA-MIC, NAC, BIRN, NCIGT, e a Comunidade Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.h" line="48"/>
@@ -20029,7 +20029,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="180"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Este trabalho contou com o apoio da NA-MIC, da NAC, da BIRN, da NCIGT e da Comunidade Slicer.</translation>
+        <translation>Este trabalho contou com o apoio da NA-MIC, da NAC, da BIRN, da NCIGT e da Comunidade Slicer.</translation>
     </message>
 </context>
 <context>
@@ -20042,7 +20042,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
         <source>Color legend</source>
-        <translation type="unfinished">Legenda de cores</translation>
+        <translation>Legenda de cores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
@@ -20052,7 +20052,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="153"/>
         <source>Duplicate the current color node to allow editing colors, scalar range, size.</source>
-        <translation type="unfinished">Duplicate the current color node to allow editing colors, scalar range, size.</translation>
+        <translation>Duplicar o nó de cor atual para permitir edição de cores, intervalo de escalar, tamanho.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
@@ -20062,7 +20062,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="75"/>
         <source>Create color legend for the selected displayable node.</source>
-        <translation type="unfinished">Create color legend for the selected displayable node.</translation>
+        <translation>Criar legenda de cor para o tipo de nó exibível.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="78"/>
@@ -20072,17 +20072,17 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="85"/>
         <source>Use the currently selected colors for the selected displayable node.</source>
-        <translation type="unfinished">Use the currently selected colors for the selected displayable node.</translation>
+        <translation>Usar as cores atualmente selecionadas para o tipo de nó exibível selecionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="88"/>
         <source>Use current colors</source>
-        <translation type="unfinished">Use current colors</translation>
+        <translation>Usar cores atuais</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="95"/>
         <source>Delete the color legend for the selected displayable node.</source>
-        <translation type="unfinished">Delete the color legend for the selected displayable node.</translation>
+        <translation>Eliminar a legenda de cor para o tipo de nó exibível selecionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="98"/>
@@ -20097,39 +20097,39 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="163"/>
         <source>Add new empty color table node.</source>
-        <translation type="unfinished">Adicionar um novo nó de tabela de cores vazio.</translation>
+        <translation>Adicionar um novo nó de tabela de cores vazio.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
         <source>Color table</source>
         <oldsource>Color Table</oldsource>
-        <translation type="unfinished">Color Table</translation>
+        <translation>Tabela de Cores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
         <source>Number of colors: </source>
         <oldsource>Number of Colors: </oldsource>
-        <translation type="unfinished">Number of Colors: </translation>
+        <translation>Número de cores: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
         <source>Hide empty colors: </source>
-        <translation type="unfinished">Ocultar cores vazias: </translation>
+        <translation>Ocultar cores vazias: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="323"/>
         <source>Add new color to color table</source>
-        <translation type="unfinished">Adicionar nova cor à tabela de cores</translation>
+        <translation>Adicionar nova cor à tabela de cores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="333"/>
         <source>Delete currently selected color</source>
-        <translation type="unfinished">Apagar a cor atualmente selecionada</translation>
+        <translation>Apagar a cor atualmente selecionada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
         <source>Show/Hide the unnamed color entries in the list below.</source>
-        <translation type="unfinished">Show/Hide the unnamed color entries in the list below.</translation>
+        <translation>Mostrar/Esconder as entradas de cor sem nome na lista abaixo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="266"/>
@@ -20139,7 +20139,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="276"/>
         <source>The range of scalars that are mapped to the full range of colors.</source>
-        <translation type="unfinished">The range of scalars that are mapped to the full range of colors.</translation>
+        <translation>O intervalo de escalares que são mapeados para o intervalo inteiro de cores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="215"/>
@@ -20163,17 +20163,17 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="893"/>
         <source>Failed to create %1 directory</source>
-        <translation type="unfinished">Failed to create %1 directory</translation>
+        <translation>Falha ao criar o diretório %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1911"/>
         <source>Built on top of:</source>
-        <translation type="unfinished">Desenvolvido com base em:</translation>
+        <translation>Desenvolvido com base em:</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1930"/>
         <source>Licensing Information</source>
-        <translation type="unfinished">Informações sobre licenças</translation>
+        <translation>Informação de Licenciamento</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1931"/>
@@ -20197,54 +20197,54 @@ Capacidades gráficas deste computador:
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="653"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished">A carregar %1</translation>
+        <translation>A carregar %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="687"/>
         <source>%1 load failed.</source>
-        <translation type="unfinished">%1 load failed.</translation>
+        <translation>Falha ao carregar %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="857"/>
         <source>No writer found to write file %1 of type %2.</source>
-        <translation type="unfinished">Não foi encontrado nenhum escritor para gravar o ficheiro %1 do tipo %2.</translation>
+        <translation>Não foi encontrado nenhum escritor para gravar o ficheiro %1 do tipo %2.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="871"/>
         <source>Unable to create directory &apos;%1&apos;</source>
-        <translation type="unfinished">Não foi possível criar o diretório «%1»</translation>
+        <translation>Não foi possível criar o diretório &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="903"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
-        <translation type="unfinished">Falha ao guardar com todos os gravadores encontrados para o ficheiro «%1» do tipo «%2».</translation>
+        <translation>Falha ao guardar com todos os gravadores encontrados para o ficheiro &apos;%1&apos; do tipo &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="916"/>
         <source>No nodes were saved in the scene</source>
-        <translation type="unfinished">Não foram guardados nós na cena</translation>
+        <translation>Não foram guardados nós na cena</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="982"/>
         <source>Unable to find a storable node with ID %1</source>
-        <translation type="unfinished">Unable to find a storable node with ID %1</translation>
+        <translation>Não foi possível encontrar um nó armazenável com o ID %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="993"/>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1026"/>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1078"/>
         <source>Error encountered while exporting %1.</source>
-        <translation type="unfinished">Error encountered while exporting %1.</translation>
+        <translation>Erro encontrado ao exportar %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1050"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
-        <translation type="unfinished">Não foi possível criar o nó de armazenamento predefinido para %1 na cena temporária.</translation>
+        <translation>Não foi possível criar o nó de armazenamento predefinido para %1 na cena temporária.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1069"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
-        <translation type="unfinished">Não foi possível guardar as propriedades de visualização para %1 na cena temporária.</translation>
+        <translation>Não foi possível guardar as propriedades de visualização para %1 na cena temporária.</translation>
     </message>
 </context>
 <context>
@@ -20252,7 +20252,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="22"/>
         <source>Crop Volume</source>
-        <translation type="unfinished">Crop Volume</translation>
+        <translation>Recortar Volume</translation>
     </message>
 </context>
 <context>
@@ -20286,12 +20286,12 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
         <source>Crop Volume ROI</source>
-        <translation type="unfinished">Crop Volume ROI</translation>
+        <translation>ROI de Recorte de Volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="196"/>
         <source>Select region of interest</source>
-        <translation type="unfinished">Select region of interest</translation>
+        <translation>Selecionar região de interesse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="214"/>
@@ -20301,7 +20301,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="232"/>
         <source>Fit to Volume</source>
-        <translation type="unfinished">Fit to Volume</translation>
+        <translation>Encaixar ao Volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="245"/>
@@ -20317,12 +20317,12 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="276"/>
         <source>Create new volume</source>
-        <translation type="unfinished">Create new volume</translation>
+        <translation>Criar novo volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="283"/>
         <source>Reorient volume</source>
-        <translation type="unfinished">Reorientar o volume</translation>
+        <translation>Reorientar o volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
@@ -20347,13 +20347,13 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="394"/>
         <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
-        <translation type="unfinished">Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</translation>
+        <translation>Interpolar e almofadar o volume de entrada para fazer a imagem de saída ter o mesmo tamanho que o ROI, com o espaçamento especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="410"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="420"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-        <translation type="unfinished">The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</translation>
+        <translation>O espaçamento de voxels no volume de saída serão escalonados por este valor. Valores maiores que 1.0 farão com que o volume recortado tenha uma resolução menor que o volume de entrada. Valores mais pequenos que 1.0 farão com que o volume recortado tenha uma resolução maior que o volume de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="413"/>
@@ -20373,27 +20373,27 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="756"/>
         <source>Align to volume axes + Resize</source>
-        <translation type="unfinished">Alinhar aos eixos de volume + Redimensionar</translation>
+        <translation>Alinhar aos eixos de volume + Redimensionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="759"/>
         <source>Set axes of the ROI box to match the volume axes</source>
-        <translation type="unfinished">Defina os eixos da caixa da área de interesse (ROI) de modo a corresponderem aos eixos do volume</translation>
+        <translation>Defina os eixos da caixa da ROI de modo a corresponderem aos eixos do volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="767"/>
         <source>Align to world axes + Resize</source>
-        <translation type="unfinished">Alinhar aos eixos globais + Redimensionar</translation>
+        <translation>Alinhar aos eixos globais + Redimensionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="770"/>
         <source>Set axes of the ROI box to match the world coordinate system axes</source>
-        <translation type="unfinished">Defina os eixos da caixa da área de interesse (ROI) de modo a corresponderem aos eixos do sistema de coordenadas global</translation>
+        <translation>Defina os eixos da caixa da ROI de modo a corresponderem aos eixos do sistema de coordenadas global</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="778"/>
         <source>Resize only</source>
-        <translation type="unfinished">Apenas redimensionar</translation>
+        <translation>Apenas redimensionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="781"/>
