@@ -136,32 +136,32 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="176"/>
         <source>Open</source>
-        <translation type="unfinished">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="177"/>
         <source>Save</source>
-        <translation type="unfinished">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="179"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="180"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="181"/>
         <source>Copy</source>
-        <translation type="unfinished">拷贝</translation>
+        <translation>拷贝</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="189"/>
         <source>Select</source>
-        <translation type="unfinished">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="192"/>
