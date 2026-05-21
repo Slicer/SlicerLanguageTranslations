@@ -191,7 +191,7 @@
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="26"/>
         <source>Total Segmentator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toplam Segmentatör</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="30"/>
@@ -214,12 +214,19 @@ Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Seger
 TotalSegmentator: robust segmentation of 104 anatomical structures in CT images.
 https://arxiv.org/abs/2208.05868
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Bu dosya ilk olarak Andras Lasso (PerkLab, Queen’s Üniversitesi) tarafından geliştirilmiştir.
+Modül, &lt;a href=&quot;https://github.com/wasserth/TotalSegmentator&quot;&gt;TotalSegmentator&lt;/a&gt;’u kullanmaktadır.
+Araştırmanızda bu yazılımın TotalSegmentator nn-Unet işlevini kullanırsanız, lütfen şu kaynağı belirtiniz:
+Wasserthal J., Meyer M., Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.:
+TotalSegmentator: CT görüntülerinde 104 anatomik yapının sağlam segmentasyonu.
+https://arxiv.org/abs/2208.05868
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="94"/>
         <source>{task_title} [license required]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{task_title} [lisans gereklidir]</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="247"/>
@@ -234,7 +241,7 @@ https://arxiv.org/abs/2208.05868
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="254"/>
         <source>{volume_name} segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{volume_name} bölümleme</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="310"/>
@@ -259,231 +266,236 @@ https://arxiv.org/abs/2208.05868
         <location filename="TotalSegmentator/TotalSegmentator.py" line="328"/>
         <source>Application is required to complete installation of required Python packages.
 Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gerekli Python paketlerinin kurulumunu tamamlamak için uygulama gereklidir.
+Yeniden başlatmak için Tamam'a basın.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="329"/>
         <source>Confirm application restart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uygulamanın yeniden başlatılmasını onayla</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="336"/>
         <source>Failed to install required packages.
 
 {exception}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gerekli paketler yüklenemedi.
+
+{exception}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="339"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sonuçlar hesaplanamadı.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="362"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İşlem tamamlandı.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="366"/>
         <source>Failed to get TotalSegmentator package version information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TotalSegmentator paketinin sürüm bilgisi alınamadı</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="370"/>
         <source>Failed to upgrade TotalSegmentator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TotalSegmentator'ın yükseltilmesi başarısız oldu</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="373"/>
         <source>This TotalSegmentator update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bu TotalSegmentator güncellemesi için 3D Slicer'ın yeniden başlatılması gerekiyor. Yeniden başlatmak için Tamam'a basın.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="374"/>
         <source>Restart was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yeniden başlatma işlemi iptal edildi.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="380"/>
         <source>Set TotalSegmentator license key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TotalSegmentator lisans anahtarını ayarla</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="380"/>
         <source>License key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lisans anahtarı:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="383"/>
         <source>Failed to set TotalSegmentator license.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TotalSegmentator lisansı ayarlanamadı.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="385"/>
         <source>License is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lisans belirtilmemiştir.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="391"/>
         <source>License key is set. You can now use TotalSegmentator tasks that require a license.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lisans anahtarı ayarlandı. Artık lisans gerektiren TotalSegmentator görevlerini kullanabilirsiniz.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="658"/>
         <source>Failed to deserialize terminology string: {terminology_entry_str}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Terminoloji dizesi {terminology_entry_str} serileştirilemedi</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="796"/>
         <source>- Skip {requirement}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- {gereklilik}'i atla</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="798"/>
         <source>- Installing {requirement}...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- {gereksinim} yükleniyor...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="859"/>
         <source>This module requires installation of additional Python packages. Installation needs network connection and may take several minutes. Click OK to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bu modülün kurulumu için ek Python paketlerinin yüklenmesi gerekmektedir. Yükleme işlemi ağ bağlantısı gerektirir ve birkaç dakika sürebilir. Devam etmek için Tamam'a tıklayın.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="860"/>
         <source>Confirm Python package installation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Python paketinin kurulumunu doğrula</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="861"/>
         <source>Python packages that will be installed: {package_list}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yüklenecek Python paketleri: {package_list}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="867"/>
         <source>PyTorch Python package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PyTorch Python paketi gereklidir. Yükleniyor... (birkaç dakika sürebilir)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="881"/>
         <source>nnunetv2 package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nnunetv2 paketi gereklidir. Yükleniyor... (birkaç dakika sürebilir)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="903"/>
         <source>This module requires TotalSegmentator Python package update.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bu modül için TotalSegmentator Python paketinin güncellenmesi gerekmektedir.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="904"/>
         <source>Currently installed: {downloadUrl}
 
 Required: {requiredUrl}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Şu anda yüklü olan: {downloadUrl}
+
+Gerekli olan: {requiredUrl}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="911"/>
         <source>TotalSegmentator Python package is required. Installing it from {downloadUrl}... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TotalSegmentator Python paketi gereklidir. {downloadUrl} adresinden yükleniyor... (birkaç dakika sürebilir)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="923"/>
         <source>TotalSegmentator installation completed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TotalSegmentator kurulumu başarıyla tamamlandı.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="986"/>
         <source>Setting license...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lisans ayarlanıyor...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1006"/>
         <source>License has been successfully set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lisans başarıyla kuruldu.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1008"/>
         <source>This license update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bu lisans güncellemesi için 3D Slicer'ın yeniden başlatılması gerekiyor. Yeniden başlatmak için Tamam'a basın.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1045"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İşleme başladı</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1072"/>
         <source>No GPU is detected. Switch to &apos;fast&apos; mode to get low-resolution result in a few minutes or compute full-resolution result which may take 5 to 50 minutes (depending on computer configuration)?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GPU algılanmadı. Birkaç dakika içinde düşük çözünürlüklü sonuç almak için “hızlı” moduna geçin ya da 5 ila 50 dakika sürebilen (bilgisayarın donanımına bağlı olarak) tam çözünürlüklü sonucu hesaplayın.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1073"/>
         <source>Fast (~2 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hızlı (~2 dakika)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1074"/>
         <source>Full-resolution (~5 to 50 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tam çözünürlükte (~5 ila 50 dakika)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1083"/>
         <source>You have less than 7 GB of GPU memory available. Enable &apos;fast&apos; mode to ensure segmentation can be completed successfully?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kullanılabilir GPU belleğiniz 7 GB&apos;den az. Segmentasyonun başarıyla tamamlanabilmesi için „hızlı“ modu etkinleştirmek ister misiniz?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1131"/>
         <source>Processing completed in {time_elapsed:.2f} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İşlem {time_elapsed:.2f} saniye içinde tamamlandı</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1134"/>
         <source>Cleaning up temporary folder...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geçici klasör temizleniyor...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1139"/>
         <source>Not cleaning up temporary folder: {temp_folder}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geçici klasör temizlenmiyor: {temp_folder}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1147"/>
         <source>Writing input file to {input_file}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Giriş dosyasını {input_file} dosyasına yazılıyor</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1207"/>
         <source>Creating segmentations with TotalSegmentator AI...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TotalSegmentator AI ile segmentasyonlar oluşturma...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1208"/>
         <source>Total Segmentator arguments: {options}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toplam Segmentator argümanları: {seçenekler}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1213"/>
         <source>Importing segmentation results...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentasyon sonuçları yükleniyor...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1257"/>
         <source>Importing candidate {segment_name}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{segment_name} adındaki adayı içe aktarıyor</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1260"/>
         <source>Path {segment_name} not exists.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{segment_name} yolu mevcut değil.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1270"/>
         <source>Importing subset {segment_name}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{segment_name} alt kümesini içe aktarıyor</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1277"/>
         <source>{segment_name} not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{segment_name} bulunamadı.</translation>
     </message>
 </context>
 <context>
@@ -491,7 +503,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="27"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentasyon</translation>
     </message>
 </context>
 </TS>
