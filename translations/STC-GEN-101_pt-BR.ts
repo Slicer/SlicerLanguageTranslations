@@ -63,9 +63,9 @@ Faculdade de Medicina de Harvard
         <location filename="text_dict_default.json" line="24"/>
         <source>3D Slicer 5 version 5.10.0 includes over 100 modules and more than 190 extensions for image segmentation, registration and 3D visualization of medical imaging data.</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="finished">*Slicer é um software de código aberto para segmentação, registro e visualização de dados de imagens médicas. 
+        <translation>*Slicer é um software de código aberto para segmentação, registro e visualização de dados de imagens médicas. 
 *A plataforma foi desenvolvida por meio de um esforço multi-institucional, com vários consórcios de grande escala financiados pelo NIH.
-*O Slicer destina-se exclusivamente à pesquisa médica e não possui aprovação da FDA. </translation>
+*O Slicer destina-se exclusivamente à pesquisa médica e não possui aprovação da FDA.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -79,7 +79,9 @@ Faculdade de Medicina de Harvard
 
 *Slicer requires a minimum of 2 GB of RAM and a dedicated graphic accelerator with 64 MB of on-board graphic memory. </source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="finished">O 3D Slicer 5 versão 5.10.0 inclui mais de 100 módulos e mais de 190 extensões para segmentação de imagens, registro e visualização 3D de dados de imagens médicas.</translation>
+        <translation>*O Slicer é um software multiplataforma desenvolvido e mantido para Mac OSX, Linux e Windows.
+
+*O Slicer requer no mínimo 2 GB de RAM e uma placa de vídeo dedicada com 64 MB de memória gráfica integrada. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -112,7 +114,7 @@ Click on the arrow symbol to display the content of each tab. </source>
         <location filename="text_dict_default.json" line="38"/>
         <source>3D viewer</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="finished">Cada módulo do Slicer inclui uma série de abas que dão acesso a diferentes funcionalidades. Clique no símbolo de seta para exibir o conteúdo de cada aba. </translation>
+        <translation>Cada módulo do Slicer inclui uma série de abas que dão acesso a diferentes funcionalidades. Clique no símbolo de seta para exibir o conteúdo de cada aba.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
