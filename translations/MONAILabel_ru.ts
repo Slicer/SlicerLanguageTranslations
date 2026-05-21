@@ -25,7 +25,7 @@
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="42"/>
         <source>MONAILabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MONAILabel</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="46"/>
