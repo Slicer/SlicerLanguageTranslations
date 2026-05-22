@@ -14713,7 +14713,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="79"/>
         <source>Enter a title for the chart.</source>
-        <translation>Introduza um título para o gráfico</translation>
+        <translation>Introduza um título para o gráfico.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="95"/>
@@ -15811,7 +15811,7 @@ Consulte o módulo Segmentações para obter mais detalhes.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="294"/>
         <source>Representation that is shown in the 2D slice views</source>
-        <translation>Representação que é mostrada nas vistas de fatia 2D.</translation>
+        <translation>Representação que é mostrada nas vistas de fatia 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="106"/>
@@ -18961,7 +18961,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
         <source>Window/Level Presets:</source>
-        <translation>Predefinições de Janela/Nível</translation>
+        <translation>Predefinições de Janela/Nível:</translation>
     </message>
 </context>
 <context>
@@ -20398,13 +20398,13 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="781"/>
         <source>Do not change ROI box orientation</source>
-        <translation type="unfinished">Não altere a orientação da caixa de ROI</translation>
+        <translation>Não alterar a orientação da caixa de ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="458"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="488"/>
         <source>High quality, slow</source>
-        <translation type="unfinished">High quality, slow</translation>
+        <translation>Alta qualidade, lento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="461"/>
@@ -20414,7 +20414,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="468"/>
         <source>Low quality, fastest</source>
-        <translation type="unfinished">Low quality, fastest</translation>
+        <translation>Qualidade baixa, o mais rápido</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="471"/>
@@ -20424,7 +20424,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="478"/>
         <source>Medium quality, medium speed</source>
-        <translation type="unfinished">Medium quality, medium speed</translation>
+        <translation>Qualidade média, velocidade média</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="481"/>
@@ -20444,7 +20444,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="365"/>
         <source>Voxel values outside the input volume will be filled with this value</source>
-        <translation type="unfinished">Voxel values outside the input volume will be filled with this value</translation>
+        <translation>Valores de voxels fora do volume de entrada serão preenchidos com este valor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="509"/>
@@ -20460,7 +20460,7 @@ Capacidades gráficas deste computador:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="542"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="621"/>
         <source>Output volume dimension after cropping</source>
-        <translation type="unfinished">Output volume dimension after cropping</translation>
+        <translation>Dimensão do volume de saída após recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="554"/>
@@ -20474,7 +20474,7 @@ Capacidades gráficas deste computador:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="567"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="646"/>
         <source>Output volume spacing after cropping</source>
-        <translation type="unfinished">Output volume spacing after cropping</translation>
+        <translation>Espaçamento do volume de saída após recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="595"/>
@@ -20502,47 +20502,47 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="94"/>
         <source>Select or create a new parameter node.</source>
-        <translation type="unfinished">Select or create a new parameter node.</translation>
+        <translation>Selecionar ou criar um novo nó de parâmetro.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="105"/>
         <source>Select an input volume.</source>
-        <translation type="unfinished">Select an input volume.</translation>
+        <translation>Selecionar um volume de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="112"/>
         <source>Output volume type does not match input volume type.</source>
-        <translation type="unfinished">Output volume type does not match input volume type.</translation>
+        <translation>Tipo de volume de saída não corresponde ao tipo de volume de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="135"/>
         <source>Input ROI is under a non-linear transform.</source>
-        <translation type="unfinished">O ROI de entrada está sujeito a uma transformação não linear.</translation>
+        <translation>O ROI de entrada está sujeito a uma transformação não linear.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="148"/>
         <source>Output volume is under a non-linear transform.</source>
-        <translation type="unfinished">O volume de saída está sujeito a uma transformação não linear.</translation>
+        <translation>O volume de saída está sujeito a uma transformação não linear.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="159"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
-        <translation type="unfinished">A interpolação está desativada e o volume de entrada está sujeito a uma transformação não linear</translation>
+        <translation>A interpolação está desativada e o volume de entrada está sujeito a uma transformação não linear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="246"/>
         <source>ROI fit mode</source>
-        <translation type="unfinished">ROI em modo fitness</translation>
+        <translation>ROI em modo de encaixe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
         <source>Select or create a new input ROI.</source>
-        <translation type="unfinished">Select or create a new input ROI.</translation>
+        <translation>Selecionar ou criar uma nova entrada ROI.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="165"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-        <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+        <translation>Interpolação está desativada e a ROI de entrada não está alinhada com os eixos do volume de entrada.</translation>
     </message>
 </context>
 <context>
@@ -20555,44 +20555,44 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="82"/>
         <source>1. Select node</source>
-        <translation type="unfinished">1. Select node</translation>
+        <translation>1. Selecionar nó</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="125"/>
         <source>2. Select export type</source>
-        <translation type="unfinished">2. Select export type</translation>
+        <translation>2. Selecionar tipo de exporte</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="168"/>
         <source>3. Edit DICOM tags</source>
-        <translation type="unfinished">3. Edit DICOM tags</translation>
+        <translation>3. Editar etiquetas DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="199"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished">If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</translation>
+        <translation>Se estiver marcado, as etiquetas manualmente editadas serão guardadas na cena, preservadas para a próxima exportação. Se não estiver marcado, mudanças temporárias podem ser feitas, apenas para este tipo de operação de exportação.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="202"/>
         <source>Save modified tags</source>
-        <translation type="unfinished">Save modified tags</translation>
+        <translation>Guardar etiquetas modificadas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation type="unfinished">If checked, the exported DICOM files will be written into the specified folder.
-If unchecked, the exported dataset will be added to the DICOM database.</translation>
+        <translation>Se estiver verificado, os ficheiros DICOM exportados serão escritos na pasta especificada.
+Se não estiver verificado, o conjunto de dados exportados serão adicionados à base de dados DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
         <source>Export to folder:</source>
-        <translation type="unfinished">Export to folder:</translation>
+        <translation>Exportar para pasta:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation type="unfinished">Exported DICOM files into this folder instead of the application&apos;s DICOM database.</translation>
+        <translation>Exportar ficheiros DICOM para esta pasta em vez da base de dados DICOM da aplicação.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
@@ -20607,12 +20607,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="461"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished">DICOM dataset successfully exported to </translation>
+        <translation>Conjunto de dados DICOM exportado com sucesso para </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="464"/>
         <source>the DICOM database</source>
-        <translation type="unfinished">the DICOM database</translation>
+        <translation>a base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="470"/>
@@ -20625,7 +20625,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="14"/>
         <source>Diffusion Tensor Volume Slice Display</source>
-        <translation type="unfinished">Diffusion Tensor Volume Slice Display</translation>
+        <translation>Exibição de Volume de Difusor de Tensor de Fatia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
@@ -20645,7 +20645,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
         <source>Color by Scalar:</source>
-        <translation type="unfinished">Color by Scalar:</translation>
+        <translation>Cor por Escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
@@ -20709,7 +20709,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
         <source>Manual or Auto scalar range</source>
-        <translation type="unfinished">Manual or Auto scalar range</translation>
+        <translation>Intervalo escalar Manual ou Automático</translation>
     </message>
 </context>
 <context>
@@ -20717,17 +20717,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
         <source>Add data into the scene</source>
-        <translation type="unfinished">Add data into the scene</translation>
+        <translation>Adicionar dados à cena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
         <source>Choose Directory to Add</source>
-        <translation type="unfinished">Choose Directory to Add</translation>
+        <translation>Escolher Diretório a Adicionar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="27"/>
         <source>Choose File(s) to Add</source>
-        <translation type="unfinished">Choose File(s) to Add</translation>
+        <translation>Escolher Ficheiro(s) a Adicionar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="78"/>
@@ -20765,7 +20765,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="485"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
-        <translation type="unfinished">The selected file is a .zip archive, open it and load contents?</translation>
+        <translation>O ficheiro selecionado é um arquivo .zip, abrir e carregar conteúdos?</translation>
     </message>
 </context>
 <context>
@@ -20779,7 +20779,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="152"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
-        <translation type="unfinished">Este trabalho contou com o apoio da NA-MIC, da NAC, da BIRN, da NCIGT, da CTSC e da Comunidade Slicer.</translation>
+        <translation>Este trabalho contou com o apoio da NA-MIC, da NAC, da BIRN, da NCIGT, da CTSC e da Comunidade Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
@@ -20802,7 +20802,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
         <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-        <translation type="unfinished">A case sensitive string to filter nodes, uses all the columns (even if hidden)</translation>
+        <translation>Uma string que distingue minúsculas e maiúsculas para filtrar nós, usa todas as colunas (mesmo as escondidas)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
@@ -20819,18 +20819,18 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
         <source>Show MRML ID&apos;s</source>
-        <translation type="unfinished">Show MRML ID&apos;s</translation>
+        <translation>Mostrar ID&apos;s MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
         <source>Subject hierarchy item information</source>
-        <translation type="unfinished">Subject hierarchy item information</translation>
+        <translation>Informação do item de hierarquia do sujeito</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="439"/>
         <source>No item selected</source>
-        <translation type="unfinished">No item selected</translation>
+        <translation>Nenhum item selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
@@ -20841,7 +20841,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
         <source>Show hidden nodes</source>
-        <translation type="unfinished">Show hidden nodes</translation>
+        <translation>Mostrar nós escondidos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
@@ -20851,7 +20851,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
         <source>MRML node information</source>
-        <translation type="unfinished">MRML node information</translation>
+        <translation>Informação de nó MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="195"/>
@@ -20881,7 +20881,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="14"/>
         <source>Tensor Display Properties</source>
-        <translation type="unfinished">Tensor Display Properties</translation>
+        <translation>Propriedades de Exibição de Tensor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
@@ -20896,7 +20896,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation type="unfinished">Glyphs on Slices Display</translation>
+        <translation>Exibir Glifos em Fatias</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
@@ -20924,7 +20924,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="14"/>
         <source>DWI Display Properties</source>
-        <translation type="unfinished">DWI Display Properties</translation>
+        <translation>Propriedades de Exibição DWI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
@@ -20942,7 +20942,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
         <source>Report bugs and request enhancements</source>
-        <translation type="unfinished">Report bugs and request enhancements</translation>
+        <translation>Comunicar erros e pedir melhorias</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
@@ -20952,22 +20952,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
         <source>Recent log files:</source>
-        <translation type="unfinished">Recent log files:</translation>
+        <translation>Ficheiros de registo recentes:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
         <source>Copy log to clipboard</source>
-        <translation type="unfinished">Copiar o registo para a área de transferência</translation>
+        <translation>Copiar o registo para a área de transferência</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="83"/>
         <source>Open log in editor</source>
-        <translation type="unfinished">Abrir o registo no editor</translation>
+        <translation>Abrir o registo no editor</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
         <source>Open log location</source>
-        <translation type="unfinished">Abrir localização do registo</translation>
+        <translation>Abrir localização do registo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="103"/>
@@ -20977,7 +20977,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="135"/>
         <source>Log file content:</source>
-        <translation type="unfinished">Log file content:</translation>
+        <translation>Conteúdo do ficheiro de registo:</translation>
     </message>
 </context>
 <context>
@@ -20985,17 +20985,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="62"/>
         <source>Profiling tool for the developers.</source>
-        <translation type="unfinished">Ferramenta de análise de desempenho para programadores.</translation>
+        <translation>Ferramenta de análise de desempenho para programadores.</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="70"/>
         <source>This module was developed by Julien Finet, Kitware Inc. This work was supported by NIH grant 3P41RR013218-12S1, NA-MIC, NAC and Slicer community.</source>
-        <translation type="unfinished">Este módulo foi desenvolvido por Julien Finet, da Kitware Inc. Este trabalho contou com o apoio da bolsa 3P41RR013218-12S1 do NIH, da NA-MIC, da NAC e da comunidade Slicer.</translation>
+        <translation>Este módulo foi desenvolvido por Julien Finet, da Kitware Inc. Este trabalho contou com o apoio da bolsa 3P41RR013218-12S1 do NIH, da NA-MIC, da NAC e da comunidade Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="45"/>
         <source>Event Broker</source>
-        <translation type="unfinished">Event Broker</translation>
+        <translation>Corretor de Eventos</translation>
     </message>
 </context>
 <context>
@@ -21018,7 +21018,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
         <source>Show observations with Elapsed Times &gt; 0</source>
-        <translation type="unfinished">Show observations with Elapsed Times &gt; 0</translation>
+        <translation>Motra observações com Tempos Decorridos &gt; 0</translation>
     </message>
 </context>
 <context>
@@ -21041,12 +21041,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="75"/>
         <source>Destination directory</source>
-        <translation type="unfinished">Diretório de destino</translation>
+        <translation>Diretório de destino</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="82"/>
         <source>Export formats:</source>
-        <translation type="unfinished">Formatos de exportação:</translation>
+        <translation>Formatos de exportação:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="89"/>
@@ -21056,37 +21056,37 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="114"/>
         <source>Include nodes directly under the selected item in the hierarchy.</source>
-        <translation type="unfinished">Incluir os nós diretamente abaixo do item selecionado na hierarquia.</translation>
+        <translation>Incluir os nós diretamente abaixo do item selecionado na hierarquia.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="117"/>
         <source>Include children</source>
-        <translation type="unfinished">Incluir crianças</translation>
+        <translation>Incluir crianças</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="124"/>
         <source>Include all nodes in the selected item in the hierarchy, including in subfolders.</source>
-        <translation type="unfinished">Incluir todos os nós do elemento selecionado na hierarquia, incluindo os que se encontram em subpastas.</translation>
+        <translation>Incluir todos os nós do elemento selecionado na hierarquia, incluindo os que se encontram em subpastas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="127"/>
         <source>Recursively include children</source>
-        <translation type="unfinished">Incluir os elementos filhos de forma recursiva</translation>
+        <translation>Incluir os elementos filho de forma recursiva</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="134"/>
         <source>Create subdirectory structure based on node hierarchy. Uncheck this to export all nodes directly into the target directory.</source>
-        <translation type="unfinished">Criar uma estrutura de subdiretórios com base na hierarquia dos nós. Desmarque esta opção para exportar todos os nós diretamente para o diretório de destino.</translation>
+        <translation>Criar uma estrutura de subdiretórios com base na hierarquia dos nós. Desmarque esta opção para exportar todos os nós diretamente para o diretório de destino.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="137"/>
         <source>Export folder structure</source>
-        <translation type="unfinished">Exportar estrutura de pastas</translation>
+        <translation>Exportar estrutura de pastas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="144"/>
         <source>Temporarily harden any transforms for export</source>
-        <translation type="unfinished">Fixar temporariamente todas as transformações para exportação</translation>
+        <translation>Endurecer temporariamente todas as transformações para exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
@@ -21096,17 +21096,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="131"/>
         <source>Select a format</source>
-        <translation type="unfinished">Selecione um formato</translation>
+        <translation>Selecione um formato</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="165"/>
         <source>Export format:</source>
-        <translation type="unfinished">Formato de exportação:</translation>
+        <translation>Formato de exportação:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="410"/>
         <source>Output folder:</source>
-        <translation type="unfinished">Pasta de saída:</translation>
+        <translation>Pasta de saída:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="427"/>
@@ -21124,7 +21124,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="738"/>
         <source>When exporting multiple nodes, filenames are automatically set</source>
-        <translation type="unfinished">Ao exportar vários nós, os nomes dos ficheiros são definidos automaticamente</translation>
+        <translation>Ao exportar vários nós, os nomes dos ficheiros são definidos automaticamente</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="740"/>
@@ -21139,80 +21139,80 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="875"/>
         <source>Filename not standard</source>
-        <translation type="unfinished">Filename not standard</translation>
+        <translation>Nome de ficheiro não é padrão</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="876"/>
         <source>The following filename is recommended:</source>
-        <translation type="unfinished">Recomenda-se o seguinte nome de ficheiro:</translation>
+        <translation>Recomenda-se o seguinte nome de ficheiro:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
         <source>Accept recommended</source>
-        <translation type="unfinished">Aceitar recomendação</translation>
+        <translation>Aceitar recomendado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="881"/>
         <source>Keep my filename</source>
-        <translation type="unfinished">Manter o nome do ficheiro</translation>
+        <translation>Manter o nome do ficheiro</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="943"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1044"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1052"/>
         <source>Export Error</source>
-        <translation type="unfinished">Erro de exportação</translation>
+        <translation>Erro de Exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="943"/>
         <source>Failed to export node %1; filename is empty.</source>
-        <translation type="unfinished">Failed to export node %1; filename is empty.</translation>
+        <translation>Falha ao exportar nó %1; nome do ficheiro está vazio.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="963"/>
         <source>File Exists</source>
-        <translation type="unfinished">O ficheiro existe</translation>
+        <translation>O Ficheiro Existe</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="964"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
-        <translation type="unfinished">The file %1 already exists. Do you want to replace it?</translation>
+        <translation>O ficheiro %1 já existe. Quer substituí-lo?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1011"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1064"/>
         <source>Export Information</source>
-        <translation type="unfinished">Informações sobre exportação</translation>
+        <translation>Informações sobre Exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1011"/>
         <source>Nothing was exported.</source>
-        <translation type="unfinished">Não foi exportado nada.</translation>
+        <translation>Nada foi exportado.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1038"/>
         <source>Error encountered while exporting.</source>
-        <translation type="unfinished">Ocorreu um erro durante a exportação.</translation>
+        <translation>Ocorreu um erro durante a exportação.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1059"/>
         <source>Export Warning</source>
-        <translation type="unfinished">Aviso sobre exportação</translation>
+        <translation>Aviso sobre Exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1224"/>
         <source>Export an individual node</source>
-        <translation type="unfinished">Export an individual node</translation>
+        <translation>Exportar um nó individual</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1246"/>
         <source>Export error</source>
-        <translation type="unfinished">Export error</translation>
+        <translation>Erro de exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1246"/>
         <source>There is nothing to export.</source>
-        <translation type="unfinished">Não há nada para exportar.</translation>
+        <translation>Não há nada para exportar.</translation>
     </message>
 </context>
 <context>
@@ -21220,7 +21220,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
-        <translation type="unfinished">Instale esta extensão (é necessário reiniciar).</translation>
+        <translation>Instale esta extensão (é necessário reiniciar).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="41"/>
@@ -21230,17 +21230,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="52"/>
         <source>Click this button to add bookmark this extension. Bookmarked extension will appear in all application versions for easy reinstallation.</source>
-        <translation type="unfinished">Clique neste botão para adicionar esta extensão aos favoritos. A extensão adicionada aos favoritos aparecerá em todas as versões da aplicação, facilitando a sua reinstalação.</translation>
+        <translation>Clique neste botão para adicionar esta extensão aos favoritos. A extensão adicionada aos favoritos aparecerá em todas as versões da aplicação, facilitando a sua reinstalação.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
         <source>Click to remove the bookmark.</source>
-        <translation type="unfinished">Clique para remover o marcador.</translation>
+        <translation>Clique para remover o marcador.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
         <source>Tell the application to update this extension on restart.</source>
-        <translation type="unfinished">Tell the application to update this extension on restart.</translation>
+        <translation>Indicar à aplicação para atualizar esta extensão ao reiniciar.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="162"/>
@@ -21250,7 +21250,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="169"/>
         <source>Tell the application to keep the currently installed version of this extension.</source>
-        <translation type="unfinished">Tell the application to keep the currently installed version of this extension.</translation>
+        <translation>Indicar à aplicação para manter a versão instalada atualmente desta extensão.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="172"/>
@@ -21260,7 +21260,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="186"/>
         <source>Tell the application to load this extension by adding all associated module paths to the application settings.</source>
-        <translation type="unfinished">Tell the application to load this extension by adding all associated module paths to the application settings.</translation>
+        <translation>Indicar à aplicação para carregar esta extensão ao adicionar todos os caminhos de módulos associados às definições da aplicação.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="189"/>
@@ -21270,7 +21270,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="196"/>
         <source>Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</source>
-        <translation type="unfinished">Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</translation>
+        <translation>Indicar à aplicação para ignorar o carregar desta extensão ao remover todos os caminhos de módulos associados das definições da aplicação.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="199"/>
@@ -21280,7 +21280,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="92"/>
         <source>Tell the application to uninstall this extension when it will restart.</source>
-        <translation type="unfinished">Tell the application to uninstall this extension when it will restart.</translation>
+        <translation>Indicar à aplicação para desinstalar esta extensão ao reiniciar.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
@@ -21295,7 +21295,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="102"/>
         <source>Tell the application to keep this extension installed.</source>
-        <translation type="unfinished">Tell the application to keep this extension installed.</translation>
+        <translation>Indicar à aplicação para manter esta extensão instalada.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="105"/>
@@ -21308,17 +21308,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="157"/>
         <source>Install pending restart</source>
-        <translation type="unfinished">Instalação pendente de reinicialização</translation>
+        <translation>Instalação pendente de reinicialização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="162"/>
         <source>Update pending restart</source>
-        <translation type="unfinished">Atualização pendente de reinício</translation>
+        <translation>Atualização pendente de reinício</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="167"/>
         <source>Uninstall pending restart</source>
-        <translation type="unfinished">Desinstalação pendente de reinicialização</translation>
+        <translation>Desinstalação pendente de reinicialização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="344"/>
@@ -21333,37 +21333,37 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="417"/>
         <source>Not found for this version of the application (r%1)</source>
-        <translation type="unfinished">Não encontrado para esta versão da aplicação (r%1)</translation>
+        <translation>Não encontrado para esta versão da aplicação (r%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="424"/>
         <source>Incompatible with Slicer r%1 [built for r%2]</source>
-        <translation type="unfinished">Incompatível com o Slicer r%1 [compilado para r%2]</translation>
+        <translation>Incompatível com o Slicer r%1 [compilado para r%2]</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="438"/>
         <source>Change log...</source>
-        <translation type="unfinished">Registo de alterações...</translation>
+        <translation>Registo de alterações...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="444"/>
         <source>An update is available. Installed: %1. Available: %2.</source>
-        <translation type="unfinished">Está disponível uma atualização. Instalada: %1. Disponível: %2.</translation>
+        <translation>Está disponível uma atualização. Instalada: %1. Disponível: %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="458"/>
         <source>Version: %1. Disabled.</source>
-        <translation type="unfinished">Versão: %1. Desativado.</translation>
+        <translation>Versão: %1. Desativada.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="465"/>
         <source>Version: %1</source>
-        <translation type="unfinished">Versão: %1</translation>
+        <translation>Versão: %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="473"/>
         <source>Not installed.</source>
-        <translation type="unfinished">Não está instalado.</translation>
+        <translation>Não está instalado.</translation>
     </message>
 </context>
 <context>
@@ -21376,7 +21376,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
         <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
-        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</translation>
+        <translation>&lt;font color=&quot;red&quot;&gt;* Reiniciar solicitado&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
@@ -21389,95 +21389,95 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="453"/>
         <source>Failed to parse %1: error at %2: %3</source>
-        <translation type="unfinished">Falha ao analisar %1: erro em %2: %3</translation>
+        <translation>Falha ao analisar %1: erro em %2: %3</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="704"/>
         <source>Failed to open extensions settings file %1</source>
-        <translation type="unfinished">Failed to open extensions settings file %1</translation>
+        <translation>Falha ao abrir ficheiro de definições de extensões %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="737"/>
         <source>Failed to open extensions settings file: %1</source>
-        <translation type="unfinished">Failed to open extensions settings file: %1</translation>
+        <translation>Falha ao abrir ficheiro de configurações de extensões: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="769"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>Diretório de instalação de extensões NÃO existe: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="786"/>
         <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>Diretório de instalação de diretórios deve ter permissões de leitura/escrita/execução: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="859"/>
         <source>Failed to extract %1 into %2</source>
-        <translation type="unfinished">Não foi possível extrair %1 para %2</translation>
+        <translation>Falha ao extrair %1 para %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="864"/>
         <source>Archive %1 doesn&apos;t contain any files</source>
-        <translation type="unfinished">O arquivo %1 não contém nenhum ficheiro</translation>
+        <translation>O arquivo %1 não contém nenhum ficheiro</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1009"/>
         <source>&apos;slicerRevision&apos; parameter is not specified</source>
         <oldsource>slicerRevision is not specified</oldsource>
-        <translation type="unfinished">slicerRevision is not specified</translation>
+        <translation>parâmetro &apos;slicerRevision&apos; não está especificado</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1013"/>
         <source>&apos;slicerOs&apos; parameter is not specified</source>
         <oldsource>slicerOs is not specified</oldsource>
-        <translation type="unfinished">slicerOs is not specified</translation>
+        <translation>parâmetro &apos;slicerOs&apos; não está especificado</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1017"/>
         <source>&apos;slicerArch&apos; parameter is not specified</source>
         <oldsource>slicerArch is not specified</oldsource>
-        <translation type="unfinished">slicerArch is not specified</translation>
+        <translation>parâmetro &apos;slicerArch&apos; não está especificado</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1023"/>
         <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
-        <translation type="unfinished">extensionSlicerRevision [%1] is different from slicerRevision [%2]</translation>
+        <translation>extensionSlicerRevision [%1] é diferente de slicerRevision [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1028"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
-        <translation type="unfinished">extensionArch [%1] is different from slicerArch [%2]</translation>
+        <translation>extensionArch [%1] é diferente de slicerArch [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1033"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
-        <translation type="unfinished">extensionOs [%1] is different from slicerOs [%2]</translation>
+        <translation>extensionOs [%1] é diferente de slicerOs [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1379"/>
         <source>Failed to add bookmark extension: %1</source>
-        <translation type="unfinished">Não foi possível adicionar a extensão de marcadores: %1</translation>
+        <translation>Falha ao adicionar a extensão de marcadores: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1542"/>
         <source>Retrieving extension metadata for %1 extension</source>
-        <translation type="unfinished">Recuperação dos metadados da extensão %1</translation>
+        <translation>A obter metadados de extensão para a extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1554"/>
         <source>Failed to get metadata from server for extension: %1</source>
-        <translation type="unfinished">Não foi possível obter os metadados do servidor para a extensão: %1</translation>
+        <translation>Falha ao obter os metadados do servidor para a extensão: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1571"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
-        <translation type="unfinished">A recuperar ficheiros com a extensão %1 (extensionId: %2)</translation>
+        <translation>A obter %1 ficheiros de extensão (extensionId: %2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1602"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
-        <translation type="unfinished">A descarregar a extensão %1 (id_do_item: %2, id_do_ficheiro: %3)</translation>
+        <translation>A descarregar a extensão %1 (item_id: %2, file_id: %3)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1633"/>
@@ -21494,138 +21494,138 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2412"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Não foi possível recuperar os metadados da extensão %1</translation>
+        <translation>Falha ao obter os metadados da extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1733"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
-        <translation type="unfinished">Quer instalar o «%1» agora?</translation>
+        <translation>Quer instalar o &apos;%1&apos; agora?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1734"/>
         <source>Install extension ?</source>
-        <translation type="unfinished">Instalar a extensão?</translation>
+        <translation>Instalar a extensão ?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1751"/>
         <source>Failed to install %1 extension</source>
-        <translation type="unfinished">Não foi possível instalar a extensão %1</translation>
+        <translation>Falha ao instalar a extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1774"/>
         <source>Extension %1 has been installed from server.</source>
-        <translation type="unfinished">A extensão %1 foi instalada a partir do servidor.</translation>
+        <translation>A extensão %1 foi instalada a partir do servidor.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1776"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished">O Slicer tem de ser reiniciado. Deseja reiniciar agora?</translation>
+        <translation>O Slicer tem de ser reiniciado. Deseja reiniciar agora?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1777"/>
         <source>Restart slicer ?</source>
-        <translation type="unfinished">Reiniciar o cortador?</translation>
+        <translation>Reiniciar o slicer?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1812"/>
         <source>Failed downloading: %1</source>
-        <translation type="unfinished">Falha no download: %1</translation>
+        <translation>Falha no download: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1823"/>
         <source>Could not create temporary file for writing: %1</source>
-        <translation type="unfinished">Não foi possível criar o ficheiro temporário para gravação: %1</translation>
+        <translation>Não foi possível criar o ficheiro temporário para gravação: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1843"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
-        <translation type="unfinished">Não foi possível listar o arquivo de extensão «%1»</translation>
+        <translation>Falha ao listar o arquivo de extensão &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1858"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
-        <translation type="unfinished">Não foi encontrada nenhuma descrição da extensão no arquivo «%1»</translation>
+        <translation>Não foi encontrada nenhuma descrição da extensão no arquivo &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1873"/>
         <source>InstallExtension failed: extensionName is not set</source>
-        <translation type="unfinished">Falha na instalação da extensão: o nome da extensão não está definido</translation>
+        <translation>Falha na instalação da extensão: o nome da extensão não está definido</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1878"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
-        <translation type="unfinished">Ignorar a instalação da extensão %1. Já está instalada.</translation>
+        <translation>Instalação da extensão %1 ignorada. Já está instalada.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1884"/>
         <source>Extensions/InstallPath setting is not set</source>
-        <translation type="unfinished">A configuração Extensions/InstallPath não está definida</translation>
+        <translation>A configuração Extensions/InstallPath não está definida</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1890"/>
         <source>Failed to create extension installation directory %1</source>
-        <translation type="unfinished">Não foi possível criar o diretório de instalação da extensão %1</translation>
+        <translation>Falha ao criar o diretório de instalação da extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1993"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
-        <translation type="unfinished">Erro ao instalar extensões dependentes:&lt;ul&gt;%1&lt;ul&gt;</translation>
+        <translation>Erro ao instalar extensões dependentes:&lt;ul&gt;%1&lt;ul&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2012"/>
         <source>%1 depends on the following extensions, which could not be found:</source>
         <extracomment>%1 is the extension name</extracomment>
-        <translation type="unfinished">O %1 depende das seguintes extensões, que não foram encontradas:</translation>
+        <translation>O %1 depende das seguintes extensões, que não foram encontradas:</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2017"/>
         <source>The extension may not function properly.</source>
-        <translation type="unfinished">A extensão poderá não funcionar corretamente.</translation>
+        <translation>A extensão poderá não funcionar corretamente.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2018"/>
         <source>Unresolved dependencies</source>
-        <translation type="unfinished">Dependências não resolvidas</translation>
+        <translation>Dependências não resolvidas</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2908"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
-        <translation type="unfinished">O parâmetro «extensionName» não foi especificado</translation>
+        <translation>O parâmetro &apos;extensionName&apos; não está especificado</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2040"/>
         <source>Installed extension %1</source>
-        <translation type="unfinished">Extensão instalada %1</translation>
+        <translation>Extensão instalada %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2118"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
-        <translation type="unfinished">Falha na atualização das informações da extensão a partir do servidor: tempo de espera esgotado enquanto se aguardava a resposta do servidor de %1</translation>
+        <translation>Falha na atualização das informações da extensão a partir do servidor: tempo de espera esgotado enquanto se aguardava a resposta do servidor de %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2171"/>
         <source>Failed to download extension metadata from server</source>
-        <translation type="unfinished">Não foi possível descarregar os metadados da extensão do servidor</translation>
+        <translation>Falha ao descarregar os metadados da extensão do servidor</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2189"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
-        <translation type="unfinished">A resposta dos metadados da extensão não incluiu o campo obrigatório «extensionname»</translation>
+        <translation>A resposta dos metadados da extensão não incluiu o campo obrigatório &apos;extensionname&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2221"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
-        <translation type="unfinished">Resposta à verificação de atualização para a extensão %1: faltam os campos obrigatórios «extension_id» ou «revision»</translation>
+        <translation>Resposta à verificação de atualização para a extensão %1: faltam os campos obrigatórios &apos;extension_id&apos; ou &apos;revision&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2232"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
-        <translation type="unfinished">Encontrada uma atualização para a extensão %1: «%2» instalada, «%3» disponível, </translation>
+        <translation>Encontrada uma atualização para a extensão %1: &apos;%2&apos; instalada, &apos;%3&apos; disponível, </translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2303"/>
         <source>Failed downloading %1 extension from %2</source>
-        <translation type="unfinished">Falha ao descarregar a extensão %1 a partir de %2</translation>
+        <translation>Falha ao descarregar a extensão %1 a partir de %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2318"/>
@@ -21678,13 +21678,13 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2877"/>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">A extensão %1 é incompatível</translation>
+        <translation>A extensão %1 é incompatível</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3094"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Pacote de extensão %1 corrompido</translation>
+        <translation>Pacote de extensão %1 corrompido</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3102"/>
@@ -21696,13 +21696,13 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3144"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3151"/>
         <source>Failed to copy directory %1 into directory %2</source>
-        <translation type="unfinished">Não foi possível copiar o diretório %1 para o diretório %2</translation>
+        <translation>Falha ao copiar o diretório %1 para o diretório %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3158"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3165"/>
         <source>Failed to remove directory %1</source>
-        <translation type="unfinished">Não foi possível remover o diretório %1</translation>
+        <translation>Falha ao remover o diretório %1</translation>
     </message>
 </context>
 <context>
@@ -21710,7 +21710,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="14"/>
         <source>Slicer Extensions Manager</source>
-        <translation type="unfinished">Slicer Extensions Manager</translation>
+        <translation>Gestor de Extensões do Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
@@ -21720,43 +21720,43 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="261"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>Gestor de Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="402"/>
         <source>Update all (%1)</source>
-        <translation type="unfinished">Atualizar tudo (%1)</translation>
+        <translation>Atualizar tudo (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="433"/>
         <source>Install bookmarked (%1)</source>
-        <translation type="unfinished">Adicionar aos favoritos (%1)</translation>
+        <translation>Instalar favoritos (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="438"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished">Instalar nos favoritos</translation>
+        <translation>Instalar nos favoritos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="444"/>
         <source>Manage Extensions (%1)</source>
         <extracomment>%1 represents the number of managed extensions</extracomment>
-        <translation type="unfinished">Gerir extensões (%1)</translation>
+        <translation>Gerir extensões (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="473"/>
         <source>Bookmarked extensions</source>
-        <translation type="unfinished">Extensões adicionadas aos favoritos</translation>
+        <translation>Extensões favoritas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="473"/>
         <source>List of bookmarked extensions:</source>
-        <translation type="unfinished">Lista de extensões adicionadas aos favoritos:</translation>
+        <translation>Lista de extensões favoritas:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="695"/>
         <source>Select extension archive file(s)...</source>
-        <translation type="unfinished">Selecione o(s) ficheiro(s) de arquivo com a extensão...</translation>
+        <translation>Selecione o(s) ficheiro(s) de arquivo com a extensão...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="695"/>
@@ -21766,14 +21766,14 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="695"/>
         <source>All files</source>
-        <translation type="unfinished">Todos os ficheiros</translation>
+        <translation>Todos os ficheiros</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="725"/>
         <source>Install/uninstall/update operations are still in progress:</source>
         <oldsource>Install/uninstall/update operations are still in progress:
 - </oldsource>
-        <translation type="unfinished">As operações de instalação/desinstalação/atualização ainda estão em curso:</translation>
+        <translation>As operações de instalação/desinstalação/atualização ainda estão em curso:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="726"/>
@@ -21789,32 +21789,32 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="96"/>
         <source>Slicer Extensions</source>
-        <translation type="unfinished">Extensões do Slicer</translation>
+        <translation>Extensões do Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="105"/>
         <source>Extensions can not be installed.</source>
-        <translation type="unfinished">Não é possível instalar extensões.</translation>
+        <translation>Não é possível instalar extensões.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="112"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
-        <translation type="unfinished">O Gestor de Extensões requer que o &lt;em&gt;3D Slicer&lt;/em&gt; esteja instalado. Abra o ficheiro de imagem de disco (.dmg), arraste o &lt;em&gt;Slicer.app&lt;/em&gt; para a pasta &lt;em&gt;Aplicações&lt;/em&gt; e inicie o &lt;em&gt;3D Slicer&lt;/em&gt; a partir da pasta &lt;em&gt;Aplicações&lt;/em&gt;.</translation>
+        <translation>O gestor de Extensões requer que o &lt;em&gt;3D Slicer&lt;/em&gt; esteja instalado. Abra o ficheiro de imagem de disco (.dmg), arraste o &lt;em&gt;Slicer.app&lt;/em&gt; para a pasta &lt;em&gt;Aplicações&lt;/em&gt; e inicie o &lt;em&gt;3D Slicer&lt;/em&gt; a partir da pasta &lt;em&gt;Aplicações&lt;/em&gt;.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="118"/>
         <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
-        <translation type="unfinished">Verifique se o &lt;b&gt;3D Slicer&lt;/b&gt; está corretamente instalado.</translation>
+        <translation>Verifique se o &lt;b&gt;3D Slicer&lt;/b&gt; está corretamente instalado.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="122"/>
         <source>Read more...</source>
-        <translation type="unfinished">Leia mais...</translation>
+        <translation>Ler mais...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="126"/>
         <source>Try Again</source>
-        <translation type="unfinished">Tentar novamente</translation>
+        <translation>Tentar Novamente</translation>
     </message>
 </context>
 <context>
@@ -21822,99 +21822,99 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Extensions tools</source>
-        <translation type="unfinished">Ferramentas de extensão</translation>
+        <translation>Ferramentas de extensão</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="144"/>
         <source>Query the Extensions Server if there are updates for any of the installed extensions</source>
-        <translation type="unfinished">Verifique no servidor de extensões se existem atualizações para alguma das extensões instaladas</translation>
+        <translation>Pesquise no Servidor de Extensões para ver se existem atualizações para alguma das extensões instaladas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="23"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="141"/>
         <source>Check for updates</source>
-        <translation type="unfinished">Verificar se há atualizações</translation>
+        <translation>Verificar se há atualizações</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="38"/>
         <source>Updates all extensions with the latest version available on the Extensions Server</source>
-        <translation type="unfinished">Atualiza todas as extensões para a versão mais recente disponível no servidor de extensões</translation>
+        <translation>Atualizar todas as extensões para a versão mais recente disponível no Servidor de Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="41"/>
         <source>Update all</source>
-        <translation type="unfinished">Atualizar tudo</translation>
+        <translation>Atualizar tudo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="56"/>
         <source>Install all the bookmarked extensions</source>
-        <translation type="unfinished">Instalar todas as extensões guardadas nos favoritos</translation>
+        <translation>Instalar todas as extensões favoritas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="59"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished">Instalar nos favoritos</translation>
+        <translation>Instalar favoritos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="74"/>
         <source>Install extensions from one or more extension package files</source>
-        <translation type="unfinished">Instalar extensões a partir de um ou mais ficheiros de pacotes de extensões</translation>
+        <translation>Instalar extensões a partir de um ou mais ficheiros de pacotes de extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="122"/>
         <source>Automatically check for updates</source>
-        <translation type="unfinished">Verificar automaticamente se há atualizações</translation>
+        <translation>Verificar automaticamente se há atualizações</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="125"/>
         <source>Periodically check for updated extensions.</source>
-        <translation type="unfinished">Verifique periodicamente se existem extensões atualizadas.</translation>
+        <translation>Verificar periodicamente se existem atualizações de extensões.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="133"/>
         <source>Automatically install updates</source>
-        <translation type="unfinished">Instalar atualizações automaticamente</translation>
+        <translation>Instalar atualizações automaticamente</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="136"/>
         <source>Automatically install updated extensions</source>
-        <translation type="unfinished">Instalar automaticamente as extensões atualizadas</translation>
+        <translation>Instalar automaticamente as extensões atualizadas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="149"/>
         <source>Edit bookmarks...</source>
-        <translation type="unfinished">Editar favoritos...</translation>
+        <translation>Editar favoritos...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="152"/>
         <source>Edit list of bookmarks in a text field</source>
-        <translation type="unfinished">Editar a lista de marcadores num campo de texto</translation>
+        <translation>Editar a lista de favoritos num campo de texto</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="157"/>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished">Abrir o site do Catálogo de Extensões...</translation>
+        <translation>Abrir o Site do Catálogo de Extensões...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished">Abra o site do Catálogo de Extensões no navegador predefinido. Útil para descarregar pacotes de extensões para utilização offline.</translation>
+        <translation>Abrir o Site do Catálogo de Extensões no navegador predefinido. Útil para descarregar pacotes de extensões para utilização offline.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
         <source>Automatically install dependencies</source>
-        <translation type="unfinished">Instalar dependências automaticamente</translation>
+        <translation>Instalar dependências automaticamente</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="171"/>
         <source>Automatically install required additional extensions when installing an extension</source>
-        <translation type="unfinished">Instalar automaticamente as extensões adicionais necessárias ao instalar uma extensão</translation>
+        <translation>Instalar automaticamente as extensões adicionais necessárias ao instalar uma extensão</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="77"/>
         <source>Install from file...</source>
-        <translation type="unfinished">Install from file...</translation>
+        <translation>Instalar a partir de um ficheiro...</translation>
     </message>
 </context>
 <context>
@@ -22003,13 +22003,13 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+        <translation>Selecionar a técnica de projeção de raios para vistas onde o volume atual é visível</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation type="unfinished">Option for removing wood-grain artifacts by applying random noise to raycasting</translation>
+        <translation>Opção para remoer artefactos de textura de madeira ao aplicar ruído aleatório à projeção de raios</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="49"/>
@@ -22019,17 +22019,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished">Composição com sombreado</translation>
+        <translation>Composição Com Sombreado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished">Projeção de intensidade máxima</translation>
+        <translation>Projeção de Intensidade Máxima</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="70"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished">Projeção de intensidade mínima</translation>
+        <translation>Intensidade de Projeção Mínima</translation>
     </message>
 </context>
 <context>
@@ -22045,7 +22045,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
         <source>Loading file... </source>
-        <translation type="unfinished">A carregar ficheiro... </translation>
+        <translation>A carregar ficheiro... </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
@@ -22055,12 +22055,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="95"/>
         <source>Loading ...</source>
-        <translation type="unfinished">A carregar...</translation>
+        <translation>A carregar...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="304"/>
         <source>Select a reader</source>
-        <translation type="unfinished">Select a reader</translation>
+        <translation>Selecionar um leitor</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="305"/>
@@ -22071,37 +22071,37 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"/>
         <source>Loading file </source>
-        <translation type="unfinished">A carregar ficheiro </translation>
+        <translation>A carregar ficheiro </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="566"/>
         <source>Adding data succeeded</source>
-        <translation type="unfinished">Adding data succeeded</translation>
+        <translation>Adicionar de dados bem sucedido</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="568"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
-        <translation type="unfinished">The selected files were loaded successfully but errors or warnings were reported.</translation>
+        <translation>Os ficheiros selecionados foram carregados com sucesso mas erros ou avisos foram reportados.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="572"/>
         <source>Adding data failed</source>
-        <translation type="unfinished">Adding data failed</translation>
+        <translation>Falha ao adicionar dados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="574"/>
         <source>Error occurred while loading the selected files.</source>
-        <translation type="unfinished">Error occurred while loading the selected files.</translation>
+        <translation>Ocorreu um erro no carregamento dos ficheiros selecionados.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="579"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
-        <translation type="unfinished">Click &apos;Show details&apos; button and check the application log for more information.</translation>
+        <translation>Clique no botão &apos;Mostrar detalhes&apos; e verifique o registo da aplicação para mais informação.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="586"/>
         <source>Check the application log for more information.</source>
-        <translation type="unfinished">Check the application log for more information.</translation>
+        <translation>Verifique os registos da aplicação para mais informação.</translation>
     </message>
 </context>
 <context>
@@ -22114,7 +22114,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
         <source>When displaying the label map with the outline/not filled option, this controls the width of the outline.</source>
-        <translation type="unfinished">When displaying the label map with the outline/not filled option, this controls the width of the outline.</translation>
+        <translation>Ao exibir um mapa de rótulos com a opção de contorno/sem preenchimento, isto controla a espessura do contorno.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="35"/>
@@ -22129,7 +22129,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
         <source>Label Outline &amp;Thickness:</source>
-        <translation type="unfinished">Label Outline &amp;Thickness:</translation>
+        <translation>Contorno de Rótulo &amp;Espessura:</translation>
     </message>
 </context>
 <context>
@@ -22187,7 +22187,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="101"/>
         <source>Undo Redo ToolBar</source>
-        <translation type="unfinished">Undo Redo ToolBar</translation>
+        <translation>Desfazer Refazer Barra de Ferramentas</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="112"/>
@@ -22253,7 +22253,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="316"/>
         <source>Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</source>
-        <translation type="unfinished">Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</translation>
+        <translation>Abra um navegador de ficheiros para selecionar uma cena (mrml, xcat ou xml) para carregar. Primeiro limpa qualquer cena existente no Slicer e reinicia o estado da aplicação.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="325"/>
@@ -22639,7 +22639,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="774"/>
         <source>Favorite module for easy access</source>
-        <translation type="unfinished">Favorite module for easy access</translation>
+        <translation>Módulo favorito para acesso fácil</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="777"/>
@@ -22649,238 +22649,238 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="789"/>
         <source>Conventional Widescreen</source>
-        <translation type="unfinished">Conventional Widescreen</translation>
+        <translation>Ecrã Panorâmico Convencional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="798"/>
         <source>Triple 3D</source>
-        <translation type="unfinished">Triple 3D</translation>
+        <translation>Triplo 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="807"/>
         <source>Three over three</source>
-        <translation type="unfinished">Three over three</translation>
+        <translation>Três sobre três</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="816"/>
         <source>Four over four</source>
-        <translation type="unfinished">Four over four</translation>
+        <translation>Quatro sobre quatro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="825"/>
         <source>2 viewers</source>
-        <translation type="unfinished">2 viewers</translation>
+        <translation>2 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="834"/>
         <source>3 viewers</source>
-        <translation type="unfinished">3 viewers</translation>
+        <translation>3 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="843"/>
         <source>4 viewers</source>
-        <translation type="unfinished">4 viewers</translation>
+        <translation>4 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="852"/>
         <source>5 viewers</source>
-        <translation type="unfinished">5 viewers</translation>
+        <translation>5 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="861"/>
         <source>6 viewers</source>
-        <translation type="unfinished">6 viewers</translation>
+        <translation>6 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="870"/>
         <source>7 viewers</source>
-        <translation type="unfinished">7 viewers</translation>
+        <translation>7 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="879"/>
         <source>8 viewers</source>
-        <translation type="unfinished">8 viewers</translation>
+        <translation>8 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="888"/>
         <source>Compare Grid</source>
-        <translation type="unfinished">Compare Grid</translation>
+        <translation>Comparar Grelha</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="897"/>
         <source>2x2 viewers</source>
-        <translation type="unfinished">2x2 viewers</translation>
+        <translation>2x2 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="906"/>
         <source>3x3 viewers</source>
-        <translation type="unfinished">3x3 viewers</translation>
+        <translation>3x3 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="915"/>
         <source>4x4 viewers</source>
-        <translation type="unfinished">4x4 viewers</translation>
+        <translation>4x4 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="920"/>
         <source>Record Macro</source>
-        <translation type="unfinished">Record Macro</translation>
+        <translation>Gravar Macro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="928"/>
         <source>Play Macro</source>
-        <translation type="unfinished">Play Macro</translation>
+        <translation>Reproduzir Macro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="940"/>
         <source>Side by side</source>
-        <translation type="unfinished">Side by side</translation>
+        <translation>Lado a lado</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="949"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="952"/>
         <source>Four by three slice</source>
-        <translation type="unfinished">Four by three slice</translation>
+        <translation>Fatia quatro por três</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="961"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="964"/>
         <source>Four by two slice</source>
-        <translation type="unfinished">Four by two slice</translation>
+        <translation>Fatia quatro por dois</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="973"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="976"/>
         <source>Five by two slice</source>
-        <translation type="unfinished">Five by two slice</translation>
+        <translation>Fatia cinco por dois</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="985"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="988"/>
         <source>Three by three slice</source>
-        <translation type="unfinished">Three by three slice</translation>
+        <translation>Fatia três por três</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="997"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1000"/>
         <source>Dual-monitor Four-Up</source>
-        <translation type="unfinished">Quatro páginas por página em dois monitores</translation>
+        <translation>Plano em Quatro Partes em Dois monitores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1009"/>
         <source>Plot only</source>
-        <translation type="unfinished">Plot only</translation>
+        <translation>Apenas gráfico</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1012"/>
         <source>Plot view</source>
-        <translation type="unfinished">Plot view</translation>
+        <translation>Vista de gráfico</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1024"/>
         <source>Four-Up Plot</source>
-        <translation type="unfinished">Four-Up Plot</translation>
+        <translation>Gráfico em Quatro Partes</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1027"/>
         <source>Three slices and a plot in four-Up layout</source>
-        <translation type="unfinished">Three slices and a plot in four-Up layout</translation>
+        <translation>Três fatias e um gráfico em layout de quatro partes</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1039"/>
         <source>Conventional Plot</source>
-        <translation type="unfinished">Conventional Plot</translation>
+        <translation>Gráfico Convencional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1042"/>
         <source>Conventional three slices and 3D view with an additional plot</source>
-        <translation type="unfinished">Conventional three slices and 3D view with an additional plot</translation>
+        <translation>Três fatias convencionais e uma vista 3D com um gráfico adicional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1054"/>
         <source>Three over three Plot</source>
-        <translation type="unfinished">Three over three Plot</translation>
+        <translation>Três sobre três Gráficos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1057"/>
         <source>Three plots over three slices</source>
-        <translation type="unfinished">Three plots over three slices</translation>
+        <translation>Três gráficos sobre três fatias</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1066"/>
         <source>Four-Up Table</source>
-        <translation type="unfinished">Four-Up Table</translation>
+        <translation>Tabela em Quatro Partes</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1075"/>
         <source>Four-Up Quantitative</source>
-        <translation type="unfinished">Four-Up Quantitative</translation>
+        <translation>Quatro Partes Quantitativo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1078"/>
         <source>Four-up slice and 3D view with an additional table and plot</source>
-        <translation type="unfinished">Four-up slice and 3D view with an additional table and plot</translation>
+        <translation>Fatias em quatro partes e uma vista 3D com uma tabela e gráfico adicionais</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1083"/>
         <source>Reset to default</source>
-        <translation type="unfinished">Reset to default</translation>
+        <translation>Reiniciar para a predefinição</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1094"/>
         <source>Show Status Bar</source>
-        <translation type="unfinished">Mostrar barra de estado</translation>
+        <translation>Mostrar Barra de Estado</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="156"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
-        <translation type="unfinished">Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</translation>
+        <translation>Colapsa/Expande o painel de GUI e permite com que os visualizadores do Slicer ocupem a janela da aplicação inteira</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="265"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="278"/>
         <source>Select number of viewers...</source>
-        <translation type="unfinished">Select number of viewers...</translation>
+        <translation>Selecionar número de visualizadores...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="155"/>
         <source>Show &amp;Module Panel</source>
-        <translation type="unfinished">Painel de Módulos</translation>
+        <translation>Mostrar Painel de &amp;Módulos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="179"/>
         <source>Module Selection</source>
-        <translation type="unfinished">Seleção de módulos</translation>
+        <translation>Seleção de Módulos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="346"/>
         <source>Error Log</source>
-        <translation type="unfinished">Registo de erros</translation>
+        <translation>Registo de Erros</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="356"/>
         <source>Show/hide Error Log window</source>
-        <translation type="unfinished">Mostrar/ocultar a janela do registo de erros</translation>
+        <translation>Mostrar/ocultar a janela do Registo de Erros</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="386"/>
         <source>Python Console</source>
-        <translation type="unfinished">Console do Python</translation>
+        <translation>Consola de Python</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
         <source>Slicer Python Console</source>
-        <translation type="unfinished">Console do Slicer em Python</translation>
+        <translation>Console do Slicer de Python</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="408"/>
         <source>&amp;Python Console</source>
-        <translation type="unfinished">&amp;Console do Python</translation>
+        <translation>&amp;Consola de Python</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="409"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
-        <translation type="unfinished">Mostrar a janela da consola Python para controlar os dados, a interface do utilizador e os mecanismos internos da aplicação</translation>
+        <translation>Mostrar a janela da Consola Python para controlar os dados, a interface do utilizador e os mecanismos internos da aplicação</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="410"/>
@@ -22895,73 +22895,73 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="506"/>
         <source>Clear History</source>
-        <translation type="unfinished">Limpar histórico</translation>
+        <translation>Limpar Histórico</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="620"/>
         <source>Modifications in data files:</source>
-        <translation type="unfinished">Alterações nos ficheiros de dados:</translation>
+        <translation>Alterações nos ficheiros de dados:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="641"/>
         <source>Modifications in the scene file:</source>
-        <translation type="unfinished">Alterações no ficheiro de cena:</translation>
+        <translation>Alterações no ficheiro de cena:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="570"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="665"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation type="unfinished">The scene has been modified. Do you want to save it before exit?</translation>
+        <translation>The scene has been modified. Do you want to save it before exit?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="569"/>
         <source>Save before exit?</source>
-        <translation type="unfinished">Save before exit?</translation>
+        <translation>Guardar antes de sair?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="574"/>
         <source>Exit (discard modifications)</source>
-        <translation type="unfinished">Exit (discard modifications)</translation>
+        <translation>Sair (descartar modificações)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="575"/>
         <source>Cancel exit</source>
-        <translation type="unfinished">Cancel exit</translation>
+        <translation>Cancelar saída</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="664"/>
         <source>Save before closing scene?</source>
-        <translation type="unfinished">Save before closing scene?</translation>
+        <translation>Guardar antes de fechar a cena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="669"/>
         <source>Close scene (discard modifications)</source>
-        <translation type="unfinished">Close scene (discard modifications)</translation>
+        <translation>Fechar cena (descartar modificações)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="670"/>
         <source>Save scene</source>
-        <translation type="unfinished">Save scene</translation>
+        <translation>Guardar cena</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="938"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
-        <translation type="unfinished">Slicer Data Bundle Directory (Select Empty Directory)</translation>
+        <translation>Diretório de Pacote de Dados do Slicer (Selecionar Diretório Vazio)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="967"/>
         <source>Save Data Bundle File</source>
-        <translation type="unfinished">Save Data Bundle File</translation>
+        <translation>Guardar Ficheiro de Pacote de Dados</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="967"/>
         <source>Medical Reality Bundle (*.mrb)</source>
-        <translation type="unfinished">Medical Reality Bundle (*.mrb)</translation>
+        <translation>Pacote de Realidade Médica (*.mrb)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="997"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">MRML Scene</translation>
+        <translation>Cena MRML</translation>
     </message>
 </context>
 <context>
@@ -22976,7 +22976,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
         <source>Create Markups:</source>
-        <translation type="unfinished">Create Markups:</translation>
+        <translation>Criar Marcadores:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
@@ -22986,12 +22986,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation>Legenda de cor para a Tabela de Cor selecionada na secção de Escalares.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="96"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Legenda de Cor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
@@ -23002,22 +23002,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
         <source>Save to Defaults</source>
-        <translation type="unfinished">Save to Defaults</translation>
+        <translation>Guardar para as Predefinições</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="123"/>
         <source>Use default display properties.</source>
-        <translation type="unfinished">Use default display properties.</translation>
+        <translation>Usar propriedades de exibição padrão.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="126"/>
         <source>Reset to Defaults</source>
-        <translation type="unfinished">Reset to Defaults</translation>
+        <translation>Repor para as Predefinições</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="138"/>
         <source>Control Points</source>
-        <translation type="unfinished">Control Points</translation>
+        <translation>Pontos de Controlo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
@@ -23027,22 +23027,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
         <source>Enable/disable all interactions in slice and 3D views.</source>
-        <translation type="unfinished">Enable/disable all interactions in slice and 3D views.</translation>
+        <translation>Ativar/desativar todas as interações na fatia e vistas 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
         <source>Lock the number of points allowed in the active markup.</source>
-        <translation type="unfinished">Lock the number of points allowed in the active markup.</translation>
+        <translation>Bloquear o número de pontos permitidos no marcador ativo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="222"/>
         <source>Jump Slices:</source>
-        <translation type="unfinished">Jump Slices:</translation>
+        <translation>Saltar Fatias:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
         <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-        <translation type="unfinished">Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</translation>
+        <translation>Desvio: definir posição do plano de fatia. Centrado: define a posição do plano e centra a vista de fatia no ponto de controlo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
@@ -23062,7 +23062,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation type="unfinished">Show Slice Intersections:</translation>
+        <translation>Mostrar Interseções de Fatia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
