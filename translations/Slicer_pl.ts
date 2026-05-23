@@ -84,7 +84,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Czyszczenie DWI (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie cech twarzy z obrazu T1/T2 (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
@@ -182,7 +182,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazy wejściowe nie są używane do generowania masek. Wszystkie obrazy muszą być w tej samej przestrzeni fizycznej co inputVolumes, wyrównane do ACPC i spójne z punktami orientacyjnymi.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
@@ -193,7 +193,7 @@
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation type="unfinished"></translation>
+        <translation>rozmycie</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
@@ -208,12 +208,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane wyjściowe z generowania MUSH oraz tworzenia maski mózgu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation type="unfinished"></translation>
+        <translation>maska objętości mózgu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
@@ -223,12 +223,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation type="unfinished"></translation>
+        <translation>Maska objętości mózgu wygenerowana z obrazu MUSH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
         <source>The output directory to writing the defaced input files</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog wyjściowy do zapisu plików po anonimizacji</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
@@ -258,7 +258,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametry do normalizacji obrazów wyjściowych.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
