@@ -27526,28 +27526,28 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="132"/>
         <source>Click to cycle through position states:
 Defined -&gt; Undefined (by clearing position) -&gt; Preview (by entering into place mode) -&gt; Missing (by marking as skip from placement) -&gt; Defined (by restoring last position)</source>
-        <translation type="unfinished">Clique para alternar entre os estados da posição:
-Definida -&gt; Indefinida (ao limpar a posição) -&gt; Pré-visualização (ao entrar no modo de colocação) -&gt; Ausente (ao marcar como a ignorar na colocação) -&gt; Definida (ao restaurar a última posição)</translation>
+        <translation>Clique para alternar entre os estados da posição:
+Definido -&gt; Indefinido (ao limpar a posição) -&gt; Pré-visualização (ao entrar no modo de colocação) -&gt; Ausente (ao marcar como a ignorar na colocação) -&gt; Definida (ao restaurar a última posição)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="487"/>
         <source>Delete highlighted control points</source>
-        <translation type="unfinished">Apagar pontos de controlo destacados</translation>
+        <translation>Apagar pontos de controlo destacados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="488"/>
         <source>Move current control point up</source>
-        <translation type="unfinished">Deslocar o ponto de controlo atual para cima</translation>
+        <translation>Deslocar o ponto de controlo atual para cima</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="489"/>
         <source>Move current control point down</source>
-        <translation type="unfinished">Deslocar o ponto de controlo atual para baixo</translation>
+        <translation>Deslocar o ponto de controlo atual para baixo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="490"/>
         <source>Jump slices to control point</source>
-        <translation type="unfinished">Saltar fatias até ao ponto de controlo</translation>
+        <translation>Saltar fatias para o ponto de controlo</translation>
     </message>
 </context>
 <context>
@@ -27568,7 +27568,7 @@ Definida -&gt; Indefinida (ao limpar a posição) -&gt; Pré-visualização (ao 
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="75"/>
         <source>Clone this item and its data node if any along with display and storage options</source>
-        <translation type="unfinished">Clonar este item e o seu nó de dados, se existir, juntamente com as opções de visualização e armazenamento</translation>
+        <translation>Clonar este item e o seu nó de dados, se existir, juntamente com as opções de visualização e armazenamento</translation>
     </message>
 </context>
 <context>
@@ -27576,7 +27576,7 @@ Definida -&gt; Indefinida (ao limpar a posição) -&gt; Pré-visualização (ao 
     <message>
         <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="88"/>
         <source>Show color legend</source>
-        <translation type="unfinished">Mostrar legenda de cores</translation>
+        <translation>Mostrar legenda de cores</translation>
     </message>
 </context>
 <context>
@@ -27584,27 +27584,27 @@ Definida -&gt; Indefinida (ao limpar a posição) -&gt; Pré-visualização (ao 
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="108"/>
         <source>Create new subject</source>
-        <translation type="unfinished">Criar novo assunto</translation>
+        <translation>Criar novo assunto</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="112"/>
         <source>Create child study</source>
-        <translation type="unfinished">Criar um estudo sobre crianças</translation>
+        <translation>Criar um estudo filho</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="116"/>
         <source>Convert folder to subject</source>
-        <translation type="unfinished">Converter pasta em assunto</translation>
+        <translation>Converter pasta para assunto</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="120"/>
         <source>Convert folder to study</source>
-        <translation type="unfinished">Converter pasta em estudo</translation>
+        <translation>Converter pasta para estudo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="124"/>
         <source>Export to DICOM...</source>
-        <translation type="unfinished">Exportar para DICOM...</translation>
+        <translation>Exportar para DICOM...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="509"/>
@@ -27624,7 +27624,7 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="514"/>
         <source>Create new patient and study for DICOM export?</source>
-        <translation type="unfinished">Create new patient and study for DICOM export?</translation>
+        <translation>Criar um novo paciente e estudo para a exportação DICOM?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="608"/>
@@ -27634,7 +27634,7 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="636"/>
         <source>No study description</source>
-        <translation type="unfinished">Não há descrição do estudo</translation>
+        <translation>Sem descrição do estudo</translation>
     </message>
 </context>
 <context>
@@ -27642,12 +27642,12 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="84"/>
         <source>Show all children</source>
-        <translation type="unfinished">Mostrar todos os filhos</translation>
+        <translation>Mostrar todos os filhos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="87"/>
         <source>Hide all children</source>
-        <translation type="unfinished">Ocultar todos os elementos secundários</translation>
+        <translation>Ocultar todos os filhos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="136"/>
@@ -27660,12 +27660,12 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="95"/>
         <source>Tractography labelmap seeding...</source>
-        <translation type="unfinished">Inicialização do mapa de rótulos da tractografia...</translation>
+        <translation>Inicialização do mapa de rótulos da tractografia...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="97"/>
         <source>Tractography interactive seeding...</source>
-        <translation type="unfinished">Seleção interativa de trajetórias...</translation>
+        <translation>Seleção interativa de inicialização...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="176"/>
@@ -27683,12 +27683,12 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="85"/>
         <source>Export to file...</source>
-        <translation type="unfinished">Exportar para ficheiro...</translation>
+        <translation>Exportar para ficheiro...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="86"/>
         <source>Export this node to a file</source>
-        <translation type="unfinished">Exportar este nó para um ficheiro</translation>
+        <translation>Exportar este nó para um ficheiro</translation>
     </message>
 </context>
 <context>
@@ -27696,32 +27696,32 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="100"/>
         <source>Create new folder</source>
-        <translation type="unfinished">Criar nova pasta</translation>
+        <translation>Criar nova pasta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="104"/>
         <source>Create child folder</source>
-        <translation type="unfinished">Criar pasta secundária</translation>
+        <translation>Criar pasta filho</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="108"/>
         <source>Apply color to all children</source>
-        <translation type="unfinished">Aplicar cor a todos os filhos</translation>
+        <translation>Aplicar cor a todos os filhos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="110"/>
         <source>If on, then children items will inherit the display properties (e.g. color or opacity) set to the folder</source>
-        <translation type="unfinished">Se estiver ativado, os itens filhos herdarão as propriedades de exibição (por exemplo, cor ou opacidade) definidas para a pasta</translation>
+        <translation>Se estiver ativado, os itens filhos herdarão as propriedades de exibição (p.ex. cor ou opacidade) definidas para a pasta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="115"/>
         <source>Show empty folders</source>
-        <translation type="unfinished">Mostrar pastas vazias</translation>
+        <translation>Mostrar pastas vazias</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation type="unfinished">Se estiver ativada, são apresentadas as pastas que não contêm nós (autorizadas por qualquer filtro); caso contrário, não são apresentadas</translation>
+        <translation>Se estiver ativada, as pastas que não contêm nós (autorizadas por qualquer filtro) são mostradas e caso contrário, não são apresentadas</translation>
     </message>
 </context>
 <context>
@@ -27729,7 +27729,7 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="92"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished">Visibilidade do contorno 2D</translation>
+        <translation>Visibilidade do contorno 2D</translation>
     </message>
 </context>
 <context>
