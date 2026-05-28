@@ -6,17 +6,17 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="17"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished">Lejupielādējiet, kompilējiet un instalējiet jaunākos tulkojumus</translation>
+        <translation>Lejupielādējiet, kompilējiet un uzstādiet jaunākos tulkojumus</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation type="unfinished">Atjaunināt tulkojumu failus</translation>
+        <translation>Atjaunināt tulkojuma datnes</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished">Weblate API atslēga:</translation>
+        <translation>Weblate API atslēga:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished">Teksta virziens:</translation>
+        <translation>Teksta virziens:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
         <source>Languages:</source>
-        <translation type="unfinished">Valodas:</translation>
+        <translation>Valodas:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="239"/>
@@ -71,12 +71,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished">Atjauniniet Weblate valodu sarakstu, nosūtot pieprasījumu Weblate serverim.</translation>
+        <translation>Atsvaidzināt Weblate valodu sarakstu, nosūtot vaicājumu Weblate serverim.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="273"/>
         <source>refresh</source>
-        <translation type="unfinished">atjaunināt</translation>
+        <translation>atsvaidzināt</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="280"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="168"/>
         <source>Application language:</source>
-        <translation type="unfinished">Pieteikuma valoda:</translation>
+        <translation>Lietotnes valoda:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="143"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="69"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Izmanto tikai GitHub vajadzībām.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Izmanto tikai GitHub vajadzībām.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="79"/>
@@ -178,12 +178,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="364"/>
         <source>Keyboard shortcut:</source>
-        <translation type="unfinished">Tastatūras saīsne:</translation>
+        <translation>Īsinājumtaustiņš:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="21"/>
         <source>Language Tools</source>
-        <translation type="unfinished">Valodu rīki</translation>
+        <translation>Valodas rīki</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="25"/>
@@ -222,9 +222,9 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished">Noklikšķiniet uz teksta, lai to atrastu tulkojumu vietnē [{valoda}]:
+        <translation>Noklikšķiniet uz teksta, lai to atrastu tulkojumu vietnē [{language}]:
 
-{saites}</translation>
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="211"/>
@@ -284,7 +284,7 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="670"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation type="unfinished">Lejupielādēt tulkojumus {komponents}/{valoda}...</translation>
+        <translation>Lejupielādēt {component}/{language} komponentes tulkojumus…</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="682"/>
