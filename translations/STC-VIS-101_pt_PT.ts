@@ -400,7 +400,7 @@ Renderização de Volume na lista de módulos </translation>
 30_VolumeRendering_title
 ----------
 31_VolumeRendering_title</extracomment>
-        <translation type="finished">Renderização de volume</translation>
+        <translation>Renderização de Volume</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="102"/>
