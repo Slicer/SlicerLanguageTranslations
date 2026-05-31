@@ -27737,63 +27737,63 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="146"/>
         <source>Rename control point...</source>
-        <translation type="unfinished">Renomear ponto de controlo...</translation>
+        <translation>Renomear ponto de controlo...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="151"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished">Reajuste a focagem da câmara neste ponto</translation>
+        <translation>Reajustar a focagem da câmara neste ponto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="156"/>
         <source>Toggle select control point</source>
-        <translation type="unfinished">Alternar o ponto de controlo selecionado</translation>
+        <translation>Alternar o ponto de controlo selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="161"/>
         <source>Jump to previous control point</source>
-        <translation type="unfinished">Ir para o ponto de controlo anterior</translation>
+        <translation>Saltar para o ponto de controlo anterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="162"/>
         <source>Jump slice views to the previous control point</source>
-        <translation type="unfinished">Ir diretamente para o ponto de controlo anterior</translation>
+        <translation>Saltar vistas de fatia para o ponto de controlo anterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="167"/>
         <source>Jump to next control point</source>
-        <translation type="unfinished">Ir para o próximo ponto de controlo</translation>
+        <translation>Saltar para o próximo ponto de controlo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="168"/>
         <source>Jump slice views to the next control point</source>
-        <translation type="unfinished">Saltar as vistas de corte para o próximo ponto de controlo</translation>
+        <translation>Saltar as vistas de fatia para o próximo ponto de controlo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="173"/>
         <source>Jump to closest control point</source>
-        <translation type="unfinished">Ir para o ponto de controlo mais próximo</translation>
+        <translation>Saltar para o ponto de controlo mais próximo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="174"/>
         <source>Jump slice views to the closest control point</source>
-        <translation type="unfinished">Saltar para as vistas de corte no ponto de controlo mais próximo</translation>
+        <translation>Saltar para as vistas de fatia no ponto de controlo mais próximo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="179"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="596"/>
         <source>Delete control point</source>
-        <translation type="unfinished">Eliminar ponto de controlo</translation>
+        <translation>Eliminar ponto de controlo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="184"/>
         <source>Delete markup</source>
-        <translation type="unfinished">Apagar marcação</translation>
+        <translation>Apagar marcação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="189"/>
         <source>Edit markup terminology...</source>
-        <translation type="unfinished">Editar terminologia de marcação...</translation>
+        <translation>Editar terminologia de marcação...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="196"/>
@@ -27823,12 +27823,12 @@ Clique em Cancelar para criar manualmente a hierarquia de pacientes/estudos e ar
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="222"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="254"/>
         <source>Interaction options</source>
-        <translation type="unfinished">Interaction options</translation>
+        <translation>Opções de interação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="258"/>
         <source>Flip normal</source>
-        <translation type="unfinished">Inverter normal</translation>
+        <translation>Inverter normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="450"/>
@@ -28140,27 +28140,27 @@ Nota: Isto pode resultar na perda indesejada de dados em %4.</translation>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="394"/>
         <source> (Source representation: %1)</source>
         <oldsource> (Master representation: %1)</oldsource>
-        <translation type="unfinished"> (Representação da fonte: %1)</translation>
+        <translation> (Representação da fonte: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
         <source> (Number of segments: %1)</source>
         <extracomment>parameter is the representation name</extracomment>
-        <translation type="unfinished"> (Número de segmentos: %1)</translation>
+        <translation> (Número de segmentos: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1058"/>
         <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished">Não foi possível criar uma representação binária do mapa de rótulos para a segmentação %1 utilizando os parâmetros de conversão predefinidos!
+        <translation>Falha ao criar uma representação binária do mapa de rótulos para a segmentação %1 utilizando os parâmetros de conversão predefinidos!
 
 Visite o módulo de Segmentação e experimente a função avançada de criação de representações.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1062"/>
         <source>Failed to export segmentation to labelmap node</source>
-        <translation type="unfinished">Failed to export segmentation to labelmap node</translation>
+        <translation>Falha ao exportar segmentação para nó de mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1080"/>
@@ -28172,22 +28172,22 @@ Visite o módulo de Segmentação e experimente a função avançada de criaçã
         <source>Failed to export segments from segmentation %1 to labelmap node!
 
 Most probably the segment cannot be converted into binary labelmap representation</source>
-        <translation type="unfinished">Falha ao exportar segmentos da segmentação %1 para o nó labelmap!
+        <translation>Falha ao exportar segmentos da segmentação %1 para o nó de mapa de rótulos!
 
-É muito provável que o segmento não possa ser convertido para a representação binária do labelmap</translation>
+É muito provável que o segmento não possa ser convertido para a representação binária do mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1100"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1152"/>
         <source>Failed to export segments</source>
-        <translation type="unfinished">Failed to export segments</translation>
+        <translation>Falha ao exportar segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1120"/>
         <source>Failed to create closed surface representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished">Não foi possível criar uma representação de superfície fechada para a segmentação %1 utilizando os parâmetros de conversão predefinidos!
+        <translation>Falha ao criar uma representação de superfície fechada para a segmentação %1 utilizando os parâmetros de conversão predefinidos!
 
 Visite o módulo de Segmentação e experimente a função avançada de criação de representação.</translation>
     </message>
@@ -28195,7 +28195,7 @@ Visite o módulo de Segmentação e experimente a função avançada de criaçã
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1124"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1386"/>
         <source>Failed to export segmentation to models</source>
-        <translation type="unfinished">Failed to export segmentation to models</translation>
+        <translation>Falha ao exportar segmentação para modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1130"/>
@@ -28207,7 +28207,7 @@ Visite o módulo de Segmentação e experimente a função avançada de criaçã
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation type="unfinished">Não foi possível exportar segmentos da segmentação %1 para os modelos!
+        <translation>Falha ao exportar segmentos da segmentação %1 para os modelos!
 
 Provavelmente, o segmento não pode ser convertido numa representação de superfície fechada.</translation>
     </message>
