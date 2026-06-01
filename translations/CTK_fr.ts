@@ -2021,7 +2021,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filtrer les métadonnées affichées en fonction du contenu dans les colonnes Tag, Attribute et Value.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Recherche simple : &lt;/span&gt;entrez n&apos;importe quel texte pour afficher uniquement les éléments qui contiennent le texte. Utiliser ? et * des caractères génériques pour représenter &lt;span style=&quot; font-style:italic;&quot;&gt;tout &lt;/span&gt;caractère unique ou séquence de caractères.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Recherche d&apos;expressions régulières (pour les utilisateurs avancés)&#xa0;:&lt;/span&gt; Saisissez &lt;span style=&quot; font-style:italic;&quot;&gt;regexp&#xa0;:&lt;/span&gt; suivi d&apos;une expression régulière. Par exemple, affichez 3 balises spécifiques, entrez&#xa0;: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filtrer les métadonnées affichées en fonction du contenu dans les colonnes Tag, Attribute et Value.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Recherche simple&#xa0;: &lt;/span&gt;entrez n&apos;importe quel texte pour afficher uniquement les éléments qui contiennent le texte. Utiliser&#x202f;? et * comme caractères génériques pour représenter &lt;span style=&quot; font-style:italic;&quot;&gt;tout &lt;/span&gt;caractère unique ou séquence de caractères.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Recherche d&apos;expressions régulières (pour les utilisateurs avancés)&#xa0;:&lt;/span&gt; Saisissez &lt;span style=&quot; font-style:italic;&quot;&gt;regexp&#xa0;:&lt;/span&gt; suivi d&apos;une expression régulière. Par exemple, affichez 3 balises spécifiques, entrez&#xa0;: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
@@ -2103,7 +2103,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="326"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="507"/>
         <source>MRN: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MRN: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="330"/>
@@ -2120,7 +2120,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="515"/>
         <source>Sex: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexe&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -2128,7 +2128,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMPatientModel.cpp" line="862"/>
         <source>Patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Patients</translation>
     </message>
 </context>
 <context>
@@ -2136,34 +2136,34 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="894"/>
         <source>Toggle between Tab Mode and List Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer entre le mode tableau et le mode liste</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="927"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1198"/>
         <source>Show all patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Montrer tous les patients</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="934"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1205"/>
         <source>Switch to Tab Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer en mode tableau</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="945"/>
         <source>Allowed servers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveurs autorisés&#xa0;:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1622"/>
         <source>Query in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande en cours...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1626"/>
         <source>No results found in the database</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de résultat trouvé dans la base de données</translation>
     </message>
 </context>
 <context>
@@ -2318,7 +2318,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesDelegate.cpp" line="292"/>
         <source>Unknown Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Séries inconnues</translation>
     </message>
 </context>
 <context>
@@ -2516,12 +2516,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="384"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="387"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="598"/>
@@ -2575,17 +2575,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="361"/>
         <source>Anonomyzed study</source>
-        <translation type="unfinished"></translation>
+        <translation>Etude anonymisée</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="447"/>
         <source>%1/%2 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Séries %1/%2</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="451"/>
         <source>%1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Séries %1</translation>
     </message>
 </context>
 <context>
@@ -2594,22 +2594,22 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="404"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="409"/>
         <source>Load (%1k)</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger (%1k)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="413"/>
         <source>Load (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement (%1)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="526"/>
         <source>Load selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger les séries sélectionnées</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="555"/>
         <source>Load</source>
-        <translation type="unfinished">Charger</translation>
+        <translation>Charger</translation>
     </message>
 </context>
 <context>
@@ -2885,17 +2885,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="87"/>
         <source>Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrage</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="117"/>
         <source> MRN...</source>
-        <translation type="unfinished"></translation>
+        <translation> MRN...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="130"/>
         <source> Name...</source>
-        <translation type="unfinished"></translation>
+        <translation> Nom...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="189"/>
@@ -2915,12 +2915,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="163"/>
         <source> Study Description...</source>
-        <translation type="unfinished"></translation>
+        <translation> Description de l&apos;étude...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="176"/>
         <source> Series Description ...</source>
-        <translation type="unfinished"></translation>
+        <translation> Description des séries...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="217"/>
@@ -2955,12 +2955,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="251"/>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personnalisé...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="355"/>
         <source> Import </source>
-        <translation type="unfinished"></translation>
+        <translation> Import </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="268"/>
