@@ -108,7 +108,7 @@
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="106"/>
         <location filename="TutorialMaker/Resources/UI/TutorialAnnotator.ui" line="117"/>
         <source>toolBar</source>
-        <translation type="unfinished">barre d'outils</translation>
+        <translation>barre d&apos;outils</translation>
     </message>
 </context>
 <context>
@@ -116,7 +116,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="96"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished">TutorialMaker - Annotateur</translation>
+        <translation>TutorialMaker - Annotateur</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="65"/>
@@ -191,7 +191,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="229"/>
         <source> thick.</source>
-        <translation type="unfinished"> épais.</translation>
+        <translation> épais.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="301"/>
@@ -221,7 +221,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1182"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished">Remerciements</translation>
+        <translation>Remerciements</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1206"/>
@@ -497,7 +497,7 @@ Veuillez ne pas utiliser la souris ou le clavier pour interagir avec 3D Slicer t
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="829"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished">Remerciements</translation>
+        <translation>Remerciements</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="835"/>
