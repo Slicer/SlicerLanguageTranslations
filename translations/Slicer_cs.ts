@@ -11,17 +11,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation>Přidá dva obrázky. Přestože jsou na vstupu podporovány všechny typy obrázků, jsou vytvářeny pouze podepsané typy. Oba obrázky nemusí mít stejné rozměry.</translation>
+        <translation>Přidá dva obrázky. Přestože jsou na vstupu podporovány všechny typy obrázků, na výstupu jsou vytvářeny pouze podepsané typy. Oba obrázky nemusí mít stejné rozměry.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí Národní aliance pro výpočetní zpracování lékařských obrazů (NAMIC), která je financována Národními instituty zdraví (NIH) prostřednictvím programu NIH Roadmap for Medical Research v rámci grantu U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation>Vstup Výstup</translation>
+        <translation>Vstup/výstup</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
@@ -31,17 +31,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation>Vstupní objem 1</translation>
+        <translation>Vstupní svazek 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation>Vstupní objem 2</translation>
+        <translation>Vstupní svazek 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation>Výstupní objem</translation>
+        <translation>Výstupní hlasitost</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
         <source>Volume1 + Volume2</source>
-        <translation>Objem1 + Objem2</translation>
+        <translation>Svazek1 + Svazek2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
@@ -66,17 +66,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation>Pokročilé parametry pro doladění výpočtu.</translation>
+        <translation>Pokročilé parametry pro jemné doladění výpočtu.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pořadí polynomiální interpolace, které se použije, pokud dva obrazy mají odlišnou geometrii (počátek, rozteč, směr os nebo rozsah): 0 = nejbližší soused, 1 = lineární, 2 = kvadratická, 3 = kubická interpolace.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation>Interpolační příkaz</translation>
+        <translation>Pořadí interpolace</translation>
     </message>
 </context>
 <context>
@@ -84,12 +84,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation>DWI Úklid (BRAINS)</translation>
+        <translation>Úklid po řízení pod vlivem alkoholu (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation>Odstranit špatné přechody/objemy z DWI NRRD souboru.</translation>
+        <translation>Odstraňte chybné přechody/objemy ze souboru DWI NRRD.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
@@ -99,27 +99,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation>Vstupní objem obrazu</translation>
+        <translation>Hlasitost vstupního obrazu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation>NRRD soubor se špatnými přechody odstraněn.</translation>
+        <translation>Soubor NRRD s odstraněnými chybnými přechody.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation>Seznam objemů se špatnými přechody</translation>
+        <translation>seznam chybných objemů gradientů</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation>Požadováno: vstupní obraz je 4D NRRD obraz.</translation>
+        <translation>Požadováno: vstupní obrázek je 4D NRRD obrázek.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation>daný seznam </translation>
+        <translation>dostal seznam </translation>
     </message>
 </context>
 <context>
