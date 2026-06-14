@@ -557,7 +557,7 @@ Please do not use the mouse or keyboard to interact with 3D Slicer until the scr
     <message>
         <location filename="TutorialMaker/Testing/AIBasedSegmentationIn3DSlicer.py" line="233"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு</translation>
     </message>
 </context>
 </TS>
