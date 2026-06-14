@@ -503,7 +503,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="27"/>
         <source>Segmentation</source>
-        <translation>பிரித்தல்</translation>
+        <translation>பிரிவு</translation>
     </message>
 </context>
 </TS>
