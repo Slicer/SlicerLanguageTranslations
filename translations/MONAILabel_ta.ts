@@ -170,12 +170,12 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="197"/>
         <source>Enable this option to include dicom files in server-client data exchange</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகம்-கிளையன்ட் தரவு பரிமாற்றத்தில் டிகாம் கோப்புகளைச் சேர்க்க இந்த விருப்பத்தை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="200"/>
         <source>Include DICOM files:</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM கோப்புகளைச் சேர்க்கவும்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="215"/>
