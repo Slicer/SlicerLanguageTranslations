@@ -2103,24 +2103,24 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="326"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="507"/>
         <source>MRN: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.என்: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="330"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="511"/>
         <source>Birth Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>பிறந்த தேதி: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="365"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="543"/>
         <source>Date added: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சேர்க்கப்பட்ட தேதி: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="515"/>
         <source>Sex: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>பாலினம்: %1</translation>
     </message>
 </context>
 <context>
@@ -2128,7 +2128,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMPatientModel.cpp" line="862"/>
         <source>Patients</source>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளிகள்</translation>
     </message>
 </context>
 <context>
@@ -2136,34 +2136,34 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="894"/>
         <source>Toggle between Tab Mode and List Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>தாவல் பயன்முறை மற்றும் பட்டியல் பயன்முறைக்கு இடையில் மாறவும்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="927"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1198"/>
         <source>Show all patients</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து நோயாளிகளுக்கும் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="934"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1205"/>
         <source>Switch to Tab Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>தாவல் பயன்முறைக்கு மாறவும்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="945"/>
         <source>Allowed servers:</source>
-        <translation type="unfinished"></translation>
+        <translation>அனுமதிக்கப்பட்ட சேவையகங்கள்:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1622"/>
         <source>Query in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>வினவல் நடந்து கொண்டிருக்கிறது...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1626"/>
         <source>No results found in the database</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தளத்தில் முடிவுகள் எதுவும் இல்லை</translation>
     </message>
 </context>
 <context>
@@ -2318,7 +2318,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesDelegate.cpp" line="292"/>
         <source>Unknown Series</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியாத தொடர்</translation>
     </message>
 </context>
 <context>
@@ -2516,12 +2516,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="384"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>இடு</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="387"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>நிராகரிக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="598"/>
@@ -2575,17 +2575,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="361"/>
         <source>Anonomyzed study</source>
-        <translation type="unfinished"></translation>
+        <translation>அநாமதேய ஆய்வு</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="447"/>
         <source>%1/%2 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/%2 தொடர்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="451"/>
         <source>%1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 தொடர்</translation>
     </message>
 </context>
 <context>
@@ -2594,22 +2594,22 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="404"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="409"/>
         <source>Load (%1k)</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்று (%1கி)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="413"/>
         <source>Load (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்று (%1)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="526"/>
         <source>Load selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட தொடரை ஏற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="555"/>
         <source>Load</source>
-        <translation type="unfinished">சுமை</translation>
+        <translation>ஏற்றவும்</translation>
     </message>
 </context>
 <context>
@@ -2885,17 +2885,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="87"/>
         <source>Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிகட்டுதல்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="117"/>
         <source> MRN...</source>
-        <translation type="unfinished"></translation>
+        <translation> எம்ஆர்என்...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="130"/>
         <source> Name...</source>
-        <translation type="unfinished"></translation>
+        <translation> பெயர்...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="189"/>
@@ -2915,12 +2915,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="163"/>
         <source> Study Description...</source>
-        <translation type="unfinished"></translation>
+        <translation> ஆய்வு விளக்கம்...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="176"/>
         <source> Series Description ...</source>
-        <translation type="unfinished"></translation>
+        <translation> தொடர் விளக்கம்...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="217"/>
@@ -2955,12 +2955,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="251"/>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிப்பயன்...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="355"/>
         <source> Import </source>
-        <translation type="unfinished"></translation>
+        <translation> இறக்குமதி </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="268"/>
@@ -2972,12 +2972,14 @@ p, li { white-space: pre-wrap; }
         <source>Query and retrieve. If filters are set, a patient query will be sent to the DICOM servers.
 If no filters are set, a study query for the currently selected patient in the local database
 (or the first patient if none is selected) will be sent to the DICOM servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>வினவவும் மீட்டெடுக்கவும். வடிப்பான்கள் அமைக்கப்பட்டால், நோயாளியின் வினவல் DICOM சேவையகங்களுக்கு அனுப்பப்படும். 
+வடிப்பான்கள் எதுவும் அமைக்கப்படவில்லை எனில், உள்ளக தரவுத்தளத்தில் தற்போது தேர்ந்தெடுக்கப்பட்ட நோயாளிக்கான ஆய்வு வினவல் 
+(அல்லது எதுவும் தேர்ந்தெடுக்கப்படாவிட்டால் முதல் நோயாளி) DICOM சேவையகங்களுக்கு அனுப்பப்படுவார்.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="309"/>
         <source>Query </source>
-        <translation type="unfinished"></translation>
+        <translation>வினவு </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="332"/>
@@ -3061,69 +3063,72 @@ If no filters are set, a study query for the currently selected patient in the l
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="883"/>
         <source>No server is configured for query/retrieve operations. The server settings section is below.
 Check also the allowed servers at patient level.</source>
-        <translation type="unfinished"></translation>
+        <translation>வினவல்/மீட்டெடுக்கும் செயல்பாடுகளுக்கு எந்த சேவையகமும் கட்டமைக்கப்படவில்லை. சேவையக அமைப்புகள் பிரிவு கீழே உள்ளது. 
+நோயாளி மட்டத்தில் அனுமதிக்கப்பட்ட சேவையகங்களையும் சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2481"/>
         <source>No server is configured for query/retrieve operations.
 The server settings section is below.</source>
-        <translation type="unfinished"></translation>
+        <translation>வினவல்/மீட்டெடுக்கும் செயல்பாடுகளுக்கு எந்த சேவையகமும் கட்டமைக்கப்படவில்லை. 
+சேவையக அமைப்புகள் பிரிவு கீழே உள்ளது.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2494"/>
         <source>No filters are set and no patients are found in the local database.
 Please specify at least one filter to query the servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிப்பான்கள் எதுவும் அமைக்கப்படவில்லை மற்றும் உள்ளக தரவுத்தளத்தில் நோயாளிகள் இல்லை. 
+சேவையகங்களை வினவ குறைந்தபட்சம் ஒரு வடிப்பானைக் குறிப்பிடவும்.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2622"/>
         <source>The patients query provided no results. Please refine your filters in the search section.</source>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளிகளின் வினவல் எந்த முடிவையும் தரவில்லை. தேடல் பிரிவில் உங்கள் வடிப்பான்களைச் செம்மைப்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2996"/>
         <source>Load patient</source>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளியை ஏற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2997"/>
         <source>Load %1 patients</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நோயாளிகளை ஏற்று</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3003"/>
         <source>View %1 patients DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நோயாளிகள் டைகாம் மெட்டாடேட்டாவைப் பார்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3009"/>
         <source>Delete %1 patients from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளக தரவுத்தளத்திலிருந்து %1 நோயாளிகளை நீக்கு</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3016"/>
         <source>Export %1 patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நோயாளிகளை கோப்பு முறைமைக்கு ஏற்றுமதி செய்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3022"/>
         <source>Send %1 patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>டைகாம் சேவையகத்திற்கு %1 நோயாளிகளை அனுப்பவும்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3114"/>
         <source>Force retrieve study</source>
-        <translation type="unfinished"></translation>
+        <translation>படிப்பை கட்டாயப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3115"/>
         <source>Force retrieve %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஆய்வுகளை கட்டாயப்படுத்து</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3229"/>
         <source>Force retrieve %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 தொடரை வலுக்கட்டாயமாக மீட்டெடு</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3658"/>
@@ -3140,12 +3145,12 @@ Please specify at least one filter to query the servers.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="386"/>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>இருந்து:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>இதற்கு:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1972"/>
@@ -5080,7 +5085,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1118"/>
         <source>RAS = %1, %2, %3</source>
-        <translation>RAS = %1, %2, %3</translation>
+        <translation>RAS = %1,%2,%3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1129"/>
@@ -6021,7 +6026,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
         <source>Select a xnat file, resource, scan, or scan folder to download...</source>
-        <translation>பதிவிறக்க ஒரு XNAT கோப்பு, சான்று, வருடு அல்லது வருடு கோப்புறையைத் தேர்ந்தெடுக்கவும் ...</translation>
+        <translation>பதிவிறக்க ஒரு ஃநேட் கோப்பு, சான்று, வருடு அல்லது வருடு கோப்புறையைத் தேர்ந்தெடு...</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"/>
