@@ -16,22 +16,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>வலைபெயர்ப்பு பநிஇ விசை:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலையைப் பயன்படுத்த காலியாக விடவும். Weblateக்கான விருப்ப பநிஇ விசை. நீங்கள் தனியார் திட்டங்களை அணுக வேண்டும் அல்லது கட்டண வரம்புகளைத் தவிர்க்க வேண்டும் என்றால் இதை வழங்கவும்.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
         <source>Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலையைப் பயன்படுத்த காலியாக விடவும் (ச்லைசர் நிறுவியுடன் இணைக்கப்பட்ட அல்லது கணினி பாதைகளில் கிடைக்கும் கியுடி lrelease கருவிகள்). தனிப்பயன் கியுடி lrelease executable ஐப் பயன்படுத்த குறிப்பிடவும்.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>உரை திசை:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
@@ -128,7 +128,7 @@
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
         <oldsource>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</oldsource>
-        <translation type="unfinished">கியுடி lrelease இயங்கக்கூடிய பாதை. இயல்புநிலையைப் பயன்படுத்த காலியாக விடவும் (ச்லைசர் நிறுவியுடன் தொகுக்கப்பட்ட அல்லது கணினி பாதைகளில் கிடைக்கிறது).</translation>
+        <translation>பயன்பாடு மொழிபெயர்ப்புகளைத் தேடும் கோப்புறைகளின் பட்டியல். இது தகவலுக்காக மட்டுமே, பாதைகளை மாற்ற முடியாது.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="62"/>
@@ -191,7 +191,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+இந்த தொகுதி மொழிபெயர்ப்பு கோப்புகளை உருவாக்கி அவற்றை உள்ளூரில் நிறுவ முடியும். மொழிபெயர்ப்புகளை உருவாக்குவதற்கும் சோதனை செய்வதற்கும் இது பயனுள்ளதாக இருக்கும். 
+மேலும் தகவலை &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;நீட்டிப்பு ஆவணத்தில்&lt;/a&gt; பார்க்கவும்.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -202,9 +205,8 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </oldsource>
-        <translation type="unfinished">
-இந்தத் தொகுதி மொழிபெயர்ப்புக் கோப்புகளை உருவாக்கி அவற்றை உள்நாட்டில் நிறுவ முடியும். மொழிபெயர்ப்புகளை உருவாக்குவதற்கும் சோதிப்பதற்கும் இது பயனுள்ளதாக இருக்கும்.
- &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt; நீட்டிப்பின் ஆவணங்கள் &lt;/a&gt; இல் கூடுதல் தகவல்களைக் காண்க.
+        <translation>
+&lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS மானியம்&lt;/a&gt; மூலம் இந்த தொகுதி உருவாக்கப்பட்டுள்ளது.
 </translation>
     </message>
     <message>
@@ -232,17 +234,17 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>தானாக கண்டறிதல்</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
         <source>Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation>இடமிருந்து வலமாக</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="269"/>
         <source>Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>வலமிருந்து இடமாக</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="332"/>
@@ -292,7 +294,7 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>தவிர்க்கப்பட்டது. பதிவிறக்கம் செய்யப்பட்ட கோப்பு தவறானது.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
@@ -308,7 +310,7 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="758"/>
         <source>No translation (qm) files were found at {location}</source>
-        <translation>மொழிபெயர்ப்பு (QM) கோப்புகள் {location} காணப்படவில்லை</translation>
+        <translation>மொழிபெயர்ப்பு (qm) கோப்புகள் {location} காணப்படவில்லை</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="760"/>
