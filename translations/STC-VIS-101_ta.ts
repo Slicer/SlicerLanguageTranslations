@@ -7,43 +7,43 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Basics of Data Loading and 3D Visualization in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D ச்லைசரில் தரவு ஏற்றுதல் மற்றும் 3D காட்சிப்படுத்தலின் அடிப்படைகள்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Author: Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ஆசிரியர்: சோனியா புசோல், Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>24/11/2024</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>24/11/2024</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Assistant Professor of Radiology Brigham and Women’s Hospital Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கதிரியக்கவியல் உதவிப் பேராசிரியர் பிரிகாம் மற்றும் மகளிர் மருத்துவமனை ஆர்வர்ட் மருத்துவப் பள்ளி</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Overall Goal</source>
         <extracomment>1_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ஒட்டுமொத்த இலக்கு</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>This tutorial is an introduction to the basics of loading and viewing DICOM images and 3D models in 3D Slicer.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பயிற்சியானது 3D ச்லைசரில் DICOM படங்கள் மற்றும் 3D மாடல்களை ஏற்றுதல் மற்றும் பார்ப்பதற்கான அடிப்படைகள் பற்றிய அறிமுகமாகும்.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
         <source>Learning Objectives</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கற்றல் நோக்கங்கள்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
@@ -55,13 +55,19 @@
 
 • to load and visualize 3D models reconstructed from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> • இந்தப் பயிற்சியைத் தொடர்ந்து, உங்களால் முடியும் 
+
+• ச்லைசரில் DICOM படங்களை ஏற்ற மற்றும் காட்சிப்படுத்த 
+
+• CT தரவின் வால்யூம் வழங்குதல் செய்ய 
+
+எம்ஆர்ஐ தரவிலிருந்து புனரமைக்கப்பட்ட 3டி மாடல்களை ஏற்றுவதற்கும் காட்சிப்படுத்துவதற்கும்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>Tutorial materials</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>பயிற்சி பொருட்கள்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -69,7 +75,9 @@
 
 •  3D VisualizationDataSet.zip</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• 3D ச்லைசர் பதிப்பு 5.10 
+
+• 3D VisualizationDataSet.zip</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -78,7 +86,7 @@
         <extracomment>4_TextBox_0
 ----------
 33_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>பயிற்சி தரவுத்தொகுப்பு</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -89,13 +97,18 @@
 
 Unzip the file 3DVisualizationDataset.zip on your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3DVisualizationDataset.zip கோப்பு இரண்டு கோப்பகங்களைக் கொண்டுள்ளது: 
+
+- தரவுத்தொகுப்பு1_Thorax_Abdomen 
+- தரவுத்தொகுப்பு2_தலை 
+
+தரவுத்தொகுப்புகளை அணுக உங்கள் கணினியில் 3DVisualizationDataset.zip கோப்பை அன்சிப் செய்யவும்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Disclaimer</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மறுப்பு</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
@@ -105,13 +118,17 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 • The software is not FDA approved or CE-Marked, and is for research use only.
 </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• 3D ச்லைசர் என்பது BSD பாணி உரிமத்தின் கீழ் விநியோகிக்கப்படும் இலவச திறந்த மூல மென்பொருள் பயன்பாடாகும். 
+
+
+• மென்பொருள் FDA அங்கீகரிக்கப்படவில்லை அல்லது CE-குறியீடு செய்யப்படவில்லை, மேலும் இது ஆராய்ச்சி பயன்பாட்டிற்கு மட்டுமே.
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Tutorial Outline</source>
         <extracomment>6_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>டுடோரியல் அவுட்லைன்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -122,13 +139,18 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 
 • Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• பகுதி 1: DICOM தரவை ஏற்றுதல் மற்றும் பார்த்தல் 
+
+• பகுதி 2: வால்யூம் வழங்குதல் 
+
+
+• பகுதி 3: 3D மாடல்களை ஏற்றுதல் மற்றும் பார்ப்பது</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>Part 1: DICOM Data Loading</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>பகுதி 1: DICOM தரவு ஏற்றுதல்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
@@ -137,26 +159,27 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <extracomment>8_LoadingaDICOMvolume_title
 ----------
 9_LoadingaDICOMvolume_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DICOM தொகுதியை ஏற்றுகிறது</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer displays the user interface of the DICOM module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் DICOM தொகுதியின் பயனர் இடைமுகத்தைக் காட்டுகிறது</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>The patient1 study contains a CT Thorax Abdomen dataset</source>
         <extracomment>8_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளி1 ஆய்வில் CT தோராக்ச் அடிவயிற்று தரவுத்தொகுப்பு உள்ளது</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
         <source>Select patient1 and click on Load 
 to load the dataset in Slicer</source>
         <extracomment>9_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளி1 என்பதைத் தேர்ந்தெடுத்து, சுமை என்பதைக் சொடுக்கு செய்யவும் 
+ச்லைசரில் தரவுத்தொகுப்பை ஏற்றுவதற்கு</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -186,7 +209,7 @@ to load the dataset in Slicer</source>
 17_VisualizingDICOMimages_title
 ----------
 18_VisualizingDICOMimages_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DICOM படங்களை காட்சிப்படுத்துதல்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -194,21 +217,25 @@ to load the dataset in Slicer</source>
 and sagittal images of the CT 
 Thorax Abdomen dataset </source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் அச்சு, கரோனலைக் காட்டுகிறது 
+மற்றும் CT இன் சாகிட்டல் படங்கள் 
+மார்பு வயிறு தரவுத்தொகுப்பு </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
         <source>Left click on DICOM to display 
 the list of modules of Slicer</source>
         <extracomment>11_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>காட்ட DICOM மீது இடது சொடுக்கு செய்யவும் 
+ச்லைசரின் தொகுதிகளின் பட்டியல்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
         <source>Select the module 
 Volumes</source>
         <extracomment>11_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதியைத் தேர்ந்தெடுக்கவும் 
+தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
@@ -217,7 +244,10 @@ preset to automatically adjust
 the window/level display of the 
 CT dataset</source>
         <extracomment>12_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>CT-வயிற்றில் சொடுக்கு செய்யவும் 
+தானாக சரிசெய்ய முன்னமைக்கப்பட்ட 
+சாளரம்/நிலை காட்சி 
+CT தரவுத்தொகுப்பு</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
@@ -236,14 +266,28 @@ Click on the Eye icon to
 display the three anatomical 
 slices in the 3D Viewer</source>
         <extracomment>13_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மவுச் கர்சரை வைக்கவும் 
+சிவப்பு பேனருக்கு மேல் 
+ச்லைசைக் காட்ட சிவப்பு பார்வையாளர் 
+பட்டியல். 
+
+
+இணைக்க இணைப்புகள் ஐகானைக் சொடுக்கு செய்யவும் 
+ச்லைச் அனைத்தையும் கட்டுப்படுத்துகிறது 
+ச்லைச் பார்வையாளர்கள். 
+
+
+கண் ஐகானைக் சொடுக்கு செய்யவும் 
+மூன்று உடற்கூறியல் காட்சி 
+3D வியூவரில் உள்ள துண்டுகள்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>The three anatomical slices 
 appear in the 3D viewer.</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மூன்று உடற்கூறியல் துண்டுகள் 
+3D வியூவரில் தோன்றும்.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -251,7 +295,9 @@ appear in the 3D viewer.</source>
 icon, and select the 
 Conventional Widescreen layout</source>
         <extracomment>15_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் லேஅவுட் மெனுவை சொடுக்கு செய்யவும் 
+படவுரு, மற்றும் தேர்ந்தெடுக்கவும் 
+வழக்கமான அகலத்திரை அமைப்பு</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -259,21 +305,25 @@ Conventional Widescreen layout</source>
 to Conventional 
 Widescreen layout</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் தளவமைப்பை மாற்றுகிறது 
+மரபுக்கு 
+அகலத்திரை அமைப்பு</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="84"/>
         <source>Use the right mouse button in the 
 3D Viewer to zoom in and out</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>வலது சுட்டி பொத்தானைப் பயன்படுத்தவும் 
+பெரிதாக்க மற்றும் வெளியேற 3D பார்வையாளர்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
         <source>Use the left mouse button in the 
 3D Viewer to rotate the images</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>இடது சுட்டி பொத்தானைப் பயன்படுத்தவும் 
+படங்களை சுழற்ற 3D வியூவர்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
@@ -282,7 +332,7 @@ Widescreen layout</source>
         <extracomment>19_3DViewerController_title
 ----------
 20_3DViewerController_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3டி வியூவர் கன்ட்ரோலர்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
@@ -296,20 +346,29 @@ top row of the 3DView
 controller to center the 3D view 
 on the scene</source>
         <extracomment>19_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மவுச் கர்சரை மேலே வைக்கவும் 
+நீல பேனரில் முள் படவுரு 
+3D பார்வையாளர் சாளரத்தின் 
+3DView கட்டுப்படுத்தியைக் காட்டவும் 
+
+இரண்டாவது ஐகானில் சொடுக்கு செய்யவும் 
+3DView இன் மேல் வரிசை 
+3D காட்சியை மையப்படுத்த கட்டுப்படுத்தி 
+காட்சியில்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
         <source>Select the Volume Rendering 
 module in the list of modules </source>
         <extracomment>20_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>வால்யூம் ரெண்டரிங்கைத் தேர்ந்தெடுக்கவும் 
+தொகுதிகள் பட்டியலில் தொகுதி </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>Part 2: Volume Rendering</source>
         <extracomment>21_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>பகுதி 2: வால்யூம் வழங்குதல்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -342,7 +401,7 @@ module in the list of modules </source>
 30_VolumeRendering_title
 ----------
 31_VolumeRendering_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>வால்யூம் வழங்குதல்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="102"/>
@@ -356,14 +415,23 @@ module in Slicer enables
 interactive 3D visualization 
 of DICOM images</source>
         <extracomment>22_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• வால்யூம் வழங்குதல் 
+நுட்பங்கள் 3D ஐ செயல்படுத்துகின்றன 
+3D காட்சிப்படுத்தல் 
+தரவுத்தொகுப்புகள் 
+
+• வால்யூம் வழங்குதல் 
+ச்லைசரில் உள்ள தொகுதி செயல்படுத்துகிறது 
+ஊடாடும் 3D காட்சிப்படுத்தல் 
+DICOM படங்கள்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="106"/>
         <source>Click on Preset in the Display tab 
 and select the preset CT-Cardiac3 </source>
         <extracomment>23_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி தாவலில் முன்னமைவைக் சொடுக்கு செய்யவும் 
+மற்றும் முன்னமைக்கப்பட்ட CT-Cardiac3 ஐ தேர்ந்தெடுக்கவும் </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="110"/>
@@ -371,7 +439,9 @@ and select the preset CT-Cardiac3 </source>
 Click on the eye icon in the Volume tab to display 
 the volume rendered image in the 3D viewer</source>
         <extracomment>24_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>VTK GPU ரே காச்டிங் ரெண்டரிங்கைத் தேர்ந்தெடுக்கவும் 
+காண்பிக்க, வால்யூம் டேப்பில் உள்ள கண் ஐகானைக் சொடுக்கு செய்யவும் 
+3D வியூவரில் வால்யூம் வழங்குதல் செய்யப்பட்ட படம்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="114"/>
@@ -380,7 +450,10 @@ change the transfer
 function and display the
 aorta</source>
         <extracomment>25_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>சிப்ட் ச்லைடரைப் பயன்படுத்தவும் 
+பரிமாற்றத்தை மாற்றவும் 
+செயல்பாடு மற்றும் காட்சி 
+பெருநாடி</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="118"/>
@@ -389,7 +462,10 @@ display a region of interest
 (ROI) in the 3D viewer and 
 check the option Enable</source>
         <extracomment>26_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி ROI ஐ சொடுக்கு செய்யவும் 
+ஆர்வமுள்ள பகுதியைக் காட்டவும் 
+(ROI) 3D வியூவரில் மற்றும் 
+இயக்கு விருப்பத்தை சரிபார்க்கவும்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="122"/>
@@ -402,7 +478,14 @@ Position the ROI around the
 left kidney using the color 
 handles</source>
         <extracomment>27_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>இன் தெரிவுநிலையை அணைக்கவும் 
+அச்சு, சாகிட்டல் மற்றும் கரோனல் 
+2D வியூவரில் துண்டுகள் 
+
+
+ROI ஐ சுற்றி வைக்கவும் 
+நிறத்தைப் பயன்படுத்தி இடது சிறுநீரகம் 
+கையாளுகிறது</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="126"/>
@@ -410,7 +493,9 @@ handles</source>
 display the volume rendered 
 image</source>
         <extracomment>28_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கண் ஐகானைக் சொடுக்கு செய்யவும் 
+கொடுக்கப்பட்ட அளவைக் காட்டவும் 
+படம்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="130"/>
@@ -418,7 +503,9 @@ image</source>
 volume rendered 
 image of the left kidney </source>
         <extracomment>29_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் காட்டுகிறது 
+தொகுதி வழங்கப்பட்டது 
+இடது சிறுநீரகத்தின் படம் </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="134"/>
@@ -426,14 +513,17 @@ image of the left kidney </source>
 a volume rendered image of 
 the right kidney</source>
         <extracomment>30_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்க ROIஐ நீட்டிக்கவும் 
+ஒரு தொகுதி அளிக்கப்பட்ட படம் 
+வலது சிறுநீரகம்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="138"/>
         <source>Click on File, then Close Scene
 in the main menu</source>
         <extracomment>31_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பில் சொடுக்கு செய்து, பின்னர் காட்சியை மூடு 
+முக்கிய பட்டியலில்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="140"/>
@@ -441,7 +531,9 @@ in the main menu</source>
 viewing 3D models
 </source>
         <extracomment>32_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>பகுதி 3: ஏற்றுதல் மற்றும் 
+3D மாதிரிகளைப் பார்க்கிறது
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="144"/>
@@ -449,13 +541,15 @@ viewing 3D models
 
 • The scene contains 3D models from the SPL brain atlas developed by the department of Radiology at Brigham and Women’s Hospital, Harvard Medical School (NIH P41 RR013218, NIH R01 MH05074)</source>
         <extracomment>33_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• அடைவு தரவுத்தொகுப்பு2_Head Head_scene.mrb எனப்படும் ச்லைசர் காட்சியைக் கொண்டுள்ளது 
+
+ஆர்வர்ட் மருத்துவப் பள்ளியின் ப்ரிகாம் மற்றும் மகளிர் மருத்துவமனை (NIH P41 RR013218, NIH R01 MH05074) கதிரியக்கவியல் துறையால் உருவாக்கப்பட்ட SPL மூளை அட்லசிலிருந்து 3D மாதிரிகள் காட்சியில் உள்ளன</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="146"/>
         <source>Slicer Scene</source>
         <extracomment>34_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் காட்சி</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="148"/>
@@ -467,13 +561,19 @@ Each data set, such as an image volume, surface model, or point set, is represen
 
 All Slicer modules operate on the data stored in a Slicer scene.</source>
         <extracomment>34_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் அனைத்து ஏற்றப்பட்ட தரவையும் காட்சி எனப்படும் களஞ்சியத்தில் சேமிக்கிறது 
+
+
+பட அளவு, மேற்பரப்பு மாதிரி அல்லது புள்ளி தொகுப்பு போன்ற ஒவ்வொரு தரவுத் தொகுப்பும் ஒரு ச்லைசர் காட்சியில் ஒரு முனையாகக் குறிப்பிடப்படுகிறது. 
+
+
+அனைத்து ச்லைசர் தொகுதிகளும் ச்லைசர் காட்சியில் சேமிக்கப்பட்ட தரவுகளில் இயங்குகின்றன.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="150"/>
         <source>Loading a Scene</source>
         <extracomment>35_LoadingaScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு காட்சியை ஏற்றுகிறது</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="152"/>
@@ -481,7 +581,9 @@ All Slicer modules operate on the data stored in a Slicer scene.</source>
 surface model of the 
 head and 2D MRI slices</source>
         <extracomment>35_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் ஒரு 3D ஐக் காட்டுகிறது 
+மேற்பரப்பு மாதிரி 
+தலை மற்றும் 2D MRI துண்டுகள்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="154"/>
@@ -499,7 +601,7 @@ head and 2D MRI slices</source>
 39_Viewing3Dmodels_title
 ----------
 40_Viewing3Dmodels_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D மாடல்களைப் பார்க்கிறது</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="156"/>
@@ -509,14 +611,19 @@ slice menu and click on
 the eye icon to display the 
 axial slice in the 3D viewer</source>
         <extracomment>36_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கர்சரை மேலே வைக்கவும் 
+வெளிப்படுத்த முள் படவுரு 
+ச்லைச் பட்டியல் மற்றும் சொடுக்கு செய்யவும் 
+காட்ட கண் படவுரு 
+3D வியூவரில் அச்சு துண்டு</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="160"/>
         <source>Select the Models module 
 in the list of models</source>
         <extracomment>37_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகள் தொகுதியைத் தேர்ந்தெடுக்கவும் 
+மாதிரிகள் பட்டியலில்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="164"/>
@@ -526,7 +633,11 @@ scene
 
 Select the model Skin.vtk</source>
         <extracomment>38_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் பட்டியலைக் காட்டுகிறது 
+3D மாதிரிகள் ஏற்றப்பட்டுள்ளன 
+காட்சி 
+
+Skin.vtk மாதிரியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="168"/>
@@ -534,7 +645,9 @@ Select the model Skin.vtk</source>
 the Skin model using 
 the visibility slider</source>
         <extracomment>39_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ஒளிபுகாநிலையை குறைக்கவும் 
+பயன்படுத்தி தோல் மாதிரி 
+தெரிவுநிலை ச்லைடர்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="170"/>
@@ -542,7 +655,9 @@ the visibility slider</source>
 eyeballs models appear 
 through the skin</source>
         <extracomment>39_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மண்டை எலும்பு மற்றும் 
+கண் இமைகள் மாதிரிகள் தோன்றும் 
+தோல் வழியாக</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="174"/>
@@ -551,7 +666,10 @@ model and click on the
 eye icon to turn off its 
 visibility</source>
         <extracomment>40_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மண்டை ஓடு எலும்பைத் தேர்ந்தெடுக்கவும் 
+மாதிரி மற்றும் சொடுக்கு செய்யவும் 
+அதை அணைக்க கண் படவுரு 
+தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="176"/>
@@ -559,7 +677,9 @@ visibility</source>
 optic nerve models 
 appear through the skin</source>
         <extracomment>40_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>வெள்ளை சேதி மற்றும் 
+பார்வை நரம்பு மாதிரிகள் 
+தோல் வழியாக தோன்றும்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="178"/>
@@ -574,7 +694,7 @@ appear through the skin</source>
 43_Interactingwith3Dmodels_title
 ----------
 44_Interactingwith3Dmodels_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D மாதிரிகளுடன் தொடர்பு கொள்கிறது</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="180"/>
@@ -582,7 +702,9 @@ appear through the skin</source>
 display the coronal slice 
 in the 3D viewer</source>
         <extracomment>41_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கண் ஐகானைக் சொடுக்கு செய்யவும் 
+கரோனல் ச்லைசைக் காட்டவும் 
+3D வியூவரில்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="184"/>
@@ -590,7 +712,9 @@ in the 3D viewer</source>
 white matter model and 
 select the option Clipping</source>
         <extracomment>42_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>அரைக்கோளத்தைத் தேர்ந்தெடுக்கவும் 
+வெள்ளை பொருள் மாதிரி மற்றும் 
+கிளிப்பிங் விருப்பத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="188"/>
@@ -598,20 +722,23 @@ select the option Clipping</source>
 posteriorily to display the 
 optic chiasm</source>
         <extracomment>43_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கரோனல் ச்லைசை நகர்த்தவும் 
+பின்னால் காட்ட 
+ஒளியியல் chiasm</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="192"/>
         <source>Slicer displays a 3D view of 
 the optic chiasm</source>
         <extracomment>44_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் ஒரு 3D காட்சியைக் காட்டுகிறது 
+ஆப்டிக் கியாசம்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="194"/>
         <source>Conclusion</source>
         <extracomment>45_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>முடிவுரை</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="196"/>
@@ -622,19 +749,24 @@ the optic chiasm</source>
 
 Contact: spujol@bwh.harvard.edu</source>
         <extracomment>45_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>• 3D ச்லைசர் 3D மருத்துவ இமேசிங் தரவை ஏற்றுவதற்கும் பார்ப்பதற்கும் மேம்பட்ட செயல்பாடுகளை வழங்குகிறது 
+
+• CT மற்றும் MRI தரவுகளின் ஊடாடும் காட்சிப்படுத்தலுக்கு வால்யூம் வழங்குதல் மற்றும் 3D மேற்பரப்பு மாடலிங் ஆகியவற்றை எவ்வாறு பயன்படுத்துவது என்பதை டுடோரியல் விளக்குகிறது. 
+
+
+தொடர்புக்கு: spujol@bwh.harvard.edu</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="198"/>
         <source>Acknowledgements</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகாரங்கள்</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="200"/>
         <source>Neuroimage Analysis Center (NIBIB P41 EB015902)</source>
         <extracomment>46_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>நியூரோஇமேச் பகுப்பாய்வு நடுவண் (NIBIB P41 EB015902)</translation>
     </message>
 </context>
 </TS>
