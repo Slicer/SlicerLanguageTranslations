@@ -839,7 +839,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
         <source>Segmentation</source>
-        <translation>பிரிவு</translation>
+        <translation>பிரித்தல்</translation>
     </message>
 </context>
 </TS>
