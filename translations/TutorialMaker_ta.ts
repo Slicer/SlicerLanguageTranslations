@@ -573,7 +573,7 @@ Please do not use the mouse or keyboard to interact with 3D Slicer until the scr
     <message>
         <location filename="TutorialMaker/Testing/AIBasedSegmentationIn3DSlicer.py" line="233"/>
         <source>Segmentation</source>
-        <translation>பிரிவு</translation>
+        <translation>பிரித்தல்</translation>
     </message>
 </context>
 </TS>
