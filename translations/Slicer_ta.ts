@@ -7752,7 +7752,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="124"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">விண்ணப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
@@ -7765,18 +7765,18 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="52"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">முழுத்திரை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="62"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">மூடுக</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="137"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1113"/>
         <source>Show DICOM Database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">டிஐசிஓஎம் தரவுத்தளத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="159"/>
@@ -7796,7 +7796,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="200"/>
         <source>DICOM Database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">டிகாம் தரவுத்தளம்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="395"/>
@@ -7851,17 +7851,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="597"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance. Detailed logging will be automatically disabled after 4 hours.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM செயல்பாடுகளின் போது மேலும் விவரங்களைப் பதிவு செய்யவும். DICOM ஏற்றுதல் சிக்கல்களை ஆராய்வதற்கு இது பயனுள்ளதாக இருக்கும், ஆனால் செயல்திறனைப் பாதிக்கக்கூடும். விரிவான பதிவுசெய்தல் 4 மணி நேரத்திற்குப் பிறகு தானாகவே முடக்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="617"/>
         <source>Thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சிறுபட அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="676"/>
         <source>Enabled until {time}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{time}-வரை இயக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="677"/>
@@ -7871,31 +7871,31 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="680"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">முடக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="681"/>
         <source>Enable for 4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4 மணி நேரத்திற்கு இயக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="903"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1048"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1091"/>
         <source>Hide DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM தரவுத்தளத்தை மறை</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="905"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1049"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1095"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">டிஐசிஓஎம் தரவுத்தளத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">பக்கப் பலகை</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
@@ -7910,7 +7910,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="612"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">மறைக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
@@ -7986,7 +7986,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1295"/>
         <source>running at port %s with TLS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%s துறைமுகத்தில் TLS உடன் இயங்குகிறது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
@@ -8319,7 +8319,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="152"/>
         <source>Patch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ஒட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="153"/>
@@ -8329,7 +8329,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="159"/>
         <source>Import to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM தரவுத்தளத்திற்கு இறக்குமதி</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="160"/>
@@ -9275,7 +9275,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="30"/>
         <source>Line Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வரிப் சுயவிவரம்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="34"/>
@@ -9286,29 +9286,36 @@ Notes:
 2. Probed points within the image volume are linearly interpolated among adjacent voxel centers
 and then returned with the same data type as the probed image (e.g. rounded to integers if the image has integer data type).
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+இந்த மாடுல், ஒரு மார்க்கப்ஸ் கோடு அல்லது வளைவின் வழியே ஒரு கனஅளவின் தீவிரத் சுயவிவரத்தைக் கணக்கிடுகிறது.
+குறிப்புகள்:
+1. படத்தின் எல்லையில் உள்ள கோடுகளுக்கு (எல்லையின் மைய வோக்ஸல்களுக்கு வெளியே) 0 மதிப்பு ஒதுக்கப்படலாம்.
+2. பட கனசதத்தில் உள்ள ஆய்வு செய்யப்பட்ட புள்ளிகள், அருகிலுள்ள வோக்ஸல் மையங்களுக்கு இடையே நேரியல் இடைச்செருகல் செய்யப்பட்டு, பின்னர் ஆய்வு செய்யப்பட்ட படத்தின் அதே தரவு வகைகளுடன் திருப்பி அனுப்பப்படுகின்றன (எ.கா. படத்திற்கு முழு எண் தரவு வகை இருந்தால், அவை முழு எண்களாகச் சுழற்றப்படும்).
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="42"/>
         <source>
 This file was originally developed by Andras Lasso (PerkLab) and was partially funded by CCO ACRU.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+இந்தக் கோப்பு முதலில் ஆண்ட்ராஸ் லாசோ (பெர்க்லேப்) அவர்களால் உருவாக்கப்பட்டது மற்றும் CCO ACRU-ஆல் பகுதி நிதியுதவி அளிக்கப்பட்டது.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="509"/>
         <source>{name} intensity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{name} தீவிரம்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="510"/>
         <source>{name} intensity table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{name} தீவிர அட்டவணை</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="14"/>
         <source>LineProfile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வரிப் சுயவிவரம்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="20"/>
@@ -9319,37 +9326,37 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="29"/>
         <source>Input Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">உள்ளீட்டு அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="36"/>
         <source>Pick the input to the algorithm which will be sampled along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வரிசைமுறையின் உள்ளீட்டில், வரிசைமுறையாக மாதிரியெடுக்கப்படவிருப்பதைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="72"/>
         <source>Input Line:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">உள்ளீட்டு வரி:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="79"/>
         <source>Line Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வரி தெளிவுத்திறன்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="86"/>
         <source>Number of points to sample along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">கோடில் மாதிரி எடுக்கும் புள்ளிகளின் எண்ணிக்கை.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="114"/>
         <source>Pick line or curve to take image samples along.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">படம் மாதிரிகளை எடுக்க, ஒரு கோடு அல்லது வளைவைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="134"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="140"/>
@@ -9359,12 +9366,12 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="146"/>
         <source>Output Intensities Table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வெளியீட்டு தீவிரங்கள் அட்டவணை:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="153"/>
         <source>Pick the table that will store the intensity and distance values.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">தீவிரம் மற்றும் தூர மதிப்புகளைச் சேமிக்கும் அட்டவணையைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="176"/>
@@ -9374,78 +9381,78 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="186"/>
         <source>Output Intensities Plot Series:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வெளியீட்டு தீவிரங்கள் வரைபடத் தொடர்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="193"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அல்காரிதத்திற்கான வெளியீட்டு வரைபடத் தொடரைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="216"/>
         <source>Create new plot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">புதிய மனை உருவாக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="226"/>
         <source>Plot Proportional Distance (%):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">பாதை விகிதாசார தூரம் (%):</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="233"/>
         <source>If checked, then distance along the line in plot is not absolute, but the percent distance from the start of the line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சரிபார்க்கப்பட்டால், வரைபடத்தில் உள்ள கோட்டின் ஓரத்து தூரம் முழுமையானதாக இருக்காது, மாறாக அது கோட்டின் தொடக்கத்திலிருந்து உள்ள சதவீத தூரமாகும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="246"/>
         <source>Show plot:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">கதையைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="253"/>
         <source>If checked, then the intensity profile plot is automatically shown when the intensity profile is updated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சரிபார்க்கப்பட்டால், தீவிரப் சுயவிவரம் புதுப்பிக்கப்படும்போது, தீவிரப் சுயவிவர வரைபடம் தானாகவே காட்டப்படும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="269"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="275"/>
         <source>Peak Detection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">உச்சநிலை கண்டறிதல்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="281"/>
         <source>Peaks Output Table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சிகரங்கள் வெளியீட்டு அட்டவணை:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="288"/>
         <source>Pick the output table that will store information about each detected peak.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">கண்டறியப்பட்ட ஒவ்வொரு உச்சம் பற்றிய தகவலையும் சேமிக்கும் வெளியீட்டு அட்டவணையைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="299"/>
         <source>Peaks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">செய்ய வேண்டுமா</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="321"/>
         <source>Minimum Peak Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">குறைந்தபட்ச உச்ச அகலம்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="328"/>
         <source>Minimum width of the peak. Use higher values to reject small peaks detected due to image noise.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">முனையின் குறைந்தபட்ச அகலம். பட இரைச்சல் காரணமாகக் கண்டறியப்பட்ட சிறிய முனைகளை நிராகரிக்க, அதிக மதிப்புகளைப் பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="347"/>
         <source>Height for Width Measurement:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அகலத்திற்கான உயர அளவீடு:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="354"/>
         <source>Height at which the peak width is measured. 50% computes full width at half maximum. Larger value means that the height is measured near the top of the peak.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சிகரத்தின் அகலம் அளவிடப்படும் உயரம். 50% என்பது முழு அகலத்தை உச்சபட்சத்தின் பாதியில் கணக்கிடுகிறது. பெரிய மதிப்பு என்பது, அந்த உயரம் சிகரத்தின் உச்சிக்கு அருகில் அளவிடப்படுகிறது என்பதைக் குறிக்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="357"/>
@@ -9455,22 +9462,22 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="379"/>
         <source>Peak is Maximum:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சிகரம் என்பது அதிகபட்சம்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="386"/>
         <source>If checked then peaks are local maximum values. If unchecked then peaks are local minimum values.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சரிபார்க்கப்பட்டால், உச்சங்கள் உள்ளூர் அதிகபட்ச மதிப்புகளாக இருக்கும். சரிபார்க்கப்படாவிட்டால், உச்சங்கள் உள்ளூர் குறைந்தபட்ச மதிப்புகளாக இருக்கும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="405"/>
         <source>Compute intensity profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">கணக்கீட்டு தீவிரப் பண்புக்கூறு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="414"/>
         <source>autoUpdate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">தானியங்கிப் புதுப்பிப்பு</translation>
     </message>
 </context>
 <context>
@@ -9488,7 +9495,7 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.cxx" line="41"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">பிடி/மீட்டெடு</translation>
     </message>
 </context>
 <context>
@@ -9554,12 +9561,12 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="291"/>
         <source>Download URLs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">பதிவிறக்க இணைப்புகள்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="294"/>
         <source>Enter one or more URLs (one per line) to download and load the corresponding data sets. Press Ctrl+Enter or click &apos;Load&apos; button to start loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">தொடர்புடைய தரவுத் தொகுப்புகளைப் பதிவிறக்கம் செய்து ஏற்ற, ஒன்று அல்லது அதற்கு மேற்பட்ட URL-களை (ஒவ்வொரு வரியிலும் ஒன்று) உள்ளிடவும். ஏற்றத் தொடங்க Ctrl+Enter ஐ அழுத்தவும் அல்லது &apos;Load&apos; பொத்தானைக் கிளிக் செய்யவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="303"/>
@@ -9584,12 +9591,12 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="355"/>
         <source>All {totalCount} data sets were loaded successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அனைத்து {totalCount} தரவுத் தொகுப்புகளும் வெற்றிகரமாக ஏற்றப்பட்டன.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="357"/>
         <source>Failed to load {errorCount} out of {totalCount} data sets.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{totalCount} தரவுத் தொகுப்புகளில் {errorCount} ஏற்றத் தவறியது.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="619"/>
@@ -10621,7 +10628,19 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">முழுமையான பிரிவினை உருவாக்க, பிரிவுகளை விரிவாக்குதல்&lt;br&gt;.
+ ஆரம்பப் பிரிவுகளின் இருப்பிடம், அளவு, வடிவம் மற்றும் மூல கனத்தின் உள்ளடக்கம் ஆகியவை கணக்கில் எடுத்துக்கொள்ளப்படுகின்றன.
+        மூல கனசதுரத்தின் பிரகாசம் திடீரென மாறும் இடங்களில் இறுதிப் பிரிவு எல்லைகள் அமைக்கப்படும். வழிமுறைகள்:&lt;p&gt;
+ &lt;ul style=&quot;margin: 0&quot;&gt;
+ &lt;li&gt;ஒவ்வொரு பிராந்தியத்திலும் தனிப் பிரிவைச் சேர்ந்த விதைகளை வரைய, பெயிண்ட் அல்லது பிற விளைவுகளைப் பயன்படுத்தவும்.
+        ஒவ்வொரு விதையையும் ஒரு வெவ்வேறு பிரிவுடன் வண்ணம் தீட்டவும். குறைந்தபட்சம் இரண்டு பிரிவுகள் தேவை.
+ &lt;li&gt;முழுமையான பிரிவினை முன்னோட்டத்தைப் பெற &lt;dfn&gt;Initialize&lt;/dfn&gt; என்பதைக் கிளிக் செய்யவும்.
+        &lt;li&gt;படத் துண்டுகளைப் பார்க்கவும். முன்னோட்டமிடப்பட்ட பகுப்பாய்வு முடிவு சரியாக இல்லையென்றால், பெயிண்ட் அல்லது பிற விளைவுகளுக்கு மாறி, தவறாக வகைப்படுத்தப்பட்ட பகுதியில் மேலும் விதைகளைச் சேர்க்கவும். முழுப் பகுப்பாய்வு சில வினாடிகளில் தானாகவே புதுப்பிக்கப்படும்.
+ &lt;li&gt;&lt;dfn&gt; என்பதைக் கிளிக் செய்யவும்முன்வைக்கப்பட்ட முடிவுடன் பிரிப்பைப் புதுப்பிக்க &lt;dfn&gt;Apply&lt;/dfn&gt; என்பதைச் சொடுக்கவும்.
+ &lt;/ul&gt;&lt;p&gt;
+ பிரிவுகள் ஒன்றுடன் ஒன்று பொருந்தினால், பிரிவுகள் அட்டவணையில் மேலே உள்ள பிரிவிற்கு முன்னுரிமை அளிக்கப்படும்.
+        இந்த விளைவு &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;வேகமான வளர்ச்சி-வெட்டு முறையை&lt;/a&gt;ப் பயன்படுத்துகிறது.
+ &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
@@ -12433,33 +12452,33 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="40"/>
         <source> Import DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> DICOM கோப்புகளை இறக்குமதி செய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="57"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="60"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">டிஐசிஓஎம் தரவுத்தளத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="80"/>
         <source>If enabled, the DICOM browser widget will be substituted with the visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">இதை இயக்கியிருந்தால், DICOM உலாவி விட்ஜெட், காட்சி உலாவியுடன் மாற்றப்படும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="83"/>
         <source>Visual browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">காட்சி உலாவி</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="103"/>
         <source>Show the dicom database in vertical mode allowing to use the Slicer views.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ஸ்லைசர் காட்சிகளைப் பயன்படுத்த அனுமதிக்கும் வகையில், DICOM தரவுத்தளத்தை செங்குத்து பயன்முறையில் காட்டவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="106"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">பக்கப் பலகை</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="151"/>
@@ -12554,12 +12573,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="325"/>
         <source>Refresh the visual DICOM browser to show the current state of the database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">தரவுத்தளத்தின் தற்போதைய நிலையைக் காட்ட, காட்சி DICOM உலாவியைப் புதுப்பிக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="328"/>
         <source>Refresh browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">உலாவியைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="338"/>
@@ -13778,18 +13797,18 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="550"/>
         <source>Direction Markers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">திசைக் குறிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="568"/>
         <source>Show Direction Markers:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">திசைக் குறிகளைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="571"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="578"/>
         <source>Show or hide directional arrow markers along curve and line markups.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வளைவு மற்றும் கோட்டுக் குறியீடுகளில் திசைகாட்டும் அம்புக்குறிகளைக் காட்டு அல்லது மறை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="588"/>
@@ -13800,66 +13819,66 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="591"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="598"/>
         <source>Show direction markers in 3D views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D காட்சிகளில் திசைக் குறிகளைக் காட்டவும். &quot;திசைக் குறிகளைக் காட்டு&quot; இயக்கப்பட்டிருக்க வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="608"/>
         <source>2D Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2D பார்வைத்திறன்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="611"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="618"/>
         <source>Show direction markers in 2D slice views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2D வெட்டுக் காட்சிகளில் திசைக் குறிகளைக் காட்டவும். &quot;திசைக் குறிகளைக் காட்டு&quot; இயக்கப்பட்டிருக்க வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="628"/>
         <source>Slice Intersection Points:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வெட்டுப்புள்ளிப் சந்திப்புகள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="631"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="638"/>
         <source>Show markers at positions where the curve/line crosses the current slice plane.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வளைவு/கோடு தற்போதைய ஸ்லைஸ் தளத்தைக் கடக்கும் இடங்களில் குறியீடுகளைக் காட்டவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="648"/>
         <source>Reverse Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">மாற்றப்பட்ட திசை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="651"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="658"/>
         <source>Reverse the direction of the arrow markers so they point in the opposite direction along the curve or line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அம்புக்குறி குறிப்பான்களின் திசையை மாற்றி, அவை வளைவு அல்லது கோட்டின் எதிர் திசையில் சுட்டிக்காட்டும் வகையில் செய்யவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="668"/>
         <source>Marker Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">குறியீட்டு அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="671"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="678"/>
         <source>Size of each direction marker relative to the physical line thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">பௌதீக கோட்டின் தடிமனுடன் ஒப்பிடும்போது ஒவ்வொரு திசைக் குறிகாட்டியும் கொண்ட அளவு.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="703"/>
         <source>Marker Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">குறியீட்டு இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="706"/>
         <source>Distance between direction markers relative to the marker height.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அடையாளியின் உயரத்திற்கு ஏற்ப திசைக் குறிகளுக்கிடையேயான தூரம்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="713"/>
         <source>Distance between consecutive direction markers relative to the marker height. 100% = markers touch, 200% = one gap, 300% = two gaps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">தொடர்ச்சியான திசைக் குறிகாட்டிகளுக்கு இடையிலான தூரம், குறிகாட்டியின் உயரத்தைப் பொறுத்து. 100% = குறிகாட்டிகள் தொடுகின்றன, 200% = ஒரு இடைவெளி, 300% = இரண்டு இடைவெளிகள்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="744"/>
@@ -14096,12 +14115,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="267"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சாதாரணமாக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="270"/>
         <source>Reverse direction of the plane normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">தளத்தின் செங்குத்து நேர்க்கோட்டின் திசையை மாற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="102"/>
@@ -18518,7 +18537,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="339"/>
         <source>2D line width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2D கோட்டின் அகலம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
@@ -18528,12 +18547,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="446"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">குறியீட்டு அளவை அமைக்கப் பயன்படுத்தப்படும் இடப்பெயர்ச்சியின் சதவீதம். 100% என்றால், குறியீட்டு அளவு உண்மையான இடப்பெயர்ச்சಿಗೆ சமமாக இருக்கும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="569"/>
         <source>2D glyph settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2D குறியீட்டு அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="963"/>
@@ -18576,17 +18595,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1260"/>
         <source>Enable scaling by manipulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D விட்ஜெட்டைக் கையாள்வதன் மூலம் அளவிடுதலை இயக்கவும் (விட்ஜெட் முகத்தின் மையத்தில் உள்ள கைப்பிடியை இடது கிளிக் செய்து இழுக்கவும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1369"/>
         <source>Enable translating by manipulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D விட்ஜெட்டைக் கையாள்வதன் மூலம் மொழிபெயர்ப்பை இயக்கவும் (விட்ஜெட்டின் முகப்பில் எங்கும் இடது கிளிக் செய்து இழுக்கவும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1423"/>
         <source>Enable scaling by manipulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D விட்ஜெட்டைக் கையாள்வதன் மூலம் அளவிடுதலை இயக்கவும் (விட்ஜெட் முகத்தின் மையத்தில் உள்ள கைப்பிடியை ஷிஃப்ட் + இடது கிளிக் செய்து இழுக்கவும், அல்லது இடது கிளிக் செய்து மையக் கைப்பிடியை இழுக்கவும்).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1488"/>
@@ -19072,7 +19091,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="51"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">பற்றி %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="66"/>
@@ -19439,7 +19458,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="140"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">பற்றி %1</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
@@ -20314,7 +20333,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="283"/>
         <source>Reorient volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அளவை மறுசீரமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
@@ -20365,32 +20384,32 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="756"/>
         <source>Align to volume axes + Resize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அளவு அச்சுகளுடன் சீரமை + அளவை மாற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="759"/>
         <source>Set axes of the ROI box to match the volume axes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ROI பெட்டியின் அச்சுகளை கன அளவு அச்சுகளுடன் பொருத்த அமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="767"/>
         <source>Align to world axes + Resize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">உலக அச்சுகளுடன் சீரமை + அளவை மாற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="770"/>
         <source>Set axes of the ROI box to match the world coordinate system axes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ROI பெட்டியின் அச்சுகளை உலக ஆயத்தொலைவு அமைப்பின் அச்சுகளுடன் பொருத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="778"/>
         <source>Resize only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அளவு மாற்று மட்டுமே</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="781"/>
         <source>Do not change ROI box orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ROI பெட்டியின் திசையை மாற்ற வேண்டாம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="458"/>
@@ -20524,7 +20543,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="246"/>
         <source>ROI fit mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ஃபேஷனில் ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
@@ -24156,7 +24175,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="174"/>
         <source>Previous module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">முந்தைய தொகுதி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="176"/>
@@ -24166,12 +24185,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="177"/>
         <source>Switch to previously used module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">முன்பு பயன்படுத்தப்பட்ட மாட்யூலுக்கு மாறு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="197"/>
         <source>Switch to next used module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அடுத்த பயன்படுத்தப்பட்ட தொகுதிக்கு மாறு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="185"/>
@@ -24181,7 +24200,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="194"/>
         <source>Next module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அடுத்த தொகுதி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="196"/>
@@ -24935,17 +24954,18 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
         <source>When enabled, the Scene View will store which objects are visible as well as color and transparency, and restore them when the Scene View is loaded.
 This option does not affect saving of view layout and window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">இதை இயக்கியிருக்கும்போது, காட்சிப் பார்வை, எந்தப் பொருட்கள் தெரியும் என்பதையும், அவற்றின் நிறம் மற்றும் ஒளிப்படைவையும் சேமித்து, காட்சிப் பார்வை மீண்டும் ஏற்றப்படும்போது அவற்றை மீட்டமைக்கும்.
+இந்த விருப்பம், பார்வை அமைப்பு மற்றும் சாளர ஒழுங்கமைப்பைச் சேமிப்பதைப் பாதிக்காது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="104"/>
         <source>Save view layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">காட்சி அமைப்பைச் சேமி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="106"/>
         <source>When enabled, the Scene View will store the arrangement of views on the screen (for example, which slice and 3D views are shown, how they are arranged, and their slice positions and 3D view orientations), and will restore this arrangement when the Scene View is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">இதை இயக்கியிருக்கும்போது, சீன் வியூ திரையில் உள்ள காட்சிகளின் அமைப்பைச் சேமித்து வைக்கும் (உதாரணமாக, எந்த ஸ்லைஸ் மற்றும் 3D காட்சிகள் காட்டப்படுகின்றன, அவை எவ்வாறு அடுக்கப்பட்டுள்ளன, மற்றும் அவற்றின் ஸ்லைஸ் நிலைகள் மற்றும் 3D காட்சி திசைகள்), மேலும் சீன் வியூ மீண்டும் ஏற்றப்படும்போது இந்த அமைப்பை மீட்டமைக்கும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="113"/>
@@ -27524,7 +27544,8 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="132"/>
         <source>Click to cycle through position states:
 Defined -&gt; Undefined (by clearing position) -&gt; Preview (by entering into place mode) -&gt; Missing (by marking as skip from placement) -&gt; Defined (by restoring last position)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">நிலை நிலைகளுக்கு மாற கிளிக் செய்யவும்:
+வரையறுக்கப்பட்டது -&gt; வரையறுக்கப்படாதது (நிலையை அழிக்கவும்) -&gt; முன்னோட்டம் (இடம் பயன்முறையில் நுழையவும்) -&gt; விடுபட்டது (பொருத்துதலில் இருந்து தவிர்க்க எனக் குறியிடவும்) -&gt; வரையறுக்கப்பட்டது (கடைசி நிலையை மீட்டெடுக்கவும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="487"/>
@@ -27825,7 +27846,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="258"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">சாதாரணமாக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="450"/>
@@ -27836,7 +27857,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="470"/>
         <source> (Number of control points: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (கட்டுப்பாட்டுப் புள்ளிகளின் எண்ணிக்கை: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="592"/>
@@ -28713,17 +28734,17 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="102"/>
         <source>Volume rendering settings...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அளவு காட்சி அமைப்புகள்...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="106"/>
         <source>Volume rendering settings follow slice views</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அளவு காட்சி அமைப்புகள் துண்டுக் காட்சிகளைப் பின்தொடர்கின்றன.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="108"/>
         <source>Make volume rendering use the same window/level and color map settings as slice views</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வால்யூம் ரெண்டரிங், ஸ்லைஸ் வியூக்களைப் போலவே அதே விண்டோ/லெவல் மற்றும் கலர் மேப் அமைப்புகளைப் பயன்படுத்தும் வகையில் அமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="103"/>
@@ -31678,7 +31699,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="254"/>
         <source>MRML Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MRML வரிசை</translation>
     </message>
 </context>
 <context>
@@ -31865,7 +31886,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTransformSequenceStorageNode.cxx" line="629"/>
         <source>Grid Transform Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">கட்டம் உருமாற்ற வரிசை</translation>
     </message>
 </context>
 <context>
@@ -32099,7 +32120,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="59"/>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.h" line="61"/>
         <source>Volume Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">அளவு வரிசை சேமிப்பு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="527"/>
