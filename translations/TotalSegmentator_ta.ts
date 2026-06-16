@@ -86,32 +86,32 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
         <source>Robust cropping:</source>
-        <translation type="unfinished"></translation>
+        <translation>வலுவான பயிர்:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="230"/>
         <source>Use 3mm model for cropping instead of default 6mm. More robust but slightly slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>டிஃபால்ட் 6 மிமீக்கு பதிலாக 3 மிமீ மாதிரியை செதுக்க பயன்படுத்தவும். மிகவும் வலுவான ஆனால் சற்று மெதுவாக.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
         <source>Remove small blobs:</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய குமிழ்களை அகற்றவும்:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="247"/>
         <source>Remove small disconnected regions (less than 0.2 ml) from final segmentations.</source>
-        <translation type="unfinished"></translation>
+        <translation>இறுதிப் பிரிவிலிருந்து சிறிய துண்டிக்கப்பட்ட பகுதிகளை (0.2 மில்லிக்கும் குறைவானது) அகற்றவும்.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="257"/>
         <source>Higher-order resampling:</source>
-        <translation type="unfinished"></translation>
+        <translation>உயர்-வரிசை மறு மாதிரி:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="264"/>
         <source>Use higher order resampling for segmentations. Smoother results but more runtime and memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுகளுக்கு உயர் வரிசை மறு மாதிரியைப் பயன்படுத்தவும். மென்மையான முடிவுகள் ஆனால் அதிக இயக்க நேரம் மற்றும் நினைவகம்.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="274"/>
@@ -151,37 +151,37 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="65"/>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>வேகம்:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="74"/>
         <source>Full resolution output.</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு தெளிவுத்திறன் வெளியீடு.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="77"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்பானது</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="84"/>
         <source>Enable fast option to get less accurate results, faster (3mm resolution).</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைவான துல்லியமான முடிவுகளைப் பெற, வேகமான விருப்பத்தை இயக்கவும், வேகமாக (3 மிமீ தெளிவுத்திறன்).</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="87"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>வேகமாக</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="94"/>
         <source>Enable faster option for very low resolution (6mm) but very fast results. Only available for total and total_mr tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>மிக குறைந்த தெளிவுத்திறன் (6 மிமீ) ஆனால் மிக விரைவான முடிவுகளுக்கு வேகமான விருப்பத்தை இயக்கவும். மொத்த மற்றும் total_mr பணிகளுக்கு மட்டுமே கிடைக்கும்.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="97"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation>வேகமாக</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="301"/>
@@ -306,7 +306,7 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="373"/>
         <source>This TotalSegmentator update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த TotalSegmentator புதுப்பிப்புக்கு 3D ச்லைசர் மறுதொடக்கம் தேவை. மறுதொடக்கம் செய்ய சரி என்பதை அழுத்தவும்.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="374"/>
@@ -415,7 +415,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1008"/>
         <source>This license update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த உரிமப் புதுப்பிப்புக்கு 3D ச்லைசர் மறுதொடக்கம் தேவை. மறுதொடக்கம் செய்ய சரி என்பதை அழுத்தவும்.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1045"/>
@@ -503,7 +503,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="27"/>
         <source>Segmentation</source>
-        <translation>பிரிவு</translation>
+        <translation>பிரித்தல்</translation>
     </message>
 </context>
 </TS>
