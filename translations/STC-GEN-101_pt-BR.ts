@@ -23,8 +23,10 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="finished">Professor Assistente de Radiologia
+        <translation>Professor Assistente de Radiologia
+
 Hospital Brigham and Women&apos;s
+
 Faculdade de Medicina de Harvard
 </translation>
     </message>
@@ -63,9 +65,7 @@ Faculdade de Medicina de Harvard
         <location filename="text_dict_default.json" line="24"/>
         <source>3D Slicer 5 version 5.10.0 includes over 100 modules and more than 190 extensions for image segmentation, registration and 3D visualization of medical imaging data.</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation>*Slicer é um software de código aberto para segmentação, registro e visualização de dados de imagens médicas. 
-*A plataforma foi desenvolvida por meio de um esforço multi-institucional, com vários consórcios de grande escala financiados pelo NIH.
-*O Slicer destina-se exclusivamente à pesquisa médica e não possui aprovação da FDA.</translation>
+        <translation>O 3D Slicer 5 versão 5.10.0 inclui mais de 100 módulos e mais de 190 extensões para segmentação de imagens, registro e visualização 3D de dados de imagens médicas.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -95,8 +95,9 @@ Faculdade de Medicina de Harvard
 
 Click on the arrow symbol to display the content of each tab. </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="finished">*O Slicer é um software multiplataforma desenvolvido e mantido para Mac OSX, Linux e Windows.
-*O Slicer requer, no mínimo, 2 GB de RAM e uma placa de vídeo dedicada com 64 MB de memória gráfica integrada. </translation>
+        <translation>Cada módulo do Slicer inclui uma série de abas que dão acesso a diferentes funcionalidades.
+
+Clique no símbolo de seta para exibir o conteúdo de cada aba. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
@@ -114,7 +115,7 @@ Click on the arrow symbol to display the content of each tab. </source>
         <location filename="text_dict_default.json" line="38"/>
         <source>3D viewer</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation>Cada módulo do Slicer inclui uma série de abas que dão acesso a diferentes funcionalidades. Clique no símbolo de seta para exibir o conteúdo de cada aba.</translation>
+        <translation>visualizador 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
@@ -150,7 +151,7 @@ Click on the arrow symbol to display the content of each tab. </source>
         <location filename="text_dict_default.json" line="48"/>
         <source>The Documentation &amp; Tutorials tab contains links to the training compendium and documentation pages of 3D Slicer.</source>
         <extracomment>7_TextBox_1</extracomment>
-        <translation type="finished">Visualizador 3D</translation>
+        <translation>A aba Documentação e Tutoriais contém links para o compêndio de treinamento e páginas de documentação do 3D Slicer.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -190,7 +191,7 @@ Clique em Download Sample Data para acessar o módulo Sample Data</translation>
         <location filename="text_dict_default.json" line="62"/>
         <source>Chest CT</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="finished">O módulo Dados de Exemplo contém links para diferentes conjuntos de dados de exemplos que podem ser baixados no Slicer.</translation>
+        <translation>TC de tórax</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
@@ -242,8 +243,7 @@ nos visualizadores 2D.</translation>
         <location filename="text_dict_default.json" line="80"/>
         <source>Position the mouse on the little pin icon in the top left corner of the red viewer to display the viewer menu</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="finished">A imagem de ressonância magnética
-do cérebro aparece nos visualizadores 2D.</translation>
+        <translation>Posicione o cursor do mouse sobre o pequeno ícone de alfinete no canto superior esquerdo do visualizador vermelho para exibir o menu do visualizador</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="84"/>
@@ -274,8 +274,7 @@ Volte ao módulo de Boas-vindas usando a seta verde na barra de ferramentas</tra
         <location filename="text_dict_default.json" line="92"/>
         <source>To learn more about Slicer and its different functionalities, visit the Slicer Compendium</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="finished">As imagens axiais, coronais e sagitais são exibidas no visualizador 3D. 
-Retorne ao módulo de boas-vindas usando a seta verde na barra de ferramentas.</translation>
+        <translation>Para saber mais sobre o Slicer e suas diferentes funcionalidades, visite o Compêndio do Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
