@@ -128,7 +128,7 @@
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
         <oldsource>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</oldsource>
-        <translation type="unfinished">Caminho para o executável Qt lrelease. Deixe em branco para usar o padrão (o que vem com o instalador do Slicer ou disponível nos caminhos do sistema).</translation>
+        <translation>Lista de pastas onde o aplicativo procura por traduções. Isso é apenas para fins informativos, pois os caminhos não podem ser alterados.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="62"/>
@@ -191,9 +191,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished">
-Este módulo permite gerar arquivos de tradução e instalá-los localmente. É útil para criar e testar traduções.
-Veja mais informações na &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;documentação da extensão&lt;/a&gt;.
+        <translation>
+Este módulo pode gerar arquivos de tradução e instalá-los localmente. É útil para criar e testar traduções.
+Veja mais informações na documentação do &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&lt;/a&gt;.
+.
 </translation>
     </message>
     <message>
@@ -205,9 +206,8 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </oldsource>
-        <translation type="unfinished">
-Este módulo pode construir arquivos de tradução e instalá-los localmente. É útil para criar e testar traduções.
-Veja mais informações na &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;documentação da extensão&lt;/a&gt;.
+        <translation>
+O desenvolvimento deste módulo foi parcialmente financiado pela &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;subsídio CZI EOSS&lt;/a&gt;.
 </translation>
     </message>
     <message>
@@ -235,17 +235,17 @@ Veja mais informações na &lt;a href=&quot;https://github.com/Slicer/SlicerLang
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished">Detecção automática</translation>
+        <translation>Detecção automática</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
         <source>Left to Right</source>
-        <translation type="unfinished">Da esquerda para a direita</translation>
+        <translation>Da esquerda para a direita</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="269"/>
         <source>Right to Left</source>
-        <translation type="unfinished">Da direita para a esquerda</translation>
+        <translation>Da direita para a esquerda</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="332"/>
@@ -295,7 +295,7 @@ Veja mais informações na &lt;a href=&quot;https://github.com/Slicer/SlicerLang
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished">Ignorado. O arquivo baixado é inválido.</translation>
+        <translation>Ignorado. O arquivo baixado é inválido.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
