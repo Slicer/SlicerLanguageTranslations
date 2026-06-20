@@ -7,7 +7,7 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Basics of Data Loading and 3D Visualization in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Grundlagen der Datenbelastung und 3D-Visualisierung in 3D Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
