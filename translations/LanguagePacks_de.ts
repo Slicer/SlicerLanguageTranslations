@@ -21,12 +21,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lassen Sie leer, um taub zu verwenden. Optionaler API-Schlüssel für Weblate. Geben Sie dies an, wenn Sie auf private Projekte zugreifen oder Ratenlimits vermeiden müssen.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
         <source>Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leer lassen, um Standard zu verwenden (Qt lrelease-Tools, die mit dem Slicer-Installer gebündelt oder in Systempfaden verfügbar sind). Geben Sie an, benutzerdefinierte Qt lrelease ausführbar zu verwenden.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
