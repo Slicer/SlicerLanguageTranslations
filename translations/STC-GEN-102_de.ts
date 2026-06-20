@@ -31,7 +31,7 @@ Harvard Medical School</source>
         <extracomment>1_TextBox_0
 ----------
 16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer4 Minuten Tutorial</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
