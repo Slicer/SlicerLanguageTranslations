@@ -92,7 +92,7 @@ Harvard Medical School</translation>
         <location filename="text_dict_default.json" line="30"/>
         <source>Drag and drop the slicer4minute.mrb to load the scene in Slicer</source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished">Ziehen Sie die Datei „slicer4minute.mrb“ per Drag & Drop, um die Szene in Slicer zu laden.</translation>
+        <translation type="unfinished">Ziehen Sie die Datei „slicer4minute.mrb“ per Drag &amp; Drop, um die Szene in Slicer zu laden.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
