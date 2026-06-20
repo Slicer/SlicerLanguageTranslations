@@ -8,13 +8,14 @@
         <source>Slicer4 Minute
 </source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer4 perc
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sonia Pujol, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -22,7 +23,9 @@
 Brigham and Women’s Hospital
 Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Radiológiai adjunktus
+Brigham and Women’s Hospital
+Harvard Medical School</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
@@ -31,19 +34,19 @@ Harvard Medical School</source>
         <extracomment>1_TextBox_0
 ----------
 16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer4 perces oktatóanyag</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>This tutorial is a 4-minute introduction to the 3D visualization capabilities of the Slicer5 software for medical image analysis. </source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ez az oktatóanyag egy 4 perces bevezetés a Slicer5 szoftver orvosi képelemzéshez használható 3D vizualizációs lehetőségeibe. </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>Slicer5 software &amp; dataset</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer5 szoftver &amp; adatkészlet</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
@@ -51,52 +54,57 @@ Harvard Medical School</source>
 
 *Download the Slicer4minute dataset available at https://www.slicer.org/wiki/Documentation/4.10/Training</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*Töltse le a Slicer5 szoftvert a http://download.slicer.org címről
+
+*Töltse le a Slicer4minute adatkészletet a https://www.slicer.org/wiki/Documentation/4.10/Training címről</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
         <source>3D Slicer version 5</source>
         <extracomment>3_3DSlicerversion5_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D Slicer 5-ös verzió</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>3D Slicer Scene</source>
         <extracomment>4_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D Slicer jelenet</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
         <source>*A Slicer scene is a MRML (Medical Reality Modeling Language) file that contains a list of elements loaded into Slicer (volumes, models, fiducials, transforms, etc.)
-*In the following example, we use a scene &apos;Slicer4minute.mrml&apos; composed of an MRI scan and 3D models of the head. 
-*The scene file and datasets have been saved as a MRB (Medical Reality Bundle) file. 
+*In the following example, we use a scene &apos;Slicer4minute.mrml&apos; composed of an MRI scan and 3D models of the head.
+*The scene file and datasets have been saved as a MRB (Medical Reality Bundle) file.
 *The MRB file format is Slicer&apos;s archive file format.</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*A Slicer jelenet egy MRML (Medical Reality Modeling Language) fájl, amely a Slicerbe betöltött elemek listáját tartalmazza (kötetek, modellek, fiduciálisok, transzformációk stb.)
+*A következő példában a &apos;Slicer4minute.mrml&apos; jelenetet használjuk, amely egy MRI-felvételből és a fej 3D-s modelljeiből áll.
+*A jelenetfájl és az adatkészletek MRB (Medical Reality Bundle) fájlként lettek elmentve.
+*Az MRB fájlformátum a Slicer archív fájlformátuma.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
         <source>Loading the Slicer4minute dataset</source>
         <extracomment>5_LoadingtheSlicer4minutedataset_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A Slicer4minute adatkészlet betöltése</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
         <source>Drag and drop the slicer4minute.mrb to load the scene in Slicer</source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Húzza és ejtse a slicer4minute.mrb fájlt a jelenet Slicerbe való betöltéséhez</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Slicer4minute Scene</source>
         <extracomment>6_Slicer4minuteScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer4minute jelenet</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
         <source>Slicer displays the elements of the slicer4minute scene. The scene contains and MRI scan and 3D surface models of the brain.</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A Slicer megjeleníti a slicer4minute jelenet elemeit. A jelenet egy MRI-felvételt és az agy 3D-s felszíni modelljeit tartalmazza.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
@@ -120,59 +128,63 @@ Harvard Medical School</source>
 14_3DVisualization_title
 ----------
 15_3DVisualization_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D vizualizáció</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
         <source>Select the module Models</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki a Modellek modult</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>3D visualization</source>
         <extracomment>8_3Dvisualization_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D vizualizáció</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
         <source>Click on the pin icon on the top left corner of the red slice to display the slice Viewer menu.
 Click on the eye to display the axial slice in the 3D viewer</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kattintson a piros szelet bal felső sarkában lévő gombostű ikonra a szelet nézegető menü megjelenítéséhez.
+Kattintson a szemre az axiális szelet 3D nézegetőben való megjelenítéséhez</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
-        <source>Use the slider of the red viewer to browse through the axial MR slices. 
+        <source>Use the slider of the red viewer to browse through the axial MR slices.
 
 Slicer simultaneously displays the axial slice in the 3D viewer</source>
         <extracomment>9_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Használja a piros nézegető csúszkáját az axiális MR-szeletek böngészéséhez.
+
+A Slicer egyidejűleg megjeleníti az axiális szeletet a 3D nézegetőben</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
         <source>Select the Skin model and lower its opacity using the Opacity slider in the 3D Display tab</source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki a Bőr modellt, és csökkentse az átlátszatlanságát az Átlátszatlanság csúszkával a 3D megjelenítés lapon</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
         <source>The skull_bone.vtk model appears through the skin.</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A skull_bone.vtk modell láthatóvá válik a bőrön keresztül.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="56"/>
-        <source>Position the mouse in the 3D viewer, click on the left-mouse button to drag and rotate the model. 
+        <source>Position the mouse in the 3D viewer, click on the left-mouse button to drag and rotate the model.
 Click on the right-mouse button to zoom in and out</source>
         <extracomment>11_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Helyezze az egeret a 3D nézegetőbe, kattintson a bal egérgombra a modell mozgatásához és forgatásához.
+Kattintson a jobb egérgombra a nagyításhoz és kicsinyítéshez</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
         <source>Anatomical Views</source>
         <extracomment>12_AnatomicalViews_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anatómiai nézetek</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
@@ -180,19 +192,21 @@ Click on the right-mouse button to zoom in and out</source>
 
 Click on the eye icon to display the axial and coronal slice in the 3D viewer</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kattintson a piros és zöld nézegető bal felső sarkában lévő gombostű ikonokra a szelet nézegető menü megjelenítéséhez
+
+Kattintson a szem ikonra az axiális és koronális szelet 3D nézegetőben való megjelenítéséhez</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
         <source>Turn off the visibility of the skull to display the brain white matter model</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kapcsolja ki a koponya láthatóságát az agyi fehérállomány modell megjelenítéséhez</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
         <source>The white matter surface, as well as the left and right optic nerves, appear in the viewer</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A fehérállomány felszíne, valamint a bal és jobb látóideg megjelenik a nézegetőben</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
@@ -202,7 +216,11 @@ Check Clipping in the 3D Display tab
 
 In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; and check &apos;Negative&apos;</source>
         <extracomment>15_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki a hemispheric_white_matter.vtk modellt
+
+Jelölje be a Vágás opciót a 3D megjelenítés lapon
+
+A Vágási síkok lapon válassza a &apos;Zöld szelet vágás&apos; opciót, és jelölje be a &apos;Negatív&apos; lehetőséget</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -210,13 +228,15 @@ In the Clipping Planes tab, select the option &apos;Green Slice Clipping&apos; a
 
 *The Slicer5 training compendium contains a series of tutorials and pre-computed datasets to learn how to use the software.</source>
         <extracomment>16_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*Ez az oktatóanyag rövid bevezetés volt az MRI-adatok és 3D-s modellek interaktív 3D vizualizációjába a Slicerben.
+
+*A Slicer5 képzési összefoglaló oktatóanyagok és előre kiszámított adatkészletek sorozatát tartalmazza a szoftver használatának megtanulásához.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
         <source>Acknowledgements</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Köszönetnyilvánítás</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -228,7 +248,13 @@ Neuroimage Analysis Center
 NIH P41EB015902
 </source>
         <extracomment>17_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">National Alliance for Medical Image
+Computing
+NIH U54EB005149
+
+Neuroimage Analysis Center
+NIH P41EB015902
+</translation>
     </message>
 </context>
 </TS>

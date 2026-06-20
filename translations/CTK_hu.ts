@@ -582,7 +582,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="20"/>
         <source>ctkDICOMAppWidget</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ctkDICOMAppWidget</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="38"/>
@@ -789,7 +789,7 @@ A hiba oka:
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="213"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1107"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mégse</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="190"/>
@@ -815,7 +815,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="233"/>
         <source>Export selected series to a DICOM folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kijelölt sorozatok exportálása DICOM mappába</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="238"/>
@@ -825,7 +825,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="241"/>
         <source>Query and retrieve studies from a DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vizsgálatok lekérdezése és letöltése DICOM kiszolgálóról</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="249"/>
@@ -835,7 +835,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="252"/>
         <source>Send selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kijelölt sorozatok küldése DICOM kiszolgálóra</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
@@ -845,17 +845,17 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
         <source>Remove selected series from database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kijelölt sorozatok törlése az adatbázisból</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="271"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Javítás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="274"/>
         <source>Check whether all the files associated with images in the local Database are available on the disk.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ellenőrzi, hogy a helyi adatbázisban lévő képekhez tartozó összes fájl elérhető-e a lemezen.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="213"/>
@@ -870,22 +870,22 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="307"/>
         <source>Add Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hivatkozás hozzáadása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="308"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Másolás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="310"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adja meg, hogy a fájlokat a helyi adatbázis könyvtárba kell-e másolni, vagy csak hivatkozásokat kell létrehozni?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="312"/>
         <source>Import Directory Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Importálási könyvtár módja:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="328"/>
@@ -895,56 +895,60 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="333"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM fájl metaadatok</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="526"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nem sikerült új adatbázist létrehozni a(z) %1 mappában.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="582"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="610"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nem található érvényes DICOM adatbázis a(z) %1 mappában.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="630"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inkompatibilis DICOM adatbázis-verzió található a(z) %1 mappában.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="772"/>
         <source>Database Repair</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adatbázis javítása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="802"/>
         <source>All the files in the local database are available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A helyi adatbázis összes fájlja elérhető.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
-        <source>The files for the following series are not available on the disk: 
+        <source>The files for the following series are not available on the disk:
 Patient Name: %1
 Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A következő sorozat fájljai nem érhetők el a lemezen:
+Beteg neve: %1
+Vizsgálat leírása: %2
+Sorozat leírása: %3
+El kívánja távolítani a sorozatot a DICOM adatbázisból?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1053"/>
         <source>Do you want to delete the following selected items?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Törli a következő kijelölt elemeket?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1074"/>
         <source>(and %1 more)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(és %1 további)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1106"/>
@@ -952,88 +956,88 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1220"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1298"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Törlés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1138"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1212"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1290"/>
         <source>View DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM metaadatok megtekintése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1141"/>
         <source>View DICOM metadata of %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt beteg DICOM metaadatainak megtekintése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1149"/>
         <source>Delete %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt beteg törlése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1154"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1228"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1306"/>
         <source>Export to file system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportálás fájlrendszerbe</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1157"/>
         <source>Export %1 selected patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt beteg exportálása fájlrendszerbe</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1162"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1236"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1314"/>
         <source>Send to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Küldés DICOM kiszolgálóra</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1165"/>
         <source>Send %1 selected patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt beteg küldése DICOM kiszolgálóra</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1215"/>
         <source>View DICOM metadata of %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt vizsgálat DICOM metaadatainak megtekintése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1223"/>
         <source>Delete %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt vizsgálat törlése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1231"/>
         <source>Export %1 selected studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt vizsgálat exportálása fájlrendszerbe</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1239"/>
         <source>Send %1 selected studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt vizsgálat küldése DICOM kiszolgálóra</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1293"/>
         <source>View DICOM metadata of %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt sorozat DICOM metaadatainak megtekintése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1301"/>
         <source>Delete %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt sorozat törlése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1309"/>
         <source>Export %1 selected series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt sorozat exportálása fájlrendszerbe</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1317"/>
         <source>Send %1 selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kijelölt sorozat küldése DICOM kiszolgálóra</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1401"/>
@@ -1043,12 +1047,16 @@ Do you want to remove the series from the DICOM database?</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nem sikerült az exportálási célkönyvtárat létrehozni:
+
+%1
+
+Az exportálás leáll.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1415"/>
         <source>DICOM Export</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM exportálás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1415"/>
@@ -1071,7 +1079,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az exportálási forrásfájl nem található:
+
+%1
+
+Az exportálás leáll.
+
+A hiba a Javítás funkcióval orvosolható.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1451"/>
@@ -1081,7 +1095,11 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az exportálási célfájl már létezik:
+
+%1
+
+Az exportálás leáll.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1466"/>
@@ -1095,18 +1113,26 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nem sikerült másolni:
+
+%1
+
+célhelyre:
+
+%2
+
+Az exportálás leáll.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1495"/>
         <source>Updating database displayed fields...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az adatbázis megjelenített mezőinek frissítése...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1769"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Importálás befejezve: %1 beteg, %2 vizsgálat, %3 sorozat, %4 példány hozzáadva.</translation>
     </message>
 </context>
 <context>
@@ -1115,17 +1141,17 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="14"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="20"/>
         <source>DICOM Directories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM könyvtárak</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="32"/>
         <source>Add Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Könyvtár hozzáadása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="39"/>
         <source>Remove Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Könyvtár eltávolítása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
@@ -1135,7 +1161,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMDirectoryListWidget.cpp" line="77"/>
         <source>Open Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Könyvtár megnyitása</translation>
     </message>
 </context>
 <context>
@@ -1143,17 +1169,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="25"/>
         <source>Unnamed RT Plan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Névtelen RT terv</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="26"/>
         <source>Unnamed RT Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Névtelen RT struktúrakészlet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="27"/>
         <source>Unnamed RT Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Névtelen RT kép</translation>
     </message>
 </context>
 <context>
@@ -1161,17 +1187,17 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="64"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hosztolt alkalmazás kiválasztása</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="128"/>
         <source>Series selected: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kijelölt sorozat: </translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="138"/>
         <source>no series selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nincs kijelölt sorozat</translation>
     </message>
 </context>
 <context>
@@ -1179,27 +1205,27 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="14"/>
         <source>DICOM Hosts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM gazdagépek</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="56"/>
         <source>Show extended controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bővített vezérlők megjelenítése</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="83"/>
         <source>Configure Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hosztolt alkalmazás konfigurálása</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="93"/>
         <source>Send Data to Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adatok küldése a hosztolt alkalmazásnak</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="100"/>
         <source>nothing selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">semmi sincs kijelölve</translation>
     </message>
 </context>
 <context>
@@ -1207,12 +1233,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="14"/>
         <source>Import DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM importálása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="29"/>
         <source>Copy to library</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Másolás a könyvtárba</translation>
     </message>
 </context>
 <context>
@@ -1222,23 +1248,23 @@ Halting export.</source>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="223"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="250"/>
         <source>Parsing DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM fájlok feldolgozása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="132"/>
         <source>Updating database displayed fields</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az adatbázis megjelenített mezőinek frissítése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="153"/>
         <source>Indexing complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az indexelés befejeződött</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="221"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="248"/>
         <source>Updating database fields</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adatbázismezők frissítése</translation>
     </message>
 </context>
 <context>
@@ -1246,373 +1272,373 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="871"/>
         <source>Head First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fejjel előre – Hason fekvő</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="872"/>
         <source>Head First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fejjel előre – Jobb oldali fektetés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="873"/>
         <source>Feet First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lábbal előre – Jobb oldali fektetés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="874"/>
         <source>Feet First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lábbal előre – Hason fekvő</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="875"/>
         <source>Head First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fejjel előre – Háton fekvő</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="876"/>
         <source>Head First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fejjel előre – Bal oldali fektetés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="877"/>
         <source>Feet First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lábbal előre – Bal oldali fektetés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="878"/>
         <source>Feet First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lábbal előre – Háton fekvő</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Számítógépes radiográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="900"/>
         <source>Computed Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Számítógépes tomográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="901"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mágneses rezonancia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nukleáris medicina</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ultrahang</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Egyéb</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
         <source>Biomagnetic imaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Biomágneses képalkotás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Színes áramlási Doppler</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
         <source>Duplex Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Duplex Doppler</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endoszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="909"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lézer felületi szkennelés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
         <source>Positron emission tomography (PET)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pozitronemissziós tomográfia (PET)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Radiográfiai képalkotás (hagyományos film/ernyő)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>Single-photon emission computed tomograpy (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Egyfotonemissziós számítógépes tomográfia (SPECT)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
         <source>Thermography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Termográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>X-Ray Aniography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Röntgen-angiográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Radiológiai fluoroszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sugárterápiás kép</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
         <source>Radiotherapy Dose</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sugárterápiás dózis</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sugárterápiás struktúrakészlet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
         <source>Radiotherapy Plan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sugárterápiás terv</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RT kezelési rekord</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nyomtatott másolat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
         <source>Digital Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Digitális radiográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
         <source>Mammography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mammográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
         <source>Intra-oral Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szájon belüli röntgen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panoráma röntgen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Általános mikroszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tárgylemez-mikroszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Külső kamerás fényképezés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="929"/>
         <source>Presentation state</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megjelenítési állapot</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="930"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hang</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="931"/>
         <source>Electrocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elektrokardiográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="932"/>
         <source>Cardiac Electrophysiology</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szív elektrofiziológia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="933"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hemodinamikai hullámforma</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="934"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SR dokumentum</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="935"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intravascularis ultrahang</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="936"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szemészeti fényképezés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="937"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sztereometriai kapcsolat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="938"/>
         <source>Optical Coherence Tomography (non-Ophthalmic)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optikai koherencia tomográfia (nem szemészeti)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szemészeti refrakció</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szemészeti látótér</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szemészeti feltérképezés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kulcsobjektum-kijelölés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="943"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szegmentálás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="944"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Regisztráció</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="945"/>
         <source>Ophthalmic Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szemészeti tomográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="946"/>
         <source>Bone Densitometry (ultrasound)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csontsűrűség-mérés (ultrahang)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="947"/>
         <source>Bone Densitometry (X-Ray)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csontsűrűség-mérés (röntgen)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="948"/>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokumentum</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="951"/>
         <source>Digital Subtraction Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Digitális szubsztrakciós angiográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="952"/>
         <source>Cinefluorography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinefluorográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="953"/>
         <source>Digital fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Digitális fluoroszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="954"/>
         <source>Videofluorography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Videofluorográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="955"/>
         <source>Angioscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angioszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="956"/>
         <source>Cystoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cisztoszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="957"/>
         <source>Echocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Echokardiográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="958"/>
         <source>Laparoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laparoszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="959"/>
         <source>Fluorescein angiography </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fluoreszcein angiográfia </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="960"/>
         <source>Culposcopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolposzkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="961"/>
         <source>Digital microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Digitális mikroszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="962"/>
         <source>Fundoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fundoszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="963"/>
         <source>Magnetic resonance angiography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mágneses rezonancia angiográfia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="964"/>
         <source>Magnetic resonance spectroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mágneses rezonancia spektroszkópia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="995"/>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="1016"/>
         <source>Unknown (no DICOM dictionary loaded)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ismeretlen (nincs DICOM szótár betöltve)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="999"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
 </context>
 <context>

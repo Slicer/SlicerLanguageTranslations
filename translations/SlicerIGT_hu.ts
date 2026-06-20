@@ -9,7 +9,10 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Ez a modul referenciapontok listáját illeszti egy modell felületéhez iteratív legközelebbi pontok (ICP) módszerrel.
+Segítségért látogasson el a következő oldalra: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT weboldal&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="24"/>
@@ -24,7 +27,7 @@ Ezt a fájlt eredetileg Jean-Christophe Fillion-Robin (Kitware Inc.) és Steve P
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
         <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megjegyzés: A referenciapontok szülő transzformációi nem kerülnek alkalmazásra. A referenciapontokat abban a koordináta-rendszerben kell megadni, amelyet regisztrálni kíván.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
@@ -107,17 +110,17 @@ Ezt a fájlt eredetileg Jean-Christophe Fillion-Robin (Kitware Inc.) és Steve P
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="44"/>
         <source>Guidelet launcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guidelet indító</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
         <source>Set the Plus Server Host and Name Port:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adja meg a Plus Server gazdagép nevét és portját:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válasszon konfigurációt: </translation>
     </message>
 </context>
 <context>
@@ -125,42 +128,42 @@ Ezt a fájlt eredetileg Jean-Christophe Fillion-Robin (Kitware Inc.) és Steve P
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="164"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beállítások</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
         <source>Select connector node</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csatlakozó csomópont kiválasztása</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
         <source>OpenIGTLink connector: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OpenIGTLink csatlakozó: </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
         <source>Show 3D Slicer user interface</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D Slicer felhasználói felület megjelenítése</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
         <source>Show Guidelet in full screen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guidelet megjelenítése teljes képernyőn</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
         <source>Save Guidelet scene</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guidelet jelenet mentése</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="216"/>
         <source>Save scene directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jelenet mentési mappája:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kilépés</translation>
     </message>
 </context>
 <context>
@@ -168,62 +171,62 @@ Ezt a fájlt eredetileg Jean-Christophe Fillion-Robin (Kitware Inc.) és Steve P
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ultrahang</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="58"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Felvétel indítása</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="61"/>
         <source>If clicked, start recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kattintásra elindítja a felvételt</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="63"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Befagyasztás</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="73"/>
         <source>Brightness </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fényerő </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normál</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Világos</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
         <source>Brighter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Világosabb</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="245"/>
         <source>  Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">  Felvétel leállítása</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="247"/>
         <source>Recording is being started...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Felvétel indítása folyamatban...</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
         <source>  Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">  Felvétel indítása</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Felvétel leállítása folyamatban...</translation>
     </message>
 </context>
 <context>
@@ -231,7 +234,7 @@ Ezt a fájlt eredetileg Jean-Christophe Fillion-Robin (Kitware Inc.) és Steve P
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="17"/>
         <source>Model Registration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modell regisztráció</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="21"/>
@@ -239,14 +242,19 @@ Ezt a fájlt eredetileg Jean-Christophe Fillion-Robin (Kitware Inc.) és Steve P
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Ez a modul Iteratív Legközelebbi Pontok (ICP) regisztrációt alkalmaz két felületi modell között.
+Segítségért látogasson el a következő oldalra: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT weboldal&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Ez a munka a SparKit projekt része, amelyet a Cancer Care Ontario (CCO) ACRU programja és az Ontario Adaptív Beavatkozások a Sugáronkológiában Konzorcium (OCAIRO) finanszíroz.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="43"/>
@@ -256,27 +264,27 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megjegyzés: A modellek szülő transzformációi nem kerülnek alkalmazásra. A modelleket abban a koordináta-rendszerben kell megadni, amelyet regisztrálni kíván.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
         <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki azt a modellt, amelyhez a másik igazodik. Ennek a modellnek sűrű ponthalmazt kell tartalmaznia.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki azt a modellt, amelyet transzformálni kell. Ez a modell ritka ponthalmazt is tartalmazhat.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
         <source>Input moving (sparse) model: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bemeneti mozgó (ritka) modell: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
         <source>Pick the moving to fixed transform computed by the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki az algoritmus által számított mozgó-rögzített transzformációt.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
@@ -286,7 +294,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alkalmaz</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
@@ -301,7 +309,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
         <source>Mean distance after registration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Átlagos távolság a regisztráció után:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="123"/>
@@ -316,7 +324,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A teszt nincs implementálva a ModelRegistration modulhoz</translation>
     </message>
 </context>
 <context>
@@ -324,22 +332,22 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Idősor</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hozzáadás</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rögzített csomópontok</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="34"/>
         <source>Sequence Replay</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sorozat lejátszás</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="40"/>
@@ -347,7 +355,10 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Ez egy kiterjesztésbe csomagolt szkriptelhető betölthető modul példája.
+További információ: &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;modul dokumentáció&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
@@ -355,7 +366,9 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Ezt a fájlt eredetileg Jean-Christophe Fillion-Robin (Kitware Inc.), Andras Lasso (PerkLab) és Steve Pieper (Isomics, Inc.) fejlesztette, és részben a NIH 3P41RR013218-12S1 számú támogatása finanszírozta.
+</translation>
     </message>
 </context>
 <context>
@@ -363,7 +376,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="TextureModel/TextureModel.py" line="20"/>
         <source>Texture Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textúra modell</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="24"/>
@@ -372,7 +385,11 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ez a modul textúrát (egy kötetcsomópontban tárolva) alkalmaz egy modellcsomópontra.
+Általában színes felületek megjelenítésére használják, amelyeket felületszkennerek biztosítanak OBJ formátumban exportálva.
+A modellnek tartalmaznia kell textúrakoordinátákat. Modellenként csak egy textúrafájl támogatott.
+További információ: &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT projekt weboldal&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="49"/>
@@ -382,52 +399,52 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
         <source>Model node containing geometry and texture coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geometriát és textúrakoordinátákat tartalmazó modellcsomópont.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="68"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modell:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="80"/>
         <source>Color image containing texture image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textúraképet tartalmazó színes kép.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
         <source>Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textúra:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="84"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">letiltva</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RGB vektor</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RGB lebegőpontos vektor</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RGB lebegőpontos komponensek</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="89"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szín mentése pontadatokban. Az &quot;RGB vektor&quot; ajánlott a legtöbb szoftverrel való kompatibilitás érdekében. A pontadatok felhasználhatók küszöbölésre vagy színalapú feldolgozásra.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="92"/>
         <source>Save color information as point data:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Színinformáció mentése pontadatként:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="97"/>
@@ -437,7 +454,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="98"/>
         <source>Apply texture to selected model.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textúra alkalmazása a kiválasztott modellre.</translation>
     </message>
 </context>
 <context>
@@ -445,7 +462,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="12"/>
         <source>Viewpoint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nézőpont</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="19"/>
@@ -453,119 +470,124 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ez a modul egy 3D nézegető kameranézőpontját állítja be.
+Célkereszt nézet: a kamera pozicionálása/orientálása követett eszközzel.
+Segítségért látogasson el a következő oldalra: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT weboldal&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="23"/>
         <source>
     This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+    Ez a munka a Breast NaviKnife projekt része, a Queen&apos;s University perkután sebészeti laboratóriumában (Kingston, Ontario). Thomas Vaughan NSERC posztgraduális ösztöndíjban részesül. Gabor Fichtinger Cancer Care Ontario (CCO) elnöki ösztöndíjban részesül.
+    </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="64"/>
         <source>Enable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Célkereszt nézet mód engedélyezése</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Disable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Célkereszt nézet mód letiltása</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="93"/>
         <source>Enable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatikus középre igazítás mód engedélyezése</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
         <source>Disable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatikus középre igazítás mód letiltása</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="102"/>
         <source>View Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nézet kiválasztása</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="109"/>
         <source>Scene Camera: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jelenet kamera: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="116"/>
         <source>Pick the view which should be adjusted, e.g. &apos;View1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki a beállítandó nézetet, pl. &apos;View1&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="121"/>
         <source>Parameters for Bullseye View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Célkereszt nézet paraméterei</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="129"/>
         <source>Camera positioning transform: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kamera pozicionáló transzformáció: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="136"/>
         <source>Pick the transform that the camera should follow, e.g. &apos;cauteryCameraToCauteryTransform&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki azt a transzformációt, amelyet a kamerának követnie kell, pl. &apos;cauteryCameraToCauteryTransform&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="141"/>
         <source>Camera Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kamera vezérlés</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="149"/>
         <source>Degrees of Freedom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szabadsági fokok</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
         <source>The camera will always look at the target model (or if unselected will act like 5DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A kamera mindig a célmodellre néz (vagy ha nincs kiválasztva, 5DOF-ként viselkedik)</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="163"/>
         <source>5DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5DOF: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="165"/>
         <source>The camera will always be oriented with the selected &apos;up direction&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A kamera mindig a kiválasztott &apos;felfelé irány&apos; szerint orientálódik</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="169"/>
         <source>6DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6DOF: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="171"/>
         <source>The camera will be virtually attached to the tool, and rotate together with it</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A kamera virtuálisan az eszközhöz van rögzítve, és azzal együtt forog</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="177"/>
         <source>Up Direction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Felfelé irány</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="186"/>
         <source>Anterior: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anterior: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="192"/>
         <source>Posterior: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posterior: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="197"/>
         <source>Right: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jobb: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="202"/>
@@ -2839,7 +2861,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="112"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hozzáadás</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="141"/>

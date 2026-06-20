@@ -16,22 +16,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Weblate API kulcs:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hagyja üresen az alapértelmezett beállítás használatához. Opcionális API kulcs a Weblate-hez. Adja meg, ha privát projektekhez kell hozzáférnie, vagy el szeretné kerülni a lekérési korlátokat.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
         <source>Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hagyja üresen az alapértelmezett beállítás használatához (a Slicer telepítővel érkező vagy a rendszerben elérhető Qt lrelease eszköz). Adja meg az egyéni Qt lrelease futtatható fájl elérési útját.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szöveg iránya:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
@@ -178,7 +178,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="364"/>
         <source>Keyboard shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Billentyűparancs:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="21"/>
@@ -191,7 +191,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Ez a modul képes fordítási fájlokat összeállítani és helyileg telepíteni. Hasznos a fordítások létrehozásához és teszteléséhez.
+További információ a &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;kiterjesztés dokumentációjában&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -232,17 +235,17 @@ További információ a &lt;a href=&quot;https://github.com/Slicer/SlicerLanguag
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatikus felismerés</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
         <source>Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Balról jobbra</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="269"/>
         <source>Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jobbról balra</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="332"/>
@@ -287,12 +290,12 @@ További információ a &lt;a href=&quot;https://github.com/Slicer/SlicerLanguag
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="682"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kihagyva. Ez a komponens/nyelv nem található meg a Weblate-en.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kihagyva. A letöltött fájl érvénytelen.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
