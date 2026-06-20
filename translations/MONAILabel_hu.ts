@@ -1007,41 +1007,41 @@ Kérjük, frissítsen a legújabb monailabel verzióra (&gt; 0.2.0)</translation
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="691"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="716"/>
         <source>Data Set Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adatkészlet-böngésző</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="693"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="727"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Betöltés</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="696"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="761"/>
         <source>Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jegyzetelő</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="697"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="781"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szűrő</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="698"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="795"/>
         <source>not segmented</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nem szegmentált</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="383"/>
         <source>Server Url</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A szerver URL-je</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="400"/>
         <source>Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recenzens</translation>
     </message>
 </context>
 <context>
@@ -1049,7 +1049,7 @@ Kérjük, frissítsen a legújabb monailabel verzióra (&gt; 0.2.0)</translation
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="43"/>
         <source>Active Learning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktív tanulás</translation>
     </message>
 </context>
 </TS>
