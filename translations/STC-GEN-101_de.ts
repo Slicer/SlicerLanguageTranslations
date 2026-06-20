@@ -7,7 +7,7 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Slicer Welcome</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slicer Willkommen</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
