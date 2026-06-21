@@ -208,7 +208,7 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="472"/>
         <source>Apply</source>
-        <translation type="unfinished">Inscreva-se</translation>
+        <translation type="unfinished">Aplicar</translation>
     </message>
 </context>
 <context>
