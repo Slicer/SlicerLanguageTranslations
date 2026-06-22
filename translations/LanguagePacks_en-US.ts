@@ -16,12 +16,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate API key:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits. Leave empty to use default.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
@@ -191,7 +191,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+This module can build translation files and install them locally. It is useful for creating and testing translations.
+See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -202,12 +205,14 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>
+Development of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="178"/>
         <source>Failed to extract any text from widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract any text from widget</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="193"/>
@@ -217,17 +222,19 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Click on the text to find it on the translation website [{language}]:
+
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="211"/>
         <source>Failed to extract any text from: {object}</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract any text from: {object}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-detect</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
@@ -267,33 +274,33 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="642"/>
         <source>No .ts files were found in the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation>No .ts files were found in the specified location.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="646"/>
         <source>Use translation file: {file}</source>
-        <translation type="unfinished"></translation>
+        <translation>Use translation file: {file}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="670"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Download translations for {component}/{language}...</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="682"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skipped. This component/language was not found on Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skipped. The downloaded file is invalid.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
         <location filename="LanguageTools/LanguageTools.py" line="740"/>
         <source>Translation files folder is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Translation files folder is not specified.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="720"/>
