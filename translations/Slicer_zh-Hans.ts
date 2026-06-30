@@ -7798,7 +7798,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="52"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>切换全屏</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="62"/>
@@ -7809,7 +7809,7 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="137"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1113"/>
         <source>Show DICOM Database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示 DICOM 数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="159"/>
@@ -7829,7 +7829,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="200"/>
         <source>DICOM Database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM 数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="395"/>
@@ -7884,12 +7884,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="597"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance. Detailed logging will be automatically disabled after 4 hours.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM操作过程中记录更多细节。这有助于排查DICOM加载问题，但可能影响性能。详细日志会在4小时后自动关闭。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="617"/>
         <source>Thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缩略图尺寸：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="676"/>
