@@ -7785,7 +7785,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="124"/>
         <source>Apply</source>
-        <translation type="unfinished">应用</translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
@@ -7803,13 +7803,13 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="62"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="137"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1113"/>
         <source>Show DICOM Database</source>
-        <translation type="unfinished">显示 DICOM 数据库</translation>
+        <translation>显示 DICOM 数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="159"/>
@@ -7829,7 +7829,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="200"/>
         <source>DICOM Database</source>
-        <translation type="unfinished">DICOM 数据库</translation>
+        <translation>DICOM 数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="395"/>
@@ -7884,51 +7884,51 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="597"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance. Detailed logging will be automatically disabled after 4 hours.</source>
-        <translation type="unfinished">DICOM操作过程中记录更多细节。这有助于排查DICOM加载问题，但可能影响性能。详细日志会在4小时后自动关闭。</translation>
+        <translation>在DICOM操作过程中记录更多细节。这有助于排查DICOM加载问题，但可能影响性能。详细日志功能会在4小时后自动关闭。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="617"/>
         <source>Thumbnail size:</source>
-        <translation type="unfinished">缩略图尺寸：</translation>
+        <translation>缩略图尺寸：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="676"/>
         <source>Enabled until {time}</source>
-        <translation type="unfinished"></translation>
+        <translation>启用直到 {time}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="677"/>
         <source>Disable</source>
-        <translation type="unfinished">停用</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="680"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="681"/>
         <source>Enable for 4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>启用4个小时</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="903"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1048"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1091"/>
         <source>Hide DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏 DICOM 数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="905"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1049"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1095"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>显示 DICOM 数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation>侧栏</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
@@ -7943,7 +7943,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="612"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>已隐藏</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
