@@ -8019,7 +8019,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1295"/>
         <source>running at port %s with TLS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在 %s 端口上以 TLS 方式运行</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
@@ -8352,7 +8352,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="152"/>
         <source>Patch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">补丁</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="153"/>
@@ -8362,7 +8362,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="159"/>
         <source>Import to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">导入到DICOM数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="160"/>
@@ -9308,7 +9308,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="30"/>
         <source>Line Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">线路剖面图</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="34"/>
@@ -9319,29 +9319,37 @@ Notes:
 2. Probed points within the image volume are linearly interpolated among adjacent voxel centers
 and then returned with the same data type as the probed image (e.g. rounded to integers if the image has integer data type).
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+该模块用于计算体积沿标记线或曲线的强度分布曲线。
+注：
+1. 位于图像边界上的直线（位于边界体素中心之外）可能会被赋值为 0。
+2. 图像体积内的采样点会在相邻体素中心之间进行线性插值，
+然后以与被采样图像相同的数据类型返回（例如，如果图像的数据类型为整数，则四舍五入为整数）。
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="42"/>
         <source>
 This file was originally developed by Andras Lasso (PerkLab) and was partially funded by CCO ACRU.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+该文件最初由安德拉斯·拉索（PerkLab）开发，并得到了CCO ACRU的部分资助。
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="509"/>
         <source>{name} intensity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{name} 强度</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="510"/>
         <source>{name} intensity table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{name} 强度表</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="14"/>
         <source>LineProfile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">线型图</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="20"/>
@@ -9352,37 +9360,37 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="29"/>
         <source>Input Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入音量：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="36"/>
         <source>Pick the input to the algorithm which will be sampled along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择算法的输入，该输入将沿该线进行采样。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="72"/>
         <source>Input Line:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入行：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="79"/>
         <source>Line Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">线分辨率：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="86"/>
         <source>Number of points to sample along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">沿该线要采样的点数。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="114"/>
         <source>Pick line or curve to take image samples along.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择一条直线或曲线，沿其采集图像样本。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="134"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高级</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="140"/>
@@ -9392,12 +9400,12 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="146"/>
         <source>Output Intensities Table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出强度表：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="153"/>
         <source>Pick the table that will store the intensity and distance values.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择用于存储强度和距离值的表。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="176"/>
@@ -9407,78 +9415,78 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="186"/>
         <source>Output Intensities Plot Series:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出强度图系列：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="193"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">为该算法选择输出图系列。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="216"/>
         <source>Create new plot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建新图</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="226"/>
         <source>Plot Proportional Distance (%):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">绘制比例距离（%）：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="233"/>
         <source>If checked, then distance along the line in plot is not absolute, but the percent distance from the start of the line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果勾选此选项，则图中沿线段测量的距离不是绝对距离，而是相对于该线段起点的百分比距离。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="246"/>
         <source>Show plot:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示剧情：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="253"/>
         <source>If checked, then the intensity profile plot is automatically shown when the intensity profile is updated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果选中此选项，则在强度剖面更新时，系统会自动显示强度剖面图。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="269"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="275"/>
         <source>Peak Detection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">峰值检测</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="281"/>
         <source>Peaks Output Table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">峰值输出表：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="288"/>
         <source>Pick the output table that will store information about each detected peak.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择用于存储每个检测到的峰值相关信息的输出表。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="299"/>
         <source>Peaks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应该</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="321"/>
         <source>Minimum Peak Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最小峰值宽度：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="328"/>
         <source>Minimum width of the peak. Use higher values to reject small peaks detected due to image noise.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">峰值的最小宽度。使用较大的数值可过滤掉因图像噪声而检测到的微小峰值。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="347"/>
         <source>Height for Width Measurement:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高度与宽度测量：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="354"/>
         <source>Height at which the peak width is measured. 50% computes full width at half maximum. Larger value means that the height is measured near the top of the peak.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">测量峰宽的高度。50% 表示半高全宽。数值越大，表示测量高度越接近峰顶。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="357"/>
@@ -9488,22 +9496,22 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="379"/>
         <source>Peak is Maximum:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">峰值即最大值：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="386"/>
         <source>If checked then peaks are local maximum values. If unchecked then peaks are local minimum values.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果勾选此选项，则峰值即为局部最大值；如果未勾选此选项，则峰值即为局部最小值。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="405"/>
         <source>Compute intensity profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">计算强度分布</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="414"/>
         <source>autoUpdate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">autoUpdate</translation>
     </message>
 </context>
 <context>
@@ -9521,7 +9529,7 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.cxx" line="41"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">捕获/还原</translation>
     </message>
 </context>
 <context>
@@ -9587,12 +9595,12 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="291"/>
         <source>Download URLs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载网址：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="294"/>
         <source>Enter one or more URLs (one per line) to download and load the corresponding data sets. Press Ctrl+Enter or click &apos;Load&apos; button to start loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入一个或多个 URL（每行一个），以下载并加载相应的数据集。按 Ctrl+Enter 或点击“加载”按钮开始加载。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="303"/>
@@ -9617,12 +9625,12 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="355"/>
         <source>All {totalCount} data sets were loaded successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已成功加载所有 {totalCount} 个数据集。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="357"/>
         <source>Failed to load {errorCount} out of {totalCount} data sets.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未能加载 {errorCount} 个数据集（共 {totalCount} 个）。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="619"/>
@@ -10654,7 +10662,21 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">扩展片段以生成完整的分割结果&lt;br&gt;。
+ 系统会综合考虑初始片段的位置、大小和形状，以及源体积的内容。
+        最终分割边界将设置在源体积亮度发生突变的位置。操作说明：&lt;p&gt;
+ &lt;ul style=&quot;margin: 0&quot;&gt;
+ &lt;li&gt;使用“绘制”或其他效果工具，在应属于独立分割区域的每个区域内绘制种子点。
+        将每个种子涂成不同的分段颜色。至少需要两个分段。
+ &lt;li&gt;点击 &lt;dfn&gt;初始化&lt;/dfn&gt; 以计算完整分割的预览。
+        &lt;li&gt;浏览图像切片。如果预览的分割结果不正确，请切换到
+“绘制”或其他效果，并在分类错误的区域添加更多种子。完整的分割结果将在
+几秒钟内自动更新
+ &lt;li&gt;点击 &lt;dfn&gt;应用&lt;/dfn&gt;，以预览结果更新分割结果。
+ &lt;/ul&gt;&lt;p&gt;
+ 若分割区域重叠，则分割表中位置较高的分割区域将具有优先级。
+        该效果采用 &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;快速生长-切割法&lt;/a&gt;。
+ &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
@@ -12466,33 +12488,33 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="40"/>
         <source> Import DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 导入 DICOM 文件</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="57"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="60"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示 DICOM 数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="80"/>
         <source>If enabled, the DICOM browser widget will be substituted with the visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果启用此功能，DICOM 浏览器控件将被可视化浏览器取代。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="83"/>
         <source>Visual browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">可视化浏览器</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="103"/>
         <source>Show the dicom database in vertical mode allowing to use the Slicer views.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以垂直模式显示 DICOM 数据库，以便使用 Slicer 的视图功能。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="106"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">侧边栏</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="151"/>
@@ -12587,12 +12609,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="325"/>
         <source>Refresh the visual DICOM browser to show the current state of the database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新可视化 DICOM 浏览器，以显示数据库的当前状态。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="328"/>
         <source>Refresh browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新浏览器</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="338"/>
@@ -13811,18 +13833,18 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="550"/>
         <source>Direction Markers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">方向标记</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="568"/>
         <source>Show Direction Markers:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示方向标记：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="571"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="578"/>
         <source>Show or hide directional arrow markers along curve and line markups.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示或隐藏曲线和直线标注上的方向箭头标记。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="588"/>
@@ -13833,66 +13855,66 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="591"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="598"/>
         <source>Show direction markers in 3D views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在3D视图中显示方向标记。需要启用“显示方向标记”选项。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="608"/>
         <source>2D Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2D 可见性：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="611"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="618"/>
         <source>Show direction markers in 2D slice views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在 2D 切片视图中显示方向标记。需要启用“显示方向标记”选项。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="628"/>
         <source>Slice Intersection Points:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切片交点：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="631"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="638"/>
         <source>Show markers at positions where the curve/line crosses the current slice plane.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在曲线/直线与当前切片平面相交的位置显示标记。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="648"/>
         <source>Reverse Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">反向：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="651"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="658"/>
         <source>Reverse the direction of the arrow markers so they point in the opposite direction along the curve or line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将箭头标记的方向反转，使其沿曲线或直线指向相反方向。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="668"/>
         <source>Marker Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标记大小：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="671"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="678"/>
         <source>Size of each direction marker relative to the physical line thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">各方向标记的尺寸与实际线宽的比值。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="703"/>
         <source>Marker Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标记间距：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="706"/>
         <source>Distance between direction markers relative to the marker height.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">方向标志之间的距离（以标志高度为基准）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="713"/>
         <source>Distance between consecutive direction markers relative to the marker height. 100% = markers touch, 200% = one gap, 300% = two gaps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">相邻方向标记之间的距离，以标记高度为基准。100% = 标记相触，200% = 间隔一个标记，300% = 间隔两个标记。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="744"/>
@@ -14129,12 +14151,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="267"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">翻转法线</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="270"/>
         <source>Reverse direction of the plane normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">反转平面法线的方向</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="102"/>
@@ -18551,7 +18573,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="339"/>
         <source>2D line width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2D 线宽：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
@@ -18561,12 +18583,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="446"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用于设置字形大小的位移百分比。100% 表示字形大小等于实际位移量。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="569"/>
         <source>2D glyph settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2D 字形设置</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="963"/>
@@ -18609,17 +18631,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1260"/>
         <source>Enable scaling by manipulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通过操作 3D 控件来启用缩放功能（左键单击并拖动控件正面中央的控制柄）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1369"/>
         <source>Enable translating by manipulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通过操作 3D 控件（在控件表面任意位置单击并拖动）来启用平移功能</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1423"/>
         <source>Enable scaling by manipulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通过操作 3D 控件来启用缩放功能（按住 Shift 键并左键单击控件面的中心控点进行拖动，或左键单击并拖动中心控点）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1488"/>
@@ -19105,7 +19127,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="51"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关于 %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="66"/>
@@ -19472,7 +19494,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="140"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关于 %1</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
@@ -20347,7 +20369,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="283"/>
         <source>Reorient volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新定位卷</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
@@ -20398,32 +20420,32 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="756"/>
         <source>Align to volume axes + Resize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">对齐到卷轴 + 调整大小</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="759"/>
         <source>Set axes of the ROI box to match the volume axes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将ROI框的坐标轴设置为与体积坐标轴一致</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="767"/>
         <source>Align to world axes + Resize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">对齐到世界坐标轴 + 调整大小</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="770"/>
         <source>Set axes of the ROI box to match the world coordinate system axes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将ROI框的坐标轴设置为与世界坐标系的坐标轴一致</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="778"/>
         <source>Resize only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅调整大小</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="781"/>
         <source>Do not change ROI box orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请勿更改 ROI 框的方向</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="458"/>
@@ -20557,7 +20579,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="246"/>
         <source>ROI fit mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ROI 健身模式</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
@@ -24188,7 +24210,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="174"/>
         <source>Previous module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上一模块</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="176"/>
@@ -24198,12 +24220,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="177"/>
         <source>Switch to previously used module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到之前使用的模块</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="197"/>
         <source>Switch to next used module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到下一个已使用的模块</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="185"/>
@@ -24213,7 +24235,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="194"/>
         <source>Next module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下一个模块</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="196"/>
@@ -24967,17 +24989,18 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="97"/>
         <source>When enabled, the Scene View will store which objects are visible as well as color and transparency, and restore them when the Scene View is loaded.
 This option does not affect saving of view layout and window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用此选项后，场景视图将保存哪些对象可见，以及它们的颜色和透明度，并在加载场景视图时恢复这些设置。
+此选项不会影响视图布局和窗口排列的保存。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="104"/>
         <source>Save view layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存视图布局</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="106"/>
         <source>When enabled, the Scene View will store the arrangement of views on the screen (for example, which slice and 3D views are shown, how they are arranged, and their slice positions and 3D view orientations), and will restore this arrangement when the Scene View is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用此功能后，场景视图将保存屏幕上视图的排列方式（例如，显示了哪些切片视图和3D视图、它们的排列方式，以及切片位置和3D视图的方向），并在加载场景视图时恢复此排列方式。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="113"/>
@@ -27556,7 +27579,8 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="132"/>
         <source>Click to cycle through position states:
 Defined -&gt; Undefined (by clearing position) -&gt; Preview (by entering into place mode) -&gt; Missing (by marking as skip from placement) -&gt; Defined (by restoring last position)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">点击可循环切换位置状态：
+已定义 -&gt; 未定义（通过清除位置） -&gt; 预览（通过进入定位模式） -&gt; 缺失（通过在放置时标记为跳过） -&gt; 已定义（通过恢复上一个位置）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="487"/>
@@ -27857,7 +27881,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="258"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">翻转法线</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="450"/>
@@ -27868,7 +27892,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="470"/>
         <source> (Number of control points: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (控制点数量：%1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="592"/>
@@ -28745,17 +28769,17 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="102"/>
         <source>Volume rendering settings...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">体积渲染设置...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="106"/>
         <source>Volume rendering settings follow slice views</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">体积渲染设置遵循切片视图</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="108"/>
         <source>Make volume rendering use the same window/level and color map settings as slice views</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使体积渲染采用与切片视图相同的窗口/级别和颜色映射设置</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="103"/>
@@ -31709,7 +31733,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="254"/>
         <source>MRML Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MRML序列</translation>
     </message>
 </context>
 <context>
@@ -31896,7 +31920,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTransformSequenceStorageNode.cxx" line="629"/>
         <source>Grid Transform Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网格变换序列</translation>
     </message>
 </context>
 <context>
@@ -32130,7 +32154,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="59"/>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.h" line="61"/>
         <source>Volume Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">卷序列存储</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="527"/>
