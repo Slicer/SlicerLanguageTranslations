@@ -784,7 +784,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="63"/>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="148"/>
         <source>IGT</source>
-        <translation type="unfinished"></translation>
+        <translation>IGT</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
@@ -794,7 +794,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TextureModel/TextureModel.py" line="21"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Поверхностные модели</translation>
     </message>
 </context>
 <context>
