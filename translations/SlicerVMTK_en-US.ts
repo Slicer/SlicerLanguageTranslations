@@ -48,43 +48,43 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="308"/>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="402"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter node is missing</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="320"/>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="409"/>
         <source>Input segmentation, volume, segment ID or margin size is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>The input segmentation, volume, segment ID, or margin size is invalid.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="324"/>
         <source>Input segmentation or volume mismatch with the segment editor... fixing.</source>
-        <translation type="unfinished"></translation>
+        <translation>The input segmentation or volume does not match the segment editor. Fixing...</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="331"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Processing started</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="396"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processing completed in {duration} seconds.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="447"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Starting the test</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="449"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Test passed</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="115"/>
         <source>Select an input lumen segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Select an input in lumen segment</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="108"/>
@@ -144,12 +144,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="200"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="212"/>
         <source>Intensity range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensity range:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="239"/>
