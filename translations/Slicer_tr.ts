@@ -450,7 +450,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
         <source>Off</source>
-        <translation type="unfinished">Off</translation>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
@@ -475,12 +475,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
         <source>Registration Phases (Check one or more, executed in order listed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kayıt Aşamaları (Aşağıdakilerden bir veya birkaçını işaretleyin; listelenen sırayla gerçekleştirilir)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
         <source>Each of the registration phases will be used to initialize the next phase</source>
-        <translation type="unfinished"></translation>
+        <translation>Her bir kayıt aşaması, bir sonraki aşamayı başlatmak için kullanılır</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"/>
@@ -490,17 +490,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="38"/>
         <source>Rigid+Scale(7 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijit+Ölçek (7 serbestlik derecesi)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"/>
         <source>Rigid+Scale+Skew(10 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijit+Ölçek+Eğme (10 serbestlik derecesi)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"/>
         <source>Affine(12 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin (12 serbestlik derecesi)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
@@ -520,7 +520,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sıralı kayıt adımlarının bir parçası olarak rijit kayıt işlemini gerçekleştirin. Bu seçenek grubu, içlerinden herhangi biri ayarlanmışsa transformType kullanımını geçersiz kılar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
