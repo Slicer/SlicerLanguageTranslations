@@ -333,7 +333,7 @@ Click on Apply to start the segmentation</source>
         <location filename="text_dict_default.json" line="94"/>
         <source>Conclusion</source>
         <extracomment>30_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>結論</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
@@ -348,7 +348,7 @@ The module can run on standard laptop and desktop computers with no GPU.</source
         <location filename="text_dict_default.json" line="98"/>
         <source>Acknowledgements</source>
         <extracomment>31_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>致謝</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
