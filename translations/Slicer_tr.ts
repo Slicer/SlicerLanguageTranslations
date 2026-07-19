@@ -404,7 +404,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(isteğe bağlı) Hesaplanan dönüşüm BSpline değilse, tahmini dönüşümü çıktı olarak verin. NOT: En az bir çıktı nesnesi (dönüşüm ve/veya çıktı hacmi) ayarlamanız gerekir.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
