@@ -20261,7 +20261,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="903"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
-        <translation type="unfinished">&apos;__PH_0&apos;&ap; adlı ve &apos;__PH_1&apos;&ap; türündeki dosya için bulunan tüm yazıcılarla kaydetme işlemi başarısız oldu.</translation>
+        <translation type="unfinished">&apos;%1&apos; adlı ve &apos;%2&apos; türündeki dosya için bulunan tüm yazıcılarla kaydetme işlemi başarısız oldu.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="916"/>
@@ -25741,7 +25741,7 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation type="unfinished">Kaynak gösterimi &apos;%1&apos; hedef kaynağı &apos;%2&apos;&apos;e dönüştürülemiyor, bu nedenle &apos;__PH_3&apos;&apos; segmentasyonundan &apos;__PH_2&apos;&apos; segmenti &apos;__PH_4&apos;&apos;&apos;e kopyalanamıyor.
+        <translation type="unfinished">Kaynak gösterimi &apos;%1&apos; hedef kaynağı &apos;%2&apos;&apos;e dönüştürülemiyor, bu nedenle &apos;%4&apos;&apos; segmentasyonundan &apos;%3&apos;&apos; segmenti &apos;%5&apos;&apos;&apos;e kopyalanamıyor.
 
 &apos;%5&apos; kaynak gösterimini &apos;%1&apos; olarak değiştirmek ister misiniz?
 
@@ -28331,7 +28331,7 @@ Note: This may result in unwanted data loss in %5.</oldsource>
 
 &apos;%5&apos; kaynak gösterimini &apos;%1&apos; olarak değiştirmek ister misiniz?
 
-Not: Bu işlem, &apos;__PH_7&apos;&apos; içinde istenmeyen veri kaybına neden olabilir.</translation>
+Not: Bu işlem, &apos;%5&apos;&apos; içinde istenmeyen veri kaybına neden olabilir.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="265"/>
