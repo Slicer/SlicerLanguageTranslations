@@ -11,187 +11,187 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="23"/>
         <source>Input volume:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d'entrada:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="30"/>
         <source>Input abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Introduïu TC abdominal, toràcic o de cos sencer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="51"/>
         <source>Segmentation task:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tasca de segmentació:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="58"/>
         <source>Choose &quot;total&quot; for segmenting all structures, or any of the more specialized segmentation tasks (that segment only a handful of specific structures in a certain region).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tria &quot;total&quot; per segmentar totes les estructures, o qualsevol de les tasques de segmentació més especialitzades (que només segmenten un grapat d'estructures específiques en una determinada regió).</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="109"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortides</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="115"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentació:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="122"/>
         <source>This will store the segmentation result.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Això emmagatzemarà el resultat de la segmentació.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="148"/>
         <source>Create new segmentation on Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crea una nova segmentació a Aplicar</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="164"/>
         <source>Start segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comença la segmentació.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sol·licitar</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="177"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avançat</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="186"/>
         <source>Use standard segment names:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilitzeu noms de segment estàndard:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="193"/>
         <source>If enabled (default) then segment names are obtained from Slicer standard terminology files. If disabled then TotalSegmentator identifiers are used as segment names.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si està habilitat (per defecte), els noms dels segments s'obtenen dels fitxers de terminologia estàndard de Slicer. Si està desactivat, s'utilitzen els identificadors de TotalSegmentator com a noms dels segments.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="206"/>
         <source>Force to use CPU: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forçar a utilitzar la CPU: </translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="213"/>
         <source>Use CPU, even if GPU is available. Useful if the GPU does not have enough memory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilitza la CPU, fins i tot si la GPU està disponible. Útil si la GPU no té prou memòria.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
         <source>Robust cropping:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cultiu robust:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="230"/>
         <source>Use 3mm model for cropping instead of default 6mm. More robust but slightly slower.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilitza un model de 3 mm per a retallar en lloc del predeterminat de 6 mm. Més robust però una mica més lent.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
         <source>Remove small blobs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elimineu els petits grumolls:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="247"/>
         <source>Remove small disconnected regions (less than 0.2 ml) from final segmentations.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elimina regions petites no connectades (menys de 0,2 ml) de les segmentacions finals.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="257"/>
         <source>Higher-order resampling:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resampling d'ordre superior:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="264"/>
         <source>Use higher order resampling for segmentations. Smoother results but more runtime and memory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilitza el reaprenentatge d'ordre superior per a les segmentacions. Obté resultats més suaus però consumeix més temps d'execució i memòria.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="274"/>
         <source>TotalSegmentator Python package:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paquet Python TotalSegmentator:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="281"/>
         <source>Force upgrade of TotalSegmentator Python package to the version required by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forçar l'actualització del paquet Python TotalSegmentator a la versió requerida per aquest mòdul.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="284"/>
         <source>Force reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forçar la reinstal·lació</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="291"/>
         <source>TotalSegmentator license: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Llicència de TotalSegmentator: </translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="308"/>
         <source>Get metadata information for the TotalSegmentator package currently installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obtén la informació de metadades del paquet TotalSegmentator actualment instal·lat.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="311"/>
         <source>Get TotalSegmentator package information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obtén la informació del paquet TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="298"/>
         <source>Set or update TotalSegmentator license key to allow running tasks that require a license. The registration has to be done only once, the license information is stored persistently in the TotalSegmentation configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Establiu o actualitzeu la clau de llicència de TotalSegmentator per permetre l'execució de tasques que requereixen una llicència. El registre només s'ha de fer una vegada; la informació de la llicència s'emmagatzema de manera persistent a la configuració de TotalSegmentation.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="65"/>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velocitat:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="74"/>
         <source>Full resolution output.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida de resolució completa.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="77"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="84"/>
         <source>Enable fast option to get less accurate results, faster (3mm resolution).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activa l'opció ràpida per obtenir resultats menys precisos, però més ràpids (resolució de 3 mm).</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="87"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Corregit</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="94"/>
         <source>Enable faster option for very low resolution (6mm) but very fast results. Only available for total and total_mr tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activa l'opció més ràpida per a una resolució molt baixa (6 mm), però amb resultats molt ràpids. Només disponible per a les tasques total i total_mr.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="97"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Més ràpid</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="301"/>
         <source>Set license key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estableix la clau de llicència</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="26"/>
         <source>Total Segmentator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentador total</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="30"/>
@@ -199,7 +199,10 @@
 3D Slicer extension for fully automatic whole body CT segmentation using &quot;TotalSegmentator&quot; AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Extensió de 3D Slicer per a la segmentació completa i automàtica del cos sencer mitjançant el model d'IA &quot;TotalSegmentator&quot;.
+Consulteu més informació a la &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;documentació de l'extensió&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="34"/>
@@ -211,274 +214,288 @@ Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Seger
 TotalSegmentator: robust segmentation of 104 anatomical structures in CT images.
 https://arxiv.org/abs/2208.05868
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aquest fitxer va ser desenvolupat originalment per Andras Lasso (PerkLab, Queen&apos;s University).
+El mòdul utilitza &lt;a href=&quot;https://github.com/wasserth/TotalSegmentator&quot;&gt;TotalSegmentator&lt;/a&gt;.
+Si utilitzeu la funció TotalSegmentator nn-Unet d&apos;aquest programari en la vostra recerca, si us plau, citeu:
+Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.:
+TotalSegmentator: segmentació robusta de 104 estructures anatòmiques en imatges de TC.
+https://arxiv.org/abs/2208.05868
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="94"/>
         <source>{task_title} [license required]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{task_title} [es requereix llicència]</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="247"/>
         <source>Start segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comença la segmentació</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="250"/>
         <source>Select input volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccioneu el volum d'entrada</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="254"/>
         <source>{volume_name} segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentació de {volume_name}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="310"/>
         <source>The input volume you provided are part of a sequence. Do you want to segment all frames of that sequence?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El volum d'entrada que has proporcionat forma part d'una seqüència. Vols segmentar tots els fotogrames d'aquesta seqüència?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="321"/>
         <source>Failed to install Python dependencies:
 {exception}
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S'ha fallat la instal·lació de les dependències de Python:
+{exception}
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="326"/>
         <source>Application restart required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cal reiniciar l'aplicació.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="328"/>
         <source>Application is required to complete installation of required Python packages.
 Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cal executar l'aplicació per completar la instal·lació dels paquets de Python necessaris.
+Premeu D'acord per reiniciar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="329"/>
         <source>Confirm application restart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar el reinici de l'aplicació</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="336"/>
         <source>Failed to install required packages.
 
 {exception}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible d'instal·lar els paquets necessaris.
+
+{exception}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="339"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible de calcular els resultats.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="362"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Processament finalitzat.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="366"/>
         <source>Failed to get TotalSegmentator package version information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No s'ha pogut obtenir la informació de la versió del paquet TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="370"/>
         <source>Failed to upgrade TotalSegmentator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S'ha fallat l'actualització de TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="373"/>
         <source>This TotalSegmentator update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquesta actualització de TotalSegmentator requereix reiniciar el 3D Slicer. Premeu OK per reiniciar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="374"/>
         <source>Restart was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El reinici s'ha cancel·lat.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="380"/>
         <source>Set TotalSegmentator license key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Establiu la clau de llicència de TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="380"/>
         <source>License key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clau de llicència:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="383"/>
         <source>Failed to set TotalSegmentator license.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S'ha fallat a l'hora d'establir la llicència de TotalSegmentator.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="385"/>
         <source>License is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La llicència no està especificada.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="391"/>
         <source>License key is set. You can now use TotalSegmentator tasks that require a license.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La clau de llicència s'ha establert. Ara ja podeu utilitzar les tasques de TotalSegmentator que requereixen una llicència.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="658"/>
         <source>Failed to deserialize terminology string: {terminology_entry_str}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error en deserialitzar la cadena de terminologia: {terminology_entry_str}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="796"/>
         <source>- Skip {requirement}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- Saltar {requisit}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="798"/>
         <source>- Installing {requirement}...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- Instal·lant {requirement}...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="859"/>
         <source>This module requires installation of additional Python packages. Installation needs network connection and may take several minutes. Click OK to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquest mòdul requereix la instal·lació de paquets Python addicionals. La instal·lació necessita una connexió de xarxa i pot trigar diversos minuts. Feu clic a D'acord per continuar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="860"/>
         <source>Confirm Python package installation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar la instal·lació del paquet Python</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="861"/>
         <source>Python packages that will be installed: {package_list}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paquets de Python que s'instal·laran: {lista_de_paquets}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="867"/>
         <source>PyTorch Python package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Es requereix el paquet Python PyTorch. S'està instal·lant... (pot trigar uns minuts)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="881"/>
         <source>nnunetv2 package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Es requereix el paquet nunetv2. S'està instal·lant... (pot trigar uns minuts)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="903"/>
         <source>This module requires TotalSegmentator Python package update.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquest mòdul requereix una actualització del paquet Python TotalSegmentator.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="904"/>
         <source>Currently installed: {downloadUrl}
 
 Required: {requiredUrl}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instal·lat actualment: {downloadUrl}
+
+Requisit: {requiredUrl}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="911"/>
         <source>TotalSegmentator Python package is required. Installing it from {downloadUrl}... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Es requereix el paquet Python TotalSegmentator. S'està instal·lant des de {downloadUrl}... (pot trigar uns minuts)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="923"/>
         <source>TotalSegmentator installation completed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instal·lació de TotalSegmentator completada amb èxit.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="986"/>
         <source>Setting license...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Establint llicència...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1006"/>
         <source>License has been successfully set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La llicència s'ha configurat correctament.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1008"/>
         <source>This license update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquesta actualització de la llicència requereix reiniciar el 3D Slicer. Premeu OK per reiniciar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1045"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El processament ha començat</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1072"/>
         <source>No GPU is detected. Switch to &apos;fast&apos; mode to get low-resolution result in a few minutes or compute full-resolution result which may take 5 to 50 minutes (depending on computer configuration)?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No es detecta cap GPU. Canvieu al mode "fast" per obtenir un resultat de baixa resolució en pocs minuts o per calcular el resultat a plena resolució, que pot trigar entre 5 i 50 minuts (segons la configuració de l&apos;ordinador)?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1073"/>
         <source>Fast (~2 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ràpid (~2 minuts)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1074"/>
         <source>Full-resolution (~5 to 50 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resolució completa (~5 a 50 minuts)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1083"/>
         <source>You have less than 7 GB of GPU memory available. Enable &apos;fast&apos; mode to ensure segmentation can be completed successfully?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tens menys de 7 GB de memòria de GPU disponible. Activa el mode «ràpid» per garantir que la segmentació es pugui completar amb èxit?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1131"/>
         <source>Processing completed in {time_elapsed:.2f} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Processament completat en {time_elapsed:.2f} segons</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1134"/>
         <source>Cleaning up temporary folder...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Netegem la carpeta temporal...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1139"/>
         <source>Not cleaning up temporary folder: {temp_folder}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No s'ha netejat la carpeta temporal: {temp_folder}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1147"/>
         <source>Writing input file to {input_file}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escrivint el fitxer d'entrada a {input_file}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1207"/>
         <source>Creating segmentations with TotalSegmentator AI...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Creant segmentacions amb TotalSegmentator AI...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1208"/>
         <source>Total Segmentator arguments: {options}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arguments totals del Segmentator: {opcions}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1213"/>
         <source>Importing segmentation results...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Important resultats de segmentació...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1257"/>
         <source>Importing candidate {segment_name}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Important el candidat {segment_name}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1260"/>
         <source>Path {segment_name} not exists.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El camí {segment_name} no existeix.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1270"/>
         <source>Importing subset {segment_name}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Important el subconjunt {segment_name}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1277"/>
         <source>{segment_name} not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{segment_name} no trobat.</translation>
     </message>
 </context>
 <context>
@@ -486,7 +503,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="27"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentació</translation>
     </message>
 </context>
 </TS>
