@@ -5096,7 +5096,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquesta obra forma part de l'Aliança Nacional per a la Computació d'Imatges Mèdiques (NAMIC), finançada pels Instituts Nacionals de la Salut a través del NIH Roadmap for Medical Research, subvenció U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5174,7 +5174,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquesta obra forma part de l'Aliança Nacional per a la Computació d'Imatges Mèdiques (NAMIC), finançada pels Instituts Nacionals de la Salut a través del NIH Roadmap for Medical Research, subvenció U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
@@ -5431,7 +5431,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquesta obra forma part de l'Aliança Nacional per a la Computació d'Imatges Mèdiques (NAMIC), finançada pels Instituts Nacionals de la Salut a través del NIH Roadmap for Medical Research, subvenció U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
@@ -6053,7 +6053,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquest treball forma part de l'Aliança Nacional per a la Computació d'Imatges Mèdiques (NAMIC), finançada pels Instituts Nacionals de la Salut a través del NIH Roadmap for Medical Research, subvenció U54 EB005149. La informació sobre els Centres Nacionals de Computació Biomèdica es pot obtenir a http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
@@ -6656,7 +6656,7 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fitxer que conté el camp de deformació (imatge vectorial 3D amb vectors de 3 components)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
@@ -6667,7 +6667,7 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"/>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">h-Camp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"/>
@@ -6895,17 +6895,17 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor de píxel per defecte per a les mostres que cauen fora de la regió d'entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paràmetres de la funció d'interpolació Sinc amb finestra</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paràmetres utilitzats per a la interpolació Sinc amb finestra</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
@@ -7031,7 +7031,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquesta obra forma part de l'Aliança Nacional per a la Computació d'Imatges Mèdiques (NAMIC), finançada pels Instituts Nacionals de la Salut a través del NIH Roadmap for Medical Research, subvenció U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
@@ -7416,7 +7416,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquesta obra forma part de l'Aliança Nacional per a la Computació d'Imatges Mèdiques (NAMIC), finançada pels Instituts Nacionals de la Salut a través del NIH Roadmap for Medical Research, subvenció U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
@@ -7494,7 +7494,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquesta obra forma part de l'Aliança Nacional per a la Computació d'Imatges Mèdiques (NAMIC), finançada pels Instituts Nacionals de la Salut mitjançant el NIH Roadmap for Medical Research, subvenció U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
@@ -7928,7 +7928,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panell lateral</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
@@ -8163,7 +8163,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="358"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="525"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="498"/>
@@ -8391,7 +8391,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="36"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="84"/>
@@ -8482,7 +8482,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="676"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jerarquia de subjectes invàlida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="681"/>
@@ -8520,7 +8520,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="27"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paquet de dades de tallador</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="75"/>
@@ -8540,7 +8540,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="181"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jerarquia de subjecte invàlida</translation>
     </message>
 </context>
 <context>
@@ -8548,7 +8548,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="24"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seqüència de volum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="95"/>
@@ -8590,17 +8590,17 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible d&apos;obtenir l&apos;estudi per a la sèrie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="186"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible d&apos;obtenir el pacient per a la sèrie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="215"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modalitat buida per a la sèrie &apos;{volumeName}&apos;</translation>
     </message>
 </context>
 <context>
@@ -8639,7 +8639,7 @@ indicat per la posició del ratolí.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="144"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desconegut</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="155"/>
@@ -8939,7 +8939,7 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquest treball està recolzat per NA-MIC, NAC, BIRN, NCIGT i la comunitat de Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="124"/>
@@ -9410,7 +9410,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso (PerkLab) i va s
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="176"/>
         <source>Create new table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crea una taula nova</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="186"/>
@@ -9979,7 +9979,7 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="178"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipus de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"/>
@@ -10443,7 +10443,7 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="14"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editor de segments</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="18"/>
@@ -10744,7 +10744,7 @@ L&apos;efecte utilitza el mètode d&apos;interpolació morfològica de contorn &
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplica als segments visibles:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="74"/>
@@ -10764,12 +10764,12 @@ L&apos;efecte utilitza el mètode d&apos;interpolació morfològica de contorn &
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="134"/>
         <source>Actual:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Actual:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="137"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segment buit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="250"/>
@@ -10969,7 +10969,7 @@ llista de segments en les opcions d&apos;efecte - a sota.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
@@ -11088,7 +11088,7 @@ llista de segments en les opcions d&apos;efecte - a sota.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="69"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplica als segments visibles:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="72"/>
@@ -11103,7 +11103,7 @@ llista de segments en les opcions d&apos;efecte - a sota.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="121"/>
         <source>Not feasible at current resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No és factible a la resolució actual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="125"/>
@@ -11118,7 +11118,7 @@ llista de segments en les opcions d&apos;efecte - a sota.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="241"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Processant {segmentName}...</translation>
     </message>
 </context>
 <context>
@@ -11142,12 +11142,12 @@ Omple dins i fora de l&apos;operació crea un volum binari de mapa d&apos;etique
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Omple l'interior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Omple a l'exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
@@ -11361,7 +11361,7 @@ Si els segments se superposen, el segment més alt de la taula de segments tindr
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="95"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplica als segments visibles:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="98"/>
@@ -11542,17 +11542,17 @@ Si els segments se superposen, el segment més alt de la taula de segments tindr
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="244"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cercle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="251"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allà</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="258"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Línia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="319"/>
@@ -11574,7 +11574,7 @@ Si els segments se superposen, el segment més alt de la taula de segments tindr
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="343"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="361"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mitjana</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="352"/>
@@ -11802,7 +11802,7 @@ Amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer. Consulteu https
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="60"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Àrea superficial</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="61"/>
@@ -11834,7 +11834,7 @@ Amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer. Consulteu https
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="75"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum</translation>
     </message>
 </context>
 <context>
@@ -11847,7 +11847,7 @@ Amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer. Consulteu https
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="404"/>
         <source>Voxel count</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compte de voxels</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="405"/>
@@ -11858,7 +11858,7 @@ Amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer. Consulteu https
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="412"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="420"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
@@ -11869,12 +11869,12 @@ Amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer. Consulteu https
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
         <source>mm3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cúbit de mil·límetre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="422"/>
         <source>cm3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">metre cúbic</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="429"/>
@@ -11910,7 +11910,7 @@ Amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer. Consulteu https
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="441"/>
         <source>mm2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">quadrat de mil·límetre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="447"/>
@@ -12075,12 +12075,12 @@ Amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer. Consulteu https
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="180"/>
         <source>mm3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cúbit de mil·límetre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="188"/>
         <source>cm3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">metre cúbic</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="194"/>
@@ -12166,12 +12166,12 @@ Amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer. Consulteu https
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="208"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mitjana</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="258"/>
         <source>Median</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mitjans</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="216"/>
@@ -12232,7 +12232,9 @@ si la seva versió instal·lada del tallador s&apos;està executant tal com s&ap
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aquesta obra forma part del projecte SparKit, finançat pel programa ACRU de Cancer Care Ontario (CCO) i pel Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
 </context>
 <context>
@@ -12491,7 +12493,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="57"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="60"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostra la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="80"/>
@@ -12747,7 +12749,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="284"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible de calcular els resultats.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="319"/>
@@ -13290,7 +13292,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="76"/>
         <source>Terminology</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Terminologia</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="160"/>
@@ -13313,7 +13315,7 @@ For formatting of terminology entry name in simplified mode. %1 is region name (
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1, %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="584"/>
@@ -14251,7 +14253,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="483"/>
         <source>Create new %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crea nou %1</translation>
     </message>
 </context>
 <context>
@@ -14693,7 +14695,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="306"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="695"/>
         <source>Create new %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crea nou %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="310"/>
@@ -14710,7 +14712,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="680"/>
         <source>Rename %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Canvia el nom de %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="714"/>
@@ -15329,7 +15331,7 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Miniatura</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
@@ -15878,12 +15880,12 @@ Per a més detalls, vegeu el mòdul Segmentacions.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="554"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Retall</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="572"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nod d'clip:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="256"/>
@@ -16398,7 +16400,7 @@ Voleu continuar amb el canvi de la representació de la font?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="491"/>
         <source>Completed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Completat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="495"/>
@@ -16506,7 +16508,7 @@ Voleu continuar amb el canvi de la representació de la font?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Talls de salt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1204"/>
@@ -16839,7 +16841,7 @@ Voleu continuar amb el canvi de la representació de la font?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="633"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activa la Reconstrucció de Làmines Gruixudes (TSR). La TSR s'utilitza per fusionar làmines contigües dins d'un cert interval.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="650"/>
@@ -17489,7 +17491,7 @@ Voleu continuar amb el canvi de la representació de la font?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
         <source>IDs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">identificadors</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
@@ -17748,7 +17750,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="369"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Feu clic per desbloquejar aquesta taula perquè es puguin modificar els valors.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="374"/>
@@ -18096,7 +18098,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="611"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visibilitat de les ombres</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="614"/>
@@ -19124,12 +19126,12 @@ p, li { espai blanc: predeformació; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="51"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sobre %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="66"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Està disponible una nova versió de l'aplicació: %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="73"/>
@@ -19183,7 +19185,7 @@ p, li { espai blanc: predeformació; }
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="33"/>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endoscòpia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="26"/>
@@ -19343,17 +19345,17 @@ p, li { espai blanc: predeformació; }
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="26"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="182"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seqüències</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="344"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Per a més informació, consulteu el %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="344"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">documentació en línia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
@@ -19425,7 +19427,7 @@ p, li { espai blanc: predeformació; }
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="96"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anotacions</translation>
     </message>
 </context>
 <context>
@@ -19481,7 +19483,7 @@ p, li { espai blanc: predeformació; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="131"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Agraïments</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="135"/>
@@ -20004,17 +20006,17 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="67"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Composició amb ombres</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="68"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projecció de màxima intensitat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projecció de mínima intensitat</translation>
     </message>
 </context>
 <context>
@@ -20073,7 +20075,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="180"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquest treball ha estat recolzat per NA-MIC, NAC, BIRN, NCIGT i la comunitat de Slicer.</translation>
     </message>
 </context>
 <context>
@@ -20376,7 +20378,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="309"/>
         <source>Initialize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inicialitzar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="328"/>
@@ -21945,7 +21947,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obre el lloc web del catàleg d'extensions en el navegador web per defecte. Útil per descarregar paquets d'extensions per a ús fora de línia.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
@@ -23383,7 +23385,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
@@ -23603,7 +23605,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3163"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Taula de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3164"/>
@@ -24023,7 +24025,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Retall</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
@@ -24076,12 +24078,12 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Categoria:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="241"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Col·laboradors:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="248"/>
@@ -24126,7 +24128,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="279"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ubicació:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="288"/>
@@ -24159,7 +24161,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="189"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Col·laboradors:</translation>
     </message>
 </context>
 <context>
@@ -24366,17 +24368,17 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="69"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Composició amb ombres</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="70"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projecció de màxima intensitat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="71"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projecció de mínima intensitat</translation>
     </message>
 </context>
 <context>
@@ -24466,7 +24468,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="42"/>
         <source>Reformat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reformats</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="60"/>
@@ -24774,7 +24776,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="596"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccioneu un format</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="619"/>
@@ -25220,7 +25222,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1531"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mm</translation>
     </message>
 </context>
 <context>
@@ -25681,7 +25683,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="319"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="320"/>
@@ -25754,7 +25756,7 @@ Nota: Això pot provocar una pèrdua de dades no desitjada en %5.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S'ha fallat la conversió de %1 a %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="776"/>
@@ -25776,7 +25778,9 @@ Nota: Això pot provocar una pèrdua de dades no desitjada en %5.</translation>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La segmentació actual no s'ajusta completament a la nova geometria.
+Vols retallar la segmentació?
+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="973"/>
@@ -25965,7 +25969,7 @@ Nota: Això s&apos;aplica a les taules de segments dels mòduls Editor de segmen
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="117"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pregunta a l'usuari</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="118"/>
@@ -26021,7 +26025,7 @@ Nota: Això s&apos;aplica a les taules de segments dels mòduls Editor de segmen
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seqüències</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
@@ -26265,7 +26269,7 @@ Nota: Això s&apos;aplica a les taules de segments dels mòduls Editor de segmen
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seqüència de volum</translation>
     </message>
 </context>
 <context>
@@ -26501,7 +26505,7 @@ Nota: Això s&apos;aplica a les taules de segments dels mòduls Editor de segmen
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="154"/>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obre el lloc web del catàleg d'extensions...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="157"/>
@@ -26976,7 +26980,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="52"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Consola de Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="64"/>
@@ -27538,7 +27542,7 @@ p, li { espai blanc: predeformació }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="96"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propietat de shader</translation>
     </message>
 </context>
 <context>
@@ -27551,25 +27555,25 @@ p, li { espai blanc: predeformació }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="113"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="115"/>
         <source>R</source>
         <extracomment>right</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">R /</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="117"/>
         <source>A</source>
         <extracomment>anterior</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="119"/>
         <source>S</source>
         <extracomment>superior</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="132"/>
@@ -27612,7 +27616,7 @@ Definit -) No definit (esborrant posició) -) Vista prèvia (en entrar en el mod
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clon</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="75"/>
@@ -27678,7 +27682,7 @@ Feu clic a Cancel·la, per crear la jerarquia pacient/estudi manualment i arross
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="608"/>
         <source>Anonymous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anònim</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="636"/>
@@ -27866,7 +27870,7 @@ Feu clic a Cancel·la, per crear la jerarquia pacient/estudi manualment i arross
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="212"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="244"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escala</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="222"/>
@@ -27877,13 +27881,13 @@ Feu clic a Cancel·la, per crear la jerarquia pacient/estudi manualment i arross
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="258"/>
         <source>Flip normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inverteix la normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="450"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="456"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discapacitat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="470"/>
@@ -27913,7 +27917,7 @@ Feu clic a Cancel·la, per crear la jerarquia pacient/estudi manualment i arross
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="763"/>
         <source>New name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nom nou:</translation>
     </message>
 </context>
 <context>
@@ -28134,7 +28138,7 @@ Seleccioneu un connector per a afegir un node anomenat
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="142"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visibilitat del contorn 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="283"/>
@@ -28162,7 +28166,7 @@ Nota: això pot provocar una pèrdua de dades no desitjada en %4.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S'ha fallat la conversió de %1 a %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
@@ -28285,7 +28289,7 @@ Visiteu el mòdul Segmentació i proveu la funció de creació avançada de repr
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="111"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Talls de salt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="115"/>
@@ -28349,7 +28353,7 @@ Nota: Això pot provocar una pèrdua de dades no desitjada en %5.</translation>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="338"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="344"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discapacitat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="377"/>
@@ -28618,7 +28622,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Refocalitza la càmera en aquest punt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
@@ -28708,7 +28712,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="229"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reconstrucció de làmina gruixuda</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="231"/>
@@ -28718,7 +28722,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="238"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interactiu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="241"/>
@@ -28808,7 +28812,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="156"/>
         <source>Show color legend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostra la llegenda de colors</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="165"/>
@@ -28838,12 +28842,12 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="465"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discapacitat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="471"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="486"/>
@@ -29196,7 +29200,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="214"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Feu clic per bloquejar aquesta taula i evitar la modificació dels valors a la interfície d'usuari.</translation>
     </message>
 </context>
 <context>
@@ -29249,7 +29253,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plantilla clau</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
@@ -29273,7 +29277,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="75"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquest treball forma part del projecte SparKit, finançat pel programa ACRU de Cancer Care Ontario (CCO) i pel Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
 </context>
 <context>
@@ -29315,7 +29319,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Categoria:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
@@ -29421,7 +29425,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1893"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 a %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1185"/>
@@ -29509,7 +29513,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="105"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquest treball ha estat recolzat per NA-MIC, NAC, BIRN, NCIGT i la comunitat de Slicer.</translation>
     </message>
 </context>
 <context>
@@ -30086,7 +30090,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visibilitat:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="235"/>
@@ -30126,12 +30130,12 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="347"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nod d'enllaç:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
         <source>Soft edge:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contorn suau:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="320"/>
@@ -30271,7 +30275,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="83"/>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
         <source>Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Funció de transferència</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
@@ -30425,7 +30429,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="91"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquest treball ha estat recolzat per NA-MIC, NAC, BIRN, NCIGT i la comunitat de Slicer.</translation>
     </message>
 </context>
 <context>
@@ -30482,7 +30486,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="94"/>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
@@ -30497,7 +30501,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tots els fitxers</translation>
     </message>
 </context>
 <context>
@@ -30645,12 +30649,12 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afegir dades</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="111"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afegir dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="141"/>
@@ -30920,7 +30924,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorNode.cxx" line="35"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Color</translation>
     </message>
 </context>
 <context>
@@ -30928,7 +30932,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableNode.cxx" line="36"/>
         <source>Color Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Taula de colors</translation>
     </message>
 </context>
 <context>
@@ -31042,7 +31046,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="657"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desconegut</translation>
     </message>
 </context>
 <context>
@@ -31210,7 +31214,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLayoutNode.cxx" line="19"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maquetació</translation>
     </message>
 </context>
 <context>
@@ -31423,7 +31427,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="60"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">R /</translation>
     </message>
 </context>
 <context>
@@ -31625,7 +31629,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeNode.cxx" line="37"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum</translation>
     </message>
 </context>
 <context>
@@ -31738,7 +31742,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyNode.cxx" line="39"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propietat de shader</translation>
     </message>
 </context>
 <context>
@@ -32093,7 +32097,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyNode.cxx" line="29"/>
         <source>Volume Property</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propietat de volum</translation>
     </message>
 </context>
 <context>
@@ -32109,7 +32113,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="216"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propietat de volum MRML</translation>
     </message>
 </context>
 <context>
