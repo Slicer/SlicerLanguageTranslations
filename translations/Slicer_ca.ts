@@ -4911,12 +4911,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished">Nom a utilitzar per a aquest model. Qualsevol text introduït en el quadre d&apos;entrada serà la cadena d&apos;inici per als noms de fitxer del model creat. El número d&apos;etiqueta i el nom de color també formaran part del nom del fitxer. Si feu diversos models, utilitzeu això com a prefix a l&apos;etiqueta i el nom del color.</translation>
+        <translation>Nom a utilitzar per a aquest model. Qualsevol text introduït en el quadre d&apos;entrada serà la cadena d&apos;inici per als noms de fitxer del model creat. El número d&apos;etiqueta i el nom de color també formaran part del nom del fitxer. Si feu diversos models, utilitzeu això com a prefix a l&apos;etiqueta i el nom del color.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished">Genera models per a totes les etiquetes del volum d&apos;entrada. Seleccioneu aquesta opció si voleu crear tots els models que corresponguin a tots els valors en un volum de mapa d&apos;etiquetes (utilitzant l&apos;opció Suavitzat conjunt a continuació és útil amb aquesta opció). Ignora les etiquetes, Inicia l&apos;etiqueta, Finalitza la configuració de l&apos;etiqueta. Omet l&apos;etiqueta 0.</translation>
+        <translation>Genera models per a totes les etiquetes del volum d&apos;entrada. Seleccioneu aquesta opció si voleu crear tots els models que corresponguin a tots els valors en un volum de mapa d&apos;etiquetes (utilitzant l&apos;opció Suavitzat conjunt a continuació és útil amb aquesta opció). Ignora les etiquetes, Inicia l&apos;etiqueta, Finalitza la configuració de l&apos;etiqueta. Omet l&apos;etiqueta 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
@@ -4946,7 +4946,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
         <source>Skip Un-Named Labels</source>
-        <translation type="unfinished">Omet les etiquetes sense nom</translation>
+        <translation>Omet les etiquetes sense nom</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
@@ -5006,17 +5006,17 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
         <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
-        <translation type="unfinished">Això assegurarà que tots els models resultants s&apos;ajustin sense problemes, com les peces de trencaclosques. En cas contrari, els models es suavitzaran de manera independent i es podran superposar.</translation>
+        <translation>Això assegurarà que tots els models resultants s&apos;ajustin sense problemes, com peces de trencaclosques. En cas contrari, els models es suavitzaran de manera independent i es podran superposar.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished">Aquí podeu establir el nombre d&apos;iteracions de suavitzat per al suavitzat laplacià, o el grau del polinomi que aproxima la funció Sinc finestrada. Utilitzeu 0 si no voleu suavitzat. </translation>
+        <translation>Aquí podeu establir el nombre d&apos;iteracions de suavitzat per al suavitzat laplacià, o el grau del polinomi que aproxima la funció Sinc finestrada. Utilitzeu 0 si no voleu suavitzat. </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished">Pots controlar el tipus de suavitzat realitzat en els models seleccionant un tipus de filtre de Sinc o Laplacian.</translation>
+        <translation>Podeu controlar el tipus de suavitzat realitzat en els models seleccionant un tipus de filtre de Sinc o Laplacian.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
@@ -5031,7 +5031,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished">Activeu aquest indicador si voleu calcular els vectors normals per als punts.</translation>
+        <translation>Activeu aquest indicador si voleu calcular els vectors normals per als punts.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
@@ -5053,7 +5053,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"/>
         <source>Debug</source>
-        <translation type="unfinished">Depurar</translation>
+        <translation>Depura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
@@ -5063,7 +5063,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
         <source>Save Intermediate Models</source>
-        <translation type="unfinished">Desa els models intermedis</translation>
+        <translation>Desa els models intermedis</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
@@ -5073,7 +5073,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished">Podeu desar una còpia dels models després de cada un dels passos intermedis (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). Aquests models intermedis no es desen en el fitxer mrml, heu de carregar-los manualment després d&apos;apagar la supressió de fitxers temporals en la consola python (View -.Python Interactor) utilitzant la següent ordre slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
+        <translation>Podeu desar una còpia dels models després de cada un dels passos intermedis (cubs de marxa, suavització i delmació si no hi ha suavització conjunta, en cas contrari simplement després de la delmació). Aquests models intermedis no es desen en el fitxer mrml, heu de carregar-los manualment després d&apos;apagar la supressió de fitxers temporals en la consola python (View -.Python Interactor) utilitzant la següent ordre slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
@@ -5116,7 +5116,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished">El valor de l&apos;etiqueta de caràcter sense signe que s&apos;utilitzarà en el mapa d&apos;etiquetes de sortida.</translation>
+        <translation>El valor de l&apos;etiqueta de caràcter sense signe que s&apos;utilitzarà en el mapa d&apos;etiquetes de sortida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
@@ -5156,7 +5156,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
         <source>Unsigned char label map volume</source>
-        <translation type="unfinished">Volum del mapa d&apos;etiquetes de caràcters sense signar</translation>
+        <translation>Volum del mapa d&apos;etiquetes de caràcters sense signar</translation>
     </message>
 </context>
 <context>
@@ -5169,12 +5169,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"/>
         <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">Multiplica dues imatges. Tot i que tots els tipus d&apos;imatges estan suportats en l&apos;entrada, només es produeixen tipus signats. Les dues imatges no han de tenir les mateixes dimensions.</translation>
+        <translation>Multiplica dues imatges. Tot i que tots els tipus d&apos;imatges estan suportats en l&apos;entrada, només es produeixen tipus signats. Les dues imatges no han de tenir les mateixes dimensions.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball és part de l&apos;Aliança Nacional per la Computació d&apos;Imatges Mèdiques (Nacional Alliance for Medical Image Computing, NAMIC), financiada pels Instituts Nacionals de la Salut (National Institutes of Health, NIH) a través del NIH Roadmap for Medical Research, Ajut U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
@@ -5204,12 +5204,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volum d&apos;entrada 1</translation>
+        <translation>Volum d&apos;entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Volum d&apos;entrada 2</translation>
+        <translation>Volum d&apos;entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
@@ -5426,12 +5426,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation type="unfinished">Orienta un volum de sortida. Reordena les llesques en un volum d&apos;acord amb l&apos;orientació seleccionada. Les llesques no estan interpolades. Simplement estan reordenats i/o permutats. El volum resultant cobrirà el volum original. NOTA: com que Slicer té en compte l&apos;orientació d&apos;un volum, el volum reorientat no mostrarà cap diferència respecte al volum original, Per veure la diferència, desar el volum i mostrar-lo amb un sistema que o ignora l&apos;orientació de la imatge (p. ex. Paraview) o mostra imatges individuals.</translation>
+        <translation>Orienta un volum de sortida. Reordena els talls en un volum d&apos;acord amb l&apos;orientació seleccionada. Els talls no estan interpolats. Simplement estan reordenats i/o permutats. El volum resultant cobrirà el volum original. NOTA: com que Slicer té en compte l&apos;orientació d&apos;un volum, el volum reorientat no mostrarà cap diferència respecte al volum original, Per veure la diferència, deseu el volum i mostreu-lo amb un sistema que o ignora l&apos;orientació de la imatge (p. ex. Paraview) o mostra imatges individuals.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball és part de l&apos;Aliança Nacional per la Computació d&apos;Imatges Mèdiques (Nacional Alliance for Medical Image Computing, NAMIC), financiada pels Instituts Nacionals de la Salut (National Institutes of Health, NIH) a través del NIH Roadmap for Medical Research, Ajut U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
@@ -5471,7 +5471,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished">Orientació de la sortida. Tingueu en compte que aquest codi d&apos;orientació utilitza la convenció ITK: cada lletra es refereix a on s&apos;origina cada eix. Això és contrari a les convencions d&apos;orientació utilitzades habitualment, per exemple per obtenir una imatge amb eixos d&apos;imatge corresponents a les direccions de l&apos;eix del sistema de coordenades LPS, aquest paràmetre s&apos;ha d&apos;establir a RAI.</translation>
+        <translation>Orientació de la sortida. Tingueu en compte que aquest codi d&apos;orientació utilitza la convenció ITK: cada lletra es refereix a on s&apos;origina cada eix. Això és contrari a les convencions d&apos;orientació utilitzades habitualment, per exemple per obtenir una imatge amb eixos d&apos;imatge corresponents a les direccions de l&apos;eix del sistema de coordenades LPS, aquest paràmetre s&apos;ha d&apos;establir a RAI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -5750,12 +5750,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation type="unfinished">Calcula el valor d&apos;absorció estandarditzat basat en el pes corporal. Pren una imatge PET d&apos;entrada en format DICOM i NRRD (la capçalera DICOM ha de contenir paràmetres radiofarmacèutics). Produeix un fitxer CSV que conté patientID, studyDate, dosi, labelID, suvmin, suvmax, suvmean, labelName per a cada volum d&apos;interès. També mostra part de la informació com a cadenes de sortida a la IGU, el fitxer CSV és opcional en aquest cas. El fitxer CSV s&apos;afegeix a cada execució del CLI.</translation>
+        <translation>Calcula el valor d&apos;absorció estandarditzat basat en el pes corporal. Pren una imatge PET d&apos;entrada en format DICOM i NRRD (la capçalera DICOM ha de contenir paràmetres radiofarmacèutics). Produeix un fitxer CSV que conté patientID, studyDate, dosi, labelID, suvmin, suvmax, suvmean, labelName per a cada volum d&apos;interès. També mostra part de la informació com a cadenes de sortida a la interfície gràfica, el fitxer CSV és opcional en aquest cas. El fitxer CSV s&apos;afegeix a cada execució del CLI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Aquest treball està finançat pel Harvard Catalyst, i la National Alliance for Medical Image Computing (NAMIC), finançat pels National Institutes of Health a través del NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Aquest treball està finançat pel Harvard Catalyst, i la National Alliance for Medical Image Computing (NAMIC), finançat pels National Institutes of Health a través del NIH Roadmap for Medical Research, Ajut U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
