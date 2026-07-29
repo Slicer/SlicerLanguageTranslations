@@ -5021,12 +5021,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation type="unfinished">Escolliu la reducció de l&apos;objectiu en nombre de polígons com a percentatge decimal (entre 0 i 1) del nombre de polígons. Especifica el percentatge de triangles que s&apos;han d&apos;eliminar. Per exemple, 0,1 significa una reducció del 10% i 0,9 significa una reducció del 90%.</translation>
+        <translation>Escolliu la reducció de l&apos;objectiu en nombre de polígons com a percentatge decimal (entre 0 i 1) del nombre de polígons. Especifiqueu el percentatge de triangles que s&apos;han d&apos;eliminar. Per exemple, 0,1 significa una reducció del 10% i 0,9 significa una reducció del 90%.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation type="unfinished">Dividir normals és útil per a visualitzar característiques afilades. No obstant això, crea forats en superfícies que afecten les mesures.</translation>
+        <translation>Dividir normals és útil per visualitzar característiques nítides. No obstant això, crea forats en superfícies que afecten les mesures.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
@@ -5078,7 +5078,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation type="unfinished">activeu aquest indicador per a veure la sortida de depuració (mireu a la finestra Registre d&apos;errors a la qual s&apos;accedeix a través del menú Visualitza)</translation>
+        <translation>activeu aquest indicador per veure la sortida de depuració (mireu a la finestra Registre d&apos;errors a la qual s&apos;accedeix a través del menú Visualitza)</translation>
     </message>
 </context>
 <context>
@@ -5086,7 +5086,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"/>
         <source>Model To LabelMap</source>
-        <translation type="unfinished">Model a mapa d&apos;etiquetes</translation>
+        <translation>Modela per a LabelMap</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
@@ -5810,7 +5810,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation type="unfinished">El fitxer Sortida recull la informació del disc de l&apos;etiqueta de sortida, les cadenes de sortida suv max/mean/min de la gui, a més d&apos;alguna informació addicional de la capçalera DICOM.</translation>
+        <translation>El fitxer Sortida recull la informació del disc de l&apos;etiqueta de sortida, les cadenes de sortida suv max/mean/min a la interfície gràica, a més d&apos;alguna informació addicional de la capçalera DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
@@ -5845,32 +5845,32 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="24"/>
         <source>A table holding the output SUV values in comma separated lines, one per label. Optional.</source>
-        <translation type="unfinished">Una taula que conté els valors SUV de sortida en línies separades per comes, una per etiqueta. Opcional.</translation>
+        <translation>Una taula que conté els valors SUV de sortida en línies separades per comes, una per etiqueta. Opcional.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="25"/>
         <source>List of labels for which SUV values were computed</source>
-        <translation type="unfinished">Llista d&apos;etiquetes per a les quals s&apos;han calculat els valors SUV</translation>
+        <translation>Llista d&apos;etiquetes per a les quals s&apos;han calculat els valors SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="26"/>
         <source>List of label values for which SUV values were computed</source>
-        <translation type="unfinished">Llista de valors d&apos;etiqueta per als quals s&apos;han calculat els valors SUV</translation>
+        <translation>Llista de valors d&apos;etiqueta per als quals s&apos;han calculat els valors SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="27"/>
         <source>SUV max for each label</source>
-        <translation type="unfinished">Màx. SUV per a cada etiqueta</translation>
+        <translation>SUV màximper a cada etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="28"/>
         <source>SUV mean for each label</source>
-        <translation type="unfinished">Mitjana SUV per a cada etiqueta</translation>
+        <translation>SUV mitjana per a cada etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="29"/>
         <source>SUV minimum for each label</source>
-        <translation type="unfinished">SUV mínim per a cada etiqueta</translation>
+        <translation>SUV mínim per a cada etiqueta</translation>
     </message>
 </context>
 <context>
@@ -5889,7 +5889,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished">
+        <translation>
   </translation>
     </message>
     <message>
@@ -5900,7 +5900,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished">Paràmetres d&apos;entrada</translation>
+        <translation>Paràmetres d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
@@ -5940,7 +5940,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished">Nombre de mostres</translation>
+        <translation>Nombre de mostres</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
@@ -5971,7 +5971,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
         <source>MSE</source>
-        <translation type="unfinished">MSE</translation>
+        <translation>MSE</translation>
     </message>
 </context>
 <context>
@@ -5979,43 +5979,43 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="4"/>
         <source>Probe Volume With Model</source>
-        <translation type="unfinished">Volum de prova amb model</translation>
+        <translation>Volum de la sonda amb model</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation type="unfinished">Pinta un model per un volum (utilitzant vtkProbeFilter).</translation>
+        <translation>Pinta un model per un volum (utilitzant vtkProbeFilter).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
         <source>BWH, NCIGT/LMI</source>
-        <translation type="unfinished">BWH, NCIGT/LMI</translation>
+        <translation>BWH, NCIGT/LMI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">ES</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Paràmetres d&apos;entrada/sortida</translation>
+        <translation>Paràmetres d&apos;entrada/sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
         <source>Input volume</source>
-        <translation type="unfinished">Volum d&apos;entrada</translation>
+        <translation>Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"/>
         <source>Input model</source>
-        <translation type="unfinished">Model d&apos;entrada</translation>
+        <translation>Model d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"/>
         <source>Output model</source>
-        <translation type="unfinished">Model de sortida</translation>
+        <translation>Model de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"/>
@@ -6025,7 +6025,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
         <source>Volume to use to &quot;paint&quot; the model</source>
-        <translation type="unfinished">Volum a usar per a «pintar» el model</translation>
+        <translation>Volum a usar per «pintar» el model</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"/>
@@ -6053,7 +6053,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball forma part de la National Alliance for Medical Image Computing (NAMIC), finançada pels National Institutes of Health a través del full de ruta NIH per a la investigació mèdica, Grant U54 EB005149. Es pot obtenir informació sobre els Centres Nacionals d&apos;Informàtica Biomèdica (National Centers for Biomedical Computing ) a http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
@@ -6063,17 +6063,17 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Paràmetres d&apos;entrada/sortida</translation>
+        <translation>Paràmetres d&apos;entrada/sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volum d&apos;entrada</translation>
+        <translation>Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volum de sortida</translation>
+        <translation>Volum de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
@@ -6083,7 +6083,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">Volum d&apos;entrada que s&apos;ha de tornar a mostrejar</translation>
+        <translation>Volum d&apos;entrada que s&apos;ha de tornar a mostrejar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
@@ -6123,18 +6123,18 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="21"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished">Fitxer que conté el camp de deformació (3D imatge vectorial que conté vectors amb 3 components)</translation>
+        <translation>Fitxer que conté el camp de deformació (3D imatge vectorial que conté vectors amb 3 components)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="22"/>
         <source>Set if the deformation field is an -Field</source>
-        <translation type="unfinished">Estableix si el camp de deformació és un -Field</translation>
+        <translation>Estableix si el camp de deformació és un -Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="23"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="25"/>
         <source>h-Field</source>
-        <translation type="unfinished">h-camp</translation>
+        <translation>h-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"/>
@@ -6159,12 +6159,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="29"/>
         <source>Tensors Correction</source>
-        <translation type="unfinished">Correcció dels tensors</translation>
+        <translation>Correcció dels tensors</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="30"/>
         <source>Sampling algorithm (linear , nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished">Algorisme de mostreig (lineal , nn (veïnat més proper), ws (WindowedSinc), bs (BSpline) )</translation>
+        <translation>Algorisme de mostreig (lineal , nn (veïnat més proper), ws (WindowedSinc), bs (BSpline) )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
@@ -6174,7 +6174,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
         <source>Correct the tensors if computed tensor is not semi-definite positive</source>
-        <translation type="unfinished">Corregeix els tensors si el tensor calculat no és positiu semidefinit</translation>
+        <translation>Corregeix els tensors si el tensor calculat no és semidefinit positiu</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
@@ -6186,7 +6186,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished">zero</translation>
+        <translation>zero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
@@ -6196,22 +6196,22 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
         <source>ws</source>
-        <translation type="unfinished">ws</translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
         <source>bs</source>
-        <translation type="unfinished">bs</translation>
+        <translation>bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
         <source>none</source>
-        <translation type="unfinished">cap</translation>
+        <translation>cap</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
         <source>abs</source>
-        <translation type="unfinished">abs</translation>
+        <translation>abs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="42"/>
@@ -6229,7 +6229,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
 Preservation of the Principal Direction (PPD)</source>
         <oldsource>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</oldsource>
-        <translation type="unfinished">Esforç Finit (FS) o
+        <translation>Esforç Finit (FS) o
 Preservació de la Direcció Principal (PPD)</translation>
     </message>
     <message>
@@ -6241,7 +6241,7 @@ Preservació de la Direcció Principal (PPD)</translation>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="47"/>
         <source>PPD</source>
-        <translation type="unfinished">PPD</translation>
+        <translation>PPD</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="48"/>
@@ -6348,7 +6348,7 @@ Preservació de la Direcció Principal (PPD)</translation>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished">entrada</translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
@@ -6358,7 +6358,7 @@ Preservació de la Direcció Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished">Paràmetres de la sortida manual</translation>
+        <translation>Paràmetres de la sortida manual</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
@@ -6433,17 +6433,17 @@ Preservació de la Direcció Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished">Valor de píxel predeterminat per a les mostres que cauen fora de la regió d&apos;entrada</translation>
+        <translation>Valor de píxel predeterminat per a les mostres que cauen fora de la regió d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished">Paràmetres de les funcions d&apos;interpolació de sincronització a la finestra</translation>
+        <translation>Paràmetres de les funcions d&apos;interpolació de sincronització a la finestra</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished">Paràmetres utilitzats per a la interpolació de Sinc amb finestres</translation>
+        <translation>Paràmetres utilitzats per a la interpolació de Sinc amb finestres</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
@@ -6500,7 +6500,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished">Paràmetres de la funció d&apos;interpolació BSpline</translation>
+        <translation>Paràmetres de la funció d&apos;interpolació BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
@@ -6510,7 +6510,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
         <source>Spline Order</source>
-        <translation type="unfinished">Ordre de la Spline</translation>
+        <translation>Ordre de la Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
@@ -6555,7 +6555,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"/>
         <source>rt</source>
-        <translation type="unfinished">rt</translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
