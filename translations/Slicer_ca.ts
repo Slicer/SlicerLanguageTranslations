@@ -5096,7 +5096,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball forma part de la National Alliance for Medical Image Computing (NAMIC), finançada pels National Institutes of Health a través del full de ruta NIH per a la investigació mèdica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5106,7 +5106,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="8"/>
         <source>Parameter settings</source>
-        <translation type="unfinished">Paràmetres del paràmetre</translation>
+        <translation>Configuracions del paràmetre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
@@ -5785,12 +5785,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="12"/>
         <source>Input path to a directory containing a PET volume containing DICOM header information for SUV computation</source>
-        <translation type="unfinished">Camí d&apos;entrada a un directori que conté un volum PET que conté informació de capçalera DICOM per al càlcul SUV</translation>
+        <translation>Camí d&apos;entrada a un directori que conté un volum PET que conté informació de capçalera DICOM per al càlcul SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="13"/>
         <source>Input PET volume for SUVbw computation (must be the same volume as pointed to by the DICOM path!).</source>
-        <translation type="unfinished">Volum PET d&apos;entrada per al càlcul SUVbw (ha de ser el mateix volum que apunta el camí DICOM!).</translation>
+        <translation>Volum PET d&apos;entrada per al càlcul SUVbw (ha de ser el mateix volum que apunta el camí DICOM).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="14"/>
@@ -6577,16 +6577,16 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished">Aquest mòdul implementa el remostreig d&apos;imatges i imatges vectorials mitjançant l&apos;ús de transformades ITK. També pot gestionar el remostreig d&apos;IRM ponderades per difusió. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules.
+        <translation>Aquest mòdul implementa el remostreig d&apos;imatges i imatges vectorials mitjançant l&apos;ús de transformades ITK. També pot gestionar el remostreig d&apos;IRM ponderades per difusió. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules.
 
-Advertència: Per canviar les imatges DWMR, utilitza fitxers d&apos;entrada i sortida de nrrd.
+Advertència: Per canviar les imatges DWMR, utilitzeu fitxers d&apos;entrada i sortida de nrrd.
 
-Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensors no es reorientarien</translation>
+Advertència: No ho utilitzeu per canviar imatges de tensor de difusió, els tensors no es reorientarien</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Aquest treball forma part de la National Alliance for Medical Image Computing (NAMIC), finançada pels National Institutes of Health a través del NIH Roadmap for Medical Research, Grant U54 EB005149. La informació sobre els Centres Nacionals d&apos;Informàtica Biomèdica es pot obtenir a http://nihroadmap.nih.gov/bioinformatics</translation>
+        <translation>Aquest treball forma part de la National Alliance for Medical Image Computing (NAMIC), finançada pels National Institutes of Health a través del NIH Roadmap for Medical Research, Grant U54 EB005149. La informació sobre els Centres Nacionals d&apos;Informàtica Biomèdica es pot obtenir a http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -6656,18 +6656,18 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer que conté el camp de deformació (la imatge vectorial 3D que conté vectors amb 3 components)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
         <source>Set if the deformation field is an h-Field</source>
-        <translation type="unfinished">Estableix si el camp de deformació és un camp h</translation>
+        <translation>Estableix si el camp de deformació és un h-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"/>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>h-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"/>
@@ -6895,22 +6895,22 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor predeterminat de píxel per a les mostres que cauen fora de la regió d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetres de la funció de interpolació Sinc finestrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres usats per a la interpolació Sinc finestrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
         <source>Window Function</source>
-        <translation type="unfinished">Funció de finestra</translation>
+        <translation>Funció de finestra</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
@@ -6926,9 +6926,9 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished">Funció de finestra 
+        <translation>Funció de finestra
 h = Hamming 
-c = Cosinus 
+c = Cosine 
 w = Welch 
 l = Lanczos 
 b = Blackman</translation>
@@ -6937,43 +6937,43 @@ b = Blackman</translation>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="76"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="78"/>
         <source>c</source>
-        <translation type="unfinished">c</translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="77"/>
         <source>h</source>
-        <translation type="unfinished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="79"/>
         <source>w</source>
-        <translation type="unfinished">w</translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="80"/>
         <source>l</source>
-        <translation type="unfinished">l</translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="81"/>
         <source>b</source>
-        <translation type="unfinished">b</translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished">Paràmetres de la funció d&apos;interpolació BSpline</translation>
+        <translation>Paràmetres de la funció d&apos;interpolació BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished">Paràmetres utilitzats per a l&apos;interpolació BSpline</translation>
+        <translation>Paràmetres utilitzats per a l&apos;interpolació BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"/>
         <source>Spline Order</source>
-        <translation type="unfinished">Ordre de la Spline</translation>
+        <translation>Ordre de la Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
@@ -7008,12 +7008,12 @@ a = Transformada afí</translation>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="91"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="93"/>
         <source>a</source>
-        <translation type="unfinished">a</translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="92"/>
         <source>rt</source>
-        <translation type="unfinished">rt</translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -7021,7 +7021,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="5"/>
         <source>Resample Scalar Volume</source>
-        <translation type="unfinished">Torna a mostrejar el volum de l&apos;escala</translation>
+        <translation>Torna a mostrejar el volum de l&apos;escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
@@ -7031,22 +7031,22 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball forma part de la National Alliance for Medical Image Computing (NAMIC), finançada pels National Institutes of Health a través del full de ruta NIH per a la investigació mèdica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
         <source>Resampling Parameters</source>
-        <translation type="unfinished">Paràmetres de remostreig</translation>
+        <translation>Paràmetres de remostreig</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="9"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished">Paràmetres utilitzats per a remostreig</translation>
+        <translation>Paràmetres utilitzats per a remostreig</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="10"/>
         <source>Spacing</source>
-        <translation type="unfinished">Espaiat</translation>
+        <translation>Espaiat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="11"/>
@@ -7061,7 +7061,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation type="unfinished">Algorisme de mostreig (lineal, veí més proper, bspline(cúbic) o sinc finestrat). Hi ha diversos algorismes de sinc disponibles tal com es descriu a la publicació següent: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Comparació quantitativa de nuclis Sinc-Aproximating per a la interpolació d&apos;imatges mèdiques. MICCAI 1999, pp. 210-217. Cada finestra té un radi de 3;</translation>
+        <translation>Algorisme de mostreig (lineal, veí més proper, bspline(cúbic) o sinc finestrat). Hi ha diversos algorismes de sinc disponibles tal com es descriu a la publicació següent: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Comparació quantitativa de nuclis Sinc-Aproximating per a la interpolació d&apos;imatges mèdiques. MICCAI 1999, pp. 210-217. Cada finestra té un radi de 3;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
@@ -7082,7 +7082,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"/>
         <source>hamming</source>
-        <translation type="unfinished">hamming</translation>
+        <translation>hamming</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="19"/>
@@ -7092,17 +7092,17 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="20"/>
         <source>welch</source>
-        <translation type="unfinished">welch</translation>
+        <translation>welch</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="21"/>
         <source>lanczos</source>
-        <translation type="unfinished">lanczos</translation>
+        <translation>lanczos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="22"/>
         <source>blackman</source>
-        <translation type="unfinished">blackman</translation>
+        <translation>blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
@@ -7140,42 +7140,42 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="5"/>
         <source>Robust Statistics Segmenter</source>
-        <translation type="unfinished">Segmentador d&apos;estadístiques robust</translation>
+        <translation>Segmentador d&apos;estadístiques robust</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="6"/>
         <source>Active contour segmentation using robust statistic.</source>
-        <translation type="unfinished">Segmentació de contorn activa utilitzant una estadística robusta.</translation>
+        <translation>Segmentació de contorn activa utilitzant una estadística robusta.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation type="unfinished">Aquest treball forma part de l&apos;Aliança Nacional per a la Computació d&apos;Imatges Mèdiques (NAMIC), finançat pels Instituts Nacionals de Salut</translation>
+        <translation>Aquest treball forma part de l&apos;Aliança Nacional per a la Computació d&apos;Imatges Mèdiques (NAMIC), finançat pels Instituts Nacionals de Salut</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished">Paràmetres de segmentació</translation>
+        <translation>Paràmetres de segmentació</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"/>
         <source>Parameters for robust statistics segmentation</source>
-        <translation type="unfinished">Paràmetres per a la segmentació estadística robusta</translation>
+        <translation>Paràmetres per a la segmentació estadística robusta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"/>
         <source>Approximate volume(mL)</source>
-        <translation type="unfinished">Volum aproximat(mL)</translation>
+        <translation>Volum aproximat (mL)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"/>
         <source>The approximate volume of the object, in mL.</source>
-        <translation type="unfinished">El volum aproximat de l&apos;objecte, en mL.</translation>
+        <translation>El volum aproximat de l&apos;objecte, en mL.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished">Paràmetres auxiliars</translation>
+        <translation>Paràmetres auxiliars</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
@@ -7205,12 +7205,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
         <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
-        <translation type="unfinished">Quina és l&apos;homogeneïtat de la intensitat dins de l&apos;objecte? Donada la intensitat constant a 1,0 puntuacions i la intensitat fluctuant extrema a 0.</translation>
+        <translation>Quina és l&apos;homogeneïtat de la intensitat dins de l&apos;objecte? Donada la intensitat constant a una puntuació d&apos;1,0 i una intensitat fluctuant extrema a 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"/>
         <source>Given sphere 1.0 score and extreme rough boundary/surface 0 score, what is the expected smoothness of the object?</source>
-        <translation type="unfinished">Donada la puntuació de l&apos;esfera 1.0 i la puntuació de límit/superfície 0 extrema, quina és la suavitat esperada de l&apos;objecte?</translation>
+        <translation>Donada la puntuació de l&apos;esfera d&apos;1.0 i la puntuació de límit/superfície extrema de 0, quina és la suavitat esperada de l&apos;objecte?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
@@ -7268,7 +7268,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="5"/>
         <source>Simple Region Growing Segmentation</source>
-        <translation type="unfinished">Segmentació de creixement de la regió simple</translation>
+        <translation>Segmentació de creixement de la regió simple</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
@@ -7278,7 +7278,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Aquest mòdul d&apos;ordres deriva d&apos;Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation>Aquest mòdul d&apos;ordres deriva d&apos;Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
@@ -7288,7 +7288,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
         <source>Parameters to denoise the image prior to segmenting</source>
-        <translation type="unfinished">Paràmetres per a desoir la imatge abans de segmentar</translation>
+        <translation>Paràmetres per eliminar el soroll de la imatge abans de segmentar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
@@ -7318,7 +7318,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
         <source>Parameters to prescribe the region growing</source>
-        <translation type="unfinished">Paràmetres per prescriure el creixement de la regió</translation>
+        <translation>Paràmetres per prescriure el creixement de la regió</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
@@ -7348,12 +7348,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
         <source>Number of iterations of region growing</source>
-        <translation type="unfinished">Nombre d&apos;iteracions del creixement de la regió</translation>
+        <translation>Nombre d&apos;iteracions del creixement de la regió</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="22"/>
         <source>Number of standard deviations to include in intensity model</source>
-        <translation type="unfinished">Nombre de desviacions estàndard a incloure en el model d&apos;intensitat</translation>
+        <translation>Nombre de desviacions estàndard a incloure en el model d&apos;intensitat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
@@ -7363,12 +7363,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation type="unfinished">El valor enter (0-255) a usar per als resultats de la segmentació. Això determinarà el color de la segmentació que generarà l&apos;algorisme de creixement de la regió</translation>
+        <translation>El valor enter (0-255) a usar per als resultats de la segmentació. Això determinarà el color de la segmentació que generarà l&apos;algorisme de creixement de la regió</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
         <source>Seed point(s) for region growing</source>
-        <translation type="unfinished">Punt(s) de llavor per al creixement de la regió</translation>
+        <translation>Punt(s) de llavor per al creixement de la regió</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
@@ -7411,12 +7411,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">Sostreu dues imatges. Tot i que tots els tipus d&apos;imatges estan suportats en l&apos;entrada, només es produeixen tipus signats. Les dues imatges no han de tenir les mateixes dimensions.</translation>
+        <translation>Sostreu dues imatges. Tot i que tots els tipus d&apos;imatges estan suportats en l&apos;entrada, només es produeixen tipus signats. Les dues imatges no han de tenir les mateixes dimensions.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball forma part de la National Alliance for Medical Image Computing (NAMIC), finançada pels National Institutes of Health a través del full de ruta NIH per a la investigació mèdica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
@@ -7446,12 +7446,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volum d&apos;entrada 1</translation>
+        <translation>Volum d&apos;entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Volum d&apos;entrada 2</translation>
+        <translation>Volum d&apos;entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
@@ -7484,7 +7484,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished">Volum escalar del llindar</translation>
+        <translation>Volum escalar del llindar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
@@ -7494,7 +7494,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball forma part de la National Alliance for Medical Image Computing (NAMIC), finançada pels National Institutes of Health a través del full de ruta NIH per a la investigació mèdica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
@@ -7524,7 +7524,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
         <source>Thresholded input volume</source>
-        <translation type="unfinished">Volum d&apos;entrada llindar</translation>
+        <translation>Volum d&apos;entrada llindar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
@@ -7549,7 +7549,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished">Superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
@@ -7584,7 +7584,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished">Estableix els voxels a aquest valor si cauen fora de l&apos;interval del llindar</translation>
+        <translation>Estableix els vòxels a aquest valor si cauen fora de l&apos;interval del llindar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
@@ -7613,37 +7613,37 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation type="unfinished">Filtre d&apos;imatge d&apos;emplenament del forat binari de vot</translation>
+        <translation>Filtre d&apos;imatge d&apos;emplenament del forat binari de votació</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished">Aplica una operació de vot per omplir les cavitats. Això es pot utilitzar per suavitzar els contorns i per omplir forats en imatges binàries. Aquesta tècnica s&apos;utilitza freqüentment en la segmentació d&apos;òrgans complets que poden tenir conductes o vasculatura que no poden haver estat inclosos en la segmentació inicial, per exemple, pulmons, ronyons, fetge.</translation>
+        <translation>Aplica una operació de votació per omplir les cavitats. Això es pot utilitzar per suavitzar els contorns i per omplir forats en imatges binàries. Aquesta tècnica s&apos;utilitza freqüentment en la segmentació d&apos;òrgans complets que poden tenir conductes o vasculatura que no poden haver estat inclosos en la segmentació inicial, per exemple, pulmons, ronyons, fetge.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Aquest mòdul d&apos;ordres deriva d&apos;Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</translation>
+        <translation>Aquest mòdul d&apos;ordres deriva d&apos;Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
         <source>Binary Hole Filling Parameters</source>
-        <translation type="unfinished">Paràmetres d&apos;emplenament del forat binari</translation>
+        <translation>Paràmetres d&apos;emplenament del forat binari</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"/>
         <source>Parameters for Hole Filling</source>
-        <translation type="unfinished">Paràmetres per a l&apos;emplenament de forats</translation>
+        <translation>Paràmetres per a l&apos;emplenament de forats</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"/>
         <source>Maximum Radius</source>
-        <translation type="unfinished">Radi màxim</translation>
+        <translation>Radi màxim</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"/>
         <source>Majority Threshold</source>
-        <translation type="unfinished">Llindar de la majoria</translation>
+        <translation>Llindar de la majoria</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
@@ -7658,7 +7658,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
         <source>The radius of a hole to be filled</source>
-        <translation type="unfinished">El radi d&apos;un forat a omplir</translation>
+        <translation>El radi d&apos;un forat a omplir</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
@@ -7668,12 +7668,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished">El valor associat amb el fons (no objecte)</translation>
+        <translation>El valor associat amb el fons (no l&apos;objecte)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
         <source>The value associated with the foreground (object)</source>
-        <translation type="unfinished">El valor associat amb el primer pla (objecte)</translation>
+        <translation>El valor associat amb el primer pla (objecte)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
@@ -7683,7 +7683,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Paràmetres d&apos;entrada/sortida</translation>
+        <translation>Paràmetres d&apos;entrada/sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
@@ -7711,19 +7711,19 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="25"/>
         <source>Crop volume sequence</source>
-        <translation type="unfinished">Escapça la seqüència de volum</translation>
+        <translation>Escapça la seqüència de volum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished">Aquest mòdul pot retallar i tornar a mostrejar una seqüència de volum per reduir la seva mida per a una renderització i processament més ràpids.</translation>
+        <translation>Aquest mòdul pot retallar i tornar a mostrejar una seqüència de volum per reduir la seva mida per a una renderització i processament més ràpids.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="31"/>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished">
+        <translation>
 Aquest fitxer va ser desenvolupat originalment per Andras Lasso
 </translation>
     </message>
@@ -7735,57 +7735,57 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="61"/>
         <source>Sequence</source>
-        <translation type="unfinished">Seqüència</translation>
+        <translation>Seqüència</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished">Trieu un node de seqüència de volums que es retallarà i es tornarà a mostrejar.</translation>
+        <translation>Trieu un node de seqüència de volums que es retallarà i es tornarà a mostrejar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="76"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished">Seqüència del volum d&apos;entrada: </translation>
+        <translation>Seqüència del volum d&apos;entrada: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="87"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished">(Sobreescriu l&apos;entrada)</translation>
+        <translation>(Sobreescriu l&apos;entrada)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="92"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished">Trieu un node de seqüència on s&apos;emmagatzemaran els volums retallats i remostrats.</translation>
+        <translation>Trieu un node de seqüència on s&apos;emmagatzemaran els volums retallats i tornats a mostrejar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="93"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished">Seqüència del volum de sortida: </translation>
+        <translation>Seqüència del volum de sortida: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="108"/>
         <source>Crop volume parameters</source>
-        <translation type="unfinished">Escapça els paràmetres del volum</translation>
+        <translation>Escapça els paràmetres del volum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished">Seleccioneu els paràmetres dels volums d&apos;escapçament.</translation>
+        <translation>Seleccioneu els paràmetres dels volums d&apos;escapçament.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="115"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished">Aneu al mòdul Escapça el volum per a editar els paràmetres d&apos;escapçament.</translation>
+        <translation>Aneu al mòdul Escapça el volum per a editar els paràmetres d&apos;escapçament.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished">Configuració del volum de retall: </translation>
+        <translation>Configuració del volum d&apos;escapçament: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="124"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplica</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
@@ -7798,53 +7798,53 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="52"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished">Commuta la pantalla completa</translation>
+        <translation>Commuta la pantalla completa</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="62"/>
         <source>Close</source>
-        <translation type="unfinished">Tanca</translation>
+        <translation>Tanca</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="137"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1113"/>
         <source>Show DICOM Database</source>
-        <translation type="unfinished">Mostra la base de dades DICOM</translation>
+        <translation>Mostra la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="159"/>
         <source>DICOM</source>
-        <translation type="unfinished">DICOM</translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="162"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished">Aquest mòdul permet importar, carregar i exportar fitxers DICOM, i enviar dades de recepció utilitzant la xarxa DICOM.</translation>
+        <translation>Aquest mòdul permet importar, carregar i exportar fitxers DICOM, i enviar dades de recepció utilitzant la xarxa DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="165"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Aquest treball compta amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer.</translation>
+        <translation>Aquest treball compta amb el suport de NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="200"/>
         <source>DICOM Database</source>
-        <translation type="unfinished">Base de dades DICOM</translation>
+        <translation>Base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="395"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished">Afegeix dades DICOM</translation>
+        <translation>Afegeix dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="426"/>
         <source>DICOM database</source>
-        <translation type="unfinished">base de dades DICOM</translation>
+        <translation>base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="564"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished">Configuració genèrica del DICOM</translation>
+        <translation>Configuració genèrica del DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="568"/>
@@ -7854,27 +7854,27 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="571"/>
         <source>DICOM general settings</source>
-        <translation type="unfinished">Configuració general del DICOM</translation>
+        <translation>Configuració general del DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished">Determina si s&apos;ofereixen sèries DICOM referenciades quan es carrega DICOM, o el comportament automàtic si la interacció està desactivada. La selecció interactiva de les sèries referenciades és la selecció per defecte</translation>
+        <translation>Determina si s&apos;ofereixen sèries DICOM referenciades quan es carrega DICOM, o el comportament automàtic si la interacció està desactivada. La selecció interactiva de les sèries referenciades és la selecció per defecte</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="581"/>
         <source>Ask user</source>
-        <translation type="unfinished">Pregunta a l&apos;usuari</translation>
+        <translation>Pregunta a l&apos;usuari</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="582"/>
         <source>Always</source>
-        <translation type="unfinished">Sempre</translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="583"/>
         <source>Never</source>
-        <translation type="unfinished">Mai</translation>
+        <translation>Mai</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="585"/>
@@ -7884,51 +7884,51 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="597"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance. Detailed logging will be automatically disabled after 4 hours.</source>
-        <translation type="unfinished">Registra més detalls durant les operacions DICOM. Útil per investigar problemes de càrrega DICOM, però pot afectar el rendiment. L&apos;enregistrament detallat es desactivarà automàticament després de 4 hores.</translation>
+        <translation>Registra més detalls durant les operacions DICOM. Útil per investigar problemes de càrrega DICOM, però pot afectar el rendiment. L&apos;enregistrament detallat es desactivarà automàticament després de 4 hores.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="617"/>
         <source>Thumbnail size:</source>
-        <translation type="unfinished">Mida de la miniatura:</translation>
+        <translation>Mida de la miniatura:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="676"/>
         <source>Enabled until {time}</source>
-        <translation type="unfinished">Habilitat fins a {time}</translation>
+        <translation>Habilitat fins a {time}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="677"/>
         <source>Disable</source>
-        <translation type="unfinished">Inhabilitar</translation>
+        <translation>Inhabilita</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="680"/>
         <source>Disabled</source>
-        <translation type="unfinished">Desactivat</translation>
+        <translation>Desactivat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="681"/>
         <source>Enable for 4 hours</source>
-        <translation type="unfinished">Habilita durant 4 hores</translation>
+        <translation>Habilita durant 4 hores</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="903"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1048"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1091"/>
         <source>Hide DICOM database</source>
-        <translation type="unfinished">Oculta la base de dades DICOM</translation>
+        <translation>Oculta la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="905"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1049"/>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1095"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished">Mostra la base de dades DICOM</translation>
+        <translation>Mostra la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Panell lateral</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
@@ -7938,27 +7938,27 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="610"/>
         <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
-        <translation type="unfinished">Determina la mida relativa de les miniatures en utilitzar el navegador DICOM visual</translation>
+        <translation>Determina la mida relativa de les miniatures en utilitzar el navegador DICOM visual</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="612"/>
         <source>Hidden</source>
-        <translation type="unfinished">Ocult</translation>
+        <translation>Ocult</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
         <source>Small</source>
-        <translation type="unfinished">Petit</translation>
+        <translation>Petit</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="614"/>
         <source>Medium</source>
-        <translation type="unfinished">Mitjà</translation>
+        <translation>Mitjà</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="615"/>
         <source>Large</source>
-        <translation type="unfinished">Gran</translation>
+        <translation>Gran</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="714"/>
@@ -7973,12 +7973,12 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="809"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished">No s&apos;ha pogut crear una base de dades DICOM amb la configuració predeterminada. Si us plau, creeu una base de dades nova o actualitzeu la base de dades incompatible existent utilitzant les opcions que es mostren al navegador DICOM.</translation>
+        <translation>No s&apos;ha pogut crear una base de dades DICOM amb la configuració predeterminada. Si us plau, creeu una base de dades nova o actualitzeu la base de dades incompatible existent utilitzant les opcions que es mostren al navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="818"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished">No s&apos;admet la importació de fitxers que tinguin caràcters especials (no ASCII) en els seus noms. Es recomana moure fitxers a una carpeta diferent i tornar-ho a provar. Voleu importar des de la ubicació actual?</translation>
+        <translation>No s&apos;admet la importació de fitxers que tinguin caràcters especials (no ASCII) en els seus noms. Es recomana moure fitxers a una carpeta diferent i tornar-ho a provar. Voleu importar des de la ubicació actual?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="884"/>
@@ -7993,7 +7993,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="890"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished">Si està activada, tots els fitxers importats es copien a la base de dades DICOM. Això és útil quan s&apos;importen des de unitats extraïbles.</translation>
+        <translation>Si està activada, tots els fitxers importats es copien a la base de dades DICOM. Això és útil quan s&apos;importen des de unitats extraïbles.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1279"/>
@@ -8008,18 +8008,18 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1291"/>
         <source>unknown</source>
-        <translation type="unfinished">desconegut</translation>
+        <translation>desconegut</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1293"/>
         <source>running at port %s</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished">s&apos;està executant al port %s</translation>
+        <translation>s&apos;està executant al port %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1295"/>
         <source>running at port %s with TLS</source>
-        <translation type="unfinished">s&apos;està executant al port %s amb TLS</translation>
+        <translation>s&apos;està executant al port %s amb TLS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
@@ -8029,17 +8029,17 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1397"/>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished">La base de dades DICOM ja està buida.</translation>
+        <translation>La base de dades DICOM ja està buida.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1399"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished">Neteja tota la base de dades DICOM</translation>
+        <translation>Neteja tota la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1400"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished">Esteu segur que voleu suprimir totes les dades i fitxers copiats a la base de dades ({count} pacients)?</translation>
+        <translation>Segur que voleu suprimir totes les dades i fitxers copiats a la base de dades ({count} pacients)?</translation>
     </message>
 </context>
 <context>
@@ -8047,17 +8047,17 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="24"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished">Volum nord-americà millorat</translation>
+        <translation>Volum nord-americà millorat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished">La càrrega d&apos;aquest tipus d&apos;imatge és experimental. Verifiqueu la geometria de la imatge i informeu de qualsevol problema.</translation>
+        <translation>La càrrega d&apos;aquest tipus d&apos;imatge és experimental. Verifiqueu la geometria de la imatge i informeu de qualsevol problema.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished">Volum d&apos;ultrasons</translation>
+        <translation>Volum d&apos;ultrasons</translation>
     </message>
 </context>
 <context>
@@ -8075,7 +8075,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished">La càrrega d&apos;aquest tipus d&apos;imatge és experimental. Verifiqueu la mida i l&apos;orientació de la imatge i informeu de qualsevol problema que es trobi.</translation>
+        <translation>La càrrega d&apos;aquest tipus d&apos;imatge és experimental. Verifiqueu la mida i l&apos;orientació de la imatge i informeu de qualsevol problema que es trobi.</translation>
     </message>
 </context>
 <context>
@@ -8088,7 +8088,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="172"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation type="unfinished">L&apos;espaiat de la imatge pot necessitar ser calibrat per a mesures de mida precises.</translation>
+        <translation>L&apos;espaiat de la imatge pot necessitar ser calibrat per a mesures de mida precises.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
@@ -8147,104 +8147,104 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="351"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished">L&apos;extensió següent no està instal·lada, però pot ajudar-vos a treballar amb aquestes dades:</translation>
+        <translation>L&apos;extensió següent no està instal·lada, però pot ajudar-vos a treballar amb aquestes dades:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="353"/>
         <source>The following extensions are not installed, but may help you work with this data:</source>
-        <translation type="unfinished">Les extensions següents no estan instal·lades, però poden ajudar-vos a treballar amb aquestes dades:</translation>
+        <translation>Les extensions següents no estan instal·lades, però poden ajudar-vos a treballar amb aquestes dades:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="357"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished">Podeu instal·lar extensions utilitzant l&apos;opció Gestor d&apos;extensions des del menú Visualitza.</translation>
+        <translation>Podeu instal·lar extensions utilitzant l&apos;opció Gestor d&apos;extensions des del menú Visualitza.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="358"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="525"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="498"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished">{missingfilecount} dels {totalfilecount} fitxers seleccionats llistats a la base de dades no es poden trobar al disc.</translation>
+        <translation>{missing_file_count} dels {total_file_count} fitxers seleccionats llistats a la base de dades no es poden trobar al disc.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="505"/>
         <source>Checking {what}</source>
-        <translation type="unfinished">S&apos;està comprovant {what}</translation>
+        <translation>S&apos;està comprovant {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="523"/>
         <source>Warning: {messages}</source>
-        <translation type="unfinished">Avís: {messages}</translation>
+        <translation>Avís: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="524"/>
         <source>See python console for error message.</source>
-        <translation type="unfinished">Vegeu la consola python per al missatge d&apos;error.</translation>
+        <translation>Vegeu la consola python per al missatge d&apos;error.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="648"/>
         <source>Loading {what}</source>
-        <translation type="unfinished">S&apos;està carregant {what}</translation>
+        <translation>S&apos;està carregant {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="671"/>
         <source>DICOM loading</source>
-        <translation type="unfinished">S&apos;està carregant DICOM</translation>
+        <translation>S&apos;està carregant DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="682"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished">Avís al connector DICOM {loadtype} en examinar {name} carregable: {message}</translation>
+        <translation>Avís al connector DICOM {load_type} en examinar {name} carregable: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="686"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished">Avisos detectats durant la càrrega.  Examina les dades en mode avançat per als detalls.  Voleu carregar de totes maneres?</translation>
+        <translation>Avisos detectats durant la càrrega.  Examina les dades en mode avançat per als detalls.  Voleu carregar de totes maneres?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="697"/>
         <source>Referenced datasets found</source>
-        <translation type="unfinished">S&apos;han trobat conjunts de dades referenciats</translation>
+        <translation>S&apos;han trobat conjunts de dades referenciats</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="698"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished">Els objectes DICOM carregats contenen referències a altres conjunts de dades que no heu seleccionat per carregar. Seleccioneu Sí si voleu carregar els següents conjunts de dades referenciats, No si només voleu carregar les sèries seleccionades originalment, o Cancel·la per a interrompre la càrrega.</translation>
+        <translation>Els objectes DICOM carregats contenen referències a altres conjunts de dades que no heu seleccionat per carregar. Seleccioneu Sí si voleu carregar els següents conjunts de dades referenciats, No si només voleu carregar les sèries seleccionades originalment, o Cancel·la per a interrompre la càrrega.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="712"/>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished">Recorda l&apos;elecció i deixa de preguntar</translation>
+        <translation>Recorda l&apos;elecció i deixa de preguntar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="713"/>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished">Es pot canviar més tard a Configuració de l&apos;aplicació / DICOM</translation>
+        <translation>Es pot canviar més tard a Configuració de l&apos;aplicació / DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="741"/>
         <source>References</source>
-        <translation type="unfinished">Referències</translation>
+        <translation>Referències</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>DICOM Data</source>
-        <translation type="unfinished">Dades DICOM</translation>
+        <translation>Dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>Reader</source>
-        <translation type="unfinished">Lector</translation>
+        <translation>Lector</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
 </context>
 <context>
@@ -8252,17 +8252,17 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="25"/>
         <source>DICOM Patcher</source>
-        <translation type="unfinished">Patcher DICOM</translation>
+        <translation>Creador de pegats DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="29"/>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished">Corregeix problemes comuns en fitxers DICOM. Aquest mòdul pot ajudar a corregir els fitxers DICOM que Slicer no importa.</translation>
+        <translation>Corregeix problemes comuns en fitxers DICOM. Aquest mòdul pot ajudar a corregir els fitxers DICOM que Slicer no importa.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="31"/>
         <source>This file was originally developed by Andras Lasso, PerkLab.</source>
-        <translation type="unfinished">Aquest fitxer va ser desenvolupat originalment per Andras Lasso, PerkLab.</translation>
+        <translation>Aquest fitxer va ser desenvolupat originalment per Andras Lasso, PerkLab.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="53"/>
@@ -8272,118 +8272,118 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="62"/>
         <source>Input DICOM directory:</source>
-        <translation type="unfinished">Directori DICOM d&apos;entrada:</translation>
+        <translation>Directori DICOM d&apos;entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="67"/>
         <source>Output DICOM directory:</source>
-        <translation type="unfinished">Directori DICOM de sortida:</translation>
+        <translation>Directori DICOM de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="71"/>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation type="unfinished">Substitueix els noms dels fitxers i carpetes per noms generats automàticament. Soluciona els errors causats pel camí del fitxer que conté caràcters especials o que és massa llarg.</translation>
+        <translation>Substitueix els noms dels fitxers i carpetes per noms generats automàticament. Soluciona els errors causats pel camí del fitxer que conté caràcters especials o que és massa llarg.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="73"/>
         <source>Normalize file names</source>
-        <translation type="unfinished">Normalitza els noms dels fitxers</translation>
+        <translation>Normalitza els noms dels fitxers</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="77"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished">Genera el nom i l&apos;ID del pacient des del primer fitxer d&apos;un directori i força tots els altres fitxers del mateix directori a tenir el mateix nom i ID del pacient. Activeu aquesta opció si es crea un directori de pacients separat per a cada fitxer apedaçat.</translation>
+        <translation>Genera el nom i l&apos;ID del pacient des del primer fitxer d&apos;un directori i força tots els altres fitxers del mateix directori a tenir el mateix nom i ID del pacient. Activeu aquesta opció si es crea un directori de pacients separat per a cada fitxer apedaçat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="81"/>
         <source>Force same patient name and ID in each directory</source>
-        <translation type="unfinished">Força el mateix nom de pacient i ID a cada directori</translation>
+        <translation>Força el mateix nom de pacient i ID a cada directori</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="85"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished">Genera un nou UID d&apos;instància de sèrie per a cada directori i estableix-lo en tots els fitxers d&apos;aquest mateix directori. Activeu aquesta opció per a forçar la col·locació de tots els fotogrames en una carpeta en un sol volum.</translation>
+        <translation>Genera un nou UID d&apos;instància de sèrie per a cada directori i estableix-lo en tots els fitxers d&apos;aquest mateix directori. Activeu aquesta opció per a forçar la col·locació de tots els fotogrames en una carpeta en un sol volum.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="89"/>
         <source>Force same series instance UID in each directory</source>
-        <translation type="unfinished">Força el mateix UID d&apos;instància de sèrie a cada directori</translation>
+        <translation>Força el mateix UID d&apos;instància de sèrie a cada directori</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="93"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished">Generar pacients desapareguts, estudi, identificadors de sèries. S&apos;assumeix que tots els fitxers d&apos;un directori pertanyen a la mateixa sèrie. Soluciona l&apos;error causat per una anonimització massa agressiva o convertidors d&apos;imatges DICOM incorrectes.</translation>
+        <translation>Genera pacients desapareguts, estudi, identificadors de sèries. S&apos;assumeix que tots els fitxers d&apos;un directori pertanyen a la mateixa sèrie. Soluciona l&apos;error causat per una anonimització massa agressiva o convertidors d&apos;imatges DICOM incorrectes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="96"/>
         <source>Generate missing patient/study/series IDs</source>
-        <translation type="unfinished">Genera els ID de pacient/estudi/sèrie que falten</translation>
+        <translation>Genera els ID de pacient/estudi/sèrie que falten</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished">Genera &apos;seqüència de posició de la imatge&apos; per a fitxers multi-marc que només tenen el camp &apos;SliceThickness&apos;. Soluciona un error en els escàners CBCT 3D del Dolphin.</translation>
+        <translation>Genera &apos;seqüència de posició de la imatge&apos; per a fitxers multi-marc que només tenen el camp &apos;SliceThickness&apos;. Soluciona un error en els escàners CBCT 3D del Dolphin.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="102"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation type="unfinished">Genera la posició del tall per als volums de múltiples fotogrames</translation>
+        <translation>Genera la posició del tall per als volums de múltiples fotogrames</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="112"/>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation type="unfinished">Si està marcada, llavors les sèries d&apos;imatges d&apos;ultrasons es divideixen per número d&apos;instància. Útil si moltes adquisicions d&apos;ultrasons apareixen en la mateixa sèrie.</translation>
+        <translation>Si està marcada, llavors les sèries d&apos;imatges d&apos;ultrasons es divideixen per número d&apos;instància. Útil si moltes adquisicions d&apos;ultrasons apareixen en la mateixa sèrie.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="118"/>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation type="unfinished">Si està marcada, la interpretació fotomètrica de l&apos;ecografia comprimida JPEG s&apos;establirà a YBRFULL422. Això és útil per corregir la inconsistència en imatges comprimides amb JPEG que usaven RGB com a interpretació fotomètrica a causa de l&apos;ambigüitat en l&apos;estàndard DICOM abans de CP156. Vegeu https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE i https://dicom.nema.org/medical/dicom/Final/cp156ft.pdf per a més detalls.</translation>
+        <translation>Si està marcada, la interpretació fotomètrica de l&apos;ecografia comprimida JPEG s&apos;establirà a YBR_FULL_422. Això és útil per corregir la inconsistència en imatges comprimides amb JPEG que usaven RGB com a interpretació fotomètrica a causa de l&apos;ambigüitat en l&apos;estàndard DICOM abans de CP156. Vegeu https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE i https://dicom.nema.org/medical/dicom/Final/cp156ft.pdf per a més detalls.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="145"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished">Si està marcada, llavors s&apos;eliminarà alguna informació identificable del pacient dels fitxers DICOM apedaçats. Hi ha molts camps que poden identificar un pacient, aquesta funció no els elimina tots.</translation>
+        <translation>Si està marcada, llavors s&apos;eliminarà alguna informació identificable del pacient dels fitxers DICOM apedaçats. Hi ha molts camps que poden identificar un pacient, aquesta funció no els elimina tots.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"/>
         <source>Partially anonymize</source>
-        <translation type="unfinished">Anònim parcial</translation>
+        <translation>Anònim parcial</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="152"/>
         <source>Patch</source>
-        <translation type="unfinished">Patch</translation>
+        <translation>Pedaç</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="153"/>
         <source>Fix DICOM files in input directory and write them to output directory</source>
-        <translation type="unfinished">Corregeix els fitxers DICOM al directori d&apos;entrada i escriu-los al directori de sortida</translation>
+        <translation>Corregeix els fitxers DICOM al directori d&apos;entrada i escriu-los al directori de sortida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="159"/>
         <source>Import to DICOM database</source>
-        <translation type="unfinished">Importa a la base de dades DICOM</translation>
+        <translation>Importa a la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="160"/>
         <source>Import DICOM files in output directory into the application&apos;s DICOM database</source>
-        <translation type="unfinished">Importa fitxers DICOM al directori de sortida a la base de dades DICOM de l&apos;aplicació</translation>
+        <translation>Importa fitxers DICOM al directori de sortida a la base de dades DICOM de l&apos;aplicació</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="181"/>
         <source>Unexpected error.</source>
-        <translation type="unfinished">Error inesperat.</translation>
+        <translation>Error inesperat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="281"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation type="unfinished">Pacient no especificat {patientIndex}</translation>
+        <translation>Pacient no especificat {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="349"/>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="557"/>
         <source>Unspecified Patient</source>
-        <translation type="unfinished">Pacient no especificat</translation>
+        <translation>Pacient no especificat</translation>
     </message>
 </context>
 <context>
@@ -8391,27 +8391,27 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="36"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="84"/>
         <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
-        <translation type="unfinished">S&apos;ha preferit el final enrere.  L&apos;archetype es va utilitzar per defecte a Slicer abans de juny de 2017. Canvia aquesta opció si les dades que s&apos;han carregat prèviament deixen de funcionar (i informen d&apos;un problema).</translation>
+        <translation>S&apos;ha preferit el final enrere.  L&apos;Archetype es va utilitzar per defecte a Slicer abans de juny de 2017. Canvieu aquesta opció si les dades que s&apos;han carregat prèviament deixen de funcionar (i informeu d&apos;un problema).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished">Enfocament del lector DICOM:</translation>
+        <translation>Enfocament del lector DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="92"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation type="unfinished">Habilita l&apos;addició de transformació no lineal per regularitzar imatges adquirides de geometria irregular: quadrícula no rectilini (com adquisicions de gantry CT inclinades) i espaiat de tall no uniforme. Si no s&apos;aplica cap regularització, la imatge pot aparèixer distorsionada si s&apos;adquireix amb geometria irregular.</translation>
+        <translation>Habilita l&apos;addició de transformació no lineal per regularitzar imatges adquirides de geometria irregular: quadrícula no rectilínia (tal com adquisicions de gantry CT inclinades) i espaiat de tall no uniforme. Si no s&apos;aplica cap regularització, la imatge pot aparèixer distorsionada si s&apos;ha adquirit amb geometria irregular.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished">per defecte (aplica la transformació de regularització)</translation>
+        <translation>per defecte (aplica la transformació de regularització)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"/>
@@ -8421,98 +8421,98 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="98"/>
         <source>apply regularization transform</source>
-        <translation type="unfinished">aplica una transformació de regularització</translation>
+        <translation>aplica una transformació de regularització</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="99"/>
         <source>harden regularization transform</source>
-        <translation type="unfinished">endureix la transformació de regularització</translation>
+        <translation>endureix la transformació de regularització</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="102"/>
         <source>Acquisition geometry regularization:</source>
-        <translation type="unfinished">Regularització de geometria d&apos;adquisició:</translation>
+        <translation>Regularització de geometria d&apos;adquisició:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="106"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="119"/>
         <source>DICOM examination settings</source>
-        <translation type="unfinished">Paràmetres de l&apos;examen DICOM</translation>
+        <translation>Paràmetres de l&apos;examen DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="110"/>
         <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
-        <translation type="unfinished">Oferir la càrrega de talls individuals o grup de talls que es van adquirir en un moment determinat (contingut o temps de desencadenament). Si aquesta opció està activada, es pot mostrar un gran nombre d&apos;elements carregables a la secció Avançat del navegador DICOM.</translation>
+        <translation>Ofereix la càrrega de talls individuals o grup de talls que es van adquirir en un moment determinat (contingut o temps de desencadenament). Si aquesta opció està activada, es pot mostrar un gran nombre d&apos;elements carregables a la secció Avançat del navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"/>
         <source>Allow loading subseries by time:</source>
-        <translation type="unfinished">Permet carregar la subsèrie per temps:</translation>
+        <translation>Permet carregar la subsèrie per temps:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="135"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation type="unfinished">El primer volum és {imageScalarType1}, però el segon és {imageScalarType2}</translation>
+        <translation>El primer volum és {imageScalarType1}, però el segon és {imageScalarType2}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="140"/>
         <source>Pixel data mismatch</source>
-        <translation type="unfinished">Les dades dels píxels no coincideixen</translation>
+        <translation>Les dades dels píxels no coincideixen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="200"/>
         <source>{count} files, first file: {filename}</source>
-        <translation type="unfinished">{count} fitxers, primer fitxer: {filename}</translation>
+        <translation>{count} fitxers, primer fitxer: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="306"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation type="unfinished">{count} fitxers, agrupats per {tag} , {value}. Primer fitxer: {filename}</translation>
+        <translation>{count} fitxers, agrupats per {tag} = {value}. Primer fitxer: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="343"/>
         <source>There is no pixel data attribute for the DICOM objects, but they might be readable as secondary capture images.</source>
-        <translation type="unfinished">No hi ha atribut de dades de píxels per als objectes DICOM, però podrien ser llegibles com a imatges de captura secundàries.</translation>
+        <translation>No hi ha atribut de dades de píxels per als objectes DICOM, però podrien ser llegibles com a imatges de captura secundàries.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="648"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation type="unfinished">Crea una sèrie de fitxers DICOM a partir de volums escalars</translation>
+        <translation>Crea una sèrie de fitxers DICOM a partir de volums escalars</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="676"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Jerarquia de subjectes no vàlida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="681"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation type="unfinished">No es pot exportar la sèrie «{itemName}»</translation>
+        <translation>No es pot exportar la sèrie «{itemName}»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="698"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">No s&apos;ha pogut obtenir l&apos;estudi de la sèrie «{volumeName}»</translation>
+        <translation>No s&apos;ha pogut obtenir l&apos;estudi de la sèrie «{volumeName}»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="703"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">No s&apos;ha pogut obtenir el pacient per a la sèrie «{volumeName}»</translation>
+        <translation>No s&apos;ha pogut obtenir el pacient per a la sèrie «{volumeName}»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="752"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">Modalitat buida per a les sèries &apos;{volumeName}&apos;</translation>
+        <translation>Modalitat buida per a les sèries «{volumeName}»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="766"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation type="unfinished">Ja existeix una sèrie a la base de dades per SeriesInstanceUID {seriesInstanceUID}.</translation>
+        <translation>Ja existeix una sèrie a la base de dades per SeriesInstanceUID {seriesInstanceUID}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="775"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation type="unfinished">Ha fallat la creació de fitxers DICOM a partir del volum escalar. Consulteu el registre de l&apos;aplicació per a més detalls.</translation>
+        <translation>Ha fallat la creació de fitxers DICOM a partir del volum escalar. Consulteu el registre de l&apos;aplicació per a més detalls.</translation>
     </message>
 </context>
 <context>
@@ -8520,27 +8520,27 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="27"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquet de dades Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="75"/>
         <source>Contains a Slicer scene</source>
-        <translation type="unfinished">Conté una escena de tall</translation>
+        <translation>Conté una escena de Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="168"/>
         <source>Slicer data bundle</source>
-        <translation type="unfinished">Paquet de dades de tall</translation>
+        <translation>Paquet de dades de Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="169"/>
         <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
-        <translation type="unfinished">Crea una sèrie que incrusta tota l&apos;escena Slicer en una etiqueta DICOM privada</translation>
+        <translation>Crea una sèrie que incrusta tota l&apos;escena de Slicer en una etiqueta DICOM privada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="181"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Jerarquia no vàlida de subjectes</translation>
     </message>
 </context>
 <context>
@@ -8548,17 +8548,17 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="24"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Seqüència de volums</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="95"/>
         <source>Creates a series of DICOM files from volume sequences</source>
-        <translation type="unfinished">Crea una sèrie de fitxers DICOM a partir de seqüències de volum</translation>
+        <translation>Crea una sèrie de fitxers DICOM a partir de seqüències de volum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
         <source>Volume sequence of {count} frames</source>
-        <translation type="unfinished">Seqüència de volum de {count} fotogrames</translation>
+        <translation>Seqüència de volum de {count} fotogrames</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="102"/>
@@ -8568,39 +8568,39 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="103"/>
         <source>Unknown manufacturer</source>
-        <translation type="unfinished">Fabricant desconegut</translation>
+        <translation>Fabricant desconegut</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="104"/>
         <source>Unknown model</source>
-        <translation type="unfinished">Model desconegut</translation>
+        <translation>Model desconegut</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="157"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished">La jerarquia del subjecte no és vàlida</translation>
+        <translation>La jerarquia de subjectes no és vàlida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="162"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="168"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="174"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation type="unfinished">La sèrie «{itemName}» no es pot exportar com a seqüència de volum</translation>
+        <translation>La sèrie «{itemName}» no es pot exportar com a seqüència de volum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut obtenir l&apos;estudi per a la sèrie «{volumeName}»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="186"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut obtenir el pacient per a la sèrie «{volumeName}»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="215"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitat buida per a la sèrie «{volumeName}»</translation>
     </message>
 </context>
 <context>
@@ -8611,7 +8611,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso
 The DataProbe module is used to get information about the current RAS position being
 indicated by the mouse position.
 </source>
-        <translation type="unfinished">
+        <translation>
 El mòdul DataProbe s&apos;utilitza per obtenir informació sobre la posició actual del RAS
 indicat per la posició del ratolí.
 </translation>
@@ -8619,58 +8619,58 @@ indicat per la posició del ratolí.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="32"/>
         <source>This work is supported by NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) and the Slicer Community.</source>
-        <translation type="unfinished">Aquest treball compta amb el suport de NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis i Fedorov) i la Comunitat Slicer.</translation>
+        <translation>Aquest treball compta amb el suport de NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis i Fedorov) i la Comunitat Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="133"/>
         <source>No volume</source>
-        <translation type="unfinished">Sense volum</translation>
+        <translation>Sense volum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="136"/>
         <source>No Image</source>
-        <translation type="unfinished">Sense imatge</translation>
+        <translation>Sense imatge</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="140"/>
         <source>Out of Frame</source>
-        <translation type="unfinished">Fora del marc</translation>
+        <translation>Fora del marc</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="144"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconegut</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="155"/>
         <source>Out of bounds</source>
-        <translation type="unfinished">Fora dels límits</translation>
+        <translation>Fora dels límits</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="158"/>
         <source>No Point Data</source>
-        <translation type="unfinished">No hi ha dades puntuals</translation>
+        <translation>No hi ha dades de punts</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="162"/>
         <source>No Tensor Data</source>
-        <translation type="unfinished">No hi ha dades del sensor</translation>
+        <translation>No hi ha dades de tensors</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="182"/>
         <source>{numberOfComponents} components</source>
-        <translation type="unfinished">{numberOfComponents} components</translation>
+        <translation>{numberOfComponents} components</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="294"/>
         <source>Data Probe: {sceneName}</source>
-        <translation type="unfinished">Prova de dades: {sceneName}</translation>
+        <translation>Sonda de dades: {sceneName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="24"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="296"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Sonda de dades</translation>
+        <translation>Sonda de dades</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
@@ -8680,18 +8680,18 @@ indicat per la posició del ratolí.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="343"/>
         <source>{description} [slice: {instanceNumber}]</source>
-        <translation type="unfinished">{description} [tall: {instanceNumber}]</translation>
+        <translation>{description} [tall: {instanceNumber}]</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="425"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="515"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation type="unfinished">Aneu al mòdul DataProbe per a més informació i opcions</translation>
+        <translation>Aneu al mòdul DataProbe per a més informació i opcions</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="439"/>
         <source>Show Zoomed Slice</source>
-        <translation type="unfinished">Mostra el tall ampliat</translation>
+        <translation>Mostra el tall ampliat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="555"/>
@@ -8704,7 +8704,7 @@ indicat per la posició del ratolí.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="32"/>
         <source>Endoscopy</source>
-        <translation type="unfinished">Endoscòpia</translation>
+        <translation>Endoscòpia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="54"/>
@@ -8713,7 +8713,7 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished">
+        <translation>
 Aquest treball compta amb el suport de PAR-07-249: R01CA131718 Colonoscòpia Virtual NA-MIC
 (Vegeu &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MICNCBCCollaboration:NA-MICvirtualcolonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer.
@@ -8727,7 +8727,7 @@ NA-MIC, NAC, BIRN, NCIGT i la Comunitat Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="115"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished">Seleccioneu una càmera que volarà al llarg d&apos;aquest camí.</translation>
+        <translation>Selecciona una càmera que volarà al llarg d&apos;aquest camí.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="41"/>
@@ -8743,130 +8743,130 @@ The Frame Delay slider slows down the animation by adding more time between fram
 The View Angle provides is used to approximate the optics of an endoscopy system.
 You can save the camera position at any point by clicking &quot;Save camera position&quot;.
 </source>
-        <translation type="unfinished">
-Crea o importa una corba de marques.
-Trieu la càmera a utilitzar per a reproduir el full de ruta o editar els fotogrames clau associats.
-Seleccioneu la càmera a utilitzar per a reproduir el vol.
-En fer clic a &quot;Utilitza aquesta corba&quot; es farà una corba de vol i s&apos;habilitarà el plafó de vol.
+        <translation>
+Crea o importa una corba de marcatge.
+Trieu la càmera a utilitzar per a reproduir el sobrevol o per a editar els fotogrames clau associats.
+Seleccioneu la càmera a utilitzar per a reproduir el sobrevol.
+En fer clic a &quot;Utilitza aquesta corba&quot; es farà una corba de sobrevol i s&apos;habilitarà el plafó de sobrevol.
 Podeu desplaçar-vos manualment pel camí amb el control lliscant del marc.
-El botó Reprodueix/Pausa commuta el vol animat.
+El botó Reprodueix/Pausa commuta el sobrevol animat.
 El control lliscant Omet el fotograma accelera l&apos;animació saltant punts al camí.
 El lliscador Retard del fotograma alenteix l&apos;animació afegint més temps entre fotogrames.
-L&apos;angle de vista proporciona s&apos;utilitza per aproximar l&apos;òptica d&apos;un sistema d&apos;endoscòpia.
+El botó Angle de vista proporciona s&apos;utilitza per aproximar l&apos;òptica d&apos;un sistema d&apos;endoscòpia.
 Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa la posició de la càmera&quot;.
 </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
         <source>Camera:</source>
-        <translation type="unfinished">Càmera:</translation>
+        <translation>Càmera:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="127"/>
         <source>Select a curve to define control points for the path.</source>
-        <translation type="unfinished">Seleccioneu una corba per a definir els punts de control del camí.</translation>
+        <translation>Seleccioneu una corba per definir els punts de control del camí.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="133"/>
         <source>Curve to modify:</source>
-        <translation type="unfinished">Corba a modificar:</translation>
+        <translation>Corba a modificar:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="139"/>
         <source>Flythrough</source>
-        <translation type="unfinished">Vola</translation>
+        <translation>Sobrevola</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="148"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="416"/>
         <source>Play flythrough</source>
-        <translation type="unfinished">Reprodueix el flythrough</translation>
+        <translation>Reprodueix el sobrevol</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="149"/>
         <source>Start or stop the flythrough animation.</source>
-        <translation type="unfinished">Inicia o atura l&apos;animació de vol.</translation>
+        <translation>Inicia o atura l&apos;animació de sobrevol.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="157"/>
         <source>The current frame along the path.</source>
-        <translation type="unfinished">El marc actual al llarg del camí.</translation>
+        <translation>El marc actual al llarg del camí.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>Frame:</source>
-        <translation type="unfinished">Marc:</translation>
+        <translation>Marc:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="165"/>
         <source>Number of frames to skip.</source>
-        <translation type="unfinished">Nombre de fotogrames a ometre.</translation>
+        <translation>Nombre de fotogrames a ometre.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="170"/>
         <source>Frame skip:</source>
-        <translation type="unfinished">Omet el fotograma:</translation>
+        <translation>Omissió de fotogrames:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="174"/>
         <source>Time delay between animation frames.</source>
-        <translation type="unfinished">Retard de temps entre fotogrames d&apos;animació.</translation>
+        <translation>Retard de temps entre fotogrames d&apos;animació.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="181"/>
         <source>Frame delay:</source>
-        <translation type="unfinished">Retard del fotograma:</translation>
+        <translation>Retard del fotograma:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="185"/>
         <source>Field of view of the camera in degrees.</source>
-        <translation type="unfinished">Camp de visió de la càmera en graus.</translation>
+        <translation>Camp de visió de la càmera en graus.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="191"/>
         <source>View Angle:</source>
-        <translation type="unfinished">Angle de la vista:</translation>
+        <translation>Angle de la vista:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="197"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="356"/>
         <source>Save Keyframe Orientation</source>
-        <translation type="unfinished">Desa l&apos;orientació dels fotogrames clau</translation>
+        <translation>Desa l&apos;orientació dels fotogrames clau</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="198"/>
         <source>Save the camera orientation for this frame.</source>
-        <translation type="unfinished">Desa l&apos;orientació de la càmera per a aquest marc.</translation>
+        <translation>Desa l&apos;orientació de la càmera per a aquest marc.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="205"/>
         <source>Delete Keyframe Orientation</source>
-        <translation type="unfinished">Suprimeix l&apos;orientació dels fotogrames clau</translation>
+        <translation>Suprimeix l&apos;orientació dels fotogrames clau</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="206"/>
         <source>Delete the saved camera orientation for this frame.</source>
-        <translation type="unfinished">Suprimeix l&apos;orientació de la càmera desada per a aquest fotograma.</translation>
+        <translation>Suprimeix l&apos;orientació de la càmera desada per a aquest fotograma.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="216"/>
         <source>First</source>
-        <translation type="unfinished">Primer</translation>
+        <translation>Primer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="217"/>
         <source>Go to the first user-supplied keyframe.</source>
-        <translation type="unfinished">Aneu al primer fotograma clau subministrat per l&apos;usuari.</translation>
+        <translation>Aneu al primer fotograma clau subministrat per l&apos;usuari.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="223"/>
         <source>Back</source>
-        <translation type="unfinished">Enrere</translation>
+        <translation>Enrere</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="224"/>
         <source>Go to the previous user-supplied keyframe.</source>
-        <translation type="unfinished">Ves al fotograma clau proporcionat per l&apos;usuari anterior.</translation>
+        <translation>Ves al fotograma clau proporcionat per l&apos;usuari anterior.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
@@ -8876,52 +8876,52 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="231"/>
         <source>Go to the next user-supplied keyframe.</source>
-        <translation type="unfinished">Aneu al següent fotograma clau subministrat per l&apos;usuari.</translation>
+        <translation>Ves al següent fotograma clau subministrat per l&apos;usuari.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="237"/>
         <source>Last</source>
-        <translation type="unfinished">Darrera</translation>
+        <translation>Darrera</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="238"/>
         <source>Go to the last user-supplied keyframe.</source>
-        <translation type="unfinished">Ves a l&apos;últim fotograma clau subministrat per l&apos;usuari.</translation>
+        <translation>Ves a l&apos;últim fotograma clau subministrat per l&apos;usuari.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="249"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançat</translation>
+        <translation>Avançat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="261"/>
         <source>Select or create the destination model for exporting the flythrough path.</source>
-        <translation type="unfinished">Seleccioneu o creeu el model de destinació per a exportar el camí de vol.</translation>
+        <translation>Seleccioneu o creeu el model de destinació per a exportar el camí de sobrevol.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="268"/>
         <source>Output Model:</source>
-        <translation type="unfinished">Model de sortida:</translation>
+        <translation>Model de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="272"/>
         <source>Export as model</source>
-        <translation type="unfinished">Exporta com a model</translation>
+        <translation>Exporta com a model</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="273"/>
         <source>Export the current flythrough path as a model.</source>
-        <translation type="unfinished">Exporta el camí actual com a model.</translation>
+        <translation>Exporta el camí de sobrevol actual com a model.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="356"/>
         <source>Update Keyframe Orientation</source>
-        <translation type="unfinished">Actualitza l&apos;orientació dels fotogrames clau</translation>
+        <translation>Actualitza l&apos;orientació dels fotogrames clau</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="409"/>
         <source>Stop flythrough</source>
-        <translation type="unfinished">Atura el volant</translation>
+        <translation>Atura el sobrevol</translation>
     </message>
 </context>
 <context>
@@ -8929,147 +8929,147 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="47"/>
         <source>Extension Wizard</source>
-        <translation type="unfinished">Assistent d&apos;extensions</translation>
+        <translation>Assistent d&apos;extensions</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="52"/>
         <source>This module provides tools to create and manage extensions from within Slicer.</source>
-        <translation type="unfinished">Aquest mòdul proporciona eines per crear i gestionar extensions des de Slicer.</translation>
+        <translation>Aquest mòdul proporciona eines per crear i gestionar extensions des de dins del Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball està suportat per NA-MIC, NAC, BIRN, NCIGT, i la comunitat de Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="124"/>
         <source>Extension Tools</source>
-        <translation type="unfinished">Eines d&apos;extensió</translation>
+        <translation>Eines d&apos;extensió</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="127"/>
         <source>Create Extension</source>
-        <translation type="unfinished">Crea una extensió</translation>
+        <translation>Crea una extensió</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="130"/>
         <source>Select Extension</source>
-        <translation type="unfinished">Selecciona l&apos;extensió</translation>
+        <translation>Selecciona l&apos;extensió</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="141"/>
         <source>Extension Editor</source>
-        <translation type="unfinished">Editor d&apos;extensions</translation>
+        <translation>Editor d&apos;extensions</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"/>
         <source>Add Module to Extension</source>
-        <translation type="unfinished">Afegeix un mòdul a l&apos;extensió</translation>
+        <translation>Afegeix un mòdul a l&apos;extensió</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="160"/>
         <source>Edit Extension Metadata</source>
-        <translation type="unfinished">Edita les metadades de l&apos;extensió</translation>
+        <translation>Edita les metadades de l&apos;extensió</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="165"/>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="166"/>
         <source>Location:</source>
-        <translation type="unfinished">Ubicació:</translation>
+        <translation>Ubicació:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="167"/>
         <source>Repository:</source>
-        <translation type="unfinished">Repositori:</translation>
+        <translation>Repositori:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="168"/>
         <source>Contents:</source>
-        <translation type="unfinished">Continguts:</translation>
+        <translation>Continguts:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="247"/>
         <source>An error occurred while trying to create the extension.</source>
-        <translation type="unfinished">S&apos;ha produït un error en intentar crear l&apos;extensió.</translation>
+        <translation>S&apos;ha produït un error en intentar crear l&apos;extensió.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"/>
         <source>Select Extension...</source>
-        <translation type="unfinished">Selecciona l&apos;extensió...</translation>
+        <translation>Selecciona l&apos;extensió...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"/>
         <source>Failed to open extension {path}.</source>
-        <translation type="unfinished">No s&apos;ha pogut obrir l&apos;extensió {path}.</translation>
+        <translation>No s&apos;ha pogut obrir l&apos;extensió {path}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="302"/>
         <source>(none)</source>
-        <translation type="unfinished">(cap)</translation>
+        <translation>(cap)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="304"/>
         <source>(local git repository)</source>
-        <translation type="unfinished">(repositori local git)</translation>
+        <translation>(repositori local git)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="306"/>
         <source>(unknown local repository)</source>
-        <translation type="unfinished">(repositori local desconegut)</translation>
+        <translation>(repositori local desconegut)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="386"/>
         <source>{count} modules could not be registered</source>
-        <translation type="unfinished">{count} mòduls no s&apos;han pogut registrar</translation>
+        <translation>{count} mòduls no s&apos;han pogut registrar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="388"/>
         <source>The {name} module could not be registered</source>
-        <translation type="unfinished">No s&apos;ha pogut registrar el mòdul {name}</translation>
+        <translation>No s&apos;ha pogut registrar el mòdul {name}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="394"/>
         <source>Module loading failed</source>
-        <translation type="unfinished">Ha fallat la càrrega del mòdul</translation>
+        <translation>Ha fallat la càrrega del mòdul</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="401"/>
         <source>The module factory manager reported an error. One or more of the requested module(s) and/or dependencies thereof may not have been loaded.</source>
-        <translation type="unfinished">El gestor de fàbrica del mòdul ha informat d&apos;un error. És possible que un o més dels mòduls i/o dependències sol·licitats no s&apos;hagin carregat.</translation>
+        <translation>El gestor de fàbrica del mòdul ha informat d&apos;un error. És possible que un o més dels mòduls i/o dependències sol·licitats no s&apos;hagin carregat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
         <source>Error loading module(s)</source>
-        <translation type="unfinished">S&apos;ha produït un error en carregar els mòduls</translation>
+        <translation>S&apos;ha produït un error en carregar el(s) mòdul(s)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="427"/>
         <source>An error occurred while trying to create the module.</source>
-        <translation type="unfinished">S&apos;ha produït un error en intentar crear el mòdul.</translation>
+        <translation>S&apos;ha produït un error en intentar crear el mòdul.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="439"/>
         <source>An error occurred while adding the module to the extension.</source>
-        <translation type="unfinished">S&apos;ha produït un error en afegir el mòdul a l&apos;extensió.</translation>
+        <translation>S&apos;ha produït un error en afegir el mòdul a l&apos;extensió.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="440"/>
         <source>The module has been created, but the extension CMakeLists.txt could not be updated. In order to include the module in the extension build, you will need to update the extension CMakeLists.txt by hand.</source>
-        <translation type="unfinished">S&apos;ha creat el mòdul, però no s&apos;ha pogut actualitzar l&apos;extensió CMakeLists.txt. Per tal d&apos;incloure el mòdul a la construcció d&apos;extensions, haureu d&apos;actualitzar l&apos;extensió CMakeLists.txt a mà.</translation>
+        <translation>S&apos;ha creat el mòdul, però no s&apos;ha pogut actualitzar l&apos;extensió CMakeLists.txt. Per tal d&apos;incloure el mòdul a la construcció d&apos;extensions, haureu d&apos;actualitzar l&apos;extensió CMakeLists.txt a mà.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="491"/>
         <source>Python scripted modules</source>
-        <translation type="unfinished">Mòduls amb scripts en Python</translation>
+        <translation>Mòduls amb scripts en Python</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="492"/>
         <source>Add Python scripted modules to the application</source>
-        <translation type="unfinished">Afegeix mòduls amb scripts en Python a l&apos;aplicació</translation>
+        <translation>Afegeix mòduls amb scripts en Python a l&apos;aplicació</translation>
     </message>
 </context>
 <context>
@@ -9077,33 +9077,33 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="23"/>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="30"/>
         <source>Type:</source>
-        <translation type="unfinished">Tipus:</translation>
+        <translation>Tipus:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="34"/>
         <source>Destination:</source>
-        <translation type="unfinished">Destinació:</translation>
+        <translation>Destinació:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="65"/>
         <source>{type} name may not be empty.</source>
-        <translation type="unfinished">El nom {type} pot no estar buit.</translation>
+        <translation>El nom {type} no pot estar buit.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="66"/>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="73"/>
         <source>Cannot create {type}</source>
-        <translation type="unfinished">No es pot crear {type}</translation>
+        <translation>No es pot crear {type}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="72"/>
         <source>Destination must be an existing directory.</source>
-        <translation type="unfinished">La destinació ha de ser un directori existent.</translation>
+        <translation>La destinació ha de ser un directori existent.</translation>
     </message>
 </context>
 <context>
@@ -9111,7 +9111,7 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="22"/>
         <source>Add</source>
-        <translation type="unfinished">Afegir</translation>
+        <translation>Afegeix</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="27"/>
@@ -9121,7 +9121,7 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
         <source>Select folder</source>
-        <translation type="unfinished">Seleccionar carpeta</translation>
+        <translation>Selecciona la carpeta</translation>
     </message>
 </context>
 <context>
@@ -9129,12 +9129,12 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="29"/>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"/>
         <source>Category:</source>
-        <translation type="unfinished">Categoria:</translation>
+        <translation>Categoria:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"/>
@@ -9144,33 +9144,33 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
         <source>Organization</source>
-        <translation type="unfinished">Organització</translation>
+        <translation>Organització</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="42"/>
         <source>Contributors:</source>
-        <translation type="unfinished">Col·laboradors:</translation>
+        <translation>Col·laboradors:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
         <source>Extension name may not be empty.</source>
-        <translation type="unfinished">El nom de l&apos;extensió pot no estar buit.</translation>
+        <translation>El nom de l&apos;extensió no pot estar buit.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="78"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Metadades no vàlides</translation>
+        <translation>Metadades no vàlides</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="77"/>
         <source>Extension description may not be empty.</source>
-        <translation type="unfinished">La descripció de l&apos;extensió pot no estar buida.</translation>
+        <translation>La descripció de l&apos;extensió no pot estar buida.</translation>
     </message>
 </context>
 <context>
@@ -9178,27 +9178,27 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="31"/>
         <source>(New item)</source>
-        <translation type="unfinished">(Element nou)</translation>
+        <translation>(Element nou)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="52"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished">Mou amunt</translation>
+        <translation>Mou am&amp;unt</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="57"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished">Mou avall</translation>
+        <translation>&amp;Mou avall</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="62"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">Suprimeix</translation>
+        <translation>&amp;Suprimeix</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="130"/>
         <source>Anonymous</source>
-        <translation type="unfinished">Anònim</translation>
+        <translation>Anònim</translation>
     </message>
 </context>
 <context>
@@ -9206,12 +9206,12 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="44"/>
         <source>Enable developer mode</source>
-        <translation type="unfinished">Habilita el mode de desenvolupador</translation>
+        <translation>Habilita el mode de desenvolupador</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="45"/>
         <source>Sets the &apos;Developer mode&apos; application option to enabled. Enabling developer mode is recommended while developing scripted modules, as it makes the Reload and Testing section displayed in the module user interface.</source>
-        <translation type="unfinished">Estableix l&apos;opció de l&apos;aplicació «Mode de revelador» a activada. Es recomana habilitar el mode desenvolupador mentre es desenvolupen mòduls amb scripts, ja que fa que la secció Reload and Testing es mostri a la interfície d&apos;usuari del mòdul.</translation>
+        <translation>Estableix l&apos;opció de l&apos;aplicació «Mode de desenvolupamentr» a activada. Es recomana habilitar el mode desenvolupament mentre es desenvolupen mòduls amb scripts, ja que fa que la secció Recarregar i provar es mostri a la interfície d&apos;usuari del mòdul.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="89"/>
