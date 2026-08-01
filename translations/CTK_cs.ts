@@ -114,12 +114,12 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
         <source>Module Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesty pro vyhledávání modulů</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
         <source>The following list of paths will be searched for executables which provide a XML parameter description when called with a &quot;--xml&quot; command line argument:</source>
-        <translation type="unfinished"></translation>
+        <translation>V následujícím seznamu cest se budou vyhledávat spustitelné soubory, které při volání s argumentem příkazového řádku „--xml“ poskytují popis parametrů XML:</translation>
     </message>
 </context>
 <context>
@@ -127,7 +127,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="14"/>
         <source>Module Settings            </source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení modulu            </translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="32"/>
@@ -142,7 +142,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="93"/>
         <source>XML retrieval timeout (in seconds):</source>
-        <translation type="unfinished"></translation>
+        <translation>Časový limit načítání XML (v sekundách):</translation>
     </message>
 </context>
 <context>
@@ -294,7 +294,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="14"/>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="32"/>
         <source>Registered Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrované moduly</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="134"/>
@@ -304,7 +304,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="143"/>
         <source>No XML output available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Není k dispozici žádný výstup XML.</translation>
     </message>
 </context>
 <context>
@@ -312,12 +312,12 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="14"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Průběh</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="51"/>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozastavit</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="68"/>
@@ -460,12 +460,12 @@ due to:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="69"/>
         <source>Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Spouštění</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="89"/>
         <source>Finished </source>
-        <translation type="unfinished"></translation>
+        <translation>Dokončeno </translation>
     </message>
 </context>
 <context>
@@ -1114,17 +1114,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="25"/>
         <source>Unnamed RT Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepojmenovaný plán RT</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="26"/>
         <source>Unnamed RT Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepojmenovaná sada struktur RT</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="27"/>
         <source>Unnamed RT Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepojmenovaný snímek RT</translation>
     </message>
 </context>
 <context>
@@ -1132,17 +1132,17 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="64"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat hostovanou aplikaci</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="128"/>
         <source>Series selected: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrané série: </translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="138"/>
         <source>no series selected</source>
-        <translation type="unfinished"></translation>
+        <translation>nebyla vybrána žádná série</translation>
     </message>
 </context>
 <context>
@@ -1178,12 +1178,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="14"/>
         <source>Import DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovat DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="29"/>
         <source>Copy to library</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat do knihovny</translation>
     </message>
 </context>
 <context>
@@ -2239,7 +2239,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="103"/>
         <source>Got move request</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijat požadavek MOVE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="134"/>
@@ -2250,7 +2250,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
         <source>Got CGET response</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijata odpověď C-GET</translation>
     </message>
 </context>
 <context>
@@ -2515,17 +2515,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="361"/>
         <source>Anonomyzed study</source>
-        <translation type="unfinished"></translation>
+        <translation>Anonymizovaná studie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="447"/>
         <source>%1/%2 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/%2 sérií</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="451"/>
         <source>%1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 série</translation>
     </message>
 </context>
 <context>
@@ -2557,7 +2557,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="20"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="59"/>
@@ -2567,12 +2567,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="85"/>
         <source>Studies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Studie:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="111"/>
         <source>Series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Série:</translation>
     </message>
 </context>
 <context>
@@ -3391,12 +3391,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="161"/>
         <source>Event notification for TOPIC: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznámení události pro TOPIC: %1</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
         <source>Server can not start. Create it first, then call startListen again!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Server nelze spustit. Nejprve jej vytvořte a poté znovu zavolejte startListen.</translation>
     </message>
 </context>
 <context>
@@ -3583,12 +3583,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.ui" line="25"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.cpp" line="66"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat hostovanou aplikaci</translation>
     </message>
 </context>
 <context>
@@ -3853,17 +3853,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="78"/>
         <source>Don&apos;t show this message again</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuto zprávu již nezobrazovat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="221"/>
         <source>Don&apos;t show this message again and always %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuto zprávu již nezobrazovat a vždy %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="337"/>
         <source>Are you sure you want to exit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Opravdu chcete ukončit aplikaci?</translation>
     </message>
 </context>
 <context>
@@ -4354,7 +4354,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="243"/>
         <source>Open a dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít dialogové okno</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="557"/>
@@ -4369,7 +4369,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="588"/>
         <source>Select a directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat adresář...</translation>
     </message>
 </context>
 <context>
@@ -4377,7 +4377,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="14"/>
         <source>Path list</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam cest</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="23"/>
@@ -4398,7 +4398,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="43"/>
         <source>Remove selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat vybrané položky</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
@@ -4408,7 +4408,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
         <source>Edit current entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit aktuální položku</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="56"/>
@@ -4892,12 +4892,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="14"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="20"/>
         <source>License template</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenční šablona</translation>
     </message>
 </context>
 <context>
@@ -4991,17 +4991,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="14"/>
         <source>Qt Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>Testování Qt</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="105"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Záznam</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="115"/>
         <source>PlayBack</source>
-        <translation type="unfinished"></translation>
+        <translation>Přehrát</translation>
     </message>
 </context>
 <context>
@@ -5237,12 +5237,12 @@ all settings to their default values?
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"/>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="32"/>
         <source>My object class definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Definice třídy mého objektu</translation>
     </message>
 </context>
 <context>
@@ -5466,7 +5466,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"/>
         <source>Size issue ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Problém s velikostí...</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="69"/>
@@ -5474,7 +5474,9 @@ all settings to their default values?
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost vykreslovacího pohledu je: šířka: %1 	 výška: %2 
+Velikost při záznamu byla: šířka: %3 	 výška: %4 
+Chcete ji nahradit?</translation>
     </message>
 </context>
 <context>
@@ -5660,17 +5662,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="14"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Prahová hodnota</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="26"/>
         <source>Threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prahová hodnota:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Krytí:</translation>
     </message>
 </context>
 <context>
@@ -5731,17 +5733,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="87"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpět</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="89"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Další</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="90"/>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokončit</translation>
     </message>
 </context>
 <context>
@@ -5749,12 +5751,12 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="20"/>
         <source>Workflow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pracovní postup</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="35"/>
         <source>Step title</source>
-        <translation type="unfinished"></translation>
+        <translation>Název kroku</translation>
     </message>
 </context>
 <context>
@@ -5762,13 +5764,14 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="200"/>
         <source>Playback ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Přehrávání...</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="201"/>
         <source>The settings are different from the record Settings.
 Do you want to restore the settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení se liší od nastavení záznamu.
+Chcete nastavení obnovit?</translation>
     </message>
 </context>
 <context>
