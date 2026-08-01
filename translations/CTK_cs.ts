@@ -1272,373 +1272,373 @@ Export se zastavuje.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="871"/>
         <source>Head First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavou napřed – na břiše</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="872"/>
         <source>Head First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavou napřed – na pravém boku</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="873"/>
         <source>Feet First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Nohama napřed – na pravém boku</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="874"/>
         <source>Feet First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>Nohama napřed – na břiše</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="875"/>
         <source>Head First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavou napřed – na zádech</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="876"/>
         <source>Head First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavou napřed – na levém boku</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="877"/>
         <source>Feet First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Nohama napřed – na levém boku</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="878"/>
         <source>Feet First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Nohama napřed – na zádech</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Počítačová radiografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="900"/>
         <source>Computed Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Výpočetní tomografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="901"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation>Magnetická rezonance</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished"></translation>
+        <translation>Nukleární medicína</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrazvuk</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Jiné</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
         <source>Biomagnetic imaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Biomagnetické zobrazování</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Barevný průtokový doppler</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
         <source>Duplex Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplexní doppler</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Endoskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="909"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Laserové snímání povrchu</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
         <source>Positron emission tomography (PET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozitronová emisní tomografie (PET)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografické zobrazování (konvenční film/stínítko)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>Single-photon emission computed tomograpy (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednofotonová emisní výpočetní tomografie (SPECT)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
         <source>Thermography</source>
-        <translation type="unfinished"></translation>
+        <translation>Termografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>X-Ray Aniography</source>
-        <translation type="unfinished"></translation>
+        <translation>Rentgenová angiografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Radioskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Radioterapeutický obraz</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
         <source>Radiotherapy Dose</source>
-        <translation type="unfinished"></translation>
+        <translation>Radioterapeutická dávka</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Sada struktur radioterapie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
         <source>Radiotherapy Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Plán radioterapie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Záznam radioterapeutické léčby</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Tištěná kopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
         <source>Digital Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitální radiografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
         <source>Mammography</source>
-        <translation type="unfinished"></translation>
+        <translation>Mamografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
         <source>Intra-oral Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Intraorální radiografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramatický rentgenový snímek</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecná mikroskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikroskopie preparátů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografie externí kamerou</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="929"/>
         <source>Presentation state</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav prezentace</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="930"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvuk</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="931"/>
         <source>Electrocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektrokardiografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="932"/>
         <source>Cardiac Electrophysiology</source>
-        <translation type="unfinished"></translation>
+        <translation>Srdeční elektrofyziologie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="933"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemodynamická křivka</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="934"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument SR</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="935"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Intravaskulární ultrazvuk</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="936"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologická fotografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="937"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>Stereometrický vztah</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="938"/>
         <source>Optical Coherence Tomography (non-Ophthalmic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Optická koherentní tomografie (neoftalmologická)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologická refrakce</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologické zorné pole</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologické mapování</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Výběr klíčových objektů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="943"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentace</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="944"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrace</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="945"/>
         <source>Ophthalmic Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologická tomografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="946"/>
         <source>Bone Densitometry (ultrasound)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kostní denzitometrie (ultrazvuk)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="947"/>
         <source>Bone Densitometry (X-Ray)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kostní denzitometrie (rentgenové záření)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="948"/>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="951"/>
         <source>Digital Subtraction Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitální subtrakční angiografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="952"/>
         <source>Cinefluorography</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinefluorografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="953"/>
         <source>Digital fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitální skiaskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="954"/>
         <source>Videofluorography</source>
-        <translation type="unfinished"></translation>
+        <translation>Videofluorografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="955"/>
         <source>Angioscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Angioskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="956"/>
         <source>Cystoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Cystoskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="957"/>
         <source>Echocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Echokardiografie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="958"/>
         <source>Laparoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Laparoskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="959"/>
         <source>Fluorescein angiography </source>
-        <translation type="unfinished"></translation>
+        <translation>Fluoresceinová angiografie </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="960"/>
         <source>Culposcopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolposkopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="961"/>
         <source>Digital microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitální mikroskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="962"/>
         <source>Fundoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundoskopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="963"/>
         <source>Magnetic resonance angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografie magnetickou rezonancí</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="964"/>
         <source>Magnetic resonance spectroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Spektroskopie magnetické rezonance</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="995"/>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="1016"/>
         <source>Unknown (no DICOM dictionary loaded)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámé (není načten slovník DICOM)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="999"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámé</translation>
     </message>
 </context>
 <context>
