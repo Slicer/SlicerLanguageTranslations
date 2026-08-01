@@ -12243,47 +12243,47 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="20"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Slice View Annotations Settings</translation>
+        <translation>Nastavení poznámek zobrazení řezů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="37"/>
         <source>Enable Slice View Annotations</source>
-        <translation type="unfinished">Enable Slice View Annotations</translation>
+        <translation>Povolit poznámky zobrazení řezů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
         <source>Corner Text Annotation</source>
-        <translation type="unfinished">Corner Text Annotation</translation>
+        <translation>Textová poznámka v rohu</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
         <source>Active Corners</source>
-        <translation type="unfinished">Active Corners</translation>
+        <translation>Aktivní rohy</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="58"/>
         <source>Top Left</source>
-        <translation type="unfinished">Top Left</translation>
+        <translation>Vlevo nahoře</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="68"/>
         <source>Top Right</source>
-        <translation type="unfinished">Top Right</translation>
+        <translation>Vpravo nahoře</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="78"/>
         <source>Bottom Left</source>
-        <translation type="unfinished">Bottom Left</translation>
+        <translation>Vlevo dole</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="104"/>
         <source>Amount</source>
-        <translation type="unfinished">Amount</translation>
+        <translation>Množství</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
         <source>Annotation Display Level:</source>
-        <translation type="unfinished">Annotation Display Level:</translation>
+        <translation>Úroveň zobrazení poznámek:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
@@ -12303,47 +12303,47 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
         <source>Font Properties</source>
-        <translation type="unfinished">Font Properties</translation>
+        <translation>Vlastnosti písma</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="163"/>
         <source>Font Family: </source>
-        <translation type="unfinished">Font Family: </translation>
+        <translation>Rodina písma: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
         <source>Times</source>
-        <translation type="unfinished">Times</translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
         <source>Arial</source>
-        <translation type="unfinished">Arial</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
         <source>Font Size: </source>
-        <translation type="unfinished">Font Size: </translation>
+        <translation>Velikost písma: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
         <source>DICOM Annotations</source>
-        <translation type="unfinished">DICOM Annotations</translation>
+        <translation>Poznámky DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation type="unfinished">Show background volume DICOM annotations if foreground volume is non-DICOM.</translation>
+        <translation>Zobrazit poznámky DICOM objemu pozadí, pokud objem popředí není DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
         <source>Background DICOM annotations persistence</source>
-        <translation type="unfinished">Background DICOM annotations persistence</translation>
+        <translation>Trvalé zachování poznámek DICOM pozadí</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="262"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished">Restore Defaults</translation>
+        <translation>Obnovit výchozí hodnoty</translation>
     </message>
 </context>
 <context>
@@ -14086,67 +14086,67 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
         <source>Plane settings</source>
-        <translation type="unfinished">Plane settings</translation>
+        <translation>Nastavení roviny</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="52"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="62"/>
         <source>Size mode:</source>
-        <translation type="unfinished">Size mode:</translation>
+        <translation>Režim velikosti:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="72"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Velikost:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="87"/>
         <source>X:</source>
-        <translation type="unfinished">X:</translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="107"/>
         <source>Y:</source>
-        <translation type="unfinished">Y:</translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
         <source>Bounds:</source>
-        <translation type="unfinished">Bounds:</translation>
+        <translation>Meze:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
         <source>X max:</source>
-        <translation type="unfinished">X max:</translation>
+        <translation>X max:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="171"/>
         <source>X min:</source>
-        <translation type="unfinished">X min:</translation>
+        <translation>X min:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="184"/>
         <source>Y min:</source>
-        <translation type="unfinished">Y min:</translation>
+        <translation>Y min:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="217"/>
         <source>Y max:</source>
-        <translation type="unfinished">Y max:</translation>
+        <translation>Y max:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="226"/>
         <source>Normal:</source>
-        <translation type="unfinished">Normal:</translation>
+        <translation>Normála:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Krytí:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="267"/>
@@ -17212,97 +17212,97 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="400"/>
         <source>Linked</source>
-        <translation type="unfinished">Linked</translation>
+        <translation>Propojeno</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="414"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformat</translation>
+        <translation>Přeformátovat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="428"/>
         <source>Compositing</source>
-        <translation type="unfinished">Compositing</translation>
+        <translation>Kompozice</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="450"/>
         <source>Slice spacing mode</source>
-        <translation type="unfinished">Slice spacing mode</translation>
+        <translation>Režim rozestupu řezů</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="454"/>
         <source>Manual spacing</source>
-        <translation type="unfinished">Manual spacing</translation>
+        <translation>Ruční rozestup</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="468"/>
         <source>Field of view</source>
-        <translation type="unfinished">Field of view</translation>
+        <translation>Zorné pole</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="492"/>
         <source>Slice model mode</source>
-        <translation type="unfinished">Slice model mode</translation>
+        <translation>Režim modelu řezu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="512"/>
         <source>Manual FOV</source>
-        <translation type="unfinished">Manual FOV</translation>
+        <translation>Ruční zorné pole</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="535"/>
         <source>Manual Dimensions</source>
-        <translation type="unfinished">Manual Dimensions</translation>
+        <translation>Ruční rozměry</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="558"/>
         <source>Manual Origin</source>
-        <translation type="unfinished">Manual Origin</translation>
+        <translation>Ruční počátek</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="588"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="597"/>
         <source>LabelMap</source>
-        <translation type="unfinished">LabelMap</translation>
+        <translation>Mapa popisků</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="606"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Pokročilé</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="757"/>
         <source>Hide label volume outlines</source>
-        <translation type="unfinished">Hide label volume outlines</translation>
+        <translation>Skrýt obrysy objemu popisků</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="757"/>
         <source>Show label volume outlines</source>
-        <translation type="unfinished">Show label volume outlines</translation>
+        <translation>Zobrazit obrysy objemu popisků</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="761"/>
         <source>Hide reformat widget</source>
-        <translation type="unfinished">Hide reformat widget</translation>
+        <translation>Skrýt widget přeformátování</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="761"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished">Show reformat widget</translation>
+        <translation>Zobrazit widget přeformátování</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1333"/>
         <source>Orientation marker</source>
-        <translation type="unfinished">Orientation marker</translation>
+        <translation>Značka orientace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1369"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>Pravítko</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1381"/>
