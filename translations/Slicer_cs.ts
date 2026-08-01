@@ -13230,12 +13230,12 @@ NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="64"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="68"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Popisek</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="72"/>
@@ -13245,7 +13245,7 @@ NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="76"/>
         <source>Terminology</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminologie</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="160"/>
@@ -13259,7 +13259,7 @@ NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
         <extracomment>For formatting of terminology entry with a modifier in simplified mode. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name in simplified mode. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%2 %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="546"/>
@@ -13268,25 +13268,25 @@ For formatting of terminology entry name in simplified mode. %1 is region name (
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="584"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 v %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="596"/>
         <source>Unknown in %1</source>
         <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neznámé v %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="616"/>
         <source>%1: %2</source>
         <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -15545,7 +15545,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="330"/>
         <source>Export to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do tabulky barev</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="491"/>
@@ -15565,7 +15565,9 @@ Change source representation to binary labelmap?</source>
         <oldsource>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
 
 Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Úpravy vyžadují zdrojovou reprezentaci binární mapy popisků, ale aktuální zdrojovou reprezentací je %1. Změna zdrojové reprezentace vyžaduje převod. Během převodu mohou být některé podrobnosti ztraceny.
+
+Změnit zdrojovou reprezentaci na binární mapu popisků?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="813"/>
@@ -15577,7 +15579,8 @@ Change master representation to binary labelmap?</oldsource>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="828"/>
         <source>Failed to create binary labelmap representation in segmentation %1 for editing!
 Please see Segmentations module for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit reprezentaci binární mapy popisků v segmentaci %1 pro úpravy!
+Podrobnosti naleznete v modulu Segmentace.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="829"/>
@@ -15592,7 +15595,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2594"/>
         <source>Export segments to files</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat segmenty do souborů</translation>
     </message>
 </context>
 <context>
@@ -15675,32 +15678,32 @@ Please see Segmentations module for details.</source>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="106"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="253"/>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation>Náročnost</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="158"/>
         <source>Invalid segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="186"/>
         <source>Invalid representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná reprezentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="232"/>
         <source>No path available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Není k dispozici žádná cesta!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="299"/>
         <source>No path selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Není vybrána žádná cesta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="318"/>
         <source>No parameters for selected path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro vybranou cestu nejsou k dispozici žádné parametry</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="355"/>
@@ -15710,7 +15713,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="401"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se převést %1 na %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="402"/>
@@ -15830,22 +15833,22 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="554"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ořezávání</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="572"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzel ořezu:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="256"/>
         <source>Selected segment: none</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybraný segment: žádný</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="297"/>
         <source>Selected segment: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybraný segment: %1</translation>
     </message>
 </context>
 <context>
@@ -15993,12 +15996,12 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="88"/>
         <source>Segmentation geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometrie segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="104"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="107"/>
@@ -16008,12 +16011,12 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="164"/>
         <source>Set reference image geometry and resample all segment labelmaps</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit geometrii referenčního obrazu a převzorkovat všechny mapy popisků segmentů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="168"/>
         <source>Set reference image geometry (do not resample)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit geometrii referenčního obrazu (nepřevzorkovávat)</translation>
     </message>
 </context>
 <context>
@@ -16073,12 +16076,12 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="332"/>
         <source>Additional Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Další možnosti</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="338"/>
         <source>Pad output:</source>
-        <translation type="unfinished"></translation>
+        <translation>Doplnit výstup:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="193"/>
@@ -16098,12 +16101,12 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="169"/>
         <source>The current segmentation may not fit into the new geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuální segmentace se nemusí do nové geometrie vejít.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="399"/>
         <source>No segmentation node specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyl zadán žádný uzel segmentace!</translation>
     </message>
 </context>
 <context>
@@ -16255,7 +16258,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="84"/>
         <source>Apply smoothing when converting binary labelmap to closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Při převodu binární mapy popisků na reprezentaci uzavřeného povrchu použít vyhlazení.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="89"/>
@@ -16265,27 +16268,27 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="93"/>
         <source>Experimental</source>
-        <translation type="unfinished"></translation>
+        <translation>Experimentální</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="97"/>
         <source>Use Surface Nets (fast)</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít Surface Nets (rychlé)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="99"/>
         <source>Create closed surface using surface nets. By default, flying edges is used. Surface nets are more performant.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoří uzavřený povrch pomocí Surface Nets. Ve výchozím nastavení se používá Flying Edges. Surface Nets jsou výkonnější.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="105"/>
         <source>Use Surface Nets Smoothing (faster)</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít vyhlazení Surface Nets (rychlejší)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="107"/>
         <source>Use surface nets internal smoothing (more performant). vtkWindowedSincPolyDataFilter is used by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Použije interní vyhlazení Surface Nets (výkonnější). Ve výchozím nastavení se používá vtkWindowedSincPolyDataFilter.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="113"/>
@@ -16308,7 +16311,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="122"/>
         <source>Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="131"/>
@@ -16338,32 +16341,32 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="482"/>
         <source>Not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Nezahájeno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="487"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Probíhá</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="491"/>
         <source>Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokončeno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="495"/>
         <source>Flagged</source>
-        <translation type="unfinished"></translation>
+        <translation>Označeno příznakem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1048"/>
         <source>No terminology information</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné informace o terminologii</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1053"/>
         <source>Invalid terminology information</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatné informace o terminologii</translation>
     </message>
 </context>
 <context>
@@ -20036,7 +20039,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
         <source>Color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda barev</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
@@ -20091,7 +20094,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="163"/>
         <source>Add new empty color table node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat nový prázdný uzel tabulky barev.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
@@ -20108,17 +20111,17 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
         <source>Hide empty colors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Skrýt prázdné barvy: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="323"/>
         <source>Add new color to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat novou barvu do tabulky barev</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="333"/>
         <source>Delete currently selected color</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit aktuálně vybranou barvu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -20149,7 +20152,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="425"/>
         <source>Unnamed</source>
         <extracomment>This is the default name for a new color in a color table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bez názvu</translation>
     </message>
 </context>
 <context>
@@ -29233,7 +29236,7 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="14"/>
         <source>qSlicerTerminologyEditorWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerTerminologyEditorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
@@ -29243,7 +29246,7 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="47"/>
         <source>Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Schéma</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="57"/>
@@ -29254,12 +29257,12 @@ Značky: %6</translation>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="87"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="163"/>
         <source>    Modifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>    Modifikátor:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
@@ -29269,17 +29272,17 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="153"/>
         <source>Meaning</source>
-        <translation type="unfinished"></translation>
+        <translation>Význam</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
         <source>Use automatically generated label and color from selected terminology:</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít automaticky vytvořený popisek a barvu z vybrané terminologie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
         <source>Select from terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat z terminologie...</translation>
     </message>
 </context>
 <context>
@@ -29292,12 +29295,12 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="342"/>
         <source>Select region context...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat kontext oblasti...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="374"/>
         <source>Region...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblast...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="426"/>
@@ -29332,7 +29335,7 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="261"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat vše</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="149"/>
@@ -29347,25 +29350,25 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="253"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1873"/>
         <source>%1, %2</source>
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1888"/>
         <source>%1 in %2, %3</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 v %2, %3</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1893"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 v %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1185"/>
