@@ -2021,7 +2021,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filtrovat zobrazená metadata podle obsahu sloupců Značka, Atribut a Hodnota.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Jednoduché hledání: &lt;/span&gt;zadejte libovolný text, aby se zobrazily jen položky, které tento text obsahují. Zástupnými znaky ? a * lze vyjádřit &lt;span style=&quot; font-style:italic;&quot;&gt;libovolný &lt;/span&gt;jeden znak nebo posloupnost znaků.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Hledání regulárním výrazem (pro pokročilé uživatele):&lt;/span&gt; Zadejte &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; následovaný regulárním výrazem. Chcete-li například zobrazit 3 konkrétní značky, zadejte: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
@@ -4741,7 +4741,7 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="14"/>
         <source>Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generátor modulů plug-in</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"/>
@@ -4751,7 +4751,7 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="39"/>
         <source>Symbolic name</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolický název</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="46"/>
@@ -4761,7 +4761,7 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="66"/>
         <source>Activation policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Zásady aktivace</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"/>
@@ -4771,7 +4771,7 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Okamžitá</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"/>
@@ -4781,22 +4781,22 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="105"/>
         <source>Export directive</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktiva exportu</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="115"/>
         <source>Activator class name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název aktivační třídy</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="125"/>
         <source>Activator header file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavičkový soubor aktivační třídy</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="135"/>
         <source>Activator source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdrojový soubor aktivační třídy</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="35"/>
@@ -4807,32 +4807,32 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="94"/>
         <source>Advanced (activator class: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilé (aktivační třída: %1)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="102"/>
         <source>The symbolic name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolický název nesmí být prázdný</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="108"/>
         <source>The export directive cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktiva exportu nesmí být prázdná</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="114"/>
         <source>The activator class name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Název aktivační třídy nesmí být prázdný</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="120"/>
         <source>The activator header filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Název hlavičkového souboru aktivační třídy nesmí být prázdný</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="126"/>
         <source>The activator source filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Název zdrojového souboru aktivační třídy nesmí být prázdný</translation>
     </message>
 </context>
 <context>
@@ -4840,7 +4840,7 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="14"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generátor modulů plug-in CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="74"/>
@@ -4853,7 +4853,15 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Modul plug-in&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generátor&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="278"/>
@@ -4866,22 +4874,30 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Modul plug-in &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generátor&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Náhled&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="370"/>
         <source>Output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstupní adresář</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="383"/>
         <source>Choose output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvolit výstupní adresář</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="431"/>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhled &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="451"/>
@@ -4907,7 +4923,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="497"/>
         <source>Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti…</translation>
     </message>
 </context>
 <context>
@@ -5044,47 +5060,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Jednoduchý widget prohlížeče obrázků CTK&lt;/h1&gt;Přispěla společnost Kitware, Inc.&lt;br&gt;&lt;h3&gt;Klávesové příkazy:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: ukončit  &lt;em&gt;h&lt;/em&gt;: zobrazit tuto nápovědu  &lt;em&gt;i&lt;/em&gt;: invertovat intenzity  &lt;em&gt;[ ]&lt;/em&gt;: zvětšit / zmenšit přiblížení  &lt;em&gt;x y&lt;/em&gt;: převrátit podle osy x / y  &lt;em&gt;r&lt;/em&gt;: obnovit počáteční stav  &lt;em&gt;mezerník&lt;/em&gt;: přepnout nepřetržité sledování kurzoru  &lt;em&gt;šipka nahoru šipka dolů&lt;/em&gt;: přejít na další / předchozí řez&lt;h3&gt;Příkazy myši:&lt;/h3&gt;  &lt;em&gt;levé tlačítko&lt;/em&gt;: okno a úroveň  &lt;em&gt;prostřední tlačítko&lt;/em&gt;: přiblížení  &lt;em&gt;pravé tlačítko&lt;/em&gt;: vycentrovat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1073"/>
         <source>Intensity Range = %1 .. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozsah intenzity = %1 .. %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1085"/>
         <source>W / L = %1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>O / Ú = %1 / %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1097"/>
         <source>Spacing = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozteč = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1108"/>
         <source>Size = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1118"/>
         <source>RAS = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1129"/>
         <source>IJK = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>IJK = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1141"/>
         <source>Value = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnota = %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1183"/>
         <source>No Image Loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Není načten žádný snímek.</translation>
     </message>
 </context>
 <context>
@@ -5967,39 +5983,39 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavní okno</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="23"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="90"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="195"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Přihlásit se</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="33"/>
         <source>Creates a new resource folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoří novou složku prostředků</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="36"/>
         <source>Add Resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat prostředek</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="46"/>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrát soubor</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="56"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Stáhnout</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="69"/>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepřipojeno</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="85"/>
@@ -6009,7 +6025,7 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
         <source>Select a xnat file, resource, scan, or scan folder to download...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte soubor, prostředek, snímání nebo složku snímání XNAT ke stažení…</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"/>
@@ -6019,7 +6035,7 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="122"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukončit</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="91"/>
@@ -6035,7 +6051,7 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="103"/>
         <source>Connected: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Připojeno: %1</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="163"/>
@@ -6045,23 +6061,24 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
         <source>Session Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Časový limit relace</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
         <source>The session timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas relace vypršel.</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="205"/>
         <source>Session Timeout Soon</source>
-        <translation type="unfinished"></translation>
+        <translation>Časový limit relace brzy vyprší</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="206"/>
         <source>The session will time out in 1 minute.
 Do you want to renew the session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas relace vyprší za 1 minutu.
+Chcete relaci obnovit?</translation>
     </message>
 </context>
 </TS>
