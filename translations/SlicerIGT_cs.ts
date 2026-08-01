@@ -1209,7 +1209,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Šablona modulu</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="26"/>
@@ -1219,72 +1219,72 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
         <source>From fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenční body „From“</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="65"/>
         <source>To fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Referenční body „To“</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="77"/>
         <source>Place fiducials by using position component of transforms. Parent transforms are applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umísťovat referenční body pomocí polohové složky transformací. Nadřazené transformace se použijí.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="80"/>
         <source>Place fiducials using transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Umísťovat referenční body pomocí transformací</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="140"/>
         <source>Click when tracked device tip is placed at a fiducial point</source>
-        <translation type="unfinished"></translation>
+        <translation>Klikněte, když je hrot sledovaného zařízení umístěn v referenčním bodě</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="143"/>
         <source>Place &apos;From&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Umístit „From“</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="153"/>
         <source>Place &apos;To&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Umístit „To“</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="169"/>
         <source>Registration result (From-&gt;To) transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformace výsledku registrace (From-&gt;To)</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="204"/>
         <source>Result transform type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ výsledné transformace:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="217"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuhá</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="233"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Podobnost</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="246"/>
         <source>Warping</source>
-        <translation type="unfinished"></translation>
+        <translation>Deformační</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="257"/>
         <source>Point Matching Method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metoda párování bodů:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="269"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vypočítat výstupní transformaci z referenčních bodů. Kliknutím na zaškrtávací políčko zapnete automatickou aktualizaci.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="272"/>
@@ -1294,27 +1294,27 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="285"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="301"/>
         <source>Preview transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhled transformace</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="83"/>
         <source>Register images, models, or any other nodes to each other using manually placed landmark points. Rigid, affine, and warping transforms are supported. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrujte obrázky, modely nebo jiné uzly vzájemně pomocí ručně umístěných orientačních bodů. Podporovány jsou tuhé, afinní a deformační transformace. Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;webu SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato práce byla financována organizací Cancer Care Ontario a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
         <source>Fiducial Registration Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Průvodce registrací referenčních bodů</translation>
     </message>
 </context>
 <context>
