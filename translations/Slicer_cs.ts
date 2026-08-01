@@ -14601,17 +14601,17 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="26"/>
         <source>qMRMLNodeAttributeTableView</source>
-        <translation type="unfinished">qMRMLNodeAttributeTableView</translation>
+        <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
         <source>Attribute Name</source>
-        <translation type="unfinished">Attribute Name</translation>
+        <translation>Název atributu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="74"/>
         <source>Attribute Value</source>
-        <translation type="unfinished">Attribute Value</translation>
+        <translation>Hodnota atributu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
@@ -14626,7 +14626,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="194"/>
         <source>There is already an attribute with the same name</source>
-        <translation type="unfinished">There is already an attribute with the same name</translation>
+        <translation>Atribut se stejným názvem již existuje</translation>
     </message>
 </context>
 <context>
@@ -16298,12 +16298,12 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="78"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="81"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Show 3D</translation>
+        <translation>Zobrazit 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="83"/>
         <source>Surface smoothing</source>
-        <translation type="unfinished">Surface smoothing</translation>
+        <translation>Vyhlazení povrchu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="84"/>
@@ -16313,7 +16313,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="89"/>
         <source>Smoothing factor</source>
-        <translation type="unfinished">Smoothing factor</translation>
+        <translation>Míra vyhlazení</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="93"/>
@@ -16343,7 +16343,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="113"/>
         <source>Higher value means stronger smoothing during closed surface representation conversion.</source>
-        <translation type="unfinished">Higher value means stronger smoothing during closed surface representation conversion.</translation>
+        <translation>Vyšší hodnota znamená silnější vyhlazení při převodu na reprezentaci uzavřeného povrchu.</translation>
     </message>
 </context>
 <context>
@@ -18192,22 +18192,22 @@ Zvolíte-li Ano pro vše, tato otázka se již nezobrazí a všichni potomci hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished">Layout Name:</translation>
+        <translation>Název rozvržení:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished">Name of the slice</translation>
+        <translation>Název řezu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="43"/>
         <source>View group:</source>
-        <translation type="unfinished">View group:</translation>
+        <translation>Skupina pohledů:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="50"/>
         <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-        <translation type="unfinished">Navigation and linked properties are synchronized in views that has the same group index.</translation>
+        <translation>Navigace a propojené vlastnosti se synchronizují v pohledech se stejným indexem skupiny.</translation>
     </message>
 </context>
 <context>
@@ -19369,22 +19369,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="14"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Akce</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="27"/>
         <source>Shortcuts</source>
-        <translation type="unfinished">Shortcuts</translation>
+        <translation>Klávesové zkratky</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="44"/>
         <source>More...</source>
-        <translation type="unfinished">More...</translation>
+        <translation>Další…</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="72"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-        <translation type="unfinished">%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
+        <translation>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
     </message>
 </context>
 <context>
@@ -19442,7 +19442,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="81"/>
         <source>Raise a window that lists commonly-used keyboard shortcuts.</source>
-        <translation type="unfinished">Raise a window that lists commonly-used keyboard shortcuts.</translation>
+        <translation>Otevřít okno se seznamem často používaných klávesových zkratek.</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="85"/>
@@ -19499,7 +19499,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Raise the training pages in your favorite web browser</source>
-        <translation type="unfinished">Raise the training pages in your favorite web browser</translation>
+        <translation>Otevřít výukové stránky ve vašem oblíbeném webovém prohlížeči</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
@@ -19525,17 +19525,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="127"/>
         <source>Slicer Publications</source>
-        <translation type="unfinished">Slicer Publications</translation>
+        <translation>Publikace o Sliceru</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="136"/>
         <source>Report error or request enhancement or new feature.</source>
-        <translation type="unfinished">Report error or request enhancement or new feature.</translation>
+        <translation>Nahlásit chybu nebo požádat o vylepšení či novou funkci.</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="141"/>
         <source>Provides a description of the Slicer effort and its support.</source>
-        <translation type="unfinished">Provides a description of the Slicer effort and its support.</translation>
+        <translation>Poskytuje popis projektu Slicer a jeho podpory.</translation>
     </message>
 </context>
 <context>
@@ -20043,22 +20043,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="14"/>
         <source>Cameras</source>
-        <translation type="unfinished">Cameras</translation>
+        <translation>Kamery</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="30"/>
         <source>Camera</source>
-        <translation type="unfinished">Camera</translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="39"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Pohled:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
-        <translation type="unfinished">Camera:</translation>
+        <translation>Kamera:</translation>
     </message>
 </context>
 <context>
@@ -20989,7 +20989,7 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
         <source>Report bugs and request enhancements</source>
-        <translation type="unfinished">Report bugs and request enhancements</translation>
+        <translation>Nahlásit chyby a požádat o vylepšení</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
@@ -20999,7 +20999,7 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
         <source>Recent log files:</source>
-        <translation type="unfinished">Recent log files:</translation>
+        <translation>Nedávné soubory protokolu:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
@@ -21021,12 +21021,12 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="103"/>
         <source>Edit Log</source>
-        <translation type="unfinished">Edit Log</translation>
+        <translation>Upravit protokol</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="135"/>
         <source>Log file content:</source>
-        <translation type="unfinished">Log file content:</translation>
+        <translation>Obsah souboru protokolu:</translation>
     </message>
 </context>
 <context>
@@ -21052,22 +21052,22 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="20"/>
         <source>Event Broker</source>
-        <translation type="unfinished">Event Broker</translation>
+        <translation>Zprostředkovatel událostí</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refresh</translation>
+        <translation>Obnovit</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
         <source>Reset Times</source>
-        <translation type="unfinished">Reset Times</translation>
+        <translation>Vynulovat časy</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
         <source>Show observations with Elapsed Times &gt; 0</source>
-        <translation type="unfinished">Show observations with Elapsed Times &gt; 0</translation>
+        <translation>Zobrazit pozorování s uplynulým časem &gt; 0</translation>
     </message>
 </context>
 <context>
@@ -21760,17 +21760,17 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="14"/>
         <source>Slicer Extensions Manager</source>
-        <translation type="unfinished">Slicer Extensions Manager</translation>
+        <translation>Správce rozšíření Sliceru</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation type="unfinished">Install Extensions</translation>
+        <translation>Nainstalovat rozšíření</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="261"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>Správce rozšíření</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="402"/>
@@ -21831,7 +21831,7 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>Kliknutím na OK počkáte na jejich dokončení, nebo volbou Ignorovat nyní zavřete Správce rozšíření.</translation>
     </message>
 </context>
 <context>
@@ -22164,22 +22164,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
         <source>When displaying the label map with the outline/not filled option, this controls the width of the outline.</source>
-        <translation type="unfinished">When displaying the label map with the outline/not filled option, this controls the width of the outline.</translation>
+        <translation>Při zobrazení mapy popisků s volbou obrys/nevyplněné určuje šířku obrysu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="35"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="64"/>
         <source>Lookup Table:</source>
-        <translation type="unfinished">Lookup Table:</translation>
+        <translation>Vyhledávací tabulka:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
         <source>Label Outline &amp;Thickness:</source>
-        <translation type="unfinished">Label Outline &amp;Thickness:</translation>
+        <translation>&amp;Tloušťka obrysu popisků:</translation>
     </message>
 </context>
 <context>
@@ -23903,17 +23903,17 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="14"/>
         <source>Add a 3D model</source>
-        <translation type="unfinished">Add a 3D model</translation>
+        <translation>Přidat 3D model</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="26"/>
         <source>Add Model file(s)</source>
-        <translation type="unfinished">Add Model file(s)</translation>
+        <translation>Přidat soubory modelu</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="48"/>
         <source>Add Model directory</source>
-        <translation type="unfinished">Add Model directory</translation>
+        <translation>Přidat adresář modelů</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="61"/>
@@ -23928,7 +23928,7 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="107"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modely</translation>
     </message>
 </context>
 <context>
@@ -26452,7 +26452,7 @@ Poznámka: Týká se to tabulek segmentů v modulech Editor segmentů a Segmenta
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Rozšíření</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
@@ -26487,22 +26487,22 @@ Poznámka: Týká se to tabulek segmentů v modulech Editor segmentů a Segmenta
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="97"/>
         <source>Extensions server URL:</source>
-        <translation type="unfinished">Extensions server URL:</translation>
+        <translation>Adresa URL serveru rozšíření:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="107"/>
         <source>Extensions frontend server URL:</source>
-        <translation type="unfinished">Extensions frontend server URL:</translation>
+        <translation>Adresa URL frontendu serveru rozšíření:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="117"/>
         <source>Extensions installation path:</source>
-        <translation type="unfinished">Extensions installation path:</translation>
+        <translation>Instalační cesta rozšíření:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="143"/>
         <source>Open Extensions Manager...</source>
-        <translation type="unfinished">Open Extensions Manager...</translation>
+        <translation>Otevřít Správce rozšíření…</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="154"/>
@@ -28163,7 +28163,7 @@ Poznámka: V %4 může dojít k nechtěné ztrátě dat.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="291"/>
         <source>Failed to import data to segmentation</source>
-        <translation type="unfinished">Failed to import data to segmentation</translation>
+        <translation>Nepodařilo se importovat data do segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
@@ -28173,7 +28173,7 @@ Poznámka: V %4 může dojít k nechtěné ztrátě dat.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Převod se nezdařil</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="354"/>
@@ -28215,7 +28215,7 @@ Navštivte modul Segmentace a zkuste pokročilou funkci vytvoření reprezentace
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1062"/>
         <source>Failed to export segmentation to labelmap node</source>
-        <translation type="unfinished">Failed to export segmentation to labelmap node</translation>
+        <translation>Nepodařilo se exportovat segmentaci do uzlu mapy popisků</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1080"/>
@@ -28235,7 +28235,7 @@ Segment pravděpodobně nelze převést na reprezentaci binární mapy popisků.
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1100"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1152"/>
         <source>Failed to export segments</source>
-        <translation type="unfinished">Failed to export segments</translation>
+        <translation>Nepodařilo se exportovat segmenty</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1120"/>
@@ -28250,7 +28250,7 @@ Navštivte modul Segmentace a zkuste pokročilou funkci vytvoření reprezentace
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1124"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1386"/>
         <source>Failed to export segmentation to models</source>
-        <translation type="unfinished">Failed to export segmentation to models</translation>
+        <translation>Nepodařilo se exportovat segmentaci do modelů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1130"/>
@@ -28829,17 +28829,17 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="197"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automaticky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="199"/>
         <source>Display the full intensity range of the volume.</source>
-        <translation type="unfinished">Display the full intensity range of the volume.</translation>
+        <translation>Zobrazit celý rozsah intenzit objemu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="365"/>
         <source>Default (WW=%1, WL=%2)</source>
-        <translation type="unfinished">Default (WW=%1, WL=%2)</translation>
+        <translation>Výchozí (WW=%1, WL=%2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="465"/>
@@ -28854,12 +28854,12 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="486"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>Rozměry:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="490"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Rozteč:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="497"/>
