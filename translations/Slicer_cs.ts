@@ -16424,37 +16424,37 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="20"/>
         <source>qMRMLSegmentsTableView</source>
-        <translation type="unfinished">qMRMLSegmentsTableView</translation>
+        <translation>qMRMLSegmentsTableView</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
         <source>No node selected</source>
-        <translation type="unfinished">No node selected</translation>
+        <translation>Není vybrán žádný uzel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="125"/>
         <source>Show/Hide not started segments</source>
-        <translation type="unfinished">Show/Hide not started segments</translation>
+        <translation>Zobrazit/skrýt nezahájené segmenty</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="148"/>
         <source>Show/Hide in progress segments</source>
-        <translation type="unfinished">Show/Hide in progress segments</translation>
+        <translation>Zobrazit/skrýt probíhající segmenty</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="171"/>
         <source>Show/Hide completed segments</source>
-        <translation type="unfinished">Show/Hide completed segments</translation>
+        <translation>Zobrazit/skrýt dokončené segmenty</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="194"/>
         <source>Show/Hide flagged segments</source>
-        <translation type="unfinished">Show/Hide flagged segments</translation>
+        <translation>Zobrazit/skrýt označené segmenty</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="567"/>
@@ -16489,12 +16489,12 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="635"/>
         <source>No node is selected</source>
-        <translation type="unfinished">No node is selected</translation>
+        <translation>Není vybrán žádný uzel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="640"/>
         <source>Empty segmentation</source>
-        <translation type="unfinished">Empty segmentation</translation>
+        <translation>Prázdná segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1188"/>
@@ -16534,7 +16534,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1242"/>
         <source>Show in 3D</source>
-        <translation type="unfinished">Show in 3D</translation>
+        <translation>Zobrazit ve 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1249"/>
@@ -16564,7 +16564,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1361"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1363"/>
@@ -17681,18 +17681,18 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="14"/>
         <source>Table View Controller</source>
-        <translation type="unfinished">Table View Controller</translation>
+        <translation>Ovladač zobrazení tabulky</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
         <source>Allow table editing</source>
-        <translation type="unfinished">Allow table editing</translation>
+        <translation>Povolit úpravy tabulky</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="83"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="94"/>
@@ -17710,43 +17710,43 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="90"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Vložit</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="97"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+        <translation>Vygenerovat interaktivní graf na základě uživatelského výběru sloupců tabulky.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="173"/>
         <source>Add column</source>
-        <translation type="unfinished">Add column</translation>
+        <translation>Přidat sloupec</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="187"/>
         <source>Delete column</source>
-        <translation type="unfinished">Delete column</translation>
+        <translation>Odstranit sloupec</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="201"/>
         <source>Lock first column</source>
-        <translation type="unfinished">Lock first column</translation>
+        <translation>Uzamknout první sloupec</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="234"/>
         <source>Add row</source>
-        <translation type="unfinished">Add row</translation>
+        <translation>Přidat řádek</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="248"/>
         <source>Delete row</source>
-        <translation type="unfinished">Delete row</translation>
+        <translation>Odstranit řádek</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
         <source>Lock first row</source>
-        <translation type="unfinished">Lock first row</translation>
+        <translation>Uzamknout první řádek</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="369"/>
