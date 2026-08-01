@@ -2055,12 +2055,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="84"/>
         <source>Harden transform to selected nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trvale aplikovat transformaci na vybrané uzly.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="87"/>
         <source>Harden</source>
-        <translation type="unfinished"></translation>
+        <translation>Trvale aplikovat</translation>
     </message>
 </context>
 <context>
@@ -2703,67 +2703,67 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="129"/>
         <source>Nearest neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Nejbližší soused</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="130"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Lineární</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="132"/>
         <source>Full optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Úplná optimalizace</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="133"/>
         <source>Partial optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Částečná optimalizace</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="134"/>
         <source>No optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez optimalizace</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="137"/>
         <source>GPU acceleration (OpenCL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcelerace GPU (OpenCL)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="140"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Nejnovější</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="141"/>
         <source>Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximum</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="142"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Průměr</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="143"/>
         <source>Importance mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Maska důležitosti</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="213"/>
         <source>Volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekonstrukce svazku</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="215"/>
         <source>Reconstructing volume...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekonstruuje se svazek...</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="316"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="321"/>
@@ -2773,7 +2773,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="330"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít</translation>
     </message>
 </context>
 <context>
@@ -2781,37 +2781,37 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="20"/>
         <source>Reslicing Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Reslicing Driver</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="31"/>
         <source>Advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilé možnosti</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="40"/>
         <source>Show advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit pokročilé možnosti</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="75"/>
         <source>This module allows to set reslicing planes by using linear transforms nodes or positions/orientations in image nodes. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento modul umožňuje nastavit roviny přeřezávání pomocí uzlů lineárních transformací nebo poloh či orientací v obrazových uzlech. Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;webu SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="84"/>
         <source>This work was supported by NIH National Center for Image Guided Therapy, and National Alliance for Medical Image Computing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuto práci podpořily NIH National Center for Image Guided Therapy a National Alliance for Medical Image Computing.</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
         <source>Volume Reslice Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume Reslice Driver</translation>
     </message>
 </context>
 <context>
