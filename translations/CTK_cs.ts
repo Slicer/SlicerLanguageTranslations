@@ -582,7 +582,7 @@ z důvodu:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="20"/>
         <source>ctkDICOMAppWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>ctkDICOMAppWidget</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="38"/>
@@ -592,88 +592,88 @@ z důvodu:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="72"/>
         <source>LocalDatabase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Místní databáze:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="108"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="302"/>
         <source>Previous study</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí vyšetření</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="324"/>
         <source>Previous series</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="346"/>
         <source>Previous image</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí snímek</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="368"/>
         <source>Next image</source>
-        <translation type="unfinished"></translation>
+        <translation>Další snímek</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="390"/>
         <source>Next series</source>
-        <translation type="unfinished"></translation>
+        <translation>Další série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="412"/>
         <source>Next study</source>
-        <translation type="unfinished"></translation>
+        <translation>Další vyšetření</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="448"/>
         <source>auto-play</source>
-        <translation type="unfinished"></translation>
+        <translation>automatické přehrávání</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="475"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="313"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="478"/>
         <source>Import a DICOM file or folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovat soubor nebo složku DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="486"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="489"/>
         <source>Export selected study/series to a DICOM folder (not yet available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat vybrané vyšetření či sérii do složky DICOM (zatím není k dispozici)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="494"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotaz</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="497"/>
         <source>Query and Retrieve DICOM studies from a DICOM node</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotázat se na vyšetření DICOM a načíst je z uzlu DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="505"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="508"/>
         <source>Send DICOM Studies to a DICOM node (not yet available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat vyšetření DICOM do uzlu DICOM (zatím není k dispozici)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="516"/>
@@ -683,12 +683,12 @@ z důvodu:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="519"/>
         <source>Remove from database</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat z databáze</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="149"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizace schématu DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="149"/>
@@ -700,22 +700,22 @@ z důvodu:
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="154"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="196"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializace…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="191"/>
         <source>DICOM Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="305"/>
         <source>Copy on import</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat při importu</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="314"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovat soubory DICOM z adresáře…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="682"/>
@@ -727,12 +727,18 @@ z důvodu:
 %4 New Instances
 </source>
         <extracomment>Arguments represents the number of new patients, studies, series and instances</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Import adresáře dokončen.
+
+%1 nových pacientů
+%2 nových vyšetření
+%3 nových sérií
+%4 nových instancí
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="688"/>
         <source>DICOM Directory Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import adresáře DICOM</translation>
     </message>
 </context>
 <context>
@@ -741,12 +747,12 @@ z důvodu:
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"/>
         <source>DICOM Browser</source>
         <oldsource>ctkDICOMBrowser</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Prohlížeč DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"/>
         <source>DICOM Browser Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel nástrojů prohlížeče DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="69"/>
@@ -756,27 +762,27 @@ z důvodu:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="76"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat databázi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="83"/>
         <source>Create new database</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit novou databázi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="90"/>
         <source>Select database folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat složku databáze</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="144"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informace</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="151"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
@@ -788,48 +794,48 @@ z důvodu:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="190"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Průběh</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="219"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="327"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="222"/>
         <source>Import a DICOM file or folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovat soubor nebo složku DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="230"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="233"/>
         <source>Export selected series to a DICOM folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat vybranou sérii do složky DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="238"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotaz</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="241"/>
         <source>Query and retrieve studies from a DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotázat se na vyšetření a načíst je ze serveru DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="249"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="252"/>
         <source>Send selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat vybranou sérii na server DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
@@ -839,86 +845,86 @@ z důvodu:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
         <source>Remove selected series from database</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat vybranou sérii z databáze</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="271"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Opravit</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="274"/>
         <source>Check whether all the files associated with images in the local Database are available on the disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověřit, zda jsou na disku dostupné všechny soubory spojené se snímky v místní databázi.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="213"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizace schématu DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="216"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializace…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="307"/>
         <source>Add Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat odkaz</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="308"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="310"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Určete, zda se mají soubory zkopírovat do adresáře místní databáze, nebo zda se mají vytvořit pouze odkazy.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="312"/>
         <source>Import Directory Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim importu adresáře:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="328"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovat soubory DICOM z adresáře…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="333"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata souboru DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="526"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Novou databázi se ve složce %1 nepodařilo vytvořit.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="582"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="610"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ve složce %1 nebyla nalezena platná databáze DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="630"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ve složce %1 byla nalezena nekompatibilní verze databáze DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="772"/>
         <source>Database Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprava databáze</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="802"/>
         <source>All the files in the local database are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny soubory v místní databázi jsou dostupné.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
@@ -928,17 +934,21 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Soubory následující série nejsou na disku dostupné:
+Jméno pacienta: %1
+Popis vyšetření: %2
+Popis série: %3
+Chcete sérii odebrat z databáze DICOM?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1053"/>
         <source>Do you want to delete the following selected items?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete odstranit následující vybrané položky?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1074"/>
         <source>(and %1 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>(a další: %1)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1106"/>
@@ -953,81 +963,81 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1212"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1290"/>
         <source>View DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit metadata DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1141"/>
         <source>View DICOM metadata of %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit metadata DICOM %1 vybraných pacientů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1149"/>
         <source>Delete %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit %1 vybraných pacientů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1154"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1228"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1306"/>
         <source>Export to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do systému souborů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1157"/>
         <source>Export %1 selected patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat %1 vybraných pacientů do systému souborů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1162"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1236"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1314"/>
         <source>Send to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat na server DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1165"/>
         <source>Send %1 selected patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat %1 vybraných pacientů na server DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1215"/>
         <source>View DICOM metadata of %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit metadata DICOM %1 vybraných vyšetření</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1223"/>
         <source>Delete %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit %1 vybraných vyšetření</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1231"/>
         <source>Export %1 selected studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat %1 vybraných vyšetření do systému souborů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1239"/>
         <source>Send %1 selected studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat %1 vybraných vyšetření na server DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1293"/>
         <source>View DICOM metadata of %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit metadata DICOM %1 vybraných sérií</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1301"/>
         <source>Delete %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit %1 vybraných sérií</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1309"/>
         <source>Export %1 selected series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat %1 vybraných sérií do systému souborů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1317"/>
         <source>Send %1 selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat %1 vybraných sérií na server DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1401"/>
@@ -1037,12 +1047,16 @@ Do you want to remove the series from the DICOM database?</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cílový adresář exportu nelze vytvořit:
+
+%1
+
+Export se zastavuje.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1415"/>
         <source>DICOM Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Export DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1415"/>
@@ -1053,7 +1067,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1421"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Exportuje se série %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1438"/>
@@ -1065,7 +1079,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zdrojový soubor exportu nebyl nalezen:
+
+%1
+
+Export se zastavuje.
+
+Chybu lze opravit pomocí funkce Opravit.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1451"/>
@@ -1075,7 +1095,11 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cílový soubor exportu již existuje:
+
+%1
+
+Export se zastavuje.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1466"/>
@@ -1089,18 +1113,26 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se zkopírovat
+
+%1
+
+do
+
+%2
+
+Export se zastavuje.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1495"/>
         <source>Updating database displayed fields...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizují se zobrazovaná pole databáze…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1769"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Import dokončen: přidáno %1 pacientů, %2 vyšetření, %3 sérií a %4 instancí.</translation>
     </message>
 </context>
 <context>
