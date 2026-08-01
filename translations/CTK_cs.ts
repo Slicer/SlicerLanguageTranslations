@@ -1965,7 +1965,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="14"/>
         <source>DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
@@ -1975,12 +1975,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="44"/>
         <source>Copy the file full path to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat úplnou cestu k souboru do schránky.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="47"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat cestu</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
@@ -1990,37 +1990,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozbalit vše</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="82"/>
         <source>Collapse all</source>
-        <translation type="unfinished"></translation>
+        <translation>Sbalit vše</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="89"/>
         <source>Copy to clipboard metadata of this file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat metadata tohoto souboru do schránky</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="92"/>
         <source>Copy metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat metadata</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="99"/>
         <source>Copy to clipboard metadata of all files in the series</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat metadata všech souborů v sérii do schránky</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="102"/>
         <source>Copy all files metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat metadata všech souborů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="116"/>
         <source>Double-click to show DICOM tag definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojitým kliknutím zobrazíte definici značky DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="123"/>
@@ -2030,7 +2030,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="130"/>
         <source>Show image thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit náhled obrázku</translation>
     </message>
 </context>
 <context>
@@ -2135,24 +2135,24 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="20"/>
         <source>DICOM Query/Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotaz/načtení DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="26"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="75"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotaz</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="54"/>
         <source>Search Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti hledání</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="91"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="112"/>
         <source>Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="122"/>
@@ -2162,7 +2162,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
         <source>Query DICOM servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotázat servery DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
@@ -2174,39 +2174,40 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="210"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="309"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializace...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Retrieve from DICOM servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst ze serverů DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="343"/>
         <source>Retrieving:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítání:
+%1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="409"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="444"/>
         <source>Query Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotaz a načtení</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="409"/>
         <source>Retrieve failed.  Keep trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Načtení se nezdařilo. Pokračovat v pokusech?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="439"/>
         <source>Retrieve Process Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Proces načítání dokončen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="442"/>
         <source>Retrieve Process Canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Proces načítání zrušen</translation>
     </message>
 </context>
 <context>
@@ -3503,7 +3504,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="25"/>
         <source>Application Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta k aplikaci:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="32"/>
@@ -3513,42 +3514,42 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="56"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="63"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="70"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavit</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="77"/>
         <source>Plugin Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav pluginu:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="90"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="97"/>
         <source>Process Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav procesu:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="110"/>
         <source>Not running</source>
-        <translation type="unfinished"></translation>
+        <translation>Neběží</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="134"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozastavit</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="141"/>
@@ -3558,7 +3559,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="172"/>
         <source>Show Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit zprávy</translation>
     </message>
 </context>
 <context>
@@ -5193,61 +5194,65 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSettingsDialog.ui" line="14"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="78"/>
         <source>Apply settings and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít nastavení a zavřít dialogové okno.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="80"/>
         <source>Reject settings changes and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahodit změny nastavení a zavřít dialogové okno.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="82"/>
         <source>Reset settings to their values when the dialog opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit hodnoty nastavení při otevření dialogového okna</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="84"/>
         <source>Restore settings to their default values.To cancel a &quot;Restore&quot;, you can &quot;Reset&quot; the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit výchozí hodnoty nastavení. Obnovení zrušíte volbou „Obnovit hodnoty nastavení při otevření dialogového okna“.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
         <source>Restart required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Je vyžadováno restartování!</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="172"/>
         <source>The application must be restarted to take into account the new values of the following properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby se nové hodnoty následujících vlastností projevily, je nutné aplikaci restartovat:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="301"/>
         <source>Restart required</source>
-        <translation type="unfinished"></translation>
+        <translation>Je vyžadováno restartování</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="302"/>
         <source>For settings to be taken into account, the application
 must be restarted. Restart the application now ?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Aby se nastavení projevilo, je nutné aplikaci
+restartovat. Restartovat aplikaci nyní?
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="410"/>
         <source>Restore all settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit všechna nastavení</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="411"/>
         <source>Are you sure you want to reset
 all settings to their default values?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Opravdu chcete obnovit
+výchozí hodnoty všech nastavení?
+</translation>
     </message>
 </context>
 <context>
