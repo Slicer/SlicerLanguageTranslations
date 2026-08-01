@@ -32,7 +32,7 @@
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="39"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="52"/>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Tlačítko</translation>
     </message>
 </context>
 <context>
@@ -52,7 +52,7 @@
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="69"/>
         <source>Malformed Response from {endpoint}</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná odpověď z {endpoint}</translation>
     </message>
 </context>
 <context>
@@ -60,12 +60,12 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="20"/>
         <source>TutorialEditor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor návodů</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="29"/>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotovat</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="36"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="34"/>
         <source>Institutional affiliation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Institucionální příslušnost:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="41"/>
@@ -116,22 +116,22 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="96"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>TutorialMaker – anotátor</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="65"/>
         <source>The Annotations file has been modified. Do you want to save it before closing the Annotator tool?</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor anotací byl změněn. Chcete jej před zavřením nástroje Anotátor uložit?</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="108"/>
         <source>Slide Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Název snímku</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="112"/>
         <source>Slide Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Popis snímku</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="176"/>
@@ -171,72 +171,72 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="201"/>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Šipka</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="204"/>
         <source>Arrow text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text šipky</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="210"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="225"/>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation>barva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="229"/>
         <source> thick.</source>
-        <translation type="unfinished"></translation>
+        <translation> tl.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="301"/>
         <source>Select a JSON file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat soubor JSON</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="303"/>
         <source>JSON Files (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubory JSON (*.json)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="336"/>
         <source>Annotations saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotace uloženy</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="339"/>
         <source>Exception while trying to save annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Výjimka při pokusu o uložení anotací</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1057"/>
         <source>Slide Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerie snímků</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1182"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Poděkování</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1206"/>
         <source>Section Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Název oddílu</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1219"/>
         <source>Text Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpis textu</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialAnnotator.py" line="1229"/>
         <source>Text Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavní text</translation>
     </message>
 </context>
 <context>
@@ -244,12 +244,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="15"/>
         <source>Tutorial Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor návodů</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="101"/>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavit záznam</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="106"/>
@@ -259,7 +259,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="152"/>
         <source>Widget Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotátor widgetů</translation>
     </message>
 </context>
 <context>
@@ -272,17 +272,17 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="38"/>
         <source>Tutorial Making</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvorba návodů</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="47"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="54"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="61"/>
@@ -292,50 +292,52 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="68"/>
         <source>Export Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat snímky obrazovky</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="78"/>
         <source>Fetch From Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst z GitHubu</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="91"/>
         <source>Capture Screenshots</source>
         <oldsource>Capture screenshots</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pořídit snímky obrazovky</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="100"/>
         <source>Edit Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit anotace</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="107"/>
         <source>Resume Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit anotace</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="119"/>
         <source>Generate Tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Vygenerovat návod</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="129"/>
         <source>Create a new Tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový návod</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="30"/>
         <source>Tutorial Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvorba návodů</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="53"/>
         <source>
         The development of this module has been made possible in part by a grant from the Chan Zuckerberg Initiative
         </source>
-        <translation type="unfinished"></translation>
+        <translation>
+        Vývoj tohoto modulu byl částečně umožněn grantem iniciativy Chan Zuckerberg
+        </translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="238"/>
@@ -343,12 +345,15 @@
 The window may appear unresponsive but the process is running in the background.
 This process will take some minutes.
 Click on &quot;OK&quot; to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítají se návody z GitHubu.
+Okno se může jevit jako nereagující, proces však běží na pozadí.
+Tento proces potrvá několik minut.
+Pokračujte kliknutím na „OK“.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="241"/>
         <source>Please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Čekejte prosím</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="321"/>
@@ -356,77 +361,83 @@ Click on &quot;OK&quot; to continue.</source>
 
 Do you want to continue with the tutorial capture anyway?
 (The scene will be cleared)</source>
-        <translation type="unfinished"></translation>
+        <translation>Scéna nebyla uložena.
+
+Chcete přesto pokračovat v pořizování návodu?
+(Scéna bude vymazána)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="324"/>
         <source>Continue without saving?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokračovat bez uložení?</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="353"/>
         <source>Preparing tutorial capture...</source>
-        <translation type="unfinished"></translation>
+        <translation>Připravuje se pořizování návodu...</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="414"/>
         <source>Captured Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Pořízený návod: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="431"/>
         <source>Failed to capture tutorial, please send this error on our GitHub Issue page:
 {err}</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se pořídit návod. Odešlete prosím tuto chybu na naši stránku GitHub Issues:
+{err}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="463"/>
         <source>You don&apos;t have any annotations to export.
 Please annotate your screenshots first using &quot;Edit Annotations&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nemáte žádné anotace k exportu.
+Nejprve anotujte snímky obrazovky pomocí možnosti „Upravit anotace“.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="465"/>
         <source>No Annotations Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyly nalezeny žádné anotace</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="477"/>
         <source>Failed to generate tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vygenerovat návod</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="531"/>
         <location filename="TutorialMaker/TutorialMaker.py" line="556"/>
         <source>Before editing annotations you should run the capture of the screenshots.
 Select a tutorial and click on &quot;Capture Screenshots&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Před úpravou anotací nejprve pořiďte snímky obrazovky.
+Vyberte návod a klikněte na „Pořídit snímky obrazovky“.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="533"/>
         <location filename="TutorialMaker/TutorialMaker.py" line="558"/>
         <source>No Screenshots Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyly nalezeny žádné snímky obrazovky</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="581"/>
         <source>Failed to fetch tutorials from {repo}</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se načíst návody z {repo}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="506"/>
         <source>Tutorial Generated</source>
-        <translation type="unfinished"></translation>
+        <translation>Návod vygenerován</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="90"/>
         <source>Version Build Date: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum sestavení verze: {}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="356"/>
         <source>Screenshot Capture in Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Pořizování snímků obrazovky probíhá</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="386"/>
@@ -435,38 +446,43 @@ Select a tutorial and click on &quot;Capture Screenshots&quot;.</source>
 Step {current} of {total}
 
 Please do not use the mouse or keyboard to interact with 3D Slicer until the screenshot capture is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pořizují se snímky obrazovky návodu...
+
+Krok {current} z {total}
+
+Dokud se pořizování snímků obrazovky nedokončí, nepoužívejte myš ani klávesnici k práci s 3D Slicerem.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="413"/>
         <source>Screenshot Capture Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pořizování snímků obrazovky dokončeno</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="506"/>
         <source>Generated Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Vygenerovaný návod: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="640"/>
         <source>No Tests Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyly nalezeny žádné testy</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="687"/>
         <source>Tutorial Execution Failed: {tutorial_name} - Error: {e}. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Spuštění návodu se nezdařilo: {tutorial_name} – chyba: {e}. 
+</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="690"/>
         <source>Tutorial {tutorial_name} tested</source>
-        <translation type="unfinished"></translation>
+        <translation>Návod {tutorial_name} byl otestován</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="693"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Spuštění {tutorials_failed} návodů se nezdařilo. Chyby: {error_message}</translation>
     </message>
 </context>
 <context>
@@ -476,27 +492,27 @@ Please do not use the mouse or keyboard to interact with 3D Slicer until the scr
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="317"/>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="463"/>
         <source>Error: Load an image first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba: Nejprve načtěte obrázek.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="829"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>Poděkování</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="835"/>
         <source>Section Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Název oddílu</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="840"/>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Název</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="841"/>
         <source>Body text</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavní text</translation>
     </message>
 </context>
 <context>
@@ -504,47 +520,47 @@ Please do not use the mouse or keyboard to interact with 3D Slicer until the scr
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="445"/>
         <source>Opens the Save Data dialog to save your work before the scene is cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevírá dialog Uložit data k uložení práce před vymazáním scény</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="449"/>
         <source>Ensures consistent screenshot dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Zajišťuje konzistentní rozměry snímků obrazovky</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="422"/>
         <source>Screenshot Capture Environment Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení prostředí pro pořizování snímků obrazovky</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="430"/>
         <source>&lt;b&gt;⚠ Warning:&lt;/b&gt; The current scene data will be cleared before starting the screenshots capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;⚠ Varování:&lt;/b&gt; Data aktuální scény budou před zahájením pořizování snímků obrazovky vymazána.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="443"/>
         <source>Save current scene data</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit data aktuální scény</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="447"/>
         <source>Maximize 3D Slicer window for screen capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximalizovat okno 3D Sliceru pro pořizování snímků obrazovky</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="451"/>
         <source>Close Python console and Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít konzoli Pythonu a okno protokolu chyb</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="453"/>
         <source>Hides developer tools for cleaner screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryje nástroje pro vývojáře pro čistší snímky obrazovky</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialUtils.py" line="974"/>
         <source>Modules: {dependencies} not found. Please install the required modules before running the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Moduly {dependencies} nebyly nalezeny. Před spuštěním návodu nainstalujte požadované moduly.</translation>
     </message>
 </context>
 <context>
@@ -552,12 +568,12 @@ Please do not use the mouse or keyboard to interact with 3D Slicer until the scr
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Testing/AIBasedSegmentationIn3DSlicer.py" line="233"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentace</translation>
     </message>
 </context>
 </TS>
