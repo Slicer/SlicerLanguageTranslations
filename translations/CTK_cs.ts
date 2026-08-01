@@ -150,7 +150,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="14"/>
         <source>CTK Command Line Module Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Průzkumník modulů příkazového řádku CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="53"/>
@@ -170,12 +170,12 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="106"/>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Moduly</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="146"/>
         <source>Progress Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informace o průběhu</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="195"/>
@@ -185,22 +185,22 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="266"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstup</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="297"/>
         <source>XML Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola XML</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="322"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Zkontrolovat</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="369"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="372"/>
@@ -220,7 +220,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="387"/>
         <source>Cancel module</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit modul</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="390"/>
@@ -230,7 +230,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="395"/>
         <source>&amp;Load Modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Načíst moduly…</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="398"/>
@@ -245,12 +245,12 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="406"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukončit</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="418"/>
         <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pozastavit</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="421"/>
@@ -265,17 +265,17 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="429"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Možnosti…</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="434"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="437"/>
         <source>Reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit výchozí hodnoty</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="442"/>
@@ -285,7 +285,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="447"/>
         <source>Reload Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Znovu načíst moduly</translation>
     </message>
 </context>
 <context>
@@ -3648,102 +3648,102 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="29"/>
         <source>CTK Metatype Service - CommonTK Implementation</source>
-        <translation type="unfinished"></translation>
+        <translation>Služba metatypů CTK – implementace CommonTK</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="31"/>
         <source>Unexpected element %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekávaný prvek %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="32"/>
         <source>Unexpected text %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekávaný text %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
         <source>Missing attribute %1 in tag %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chybí atribut %1 ve značce %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="34"/>
         <source>Object Class Definition ID not found %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ID definice třídy objektu %1 nebylo nalezeno.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="35"/>
         <source>Default value cannot be null when cardinality is zero.</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí hodnota nesmí být null, pokud je kardinalita nula.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
         <source>Missing element %1 (Reference ID = %2.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chybí prvek %1 (ID odkazu = %2).</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="38"/>
         <source>Unexpected exception %1 with message %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekávaná výjimka %1 se zprávou %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="39"/>
         <source>Cannot validate an empty value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prázdnou hodnotu nelze ověřit.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="40"/>
         <source>Value %1 is out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnota %1 je mimo povolený rozsah.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="41"/>
         <source>Value %1 is out of Option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnota %1 není součástí možnosti.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="42"/>
         <source>Found too many values in %1 when expecting %2 values.</source>
-        <translation type="unfinished"></translation>
+        <translation>V položce %1 bylo nalezeno příliš mnoho hodnot, očekává se %2 hodnot.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="43"/>
         <source>Cannot set Option labels or values empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Popisky ani hodnoty možnosti nelze nastavit jako prázdné.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="44"/>
         <source>Labels and Values of Option have different sizes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Popisky a hodnoty možnosti mají různou velikost.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="45"/>
         <source>Option value %1 is invalid because of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnota možnosti %1 není platná kvůli %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="46"/>
         <source>Defaults value %1 is invalid because of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí hodnota %1 není platná kvůli %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="48"/>
         <source>Plugin(ID=&quot;%1&quot;, name=&quot;%2&quot;) has no MetaData file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul plug-in (ID = „%1“, název = „%2“) nemá soubor metadat.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="49"/>
         <source>OCD(ID=&quot;%1&quot;) cannot support this locale &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>OCD (ID = „%1“) nepodporuje toto národní prostředí „%2“.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="50"/>
         <source>The Tokenizer got invalid data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tokenizér obdržel neplatná data.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="51"/>
         <source>Plugin %1 with ID %2 provided a ctkMetaTypeProvider with an invalid property. Property %3 with value %4 was not of the expected type (QString or QStringList) and will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul plug-in %1 s ID %2 poskytl ctkMetaTypeProvider s neplatnou vlastností. Vlastnost %3 s hodnotou %4 neměla očekávaný typ (QString nebo QStringList) a bude ignorována.</translation>
     </message>
 </context>
 <context>
