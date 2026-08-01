@@ -16074,54 +16074,54 @@ Chcete segmentaci oříznout?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="14"/>
         <source>SegmentationGeometryWidget</source>
-        <translation type="unfinished">SegmentationGeometryWidget</translation>
+        <translation>SegmentationGeometryWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="59"/>
         <source>Source geometry:</source>
-        <translation type="unfinished">Source geometry:</translation>
+        <translation>Zdrojová geometrie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="83"/>
         <source>Showing current segmentation labelmap geometry. Click here to change</source>
-        <translation type="unfinished">Showing current segmentation labelmap geometry. Click here to change</translation>
+        <translation>Zobrazuje aktuální geometrii mapy popisků segmentace. Kliknutím ji změníte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="90"/>
         <source>Volume spacing options</source>
-        <translation type="unfinished">Volume spacing options</translation>
+        <translation>Možnosti rozestupu objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="114"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="124"/>
         <source>Split each voxel of the volume to this many voxels along each direction. Useful when increasing the resolution is needed</source>
-        <translation type="unfinished">Split each voxel of the volume to this many voxels along each direction. Useful when increasing the resolution is needed</translation>
+        <translation>Rozdělit každý voxel objemu na tento počet voxelů v každém směru. Užitečné, když je třeba zvýšit rozlišení</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="117"/>
         <source>Oversampling factor:</source>
-        <translation type="unfinished">Oversampling factor:</translation>
+        <translation>Faktor nadvzorkování:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="143"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="153"/>
         <source>Resample the volume to have isotropic spacing, which means the voxels will be cubes. Use smallest spacing. Useful if the volume has elongated voxels.</source>
-        <translation type="unfinished">Resample the volume to have isotropic spacing, which means the voxels will be cubes. Use smallest spacing. Useful if the volume has elongated voxels.</translation>
+        <translation>Převzorkovat objem na izotropní rozestup, což znamená, že voxely budou krychle. Použije se nejmenší rozestup. Užitečné, má-li objem protáhlé voxely.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="146"/>
         <source>Isotropic spacing:</source>
-        <translation type="unfinished">Isotropic spacing:</translation>
+        <translation>Izotropní rozestup:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="169"/>
         <source>Segmentation labelmap geometry</source>
-        <translation type="unfinished">Segmentation labelmap geometry</translation>
+        <translation>Geometrie mapy popisků segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="235"/>
         <source>Directions:</source>
-        <translation type="unfinished">Directions:</translation>
+        <translation>Směry:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="332"/>
@@ -16136,17 +16136,17 @@ Chcete segmentaci oříznout?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="193"/>
         <source>Origin:</source>
-        <translation type="unfinished">Origin:</translation>
+        <translation>Počátek:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="295"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Rozestup:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="302"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>Rozměry:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="169"/>
@@ -17477,17 +17477,17 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="71"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Žádné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="127"/>
         <source>Node</source>
-        <translation type="unfinished">Node</translation>
+        <translation>Uzel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
@@ -17497,66 +17497,66 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
         <source>Node name and type</source>
-        <translation type="unfinished">Node name and type</translation>
+        <translation>Název a typ uzlu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node description</source>
-        <translation type="unfinished">Node description</translation>
+        <translation>Popis uzlu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
         <source>Show/hide branch or node</source>
-        <translation type="unfinished">Show/hide branch or node</translation>
+        <translation>Zobrazit/skrýt větev nebo uzel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
         <source>Node color</source>
-        <translation type="unfinished">Node color</translation>
+        <translation>Barva uzlu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="138"/>
         <source>Applied transform</source>
-        <translation type="unfinished">Applied transform</translation>
+        <translation>Použitá transformace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="139"/>
         <source>Node ID</source>
-        <translation type="unfinished">Node ID</translation>
+        <translation>ID uzlu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1071"/>
         <source>No subject hierarchy role assigned! Please report error</source>
-        <translation type="unfinished">No subject hierarchy role assigned! Please report error</translation>
+        <translation>Není přiřazena role hierarchie objektů. Nahlaste prosím chybu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1236"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1246"/>
         <source>Apply transform to children</source>
-        <translation type="unfinished">Apply transform to children</translation>
+        <translation>Použít transformaci na potomky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1250"/>
         <source>This node is not transformable</source>
-        <translation type="unfinished">This node is not transformable</translation>
+        <translation>Tento uzel nelze transformovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1449"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+        <translation>Některé uzly ve větvi jsou již transformovány</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1450"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+        <translation>Chcete před nastavením nové transformace zpevnit všechny již použité transformace?
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+  Poznámka: Pokud zvolíte Ne, použitá transformace se jednoduše nahradí.</translation>
     </message>
 </context>
 <context>
