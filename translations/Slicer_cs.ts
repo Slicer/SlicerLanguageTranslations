@@ -1203,7 +1203,7 @@ POZNÁMKA: Doporučuje se použít místo této volby samplingPercentage. Je-li 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">Vstupní objem obrazu</translation>
+        <translation>Vstupní objem obrazu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
@@ -1273,17 +1273,17 @@ POZNÁMKA: Doporučuje se použít místo této volby samplingPercentage. Je-li 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished">ROIAuto Velikost dilatace</translation>
+        <translation>ROIAuto Velikost dilatace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished">Typ výstupního obrazu Pixel</translation>
+        <translation>Typ pixelu výstupního obrazu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">Počet vláken</translation>
+        <translation>Počet vláken</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
@@ -1488,7 +1488,7 @@ POZNÁMKA: Doporučuje se použít místo této volby samplingPercentage. Je-li 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished">Mód interpolace</translation>
+        <translation>Režim interpolace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
@@ -1534,12 +1534,12 @@ POZNÁMKA: Doporučuje se použít místo této volby samplingPercentage. Je-li 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished">Nejbližší soused</translation>
+        <translation>Nejbližší soused</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished">PřevzorkovatNaMístě</translation>
+        <translation>PřevzorkovatNaMístě</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
@@ -1559,7 +1559,7 @@ POZNÁMKA: Doporučuje se použít místo této volby samplingPercentage. Je-li 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
         <source>Cosine</source>
-        <translation type="unfinished">kosinus</translation>
+        <translation>kosinus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
@@ -1599,7 +1599,7 @@ POZNÁMKA: Doporučuje se použít místo této volby samplingPercentage. Je-li 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">Počet vláken</translation>
+        <translation>Počet vláken</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
@@ -1661,7 +1661,7 @@ Tento program je užitečný pro podvzorkování obrazu konstantním měřítkem
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished">Výstupní obrázek</translation>
+        <translation>Výstupní obrázek</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
@@ -1750,7 +1750,7 @@ Tento program je užitečný pro podvzorkování obrazu konstantním měřítkem
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">Vstupní parametry</translation>
+        <translation>Vstupní parametry</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
@@ -1761,7 +1761,7 @@ Tento program je užitečný pro podvzorkování obrazu konstantním měřítkem
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation type="unfinished">Výstupní obrázek</translation>
+        <translation>Výstupní obrázek</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
@@ -1806,7 +1806,7 @@ Tento program je užitečný pro podvzorkování obrazu konstantním měřítkem
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
@@ -1900,7 +1900,7 @@ Umožňuje přetypování na stejný typ jako vstupní objem.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
@@ -1910,17 +1910,17 @@ Umožňuje přetypování na stejný typ jako vstupní objem.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
@@ -1935,7 +1935,7 @@ Umožňuje přetypování na stejný typ jako vstupní objem.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
         <source>Filter Settings</source>
-        <translation type="unfinished">Možnosti Filtrování</translation>
+        <translation>Možnosti Filtrování</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
@@ -1956,12 +1956,12 @@ Umožňuje přetypování na stejný typ jako vstupní objem.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished">Znak</translation>
+        <translation>Znak</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished">Krátký</translation>
+        <translation>Krátký</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
@@ -2004,7 +2004,7 @@ Umožňuje přetypování na stejný typ jako vstupní objem.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
@@ -2034,22 +2034,22 @@ Umožňuje přetypování na stejný typ jako vstupní objem.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Vstupní objem 1</translation>
+        <translation>Vstupní objem 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Vstupní objem 2</translation>
+        <translation>Vstupní objem 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
@@ -2698,7 +2698,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Tento příkazový modul byl odvozen z modulu Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation>Tento příkazový modul byl odvozen z modulu Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
@@ -2750,17 +2750,17 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
@@ -3065,7 +3065,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
@@ -3344,7 +3344,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished">Výstupní transformace</translation>
+        <translation>Výstupní transformace</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
@@ -3677,7 +3677,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
@@ -3687,7 +3687,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
         <source>Output Image</source>
-        <translation type="unfinished">Výstupní obrázek</translation>
+        <translation>Výstupní obrázek</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
@@ -3786,7 +3786,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
@@ -3796,7 +3796,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
@@ -3816,7 +3816,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Typ transformace</translation>
+        <translation>Typ transformace</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
@@ -3895,7 +3895,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
@@ -3905,7 +3905,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
@@ -3915,12 +3915,12 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
@@ -3957,7 +3957,7 @@ Metody anizotropní difuze snižují šum (nebo nežádoucí detaily) v obrazech
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Tento příkazový modul byl odvozen z modulu Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation>Tento příkazový modul byl odvozen z modulu Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
@@ -4007,17 +4007,17 @@ Metody anizotropní difuze snižují šum (nebo nežádoucí detaily) v obrazech
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
@@ -4090,7 +4090,7 @@ Doprovodný filtr Grayscale Grind Peak odstraňuje vrcholy v obrazech ve stupní
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
@@ -4100,17 +4100,17 @@ Doprovodný filtr Grayscale Grind Peak odstraňuje vrcholy v obrazech ve stupní
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
@@ -4158,7 +4158,7 @@ Doprovodný filtr Grayscale Fill Hole vyplňuje otvory v obrazech ve stupních �
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
@@ -4168,17 +4168,17 @@ Doprovodný filtr Grayscale Fill Hole vyplňuje otvory v obrazech ve stupních �
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
@@ -4206,7 +4206,7 @@ Doprovodný filtr Grayscale Fill Hole vyplňuje otvory v obrazech ve stupních �
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
@@ -4216,12 +4216,12 @@ Doprovodný filtr Grayscale Fill Hole vyplňuje otvory v obrazech ve stupních �
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
@@ -4351,7 +4351,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
@@ -4401,12 +4401,12 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
@@ -4416,7 +4416,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
@@ -4454,7 +4454,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
@@ -4598,17 +4598,17 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
@@ -4636,7 +4636,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
@@ -4646,12 +4646,12 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
@@ -4754,17 +4754,17 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
@@ -4792,7 +4792,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
@@ -4851,7 +4851,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
@@ -4861,12 +4861,12 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
@@ -5096,7 +5096,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5131,7 +5131,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
@@ -5141,7 +5141,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
@@ -5174,7 +5174,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
@@ -5184,32 +5184,32 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Vstupní objem 1</translation>
+        <translation>Vstupní objem 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Vstupní objem 2</translation>
+        <translation>Vstupní objem 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Vstupní objem 1</translation>
+        <translation>Vstupní objem 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Vstupní objem 2</translation>
+        <translation>Vstupní objem 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
@@ -5224,17 +5224,17 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">Ovládá jak modul funguje</translation>
+        <translation>Ovládá jak modul funguje</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Interpolační příkaz</translation>
+        <translation>Interpolační příkaz</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">Pořadí interpolace, pokud jsou dva obrazy v různých souřadnicových snímcích nebo mají různé vzorkování.</translation>
+        <translation>Pořadí interpolace, pokud jsou dva obrazy v různých souřadnicových snímcích nebo mají různé vzorkování.</translation>
     </message>
 </context>
 <context>
@@ -5262,7 +5262,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
@@ -5277,7 +5277,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
@@ -5431,7 +5431,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
@@ -5441,22 +5441,22 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Vstupní objem 1</translation>
+        <translation>Vstupní objem 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Vstupní objem 1</translation>
+        <translation>Vstupní objem 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
@@ -5765,7 +5765,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished">Vstupní parametry</translation>
+        <translation>Vstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"/>
@@ -5805,7 +5805,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
         <source>Output</source>
-        <translation type="unfinished">Výstup</translation>
+        <translation>Výstup</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
@@ -5900,7 +5900,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished">Vstupní parametry</translation>
+        <translation>Vstupní parametry</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
@@ -5940,7 +5940,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished">Počet vzorků</translation>
+        <translation>Počet vzorků</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
@@ -5999,7 +5999,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
@@ -6063,17 +6063,17 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
@@ -6083,7 +6083,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">Vstupní objem, který má být převzorkován</translation>
+        <translation>Vstupní objem, který má být převzorkován</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
@@ -6186,7 +6186,7 @@ Filtr předpokládá, že zdroj i reference jsou stejného typu a že vstupní a
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished">nula</translation>
+        <translation>nula</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
@@ -6418,7 +6418,7 @@ zachování hlavního směru (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">Počet vláken</translation>
+        <translation>Počet vláken</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
@@ -6530,7 +6530,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Typ transformace</translation>
+        <translation>Typ transformace</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
@@ -6596,17 +6596,17 @@ Varování: Nepoužívejte k převzorkování obrazů difuzního tenzoru; tenzor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
@@ -7031,7 +7031,7 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
@@ -7112,22 +7112,22 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">Vstupní objem, který má být převzorkován</translation>
+        <translation>Vstupní objem, který má být převzorkován</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"/>
@@ -7230,7 +7230,7 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
@@ -7245,7 +7245,7 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
@@ -7278,7 +7278,7 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Tento příkazový modul byl odvozen z modulu Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation>Tento příkazový modul byl odvozen z modulu Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
@@ -7378,17 +7378,17 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
@@ -7416,7 +7416,7 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
@@ -7426,32 +7426,32 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Vstupní objem 1</translation>
+        <translation>Vstupní objem 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Vstupní objem 2</translation>
+        <translation>Vstupní objem 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Vstupní objem 1</translation>
+        <translation>Vstupní objem 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Vstupní objem 2</translation>
+        <translation>Vstupní objem 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
@@ -7461,22 +7461,22 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished">Kontroly</translation>
+        <translation>Kontroly</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">Ovládá jak modul funguje</translation>
+        <translation>Ovládá jak modul funguje</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Interpolační příkaz</translation>
+        <translation>Interpolační příkaz</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">Pořadí interpolace, pokud jsou dva obrazy v různých souřadnicových snímcích nebo mají různé vzorkování.</translation>
+        <translation>Pořadí interpolace, pokud jsou dva obrazy v různých souřadnicových snímcích nebo mají různé vzorkování.</translation>
     </message>
 </context>
 <context>
@@ -7494,7 +7494,7 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financovanéha National Institutes of Health prostřednictvím NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Tato práce je součástí National Alliance for Medical Image Computing (NAMIC), financované organizací National Institutes of Health prostřednictvím programu NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
@@ -7504,17 +7504,17 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
@@ -7529,7 +7529,7 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished">Možnosti Filtrování</translation>
+        <translation>Možnosti Filtrování</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
@@ -7683,17 +7683,17 @@ a = afinní transformace</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Vstupní objem</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Výstupní objem</translation>
+        <translation>Výstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
@@ -7963,7 +7963,7 @@ Tento soubor původně vyvinul Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="714"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished">DICOM adresář</translation>
+        <translation>DICOM adresář</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="715"/>
@@ -8670,7 +8670,7 @@ kterou ukazuje poloha myši.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="24"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="296"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Datová sonda</translation>
+        <translation>Datová sonda</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
@@ -8704,7 +8704,7 @@ kterou ukazuje poloha myši.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="32"/>
         <source>Endoscopy</source>
-        <translation type="unfinished">Endoskopie</translation>
+        <translation>Endoskopie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="54"/>
@@ -8871,7 +8871,7 @@ Polohu kamery můžete v libovolném bodě uložit kliknutím na „Uložit polo
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
         <source>Next</source>
-        <translation type="unfinished">Další</translation>
+        <translation>Další</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="231"/>
@@ -8939,7 +8939,7 @@ Polohu kamery můžete v libovolném bodě uložit kliknutím na „Uložit polo
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Tato práce je podporována NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou .</translation>
+        <translation>Tato práce je podporována NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou .</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="124"/>
@@ -9154,7 +9154,7 @@ Polohu kamery můžete v libovolném bodě uložit kliknutím na „Uložit polo
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="42"/>
         <source>Contributors:</source>
-        <translation type="unfinished">Přispěvatelé:</translation>
+        <translation>Přispěvatelé:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
@@ -9580,7 +9580,7 @@ nebo používat ke komerčním účelům.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Stáhnout vzorová data</translation>
+        <translation>Stáhnout vzorová data</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="114"/>
@@ -9859,7 +9859,7 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="76"/>
         <source>Input</source>
-        <translation type="unfinished">Vstup</translation>
+        <translation>Vstup</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="91"/>
@@ -9954,7 +9954,7 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="174"/>
         <source>Output</source>
-        <translation type="unfinished">Výstup</translation>
+        <translation>Výstup</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
@@ -11692,7 +11692,7 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="113"/>
         <source>Output</source>
-        <translation type="unfinished">Výstup</translation>
+        <translation>Výstup</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="118"/>
@@ -11784,7 +11784,7 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1014"/>
         <source>Add Data</source>
-        <translation type="unfinished">Přidat data</translation>
+        <translation>Přidat data</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1017"/>
@@ -11834,7 +11834,7 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="75"/>
         <source>Volume</source>
-        <translation type="unfinished">Objem</translation>
+        <translation>Objem</translation>
     </message>
 </context>
 <context>
@@ -11858,7 +11858,7 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="412"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="420"/>
         <source>Volume</source>
-        <translation type="unfinished">Objem</translation>
+        <translation>Objem</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
@@ -12364,7 +12364,7 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
         <source>_Segmentation</source>
-        <translation type="unfinished">_Segmentace</translation>
+        <translation>_Segmentace</translation>
     </message>
 </context>
 <context>
@@ -13005,7 +13005,7 @@ NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="108"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
-        <translation type="unfinished">Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</translation>
+        <translation>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="116"/>
@@ -13120,7 +13120,7 @@ NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Visible:</translation>
+        <translation>Viditelnost:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
@@ -13231,7 +13231,7 @@ NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
         <source>Short side length of the color legend, relative to view size</source>
         <oldsource>Short side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Short side length of the color legend, as percentage of view size</translation>
+        <translation>Short side length of the color legend, as percentage of view size</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
@@ -13244,7 +13244,7 @@ NIH Roadmap for Medical Research, grant U54 EB005149.</translation>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
         <source>Long side length of the color legend, relative to view size</source>
         <oldsource>Long side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Long side length of the color legend, as percentage of view size</translation>
+        <translation>Long side length of the color legend, as percentage of view size</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
@@ -13356,7 +13356,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="14"/>
         <source>Display Properties</source>
         <oldsource>Display Node</oldsource>
-        <translation type="unfinished">Display Node</translation>
+        <translation>Vlastnosti zobrazení</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
@@ -13367,7 +13367,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visibility:</source>
         <oldsource>&amp;Visible:</oldsource>
-        <translation type="unfinished">&amp;Visible:</translation>
+        <translation>&amp;Viditelnost:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
@@ -13383,7 +13383,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visibility:</source>
         <oldsource>Slice &amp;Intersections Visible:</oldsource>
-        <translation type="unfinished">Slice &amp;Intersections Visible:</translation>
+        <translation>Viditelnost průsečíků &amp;řezů:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
@@ -13414,7 +13414,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="175"/>
         <source>3D Visibility:</source>
         <oldsource>3D Visible:</oldsource>
-        <translation type="unfinished">3D Visible:</translation>
+        <translation>Viditelnost 3D:</translation>
     </message>
 </context>
 <context>
@@ -13660,7 +13660,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
         <source>Markups Display Properties</source>
         <oldsource>Markups Display Node</oldsource>
-        <translation type="unfinished">Markups Display Node</translation>
+        <translation>Vlastnosti zobrazení značek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
@@ -13849,7 +13849,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="588"/>
         <source>3D Visibility:</source>
-        <translation type="unfinished">3D Visible:</translation>
+        <translation>Viditelnost 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="591"/>
@@ -14272,7 +14272,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="14"/>
         <source>Model Display Properties</source>
         <oldsource>Model Display Node</oldsource>
-        <translation type="unfinished">Model Display Node</translation>
+        <translation>Vlastnosti zobrazení modelu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
@@ -14832,13 +14832,13 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="315"/>
         <source>Legend visibility:</source>
         <oldsource>Legend visible:</oldsource>
-        <translation type="unfinished">Legend visible:</translation>
+        <translation>Viditelnost legendy:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="329"/>
         <source>Grid visibility:</source>
         <oldsource>Grid visible:</oldsource>
-        <translation type="unfinished">Grid visible:</translation>
+        <translation>Viditelnost mřížky:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="336"/>
@@ -15203,7 +15203,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Visible:</translation>
+        <translation>Viditelnost:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="46"/>
@@ -15411,13 +15411,13 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
         <source>Source volume:</source>
         <oldsource>Master volume:</oldsource>
-        <translation type="unfinished">Master volume:</translation>
+        <translation>Zdrojový objem:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
         <source>Select source volume to enable editing</source>
         <oldsource>Select master volume to enable editing</oldsource>
-        <translation type="unfinished">Select master volume to enable editing</translation>
+        <translation>Vyberte zdrojový objem pro povolení úprav</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
@@ -15621,7 +15621,7 @@ Změnit zdrojovou reprezentaci na binární mapu popisků?</translation>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="813"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">Change master representation to binary labelmap?</translation>
+        <translation>Změnit zdrojovou reprezentaci na binární mapu popisků?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="828"/>
@@ -16184,9 +16184,9 @@ Chcete segmentaci oříznout?
         <oldsource>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</oldsource>
-        <translation type="unfinished">This is the master representation.
-  1. This representation is saved on disk
-  2. If this representation is modified, the others are cleared</translation>
+        <translation>Toto je zdrojová reprezentace.
+  1. Tato reprezentace se ukládá na disk
+  2. Je-li tato reprezentace upravena, ostatní se vymažou</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="212"/>
@@ -17366,7 +17366,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
         <source>Slice visibility:</source>
         <oldsource>Slice visible:</oldsource>
-        <translation type="unfinished">Slice visible:</translation>
+        <translation>Viditelnost řezu:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
@@ -17383,7 +17383,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="111"/>
         <source>Widget visibility:</source>
         <oldsource>Widget visible:</oldsource>
-        <translation type="unfinished">Widget visible:</translation>
+        <translation>Viditelnost widgetu:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
@@ -17584,7 +17584,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="235"/>
         <source>Show</source>
-        <translation type="unfinished">Ukázat</translation>
+        <translation>Ukázat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="238"/>
@@ -19132,7 +19132,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="66"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished">K dispozici je nová verze aplikace: %1</translation>
+        <translation>K dispozici je nová verze aplikace: %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="73"/>
@@ -19437,7 +19437,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="80"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
-        <translation type="unfinished">&amp;Keyboard Shortcuts</translation>
+        <translation>&amp;Referenční přehled klávesových zkratek</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="81"/>
@@ -19448,7 +19448,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="85"/>
         <source>Documentation</source>
         <oldsource>Interface Documentation</oldsource>
-        <translation type="unfinished">Interface Documentation</translation>
+        <translation>Dokumentace</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="86"/>
@@ -19758,12 +19758,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="186"/>
         <source>online documentation</source>
-        <translation type="unfinished">online dokumentace</translation>
+        <translation>online dokumentace</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished">Další informace naleznete na adrese %1.</translation>
+        <translation>Další informace naleznete na adrese %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="85"/>
@@ -19859,7 +19859,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="935"/>
         <source>All Files</source>
-        <translation type="unfinished">Všechny soubory</translation>
+        <translation>Všechny soubory</translation>
     </message>
 </context>
 <context>
@@ -20076,7 +20076,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="180"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Tato práce byla podpořena NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou.</translation>
+        <translation>Tato práce byla podpořena NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou.</translation>
     </message>
 </context>
 <context>
@@ -21005,13 +21005,13 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
         <source>Copy log to clipboard</source>
         <oldsource>Copy log messages to clipboard</oldsource>
-        <translation type="unfinished">Copy log messages to clipboard</translation>
+        <translation>Kopírovat protokol do schránky</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="83"/>
         <source>Open log in editor</source>
         <oldsource>Open log file in editor</oldsource>
-        <translation type="unfinished">Open log file in editor</translation>
+        <translation>Otevřít protokol v editoru</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
@@ -21475,19 +21475,19 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1009"/>
         <source>&apos;slicerRevision&apos; parameter is not specified</source>
         <oldsource>slicerRevision is not specified</oldsource>
-        <translation type="unfinished">slicerRevision is not specified</translation>
+        <translation>slicerRevision is not specified</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1013"/>
         <source>&apos;slicerOs&apos; parameter is not specified</source>
         <oldsource>slicerOs is not specified</oldsource>
-        <translation type="unfinished">slicerOs is not specified</translation>
+        <translation>slicerOs is not specified</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1017"/>
         <source>&apos;slicerArch&apos; parameter is not specified</source>
         <oldsource>slicerArch is not specified</oldsource>
-        <translation type="unfinished">slicerArch is not specified</translation>
+        <translation>slicerArch is not specified</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1023"/>
@@ -22294,7 +22294,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="278"/>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished">&amp;Panely nástrojů</translation>
+        <translation>&amp;Panely nástrojů</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="283"/>
@@ -22475,7 +22475,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="23"/>
         <source>Module Panel</source>
-        <translation type="unfinished">Modulový panel</translation>
+        <translation>Modulový panel</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="495"/>
@@ -22485,7 +22485,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="498"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation type="unfinished">Vyvolání průvodce &quot;Správce rozšíření&quot;, který poskytuje stav a informace o dostupných rozšířeních</translation>
+        <translation>Vyvolání průvodce &quot;Správce rozšíření&quot;, který poskytuje stav a informace o dostupných rozšířeních</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="501"/>
@@ -23048,7 +23048,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display properties to defaults. These properties will be used even after application restart.</source>
         <oldsource>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</oldsource>
-        <translation type="unfinished">Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</translation>
+        <translation>Uložit aktuální vlastnosti zobrazení jako výchozí. Tyto vlastnosti se budou používat i po restartování aplikace.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -23209,7 +23209,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="583"/>
         <source>Display, naming, volume interactions, moving up/down, adding</source>
         <oldsource>Display, naming, volume interactions, moving up/down, adding, Annotations import</oldsource>
-        <translation type="unfinished">Display, naming, volume interactions, moving up/down, adding, Annotations import</translation>
+        <translation>Zobrazení, pojmenování, interakce s objemem, přesun nahoru/dolů, přidání</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
@@ -23635,8 +23635,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
-        <translation type="unfinished">Import control points coordinates and properties from table node.
-Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</translation>
+        <translation>Importovat souřadnice a vlastnosti řídicích bodů z uzlu tabulky.
+Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visible, locked, description.</translation>
     </message>
 </context>
 <context>
@@ -23767,7 +23767,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="78"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
         <source>Markups</source>
-        <translation type="unfinished">Marže</translation>
+        <translation>Značky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
@@ -24085,7 +24085,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="241"/>
         <source>Contributors:</source>
-        <translation type="unfinished">Přispěvatelé:</translation>
+        <translation>Přispěvatelé:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="248"/>
@@ -24480,7 +24480,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="70"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Tato práce byla podpořena NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou.</translation>
+        <translation>Tato práce byla podpořena NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou.</translation>
     </message>
 </context>
 <context>
@@ -24491,7 +24491,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="109"/>
         <source>Reformat</source>
         <oldsource>Form</oldsource>
-        <translation type="unfinished">Form</translation>
+        <translation>Přeformátovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
@@ -24966,7 +24966,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="40"/>
         <source>Scene Views</source>
         <oldsource>Views</oldsource>
-        <translation type="unfinished">Zobrazení</translation>
+        <translation>Zobrazení</translation>
     </message>
 </context>
 <context>
@@ -25685,7 +25685,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="319"/>
         <source>Volume</source>
-        <translation type="unfinished">Objem</translation>
+        <translation>Objem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="320"/>
@@ -25986,17 +25986,17 @@ Poznámka: Týká se to tabulek segmentů v modulech Editor segmentů a Segmenta
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="122"/>
         <source>Overwrite all</source>
-        <translation type="unfinished">Přepsat všechny</translation>
+        <translation>Přepsat všechny</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="123"/>
         <source>Overwrite visible</source>
-        <translation type="unfinished">Přepsat viditelné</translation>
+        <translation>Přepsat viditelné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="124"/>
         <source>Allow overlap</source>
-        <translation type="unfinished">Povolit překrývání</translation>
+        <translation>Povolit překrývání</translation>
     </message>
 </context>
 <context>
@@ -26004,12 +26004,12 @@ Poznámka: Týká se to tabulek segmentů v modulech Editor segmentů a Segmenta
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="52"/>
         <source>Sequences</source>
-        <translation type="unfinished">Sekvence</translation>
+        <translation>Sekvence</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="98"/>
         <source>Sequence browser</source>
-        <translation type="unfinished">Prohlížeč sekvencí</translation>
+        <translation>Prohlížeč sekvencí</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="156"/>
@@ -26027,7 +26027,7 @@ Poznámka: Týká se to tabulek segmentů v modulech Editor segmentů a Segmenta
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
-        <translation type="unfinished">Sekvence</translation>
+        <translation>Sekvence</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
@@ -26605,7 +26605,7 @@ Default: https://slicer.readthedocs.io/{language}/{version}</translation>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
         <source>Max. number of &apos;Recent&apos; menu items:</source>
         <oldsource>Max. number of &apos;Recently Loaded&apos; menu items:</oldsource>
-        <translation type="unfinished">Max. number of &apos;Recently Loaded&apos; menu items:</translation>
+        <translation>Max. počet položek nabídky „Nedávné“:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
@@ -26721,75 +26721,75 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="20"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>Modul</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
         <source>Skip loading of any:</source>
-        <translation type="unfinished">Skip loading of any:</translation>
+        <translation>Vynechat načítání libovolných:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-loadable-modules on the command line</translation>
+        <translation>Chcete-li dočasně zakázat, předejte na příkazovém řádku --disable-loadable-modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="130"/>
         <source>loadable modules</source>
-        <translation type="unfinished">loadable modules</translation>
+        <translation>načitatelné moduly</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-cli-modules on the command line</translation>
+        <translation>Chcete-li dočasně zakázat, předejte na příkazovém řádku --disable-cli-modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="140"/>
         <source>command-line plugins</source>
-        <translation type="unfinished">command-line plugins</translation>
+        <translation>zásuvné moduly příkazového řádku</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
         <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</translation>
+        <translation>Chcete-li dočasně zakázat, předejte na příkazovém řádku --disable-scripted-loadable-modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="150"/>
         <source>scripted loadable modules</source>
-        <translation type="unfinished">scripted loadable modules</translation>
+        <translation>skriptované načitatelné moduly</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
         <source>Skip loading of builtin:</source>
-        <translation type="unfinished">Skip loading of builtin:</translation>
+        <translation>Vynechat načítání vestavěných:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-loadable-modules on the command line</translation>
+        <translation>Chcete-li dočasně zakázat, předejte na příkazovém řádku --disable-builtin-loadable-modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
         <source>To temporarily disable, pass --disable-builtin-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-cli-modules on the command line</translation>
+        <translation>Chcete-li dočasně zakázat, předejte na příkazovém řádku --disable-builtin-cli-modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="147"/>
         <source>To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</translation>
+        <translation>Chcete-li dočasně zakázat, předejte na příkazovém řádku --disable-builtin-scripted-loadable-modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="166"/>
         <source>Show hidden modules:</source>
-        <translation type="unfinished">Show hidden modules:</translation>
+        <translation>Zobrazit skryté moduly:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="210"/>
         <source>Temporary directory:</source>
-        <translation type="unfinished">Temporary directory:</translation>
+        <translation>Dočasný adresář:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
@@ -26808,93 +26808,93 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>Cesty</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="289"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="296"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="768"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Odebrat</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="338"/>
         <source>when checking/unchecking a module, its dependencies are checked/unchecked accordingly</source>
-        <translation type="unfinished">when checking/unchecking a module, its dependencies are checked/unchecked accordingly</translation>
+        <translation>při zaškrtnutí/zrušení zaškrtnutí modulu se odpovídajícím způsobem zaškrtnou/zruší zaškrtnutí jeho závislostí</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="341"/>
         <source>Modules:</source>
-        <translation type="unfinished">Modules:</translation>
+        <translation>Moduly:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="403"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="412"/>
         <source>Hide modules to load at startup</source>
-        <translation type="unfinished">Hide modules to load at startup</translation>
+        <translation>Skrýt moduly načítané při spuštění</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="415"/>
         <source>To load</source>
-        <translation type="unfinished">To load</translation>
+        <translation>K načtení</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="434"/>
         <source>Hide modules to ignore at startup</source>
-        <translation type="unfinished">Hide modules to ignore at startup</translation>
+        <translation>Skrýt moduly ignorované při spuštění</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="437"/>
         <source>To ignore</source>
-        <translation type="unfinished">To ignore</translation>
+        <translation>K ignorování</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="456"/>
         <source>Hide loaded modules</source>
-        <translation type="unfinished">Hide loaded modules</translation>
+        <translation>Skrýt načtené moduly</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="459"/>
         <source>Loaded</source>
-        <translation type="unfinished">Loaded</translation>
+        <translation>Načteno</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="509"/>
         <source>Hide ignored modules</source>
-        <translation type="unfinished">Hide ignored modules</translation>
+        <translation>Skrýt ignorované moduly</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="512"/>
         <source>Ignored</source>
-        <translation type="unfinished">Ignored</translation>
+        <translation>Ignorováno</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="562"/>
         <source>Hide Failed to load modules</source>
-        <translation type="unfinished">Hide Failed to load modules</translation>
+        <translation>Skrýt moduly, které se nepodařilo načíst</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="565"/>
         <source>Failed</source>
-        <translation type="unfinished">Failed</translation>
+        <translation>Neúspěšné</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="632"/>
         <source>Default startup module:</source>
-        <translation type="unfinished">Default startup module:</translation>
+        <translation>Výchozí modul při spuštění:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="676"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</source>
-        <translation type="unfinished">Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</translation>
+        <translation>Přidejte do seznamu přetažením modulů z výše uvedeného seznamu „Moduly“. Poznámka: moduly bez ikon se na panelu nástrojů nezobrazí.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
@@ -26904,37 +26904,37 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list</source>
-        <translation type="unfinished">Add to the list by dragging modules from the above &quot;Modules&quot; list</translation>
+        <translation>Přidejte do seznamu přetažením modulů z výše uvedeného seznamu „Moduly“.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="759"/>
         <source>Favorite</source>
-        <translation type="unfinished">Favorite</translation>
+        <translation>Oblíbené</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="765"/>
         <source>Remove selected module from favorites</source>
-        <translation type="unfinished">Remove selected module from favorites</translation>
+        <translation>Odebrat vybraný modul z oblíbených</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="775"/>
         <source>Move to the left</source>
-        <translation type="unfinished">Move to the left</translation>
+        <translation>Přesunout doleva</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="778"/>
         <source>Move Left</source>
-        <translation type="unfinished">Move Left</translation>
+        <translation>Přesunout doleva</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="785"/>
         <source>Move to the right</source>
-        <translation type="unfinished">Move to the right</translation>
+        <translation>Přesunout doprava</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="788"/>
         <source>Move Right</source>
-        <translation type="unfinished">Move Right</translation>
+        <translation>Přesunout doprava</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="174"/>
@@ -26949,7 +26949,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="310"/>
         <source>Select folder</source>
-        <translation type="unfinished">Select folder</translation>
+        <translation>Vybrat složku</translation>
     </message>
 </context>
 <context>
@@ -26982,7 +26982,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="52"/>
         <source>Python Console</source>
-        <translation type="unfinished">Python konzole</translation>
+        <translation>Python konzole</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="64"/>
@@ -26993,13 +26993,13 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="71"/>
         <source>Display Python console in a window that can be placed inside the main window. If disabled then the Python Console is displayed as an independent window.</source>
         <oldsource>Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</oldsource>
-        <translation type="unfinished">Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</translation>
+        <translation>Zobrazit konzoli Python v okně, které lze umístit do hlavního okna. Není-li povoleno, konzole Python se zobrazí jako nezávislé okno.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="81"/>
         <source>Font:</source>
         <oldsource>Shell font:</oldsource>
-        <translation type="unfinished">Shell font:</translation>
+        <translation>Písmo:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="95"/>
@@ -28517,7 +28517,7 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="220"/>
         <source>Scale</source>
-        <translation type="unfinished">Školovat</translation>
+        <translation>Měřítko</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="232"/>
@@ -29371,14 +29371,14 @@ Značky: %6</translation>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="860"/>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
-        <translation type="unfinished">Select type modifier...</translation>
+        <translation>Bez modifikátoru typu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1320"/>
         <source>No region modifier</source>
         <oldsource>Select anatomic region modifier...</oldsource>
-        <translation type="unfinished">Select anatomic region modifier...</translation>
+        <translation>Bez modifikátoru oblasti</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="95"/>
@@ -29515,7 +29515,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="105"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Tato práce byla podpořena NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou.</translation>
+        <translation>Tato práce byla podpořena NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou.</translation>
     </message>
 </context>
 <context>
@@ -29629,7 +29629,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="461"/>
         <source>Apply the selected transform to the selected transformable nodes</source>
         <oldsource>Apply the active transform to the selected transformable nodes</oldsource>
-        <translation type="unfinished">Apply the active transform to the selected transformable nodes</translation>
+        <translation>Použít vybranou transformaci na vybrané transformovatelné uzly</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="464"/>
@@ -29640,7 +29640,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="471"/>
         <source>Remove the selected transform from the selected transformed nodes</source>
         <oldsource>Remove the active transform from the selected transformed nodes</oldsource>
-        <translation type="unfinished">Remove the active transform from the selected transformed nodes</translation>
+        <translation>Odebrat vybranou transformaci z vybraných transformovaných uzlů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="474"/>
@@ -30846,7 +30846,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="182"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished">Tento požadovaný modul bohužel není v této relaci aplikace Slicer k dispozici.</translation>
+        <translation>Tento požadovaný modul bohužel není v této relaci aplikace Slicer k dispozici.</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="376"/>
@@ -30906,7 +30906,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="52"/>
         <source>Clip</source>
-        <translation type="unfinished">Připnout</translation>
+        <translation>Oříznout</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="728"/>
@@ -31632,7 +31632,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeNode.cxx" line="37"/>
         <source>Volume</source>
-        <translation type="unfinished">Objem</translation>
+        <translation>Objem</translation>
     </message>
 </context>
 <context>
