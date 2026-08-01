@@ -328,22 +328,22 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation>Časová řada</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznamenané uzly</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="34"/>
         <source>Sequence Replay</source>
-        <translation type="unfinished"></translation>
+        <translation>Přehrávání sekvence</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="40"/>
@@ -351,7 +351,10 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Toto je příklad skriptovaného načítatelného modulu dodávaného v rozšíření.
+Další informace najdete v &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;dokumentaci modulu&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
@@ -359,7 +362,9 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tento soubor původně vyvinuli Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab a Steve Pieper, Isomics, Inc.; částečně jej financoval grant NIH 3P41RR013218-12S1.
+</translation>
     </message>
 </context>
 <context>
@@ -1309,32 +1314,32 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="162"/>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="173"/>
         <source>Place fiducial corresponding to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Umístěte referenční bod odpovídající %1</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="208"/>
         <source>Point indices in the &quot;From&quot; list match those in the &quot;To&quot; list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexy bodů v seznamu „From“ odpovídají indexům v seznamu „To“.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="211"/>
         <source>EXPERIMENTAL. Point pairing between the two lists will be computed automatically. This feature is intended only for rigid and similarity transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>EXPERIMENTÁLNÍ. Párování bodů mezi oběma seznamy se vypočte automaticky. Tato funkce je určena pouze pro tuhé transformace a transformace podobnosti.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="214"/>
         <source>Update options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti aktualizace</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="359"/>
         <source>No Fiducial Registration Wizard module node selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Není vybrán žádný uzel modulu Průvodce registrací referenčních bodů.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="405"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická aktualizace</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="413"/>
@@ -1344,7 +1349,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="449"/>
         <source>Status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav: %1</translation>
     </message>
 </context>
 <context>
