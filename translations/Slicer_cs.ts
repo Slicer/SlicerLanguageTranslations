@@ -7735,7 +7735,7 @@ Tento soubor původně vyvinul Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="61"/>
         <source>Sequence</source>
-        <translation type="unfinished">Sequence</translation>
+        <translation>Sekvence</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="75"/>
@@ -7785,12 +7785,12 @@ Tento soubor původně vyvinul Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="124"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="125"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Run the algorithm.</translation>
+        <translation>Spustit algoritmus.</translation>
     </message>
 </context>
 <context>
@@ -9129,7 +9129,7 @@ Polohu kamery můžete v libovolném bodě uložit kliknutím na „Uložit polo
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="29"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Název:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"/>
@@ -9139,12 +9139,12 @@ Polohu kamery můžete v libovolném bodě uložit kliknutím na „Uložit polo
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>Popis:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
@@ -10506,7 +10506,7 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="130"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Show 3D</translation>
+        <translation>Zobrazit 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="131"/>
@@ -10541,7 +10541,7 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="145"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="147"/>
@@ -10556,7 +10556,7 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="268"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Aktualizovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="300"/>
@@ -10954,7 +10954,7 @@ seznamu segmentů v možnostech efektu dole.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Subtract</source>
-        <translation type="unfinished">Subtract</translation>
+        <translation>Odečíst</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
@@ -10964,7 +10964,7 @@ seznamu segmentů v možnostech efektu dole.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>Invertovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
@@ -10994,7 +10994,7 @@ seznamu segmentů v možnostech efektu dole.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="65"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="72"/>
@@ -12637,7 +12637,7 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Pick the input to the algorithm.</translation>
+        <translation>Vyberte vstup algoritmu.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="51"/>
@@ -12652,12 +12652,12 @@ a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="65"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Pick the output to the algorithm.</translation>
+        <translation>Vyberte výstup algoritmu.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="116"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="57"/>
@@ -17769,17 +17769,17 @@ Zvolíte-li Ano pro vše, tato otázka se již nezobrazí a všichni potomci hie
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="57"/>
         <source>Save</source>
-        <translation type="unfinished">Save</translation>
+        <translation>Uložit</translation>
     </message>
 </context>
 <context>
@@ -19392,17 +19392,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
-        <translation type="unfinished">Volume Options</translation>
+        <translation>Volby objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
         <source>Fiducial</source>
-        <translation type="unfinished">Fiducial</translation>
+        <translation>Referenční bod</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>Pravítko</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
@@ -19730,7 +19730,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="249"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
-        <translation type="unfinished">Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</translation>
+        <translation>Grafické možnosti tohoto počítače nejsou dostatečné ke spuštění této aplikace. Aplikace pravděpodobně nebude fungovat správně.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="252"/>
@@ -19740,17 +19740,17 @@ p, li { white-space: pre-wrap; }
 Graphics capabilities of this computer:
 
 </source>
-        <translation type="unfinished">See more information and help at:
+        <translation>Další informace a nápovědu naleznete na adrese:
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
-Graphics capabilities of this computer:
+Grafické možnosti tohoto počítače:
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="260"/>
         <source>Insufficient graphics capability</source>
-        <translation type="unfinished">Insufficient graphics capability</translation>
+        <translation>Nedostatečné grafické možnosti</translation>
     </message>
 </context>
 <context>
@@ -19969,17 +19969,17 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="130"/>
         <source>Show details</source>
-        <translation type="unfinished">Show details</translation>
+        <translation>Zobrazit podrobnosti</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Stav:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="156"/>
         <source>Idle</source>
-        <translation type="unfinished">Idle</translation>
+        <translation>Nečinný</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="367"/>
@@ -20249,7 +20249,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="687"/>
         <source>%1 load failed.</source>
-        <translation type="unfinished">%1 load failed.</translation>
+        <translation>Načtení %1 se nezdařilo.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="857"/>
@@ -20274,14 +20274,14 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="982"/>
         <source>Unable to find a storable node with ID %1</source>
-        <translation type="unfinished">Unable to find a storable node with ID %1</translation>
+        <translation>Nelze najít ukládatelný uzel s ID %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="993"/>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1026"/>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1078"/>
         <source>Error encountered while exporting %1.</source>
-        <translation type="unfinished">Error encountered while exporting %1.</translation>
+        <translation>Při exportu %1 došlo k chybě.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1050"/>
@@ -23936,22 +23936,22 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="14"/>
         <source>Models options</source>
-        <translation type="unfinished">Models options</translation>
+        <translation>Volby modelů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="32"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished">Coordinate system:</translation>
+        <translation>Souřadnicový systém:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="45"/>
         <source>Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</source>
-        <translation type="unfinished">Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</translation>
+        <translation>Pro lepší kompatibilitu s většinou softwaru použijte LPS (vlevo–zadní–horní); jde o výchozí volbu. Pro lepší kompatibilitu se staršími verzemi Sliceru použijte RAS (vpravo–přední–horní). Je-li souřadnicový systém určen v souboru, použije se tento systém a tato volba se ignoruje.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="49"/>
         <source>Default</source>
-        <translation type="unfinished">Default</translation>
+        <translation>Výchozí</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="54"/>
@@ -24850,7 +24850,7 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="14"/>
         <source>Scalar Volume Display</source>
-        <translation type="unfinished">Scalar Volume Display</translation>
+        <translation>Zobrazení skalárního objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="38"/>
@@ -24860,7 +24860,7 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
         <source>Lookup Table:</source>
-        <translation type="unfinished">Lookup Table:</translation>
+        <translation>Vyhledávací tabulka:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
@@ -24870,7 +24870,7 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
         <source>Interpolate:</source>
-        <translation type="unfinished">Interpolate:</translation>
+        <translation>Interpolovat:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
@@ -24895,7 +24895,7 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="152"/>
         <source>Histogram</source>
-        <translation type="unfinished">Histogram</translation>
+        <translation>Histogram</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="179"/>
@@ -24942,22 +24942,22 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="131"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
-        <translation type="unfinished">The scene file was saved with %1 application (this application is %2).</translation>
+        <translation>Soubor scény byl uložen aplikací %1 (tato aplikace je %2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="139"/>
         <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
-        <translation type="unfinished">The scene file was created with a newer version of the application (%1) than the current version (%2).</translation>
+        <translation>Soubor scény byl vytvořen novější verzí aplikace (%1), než je aktuální verze (%2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="145"/>
         <source>The scene may not load correctly.</source>
-        <translation type="unfinished">The scene may not load correctly.</translation>
+        <translation>Scéna se nemusí načíst správně.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="168"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
-        <translation type="unfinished">These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</translation>
+        <translation>Při uložení scény byla nainstalována tato rozšíření, která nyní nainstalována nejsou: %1. Pro úspěšné načtení scény mohou být vyžadována.</translation>
     </message>
 </context>
 <context>
@@ -27854,19 +27854,19 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="196"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="229"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>Interakce</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="202"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="234"/>
         <source>Translate</source>
-        <translation type="unfinished">Translate</translation>
+        <translation>Posunout</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="207"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="239"/>
         <source>Rotate</source>
-        <translation type="unfinished">Rotate</translation>
+        <translation>Otočit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="212"/>
@@ -27878,7 +27878,7 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="222"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="254"/>
         <source>Interaction options</source>
-        <translation type="unfinished">Interaction options</translation>
+        <translation>Volby interakce</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="258"/>
@@ -28302,7 +28302,7 @@ Navštivte modul Segmentace a zkuste pokročilou funkci vytvoření reprezentace
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="122"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="132"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Neprůhlednost</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="133"/>
@@ -28320,7 +28320,7 @@ Podrobnosti najdete v okně chyb.</translation>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="243"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="258"/>
         <source>Failed to move segment between segmentations</source>
-        <translation type="unfinished">Failed to move segment between segmentations</translation>
+        <translation>Nepodařilo se přesunout segment mezi segmentacemi</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="248"/>
@@ -28348,7 +28348,7 @@ Poznámka: Může to vést k nežádoucí ztrátě dat v %5.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="266"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Převod se nezdařil</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="332"/>
@@ -28361,7 +28361,7 @@ Poznámka: Může to vést k nežádoucí ztrátě dat v %5.</translation>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="377"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="400"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Žádné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="413"/>
@@ -29726,7 +29726,7 @@ Chcete uložený soubor kontextu aktualizovat právě načteným souborem?</tran
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="14"/>
         <source>Units Settings</source>
-        <translation type="unfinished">Units Settings</translation>
+        <translation>Nastavení jednotek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="26"/>
@@ -29735,23 +29735,23 @@ Chcete uložený soubor kontextu aktualizovat právě načteným souborem?</tran
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Varování:&lt;/span&gt; Změnou vlastností jednotky se mění pouze zobrazení, nikoli hodnota!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
         <source>Show all the units&apos; properties.
 This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</source>
-        <translation type="unfinished">Show all the units&apos; properties.
-This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</translation>
+        <translation>Zobrazit vlastnosti všech jednotek.
+Toto by měli používat jen pokročilí uživatelé, kteří rozumějí důsledkům změny vlastnosti jednotky.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="47"/>
         <source>Show advanced options</source>
-        <translation type="unfinished">Show advanced options</translation>
+        <translation>Zobrazit pokročilé možnosti</translation>
     </message>
 </context>
 <context>
@@ -30072,7 +30072,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="126"/>
         <source>ROI:</source>
-        <translation type="unfinished">ROI:</translation>
+        <translation>ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="148"/>
@@ -30127,7 +30127,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="340"/>
         <source>Clipping:</source>
-        <translation type="unfinished">Clipping:</translation>
+        <translation>Ořez:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="347"/>
@@ -30142,7 +30142,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="320"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Automaticky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="357"/>
@@ -30182,7 +30182,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="555"/>
         <source> fps</source>
-        <translation type="unfinished"> fps</translation>
+        <translation> fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="562"/>
