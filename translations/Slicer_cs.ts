@@ -15904,27 +15904,27 @@ Podrobnosti naleznete v modulu Segmentace.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="14"/>
         <source>qMRMLSegmentationFileExportWidget</source>
-        <translation type="unfinished">qMRMLSegmentationFileExportWidget</translation>
+        <translation>qMRMLSegmentationFileExportWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
         <source>Visible segments only: </source>
-        <translation type="unfinished">Visible segments only: </translation>
+        <translation>Pouze viditelné segmenty: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="45"/>
         <source>Adjust the exported model size. Point coordinates in the exported model will be multiplied by this number. By default Slicer uses millimeter unit for coordinates.</source>
-        <translation type="unfinished">Adjust the exported model size. Point coordinates in the exported model will be multiplied by this number. By default Slicer uses millimeter unit for coordinates.</translation>
+        <translation>Upravit velikost exportovaného modelu. Souřadnice bodů v exportovaném modelu se vynásobí tímto číslem. Slicer pro souřadnice ve výchozím nastavení používá milimetry.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="99"/>
         <source>Destination folder: </source>
-        <translation type="unfinished">Destination folder: </translation>
+        <translation>Cílová složka: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="106"/>
         <source>Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</source>
-        <translation type="unfinished">Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</translation>
+        <translation>Osy XYZ výstupního modelu jsou namapovány na směry os pacienta LPS (vlevo–zadní–horní) nebo RAS (vpravo–přední–horní). Běžněji se používá LPS.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="110"/>
@@ -15939,57 +15939,57 @@ Podrobnosti naleznete v modulu Segmentace.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="123"/>
         <source>Use color table values:</source>
-        <translation type="unfinished">Use color table values:</translation>
+        <translation>Použít hodnoty tabulky barev:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="130"/>
         <source>File format:</source>
-        <translation type="unfinished">File format:</translation>
+        <translation>Formát souboru:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="137"/>
         <source>Coordinate system: </source>
-        <translation type="unfinished">Coordinate system: </translation>
+        <translation>Souřadnicový systém: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="150"/>
         <source>Only export those segments that are currently visible.</source>
-        <translation type="unfinished">Only export those segments that are currently visible.</translation>
+        <translation>Exportovat pouze segmenty, které jsou aktuálně viditelné.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="160"/>
         <source>Merge into single file:</source>
-        <translation type="unfinished">Merge into single file:</translation>
+        <translation>Sloučit do jednoho souboru:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="167"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="180"/>
         <source>Open destination folder when export is completed.</source>
-        <translation type="unfinished">Open destination folder when export is completed.</translation>
+        <translation>Po dokončení exportu otevřít cílovou složku.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="211"/>
         <source>Browse to destination folder</source>
-        <translation type="unfinished">Browse to destination folder</translation>
+        <translation>Procházet cílovou složku</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
         <source>Size scale:</source>
-        <translation type="unfinished">Size scale:</translation>
+        <translation>Měřítko velikosti:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="239"/>
         <source>Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</source>
-        <translation type="unfinished">Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</translation>
+        <translation>Exportovat všechny segmenty do jediného souboru OBJ. Pro soubory OBJ je to vždy povoleno, protože segmenty lze rozlišit podle materiálu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="258"/>
         <source>Export all segments to a single output STL file.</source>
-        <translation type="unfinished">Export all segments to a single output STL file.</translation>
+        <translation>Exportovat všechny segmenty do jediného výstupního souboru STL.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="278"/>
@@ -16014,17 +16014,17 @@ Podrobnosti naleznete v modulu Segmentace.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="301"/>
         <source>Use compression:</source>
-        <translation type="unfinished">Use compression:</translation>
+        <translation>Použít kompresi:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="308"/>
         <source>Show destination folder:</source>
-        <translation type="unfinished">Show destination folder:</translation>
+        <translation>Zobrazit cílovou složku:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="315"/>
         <source>Reference volume:</source>
-        <translation type="unfinished">Reference volume:</translation>
+        <translation>Referenční objem:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="288"/>
