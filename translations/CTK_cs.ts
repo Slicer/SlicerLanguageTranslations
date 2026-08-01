@@ -353,25 +353,26 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="97"/>
         <source>Closing a running module</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavírání spuštěného modulu</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="99"/>
         <source>The module &apos;%1&apos; is still running.
 Closing the tab will cancel the current computation.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modul „%1“ stále běží.
+Zavřením karty zrušíte aktuální výpočet.</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="112"/>
         <source>Closing not possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavření není možné</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="114"/>
         <source>The module &apos;%1&apos; is still running and does not support being canceled.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modul „%1“ stále běží a nepodporuje zrušení.</translation>
     </message>
 </context>
 <context>
@@ -417,7 +418,13 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se zaregistrovat modul:
+%1
+
+z důvodu:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
@@ -428,7 +435,13 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se zaregistrovat modul:
+%1
+
+z důvodu chyby ověření XML:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
@@ -439,12 +452,18 @@ due to:
 %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se zaregistrovat modul:
+
+
+z důvodu:
+%1
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se zaregistrovat moduly</translation>
     </message>
 </context>
 <context>
@@ -1193,23 +1212,23 @@ Halting export.</source>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="223"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="250"/>
         <source>Parsing DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyzují se soubory DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="132"/>
         <source>Updating database displayed fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizují se zobrazovaná pole databáze</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="153"/>
         <source>Indexing complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexace dokončena</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="221"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="248"/>
         <source>Updating database fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizují se pole databáze</translation>
     </message>
 </context>
 <context>
@@ -2044,24 +2063,24 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="326"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="507"/>
         <source>MRN: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MRN: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="330"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="511"/>
         <source>Birth Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum narození: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="365"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="543"/>
         <source>Date added: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum přidání: %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="515"/>
         <source>Sex: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pohlaví: %1</translation>
     </message>
 </context>
 <context>
@@ -2507,7 +2526,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMStorageListener.cpp" line="129"/>
         <source>Got STORE request for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijat požadavek STORE pro %1</translation>
     </message>
 </context>
 <context>
@@ -2534,22 +2553,22 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="404"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="409"/>
         <source>Load (%1k)</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst (%1k)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="413"/>
         <source>Load (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst (%1)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="526"/>
         <source>Load selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst vybrané série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="555"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst</translation>
     </message>
 </context>
 <context>
@@ -3434,22 +3453,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="14"/>
         <source>Event Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Přehrávač událostí</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="23"/>
         <source>TestCase :</source>
-        <translation type="unfinished"></translation>
+        <translation>Testovací případ:</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="49"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Záznam</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="56"/>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Přehrávání</translation>
     </message>
 </context>
 <context>
@@ -3457,22 +3476,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="14"/>
         <source>DICOM Part 19 Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>Hostovaná aplikace DICOM Part 19</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="23"/>
         <source>Load Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst data</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="36"/>
         <source>No data received</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyla přijata žádná data</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="59"/>
         <source>Create Secondary Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit sekundární snímek</translation>
     </message>
 </context>
 <context>
@@ -3840,7 +3859,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="94"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="126"/>
@@ -4421,7 +4440,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="123"/>
         <source>Editing the path failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Úprava cesty se nezdařila</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="124"/>
@@ -4434,7 +4453,15 @@ to path
 %2
 
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se změnit cestu:
+
+%1
+
+na cestu
+
+%2
+
+Zkontrolujte svá oprávnění.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="203"/>
@@ -4454,7 +4481,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="323"/>
         <source>Adding paths failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidání cest se nezdařilo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="324"/>
@@ -4462,7 +4489,10 @@ Please check your permissions.</source>
 
 %1
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se přidat následující cesty:
+
+%1
+Zkontrolujte svá oprávnění.</translation>
     </message>
 </context>
 <context>
@@ -5151,7 +5181,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSearchBox.cpp" line="72"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat...</translation>
     </message>
 </context>
 <context>
@@ -5250,7 +5280,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailLabel.ui" line="14"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhled</translation>
     </message>
 </context>
 <context>
