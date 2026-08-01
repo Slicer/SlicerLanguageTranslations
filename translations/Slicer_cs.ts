@@ -9529,7 +9529,7 @@ Tento soubor původně vyvinul Andras Lasso (PerkLab) a byl částečně financo
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.cxx" line="41"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachytit/obnovit</translation>
     </message>
 </context>
 <context>
@@ -12213,7 +12213,7 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="30"/>
         <source>SelfTests</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatické testy</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="33"/>
@@ -12221,7 +12221,10 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
 The SelfTests module allows developers to provide built-in self-tests (BIST) for slicer so that users can tell
 if their installed version of slicer are running as designed.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Modul Automatické testy umožňuje vývojářům poskytovat integrované automatické testy (BIST) pro Slicer, aby uživatelé mohli zjistit,
+zda jejich nainstalovaná verze Sliceru funguje podle návrhu.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="38"/>
@@ -12229,7 +12232,10 @@ if their installed version of slicer are running as designed.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tato práce je součástí projektu SparKit, financovaného programem ACRU organizace Cancer Care Ontario (CCO)
+a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
 </context>
 <context>
@@ -12345,7 +12351,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="58"/>
         <source>SomeMessage</source>
-        <translation type="unfinished"></translation>
+        <translation>Nějaká zpráva</translation>
     </message>
 </context>
 <context>
@@ -12353,7 +12359,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="28"/>
         <source>Segment this...</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentovat...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
@@ -12366,7 +12372,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SubjectHierarchyPlugins/SegmentStatisticsSubjectHierarchyPlugin.py" line="27"/>
         <source>Calculate statistics...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat statistiky...</translation>
     </message>
 </context>
 <context>
@@ -12389,7 +12395,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
         <source>inputVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>inputVolume</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
@@ -12404,7 +12410,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
         <source>imageThreshold</source>
-        <translation type="unfinished"></translation>
+        <translation>imageThreshold</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
@@ -12424,7 +12430,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
         <source>thresholdedVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>thresholdedVolume</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
@@ -12439,7 +12445,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
         <source>invertedVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>invertedVolume</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
@@ -12482,33 +12488,33 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="40"/>
         <source> Import DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation> Importovat soubory DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="57"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="60"/>
         <source>Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit databázi DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="80"/>
         <source>If enabled, the DICOM browser widget will be substituted with the visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je-li povoleno, widget prohlížeče DICOM bude nahrazen vizuálním prohlížečem.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="83"/>
         <source>Visual browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizuální prohlížeč</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="103"/>
         <source>Show the dicom database in vertical mode allowing to use the Slicer views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit databázi DICOM ve svislém režimu, který umožňuje používat pohledy Sliceru.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="106"/>
         <source>Side panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Boční panel</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="151"/>
@@ -12603,12 +12609,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="325"/>
         <source>Refresh the visual DICOM browser to show the current state of the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit vizuální prohlížeč DICOM tak, aby zobrazoval aktuální stav databáze.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="328"/>
         <source>Refresh browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit prohlížeč</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="338"/>
@@ -13424,7 +13430,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti úhlu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
@@ -14217,7 +14223,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Test Line Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti testovací přímky</translation>
     </message>
 </context>
 <context>
@@ -14225,7 +14231,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Test Line Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti testovací přímky</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="32"/>
@@ -14243,12 +14249,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="99"/>
         <source>Select active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat aktivní značku</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="483"/>
         <source>Create new %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový %1</translation>
     </message>
 </context>
 <context>
@@ -14257,7 +14263,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="120"/>
         <source>Open the %1 module</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít modul %1</translation>
     </message>
 </context>
 <context>
@@ -14392,7 +14398,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="253"/>
         <source>PBR</source>
-        <translation type="unfinished"></translation>
+        <translation>PBR</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="274"/>
@@ -14610,12 +14616,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název atributu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute value</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnota atributu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="194"/>
@@ -14633,7 +14639,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="35"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributy</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="74"/>
@@ -14658,7 +14664,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="118"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti</translation>
     </message>
 </context>
 <context>
@@ -14725,7 +14731,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti grafu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
@@ -14860,7 +14866,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti řady grafu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
@@ -15150,7 +15156,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti ROI</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
@@ -15277,7 +15283,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
-        <translation type="unfinished"></translation>
+        <translation>Továrna scén</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
@@ -16023,14 +16029,16 @@ Podrobnosti naleznete v modulu Segmentace.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="288"/>
         <source>Exporting may erase data</source>
-        <translation type="unfinished"></translation>
+        <translation>Export může vymazat data</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="294"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuální segmentace se do nové geometrie zcela nevejde.
+Chcete segmentaci oříznout?
+</translation>
     </message>
 </context>
 <context>
@@ -16741,7 +16749,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení jednotek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
@@ -17299,12 +17307,12 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1381"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekonstrukce silné vrstvy</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1391"/>
         <source>Slab thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>Tloušťka vrstvy</translation>
     </message>
 </context>
 <context>
@@ -17312,7 +17320,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informace o řezu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
@@ -17448,7 +17456,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceVerticalControllerWidget.ui" line="35"/>
         <source>Vertical Slice Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>Svislý ovladač řezu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceVerticalControllerWidget.cxx" line="80"/>
@@ -17484,7 +17492,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
         <source>IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
@@ -17625,12 +17633,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="140"/>
         <source>Unit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednotka: %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="173"/>
         <source>Properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti:</translation>
     </message>
 </context>
 <context>
@@ -17743,12 +17751,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="369"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím odemknete tuto tabulku, aby bylo možné hodnoty upravovat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="374"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím zamknete tuto tabulku, abyste zabránili úpravám hodnot v uživatelském rozhraní</translation>
     </message>
 </context>
 <context>
@@ -17756,7 +17764,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti textu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
@@ -18179,7 +18187,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informace o 3D pohledu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
@@ -19034,7 +19042,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
-        <translation type="unfinished"></translation>
+        <translation>Prahování objemu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="29"/>
@@ -19353,7 +19361,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servery</translation>
     </message>
 </context>
 <context>
@@ -19846,7 +19854,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="923"/>
         <source>Compatible Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompatibilní soubory</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="935"/>
@@ -19953,7 +19961,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="89"/>
         <source>Parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Sada parametrů</translation>
     </message>
 </context>
 <context>
@@ -19976,7 +19984,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="367"/>
         <source>%1 (%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2 s)</translation>
     </message>
 </context>
 <context>
@@ -20063,7 +20071,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="159"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul &lt;b&gt;Barvy&lt;/b&gt; spravuje vyhledávací tabulky barev uložené v uzlech Barva.&lt;br&gt;Tyto tabulky převádějí číselnou hodnotu na barvu pro zobrazování různých typů dat, například objemů a modelů.&lt;br&gt;K dispozici jsou dva typy vyhledávacích tabulek:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Diskrétní tabulka: Určí se seznam pojmenovaných barev (například GenericAnatomyColors). Diskrétní tabulky lze použít i pro spojité mapování; v takovém případě se barvy použijí jako vzorky ve stejných vzdálenostech v zadaném rozsahu a mezi nimi se plynule interpoluje (například Grey).&lt;/li&gt;&lt;li&gt;Spojitá škála: Barva se určí pro libovolně zvolené číselné hodnoty a hodnotu barvy lze vypočítat plynulou interpolací mezi nimi (například PET-DICOM). Barvy nemají zadané názvy.&lt;/li&gt;Všechny vestavěné tabulky barev jsou jen pro čtení. Chcete-li barvy upravit, vytvořte kopii tabulky barev kliknutím na ikonu složky „kopírovat“. &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="180"/>
@@ -21008,7 +21016,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
         <source>Open log location</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít umístění protokolu</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="103"/>
@@ -21026,12 +21034,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="62"/>
         <source>Profiling tool for the developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilovací nástroj pro vývojáře.</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="70"/>
         <source>This module was developed by Julien Finet, Kitware Inc. This work was supported by NIH grant 3P41RR013218-12S1, NA-MIC, NAC and Slicer community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento modul vytvořil Julien Finet ze společnosti Kitware Inc. Tato práce byla podpořena grantem NIH 3P41RR013218-12S1, NA-MIC, NAC a komunitou Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="45"/>
@@ -21157,10 +21165,10 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="734"/>
         <source>Export %n node(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Exportovat %n uzel</numerusform>
+            <numerusform>Exportovat %n uzly</numerusform>
+            <numerusform>Exportovat %n uzlů</numerusform>
         </translation>
     </message>
     <message>
@@ -21423,7 +21431,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Restartovat</translation>
     </message>
 </context>
 <context>
@@ -22079,7 +22087,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="40"/>
         <source>GeneralizedReformat</source>
-        <translation type="unfinished"></translation>
+        <translation>GeneralizedReformat</translation>
     </message>
 </context>
 <context>
@@ -22151,7 +22159,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti zobrazení objemu mapy popisků</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
@@ -22192,7 +22200,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -22200,7 +22208,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerLoadableModuleTemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -23323,12 +23331,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="207"/>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul pro vytváření a správu značek ve 2D a 3D. Tento modul nahradil dřívější modul Anotace.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="216"/>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato práce byla podpořena NAMIC, NAC a komunitou Slicer.</translation>
     </message>
 </context>
 <context>
@@ -23750,7 +23758,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="544"/>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit umístění posledního vloženého řídicího bodu (řídicí bod nebude odstraněn).</translation>
     </message>
 </context>
 <context>
@@ -23764,7 +23772,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
         <source>Markups Fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiducialy značek</translation>
     </message>
 </context>
 <context>
@@ -24242,7 +24250,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="149"/>
         <source>Requires:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyžaduje:</translation>
     </message>
 </context>
 <context>
@@ -24902,12 +24910,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="60"/>
         <source>MRB Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Datový balíček MRB Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="123"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Medical Reality Bundle</translation>
     </message>
 </context>
 <context>
@@ -25024,7 +25032,7 @@ Tato možnost neovlivňuje ukládání rozvržení pohledů a uspořádání oke
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
@@ -25066,12 +25074,12 @@ Tato možnost neovlivňuje ukládání rozvržení pohledů a uspořádání oke
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Medical Reality Bundle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="85"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Datový balíček Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
@@ -25840,12 +25848,12 @@ Segment pravděpodobně nelze převést na reprezentaci uzavřeného povrchu.</t
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="45"/>
         <source>Crop to minimum extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Oříznout na minimální rozsah</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="47"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Je-li povoleno, reprezentace mapy popisků segmentace se ořízne na minimální potřebnou velikost. Tím se šetří místo v úložišti, ale změní se souřadnicový systém voxelů (fyzický souřadnicový systém není ovlivněn).</translation>
     </message>
 </context>
 <context>
@@ -26006,12 +26014,12 @@ Poznámka: Týká se to tabulek segmentů v modulech Editor segmentů a Segmenta
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="156"/>
         <source>This is a module for creating, recording, and replaying node sequences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento modul slouží k vytváření, záznamu a přehrávání sekvencí uzlů.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="162"/>
         <source>This work was funded by CCO ACRU and OCAIRO grants.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato práce byla financována granty CCO ACRU a OCAIRO.</translation>
     </message>
 </context>
 <context>
@@ -26263,7 +26271,7 @@ Poznámka: Týká se to tabulek segmentů v modulech Editor segmentů a Segmenta
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekvence objemů</translation>
     </message>
 </context>
 <context>
@@ -26705,7 +26713,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="69"/>
         <source>Enable/Disable Internationalization</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit/zakázat internacionalizaci</translation>
     </message>
 </context>
 <context>
@@ -27177,12 +27185,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="97"/>
         <source>Additional style paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesty k dalším stylům</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="104"/>
         <source>Current style</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuální styl</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="238"/>
@@ -27240,7 +27248,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="161"/>
         <source>Invalid format</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný formát</translation>
     </message>
 </context>
 <context>
@@ -27527,12 +27535,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="83"/>
         <source>GPU Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost shaderu GPU</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="96"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost shaderu</translation>
     </message>
 </context>
 <context>
@@ -27606,12 +27614,12 @@ Definováno -&gt; Nedefinováno (vymazáním polohy) -&gt; Náhled (vstupem do r
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="75"/>
         <source>Clone this item and its data node if any along with display and storage options</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonovat tuto položku a její datový uzel, pokud existuje, včetně možností zobrazení a úložiště</translation>
     </message>
 </context>
 <context>
@@ -27619,7 +27627,7 @@ Definováno -&gt; Nedefinováno (vymazáním polohy) -&gt; Náhled (vstupem do r
     <message>
         <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="88"/>
         <source>Show color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit legendu barev</translation>
     </message>
 </context>
 <context>
@@ -27685,17 +27693,17 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="84"/>
         <source>Show all children</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit všechny podřízené položky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="87"/>
         <source>Hide all children</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrýt všechny podřízené položky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="136"/>
         <source>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Rename item&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Double-click the item name, or right-click the item and select &apos;Rename&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deform any branch using a transform (registration result)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Make sure the transform column is shown using the &apos;Show transforms&apos; checkbox. To transform a branch, right-click on the cell in the transform column of the row in question, and choose a transform.&lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Přejmenovat položku&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Dvakrát klikněte na název položky nebo na položku klikněte pravým tlačítkem a vyberte „Přejmenovat“&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deformovat libovolnou větev pomocí transformace (výsledek registrace)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Zajistěte, aby byl sloupec transformace zobrazen pomocí zaškrtávacího políčka „Zobrazit transformace“. Chcete-li transformovat větev, klikněte pravým tlačítkem na buňku ve sloupci transformace příslušného řádku a vyberte transformaci.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -27726,12 +27734,12 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="85"/>
         <source>Export to file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do souboru...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="86"/>
         <source>Export this node to a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat tento uzel do souboru</translation>
     </message>
 </context>
 <context>
@@ -27772,7 +27780,7 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="92"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Viditelnost obrysu ve 2D</translation>
     </message>
 </context>
 <context>
@@ -27963,7 +27971,7 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="49"/>
         <source>Subject Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchie subjektů</translation>
     </message>
 </context>
 <context>
@@ -27977,7 +27985,7 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="95"/>
         <source>Set item opacity in the sub-menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit krytí položky v podnabídce</translation>
     </message>
 </context>
 <context>
@@ -27985,7 +27993,7 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="79"/>
         <source>Create hierarchy from loaded directory structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit hierarchii z načtené struktury adresářů</translation>
     </message>
 </context>
 <context>
@@ -28002,7 +28010,11 @@ Kliknutím na Zrušit vytvoříte hierarchii pacient/studie ručně a přetáhne
 Select plugin to add node named
 &apos;%1&apos;
 (type %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Stejná hodnota spolehlivosti byla nalezena pro více než jeden zásuvný modul hierarchie subjektů pro přidání nového uzlu do hierarchie subjektů.
+
+Vyberte zásuvný modul pro přidání uzlu s názvem
+„%1“
+(typ %2)</translation>
     </message>
 </context>
 <context>
@@ -28732,17 +28744,17 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="83"/>
         <source>Show in all views</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit ve všech pohledech</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="86"/>
         <source>2D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Viditelnost ve 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="91"/>
         <source>3D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Viditelnost ve 3D</translation>
     </message>
 </context>
 <context>
@@ -28869,7 +28881,7 @@ Značky: %6</translation>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="39"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerSuperLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -28877,7 +28889,7 @@ Značky: %6</translation>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerSuperLoadableModuleTemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -29231,7 +29243,7 @@ Značky: %6</translation>
         <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="39"/>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="40"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>TemplateKey</translation>
     </message>
 </context>
 <context>
@@ -29239,7 +29251,7 @@ Značky: %6</translation>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>TemplateKey</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
@@ -29271,7 +29283,7 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesReader.cxx" line="71"/>
         <source>Terminology</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminologie</translation>
     </message>
 </context>
 <context>
@@ -29494,7 +29506,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="97"/>
         <source>The Transforms Module creates and edits transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul Transformace vytváří a upravuje transformace.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="105"/>
@@ -29702,7 +29714,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="45"/>
         <source>Units</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednotky</translation>
     </message>
 </context>
 <context>
@@ -30261,12 +30273,12 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="83"/>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
         <source>Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Přenosová funkce</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="95"/>
         <source>Volume Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost objemu</translation>
     </message>
 </context>
 <context>
@@ -30858,7 +30870,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLBSplineTransformNode.cxx" line="28"/>
         <source>B-Spline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformace B-spline</translation>
     </message>
 </context>
 <context>
@@ -30866,7 +30878,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLCPURayCastVolumeRenderingDisplayNode.cxx" line="36"/>
         <source>CPU Ray-Cast Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Objemové vykreslování trasováním paprsků CPU</translation>
     </message>
 </context>
 <context>
@@ -30882,7 +30894,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipModelsNode.cxx" line="30"/>
         <source>Clip Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Oříznout modely</translation>
     </message>
 </context>
 <context>
@@ -30895,7 +30907,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLClipNode.cxx" line="728"/>
         <source>%name (%id) cannot be represented using only planes</source>
-        <translation type="unfinished"></translation>
+        <translation>%name (%id) nelze reprezentovat pouze rovinami</translation>
     </message>
 </context>
 <context>
@@ -30903,7 +30915,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Colors/MRML/vtkMRMLColorLegendDisplayNode.cxx" line="44"/>
         <source>Color Legend Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení legendy barev</translation>
     </message>
 </context>
 <context>
@@ -30911,7 +30923,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorNode.cxx" line="35"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva</translation>
     </message>
 </context>
 <context>
@@ -30919,7 +30931,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableNode.cxx" line="36"/>
         <source>Color Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulka barev</translation>
     </message>
 </context>
 <context>
@@ -31041,7 +31053,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/CropVolume/MRML/vtkMRMLCropVolumeParametersNode.cxx" line="40"/>
         <source>Crop Volume Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametry oříznutí objemu</translation>
     </message>
 </context>
 <context>
@@ -31057,7 +31069,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionImageVolumeNode.cxx" line="31"/>
         <source>Diffusion Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Difuzní obrazový objem</translation>
     </message>
 </context>
 <context>
@@ -31065,7 +31077,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorDisplayPropertiesNode.cxx" line="34"/>
         <source>Diffusion Tensor Display Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti zobrazení difuzního tenzoru</translation>
     </message>
 </context>
 <context>
@@ -31073,7 +31085,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeDisplayNode.cxx" line="48"/>
         <source>Diffusion Tensor Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení objemu difuzního tenzoru</translation>
     </message>
 </context>
 <context>
@@ -31081,7 +31093,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeNode.cxx" line="31"/>
         <source>Diffusion Tensor Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Objem difuzního tenzoru</translation>
     </message>
 </context>
 <context>
@@ -31089,7 +31101,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionTensorVolumeSliceDisplayNode.cxx" line="37"/>
         <source>Diffusion Tensor Volume Slice Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzel zobrazení řezu objemu difuzního tenzoru</translation>
     </message>
 </context>
 <context>
@@ -31097,7 +31109,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionWeightedVolumeDisplayNode.cxx" line="36"/>
         <source>Diffusion Weighted Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení difuzně váženého objemu</translation>
     </message>
 </context>
 <context>
@@ -31105,7 +31117,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionWeightedVolumeNode.cxx" line="36"/>
         <source>Diffusion Weighted Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Difuzně vážený objem</translation>
     </message>
 </context>
 <context>
@@ -31113,7 +31125,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDisplayableHierarchyNode.cxx" line="35"/>
         <source>Displayable Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazitelná hierarchie</translation>
     </message>
 </context>
 <context>
@@ -31121,7 +31133,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLFolderDisplayNode.cxx" line="35"/>
         <source>Folder Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení složky</translation>
     </message>
 </context>
 <context>
@@ -31129,7 +31141,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLGPURayCastVolumeRenderingDisplayNode.cxx" line="36"/>
         <source>GPU Ray-Cast Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Objemové vykreslování trasováním paprsků GPU</translation>
     </message>
 </context>
 <context>
@@ -31137,7 +31149,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeDisplayNode.cxx" line="37"/>
         <source>Glyphable Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení objemu s glyfy</translation>
     </message>
 </context>
 <context>
@@ -31145,7 +31157,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGlyphableVolumeSliceDisplayNode.cxx" line="32"/>
         <source>Glyphable Volume Slice Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzel zobrazení řezu objemu s glyfy</translation>
     </message>
 </context>
 <context>
@@ -31153,7 +31165,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLGridTransformNode.cxx" line="33"/>
         <source>Grid Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Mřížková transformace</translation>
     </message>
 </context>
 <context>
@@ -31161,7 +31173,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLHierarchyNode.cxx" line="59"/>
         <source>Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchie</translation>
     </message>
 </context>
 <context>
@@ -31169,7 +31181,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLHierarchyStorageNode.cxx" line="28"/>
         <source>Hierarchy Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště hierarchie</translation>
     </message>
 </context>
 <context>
@@ -31185,7 +31197,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeDisplayNode.cxx" line="36"/>
         <source>Label Map Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení objemu mapy popisků</translation>
     </message>
 </context>
 <context>
@@ -31193,7 +31205,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLabelMapVolumeNode.cxx" line="39"/>
         <source>Label Map Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Objem mapy popisků</translation>
     </message>
 </context>
 <context>
@@ -31201,7 +31213,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLayoutNode.cxx" line="19"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozvržení</translation>
     </message>
 </context>
 <context>
@@ -31209,7 +31221,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformNode.cxx" line="32"/>
         <source>Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Lineární transformace</translation>
     </message>
 </context>
 <context>
@@ -31217,14 +31229,14 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="49"/>
         <source>Linear Transform Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště sekvence lineárních transformací</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="608"/>
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="619"/>
         <source>Linear transform sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sekvence lineárních transformací</translation>
     </message>
 </context>
 <context>
@@ -31232,12 +31244,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsAngleNode.cxx" line="46"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Úhel</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsAngleNode.cxx" line="49"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
 </context>
 <context>
@@ -31245,12 +31257,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsClosedCurveNode.cxx" line="57"/>
         <source>Closed Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzavřená křivka</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsClosedCurveNode.cxx" line="60"/>
         <source>CC</source>
-        <translation type="unfinished"></translation>
+        <translation>CC</translation>
     </message>
 </context>
 <context>
@@ -31258,12 +31270,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="77"/>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Křivka</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="80"/>
         <source>OC</source>
-        <translation type="unfinished"></translation>
+        <translation>OC</translation>
     </message>
 </context>
 <context>
@@ -31271,7 +31283,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsDisplayNode.cxx" line="48"/>
         <source>Markups Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení značek</translation>
     </message>
 </context>
 <context>
@@ -31279,7 +31291,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialDisplayNode.cxx" line="34"/>
         <source>Markups Fiducial Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení fiducialů značek</translation>
     </message>
 </context>
 <context>
@@ -31287,7 +31299,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="40"/>
         <source>Point List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam bodů</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="43"/>
@@ -31321,7 +31333,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="59"/>
         <source>Markups JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště JSON značek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="332"/>
@@ -31330,7 +31342,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="343"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>JSON značek</translation>
     </message>
 </context>
 <context>
@@ -31338,12 +31350,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="46"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Přímka</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="49"/>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation>L</translation>
     </message>
 </context>
 <context>
@@ -31356,7 +31368,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="64"/>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Značka</translation>
     </message>
 </context>
 <context>
@@ -31364,7 +31376,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneDisplayNode.cxx" line="30"/>
         <source>Markups Plane Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení roviny značek</translation>
     </message>
 </context>
 <context>
@@ -31372,7 +31384,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneJsonStorageNode.cxx" line="39"/>
         <source>Markups Plane JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště JSON roviny značek</translation>
     </message>
 </context>
 <context>
@@ -31380,7 +31392,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="53"/>
         <source>Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Rovina</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="56"/>
@@ -31393,7 +31405,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROIDisplayNode.cxx" line="30"/>
         <source>Markups ROI Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení ROI značek</translation>
     </message>
 </context>
 <context>
@@ -31401,7 +31413,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROIJsonStorageNode.cxx" line="38"/>
         <source>Markups ROI JSON Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště JSON ROI značek</translation>
     </message>
 </context>
 <context>
@@ -31414,7 +31426,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="60"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
 </context>
 <context>
@@ -31422,12 +31434,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.cxx" line="33"/>
         <source>Test Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Testovací přímka</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/MRML/vtkMRMLMarkupsTestLineNode.h" line="52"/>
         <source>TL</source>
-        <translation type="unfinished"></translation>
+        <translation>TL</translation>
     </message>
 </context>
 <context>
@@ -31435,7 +31447,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelDisplayNode.cxx" line="44"/>
         <source>Model Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení modelu</translation>
     </message>
 </context>
 <context>
@@ -31443,7 +31455,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelHierarchyNode.cxx" line="31"/>
         <source>Model Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchie modelů</translation>
     </message>
 </context>
 <context>
@@ -31535,7 +31547,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLMultiVolumeRenderingDisplayNode.cxx" line="37"/>
         <source>Multi Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Vícerozměrné objemové vykreslování</translation>
     </message>
 </context>
 <context>
@@ -31543,7 +31555,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLNRRDStorageNode.cxx" line="44"/>
         <source>NRRD Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště NRRD</translation>
     </message>
 </context>
 <context>
@@ -31551,7 +31563,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPETProceduralColorNode.cxx" line="14"/>
         <source>PET Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Procedurální barva PET</translation>
     </message>
 </context>
 <context>
@@ -31559,7 +31571,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotChartNode.cxx" line="50"/>
         <source>Plot Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Graf</translation>
     </message>
 </context>
 <context>
@@ -31567,7 +31579,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotSeriesNode.cxx" line="59"/>
         <source>Plot Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Řada grafu</translation>
     </message>
 </context>
 <context>
@@ -31575,7 +31587,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotViewNode.cxx" line="48"/>
         <source>Plot View</source>
-        <translation type="unfinished"></translation>
+        <translation>Pohled grafu</translation>
     </message>
 </context>
 <context>
@@ -31583,7 +31595,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorNode.cxx" line="35"/>
         <source>Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Procedurální barva</translation>
     </message>
 </context>
 <context>
@@ -31591,7 +31603,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="35"/>
         <source>Procedural Color Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště procedurálních barev</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="220"/>
@@ -31600,7 +31612,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="231"/>
         <source>MRML Color Function</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Funkce barev MRML</translation>
     </message>
 </context>
 <context>
@@ -31608,7 +31620,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLScalarVolumeDisplayNode.cxx" line="50"/>
         <source>Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení objemu</translation>
     </message>
 </context>
 <context>
@@ -31624,7 +31636,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSceneViewNode.cxx" line="42"/>
         <source>Scene View</source>
-        <translation type="unfinished"></translation>
+        <translation>Pohled scény</translation>
     </message>
 </context>
 <context>
@@ -31632,7 +31644,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSceneViewStorageNode.cxx" line="46"/>
         <source>Scene View Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště pohledu scény</translation>
     </message>
 </context>
 <context>
@@ -31640,7 +31652,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Segmentations/MRML/vtkMRMLSegmentEditorNode.cxx" line="50"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor segmentů</translation>
     </message>
 </context>
 <context>
@@ -31648,7 +31660,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationDisplayNode.cxx" line="63"/>
         <source>Segmentation Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení segmentace</translation>
     </message>
 </context>
 <context>
@@ -31656,7 +31668,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationNode.cxx" line="69"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentace</translation>
     </message>
 </context>
 <context>
@@ -31664,14 +31676,14 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="108"/>
         <source>Segmentation Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště segmentace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="151"/>
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="182"/>
         <source>Segmentation</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Segmentace</translation>
     </message>
 </context>
 <context>
@@ -31679,7 +31691,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSelectionNode.cxx" line="43"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Výběr</translation>
     </message>
 </context>
 <context>
@@ -31687,7 +31699,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/MRML/vtkMRMLSequenceBrowserNode.cxx" line="140"/>
         <source>Sequence Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Prohlížeč sekvencí</translation>
     </message>
 </context>
 <context>
@@ -31703,7 +31715,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="40"/>
         <source>Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště sekvencí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="235"/>
@@ -31712,7 +31724,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="250"/>
         <source>MRML Sequence Bundle</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Balíček sekvencí MRML</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="239"/>
@@ -31721,7 +31733,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="254"/>
         <source>MRML Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sekvence MRML</translation>
     </message>
 </context>
 <context>
@@ -31729,7 +31741,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyNode.cxx" line="39"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost shaderu</translation>
     </message>
 </context>
 <context>
@@ -31737,14 +31749,14 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="49"/>
         <source>Shader Property Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště vlastností shaderu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="491"/>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="498"/>
         <source>MRML Shader Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost shaderu MRML</translation>
     </message>
 </context>
 <context>
@@ -31752,7 +31764,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceCompositeNode.cxx" line="45"/>
         <source>Slice Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompozice řezu</translation>
     </message>
 </context>
 <context>
@@ -31768,7 +31780,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSliceNode.cxx" line="47"/>
         <source>Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Řez</translation>
     </message>
 </context>
 <context>
@@ -31776,7 +31788,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLSnapshotClipNode.cxx" line="33"/>
         <source>Snapshot Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ořez snímku</translation>
     </message>
 </context>
 <context>
@@ -31784,7 +31796,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLStreamingVolumeNode.cxx" line="49"/>
         <source>Streaming Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Streamovaný objem</translation>
     </message>
 </context>
 <context>
@@ -31792,7 +31804,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableNode.cxx" line="66"/>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulka</translation>
     </message>
 </context>
 <context>
@@ -31800,14 +31812,14 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="53"/>
         <source>SQLite Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště tabulky SQLite</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="308"/>
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="319"/>
         <source>SQLight database</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Databáze SQLite</translation>
     </message>
 </context>
 <context>
@@ -31815,7 +31827,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="80"/>
         <source>Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště tabulky</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
@@ -31824,14 +31836,14 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="247"/>
         <source>Tab-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hodnoty oddělené tabulátory</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="234"/>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="245"/>
         <source>Comma-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hodnoty oddělené čárkami</translation>
     </message>
 </context>
 <context>
@@ -31839,7 +31851,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTensorVolumeNode.cxx" line="32"/>
         <source>Tensor Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Tenzorový objem</translation>
     </message>
 </context>
 <context>
@@ -31847,7 +31859,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextNode.cxx" line="34"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
 </context>
 <context>
@@ -31890,7 +31902,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformDisplayNode.cxx" line="55"/>
         <source>Transform Display Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzel zobrazení transformace</translation>
     </message>
 </context>
 <context>
@@ -31908,7 +31920,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTransformSequenceStorageNode.cxx" line="629"/>
         <source>Grid Transform Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sekvence mřížkových transformací</translation>
     </message>
 </context>
 <context>
@@ -31916,7 +31928,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTransformStorageNode.cxx" line="44"/>
         <source>Transform Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště transformací</translation>
     </message>
 </context>
 <context>
@@ -31924,7 +31936,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLUnitNode.cxx" line="38"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednotka</translation>
     </message>
 </context>
 <context>
@@ -31932,7 +31944,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeDisplayNode.cxx" line="39"/>
         <source>Vector Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení vektorového objemu</translation>
     </message>
 </context>
 <context>
@@ -31940,7 +31952,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVectorVolumeNode.cxx" line="36"/>
         <source>Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Vektorový objem</translation>
     </message>
 </context>
 <context>
@@ -32061,7 +32073,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeHeaderlessStorageNode.cxx" line="43"/>
         <source>Volume Headerless Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště objemu bez hlavičky</translation>
     </message>
 </context>
 <context>
@@ -32069,14 +32081,14 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="55"/>
         <source>Volume Property Json Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště JSON vlastnosti objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="606"/>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyJsonStorageNode.cxx" line="613"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost objemu MRML</translation>
     </message>
 </context>
 <context>
@@ -32084,7 +32096,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyNode.cxx" line="29"/>
         <source>Volume Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost objemu</translation>
     </message>
 </context>
 <context>
@@ -32092,7 +32104,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="34"/>
         <source>Volume Property Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště vlastnosti objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="207"/>
@@ -32100,7 +32112,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="216"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost objemu MRML</translation>
     </message>
 </context>
 <context>
@@ -32142,14 +32154,14 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="59"/>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.h" line="61"/>
         <source>Volume Sequence Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště sekvence objemů</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="527"/>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="538"/>
         <source>Volume Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sekvence objemů</translation>
     </message>
 </context>
 <context>
@@ -32157,7 +32169,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLdGEMRICProceduralColorNode.cxx" line="28"/>
         <source>d GEMRIC Procedural Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Procedurální barva dGEMRIC</translation>
     </message>
 </context>
 <context>
@@ -32165,7 +32177,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1079"/>
         <source>background</source>
-        <translation type="unfinished"></translation>
+        <translation>pozadí</translation>
     </message>
 </context>
 <context>
@@ -32173,7 +32185,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="717"/>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez názvu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="719"/>
