@@ -815,12 +815,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="17"/>
         <source>Breach warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Varování před průnikem</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="25"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sada parametrů:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="64"/>
@@ -830,12 +830,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="74"/>
         <source>Model to watch:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovaný model:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformace hrotu nástroje (do RAS): </translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
@@ -845,57 +845,57 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="161"/>
         <source>Display line to closest point</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit přímku k nejbližšímu bodu</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="178"/>
         <source>Line to closest point color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva přímky k nejbližšímu bodu</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="188"/>
         <source>Display warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit barvu varování</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="205"/>
         <source>Warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva varování</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="212"/>
         <source>Play warning sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Přehrát zvuk varování</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost textu přímky k nejbližšímu bodu:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
         <source>Line to closest point thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tloušťka přímky k nejbližšímu bodu:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
         <source>Breach warning distance (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdálenost varování před průnikem (mm):</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="103"/>
         <source>This module can alert the user by color change and sound signal if a tool enters a restricted area. The restricted area is defined by a surface model, the tool position is defined by a linear transform. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento modul může uživatele upozornit změnou barvy a zvukovým signálem, pokud nástroj vstoupí do omezené oblasti. Omezenou oblast vymezuje povrchový model, polohu nástroje určuje lineární transformace. Návod k použití tohoto modulu najdete na &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;webu SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="111"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato práce byla financována organizací Cancer Care Ontario a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
         <source>Breach Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Varování před průnikem</translation>
     </message>
 </context>
 <context>
