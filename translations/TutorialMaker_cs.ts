@@ -25,7 +25,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation>Typ</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="26"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="106"/>
         <source>Start Recording</source>
-        <translation type="unfinished">Začít nahrávat</translation>
+        <translation>Začít nahrávat</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="152"/>
@@ -287,7 +287,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="61"/>
         <source>Save</source>
-        <translation type="unfinished">Uložit</translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="68"/>
