@@ -165,7 +165,7 @@ Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="78"/>
         <source>toolBar</source>
-        <translation>panelNástrojů</translation>
+        <translation>Panel nástrojů</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="106"/>
@@ -587,7 +587,7 @@ z důvodu:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="38"/>
         <source>toolBar</source>
-        <translation type="unfinished">panelNástrojů</translation>
+        <translation>Panel nástrojů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="72"/>
@@ -4679,7 +4679,7 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"/>
         <source>toolBar</source>
-        <translation type="unfinished">panelNástrojů</translation>
+        <translation>Panel nástrojů</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
