@@ -21075,12 +21075,12 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="23"/>
         <source>Export node</source>
-        <translation type="unfinished">Export node</translation>
+        <translation>Exportovat uzel</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="48"/>
         <source>Filename:</source>
-        <translation type="unfinished">Filename:</translation>
+        <translation>Název souboru:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
@@ -21100,7 +21100,7 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="89"/>
         <source>Options:</source>
-        <translation type="unfinished">Options:</translation>
+        <translation>Možnosti:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="114"/>
@@ -21140,7 +21140,7 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
         <source>Apply transforms</source>
-        <translation type="unfinished">Apply transforms</translation>
+        <translation>Použít transformace</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="131"/>
@@ -21189,7 +21189,7 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="875"/>
         <source>Filename not standard</source>
-        <translation type="unfinished">Filename not standard</translation>
+        <translation>Název souboru není standardní</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="876"/>
@@ -21216,7 +21216,7 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="943"/>
         <source>Failed to export node %1; filename is empty.</source>
-        <translation type="unfinished">Failed to export node %1; filename is empty.</translation>
+        <translation>Uzel %1 se nepodařilo exportovat; název souboru je prázdný.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="963"/>
@@ -21226,7 +21226,7 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="964"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
-        <translation type="unfinished">The file %1 already exists. Do you want to replace it?</translation>
+        <translation>Soubor %1 již existuje. Chcete jej nahradit?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1011"/>
@@ -21252,12 +21252,12 @@ Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1224"/>
         <source>Export an individual node</source>
-        <translation type="unfinished">Export an individual node</translation>
+        <translation>Exportovat jednotlivý uzel</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1246"/>
         <source>Export error</source>
-        <translation type="unfinished">Export error</translation>
+        <translation>Chyba exportu</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1246"/>
@@ -22100,7 +22100,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="94"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="95"/>
@@ -22110,13 +22110,13 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="304"/>
         <source>Select a reader</source>
-        <translation type="unfinished">Select a reader</translation>
+        <translation>Vybrat čtečku</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="305"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Select a reader to use for your data:</translation>
+        <translation>Vyberte čtečku, kterou chcete použít pro svá data:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="433"/>
@@ -22126,32 +22126,32 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="566"/>
         <source>Adding data succeeded</source>
-        <translation type="unfinished">Adding data succeeded</translation>
+        <translation>Přidání dat proběhlo úspěšně</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="568"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
-        <translation type="unfinished">The selected files were loaded successfully but errors or warnings were reported.</translation>
+        <translation>Vybrané soubory byly úspěšně načteny, ale byly hlášeny chyby nebo varování.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="572"/>
         <source>Adding data failed</source>
-        <translation type="unfinished">Adding data failed</translation>
+        <translation>Přidání dat se nezdařilo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="574"/>
         <source>Error occurred while loading the selected files.</source>
-        <translation type="unfinished">Error occurred while loading the selected files.</translation>
+        <translation>Při načítání vybraných souborů došlo k chybě.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="579"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
-        <translation type="unfinished">Click &apos;Show details&apos; button and check the application log for more information.</translation>
+        <translation>Klikněte na tlačítko „Zobrazit podrobnosti“ a další informace najdete v protokolu aplikace.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="586"/>
         <source>Check the application log for more information.</source>
-        <translation type="unfinished">Check the application log for more information.</translation>
+        <translation>Další informace najdete v protokolu aplikace.</translation>
     </message>
 </context>
 <context>
