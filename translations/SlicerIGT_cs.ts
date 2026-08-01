@@ -368,7 +368,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-Tento soubor původně vyvinuli Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab a Steve Pieper, Isomics, Inc.; částečně jej financoval grant NIH 3P41RR013218-12S1.
+Tento soubor původně vyvinuli Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab
+a Steve Pieper, Isomics, Inc.; částečně jej financoval grant NIH 3P41RR013218-12S1.
 </translation>
     </message>
 </context>
