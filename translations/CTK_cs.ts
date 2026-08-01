@@ -3751,112 +3751,112 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="14"/>
         <source>Material Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost materiálu</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Krytí:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
         <source>Ambient:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambientní:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation type="unfinished"></translation>
+        <translation>Difuzní:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrcadlový:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
         <source>Specular power</source>
-        <translation type="unfinished"></translation>
+        <translation>Síla zrcadlového odrazu</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
         <source>Power:</source>
-        <translation type="unfinished"></translation>
+        <translation>Síla:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
         <source>Backface Culling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ořezávání zadních ploch:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhled:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Předvolby:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kovovost:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
         <source>Roughness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Drsnost:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="308"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ploché</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="313"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="318"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="323"/>
         <source>PBR</source>
-        <translation type="unfinished"></translation>
+        <translation>PBR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="106"/>
         <source>Full ambient eliminating all directional shading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plné ambientní osvětlení bez směrového stínování.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="107"/>
         <source>Dull material properties (no specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Matné vlastnosti materiálu (bez zrcadlového osvětlení).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="108"/>
         <source>Smooth material properties (moderate specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Hladké vlastnosti materiálu (střední zrcadlové osvětlení).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="109"/>
         <source>Shiny material properties (high specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesklé vlastnosti materiálu (silné zrcadlové osvětlení).</translation>
     </message>
 </context>
 <context>
@@ -5052,22 +5052,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="20"/>
         <source>Screen Capture Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti snímání obrazovky</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="99"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="105"/>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Složka:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="112"/>
         <source>Select a directory in which screen captures will be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte adresář, do kterého se budou ukládat snímky obrazovky.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="119"/>
@@ -5077,103 +5077,103 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="126"/>
         <source>Type in a base-name for the image file, or use the default provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte základní název souboru obrázku nebo použijte výchozí název.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="129"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez názvu</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="136"/>
         <source>Image version number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Číslo verze obrázku:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Měřítko:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"/>
         <source>Select an integer scale factor (between 0.5 and 5) for the image file, e.g. a value of &quot;2&quot; will save an image twice the size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte celočíselné měřítko souboru obrázku (v rozmezí 0,5 až 5); například hodnota „2“ uloží obrázek dvakrát větší.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="183"/>
         <source>Output resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstupní rozlišení:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="190"/>
         <source>Width of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Šířka snímku obrazovky</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="193"/>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="216"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="203"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="213"/>
         <source>Height of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Výška snímku obrazovky</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="229"/>
         <source>Lock/unlock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknout/odemknout poměr stran</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="249"/>
         <source>Overwrite:</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepsat:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="266"/>
         <source>Screenshot delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpoždění snímku obrazovky:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="273"/>
         <source> s</source>
-        <translation type="unfinished"></translation>
+        <translation> s</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="67"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachytit</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="172"/>
         <source>Height of widget: %1 is invalid. Check widget dimensions. Using default aspect ratio (1.0).</source>
-        <translation type="unfinished"></translation>
+        <translation>Výška widgetu (%1) není platná. Zkontrolujte rozměry widgetu. Použije se výchozí poměr stran (1,0).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="175"/>
         <source>Invalid widget dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatné rozměry widgetu</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="194"/>
         <source>Aspect ratio: %1 is invalid. Check widget dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poměr stran (%1) není platný. Zkontrolujte rozměry widgetu.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="196"/>
         <source>Invalid aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný poměr stran</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="395"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Snímání obrazovky</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="396"/>
@@ -5382,122 +5382,122 @@ výchozí hodnoty všech nastavení?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="14"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnost</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="32"/>
         <source>Representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazení:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Body</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="57"/>
         <source>Wireframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Drátový model</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>Povrch</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="70"/>
         <source>Point Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost bodů:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"/>
         <source>Line Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Šířka čar:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="110"/>
         <source>Culling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ořezávání:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="119"/>
         <source>Frontface</source>
-        <translation type="unfinished"></translation>
+        <translation>Přední plocha</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="126"/>
         <source>Backface</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadní plocha</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="138"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="147"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Krytí:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"/>
         <source>Edge Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Viditelnost hran:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="195"/>
         <source>Edge Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva hran:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="208"/>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Osvětlení</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="217"/>
         <source>Lighting:</source>
-        <translation type="unfinished"></translation>
+        <translation>Osvětlení:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolace:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="239"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ploché</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="244"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="249"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"/>
         <source>Shading:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stínování:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"/>
         <source>Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Materiál</translation>
     </message>
 </context>
 <context>
