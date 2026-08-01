@@ -16,22 +16,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Klíč API Weblate:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponechte prázdné pro použití výchozího nastavení. Volitelný klíč API pro Weblate. Zadejte jej, pokud potřebujete přistupovat k soukromým projektům nebo se vyhnout omezením rychlosti.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
         <source>Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponechte prázdné pro výchozí nastavení (nástroj Qt lrelease dodávaný s instalátorem Sliceru nebo dostupný v systémových cestách). Zadejte pro použití vlastního spustitelného souboru Qt lrelease.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Směr textu:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
@@ -191,7 +191,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tento modul sestaví překladové soubory a nainstaluje je místně. Je užitečný pro vytváření a testování překladů.
+Další informace naleznete v &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;dokumentaci rozšíření&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -210,7 +213,7 @@ Další informace naleznete v &lt;a href=&quot;https://github.com/Slicer/SlicerL
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="178"/>
         <source>Failed to extract any text from widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se extrahovat žádný text z widgetu</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="193"/>
@@ -220,109 +223,112 @@ Další informace naleznete v &lt;a href=&quot;https://github.com/Slicer/SlicerL
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na text jej vyhledáte na překladovém webu [{language}]:
+
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="211"/>
         <source>Failed to extract any text from: {object}</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se extrahovat žádný text z: {object}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky rozpoznat</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
         <source>Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Zleva doprava</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="269"/>
         <source>Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Zprava doleva</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="332"/>
         <source>Failed to retrieve language list from Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se získat seznam jazyků z Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="461"/>
         <source>Update failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizace se nezdařila.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="483"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizace dokončena! Vyberte jazyk aplikace a restartujte ji, aby se projevily výsledky.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="570"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se načíst seznam jazyků z Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="603"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se načíst seznam komponent z Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="642"/>
         <source>No .ts files were found in the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation>V zadaném umístění nebyly nalezeny žádné soubory .ts.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="646"/>
         <source>Use translation file: {file}</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít překladový soubor: {file}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="670"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stahují se překlady pro {component}/{language}...</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="682"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přeskočeno. Tato komponenta/jazyk nebyly ve Weblate nalezeny.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přeskočeno. Stažený soubor je neplatný.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
         <location filename="LanguageTools/LanguageTools.py" line="740"/>
         <source>Translation files folder is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Složka s překladovými soubory není zadána.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="720"/>
         <source>lrelease tool path is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta k nástroji lrelease není zadána.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="758"/>
         <source>No translation (qm) files were found at {location}</source>
-        <translation type="unfinished"></translation>
+        <translation>V umístění {location} nebyly nalezeny žádné soubory překladů (qm)</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="760"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizace byla úspěšně dokončena.
+V umístění {location} bylo nainstalováno {count} překladových souborů.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="766"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato verze Sliceru nepodporuje vlastní písma prohlížeče.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="794"/>
         <source>Installed {count} font files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>V umístění {location} bylo nainstalováno {count} souborů písem.</translation>
     </message>
 </context>
 <context>
@@ -330,7 +336,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Nástroje</translation>
     </message>
 </context>
 </TS>
