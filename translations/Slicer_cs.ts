@@ -16767,77 +16767,77 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="14"/>
         <source>Slice Controller</source>
-        <translation type="unfinished">Slice Controller</translation>
+        <translation>Ovladač řezu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="60"/>
         <source>Select the label map</source>
-        <translation type="unfinished">Select the label map</translation>
+        <translation>Vybrat mapu popisků</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="188"/>
         <source>Select the foreground</source>
-        <translation type="unfinished">Select the foreground</translation>
+        <translation>Vybrat popředí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="328"/>
         <source>Select the background</source>
-        <translation type="unfinished">Select the background</translation>
+        <translation>Vybrat pozadí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="451"/>
         <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-        <translation type="unfinished">Link slice views. Synchronizes properties of all slice views in the same view group.</translation>
+        <translation>Propojit zobrazení řezů. Synchronizuje vlastnosti všech zobrazení řezů ve stejné skupině zobrazení.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="475"/>
         <source>Toggle slice visibility in the 3D view.</source>
-        <translation type="unfinished">Toggle slice visibility in the 3D view.</translation>
+        <translation>Přepnout viditelnost řezu ve 3D zobrazení.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="506"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation type="unfinished">Slice orientation (Axial, Sagittal, Coronal, Reformat).</translation>
+        <translation>Orientace řezu (axiální, sagitální, koronální, přeformátování).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="513"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axiální</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="518"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagitální</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="523"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Koronální</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="528"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformat</translation>
+        <translation>Přeformátovat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="536"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished">Show reformat widget in 3D view</translation>
+        <translation>Zobrazit widget přeformátování ve 3D zobrazení</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="568"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation type="unfinished">Slice spacing may be set automatically or manually by the user or context</translation>
+        <translation>Rozestup řezů lze nastavit automaticky nebo ručně uživatelem či kontextem</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="599"/>
         <source>Show orientation marker</source>
-        <translation type="unfinished">Show orientation marker</translation>
+        <translation>Zobrazit značku orientace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="616"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="633"/>
@@ -16847,48 +16847,48 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="650"/>
         <source>Advanced options</source>
-        <translation type="unfinished">Advanced options</translation>
+        <translation>Pokročilé možnosti</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="713"/>
         <source>Hot linked</source>
-        <translation type="unfinished">Hot linked</translation>
+        <translation>Propojeno okamžitě</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="716"/>
         <source>Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</source>
-        <translation type="unfinished">Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</translation>
+        <translation>Nastavit chování propojení na okamžité propojení ovládacích prvků. Je-li zapnuto, interakce s řezy okamžitě ovlivní ostatní řezy. Je-li vypnuto, ovlivní ostatní řezy po dokončení interakce.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="725"/>
         <source>Fit to window</source>
-        <translation type="unfinished">Fit to window</translation>
+        <translation>Přizpůsobit oknu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="728"/>
         <source>Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</source>
-        <translation type="unfinished">Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</translation>
+        <translation>Obnovit zorné pole. Přizpůsobí zorné pole zobrazení řezu rozsahu nejnižší vrstvy objemu (pozadí, potom popředí, potom popisky).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="737"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="740"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">Rotate to volume plane</translation>
+        <translation>Otočit do roviny objemu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="756"/>
         <source>Hide labelmap outlines</source>
-        <translation type="unfinished">Hide labelmap outlines</translation>
+        <translation>Skrýt obrysy mapy popisků</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="759"/>
         <source>Toggle between showing label map volume with regions outlined or filled.</source>
-        <translation type="unfinished">Toggle between showing label map volume with regions outlined or filled.</translation>
+        <translation>Přepnout mezi zobrazením objemu mapy popisků s obrysy oblastí a jejich výplní.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="772"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished">Show reformat widget</translation>
+        <translation>Zobrazit widget přeformátování</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="780"/>
@@ -16904,227 +16904,227 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="796"/>
         <source>Cube</source>
-        <translation type="unfinished">Cube</translation>
+        <translation>Krychle</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="804"/>
         <source>Human</source>
-        <translation type="unfinished">Human</translation>
+        <translation>Člověk</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="812"/>
         <source>Axes</source>
-        <translation type="unfinished">Axes</translation>
+        <translation>Osy</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="820"/>
         <source>Alpha blend</source>
-        <translation type="unfinished">Alpha blend</translation>
+        <translation>Alfa prolnutí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="828"/>
         <source>Reverse alpha blend</source>
-        <translation type="unfinished">Reverse alpha blend</translation>
+        <translation>Obrácené alfa prolnutí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="836"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="844"/>
         <source>Subtract</source>
-        <translation type="unfinished">Subtract</translation>
+        <translation>Odečíst</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="857"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automatické</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="865"/>
         <source>FOV, Spacing match Volumes</source>
-        <translation type="unfinished">FOV, Spacing match Volumes</translation>
+        <translation>Zorné pole a rozestup odpovídají objemům</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="873"/>
         <source>FOV, Spacing match 2D</source>
-        <translation type="unfinished">FOV, Spacing match 2D</translation>
+        <translation>Zorné pole a rozestup odpovídají 2D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="881"/>
         <source>FOV matches 2D, Spacing matches Volumes</source>
-        <translation type="unfinished">FOV matches 2D, Spacing matches Volumes</translation>
+        <translation>Zorné pole odpovídá 2D, rozestup objemům</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="889"/>
         <source>FOV matches Volumes, Spacing matches 2D View</source>
-        <translation type="unfinished">FOV matches Volumes, Spacing matches 2D View</translation>
+        <translation>Zorné pole odpovídá objemům, rozestup 2D zobrazení</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="897"/>
         <source>Foreground volume</source>
-        <translation type="unfinished">Foreground volume</translation>
+        <translation>Objem popředí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="905"/>
         <source>Background volume</source>
-        <translation type="unfinished">Background volume</translation>
+        <translation>Objem pozadí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="913"/>
         <source>Label map volume</source>
-        <translation type="unfinished">Label map volume</translation>
+        <translation>Objem mapy popisků</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="929"/>
         <source>Interpolate foreground</source>
-        <translation type="unfinished">Interpolate foreground</translation>
+        <translation>Interpolovat popředí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="945"/>
         <source>Interpolate background</source>
-        <translation type="unfinished">Interpolate background</translation>
+        <translation>Interpolovat pozadí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="961"/>
         <source>Show LabelMap</source>
-        <translation type="unfinished">Show LabelMap</translation>
+        <translation>Zobrazit mapu popisků</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="964"/>
         <source>Toggle labelmap visibility</source>
-        <translation type="unfinished">Toggle labelmap visibility</translation>
+        <translation>Přepnout viditelnost mapy popisků</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="980"/>
         <source>Show Foreground</source>
-        <translation type="unfinished">Show Foreground</translation>
+        <translation>Zobrazit popředí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="983"/>
         <source>Toggle foreground visibility</source>
-        <translation type="unfinished">Toggle foreground visibility</translation>
+        <translation>Přepnout viditelnost popředí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="999"/>
         <source>Show Background</source>
-        <translation type="unfinished">Show Background</translation>
+        <translation>Zobrazit pozadí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1002"/>
         <source>Toggle background visibility</source>
-        <translation type="unfinished">Toggle background visibility</translation>
+        <translation>Přepnout viditelnost pozadí</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1015"/>
         <source>Show in 3D</source>
-        <translation type="unfinished">Show in 3D</translation>
+        <translation>Zobrazit ve 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
         <source>Toggle slice visibility in 3D view</source>
-        <translation type="unfinished">Toggle slice visibility in 3D view</translation>
+        <translation>Přepnout viditelnost řezu ve 3D zobrazení</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1026"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished">Lock Normal To Camera</translation>
+        <translation>Uzamknout normálu ke kameře</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1029"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+        <translation>Uzamknout normálu widgetu přeformátování k normále kamery. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1037"/>
         <source>No orientation marker</source>
-        <translation type="unfinished">No orientation marker</translation>
+        <translation>Bez značky orientace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1040"/>
         <source>Hide orientation marker</source>
-        <translation type="unfinished">Hide orientation marker</translation>
+        <translation>Skrýt značku orientace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1048"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Malá</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1051"/>
         <source>Set orientation marker size to small</source>
-        <translation type="unfinished">Set orientation marker size to small</translation>
+        <translation>Nastavit malou velikost značky orientace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1059"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Střední</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1062"/>
         <source>Set orientation marker size to small to medium</source>
-        <translation type="unfinished">Set orientation marker size to small to medium</translation>
+        <translation>Nastavit střední velikost značky orientace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1070"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Velká</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1073"/>
         <source>Set orientation marker size to large</source>
-        <translation type="unfinished">Set orientation marker size to large</translation>
+        <translation>Nastavit velkou velikost značky orientace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1081"/>
         <source>No ruler</source>
-        <translation type="unfinished">No ruler</translation>
+        <translation>Bez pravítka</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1084"/>
         <source>Hide ruler</source>
-        <translation type="unfinished">Hide ruler</translation>
+        <translation>Skrýt pravítko</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1092"/>
         <source>Thin</source>
-        <translation type="unfinished">Thin</translation>
+        <translation>Tenké</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1095"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished">Show thin ruler</translation>
+        <translation>Zobrazit tenké pravítko</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1103"/>
         <source>Thick</source>
-        <translation type="unfinished">Thick</translation>
+        <translation>Silné</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1106"/>
         <source>Show thick ruler</source>
-        <translation type="unfinished">Show thick ruler</translation>
+        <translation>Zobrazit silné pravítko</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1114"/>
         <source>White ruler</source>
-        <translation type="unfinished">White ruler</translation>
+        <translation>Bílé pravítko</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1122"/>
         <source>Black ruler</source>
-        <translation type="unfinished">Black ruler</translation>
+        <translation>Černé pravítko</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1130"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished">Yellow ruler</translation>
+        <translation>Žluté pravítko</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1138"/>
         <source>Max</source>
-        <translation type="unfinished">Max</translation>
+        <translation>Max.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1141"/>
@@ -17134,7 +17134,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1149"/>
         <source>Min</source>
-        <translation type="unfinished">Min</translation>
+        <translation>Min.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1152"/>
@@ -17164,22 +17164,22 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1183"/>
         <source>Toggle segmentation outline/fill</source>
-        <translation type="unfinished">Toggle segmentation outline/fill</translation>
+        <translation>Přepnout obrys/výplň segmentace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1186"/>
         <source>Toggle between segmentation outline only, outline and fill, and fill only states</source>
-        <translation type="unfinished">Toggle between segmentation outline only, outline and fill, and fill only states</translation>
+        <translation>Přepnout mezi stavy pouze obrys segmentace, obrys s výplní a pouze výplň</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1202"/>
         <source>Show Segmentation</source>
-        <translation type="unfinished">Show Segmentation</translation>
+        <translation>Zobrazit segmentaci</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1205"/>
         <source>Toggle segmentation visibility</source>
-        <translation type="unfinished">Toggle segmentation visibility</translation>
+        <translation>Přepnout viditelnost segmentace</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1213"/>
@@ -17204,7 +17204,7 @@ Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="327"/>
         <source>Slice distance from RAS origin</source>
-        <translation type="unfinished">Slice distance from RAS origin</translation>
+        <translation>Vzdálenost řezu od počátku RAS</translation>
     </message>
 </context>
 <context>
