@@ -77,7 +77,8 @@
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="197"/>
         <source>Some modules are still running.
 Closing the application will cancel all current computations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Některé moduly stále běží.
+Zavřením aplikace zrušíte všechny probíhající výpočty.</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="283"/>
@@ -344,7 +345,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="75"/>
         <source>No validation errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné chyby ověření.</translation>
     </message>
 </context>
 <context>
@@ -451,7 +452,7 @@ due to:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
         <source>Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokončeno.</translation>
     </message>
 </context>
 <context>
@@ -472,7 +473,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Základní</translation>
     </message>
 </context>
 <context>
@@ -1919,7 +1920,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMListenerWidget.ui" line="14"/>
         <source>DICOM Listener</source>
-        <translation type="unfinished"></translation>
+        <translation>Posluchač DICOM</translation>
     </message>
 </context>
 <context>
@@ -1933,7 +1934,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="513"/>
         <source>No description</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez popisu</translation>
     </message>
 </context>
 <context>
@@ -2001,7 +2002,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="123"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhled</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="130"/>
@@ -2068,7 +2069,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMPatientModel.cpp" line="862"/>
         <source>Patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacienti</translation>
     </message>
 </context>
 <context>
@@ -2244,7 +2245,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="134"/>
         <source>Got STORE request for %1</source>
         <extracomment>%1 is an instance UID</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Přijat požadavek STORE pro %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
@@ -2257,7 +2258,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesDelegate.cpp" line="292"/>
         <source>Unknown Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámá série</translation>
     </message>
 </context>
 <context>
@@ -2766,7 +2767,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMThumbnailListWidget.cpp" line="166"/>
         <source>Image %1</source>
         <extracomment>%1 is the image sequence number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Obrázek %1</translation>
     </message>
 </context>
 <context>
@@ -3561,7 +3562,7 @@ The data will not be deleted from the PACs server.
         <location filename="Libs/Widgets/ctkFileDialogEventTranslator.cpp" line="108"/>
         <source>Loading %1 ... </source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Načítá se %1... </translation>
     </message>
 </context>
 <context>
@@ -3844,7 +3845,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="126"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat...</translation>
     </message>
 </context>
 <context>
@@ -5008,7 +5009,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkRangeWidget.ui" line="20"/>
         <source>Select range</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat rozsah</translation>
     </message>
 </context>
 <context>
@@ -5220,7 +5221,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSliderWidget.ui" line="20"/>
         <source>Set value</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit hodnotu</translation>
     </message>
 </context>
 <context>
@@ -5228,7 +5229,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkTemplateWidget.ui" line="14"/>
         <source>Template Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget šablony</translation>
     </message>
 </context>
 <context>
@@ -5258,7 +5259,7 @@ all settings to their default values?
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailListWidget.ui" line="14"/>
         <source>Thumbnails</source>
         <oldsource>ThumbnailList</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Náhledy</translation>
     </message>
 </context>
 <context>
@@ -5266,7 +5267,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="520"/>
         <source>FPS: %1(%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS: %1 (%2 s)</translation>
     </message>
 </context>
 <context>
@@ -5520,7 +5521,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKScalarsToColorsComboBox.cpp" line="65"/>
         <source>Select a color transfer function...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat funkci přenosu barev...</translation>
     </message>
 </context>
 <context>
