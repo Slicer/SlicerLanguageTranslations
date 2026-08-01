@@ -128,7 +128,7 @@
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
         <oldsource>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</oldsource>
-        <translation type="unfinished">Cesta ke spustitelnému souboru Qt lrelease. Nechte prázdné, chcete-li použít výchozí (ten, který je součástí instalačního programu Slicer nebo je k dispozici v systémových cestách).</translation>
+        <translation>Seznam složek, ve kterých aplikace hledá překlady. Slouží pouze k informaci, cesty nelze změnit.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="62"/>
@@ -205,9 +205,8 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </oldsource>
-        <translation type="unfinished">
-Tento modul dokáže sestavit překladové soubory a nainstalovat je lokálně. Je užitečný pro vytváření a testování překladů.
-Další informace naleznete v &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks“&gt;dokumentaci rozšíření&lt;/a&gt;.
+        <translation>
+Vývoj tohoto modulu byl částečně financován grantem &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS&lt;/a&gt;.
 </translation>
     </message>
     <message>
