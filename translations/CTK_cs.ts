@@ -2098,34 +2098,34 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="894"/>
         <source>Toggle between Tab Mode and List Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout mezi režimem karet a seznamu</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="927"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1198"/>
         <source>Show all patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit všechny pacienty</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="934"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1205"/>
         <source>Switch to Tab Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout do režimu karet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="945"/>
         <source>Allowed servers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolené servery:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1622"/>
         <source>Query in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>Probíhá dotaz...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1626"/>
         <source>No results found in the database</source>
-        <translation type="unfinished"></translation>
+        <translation>V databázi nebyly nalezeny žádné výsledky</translation>
     </message>
 </context>
 <context>
@@ -2212,7 +2212,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="14"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotaz</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="48"/>
@@ -2222,27 +2222,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="51"/>
         <source>Search by Person Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat podle jména osoby</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="61"/>
         <source>Study</source>
-        <translation type="unfinished"></translation>
+        <translation>Studie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="64"/>
         <source>Search in Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat v popisu studie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="74"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="77"/>
         <source>Search in Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat v popisu série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="87"/>
@@ -3336,37 +3336,37 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="20"/>
         <source>Date Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozsah dat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="29"/>
         <source>Any Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Libovolné datum</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="36"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Dnes</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="43"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Včera</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="50"/>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Minulý týden</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="57"/>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Minulý měsíc</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="64"/>
         <source>Select Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat rozsah</translation>
     </message>
 </context>
 <context>
@@ -3374,37 +3374,37 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="14"/>
         <source>Log messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Zprávy protokolu</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="37"/>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vše</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="47"/>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Chyby</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="57"/>
         <source>&amp;Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Varování</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="67"/>
         <source>&amp;Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zprávy</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="84"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vyčistit</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
         <source>Select messages in the list to see details here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte zprávy v seznamu, chcete-li zde zobrazit podrobnosti.</translation>
     </message>
 </context>
 <context>
