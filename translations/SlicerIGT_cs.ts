@@ -1365,17 +1365,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="62"/>
         <source>This is a module for detecting landmarks by pivoting a tracked stylus. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento modul slouží k detekci orientačních bodů pomocí pivotační kalibrace sledovaného stylusu. Máte-li dotazy nebo narazíte-li na problém, nahlaste jej na &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;stránce GitHubu&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, Cancer Care Ontario, OpenAnatomy, and Brigham and Women&apos;s Hospital through NIH grant R01MH112748.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento modul vznikl s podporou programu Research Software Program organizace CANARIE, Cancer Care Ontario, OpenAnatomy a Brigham and Women&apos;s Hospital prostřednictvím grantu NIH R01MH112748.</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
         <source>Landmark Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Detekce orientačních bodů</translation>
     </message>
 </context>
 <context>
@@ -1467,17 +1467,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="72"/>
         <source>Path Explorer is a module designed to facilitate the creation of trajectory, and visualization of volumes along these trajectories For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Průzkumník cest je modul určený k usnadnění vytváření trajektorií a vizualizace svazků podél těchto trajektorií. Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;webu SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
-        <translation type="unfinished"></translation>
+        <translation>Je podporován granty 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
         <source>Path Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Průzkumník cest</translation>
     </message>
 </context>
 <context>
@@ -1934,73 +1934,73 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="26"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="29"/>
         <source>GroupBox</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupina</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="51"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="51"/>
         <source>Driver:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovladač:</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim:</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="104"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="104"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypnuto</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="109"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="109"/>
         <source>Axial</source>
-        <translation type="unfinished"></translation>
+        <translation>Axiální</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="114"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="114"/>
         <source>Sagittal</source>
-        <translation type="unfinished"></translation>
+        <translation>Sagitální</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="119"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="119"/>
         <source>Coronal</source>
-        <translation type="unfinished"></translation>
+        <translation>Koronální</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="124"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="124"/>
         <source>Inplane</source>
-        <translation type="unfinished"></translation>
+        <translation>V rovině</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="129"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="129"/>
         <source>Inplane 90</source>
-        <translation type="unfinished"></translation>
+        <translation>V rovině 90°</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="134"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="134"/>
         <source>Transverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Transverzální</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="155"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="155"/>
         <source>Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotace:</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="199"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="199"/>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Převrátit</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Widgets/qSlicerReslicePropertyWidget.cxx" line="111"/>
@@ -2337,7 +2337,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="26"/>
@@ -2352,42 +2352,42 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="40"/>
         <source>Ultrasound image: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrazvukový obrázek: </translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovládací prvky</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="84"/>
         <source>Add snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat snímek</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="93"/>
         <source>Preserve image window and level attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachovat atributy okna a úrovně obrázku</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="109"/>
         <source>Clear snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat snímky</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="68"/>
         <source>Module for taking a snapshot of a position tracked ultrasound image and display it as a model node. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul pro pořízení snímku polohově sledovaného ultrazvukového obrazu a jeho zobrazení jako uzlu modelu. Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;webu SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato práce byla financována organizací Cancer Care Ontario a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
         <source>Ultrasound Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snímky ultrazvuku</translation>
     </message>
 </context>
 <context>
@@ -2805,17 +2805,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="118"/>
         <source>Displays warning if selected transforms are not continuously updated. It is useful for detecting tracking errors, such as occluded marker or network connection error. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazuje varování, pokud se vybrané transformace průběžně neaktualizují. Je užitečný pro zjišťování chyb sledování, například zakrytého značkovače nebo chyby síťového připojení. Návod k použití tohoto modulu najdete na &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;webu SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato práce byla financována organizací Cancer Care Ontario a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
         <source>Watchdog</source>
-        <translation type="unfinished"></translation>
+        <translation>Watchdog</translation>
     </message>
 </context>
 <context>
@@ -2951,17 +2951,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="390"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruční</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="391"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatické</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámé</translation>
     </message>
 </context>
 <context>
