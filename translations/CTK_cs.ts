@@ -3961,482 +3961,482 @@ Data nebudou odstraněna ze serveru PACS.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="14"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalita</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="23"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Libovolná</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="30"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Počítačová radiografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="33"/>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>CR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="40"/>
         <source>Computed Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Výpočetní tomografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="43"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="50"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation>Magnetická rezonance</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="53"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="60"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished"></translation>
+        <translation>Nukleární medicína</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="63"/>
         <source>NM</source>
-        <translation type="unfinished"></translation>
+        <translation>NM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="70"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrazvuk</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="73"/>
         <source>US</source>
-        <translation type="unfinished"></translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="80"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Jiné</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="83"/>
         <source>OT</source>
-        <translation type="unfinished"></translation>
+        <translation>OT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="90"/>
         <source>Biomagnetic imaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Biomagnetické zobrazování</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="93"/>
         <source>BI</source>
-        <translation type="unfinished"></translation>
+        <translation>BI</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="100"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Barevný průtokový doppler</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="103"/>
         <source>CD</source>
-        <translation type="unfinished"></translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="110"/>
         <source>Duplex Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplexní doppler</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="113"/>
         <source>DD</source>
-        <translation type="unfinished"></translation>
+        <translation>DD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="120"/>
         <source>Diaphanography</source>
-        <translation type="unfinished"></translation>
+        <translation>Diafanoskopie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="123"/>
         <source>DG</source>
-        <translation type="unfinished"></translation>
+        <translation>DG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="130"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Endoskopie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="133"/>
         <source>ES</source>
-        <translation type="unfinished"></translation>
+        <translation>ES</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="140"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Laserové snímání povrchu</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="143"/>
         <source>LS</source>
-        <translation type="unfinished"></translation>
+        <translation>LS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="150"/>
         <source>Positron emission tomography (PET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozitronová emisní tomografie (PET)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="153"/>
         <source>PT</source>
-        <translation type="unfinished"></translation>
+        <translation>PT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="160"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografické zobrazování (konvenční film/stínítko)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="163"/>
         <source>RG</source>
-        <translation type="unfinished"></translation>
+        <translation>RG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="170"/>
         <source>Single-photon emission computed tomography (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednofotonová emisní výpočetní tomografie (SPECT)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="173"/>
         <source>ST</source>
-        <translation type="unfinished"></translation>
+        <translation>ST</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="180"/>
         <source>Thermography</source>
-        <translation type="unfinished"></translation>
+        <translation>Termografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="183"/>
         <source>TG</source>
-        <translation type="unfinished"></translation>
+        <translation>TG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="190"/>
         <source>X-Ray Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Rentgenová angiografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="193"/>
         <source>XA</source>
-        <translation type="unfinished"></translation>
+        <translation>XA</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="200"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Radioskopie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="203"/>
         <source>RF</source>
-        <translation type="unfinished"></translation>
+        <translation>RF</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="210"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Radioterapeutický obraz</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="213"/>
         <source>RTIMAGE</source>
-        <translation type="unfinished"></translation>
+        <translation>RTIMAGE</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="220"/>
         <source>Radiotherapy Dose</source>
-        <translation type="unfinished"></translation>
+        <translation>Radioterapeutická dávka</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="223"/>
         <source>RTDOSE</source>
-        <translation type="unfinished"></translation>
+        <translation>RTDOSE</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="230"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Sada struktur radioterapie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="233"/>
         <source>RTSTRUCT</source>
-        <translation type="unfinished"></translation>
+        <translation>RTSTRUCT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="240"/>
         <source>Radiotherapy Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Plán radioterapie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="243"/>
         <source>RTPLAN</source>
-        <translation type="unfinished"></translation>
+        <translation>RTPLAN</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="250"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Záznam radioterapeutické léčby</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
         <source>RTRECTORD</source>
-        <translation type="unfinished"></translation>
+        <translation>RTRECTORD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="260"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Tištěná kopie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="263"/>
         <source>HC</source>
-        <translation type="unfinished"></translation>
+        <translation>HC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="270"/>
         <source>Digital Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitální radiografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="273"/>
         <source>DX</source>
-        <translation type="unfinished"></translation>
+        <translation>DX</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="280"/>
         <source>Mammography</source>
-        <translation type="unfinished"></translation>
+        <translation>Mamografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="283"/>
         <source>MG</source>
-        <translation type="unfinished"></translation>
+        <translation>MG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="290"/>
         <source>Intra-oral Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Intraorální radiografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="293"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="300"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramatický rentgenový snímek</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="303"/>
         <source>PX</source>
-        <translation type="unfinished"></translation>
+        <translation>PX</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="310"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecná mikroskopie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="313"/>
         <source>GM</source>
-        <translation type="unfinished"></translation>
+        <translation>GM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="320"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikroskopie preparátů</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="323"/>
         <source>SM</source>
-        <translation type="unfinished"></translation>
+        <translation>SM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="330"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografie externí kamerou</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="333"/>
         <source>XC</source>
-        <translation type="unfinished"></translation>
+        <translation>XC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="340"/>
         <source>Presentation State</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav prezentace</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="343"/>
         <source>PR</source>
-        <translation type="unfinished"></translation>
+        <translation>PR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="350"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvuk</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="353"/>
         <source>AU</source>
-        <translation type="unfinished"></translation>
+        <translation>AU</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="360"/>
         <source>Electrocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektrokardiografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="363"/>
         <source>ECG</source>
-        <translation type="unfinished"></translation>
+        <translation>ECG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="370"/>
         <source>Cardiac Electrophysiology</source>
-        <translation type="unfinished"></translation>
+        <translation>Srdeční elektrofyziologie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="373"/>
         <source>EPS</source>
-        <translation type="unfinished"></translation>
+        <translation>EPS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="380"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemodynamická křivka</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="383"/>
         <source>HD</source>
-        <translation type="unfinished"></translation>
+        <translation>HD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="390"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="393"/>
         <source>SR</source>
-        <translation type="unfinished"></translation>
+        <translation>SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="400"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Intravaskulární ultrazvuk</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="403"/>
         <source>IVUS</source>
-        <translation type="unfinished"></translation>
+        <translation>IVUS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="410"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologická fotografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="413"/>
         <source>OP</source>
-        <translation type="unfinished"></translation>
+        <translation>OP</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="420"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>Stereometrický vztah</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="423"/>
         <source>SMR</source>
-        <translation type="unfinished"></translation>
+        <translation>SMR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="430"/>
         <source>Optical Coherence Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Optická koherentní tomografie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="433"/>
         <source>OCT</source>
-        <translation type="unfinished"></translation>
+        <translation>OCT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="440"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologická refrakce</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="443"/>
         <source>OPR</source>
-        <translation type="unfinished"></translation>
+        <translation>OPR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="450"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologické zorné pole</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="453"/>
         <source>OPV</source>
-        <translation type="unfinished"></translation>
+        <translation>OPV</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="460"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Oftalmologické mapování</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="463"/>
         <source>OPM</source>
-        <translation type="unfinished"></translation>
+        <translation>OPM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="470"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Výběr klíčových objektů</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="473"/>
         <source>KO</source>
-        <translation type="unfinished"></translation>
+        <translation>KO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="480"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentace</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="483"/>
         <source>SEG</source>
-        <translation type="unfinished"></translation>
+        <translation>SEG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="490"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrace</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="493"/>
         <source>REG</source>
-        <translation type="unfinished"></translation>
+        <translation>REG</translation>
     </message>
 </context>
 <context>
