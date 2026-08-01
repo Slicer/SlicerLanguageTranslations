@@ -25400,32 +25400,32 @@ Please choose an empty directory.</translation>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="178"/>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="46"/>
         <source>Segmentations</source>
-        <translation type="unfinished">Segmentations</translation>
+        <translation>Segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="122"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
-        <translation type="unfinished">Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</translation>
+        <translation>Uzel použitý k nastavení geometrie segmentace (počátek, rozestup, směry os a výchozí rozsah)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="125"/>
         <source> Source geometry:</source>
-        <translation type="unfinished"> Source geometry:</translation>
+        <translation> Zdrojová geometrie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="160"/>
         <source>Add empty segment</source>
-        <translation type="unfinished">Add empty segment</translation>
+        <translation>Přidat prázdný segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="163"/>
         <source>Add segment</source>
-        <translation type="unfinished">Add segment</translation>
+        <translation>Přidat segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="174"/>
         <source>Remove selected segment</source>
-        <translation type="unfinished">Remove selected segment</translation>
+        <translation>Odebrat vybraný segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="177"/>
@@ -25440,229 +25440,229 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="220"/>
         <source>Display settings for the segmentation (all segments)</source>
-        <translation type="unfinished">Display settings for the segmentation (all segments)</translation>
+        <translation>Nastavení zobrazení segmentace (všechny segmenty)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="223"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Zobrazení</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="250"/>
         <source>List of representations to see available and existing ones, and creating or updating them</source>
-        <translation type="unfinished">List of representations to see available and existing ones, and creating or updating them</translation>
+        <translation>Seznam reprezentací pro zobrazení dostupných a existujících reprezentací a jejich vytvoření nebo aktualizaci</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="253"/>
         <source>Representations</source>
-        <translation type="unfinished">Representations</translation>
+        <translation>Reprezentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="280"/>
         <source>Copy/move segments</source>
-        <translation type="unfinished">Copy/move segments</translation>
+        <translation>Kopírovat/přesunout segmenty</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="321"/>
         <source>Current segmentation</source>
-        <translation type="unfinished">Current segmentation</translation>
+        <translation>Aktuální segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
         <source>Move from current segmentation to other Segmentation node</source>
-        <translation type="unfinished">Move from current segmentation to other Segmentation node</translation>
+        <translation>Přesunout z aktuální segmentace do jiného uzlu segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+        <translation>Kopírovat z aktuální segmentace do jiného uzlu (uzel segmentace pro kopírování a uzel modelu nebo mapy popisků pro import/export)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
         <source>+&gt;</source>
-        <translation type="unfinished">+&gt;</translation>
+        <translation>+&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="419"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+        <translation>Kopírovat do aktuální segmentace z jiného uzlu (uzel segmentace pro kopírování a uzel modelu nebo mapy popisků pro import/export)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="422"/>
         <source>&lt;+</source>
-        <translation type="unfinished">&lt;+</translation>
+        <translation>&lt;+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="447"/>
         <source>Move to current segmentation from other Segmentation node</source>
-        <translation type="unfinished">Move to current segmentation from other Segmentation node</translation>
+        <translation>Přesunout do aktuální segmentace z jiného uzlu segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="450"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="472"/>
         <source>Select Segmentation node to copy/move segments to/from.</source>
-        <translation type="unfinished">Select Segmentation node to copy/move segments to/from.</translation>
+        <translation>Vyberte uzel segmentace, do kterého/z kterého se mají kopírovat či přesouvat segmenty.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="513"/>
         <source>Export/import models and labelmaps</source>
-        <translation type="unfinished">Export/import models and labelmaps</translation>
+        <translation>Exportovat/importovat modely a mapy popisků</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="545"/>
         <source>Clear selection indicating that a new node should be created</source>
-        <translation type="unfinished">Clear selection indicating that a new node should be created</translation>
+        <translation>Zrušit výběr, což znamená, že se má vytvořit nový uzel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="561"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operace:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="568"/>
         <source>Labelmap</source>
-        <translation type="unfinished">Labelmap</translation>
+        <translation>Mapa popisků</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="578"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modely</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="585"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="592"/>
         <source>Output:</source>
-        <translation type="unfinished">Output:</translation>
+        <translation>Výstup:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="599"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="606"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="613"/>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Importovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="620"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Pokročilé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="650"/>
         <source>Exported segments:</source>
-        <translation type="unfinished">Exported segments:</translation>
+        <translation>Exportované segmenty:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="658"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>Vše</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="663"/>
         <source>Visible</source>
-        <translation type="unfinished">Visible</translation>
+        <translation>Viditelné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="671"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="681"/>
         <source>Exported labelmap geometry will match this volume&apos;s geometry</source>
-        <translation type="unfinished">Exported labelmap geometry will match this volume&apos;s geometry</translation>
+        <translation>Geometrie exportované mapy popisků bude odpovídat geometrii tohoto objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="674"/>
         <source>Reference volume:</source>
-        <translation type="unfinished">Reference volume:</translation>
+        <translation>Referenční objem:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="702"/>
         <source>Use color table values:</source>
-        <translation type="unfinished">Use color table values:</translation>
+        <translation>Použít hodnoty tabulky barev:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="735"/>
         <source>Labels of the imported labelmap will be mapped to terminology entries of this context</source>
-        <translation type="unfinished">Labels of the imported labelmap will be mapped to terminology entries of this context</translation>
+        <translation>Popisky importované mapy popisků budou namapovány na terminologické položky tohoto kontextu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="741"/>
         <source>Choose terminology...</source>
-        <translation type="unfinished">Choose terminology...</translation>
+        <translation>Vybrat terminologii...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="748"/>
         <source>Terminology context:</source>
-        <translation type="unfinished">Terminology context:</translation>
+        <translation>Terminologický kontext:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="761"/>
         <source>Export to files</source>
-        <translation type="unfinished">Export to files</translation>
+        <translation>Exportovat do souborů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="804"/>
         <source>Binary labelmap layers</source>
-        <translation type="unfinished">Binary labelmap layers</translation>
+        <translation>Vrstvy binární mapy popisků</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="813"/>
         <source>Number of layers:</source>
-        <translation type="unfinished">Number of layers:</translation>
+        <translation>Počet vrstev:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="823"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="866"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="830"/>
         <source>Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</source>
-        <translation type="unfinished">Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</translation>
+        <translation>Vynucení všech segmentů do jediné vrstvy upraví překrývající se segmenty. Oblasti, ve kterých se překrývá více segmentů, budou přiřazeny k segmentu nejblíže konci seznamu segmentů.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="833"/>
         <source>Force collapse to single layer:</source>
-        <translation type="unfinished">Force collapse to single layer:</translation>
+        <translation>Vynutit sloučení do jedné vrstvy:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="840"/>
         <source>Number of segments:</source>
-        <translation type="unfinished">Number of segments:</translation>
+        <translation>Počet segmentů:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="856"/>
         <source>Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</source>
-        <translation type="unfinished">Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</translation>
+        <translation>Minimalizovat počet vrstev přesunutím segmentů do sdílených vrstev, aby se minimalizovalo využití paměti. Obsah segmentů se nezmění, pokud se segmenty nepřekrývají a není vynuceno sloučení do jedné vrstvy.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="859"/>
         <source>Collapse labelmap layers</source>
-        <translation type="unfinished">Collapse labelmap layers</translation>
+        <translation>Sloučit vrstvy mapy popisků</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="99"/>
