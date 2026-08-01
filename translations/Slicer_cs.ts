@@ -14277,123 +14277,123 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
         <source>3D Display</source>
-        <translation type="unfinished">3D Display</translation>
+        <translation>3D zobrazení</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation type="unfinished">Representation:</translation>
+        <translation>Reprezentace:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished">Points</translation>
+        <translation>Body</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
         <source>Wireframe</source>
-        <translation type="unfinished">Wireframe</translation>
+        <translation>Drátový model</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Povrch</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="67"/>
         <source>Surface with Edges</source>
-        <translation type="unfinished">Surface with Edges</translation>
+        <translation>Povrch s hranami</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="75"/>
         <source>Visible Sides:</source>
-        <translation type="unfinished">Visible Sides:</translation>
+        <translation>Viditelné strany:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
         <source>All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</source>
-        <translation type="unfinished">All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</translation>
+        <translation>Vše: doporučeno pro otevřený povrch. Přední: doporučeno pro rychlejší vykreslování uzavřených neprůhledných povrchů. Zadní: užitečné pro vykreslení zadní strany otevřených povrchů jinou barvou.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>Vše</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="91"/>
         <source>Front-facing</source>
-        <translation type="unfinished">Front-facing</translation>
+        <translation>Přední strana</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="96"/>
         <source>Back-facing</source>
-        <translation type="unfinished">Back-facing</translation>
+        <translation>Zadní strana</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="104"/>
         <source>Clipping:</source>
-        <translation type="unfinished">Clipping:</translation>
+        <translation>Ořez:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
         <source>Hide part of the model according to Clipping Planes settings.</source>
-        <translation type="unfinished">Hide part of the model according to Clipping Planes settings.</translation>
+        <translation>Skrýt část modelu podle nastavení rovin ořezu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="129"/>
         <source>Configure clipping planes</source>
-        <translation type="unfinished">Configure clipping planes</translation>
+        <translation>Konfigurovat roviny ořezu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="132"/>
         <source>Configure...</source>
-        <translation type="unfinished">Configure...</translation>
+        <translation>Konfigurovat...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="154"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Pokročilé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="166"/>
         <source>Point Size:</source>
-        <translation type="unfinished">Point Size:</translation>
+        <translation>Velikost bodu:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="186"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="435"/>
         <source>Line Width:</source>
-        <translation type="unfinished">Line Width:</translation>
+        <translation>Šířka čáry:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="206"/>
         <source>Edge Color:</source>
-        <translation type="unfinished">Edge Color:</translation>
+        <translation>Barva hran:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="216"/>
         <source>Lighting:</source>
-        <translation type="unfinished">Lighting:</translation>
+        <translation>Osvětlení:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="230"/>
         <source>Interpolation:</source>
-        <translation type="unfinished">Interpolation:</translation>
+        <translation>Interpolace:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="238"/>
         <source>Flat</source>
-        <translation type="unfinished">Flat</translation>
+        <translation>Ploché</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="243"/>
         <source>Gouraud</source>
-        <translation type="unfinished">Gouraud</translation>
+        <translation>Gouraudovo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="248"/>
         <source>Phong</source>
-        <translation type="unfinished">Phong</translation>
+        <translation>Phongovo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="253"/>
@@ -14403,105 +14403,105 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="274"/>
         <source>Backface color hue, saturation, and brightess offset to frontface color</source>
-        <translation type="unfinished">Backface color hue, saturation, and brightess offset to frontface color</translation>
+        <translation>Posun odstínu, sytosti a jasu barvy zadní strany vůči barvě přední strany</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="277"/>
         <source>Backface Color Offset:</source>
-        <translation type="unfinished">Backface Color Offset:</translation>
+        <translation>Posun barvy zadní strany:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="286"/>
         <source>Color hue offset</source>
-        <translation type="unfinished">Color hue offset</translation>
+        <translation>Posun odstínu barvy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="305"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="324"/>
         <source>Color saturation offset</source>
-        <translation type="unfinished">Color saturation offset</translation>
+        <translation>Posun sytosti barvy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="351"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Slice Display</translation>
+        <translation>Zobrazení řezu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="360"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="558"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Viditelnost:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="374"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="536"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Krytí:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="406"/>
         <source>Mode:</source>
-        <translation type="unfinished">Mode:</translation>
+        <translation>Režim:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="413"/>
         <source>Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</source>
-        <translation type="unfinished">Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</translation>
+        <translation>Průsečík: zobrazuje průsečík modelu s řezem. Projekce: zobrazuje celý model promítnutý do roviny řezu jednolitou barvou. Projekce kódovaná vzdáleností: zobrazuje celý model promítnutý do roviny řezu a obarvený podle vzdálenosti od roviny řezu (přepíše výběr aktivní skalární hodnoty).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>Průsečík</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="422"/>
         <source>Projection</source>
-        <translation type="unfinished">Projection</translation>
+        <translation>Projekce</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="427"/>
         <source>Distance encoded projection</source>
-        <translation type="unfinished">Distance encoded projection</translation>
+        <translation>Projekce kódovaná vzdáleností</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="442"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="458"/>
         <source>Color Table:</source>
-        <translation type="unfinished">Color Table:</translation>
+        <translation>Tabulka barev:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="465"/>
         <source>Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</source>
-        <translation type="unfinished">Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</translation>
+        <translation>Tabulka barev, která mapuje vzdálenost od roviny řezu na barvy. Použije se při výběru režimu „Projekce kódovaná vzdáleností“.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="475"/>
         <source>Scalars</source>
-        <translation type="unfinished">Scalars</translation>
+        <translation>Skalární hodnoty</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="493"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Viditelnost</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="499"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+        <translation>Vyberte zobrazení, ve kterých se má tento uzel zobrazit. Není-li zaškrtnuto nic, zobrazí se ve všech 3D a 2D zobrazeních.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="506"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Zobrazení:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="520"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>Barva:</translation>
     </message>
 </context>
 <context>
@@ -20308,58 +20308,58 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="38"/>
         <source>Crop Volume</source>
-        <translation type="unfinished">Crop Volume</translation>
+        <translation>Oříznout objem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Parameter set:</translation>
+        <translation>Sada parametrů:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
         <source>Input volume:</source>
-        <translation type="unfinished">Input volume:</translation>
+        <translation>Vstupní objem:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
         <source>Input ROI:</source>
-        <translation type="unfinished">Input ROI:</translation>
+        <translation>Vstupní ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
         <source>Crop Volume ROI</source>
-        <translation type="unfinished">Crop Volume ROI</translation>
+        <translation>ROI ořezu objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="196"/>
         <source>Select region of interest</source>
-        <translation type="unfinished">Select region of interest</translation>
+        <translation>Vybrat oblast zájmu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="214"/>
         <source>Display ROI</source>
-        <translation type="unfinished">Display ROI</translation>
+        <translation>Zobrazit ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="232"/>
         <source>Fit to Volume</source>
-        <translation type="unfinished">Fit to Volume</translation>
+        <translation>Přizpůsobit objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="245"/>
         <source>Output volume:</source>
-        <translation type="unfinished">Output volume:</translation>
+        <translation>Výstupní objem:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="264"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="612"/>
         <source>Cropped volume</source>
-        <translation type="unfinished">Cropped volume</translation>
+        <translation>Oříznutý objem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="276"/>
@@ -20384,38 +20384,38 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="328"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Pokročilé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="387"/>
         <source>Interpolated cropping:</source>
-        <translation type="unfinished">Interpolated cropping:</translation>
+        <translation>Interpolovaný ořez:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="394"/>
         <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
-        <translation type="unfinished">Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</translation>
+        <translation>Interpolovat a doplnit vstupní objem tak, aby výstupní obraz měl přesně velikost ROI s požadovaným rozestupem.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="410"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="420"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-        <translation type="unfinished">The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</translation>
+        <translation>Rozestup voxelů ve výstupním objemu bude změněn podle této hodnoty. Hodnoty větší než 1,0 způsobí, že oříznutý objem bude mít nižší rozlišení než vstupní objem. Hodnoty menší než 1,0 způsobí, že oříznutý objem bude mít vyšší rozlišení než vstupní objem.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="413"/>
         <source>Spacing scale:</source>
-        <translation type="unfinished">Spacing scale:</translation>
+        <translation>Měřítko rozestupu:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="423"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="436"/>
         <source>Isotropic spacing:</source>
-        <translation type="unfinished">Isotropic spacing:</translation>
+        <translation>Izotropní rozestup:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="756"/>
@@ -20451,63 +20451,63 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="458"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="488"/>
         <source>High quality, slow</source>
-        <translation type="unfinished">High quality, slow</translation>
+        <translation>Vysoká kvalita, pomalé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="461"/>
         <source>B-spline</source>
-        <translation type="unfinished">B-spline</translation>
+        <translation>B-spline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="468"/>
         <source>Low quality, fastest</source>
-        <translation type="unfinished">Low quality, fastest</translation>
+        <translation>Nízká kvalita, nejrychlejší</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="471"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished">Nearest Neighbor</translation>
+        <translation>Nejbližší soused</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="478"/>
         <source>Medium quality, medium speed</source>
-        <translation type="unfinished">Medium quality, medium speed</translation>
+        <translation>Střední kvalita, střední rychlost</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="481"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Lineární</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="491"/>
         <source>Windowed Sinc</source>
-        <translation type="unfinished">Windowed Sinc</translation>
+        <translation>Okénkovaná sinc</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="358"/>
         <source>Fill value:</source>
-        <translation type="unfinished">Fill value:</translation>
+        <translation>Hodnota výplně:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="365"/>
         <source>Voxel values outside the input volume will be filled with this value</source>
-        <translation type="unfinished">Voxel values outside the input volume will be filled with this value</translation>
+        <translation>Hodnoty voxelů mimo vstupní objem budou vyplněny touto hodnotou</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="509"/>
         <source>Volume information</source>
-        <translation type="unfinished">Volume information</translation>
+        <translation>Informace o objemu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="533"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Vstupní objem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="542"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="621"/>
         <source>Output volume dimension after cropping</source>
-        <translation type="unfinished">Output volume dimension after cropping</translation>
+        <translation>Rozměry výstupního objemu po ořezu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="554"/>
@@ -20515,41 +20515,41 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="633"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="661"/>
         <source>0,0,0</source>
-        <translation type="unfinished">0,0,0</translation>
+        <translation>0,0,0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="567"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="646"/>
         <source>Output volume spacing after cropping</source>
-        <translation type="unfinished">Output volume spacing after cropping</translation>
+        <translation>Rozestup výstupního objemu po ořezu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="595"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="681"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>Rozměry:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="602"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="674"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Rozestup:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="718"/>
         <source>Fix</source>
-        <translation type="unfinished">Fix</translation>
+        <translation>Opravit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="302"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="733"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="94"/>
         <source>Select or create a new parameter node.</source>
-        <translation type="unfinished">Select or create a new parameter node.</translation>
+        <translation>Vyberte nebo vytvořte nový uzel parametrů.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="105"/>
@@ -20559,7 +20559,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="112"/>
         <source>Output volume type does not match input volume type.</source>
-        <translation type="unfinished">Output volume type does not match input volume type.</translation>
+        <translation>Typ výstupního objemu neodpovídá typu vstupního objemu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="135"/>
@@ -20589,7 +20589,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="165"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-        <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+        <translation>Interpolace je zakázána a vstupní ROI není zarovnána s osami vstupního objemu.</translation>
     </message>
 </context>
 <context>
