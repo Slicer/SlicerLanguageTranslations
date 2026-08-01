@@ -26550,56 +26550,56 @@ Poznámka: Týká se to tabulek segmentů v modulech Editor segmentů a Segmenta
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="14"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Obecné</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished">Directory where scenes are saved to by default</translation>
+        <translation>Adresář, do kterého se scény ve výchozím nastavení ukládají</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="23"/>
         <source>Default scene location:</source>
-        <translation type="unfinished">Default scene location:</translation>
+        <translation>Výchozí umístění scény:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
         <source>Disable splash screen:</source>
-        <translation type="unfinished">Disable splash screen:</translation>
+        <translation>Zakázat úvodní obrazovku:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
         <source>Language</source>
-        <translation type="unfinished">Language</translation>
+        <translation>Jazyk</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="57"/>
         <source>Confirm on restart:</source>
-        <translation type="unfinished">Confirm on restart:</translation>
+        <translation>Potvrdit při restartování:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
         <source>Confirm on exit:</source>
-        <translation type="unfinished">Confirm on exit:</translation>
+        <translation>Potvrdit při ukončení:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
         <source>Confirm on scene close:</source>
-        <translation type="unfinished">Confirm on scene close:</translation>
+        <translation>Potvrdit při zavření scény:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
         <source>Documentation base URL:</source>
-        <translation type="unfinished">Documentation base URL:</translation>
+        <translation>Základní URL dokumentace:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="115"/>
         <source>Specify documentation location.
 Available placeholders: {language}, {version}.
 Default: https://slicer.readthedocs.io/{language}/{version}</source>
-        <translation type="unfinished">Specify documentation location.
-Available placeholders: {language}, {version}.
-Default: https://slicer.readthedocs.io/{language}/{version}</translation>
+        <translation>Zadejte umístění dokumentace.
+Dostupné zástupné symboly: {language}, {version}.
+Výchozí: https://slicer.readthedocs.io/{language}/{version}</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
@@ -26610,31 +26610,31 @@ Default: https://slicer.readthedocs.io/{language}/{version}</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished">Python script that is executed after the application is started</translation>
+        <translation>Skript Python, který se spustí po spuštění aplikace</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="147"/>
         <source>Application startup script:</source>
-        <translation type="unfinished">Application startup script:</translation>
+        <translation>Skript při spuštění aplikace:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="169"/>
         <source>Open Slicer resource file</source>
-        <translation type="unfinished">Open Slicer resource file</translation>
+        <translation>Otevřít soubor prostředků Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="181"/>
         <source>Module documentation URL:</source>
-        <translation type="unfinished">Module documentation URL:</translation>
+        <translation>URL dokumentace modulu:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="188"/>
         <source>Specify URL for module documentation.
 Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
-        <translation type="unfinished">Specify URL for module documentation.
-Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
-Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
+        <translation>Zadejte URL dokumentace modulu.
+Dostupné zástupné symboly: {documentationbaseurl}, {lowercasemodulename}.
+Výchozí: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="197"/>
