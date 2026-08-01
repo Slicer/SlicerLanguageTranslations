@@ -8528,17 +8528,17 @@ Tento soubor původně vyvinul Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="24"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekvence objemů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="95"/>
         <source>Creates a series of DICOM files from volume sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytváří sérii souborů DICOM ze sekvencí objemů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
         <source>Volume sequence of {count} frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekvence objemů s {count} snímky</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="102"/>
@@ -8548,39 +8548,39 @@ Tento soubor původně vyvinul Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="103"/>
         <source>Unknown manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámý výrobce</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="104"/>
         <source>Unknown model</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámý model</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="157"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná hierarchie subjektu</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="162"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="168"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="174"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Sérii „{itemName}“ nelze exportovat jako sekvenci objemů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro sérii „{volumeName}“ nelze získat vyšetření</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="186"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro sérii „{volumeName}“ nelze získat pacienta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="215"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Prázdná modalita série „{volumeName}“</translation>
     </message>
 </context>
 <context>
@@ -16135,7 +16135,9 @@ Do you want to crop the segmentation?
         <source>Update %1 representation using custom conversion parameters.
 
 Click the down-arrow button for additional operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat reprezentaci %1 pomocí vlastních parametrů převodu.
+
+Další operace zobrazíte kliknutím na tlačítko šipky dolů.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="245"/>
@@ -16145,13 +16147,13 @@ Click the down-arrow button for additional operations.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="246"/>
         <source>Remove %1 representation from segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit reprezentaci %1 ze segmentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="256"/>
         <source>Make source</source>
         <oldsource>Make master</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit jako zdroj</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="266"/>
@@ -16163,29 +16165,33 @@ Click the down-arrow button for additional operations.</source>
         <source>Create %1 representation using default conversion parameters.
 
 Press and hold button to access advanced conversion and removal options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit reprezentaci %1 pomocí výchozích parametrů převodu.
+
+Stisknutím a podržením tlačítka získáte přístup k pokročilým volbám převodu a odstranění.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="279"/>
         <source>Advanced create...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilé vytvoření...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
         <source>Create %1 representation using custom conversion parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit reprezentaci %1 pomocí vlastních parametrů převodu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="315"/>
         <source>Failed to convert %1 to %2!
 
 Probably there is no valid conversion path between the source representation and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se převést %1 na %2.
+
+Pravděpodobně neexistuje platná cesta převodu mezi zdrojovou reprezentací a %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
         <source>Confirm source representation change</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdit změnu zdrojové reprezentace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="416"/>
@@ -16195,7 +16201,12 @@ This may mean losing important data that cannot be created again from the new so
 (Reminder: Source representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing source representation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Změna zdrojové reprezentace nastaví vybranou reprezentaci jako „zlatý standard“ a povede k odstranění všech ostatních reprezentací.
+Může to znamenat ztrátu důležitých dat, která nelze z nové zdrojové reprezentace znovu vytvořit.
+
+(Připomenutí: Zdrojová reprezentace je datový typ uložený na disk a používaný jako vstup při vytváření jiných reprezentací.)
+
+Chcete pokračovat ve změně zdrojové reprezentace?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="318"/>
@@ -16205,7 +16216,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="338"/>
         <source>Advanced segmentation conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilý převod segmentace</translation>
     </message>
 </context>
 <context>
@@ -21271,17 +21282,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="157"/>
         <source>Install pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalace čeká na restart</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="162"/>
         <source>Update pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizace čeká na restart</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="167"/>
         <source>Uninstall pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Odinstalace čeká na restart</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="344"/>
@@ -21291,42 +21302,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="380"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>neznámé</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="417"/>
         <source>Not found for this version of the application (r%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenalezeno pro tuto verzi aplikace (r%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="424"/>
         <source>Incompatible with Slicer r%1 [built for r%2]</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekompatibilní se Slicerem r%1 [sestaveno pro r%2]</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="438"/>
         <source>Change log...</source>
-        <translation type="unfinished"></translation>
+        <translation>Změny...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="444"/>
         <source>An update is available. Installed: %1. Available: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je k dispozici aktualizace. Nainstalováno: %1. K dispozici: %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="458"/>
         <source>Version: %1. Disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verze: %1. Zakázáno.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="465"/>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verze: %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="473"/>
         <source>Not installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenainstalováno.</translation>
     </message>
 </context>
 <context>
@@ -27927,7 +27938,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
         <source>Register this...</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrovat toto...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
@@ -27937,27 +27948,27 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="100"/>
         <source>Register * to this using...</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrovat * k tomuto pomocí...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="105"/>
         <source>Rigid image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Rigidní registrace podle obrazu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="109"/>
         <source>BSpline image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrace podle obrazu BSpline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="113"/>
         <source>Interactive landmark registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Interaktivní registrace orientačních bodů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="118"/>
         <source>Cancel registration (or right-click another volume to start registration)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit registraci (nebo kliknutím pravým tlačítkem na jiný objem zahájit registraci)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
@@ -27967,23 +27978,23 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="217"/>
         <source>Register %1 to this using...</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrovat %1 k tomuto pomocí...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="259"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="332"/>
         <source>BRAINSRegistration_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>BRAINSRegistration_%1_To_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="271"/>
         <source>LinearTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>LinearTransform_%1_To_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="344"/>
         <source>BSplineTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>BSplineTransform_%1_To_%2</translation>
     </message>
 </context>
 <context>
@@ -30843,7 +30854,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="48"/>
         <source>Color Table Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště tabulky barev</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="76"/>
@@ -30852,7 +30863,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="91"/>
         <source>CSV Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tabulka barev CSV</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="80"/>
@@ -30861,42 +30872,42 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="95"/>
         <source>MRML Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tabulka barev MRML</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="231"/>
         <source>Column &apos;%1&apos; was not found in color table file: &apos;%2&apos;. Color component is set to 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sloupec „%1“ nebyl v souboru tabulky barev nalezen: „%2“. Složka barvy je nastavena na 0.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="264"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>labelValue není v souboru barev zadána na řádku %1. Tento řádek se přeskočí.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="273"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2. Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>labelValue „%1“ je v souboru barev na řádku %2 neplatná. Tento řádek se přeskočí.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="284"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must be positive (&gt;0). Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>labelValue „%1“ je v souboru barev na řádku %2 neplatná: hodnota musí být kladná (&gt;0). Tento řádek se přeskočí.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="300"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must not go above be %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>labelValue „%1“ je v souboru barev na řádku %2 neplatná: hodnota nesmí být vyšší než %3.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="366"/>
         <source>Failed to read color from column %1 in line %2, value: &apos;%3&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se načíst barvu ze sloupce %1 na řádku %2, hodnota: „%3“</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="386"/>
         <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, stopped processing after &apos;%3&apos; lines in the file %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze nastavit barvu „%1“ s názvem „%2“, zpracování bylo ukončeno po %3 řádcích v souboru %4.</translation>
     </message>
 </context>
 <context>
