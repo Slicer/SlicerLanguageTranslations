@@ -23987,42 +23987,42 @@ Názvy sloupců tabulky: label, r, a, s, (nebo l, p, s), defined, selected, visi
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="20"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modely</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="61"/>
         <source>Filter by name...</source>
-        <translation type="unfinished">Filter by name...</translation>
+        <translation>Filtrovat podle názvu...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="71"/>
         <source>Turn the visibility off on all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turn the visibility off on all models (does not include hierarchies)</translation>
+        <translation>Vypnout viditelnost všech modelů (nezahrnuje hierarchie)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turns visibility on for all models (does not include hierarchies)</translation>
+        <translation>Zapne viditelnost všech modelů (nezahrnuje hierarchie)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Informace</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="146"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Zobrazení</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation>Legenda barev pro tabulku barev vybranou v části Skalární hodnoty.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Legenda barev</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
@@ -29349,7 +29349,7 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="14"/>
         <source>qSlicerTerminologyNavigatorWidget</source>
-        <translation type="unfinished">qSlicerTerminologyNavigatorWidget</translation>
+        <translation>qSlicerTerminologyNavigatorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="342"/>
@@ -29364,7 +29364,7 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="426"/>
         <source>Property type...</source>
-        <translation type="unfinished">Property type...</translation>
+        <translation>Typ vlastnosti...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="274"/>
@@ -29384,12 +29384,12 @@ Značky: %6</translation>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="95"/>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="512"/>
         <source>Select terminology...</source>
-        <translation type="unfinished">Select terminology...</translation>
+        <translation>Vybrat terminologii...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="222"/>
         <source>Category...</source>
-        <translation type="unfinished">Category...</translation>
+        <translation>Kategorie...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="261"/>
@@ -29399,12 +29399,12 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="149"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Název:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="170"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>Barva:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="253"/>
@@ -29434,14 +29434,14 @@ Značky: %6</translation>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
-        <translation type="unfinished">There is a file with name &apos;%1&apos; in the stored contexts.
+        <translation>V uložených kontextech existuje soubor s názvem „%1“.
 
-Do you wish to update the stored context file with the just loaded one?</translation>
+Chcete uložený soubor kontextu aktualizovat právě načteným souborem?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1189"/>
         <source>Context file exists</source>
-        <translation type="unfinished">Context file exists</translation>
+        <translation>Soubor kontextu existuje</translation>
     </message>
 </context>
 <context>
