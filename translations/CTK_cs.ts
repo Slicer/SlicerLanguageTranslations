@@ -2353,54 +2353,54 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="14"/>
         <source>Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam serverů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="41"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="185"/>
         <source>Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="67"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="105"/>
         <source>11112</source>
-        <translation type="unfinished"></translation>
+        <translation>11112</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="81"/>
         <source>Enable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="98"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="53"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1283"/>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Neaktivní</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="74"/>
         <source>AETitle: </source>
-        <translation type="unfinished"></translation>
+        <translation>AETitle: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="88"/>
         <source>CTKSTORE</source>
-        <translation type="unfinished"></translation>
+        <translation>CTKSTORE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="115"/>
         <source>Servers   </source>
-        <translation type="unfinished"></translation>
+        <translation>Servery   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="170"/>
@@ -2410,82 +2410,82 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="175"/>
         <source>Verification</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověření</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="180"/>
         <source>Query/Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotaz/načtení</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="190"/>
         <source>Trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Důvěryhodný</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="195"/>
         <source>Calling AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Volající AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="200"/>
         <source>Called AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Volané AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="205"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="210"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="215"/>
         <source>Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Časový limit</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="220"/>
         <source>Retrieve Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokol načítání</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="225"/>
         <source>Retrieve Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy načítání</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="247"/>
         <source> Add host</source>
-        <translation type="unfinished"></translation>
+        <translation> Přidat hostitele</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="264"/>
         <source> Verify host</source>
-        <translation type="unfinished"></translation>
+        <translation> Ověřit hostitele</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="281"/>
         <source> Remove host</source>
-        <translation type="unfinished"></translation>
+        <translation> Odebrat hostitele</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="292"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit výchozí hodnoty</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="384"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="387"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahodit</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="598"/>
@@ -2496,34 +2496,34 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1505"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1521"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>neznámý</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="910"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1258"/>
         <source>success</source>
-        <translation type="unfinished"></translation>
+        <translation>úspěch</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="914"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1222"/>
         <source>in-progress</source>
-        <translation type="unfinished"></translation>
+        <translation>probíhá</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1234"/>
         <source>user-stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>zastaveno uživatelem</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1246"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>selhalo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1279"/>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivní</translation>
     </message>
 </context>
 <context>
@@ -4849,7 +4849,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
         <source>Manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
@@ -4859,7 +4859,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"/>
         <source>Symbolic Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolický název</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"/>
@@ -4869,47 +4869,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"/>
         <source>Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodavatel</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorská práva</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"/>
         <source>Activation Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Zásada aktivace</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="107"/>
         <source>Contact Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktní adresa</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
         <source>Doc URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa URL dokumentace</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikona</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
@@ -4919,7 +4919,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Okamžitá</translation>
     </message>
 </context>
 <context>
@@ -5818,7 +5818,7 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="14"/>
         <source>Login Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Přihlašovací profily</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="26"/>
@@ -5828,7 +5828,7 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="52"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"/>
@@ -5838,7 +5838,7 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"/>
         <source>Login information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Přihlašovací údaje:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="106"/>
@@ -5848,7 +5848,7 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="119"/>
         <source>Server URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifikátor URI serveru:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="132"/>
@@ -5858,42 +5858,42 @@ Chcete nastavení obnovit?</translation>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="145"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="162"/>
         <source>Download Dir.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresář pro stahování:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="169"/>
         <source>Use as default</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít jako výchozí</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"/>
         <source>Missing XNAT server URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Chybí identifikátor URI serveru XNAT</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"/>
         <source>Please enter XNAT server URI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte identifikátor URI serveru XNAT.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Missing user name</source>
-        <translation type="unfinished"></translation>
+        <translation>Chybí uživatelské jméno</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Please enter user name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte uživatelské jméno.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="209"/>
         <source>Invalid Login Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba neplatného přihlášení</translation>
     </message>
 </context>
 <context>
