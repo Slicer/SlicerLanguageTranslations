@@ -235,7 +235,7 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="17"/>
         <source>Model Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrace modelů</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="21"/>
@@ -243,14 +243,19 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tento modul aplikuje registraci metodou iterativně nejbližších bodů (ICP) mezi dvěma povrchovými modely.
+Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;webu SlicerIGT&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tato práce je součástí projektu SparKit financovaného programem ACRU organizace Cancer Care Ontario (CCO) a Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="43"/>
@@ -260,37 +265,37 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámka: Nadřazené transformace modelů se nepoužívají. Modely musí být definovány v souřadném systému, který se registruje.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
         <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte model, do kterého bude druhý model transformován. Tento model musí obsahovat hustou sadu bodů.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte model, který bude transformován. Tento model může vyžadovat řídkou sadu bodů.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
         <source>Input moving (sparse) model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vstupní pohyblivý (řídký) model: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
         <source>Pick the moving to fixed transform computed by the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte transformaci z pohyblivého do pevného modelu vypočtenou algoritmem.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Výstupní transformace: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
@@ -305,7 +310,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
         <source>Mean distance after registration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Průměrná vzdálenost po registraci:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="123"/>
@@ -320,7 +325,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation type="unfinished"></translation>
+        <translation>Test není pro Registraci modelů implementován.</translation>
     </message>
 </context>
 <context>
@@ -2293,37 +2298,37 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="97"/>
         <source>Compute the quaternion average of all Source transforms provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat kvaternionový průměr všech zadaných zdrojových transformací.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="99"/>
         <source>Compute a copy of the rotation from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat kopii rotace ze zdroje do referenčního systému.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="101"/>
         <source>Compute a copy of the translation from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat kopii posunu ze zdroje do referenčního systému.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="103"/>
         <source>Compute a copy of the full transform from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat kopii úplné transformace ze zdroje do referenčního systému.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="105"/>
         <source>Compute the inverse of transform to parent, and store it in another node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat inverzní transformaci k nadřazenému uzlu a uložit ji do jiného uzlu.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="107"/>
         <source>Compute a constrained version of an Source transform, the translation and z direction are preserved but the other axes resemble the Target coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat omezenou verzi zdrojové transformace: posun a směr osy z zůstanou zachovány, ostatní osy však budou odpovídat cílovému souřadnému systému.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="109"/>
         <source>Compute a stabilized transform by low-pass filtering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat stabilizovanou transformaci filtrováním dolní propustí.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="398"/>
@@ -2334,7 +2339,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="406"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická aktualizace</translation>
     </message>
 </context>
 <context>
