@@ -2837,32 +2837,32 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="37"/>
         <source>Watchdog node: </source>
-        <translation type="unfinished"></translation>
+        <translation>Uzel Watchdog: </translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="64"/>
         <source>Observed nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledované uzly</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>
         <source>Add the selected node to the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat vybraný uzel do seznamu sledovaných uzlů</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="112"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="141"/>
         <source>Remove the node selected in the table from the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat uzel vybraný v tabulce ze seznamu sledovaných uzlů</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="163"/>
@@ -2872,92 +2872,92 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="180"/>
         <source>&amp;Visible:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Viditelné:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="197"/>
         <source>View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pohled:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="204"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte pohledy, ve kterých se má tento uzel zobrazit. Pokud nejsou zaškrtnuty žádné, zobrazí se ve všech 3D a 2D pohledech.</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="211"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Krytí:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="234"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pozadí</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="255"/>
         <source>Text Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva textu:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="273"/>
         <source>Font size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost písma</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="283"/>
         <source> pt</source>
-        <translation type="unfinished"></translation>
+        <translation> b</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="307"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Události</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="316"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Watch transform modified event:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sledovat událost změny transformace:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpráva</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvuk</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="302"/>
         <source>Make list active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivovat seznam</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="303"/>
         <source>Delete highlighted row</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit zvýrazněný řádek</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="463"/>
         <source>valid</source>
-        <translation type="unfinished"></translation>
+        <translation>platné</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="468"/>
         <source>invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>neplatné</translation>
     </message>
 </context>
 <context>
