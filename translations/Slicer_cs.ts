@@ -20597,74 +20597,74 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
         <source>DICOM Export</source>
-        <translation type="unfinished">DICOM Export</translation>
+        <translation>Export DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="82"/>
         <source>1. Select node</source>
-        <translation type="unfinished">1. Select node</translation>
+        <translation>1. Vyberte uzel</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="125"/>
         <source>2. Select export type</source>
-        <translation type="unfinished">2. Select export type</translation>
+        <translation>2. Vyberte typ exportu</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="168"/>
         <source>3. Edit DICOM tags</source>
-        <translation type="unfinished">3. Edit DICOM tags</translation>
+        <translation>3. Upravte značky DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="199"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished">If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</translation>
+        <translation>Je-li zaškrtnuto, ručně upravené značky se uloží do scény a zachovají pro příští export. Není-li zaškrtnuto, lze provádět dočasné změny pouze pro tuto operaci exportu.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="202"/>
         <source>Save modified tags</source>
-        <translation type="unfinished">Save modified tags</translation>
+        <translation>Uložit upravené značky</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation type="unfinished">If checked, the exported DICOM files will be written into the specified folder.
-If unchecked, the exported dataset will be added to the DICOM database.</translation>
+        <translation>Je-li zaškrtnuto, exportované soubory DICOM se zapíší do určené složky.
+Není-li zaškrtnuto, exportovaná datová sada se přidá do databáze DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
         <source>Export to folder:</source>
-        <translation type="unfinished">Export to folder:</translation>
+        <translation>Exportovat do složky:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation type="unfinished">Exported DICOM files into this folder instead of the application&apos;s DICOM database.</translation>
+        <translation>Exportovat soubory DICOM do této složky namísto databáze DICOM aplikace.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
         <source>Error messages</source>
-        <translation type="unfinished">Error messages</translation>
+        <translation>Chybové zprávy</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="359"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportovat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="461"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished">DICOM dataset successfully exported to </translation>
+        <translation>Datová sada DICOM byla úspěšně exportována do </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="464"/>
         <source>the DICOM database</source>
-        <translation type="unfinished">the DICOM database</translation>
+        <translation>databáze DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="470"/>
         <source>Export successful</source>
-        <translation type="unfinished">Export successful</translation>
+        <translation>Export proběhl úspěšně</translation>
     </message>
 </context>
 <context>
@@ -20839,22 +20839,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filter:</translation>
+        <translation>Filtr:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
         <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-        <translation type="unfinished">A case sensitive string to filter nodes, uses all the columns (even if hidden)</translation>
+        <translation>Řetězec rozlišující velikost písmen pro filtrování uzlů, používá všechny sloupce (i skryté)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
         <source>Subject hierarchy</source>
-        <translation type="unfinished">Subject hierarchy</translation>
+        <translation>Hierarchie objektů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
@@ -20866,39 +20866,39 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
         <source>Show MRML ID&apos;s</source>
-        <translation type="unfinished">Show MRML ID&apos;s</translation>
+        <translation>Zobrazit ID MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
         <source>Subject hierarchy item information</source>
-        <translation type="unfinished">Subject hierarchy item information</translation>
+        <translation>Informace o položce hierarchie objektů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="439"/>
         <source>No item selected</source>
-        <translation type="unfinished">No item selected</translation>
+        <translation>Není vybrána žádná položka</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
         <source>Transform hierarchy</source>
-        <translation type="unfinished">Transform hierarchy</translation>
+        <translation>Hierarchie transformací</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
         <source>Show hidden nodes</source>
-        <translation type="unfinished">Show hidden nodes</translation>
+        <translation>Zobrazit skryté uzly</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
         <source>All nodes</source>
-        <translation type="unfinished">All nodes</translation>
+        <translation>Všechny uzly</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
         <source>MRML node information</source>
-        <translation type="unfinished">MRML node information</translation>
+        <translation>Informace o uzlu MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="195"/>
@@ -20915,12 +20915,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="205"/>
         <source>Insert transform</source>
-        <translation type="unfinished">Insert transform</translation>
+        <translation>Vložit transformaci</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="210"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Harden transform</translation>
+        <translation>Zpevnit transformaci</translation>
     </message>
 </context>
 <context>
@@ -29108,23 +29108,23 @@ Značky: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="20"/>
         <source>Tables</source>
-        <translation type="unfinished">Tables</translation>
+        <translation>Tabulky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
         <source>Allow table editing</source>
-        <translation type="unfinished">Allow table editing</translation>
+        <translation>Povolit úpravy tabulek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="99"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="122"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="116"/>
@@ -29142,57 +29142,57 @@ Značky: %6</translation>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="127"/>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="129"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Vložit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="174"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</translation>
+        <translation>Vygenerovat interaktivní graf na základě uživatelského výběru sloupců tabulky. První sloupec (zleva doprava) se použije jako osa X a každý další sloupec se vykreslí ve stejném grafu jako osa Y.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="204"/>
         <source>Add column</source>
-        <translation type="unfinished">Add column</translation>
+        <translation>Přidat sloupec</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="218"/>
         <source>Delete column</source>
-        <translation type="unfinished">Delete column</translation>
+        <translation>Odstranit sloupec</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="232"/>
         <source>Lock first column</source>
-        <translation type="unfinished">Lock first column</translation>
+        <translation>Uzamknout první sloupec</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="265"/>
         <source>Add row</source>
-        <translation type="unfinished">Add row</translation>
+        <translation>Přidat řádek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="279"/>
         <source>Delete row</source>
-        <translation type="unfinished">Delete row</translation>
+        <translation>Odstranit řádek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="293"/>
         <source>Lock first row</source>
-        <translation type="unfinished">Lock first row</translation>
+        <translation>Uzamknout první řádek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="334"/>
         <source>Column properties</source>
-        <translation type="unfinished">Column properties</translation>
+        <translation>Vlastnosti sloupce</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="349"/>
         <source>New column defaults</source>
-        <translation type="unfinished">New column defaults</translation>
+        <translation>Výchozí hodnoty nového sloupce</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="136"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+        <translation>Vygenerovat interaktivní graf na základě uživatelského výběru sloupců tabulky.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="209"/>
