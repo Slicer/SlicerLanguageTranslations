@@ -530,7 +530,7 @@ z důvodu:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
         <source>&amp;Run file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spustit soubor</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="142"/>
@@ -540,7 +540,7 @@ z důvodu:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
         <source>Print &amp;help</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypsat &amp;nápovědu</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="147"/>
@@ -550,29 +550,31 @@ z důvodu:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="152"/>
         <source>&amp;Run script from file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spustit skript ze souboru</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1380"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor „%1“ nelze přečíst.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1409"/>
         <source>Select a script file to run</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte soubor skriptu ke spuštění</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1421"/>
         <source>CTRL+h: Print this help message
 </source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+h: Vypsat tuto zprávu nápovědy
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1422"/>
         <source>CTRL+r: Open a file dialog to select a file to run
 </source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+r: Otevřít dialog pro výběr souboru ke spuštění
+</translation>
     </message>
 </context>
 <context>
@@ -2287,12 +2289,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="14"/>
         <source>Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam serverů</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="20"/>
         <source>Calling AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Volající AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="30"/>
@@ -2302,17 +2304,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="37"/>
         <source>Storage AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>AETitle úložiště</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="47"/>
         <source>Storage Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port úložiště</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="57"/>
         <source>Remove Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="64"/>
@@ -2327,22 +2329,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="85"/>
         <source>AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="90"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="95"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="100"/>
         <source>CGET</source>
-        <translation type="unfinished"></translation>
+        <translation>CGET</translation>
     </message>
 </context>
 <context>
@@ -4507,7 +4509,7 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
         <source>Lazy Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Odložená aktivace</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"/>
@@ -4517,12 +4519,12 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="55"/>
         <source>Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Spuštěno</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="56"/>
         <source>Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Spouštění</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"/>
@@ -4532,7 +4534,7 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="58"/>
         <source>Stopping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavování</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="59"/>
@@ -4547,22 +4549,22 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="61"/>
         <source>Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizováno</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="115"/>
         <source>Start Plugin (ignore activation policy)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit plugin (ignorovat zásadu aktivace)</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="116"/>
         <source>Start Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit plugin</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="117"/>
         <source>Stop Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavit plugin</translation>
     </message>
 </context>
 <context>
@@ -4629,42 +4631,42 @@ Zkontrolujte svá oprávnění.</translation>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="194"/>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhled &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="209"/>
         <source>Successfully create plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin byl úspěšně vytvořen</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="217"/>
         <source>Creating the plugin failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoření pluginu se nezdařilo.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="246"/>
         <source>Creating directory &quot;%1&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoření adresáře „%1“ se nezdařilo.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="279"/>
         <source>Creating the preview failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoření náhledu se nezdařilo.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generátor pluginů CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
         <source>Enter the name of your organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte název své organizace:</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
         <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;your-organization&gt;</translation>
     </message>
 </context>
 <context>
@@ -4937,37 +4939,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="100"/>
         <source>UNINSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>NEINSTALOVÁNO</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="101"/>
         <source>INSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>INSTALOVÁNO</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="102"/>
         <source>RESOLVED</source>
-        <translation type="unfinished"></translation>
+        <translation>VYŘEŠENO</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="103"/>
         <source>STARTING</source>
-        <translation type="unfinished"></translation>
+        <translation>SPOUŠTĚNÍ</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="104"/>
         <source>STOPPING</source>
-        <translation type="unfinished"></translation>
+        <translation>ZASTAVOVÁNÍ</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="105"/>
         <source>ACTIVE</source>
-        <translation type="unfinished"></translation>
+        <translation>AKTIVNÍ</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="115"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>neznámé</translation>
     </message>
 </context>
 <context>
@@ -5517,37 +5519,37 @@ Chcete ji nahradit?</translation>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="14"/>
         <source>Scalar bar properties</source>
         <oldsource>vtkScalarBarWidget</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti pruhu hodnot</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="23"/>
         <source>Display scalar bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit pruh hodnot</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="30"/>
         <source>Title properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti názvu:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="45"/>
         <source>Labels properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti popisků:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="54"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formát:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="64"/>
         <source>Maximum number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximální počet barev:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="81"/>
         <source>Number of labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet popisků:</translation>
     </message>
 </context>
 <context>
@@ -5712,22 +5714,22 @@ Chcete ji nahradit?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="14"/>
         <source>Volume property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti svazku</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="23"/>
         <source>Scalar Opacity Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapování krytí skalárů</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="51"/>
         <source>Scalar Color Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapování barvy skalárů</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="73"/>
         <source>Gradient Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Krytí přechodu</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"/>
@@ -5737,27 +5739,27 @@ Chcete ji nahradit?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolace:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="109"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Nejbližší soused</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="114"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Lineární</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="122"/>
         <source>Shade:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stínování:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="132"/>
         <source>Material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Materiál:</translation>
     </message>
 </context>
 <context>
