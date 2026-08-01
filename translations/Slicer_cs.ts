@@ -8044,27 +8044,27 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="194"/>
         <source>DICOM Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Prohlížeč DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="250"/>
         <source>Uncheck All</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit výběr všeho</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="256"/>
         <source>Examine</source>
-        <translation type="unfinished"></translation>
+        <translation>Prozkoumat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="262"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="264"/>
         <source>Load selected items into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst vybrané položky do scény</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="270"/>
@@ -8074,114 +8074,114 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="344"/>
         <source>The following data type is in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>V databázi je následující typ dat:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="346"/>
         <source>The following data types are in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>V databázi jsou následující typy dat:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="351"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Následující rozšíření není nainstalováno, ale může vám pomoci s prací s těmito daty:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="353"/>
         <source>The following extensions are not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Následující rozšíření nejsou nainstalována, ale mohou vám pomoci s prací s těmito daty:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="357"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozšíření můžete nainstalovat pomocí volby Správce rozšíření v nabídce Zobrazit.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="358"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="525"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="498"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>{missing_file_count} z {total_file_count} vybraných souborů uvedených v databázi nelze na disku najít.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="505"/>
         <source>Checking {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroluje se {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="523"/>
         <source>Warning: {messages}</source>
-        <translation type="unfinished"></translation>
+        <translation>Varování: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="524"/>
         <source>See python console for error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chybovou zprávu naleznete v konzoli Pythonu.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="648"/>
         <source>Loading {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítá se {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="671"/>
         <source>DICOM loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítání DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="682"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Varování v modulu DICOM {load_type} při zkoumání načitatelné položky {name}: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="686"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Během načítání byla zjištěna varování. Podrobnosti zobrazíte prozkoumáním dat v rozšířeném režimu. Přesto načíst?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="697"/>
         <source>Referenced datasets found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalezeny odkazované datové sady</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="698"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Načtené objekty DICOM obsahují odkazy na jiné datové sady, které jste nevybrali k načtení. Chcete-li načíst následující odkazované datové sady, vyberte Ano; chcete-li načíst jen původně vybrané série, vyberte Ne; načítání přerušíte volbou Zrušit.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="712"/>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapamatovat volbu a již se neptat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="713"/>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Později lze změnit v Nastavení aplikace / DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="741"/>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkazy</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Data DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Čtečka</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="774"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Varování</translation>
     </message>
 </context>
 <context>
@@ -8328,27 +8328,27 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="36"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalární objem</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="84"/>
         <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
-        <translation type="unfinished"></translation>
+        <translation>Upřednostňované jádro. Archetype se v Sliceru používalo jako výchozí před červnem 2017. Změňte toto nastavení, pokud dříve načítaná data přestanou fungovat (a nahlaste problém).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished"></translation>
+        <translation>Postup čtení DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="92"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit přidání nelineární transformace k regularizaci obrazů pořízených s nepravidelnou geometrií: nerovinnou mřížkou (například CT snímky s nakloněným gantry) a nestejnými rozestupy řezů. Pokud se regularizace nepoužije, může se obraz pořízený s nepravidelnou geometrií jevit jako deformovaný.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>výchozí (použít regularizační transformaci)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"/>
@@ -8358,98 +8358,98 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="98"/>
         <source>apply regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>použít regularizační transformaci</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="99"/>
         <source>harden regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>zpevnit regularizační transformaci</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="102"/>
         <source>Acquisition geometry regularization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Regularizace geometrie akvizice:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="106"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="119"/>
         <source>DICOM examination settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení zkoumání DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="110"/>
         <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabídnout načtení jednotlivých řezů nebo skupin řezů pořízených v určitém čase (čas obsahu nebo spuštění). Je-li tato možnost povolena, může se v části Rozšířené prohlížeče DICOM zobrazit velké množství načitatelných položek.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"/>
         <source>Allow loading subseries by time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit načítání podsérií podle času:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="135"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation type="unfinished"></translation>
+        <translation>První objem je {imageScalarType1}, ale druhý je {imageScalarType2}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="140"/>
         <source>Pixel data mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Neshoda pixelových dat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="200"/>
         <source>{count} files, first file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} souborů, první soubor: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="306"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} souborů seskupených podle {tag} = {value}. První soubor: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="343"/>
         <source>There is no pixel data attribute for the DICOM objects, but they might be readable as secondary capture images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekty DICOM nemají atribut pixelových dat, ale mohou být čitelné jako snímky sekundárního zachycení.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="648"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytváří sérii souborů DICOM ze skalárních objemů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="676"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná hierarchie subjektu</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="681"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Sérii „{itemName}“ nelze exportovat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="698"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro sérii „{volumeName}“ nelze získat vyšetření</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="703"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro sérii „{volumeName}“ nelze získat pacienta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="752"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Prázdná modalita série „{volumeName}“</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="766"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Série s identifikátorem SeriesInstanceUID {seriesInstanceUID} již v databázi existuje.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="775"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytváření souborů DICOM ze skalárního objemu selhalo. Podrobnosti najdete v protokolu aplikace.</translation>
     </message>
 </context>
 <context>
@@ -10665,88 +10665,89 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="19"/>
         <source>Islands</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrůvky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="37"/>
         <source>Edit islands (connected components) in a segment&lt;br&gt;. To get more information
 about each operation, hover the mouse over the option and wait for the tooltip to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit ostrůvky (souvislé komponenty) v segmentu&lt;br&gt;. Další informace
+o jednotlivých operacích zobrazíte umístěním ukazatele myši na volbu a vyčkáním na zobrazení popisku.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="43"/>
         <source>Keep largest island</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponechat největší ostrůvek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="45"/>
         <source>Keep only the largest island in selected segment, remove all other islands in the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponechat pouze největší ostrůvek ve vybraném segmentu a odstranit všechny ostatní ostrůvky v segmentu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="49"/>
         <source>Keep selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponechat vybraný ostrůvek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="51"/>
         <source>Click on an island in a slice view to keep that island and remove all other islands in selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na ostrůvek v pohledu řezu ponecháte tento ostrůvek a odstraníte všechny ostatní ostrůvky ve vybraném segmentu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="55"/>
         <source>Remove small islands</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit malé ostrůvky</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="57"/>
         <source>Remove all islands from the selected segment that are smaller than the specified minimum size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit ze zvoleného segmentu všechny ostrůvky, které jsou menší než určená minimální velikost.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="61"/>
         <source>Remove selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit vybraný ostrůvek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="63"/>
         <source>Click on an island in a slice view to remove it from selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na ostrůvek v pohledu řezu jej odstraníte z vybraného segmentu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="67"/>
         <source>Add selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat vybraný ostrůvek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="69"/>
         <source>Click on a region in a slice view to add it to selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na oblast v pohledu řezu ji přidáte do vybraného segmentu.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="73"/>
         <source>Split islands to segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozdělit ostrůvky do segmentů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="75"/>
         <source>Create a new segment for each island of selected segment. Islands smaller than minimum size will be removed. Segments will be ordered by island size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový segment pro každý ostrůvek vybraného segmentu. Ostrůvky menší než minimální velikost budou odstraněny. Segmenty budou seřazeny podle velikosti ostrůvků.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="92"/>
         <source>Islands consisting of less voxels than this minimum size, will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrůvky s počtem voxelů nižším než tato minimální velikost budou odstraněny.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="96"/>
         <source> voxels</source>
-        <translation type="unfinished"></translation>
+        <translation> voxelů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source>Minimum size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimální velikost:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
@@ -10756,7 +10757,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="399"/>
         <source>Click in a slice view to select an island.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím v pohledu řezu vyberete ostrůvek.</translation>
     </message>
 </context>
 <context>
@@ -11496,7 +11497,7 @@ Překrývají-li se segmenty, segment umístěný výše v tabulce segmentů bud
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="22"/>
         <source>Segment Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiky segmentů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="26"/>
@@ -11511,7 +11512,17 @@ Requires segment labelmap representation and selection of a scalar volume
 Closed surface statistics (CS): surface mm2, volume mm3, volume cm3 (computed from closed surface).
 Requires segment closed surface representation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tento modul slouží k výpočtu počtů a objemů segmentů a statistik skalárního objemu na pozadí.
+Vypočtená pole:
+Statistiky masky popisků segmentu (LM): počet voxelů, objem v mm3, objem v cm3.
+Vyžaduje reprezentaci masky popisků segmentu.
+Statistiky skalárního objemu (SV): počet voxelů, objem v mm3, objem v cm3 (v místech, kde se segmenty překrývají se skalárním objemem),
+minimum, maximum, průměr, směrodatná odchylka (statistiky intenzity).
+Vyžaduje reprezentaci masky popisků segmentu a výběr skalárního objemu.
+Statistiky uzavřeného povrchu (CS): plocha v mm2, objem v mm3, objem v cm3 (vypočteno z uzavřeného povrchu).
+Vyžaduje reprezentaci uzavřeného povrchu segmentu.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="38"/>
@@ -11525,7 +11536,7 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="80"/>
         <source>Pick parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat sadu parametrů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="85"/>
@@ -11535,7 +11546,7 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="96"/>
         <source>Pick the segmentation to compute statistics for</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat segmentaci, pro kterou se mají vypočítat statistiky</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="97"/>
@@ -11545,12 +11556,12 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="108"/>
         <source>Select the scalar volume for intensity statistics calculations</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat skalární objem pro výpočet statistik intenzity</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="109"/>
         <source>Scalar volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalární objem:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="113"/>
@@ -11560,17 +11571,17 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="118"/>
         <source>Create new table</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit novou tabulku</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="126"/>
         <source>Select the table where statistics will be saved into</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat tabulku, do které se uloží statistiky</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="129"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstupní tabulka:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="133"/>
@@ -11586,27 +11597,27 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="149"/>
         <source>Calculate Statistics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypočítat statistiky.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="191"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Výsledky se nepodařilo vypočítat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="196"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pracuji...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="222"/>
         <source>Enabled segment statistics plugins:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolené moduly statistik segmentů:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="224"/>
         <source>{pluginName} Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiky {pluginName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="227"/>
@@ -11616,33 +11627,33 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="297"/>
         <source>Edit Segment Statistics Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit parametry statistik segmentů</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="314"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="338"/>
         <source>Edit segment statistics plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit parametry modulu statistik segmentů:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="316"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Hotovo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="317"/>
         <source>Finish editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokončit úpravy.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="340"/>
         <source>Edit {pluginName} plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit parametry modulu {pluginName}:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="368"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1014"/>
@@ -31766,112 +31777,112 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="60"/>
         <source>Volume Archetype Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Úložiště archetypu objemu</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="412"/>
         <source>Cannot read &apos;%1&apos; file as a volume of type &apos;%2&apos;. Details: %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor „%1“ nelze načíst jako objem typu „%2“. Podrobnosti: %3.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="428"/>
         <source>Unable to read data from file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze načíst data ze souboru: „%1“</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="440"/>
         <source>Unable to read DiffusionTensorVolume data from file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze načíst data DiffusionTensorVolume ze souboru: „%1“</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="450"/>
         <source>Unable to read ScalarVolume data from file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze načíst data ScalarVolume ze souboru: „%1“</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="461"/>
         <source>Not a scalar volume file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nejde o soubor skalárního objemu: „%1“</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="503"/>
         <source>Cannot read file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor nelze načíst: „%1“</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="524"/>
         <source>Image reader provided invalid RAS to IJK matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Čtečka obrazů poskytla neplatnou matici RAS do IJK</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="580"/>
         <source>Voxel vector type is spatial but number of scalar components is not 3. Saved vector type will be non-spatial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ vektorů voxelů je prostorový, ale počet skalárních složek není 3. Uložený typ vektorů nebude prostorový.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="589"/>
         <source>Spatial vectors will be written to non-NRRD file format (%1). In this format, voxels are saved as regular vectors. If the file is imported again then vector axis directions may be flipped. It is recommended to save volumes that contain spatial vectors in NRRD file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostorové vektory budou zapsány do formátu jiného než NRRD (%1). V tomto formátu se voxely ukládají jako běžné vektory. Při opětovném importu souboru může dojít k převrácení směrů os vektorů. Objemy obsahující prostorové vektory se doporučuje ukládat ve formátu NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="634"/>
         <source>Unable to remove old version of file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze odstranit starou verzi souboru: „%1“</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="645"/>
         <source>Error renaming file to &apos;%1&apos;, rename returned code %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba při přejmenování souboru na „%1“, přejmenování vrátilo kód %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="718"/>
         <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formát souboru VTK dokáže ukládat pouze obrazy orientované podle os LPS. Orientace uloženého obrazu může být nesprávná. Pro uložení tohoto obrazu se doporučuje formát NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="749"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložení tohoto obrazu ve formátu TIFF povede ke ztrátě informací (poloha obrazu, orientace nebo rozestup podél třetí osy obrazu). Pro uložení tohoto obrazu se doporučuje formát NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="762"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formát souboru Analyze se nedoporučuje, protože specifikace orientace obrazu je nejednoznačná. Pro uložení tohoto obrazu se doporučuje formát NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="801"/>
         <source>Cannot write volume, image data is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Objem nelze zapsat, obrazová data jsou prázdná</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="850"/>
         <source>Failed to delete directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresář „%1“ se nepodařilo odstranit</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="858"/>
         <source>Failed to create directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresář „%1“ se nepodařilo vytvořit</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="902"/>
         <source>Failed to write &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Položku „%1“ se nepodařilo zapsat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="914"/>
         <source>Failed to open directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresář „%1“ se nepodařilo otevřít</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1027"/>
         <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor archetypu „%1“ nebyl při zápisu „%2“ do „%3“ zapsán. Byly zapsány pouze tyto %4 soubory: %5. Původní název je „%6“.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1055"/>
         <source>Failed to remove temporary directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Dočasný adresář „%1“ se nepodařilo odstranit</translation>
     </message>
 </context>
 <context>
