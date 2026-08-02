@@ -129,7 +129,7 @@ a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován gran
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="164"/>
         <source>Settings</source>
-        <translation type="unfinished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
@@ -260,7 +260,7 @@ Tato práce je součástí projektu SparKit financovaného programem ACRU organi
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="43"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parametry</translation>
+        <translation>Parametry</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
@@ -300,12 +300,12 @@ Tato práce je součástí projektu SparKit financovaného programem ACRU organi
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Spustit algoritmus.</translation>
+        <translation>Spustit algoritmus.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="111"/>
         <source>Output</source>
-        <translation type="unfinished">Výstup</translation>
+        <translation>Výstup</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
@@ -315,12 +315,12 @@ Tato práce je součástí projektu SparKit financovaného programem ACRU organi
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="123"/>
         <source>Advanced</source>
-        <translation type="unfinished">Pokročilý</translation>
+        <translation>Pokročilý</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished">Počet iterací:</translation>
+        <translation>Počet iterací:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
@@ -396,7 +396,7 @@ Další informace najdete na &lt;a href=&apos;https://github.com/SlicerIGT/Slice
     <message>
         <location filename="TextureModel/TextureModel.py" line="49"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parametry</translation>
+        <translation>Parametry</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
@@ -970,7 +970,7 @@ Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.sliceri
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="146"/>
         <source>Advanced</source>
-        <translation type="unfinished">Pokročilý</translation>
+        <translation>Pokročilý</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="155"/>
@@ -1295,7 +1295,7 @@ Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.sliceri
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="272"/>
         <source>Update</source>
-        <translation type="unfinished">Aktualizovat</translation>
+        <translation>Aktualizovat</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="285"/>
@@ -1359,7 +1359,7 @@ Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.sliceri
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="413"/>
         <source>Update</source>
-        <translation type="unfinished">Aktualizovat</translation>
+        <translation>Aktualizovat</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="449"/>
@@ -1479,7 +1479,7 @@ Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.sliceri
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="205"/>
         <source>Stop</source>
-        <translation type="unfinished">Zastavit</translation>
+        <translation>Zastavit</translation>
     </message>
 </context>
 <context>
@@ -2676,7 +2676,7 @@ Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.sliceri
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="600"/>
         <source>Reset</source>
-        <translation type="unfinished">Resetovat</translation>
+        <translation>Resetovat</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="607"/>
@@ -2774,7 +2774,7 @@ Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.sliceri
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="321"/>
         <source>Stop</source>
-        <translation type="unfinished">Zastavit</translation>
+        <translation>Zastavit</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="330"/>
@@ -2873,7 +2873,7 @@ Návod k použití tohoto modulu najdete na &lt;a href=&apos;https://www.sliceri
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="163"/>
         <source>Display</source>
-        <translation type="unfinished">Zobrazit</translation>
+        <translation>Zobrazit</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="180"/>
