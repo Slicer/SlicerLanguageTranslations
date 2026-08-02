@@ -267,7 +267,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/ScreenshotAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="38"/>
