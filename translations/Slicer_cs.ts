@@ -3047,7 +3047,7 @@ Kvalitativně se MCDE dobře srovnává s jinými nelineárními technikami difu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation>ZASTARALÉ: Bez podpory a testování. Vytvoří soubor NRRD, ale bez gradientů.</translation>
+        <translation>ZASTARALÉ:  Bez podpory a testování. Vytvoří soubor NRRD, ale bez gradientů.</translation>
     </message>
 </context>
 <context>
@@ -25370,7 +25370,7 @@ Vyberte prázdný adresář.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation>Automaticky nastavit neprůhlednost segmentů podle toho, který který obsahuje, aby žádný segment nezakrýval jiný</translation>
+        <translation>Automaticky nastavit neprůhlednost segmentů podle toho, které segmenty obsahují jiné, aby žádný segment nezakrýval jiný</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
