@@ -6,123 +6,123 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="17"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ներբեռնել, կոմպիլացնել և տեղադրել վերջին թարգմանությունները</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարմացնել թարգմանության ֆայլերը</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Weblate API բանալին:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թողեք դատարկ՝ օգտագործելու համար նախորոշված արժեքը։   Weblate-ի համար ընտրովի API բանալի։   Տրամադրեք այն, եթե ձեզ անհրաժեշտ է մուտք ունենալ մասնավոր նախագծերին կամ խուսափել արագության սահմանափակումներից։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
         <source>Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թող դատարկ՝ օգտագործելու համար նախորոշված (Slicer տեղադրիչի հետ փաթեթավորված կամ համակարգի ուղիներում հասանելի Qt lrelease գործիքները): Նշեք՝ օգտագործելու համար սեփական Qt lrelease կատարելի ֆայլը:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեքստի ուղղությունը:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Մուտքային թարգմանություններ</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="219"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Մուտքային թղթապանակ:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Լեզուներ:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="239"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Վեբլեյթ (վերջին թարգմանություններ)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="246"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GitHub (օրական թարմացվում է)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեղական թղթապանակ (օֆլայն օգտագործման համար)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="260"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Միայն վերջին ֆայլը:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարմացնել Weblate-ի լեզվերի ցուցակը՝ հարցում ուղարկելով Weblate սերվերին։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="273"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարմացնել</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="280"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընտրեք այն լեզու(ները), որոնք կներբեռնվեն և տեղադրվեն։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="287"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարգմանության (.ts) ֆայլեր պարունակող թղթապանակ։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="302"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this option is checked then only the latest .ts file in the folder will be used. Enable this option to ignore previously downloaded .ts files are saved in the same folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Եթե այս տարբերակը նշված է, ապա թղթապանակում միայն վերջին .ts ֆայլը կօգտագործվի։ Այս տարբերակը թույլ է տալիս անտեսել նույն թղթապանակում պահված նախկինում ներբեռնված .ts ֆայլերը։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="168"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Դիմումի լեզու:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="143"/>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="181"/>
         <source>Change only takes effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Փոփոխությունը ուժի մեջ է մտնում միայն հավելվածը վերագործարկելուց հետո։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="191"/>
         <source>Restart the application to see updated translations on the graphical user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Վերագործարկեք հավելվածը՝ գրաֆիկական օգտվողի միջերեսում թարմացված թարգմանությունները տեսնելու համար։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="194"/>
         <source>Restart the application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Վերագործարկել հավելվածը</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="27"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընդլայնված կարգավորումներ</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="116"/>
         <source>Qt &apos;lrelease&apos; tool path:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt `release` գործիքի երթուղի:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
@@ -133,57 +133,57 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="62"/>
         <source>Slicer version:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer-ի տարբերակը:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="69"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Օգտագործվում է միայն GitHub-ի համար։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="79"/>
         <source>GitHub repository URL:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GitHub պահոցի URL:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="86"/>
         <source>Github repository that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարգմանված տողերը պահպանող Github պահոց։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="39"/>
         <source>Translation file folders:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարգմանության ֆայլերի թղթապանակներ:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="55"/>
         <source>Show more...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ցուցադրել ավելին...</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="318"/>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեքստ գտնել</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Enable text finder:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ակտիվացնել տեքստի որոնիչը:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="339"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Եթե ակտիվացված է, ապա այս կարճուղին բացում է տեքստի որոնիչը, որը կարելի է օգտագործել հավելվածի օգտվողի միջերեսից տեքստ հանելու և այն բացելու թարգմանության կայքում։</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="364"/>
         <source>Keyboard shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեղադրիչ ստեղնաշարային կարճ ճանապարհը:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="21"/>
         <source>Language Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Լեզվական գործիքներ</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="25"/>
@@ -191,7 +191,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Այս մոդուլը կարող է ստեղծել թարգմանական ֆայլեր և տեղադրել դրանք տեղայնորեն։ Այն օգտակար է թարգմանություններ ստեղծելու և փորձարկելու համար։
+Ավելի մանրամասն տեղեկությունների համար դիտեք &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extensio&apos;n-ի փաստաթղթավորումը&lt;/a&gt;։
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -202,12 +205,14 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Այս մոդուլի մշակումը մասամբ ֆինանսավորվել է &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS դրամաշնորհ&lt;/a&gt;»-ի կողմից։
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="178"/>
         <source>Failed to extract any text from widget</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Չհաջողվեց հանել որևէ տեքստ վիջեթից</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="193"/>
@@ -217,109 +222,112 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սեղմեք տեքստի վրա՝ այն գտնելու թարգմանության կայքում [{language}]:
+
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="211"/>
         <source>Failed to extract any text from: {object}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Չհաջողվեց որևէ տեքստ հանել {object}-ից։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ավտոմատ հայտնաբերում</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
         <source>Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Աջից ձախ</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="269"/>
         <source>Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Աջից ձախ</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="332"/>
         <source>Failed to retrieve language list from Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Չհաջողվեց Weblate-ից լեզուների ցուցակը ստանալ։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="461"/>
         <source>Update failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարմացումը ձախողվեց։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="483"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարմացումը ավարտված է։ Ընտրեք հավելվածի լեզուն և վերագործարկեք հավելվածը արդյունքները տեսնելու համար։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="570"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Չհաջողվեց Weblate-ից լեզուների ցանկը ստանալ ({status_code}:{reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="603"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Չհաջողվեց Weblate-ից բաղադրիչների ցանկը հարցել ({status_code}:{reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="642"/>
         <source>No .ts files were found in the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սահմանված տեղում .ts ֆայլեր չեն գտնվել։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="646"/>
         <source>Use translation file: {file}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Օգտագործել թարգմանության ֆայլը՝ {file}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="670"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ներբեռնել թարգմանությունները {component}/{language} համար...</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="682"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Չգտնվեց։ Այս բաղադրիչը/լեզուն Weblate-ում չի գտնվել։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Չանցավ։ Ներբեռնված ֆայլը անվավեր է։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
         <location filename="LanguageTools/LanguageTools.py" line="740"/>
         <source>Translation files folder is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարգմանության ֆայլերի թղթապանակը չի նշված։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="720"/>
         <source>lrelease tool path is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">lrelease գործիքի երթուղին չի նշված։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="758"/>
         <source>No translation (qm) files were found at {location}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{location}-ում թարգմանության (qm) ֆայլեր չեն գտնվել։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="760"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թարմացումը հաջողությամբ ավարտվեց։
+{location}-ում տեղադրվել են {count} թարգմանական ֆայլեր։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="766"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Այս Slicer տարբերակը չի աջակցում անհատական դիտարկիչի տառատեսակներին։</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="794"/>
         <source>Installed {count} font files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեղադրվել է {count} տառատեսակների ֆայլեր {location}-ում։</translation>
     </message>
 </context>
 <context>
@@ -327,7 +335,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Կոմունալ ծառայություններ</translation>
     </message>
 </context>
 </TS>
