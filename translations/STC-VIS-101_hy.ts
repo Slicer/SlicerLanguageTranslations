@@ -7,43 +7,43 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Basics of Data Loading and 3D Visualization in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տվյալների բեռման և 3D վիզուալիզացիայի հիմունքներ 3D Slicer-ում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Author: Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Հեղինակ՝ Սոնյա Պուժոլ, Ph.D.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>24/11/2024</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">24/11/2024</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Assistant Professor of Radiology Brigham and Women’s Hospital Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Բրիգհեմ և Ումենսի հիվանդանոցի ռադիոլոգիայի օգնական պրոֆեսոր, Հարվարդի բժշկական դպրոց</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Overall Goal</source>
         <extracomment>1_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընդհանուր նպատակ</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>This tutorial is an introduction to the basics of loading and viewing DICOM images and 3D models in 3D Slicer.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Այս ձեռնարկը 3D Slicer-ում DICOM պատկերների և 3D մոդելների բեռնման և դիտման հիմունքների ներածությունն է։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
         <source>Learning Objectives</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ուսուցման նպատակները</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
@@ -55,13 +55,19 @@
 
 • to load and visualize 3D models reconstructed from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> • Այս դասընթացը ավարտելուց հետո դուք կկարողանաք՝
+
+• Slicer-ում բեռնել և վիզուալացնել DICOM պատկերները
+
+• ԿՏ տվյալների ծավալային ռենդերավորում կատարել
+
+• MRI տվյալներից վերակառուցված 3D մոդելները բեռնել և վիզուալացնել</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="24"/>
         <source>Tutorial materials</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ուսուցողական նյութեր</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -69,7 +75,9 @@
 
 •  3D VisualizationDataSet.zip</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• 3D Slicer տարբերակ 5.10
+
+•  3D VisualizationDataSet.zip</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="28"/>
@@ -78,7 +86,7 @@
         <extracomment>4_TextBox_0
 ----------
 33_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տվյալների հավաքածուի ուսուցողական ձեռնարկ</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -89,13 +97,18 @@
 
 Unzip the file 3DVisualizationDataset.zip on your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3DVisualizationDataset.zip ֆայլը պարունակում է երկու թղթապանակ՝
+
+- dataset1_Thorax_Abdomen
+- dataset2_Head
+
+Ձեր համակարգչում արխիվից հանեք 3DVisualizationDataset.zip ֆայլը տվյալների հավաքակազմերին մուտք գործելու համար։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="32"/>
         <source>Disclaimer</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Պատասխանատվության հրաժարում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
@@ -105,13 +118,17 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 • The software is not FDA approved or CE-Marked, and is for research use only.
 </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• 3D Slicer-ը անվճար, բաց կոդով ծրագրային հավելված է, որը բաշխվում է BSD ոճի լիցենզիայի ներքո։ 
+
+
+• Այս ծրագրաշարը FDA-ի կողմից չի հաստատվել և CE նշանով չի նշանավորվել, և նախատեսված է միայն հետազոտական օգտագործման համար։
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="36"/>
         <source>Tutorial Outline</source>
         <extracomment>6_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ուսուցողական պլան</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -122,13 +139,18 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 
 • Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• Մաս 1: DICOM տվյալների բեռնում և դիտում
+
+• Մաս 2: Հատորային ռենդերավորում
+
+
+• Մաս 3: 3D մոդելների բեռնում և դիտում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="40"/>
         <source>Part 1: DICOM Data Loading</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Մաս 1. DICOM տվյալների բեռնում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
@@ -137,26 +159,26 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <extracomment>8_LoadingaDICOMvolume_title
 ----------
 9_LoadingaDICOMvolume_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM ծավալը բեռնելիս</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer displays the user interface of the DICOM module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer-ը ցուցադրում է DICOM մոդուլի օգտվողի միջերեսը։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>The patient1 study contains a CT Thorax Abdomen dataset</source>
         <extracomment>8_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Patient1 ուսումնասիրությունը պարունակում է կրծքավանդակ-փորի CT տվյալների հավաքածու։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
         <source>Select patient1 and click on Load 
 to load the dataset in Slicer</source>
         <extracomment>9_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընտրեք patient1-ը և սեղմեք Load-ը՝ տվյալների հավաքածուն Slicer-ում բեռնելու համար</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -186,7 +208,7 @@ to load the dataset in Slicer</source>
 17_VisualizingDICOMimages_title
 ----------
 18_VisualizingDICOMimages_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM պատկերների վիզուալացում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -194,21 +216,24 @@ to load the dataset in Slicer</source>
 and sagittal images of the CT 
 Thorax Abdomen dataset </source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer-ը ցուցադրում է CT 
+Thorax Abdomen տվյալների հավաքածուի 
+աքսիալ, կորոնալ և սագիթալ պատկերները </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
         <source>Left click on DICOM to display 
 the list of modules of Slicer</source>
         <extracomment>11_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM-ի վրա ձախ կտտացրեք՝ Slicer-ի մոդուլների ցուցակը ցուցադրելու համար</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="60"/>
         <source>Select the module 
 Volumes</source>
         <extracomment>11_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընտրեք մոդուլը 
+Հատորներ</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
@@ -217,7 +242,7 @@ preset to automatically adjust
 the window/level display of the 
 CT dataset</source>
         <extracomment>12_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սեղմեք CT-abdomen նախապես սահմանված կարգավորումը՝ CT տվյալների հավաքածուի պատուհան/մակարդակի ցուցադրումը ավտոմատ կերպով հարմարեցնելու համար։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="68"/>
@@ -236,14 +261,24 @@ Click on the Eye icon to
 display the three anatomical 
 slices in the 3D Viewer</source>
         <extracomment>13_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեղադրեք մկնիկի կուրսորը 
+Կարմիր դիտարկիչի կարմիր պաստառի վրա, 
+որպեսզի ցուցադրվի կտրվածքի 
+մենյուն։
+
+
+Սեղմեք «Հղումներ» պատկերակին՝ կտրվածքի կառավարիչները բոլոր Slice Viewer-ներում կապելու համար։
+
+
+Սեղմեք «Աչք» պատկերակին՝ 3D Viewer-ում երեք անատոմիական կտրվածքները ցուցադրելու համար։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>The three anatomical slices 
 appear in the 3D viewer.</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Երեք անատոմիական կտրվածքները 
+երևում են 3D դիտիչում։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -251,7 +286,9 @@ appear in the 3D viewer.</source>
 icon, and select the 
 Conventional Widescreen layout</source>
         <extracomment>15_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սեղմեք Slicer դասավորության մենյուի 
+ պատկերակին և ընտրեք 
+ ավանդական լայնէկրան դասավորությունը</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -259,21 +296,22 @@ Conventional Widescreen layout</source>
 to Conventional 
 Widescreen layout</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer-ը փոխում է դասավորությունը 
+Սովորական լայնէկրան դասավորությանը</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="84"/>
         <source>Use the right mouse button in the 
 3D Viewer to zoom in and out</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D դիտարկիչում օգտագործեք մկնիկի աջ կոճակը՝ մեծացնելու և փոքրացնելու համար</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
         <source>Use the left mouse button in the 
 3D Viewer to rotate the images</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D դիտարկիչում պատկերները պտտելու համար օգտագործեք մկնիկի ձախ կոճակը</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
@@ -282,7 +320,7 @@ Widescreen layout</source>
         <extracomment>19_3DViewerController_title
 ----------
 20_3DViewerController_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D դիտարկիչի կառավարիչ</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
@@ -296,20 +334,22 @@ top row of the 3DView
 controller to center the 3D view 
 on the scene</source>
         <extracomment>19_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեղադրեք մկնիկի կուրսորը 3D դիտարկիչի պատուհանի կապույտ պաստառի վրա գտնվող խփիչի պատկերակի վրա՝ 3DView կառավարիչը ցուցադրելու համար
+
+Սեղմեք 3DView կառավարչի վերին տողի երկրորդ պատկերակը՝ տեսարանը 3D դիտման մեջ կենտրոնացնելու համար</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="96"/>
         <source>Select the Volume Rendering 
 module in the list of modules </source>
         <extracomment>20_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընտրեք Ցուցադրման ծավալային մոդուլը մոդուլների ցուցակում </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>Part 2: Volume Rendering</source>
         <extracomment>21_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Մաս 2: Հատորային ռենդերավորում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -342,7 +382,7 @@ module in the list of modules </source>
 30_VolumeRendering_title
 ----------
 31_VolumeRendering_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Հատորային ռենդերում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="102"/>
@@ -356,14 +396,16 @@ module in Slicer enables
 interactive 3D visualization 
 of DICOM images</source>
         <extracomment>22_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• Հատորային ռենդերավորման տեխնիկաները թույլ են տալիս 3D տվյալների հավաքակների եռաչափ պատկերացում
+
+• Slicer-ի Հատորային ռենդերավորման մոդուլը թույլ է տալիս DICOM պատկերների ինտերակտիվ եռաչափ պատկերացում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="106"/>
         <source>Click on Preset in the Display tab 
 and select the preset CT-Cardiac3 </source>
         <extracomment>23_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սեղմեք «Display» ներդիրի «Preset» կոճակը և ընտրեք նախապես սահմանված CT-Cardiac3։ </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="110"/>
@@ -371,7 +413,8 @@ and select the preset CT-Cardiac3 </source>
 Click on the eye icon in the Volume tab to display 
 the volume rendered image in the 3D viewer</source>
         <extracomment>24_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընտրեք VTK GPU Ray Casting Rendering
+Սեղմեք «Volume» ներդիրի աչքի պատկերակին՝ 3D դիտարկիչում ծավալային ռենդերացված պատկերը ցուցադրելու համար</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="114"/>
@@ -380,7 +423,7 @@ change the transfer
 function and display the
 aorta</source>
         <extracomment>25_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Օգտագործեք շիֆտ սլայդերը փոխանցման ֆունկցիան փոխելու և աորտան ցուցադրելու համար։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="118"/>
@@ -389,7 +432,7 @@ display a region of interest
 (ROI) in the 3D viewer and 
 check the option Enable</source>
         <extracomment>26_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սեղմեք «Ցուցադրել ROI»-ը՝ 3D դիտարկիչում հետաքրքրության շրջան (ROI) ցուցադրելու և «Ակտիվացնել» տարբերակը նշելու համար։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="122"/>
@@ -402,7 +445,13 @@ Position the ROI around the
 left kidney using the color 
 handles</source>
         <extracomment>27_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Թաքցրեք 2D դիտարկիչում 
+աքսիալ, սագիթալ և կորոնալ 
+կտրվածքների տեսանելիությունը 
+
+
+Գունային բռնիչների օգնությամբ 
+ROI-ն տեղադրեք ձախ երիկամի շուրջը</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="126"/>
@@ -410,7 +459,7 @@ handles</source>
 display the volume rendered 
 image</source>
         <extracomment>28_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սեղմեք աչքի պատկերակին՝ ծավալային ռենդերացված պատկերը ցուցադրելու համար</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="130"/>
@@ -418,7 +467,7 @@ image</source>
 volume rendered 
 image of the left kidney </source>
         <extracomment>29_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սլայսերը ցուցադրում է ձախ երիկամի ծավալային պատկերը </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="134"/>
@@ -426,14 +475,14 @@ image of the left kidney </source>
 a volume rendered image of 
 the right kidney</source>
         <extracomment>30_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընդարձակեք ROI-ն՝ աջ երիկամի ծավալային ռենդերված պատկեր ստանալու համար</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="138"/>
         <source>Click on File, then Close Scene
 in the main menu</source>
         <extracomment>31_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Գլխավոր մենյուում սեղմեք «Ֆայլ», ապա՝ «Ցուցադրումը փակել»։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="140"/>
@@ -441,7 +490,8 @@ in the main menu</source>
 viewing 3D models
 </source>
         <extracomment>32_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Մաս 3: 3D մոդելների բեռնում և դիտում
+</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="144"/>
@@ -449,13 +499,15 @@ viewing 3D models
 
 • The scene contains 3D models from the SPL brain atlas developed by the department of Radiology at Brigham and Women’s Hospital, Harvard Medical School (NIH P41 RR013218, NIH R01 MH05074)</source>
         <extracomment>33_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• datasets2_Head թղթապանակը պարունակում է Slicer տեսարանը՝ Head_scene.mrb
+
+• Սցենան պարունակում է SPL ուղեղի атլասի 3D մոդելներ, որոնք մշակվել են Բրիգհեմ և Ումենի հիվանդանոցի Ռադիոլոգիայի բաժնի կողմից՝ Հարվարդի բժշկական դպրոցի (NIH P41 RR013218, NIH R01 MH05074)</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="146"/>
         <source>Slicer Scene</source>
         <extracomment>34_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Կտրիչի տեսարան</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="148"/>
@@ -467,13 +519,19 @@ Each data set, such as an image volume, surface model, or point set, is represen
 
 All Slicer modules operate on the data stored in a Slicer scene.</source>
         <extracomment>34_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer-ը բոլոր բեռնված տվյալները պահպանում է «scene» կոչվող պահոցում
+
+
+Յուրաքանչյուր տվյալների հավաքածու, օրինակ՝ պատկերային ծավալ, մակերեսային մոդել կամ կետերի հավաքածու, ներկայացվում է որպես հանգույց Slicer-ի scene-ում
+
+
+Բոլոր Slicer մոդուլները գործում են Slicer-ի scene-ում պահպանված տվյալների վրա</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="150"/>
         <source>Loading a Scene</source>
         <extracomment>35_LoadingaScene_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեսարան բեռնելիս</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="152"/>
@@ -481,7 +539,7 @@ All Slicer modules operate on the data stored in a Slicer scene.</source>
 surface model of the 
 head and 2D MRI slices</source>
         <extracomment>35_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer-ը ցուցադրում է գլխի 3D մակերևութային մոդելը և 2D ՄՌՏ կտրվածքները</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="154"/>
@@ -499,7 +557,7 @@ head and 2D MRI slices</source>
 39_Viewing3Dmodels_title
 ----------
 40_Viewing3Dmodels_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D մոդելների դիտում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="156"/>
@@ -509,14 +567,21 @@ slice menu and click on
 the eye icon to display the 
 axial slice in the 3D viewer</source>
         <extracomment>36_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Տեղադրեք կուրսորը 
+պինի պատկերակի վրա՝ 
+բացելու համար 
+կտրվածքների մենյուն, 
+և սեղմեք 
+ակայի պատկերակի վրա՝ 
+3D դիտարկիչում 
+ցուցադրելու համար առանցքային կտրվածքը</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="160"/>
         <source>Select the Models module 
 in the list of models</source>
         <extracomment>37_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընտրեք Մոդելներ մոդուլը մոդելների ցուցակում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="164"/>
@@ -526,7 +591,9 @@ scene
 
 Select the model Skin.vtk</source>
         <extracomment>38_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer-ը ցուցադրում է տեսարանում բեռնված 3D մոդելների ցուցակը
+
+Ընտրեք Skin.vtk մոդելը</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="168"/>
@@ -534,7 +601,9 @@ Select the model Skin.vtk</source>
 the Skin model using 
 the visibility slider</source>
         <extracomment>39_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Օպակությունը նվազեցրեք 
+Skin մոդելի համար՝ օգտագործելով 
+տեսանելիության սլայդերը</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="170"/>
@@ -542,7 +611,7 @@ the visibility slider</source>
 eyeballs models appear 
 through the skin</source>
         <extracomment>39_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Գանգի ոսկորի և աչքի գնդերի մոդելները երևում են մաշկի միջով</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="174"/>
@@ -551,7 +620,7 @@ model and click on the
 eye icon to turn off its 
 visibility</source>
         <extracomment>40_ArrowText_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընտրեք գանգի ոսկրի մոդելը և սեղմեք աչքի պատկերակին՝ դրա տեսանելիությունը անջատելու համար։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="176"/>
@@ -559,7 +628,7 @@ visibility</source>
 optic nerve models 
 appear through the skin</source>
         <extracomment>40_TextBox_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սպիտակ նյութի և տեսողական նյարդի մոդելները երևում են մաշկի միջոցով</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="178"/>
@@ -574,7 +643,7 @@ appear through the skin</source>
 43_Interactingwith3Dmodels_title
 ----------
 44_Interactingwith3Dmodels_title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D մոդելների հետ փոխազդեցություն</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="180"/>
@@ -582,7 +651,7 @@ appear through the skin</source>
 display the coronal slice 
 in the 3D viewer</source>
         <extracomment>41_ArrowText_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սեղմեք աչքի պատկերակին՝ կորոնալ հատվածը 3D դիտարկիչում ցուցադրելու համար</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="184"/>
@@ -590,7 +659,7 @@ in the 3D viewer</source>
 white matter model and 
 select the option Clipping</source>
         <extracomment>42_ArrowText_2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ընտրեք կիսագնդային սպիտակ նյութի մոդելը և ընտրեք «Կլիպինգ» տարբերակը։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="188"/>
@@ -598,20 +667,20 @@ select the option Clipping</source>
 posteriorily to display the 
 optic chiasm</source>
         <extracomment>43_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Շարժեք կորոնալ կտրվածքը հետևային ուղղությամբ՝ ցուցադրելու օպտիկ խիազմը։</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="192"/>
         <source>Slicer displays a 3D view of 
 the optic chiasm</source>
         <extracomment>44_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Սլայսերը ցուցադրում է օպտիկական խիազմի եռաչափ պատկերը</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="194"/>
         <source>Conclusion</source>
         <extracomment>45_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Եզրափակում</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="196"/>
@@ -622,19 +691,24 @@ the optic chiasm</source>
 
 Contact: spujol@bwh.harvard.edu</source>
         <extracomment>45_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• 3D Slicer-ը տրամադրում է առաջադեմ ֆունկցիոնալ հնարավորություններ 3D բժշկական պատկերային տվյալների բեռնելու և դիտելու համար
+
+• Ուսուցողական ձեռնարկը ցույց է տալիս, թե ինչպես օգտագործել ծավալային ռենդերավորումը և 3D մակերեսային մոդելավորումը՝ CT և MRI տվյալների ինտերակտիվ վիզուալիզացիայի համար
+
+
+Կապ՝ spujol@bwh.harvard.edu</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="198"/>
         <source>Acknowledgements</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Շնորհակալագրեր</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="200"/>
         <source>Neuroimage Analysis Center (NIBIB P41 EB015902)</source>
         <extracomment>46_TextBox_1</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Նյարդային պատկերների վերլուծության կենտրոն (NIBIB P41 EB015902)</translation>
     </message>
 </context>
 </TS>
