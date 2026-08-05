@@ -11,72 +11,72 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>បូករូបភាព ពីរ ចូលគ្នា។ ទោះបីជារូបភាពគ្រប់ប្រភេទត្រូវបានគាំទ្រក្នុងការបញ្ចូលក៏ដោយ ក៏មានតែប្រភេទ signed ប៉ុណ្ណោះដែលត្រូវបានបង្កើត។ រូបភាពទាំងពីរមិនចាំបាច់មានទំហំដូចគ្នាទេ។</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>ការងារនេះគឺជា ផ្នែកមួយរបស់សម្ព័ន្ធភាពជាតិសម្រាប់ ការគណនារូបភាពវេជ្ជសាស្ត្រ (NAMIC) ដែលផ្តល់មូលនិធិដោយវិទ្យាស្ថានសុខភាពជាតិ (NIH) តាមរយៈផែនទីបង្ហាញផ្លូវ NIH សម្រាប់ការស្រាវជ្រាវវេជ្ជសាស្ត្រ ជំនួយឧបត្ថម្ភ U54 EB005149។</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>ចូល/ចេញ (IO)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ចូល/បញ្ចេញ ប៉ារ៉ាម៉ែត្រ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជូលមាឌចំនួន 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជូលមាឌចំនួន 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>ទិន្នន័យមាឌលទ្ធផល</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជូលមាឌចំនួន 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជូលមាឌចំនួន 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
         <source>Volume1 + Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>មាឌ1 + មាឌ2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>កម្រិតខ្ពស់</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>ប៉ារ៉ាម៉ែត្រកម្រិតខ្ពស់ សម្រាប់កែសម្រួលការគណនាឱ្យកាន់តែច្បាស់។</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>លំដាប់នៃការប៉ាន់ស្មាន ដែលប្រើនៅពេល រូបភាពពីរមានទម្រង់ខុសគ្នា (origin, spacing, axis directions, ឬ extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation។</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>លំដាប់នៃការប៉ាន់ស្មាន</translation>
     </message>
 </context>
 <context>
@@ -84,32 +84,32 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>សម្អាត DWI (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>ដក gradients/volumes ដែលខូចចេញពីឯកសារ DWI NRRD។</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ចូលប៉ារ៉ាម៉ែត្រ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជូលរូបភាពមាឌ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ឯកសារ NRRD ដែលបានដក gradients ខូចចេញ។</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជីមាឌ gradient ដែលខូច</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
