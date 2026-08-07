@@ -645,7 +645,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished">Giriş hacimlerinden çok yüksek ve çok düşük yoğunluklu vokseler kaldırılır. Bu parametre, görüntü yoğunluklarındaki uç değerlerin belirlenmesinde kullanılacak yarı yüzde oranını belirtir. Varsayılan değer sıfırdır; bu, aykırı değerlerin kaldırılmayacağı anlamına gelir. 0,005 değeri verilirse, her iki uçtaki %0,005'lik kısım atılır; böylece istatistik hesaplamasında yoğunlukların toplam %0,01'i göz ardı edilir.</translation>
+        <translation type="unfinished">Giriş hacimlerinden çok yüksek ve çok düşük yoğunluklu vokseler kaldırılır. Bu parametre, görüntü yoğunluklarındaki uç değerlerin belirlenmesinde kullanılacak yarı yüzde oranını belirtir. Varsayılan değer sıfırdır; bu, aykırı değerlerin kaldırılmayacağı anlamına gelir. 0,005 değeri verilirse, her iki uçtaki %0,005&apos;lik kısım atılır; böylece istatistik hesaplamasında yoğunlukların toplam %0,01&apos;i göz ardı edilir.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
@@ -1308,7 +1308,7 @@ Bu seçenek yerine samplingPercentage seçeneğinin kullanılması önerilir. Bu
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
         <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
-        <translation type="unfinished">Çıkış görüntüsünün Piksel Türü, Çıkış Hacmi'nin temsil edilmesi için kullanılan skaler veri türüdür.</translation>
+        <translation type="unfinished">Çıkış görüntüsünün Piksel Türü, Çıkış Hacmi&apos;nin temsil edilmesi için kullanılan skaler veri türüdür.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
@@ -1518,7 +1518,7 @@ Bu seçenek yerine samplingPercentage seçeneğinin kullanılması önerilir. Bu
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished">"Doğru/Yanlış" seçeneği, verilen dönüşümün tersini hesaplamak içindir. Varsayılan değer "yanlış"tır.</translation>
+        <translation type="unfinished">&quot;Doğru/Yanlış&quot; seçeneği, verilen dönüşümün tersini hesaplamak içindir. Varsayılan değer &quot;yanlış&quot;tır.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
@@ -2606,12 +2606,12 @@ Giriş hacmiyle aynı türe dönüştürmeye izin verir.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished">Yeniden ölçeklendirme kesim noktası (0028,1052). Diskteki piksel değerlerini bellekteki piksel değerlerine dönüştürür. (Bellekteki piksel değeri) = (Diskteki piksel değeri) * rescaleSlope + rescaleIntercept.  Varsayılan değer 0,0'dır. Veri değerleri yazma sırasında dönüştürülür (veriler, eğim ve kesim noktası sayesinde mevcut yoğunluk aralığına geri getirilecek şekilde ölçeklenir ve kaydırılır).</translation>
+        <translation type="unfinished">Yeniden ölçeklendirme kesim noktası (0028,1052). Diskteki piksel değerlerini bellekteki piksel değerlerine dönüştürür. (Bellekteki piksel değeri) = (Diskteki piksel değeri) * rescaleSlope + rescaleIntercept.  Varsayılan değer 0,0&apos;dır. Veri değerleri yazma sırasında dönüştürülür (veriler, eğim ve kesim noktası sayesinde mevcut yoğunluk aralığına geri getirilecek şekilde ölçeklenir ve kaydırılır).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished">Eğimi yeniden ölçekle (0028,1053). Diskteki piksel değerlerini bellekteki piksel değerlerine dönüştürür. (Bellekteki piksel değeri) = (Diskteki piksel değeri) * rescaleSlope + rescaleInterscept.  Varsayılan değer 1,0'dır. Veri değerleri yazma sırasında dönüştürülür (veriler, eğim ve kesim noktası sayesinde mevcut yoğunluk aralığına geri getirilecek şekilde ölçeklenir ve kaydırılır).</translation>
+        <translation type="unfinished">Eğimi yeniden ölçekle (0028,1053). Diskteki piksel değerlerini bellekteki piksel değerlerine dönüştürür. (Bellekteki piksel değeri) = (Diskteki piksel değeri) * rescaleSlope + rescaleInterscept.  Varsayılan değer 1,0&apos;dır. Veri değerleri yazma sırasında dönüştürülür (veriler, eğim ve kesim noktası sayesinde mevcut yoğunluk aralığına geri getirilecek şekilde ölçeklenir ve kaydırılır).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
@@ -2656,12 +2656,12 @@ Giriş hacmiyle aynı türe dönüştürmeye izin verir.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
         <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished">Çalışma örneğinin UID'si (0020,000d). UID'lerin otomatik olarak oluşturulmasını istiyorsanız bu alanı boş bırakın.</translation>
+        <translation type="unfinished">Çalışma örneğinin UID&apos;si (0020,000d). UID&apos;lerin otomatik olarak oluşturulmasını istiyorsanız bu alanı boş bırakın.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
         <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished">Dizi örneğinin UID'si (0020,000e). UID'lerin otomatik olarak oluşturulmasını istiyorsanız bu alanı boş bırakın.</translation>
+        <translation type="unfinished">Dizi örneğinin UID&apos;si (0020,000e). UID&apos;lerin otomatik olarak oluşturulmasını istiyorsanız bu alanı boş bırakın.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"/>
@@ -2782,12 +2782,12 @@ MCDE, klasik anizotropik difüzyonun kenarları belirginleştirici özelliklerin
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation type="unfinished">DICOM serilerindeki difüzyon ağırlıklı MR görüntülerini, Slicer'da analiz edilebilmesi için NRRD formatına dönüştürür. Bu program, yalnızca Siemens, GE ve Philips tarayıcılardan elde edilebilen DTI DICOM formatlarının sınırlı bir alt kümesinde test edilmiştir. DICOM çok kareli verileri desteklemek üzere çalışmalar devam etmektedir. Program, DICOM başlığını ayrıştırarak ölçüm karesi, difüzyon ağırlıklandırma yönleri, b-değerleri vb. hakkında gerekli bilgileri çıkarır ve bir NRRD görüntüsü oluşturur. Difüzyon ağırlıklı olmayan DICOM görüntüler için ise, tüm DICOM serisini yükler ve tek bir DICOM hacmini .nhdr/.raw çifti olarak kaydeder.</translation>
+        <translation type="unfinished">DICOM serilerindeki difüzyon ağırlıklı MR görüntülerini, Slicer&apos;da analiz edilebilmesi için NRRD formatına dönüştürür. Bu program, yalnızca Siemens, GE ve Philips tarayıcılardan elde edilebilen DTI DICOM formatlarının sınırlı bir alt kümesinde test edilmiştir. DICOM çok kareli verileri desteklemek üzere çalışmalar devam etmektedir. Program, DICOM başlığını ayrıştırarak ölçüm karesi, difüzyon ağırlıklandırma yönleri, b-değerleri vb. hakkında gerekli bilgileri çıkarır ve bir NRRD görüntüsü oluşturur. Difüzyon ağırlıklı olmayan DICOM görüntüler için ise, tüm DICOM serisini yükler ve tek bir DICOM hacmini .nhdr/.raw çifti olarak kaydeder.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Additional support for DTI data produced on Philips scanners was contributed by Vincent Magnotta and Hans Johnson at the University of Iowa.</source>
-        <translation type="unfinished">Bu çalışma, Ulusal Sağlık Enstitüleri (NIH) tarafından Tıbbi Araştırma için NIH Yol Haritası kapsamında U54 EB005149 numaralı hibe ile finanse edilen Ulusal Tıbbi Görüntü İşleme İttifakı’nın (NAMIC) bir parçasıdır.  Philips tarayıcılarında üretilen DTI verileri için ek destek, Iowa Üniversitesi'nden Vincent Magnotta ve Hans Johnson tarafından sağlanmıştır.</translation>
+        <translation type="unfinished">Bu çalışma, Ulusal Sağlık Enstitüleri (NIH) tarafından Tıbbi Araştırma için NIH Yol Haritası kapsamında U54 EB005149 numaralı hibe ile finanse edilen Ulusal Tıbbi Görüntü İşleme İttifakı’nın (NAMIC) bir parçasıdır.  Philips tarayıcılarında üretilen DTI verileri için ek destek, Iowa Üniversitesi&apos;nden Vincent Magnotta ve Hans Johnson tarafından sağlanmıştır.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
@@ -2911,7 +2911,7 @@ MCDE, klasik anizotropik difüzyonun kenarları belirginleştirici özelliklerin
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="33"/>
         <source>Nrrd To NiftiFSL (NrrdToFSL) Conversion Parameters</source>
-        <translation type="unfinished">Nrrd'den NiftiFSL'ye (NrrdToFSL) Dönüştürme Parametreleri</translation>
+        <translation type="unfinished">Nrrd&apos;den NiftiFSL&apos;ye (NrrdToFSL) Dönüştürme Parametreleri</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"/>
@@ -3001,7 +3001,7 @@ MCDE, klasik anizotropik difüzyonun kenarları belirginleştirici özelliklerin
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished">nhdr başlığını, BMatrix'ten hesaplanan gradyan yönleri ve b değerleriyle doldurun. Bu, yalnızca Siemens verilerinde davranış değişikliğine yol açar. Bazı durumlarda standart genel gradyanlar doğru şekilde hesaplanmaz.  Gradyanlar, özel BMatrix alanlarından deneysel olarak hesaplanabilir. Bazı durumlarda özel BMatrix, genel gradyanlarla tutarlıdır, ancak her durumda böyle değildir; mevcut olduğunda BMatrix genellikle en sağlam sonuçları verir.</translation>
+        <translation type="unfinished">nhdr başlığını, BMatrix&apos;ten hesaplanan gradyan yönleri ve b değerleriyle doldurun. Bu, yalnızca Siemens verilerinde davranış değişikliğine yol açar. Bazı durumlarda standart genel gradyanlar doğru şekilde hesaplanmaz.  Gradyanlar, özel BMatrix alanlarından deneysel olarak hesaplanabilir. Bazı durumlarda özel BMatrix, genel gradyanlarla tutarlıdır, ancak her durumda böyle değildir; mevcut olduğunda BMatrix genellikle en sağlam sonuçları verir.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
@@ -3011,7 +3011,7 @@ MCDE, klasik anizotropik difüzyonun kenarları belirginleştirici özelliklerin
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
         <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
-        <translation type="unfinished">Bir gradyanın büyüklüğü 0'dan büyük ve smallGradientThreshold değerinden küçükse, useBMatrixGradientDirections seçeneği ayarlanmamışsa DWIConvert bir hata mesajı gösterip sonlandırılır.</translation>
+        <translation type="unfinished">Bir gradyanın büyüklüğü 0&apos;dan büyük ve smallGradientThreshold değerinden küçükse, useBMatrixGradientDirections seçeneği ayarlanmamışsa DWIConvert bir hata mesajı gösterip sonlandırılır.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
@@ -4700,7 +4700,7 @@ Filtre, hem kaynak hem de referans görüntünün aynı türde olduğunu ve giri
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation type="unfinished">Maske olarak kullanılacak Maske Hacmi'ndeki etiket değeri</translation>
+        <translation type="unfinished">Maske olarak kullanılacak Maske Hacmi&apos;ndeki etiket değeri</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
@@ -5749,7 +5749,7 @@ Filtre, hem kaynak hem de referans görüntünün aynı türde olduğunu ve giri
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation type="unfinished">Vücut ağırlığına dayalı standart alım değerini hesaplar. DICOM ve NRRD formatında bir PET görüntüsü alır (DICOM başlığında Radyofarmasötik parametreleri bulunmalıdır). Her bir ilgi hacmi için hasta kimliği (patientID), çalışma tarihi (studyDate), doz (dose), etiket kimliği (labelID), suvmin, suvmax, suvmean ve etiket adı (labelName) bilgilerini içeren bir CSV dosyası oluşturur. Ayrıca, bazı bilgileri GUI'de çıktı dizeleri olarak görüntüler; bu durumda CSV dosyası isteğe bağlıdır. CSV dosyası, CLI'nin her çalıştırılmasında sonuna eklenir.</translation>
+        <translation type="unfinished">Vücut ağırlığına dayalı standart alım değerini hesaplar. DICOM ve NRRD formatında bir PET görüntüsü alır (DICOM başlığında Radyofarmasötik parametreleri bulunmalıdır). Her bir ilgi hacmi için hasta kimliği (patientID), çalışma tarihi (studyDate), doz (dose), etiket kimliği (labelID), suvmin, suvmax, suvmean ve etiket adı (labelName) bilgilerini içeren bir CSV dosyası oluşturur. Ayrıca, bazı bilgileri GUI&apos;de çıktı dizeleri olarak görüntüler; bu durumda CSV dosyası isteğe bağlıdır. CSV dosyası, CLI&apos;nin her çalıştırılmasında sonuna eklenir.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
@@ -6533,7 +6533,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished">Dönüşüm matrisinin satır bazında 12 parametresi ( --son 3'ü öteleme-- )</translation>
+        <translation type="unfinished">Dönüşüm matrisinin satır bazında 12 parametresi ( --son 3&apos;ü öteleme-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"/>
@@ -6991,7 +6991,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished">Dönüşüm matrisinin satır bazında 12 parametresi ( --son 3'ü öteleme-- )</translation>
+        <translation type="unfinished">Dönüşüm matrisinin satır bazında 12 parametresi ( --son 3&apos;ü öteleme-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="90"/>
@@ -7059,7 +7059,7 @@ a = Afin Dönüşüm</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation type="unfinished">Örnekleme algoritması (doğrusal, en yakın komşu, b-spline (kübik) veya pencereli sinc). Aşağıdaki yayında açıklandığı gibi çeşitli sinc algoritmaları mevcuttur: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Tıbbi Görüntü Enterpolasyonu için Sinc Yaklaşımlı Çekirdeklerin Nicel Karşılaştırması. MICCAI 1999, s. 210-217. Her pencerenin yarıçapı 3'tür;</translation>
+        <translation type="unfinished">Örnekleme algoritması (doğrusal, en yakın komşu, b-spline (kübik) veya pencereli sinc). Aşağıdaki yayında açıklandığı gibi çeşitli sinc algoritmaları mevcuttur: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Tıbbi Görüntü Enterpolasyonu için Sinc Yaklaşımlı Çekirdeklerin Nicel Karşılaştırması. MICCAI 1999, s. 210-217. Her pencerenin yarıçapı 3&apos;tür;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
@@ -8110,7 +8110,7 @@ Bu dosya ilk olarak Andras Lasso tarafından geliştirilmiştir
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="250"/>
         <source>Uncheck All</source>
-        <translation type="unfinished">Tümünü Seç'in işaretini kaldır</translation>
+        <translation type="unfinished">Tümünü Seç&apos;in işaretini kaldır</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="256"/>
@@ -8197,7 +8197,7 @@ Bu dosya ilk olarak Andras Lasso tarafından geliştirilmiştir
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="682"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished">Yüklenebilir {name} dosyası incelenirken DICOM eklentisi {load_type}'da uyarı: {message}</translation>
+        <translation type="unfinished">Yüklenebilir {name} dosyası incelenirken DICOM eklentisi {load_type}&apos;da uyarı: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="686"/>
@@ -8300,7 +8300,7 @@ Bu dosya ilk olarak Andras Lasso tarafından geliştirilmiştir
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="85"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished">Her dizin için yeni bir dizi örneği UID'si oluşturun ve bunu aynı dizindeki tüm dosyalara ayarlayın. Bir klasördeki tüm karelerin tek bir birimde toplanmasını sağlamak için bu seçeneği etkinleştirin.</translation>
+        <translation type="unfinished">Her dizin için yeni bir dizi örneği UID&apos;si oluşturun ve bunu aynı dizindeki tüm dosyalara ayarlayın. Bir klasördeki tüm karelerin tek bir birimde toplanmasını sağlamak için bu seçeneği etkinleştirin.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="89"/>
@@ -8465,7 +8465,7 @@ Bu dosya ilk olarak Andras Lasso tarafından geliştirilmiştir
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="306"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation type="unfinished">{count} dosya, {tag} = {value}'ye göre gruplandırılmıştır. İlk dosya: {filename}</translation>
+        <translation type="unfinished">{count} dosya, {tag} = {value}&apos;ye göre gruplandırılmıştır. İlk dosya: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="343"/>
@@ -8505,7 +8505,7 @@ Bu dosya ilk olarak Andras Lasso tarafından geliştirilmiştir
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="766"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation type="unfinished">Veritabanında {seriesInstanceUID} SeriesInstanceUID'sine sahip bir dizi zaten mevcut.</translation>
+        <translation type="unfinished">Veritabanında {seriesInstanceUID} SeriesInstanceUID&apos;sine sahip bir dizi zaten mevcut.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="775"/>
@@ -8747,7 +8747,7 @@ Uçuş canlandırmasını oynatmak veya ilgili anahtar kareleri düzenlemek içi
 Uçuş canlandırmasını oynatmak için kullanılacak kamerayı seçin.
 “Bu eğriyi kullan” seçeneğine tıkladığınızda bir uçuş canlandırma eğrisi oluşturulur ve uçuş canlandırma paneli etkinleştirilir.
 Kare kaydırıcısını kullanarak yol boyunca manuel olarak ilerleyebilirsiniz.
-Oynat/Duraklat düğmesi, animasyonlu flythrough'u etkinleştirir veya devre dışı bırakır.
+Oynat/Duraklat düğmesi, animasyonlu flythrough&apos;u etkinleştirir veya devre dışı bırakır.
 Kare Atlama kaydırıcısı, yol üzerindeki noktaları atlayarak animasyonu hızlandırır.
 Kare Gecikmesi kaydırıcısı, kareler arasına daha fazla zaman ekleyerek animasyonu yavaşlatır.
 Görüş Açısı, bir endoskopi sisteminin optik özelliklerini yaklaşık olarak yansıtmak için kullanılır.
@@ -8778,7 +8778,7 @@ Görüş Açısı, bir endoskopi sisteminin optik özelliklerini yaklaşık olar
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="148"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="416"/>
         <source>Play flythrough</source>
-        <translation type="unfinished">Flythrough'u oynat</translation>
+        <translation type="unfinished">Flythrough&apos;u oynat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="149"/>
@@ -9543,7 +9543,7 @@ Bu dosya ilk olarak Andras Lasso (PerkLab) tarafından geliştirilmiş ve CCO AC
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
         <translation type="unfinished">
-Bu modül, 3D Slicer'ı test etmek için kullanılabilecek veri kümeleri sunar.
+Bu modül, 3D Slicer&apos;ı test etmek için kullanılabilecek veri kümeleri sunar.
 </translation>
     </message>
     <message>
@@ -9588,7 +9588,7 @@ ticari amaçlarla kullanma yetkiniz yoktur.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="288"/>
         <source>Load data from URL</source>
-        <translation type="unfinished">URL'den verileri yükle</translation>
+        <translation type="unfinished">URL&apos;den verileri yükle</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="291"/>
@@ -9608,7 +9608,7 @@ ticari amaçlarla kullanma yetkiniz yoktur.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="304"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished">Verileri belirtilen URL'den indirin ve sahneye aktarın</translation>
+        <translation type="unfinished">Verileri belirtilen URL&apos;den indirin ve sahneye aktarın</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="307"/>
@@ -9653,22 +9653,22 @@ ticari amaçlarla kullanma yetkiniz yoktur.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished">İndirme başarısız oldu ({toplam} denemeden {mevcut}'uncu deneme)...</translation>
+        <translation type="unfinished">İndirme başarısız oldu ({toplam} denemeden {mevcut}&apos;uncu deneme)...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="925"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished">Yükleme başarısız oldu ({toplam} denemeden {mevcut}'uncu deneme). {yol} silinemedi; yükleme işlemi yeniden denenecek</translation>
+        <translation type="unfinished">Yükleme başarısız oldu ({toplam} denemeden {mevcut}&apos;uncu deneme). {yol} silinemedi; yükleme işlemi yeniden denenecek</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="929"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished">Yükleme başarısız oldu ({toplam} denemenin {mevcut}'u)...</translation>
+        <translation type="unfinished">Yükleme başarısız oldu ({toplam} denemenin {mevcut}&apos;u)...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1069"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished">{sizeCompleted} indirildi ({sizeTotal}'ın {percentCompleted}%'si)...</translation>
+        <translation type="unfinished">{sizeCompleted} indirildi ({sizeTotal}&apos;ın {percentCompleted}%&apos;si)...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1104"/>
@@ -12928,7 +12928,7 @@ NIH Tıbbi Araştırma Yol Haritası kapsamında U54 EB005149 numaralı hibe ile
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
         <source>Enable CORS: </source>
-        <translation type="unfinished">CORS'u etkinleştir: </translation>
+        <translation type="unfinished">CORS&apos;u etkinleştir: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
@@ -12943,7 +12943,7 @@ NIH Tıbbi Araştırma Yol Haritası kapsamında U54 EB005149 numaralı hibe ile
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="121"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
-        <translation type="unfinished">Slicer API'sini kullanarak herhangi bir Python komutunun çalıştırılmasını etkinleştirin. Bu ayar, yalnızca Slicer API'si de etkinleştirilmişse geçerlidir (seçeneği değiştirmek için sunucuyu durdurun).</translation>
+        <translation type="unfinished">Slicer API&apos;sini kullanarak herhangi bir Python komutunun çalıştırılmasını etkinleştirin. Bu ayar, yalnızca Slicer API&apos;si de etkinleştirilmişse geçerlidir (seçeneği değiştirmek için sunucuyu durdurun).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
@@ -13325,7 +13325,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="596"/>
         <source>Unknown in %1</source>
         <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished">%1'da bilinmiyor</translation>
+        <translation type="unfinished">%1&apos;da bilinmiyor</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="616"/>
@@ -14687,7 +14687,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="298"/>
         <source>Edit current %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished">Mevcut %1'ı düzenle</translation>
+        <translation type="unfinished">Mevcut %1&apos;ı düzenle</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="306"/>
@@ -15758,7 +15758,7 @@ Ayrıntılar için lütfen Segmentasyonlar modülüne bakın.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="401"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished">%1'ı %2'e dönüştürme işlemi başarısız oldu!</translation>
+        <translation type="unfinished">%1&apos;ı %2&apos;e dönüştürme işlemi başarısız oldu!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="402"/>
@@ -16254,7 +16254,7 @@ Gelişmiş dönüştürme ve kaldırma seçeneklerine erişmek için düğmeyi b
         <source>Failed to convert %1 to %2!
 
 Probably there is no valid conversion path between the source representation and %2</source>
-        <translation type="unfinished">%1'ı %2'e dönüştürme işlemi başarısız oldu!
+        <translation type="unfinished">%1&apos;ı %2&apos;e dönüştürme işlemi başarısız oldu!
 
 Muhtemelen kaynak temsil ile %2 arasında geçerli bir dönüştürme yolu bulunmamaktadır.</translation>
     </message>
@@ -19981,7 +19981,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="367"/>
         <source>%1 (%2s)</source>
-        <translation type="unfinished">%1 (%2'ler)</translation>
+        <translation type="unfinished">%1 (%2&apos;ler)</translation>
     </message>
 </context>
 <context>
@@ -20232,7 +20232,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1938"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Slicer, FDA tarafından onaylanmış bir tıbbi cihaz DEĞİLDİR.&lt;br&gt;&lt;br&gt;Destekleyenler: NA-MIC, NAC, BIRN, NCIGT ve Slicer Topluluğu.&lt;br&gt;&lt;br&gt;NIH'ye ve diğer destekçilerimize özel teşekkürler.&lt;br&gt;&lt;br&gt;Bu çalışma, Ulusal Sağlık Enstitüleri (NIH) tarafından NIH Tıbbi Araştırma Yol Haritası kapsamında U54 EB005149 numaralı hibe ile finanse edilen Ulusal Tıbbi Görüntü İşleme İttifakı'nın (NA-MIC) bir parçasıdır. Ulusal Biyomedikal Hesaplama Merkezleri hakkında bilgiye&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt; adresinden ulaşılabilir.&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="unfinished">Slicer, FDA tarafından onaylanmış bir tıbbi cihaz DEĞİLDİR.&lt;br&gt;&lt;br&gt;Destekleyenler: NA-MIC, NAC, BIRN, NCIGT ve Slicer Topluluğu.&lt;br&gt;&lt;br&gt;NIH&apos;ye ve diğer destekçilerimize özel teşekkürler.&lt;br&gt;&lt;br&gt;Bu çalışma, Ulusal Sağlık Enstitüleri (NIH) tarafından NIH Tıbbi Araştırma Yol Haritası kapsamında U54 EB005149 numaralı hibe ile finanse edilen Ulusal Tıbbi Görüntü İşleme İttifakı&apos;nın (NA-MIC) bir parçasıdır. Ulusal Biyomedikal Hesaplama Merkezleri hakkında bilgiye&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt; adresinden ulaşılabilir.&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -21434,7 +21434,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="453"/>
         <source>Failed to parse %1: error at %2: %3</source>
-        <translation type="unfinished">%1'ın ayrıştırılması başarısız: %2'de hata: %3</translation>
+        <translation type="unfinished">%1&apos;ın ayrıştırılması başarısız: %2&apos;de hata: %3</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="704"/>
@@ -21564,7 +21564,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1776"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished">Slicer'ın yeniden başlatılması gerekiyor. Şimdi yeniden başlatmak istiyor musunuz?</translation>
+        <translation type="unfinished">Slicer&apos;ın yeniden başlatılması gerekiyor. Şimdi yeniden başlatmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1777"/>
@@ -21670,7 +21670,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2303"/>
         <source>Failed downloading %1 extension from %2</source>
-        <translation type="unfinished">%1 uzantısı, %2'den indirilemedi</translation>
+        <translation type="unfinished">%1 uzantısı, %2&apos;den indirilemedi</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2318"/>
@@ -21851,7 +21851,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="118"/>
         <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
-        <translation type="unfinished">&lt;b&gt;3D Slicer&lt;/b&gt;'ın doğru şekilde kurulduğunu kontrol edin.</translation>
+        <translation type="unfinished">&lt;b&gt;3D Slicer&lt;/b&gt;&apos;ın doğru şekilde kurulduğunu kontrol edin.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="122"/>
@@ -21886,7 +21886,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="38"/>
         <source>Updates all extensions with the latest version available on the Extensions Server</source>
-        <translation type="unfinished">Tüm uzantıları, Uzantı Sunucusu'nda bulunan en son sürüme günceller</translation>
+        <translation type="unfinished">Tüm uzantıları, Uzantı Sunucusu&apos;nda bulunan en son sürüme günceller</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="41"/>
@@ -22502,7 +22502,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="517"/>
         <source>Open settings to the Modules panel where Favorite Modules can be defined.</source>
-        <translation type="unfinished">Ayarlar'ı açarak, “Favori Modüller”in tanımlanabileceği Modüller paneline gidin.</translation>
+        <translation type="unfinished">Ayarlar&apos;ı açarak, “Favori Modüller”in tanımlanabileceği Modüller paneline gidin.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="526"/>
@@ -23482,7 +23482,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="453"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
-        <translation type="unfinished">2D ve 3D'de kontrol noktalarını göstermek veya gizlemek için bu sütuna tıklayın</translation>
+        <translation type="unfinished">2D ve 3D&apos;de kontrol noktalarını göstermek veya gizlemek için bu sütuna tıklayın</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="459"/>
@@ -23495,14 +23495,14 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished">Kontrol noktası konum durumunu değiştirmek için bu sütuna tıklayın.
 
 - Düzenle: Dilim görünümlerinde kontrol noktası konumunu değiştirmek için konum belirleme moduna girin
-- Atla: "Birden fazla kontrol noktası belirle" modu, kontrol noktası girişini atlar
+- Atla: &quot;Birden fazla kontrol noktası belirle&quot; modu, kontrol noktası girişini atlar
 - Geri Yükle: Kontrol noktası konumunu en son bilinen konumuna ayarlayın
 - Temizle: Tanımlanan kontrol noktası konumunu temizleyin, ancak kontrol noktasını silmeyin</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="756"/>
         <source>Create %1</source>
-        <translation type="unfinished">%1'ı oluştur</translation>
+        <translation type="unfinished">%1&apos;ı oluştur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="933"/>
@@ -23971,7 +23971,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished">Modeller Modülü, modellerin Renk, Şeffaflık ve Kırpma gibi görüntüleme parametrelerini yükler ve ayarlar.&lt;br&gt;Modelleri Dosya menüsündeki Kaydet düğmesi aracılığıyla kaydedebilirsiniz.&lt;br&gt;3D model veya model dizini ekle düğmesi, Slicer&apos;ın okuyabildiği herhangi bir modeli ve bir dizindeki tüm VTK modellerini yüklemenizi sağlar. "Skaler Katman Ekle" seçeneği, bir skaler dosyayı yükler ve bunu o anda etkin olan modelle ilişkilendirir.&lt;br&gt;Modellerin görüntüleme özelliklerini "Görüntüleme" bölmesinde ayarlayabilirsiniz. Model seçici açılır menüsünden üzerinde çalışmak istediğiniz modeli seçin. Skaler katmanlar varsayılan bir renk arama tablosuyla yüklenir, ancak manuel olarak yeniden atanabilir. Yeni bir skaler katman seçildiğinde, mevcut durumda eski renk haritası hâlâ kullanılır; bu nedenle, bu ayar katmanla birlikte ayarlanmalıdır.&lt;br&gt;Görüntüleme bölmesinde bir model için kırpma özelliği etkinleştirilir ve modeli kırpacak kesit düzlemleri Kırpma bölmesinde seçilir.&lt;br&gt;Model Hiyerarşisi bölmesi, modelleri gruplandırmanıza ve grubun özelliklerini ayarlamanıza olanak tanır.</translation>
+        <translation type="unfinished">Modeller Modülü, modellerin Renk, Şeffaflık ve Kırpma gibi görüntüleme parametrelerini yükler ve ayarlar.&lt;br&gt;Modelleri Dosya menüsündeki Kaydet düğmesi aracılığıyla kaydedebilirsiniz.&lt;br&gt;3D model veya model dizini ekle düğmesi, Slicer&apos;ın okuyabildiği herhangi bir modeli ve bir dizindeki tüm VTK modellerini yüklemenizi sağlar. &quot;Skaler Katman Ekle&quot; seçeneği, bir skaler dosyayı yükler ve bunu o anda etkin olan modelle ilişkilendirir.&lt;br&gt;Modellerin görüntüleme özelliklerini &quot;Görüntüleme&quot; bölmesinde ayarlayabilirsiniz. Model seçici açılır menüsünden üzerinde çalışmak istediğiniz modeli seçin. Skaler katmanlar varsayılan bir renk arama tablosuyla yüklenir, ancak manuel olarak yeniden atanabilir. Yeni bir skaler katman seçildiğinde, mevcut durumda eski renk haritası hâlâ kullanılır; bu nedenle, bu ayar katmanla birlikte ayarlanmalıdır.&lt;br&gt;Görüntüleme bölmesinde bir model için kırpma özelliği etkinleştirilir ve modeli kırpacak kesit düzlemleri Kırpma bölmesinde seçilir.&lt;br&gt;Model Hiyerarşisi bölmesi, modelleri gruplandırmanıza ve grubun özelliklerini ayarlamanıza olanak tanır.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"/>
@@ -24403,12 +24403,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="70"/>
         <source>The Plots module allows editing properties of plots.</source>
-        <translation type="unfinished">"Grafikler" modülü, grafiklerin özelliklerinin düzenlenmesine olanak tanır.</translation>
+        <translation type="unfinished">&quot;Grafikler&quot; modülü, grafiklerin özelliklerinin düzenlenmesine olanak tanır.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="78"/>
         <source>This module was originally developed by Davide Punzo, Kapteyn Astronomical Institute, and was supported through the European Research Council grant nr. 291531.</source>
-        <translation type="unfinished">Bu modül, aslen Kapteyn Astronomi Enstitüsü'nden Davide Punzo tarafından geliştirilmiş olup, Avrupa Araştırma Konseyi'nin 291531 numaralı hibe programı kapsamında desteklenmiştir.</translation>
+        <translation type="unfinished">Bu modül, aslen Kapteyn Astronomi Enstitüsü&apos;nden Davide Punzo tarafından geliştirilmiş olup, Avrupa Araştırma Konseyi&apos;nin 291531 numaralı hibe programı kapsamında desteklenmiştir.</translation>
     </message>
 </context>
 <context>
@@ -24563,12 +24563,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="344"/>
         <source>Normal to PA</source>
-        <translation type="unfinished">Normal'den PA'ya</translation>
+        <translation type="unfinished">Normal&apos;den PA&apos;ya</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="351"/>
         <source>Normal to IS</source>
-        <translation type="unfinished">Normal'den IS'ye</translation>
+        <translation type="unfinished">Normal&apos;den IS&apos;ye</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
@@ -25755,7 +25755,7 @@ Not: Bu işlem, %5&apos;de istenmeyen veri kaybına neden olabilir.</translation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished">%1'ı %2'e dönüştürme işlemi başarısız oldu!</translation>
+        <translation type="unfinished">%1&apos;ı %2&apos;e dönüştürme işlemi başarısız oldu!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="776"/>
@@ -25812,7 +25812,7 @@ Büyük olasılıkla segment, kapalı yüzey temsiline dönüştürülemiyor.</t
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1046"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
-        <translation type="unfinished">labelmap birim düğümü %1'dan etiketlerin kopyalanması başarısız oldu!</translation>
+        <translation type="unfinished">labelmap birim düğümü %1&apos;dan etiketlerin kopyalanması başarısız oldu!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1048"/>
@@ -26441,7 +26441,7 @@ Not: Bu ayar, Segment Düzenleyici ve Segmentasyon modüllerindeki segment tablo
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="97"/>
         <source>Enable/Disable QtTesting</source>
-        <translation type="unfinished">QtTesting'i Etkinleştir/Devre Dışı Bırak</translation>
+        <translation type="unfinished">QtTesting&apos;i Etkinleştir/Devre Dışı Bırak</translation>
     </message>
 </context>
 <context>
@@ -26459,7 +26459,7 @@ Not: Bu ayar, Segment Düzenleyici ve Segmentasyon modüllerindeki segment tablo
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="44"/>
         <source>Hide Extensions Manager from the application user interface. Automatic updates are performed even if the Extensions Manager is disabled.</source>
-        <translation type="unfinished">Eklenti Yöneticisi'ni uygulama kullanıcı arayüzünden gizleyin. Eklenti Yöneticisi devre dışı bırakılmış olsa bile otomatik güncellemeler gerçekleştirilir.</translation>
+        <translation type="unfinished">Eklenti Yöneticisi&apos;ni uygulama kullanıcı arayüzünden gizleyin. Eklenti Yöneticisi devre dışı bırakılmış olsa bile otomatik güncellemeler gerçekleştirilir.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
@@ -27897,7 +27897,7 @@ Hasta/çalışma hiyerarşisini manuel olarak oluşturmak için İptal’e tıkl
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="645"/>
         <source>Delete %1</source>
-        <translation type="unfinished">%1'ı sil</translation>
+        <translation type="unfinished">%1&apos;ı sil</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="646"/>
@@ -28059,7 +28059,7 @@ adlı düğümü eklemek için bir eklenti seçin
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="217"/>
         <source>Register %1 to this using...</source>
-        <translation type="unfinished">%1'ı şunu kullanarak kaydedin...</translation>
+        <translation type="unfinished">%1&apos;ı şunu kullanarak kaydedin...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="259"/>
@@ -28161,7 +28161,7 @@ Not: Bu işlem, %4&apos;da istenmeyen veri kaybına neden olabilir.</translation
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished">%1'ı %2'e dönüştürme işlemi başarısız oldu</translation>
+        <translation type="unfinished">%1&apos;ı %2&apos;e dönüştürme işlemi başarısız oldu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
@@ -28336,7 +28336,7 @@ Not: Bu işlem, &apos;%5&apos;&apos; içinde istenmeyen veri kaybına neden olab
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="265"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished">%1'ı %2'e dönüştürme işlemi başarısız oldu</translation>
+        <translation type="unfinished">%1&apos;ı %2&apos;e dönüştürme işlemi başarısız oldu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="266"/>
@@ -29267,7 +29267,7 @@ Etiketler: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="67"/>
         <source>The Terminologies module enables viewing and editing terminology dictionaries used for segmentation.</source>
-        <translation type="unfinished">"Terminolojiler" modülü, segmentasyon için kullanılan terminoloji sözlüklerini görüntülemeyi ve düzenlemeyi sağlar.</translation>
+        <translation type="unfinished">&quot;Terminolojiler&quot; modülü, segmentasyon için kullanılan terminoloji sözlüklerini görüntülemeyi ve düzenlemeyi sağlar.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="75"/>
@@ -29288,7 +29288,7 @@ Etiketler: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="14"/>
         <source>qSlicerTerminologyEditorWidget</source>
-        <translation type="unfinished">qSlicerTerminolojiDüzenleyiciWidget'ı</translation>
+        <translation type="unfinished">qSlicerTerminolojiDüzenleyiciWidget&apos;ı</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
@@ -30600,7 +30600,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="62"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation type="unfinished">Bu çalışma, NA-MIC, NAC, BIRN, NCIGT, CTSC ve Slicer Topluluğu tarafından desteklenmiştir. Ayrıntılar için &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; adresine bakınız. Ayrıca, bu Hoş Geldiniz Modülünün içeriğini tasarlamamıza yardımcı olan ve geri bildirimleriyle Slicer'ın işlevselliğini, kullanılabilirliğini ve kullanıcı deneyimini sürekli olarak iyileştiren Slicer Kullanıcı Topluluğu üyelerine içten teşekkürlerimizi sunarız.</translation>
+        <translation type="unfinished">Bu çalışma, NA-MIC, NAC, BIRN, NCIGT, CTSC ve Slicer Topluluğu tarafından desteklenmiştir. Ayrıntılar için &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; adresine bakınız. Ayrıca, bu Hoş Geldiniz Modülünün içeriğini tasarlamamıza yardımcı olan ve geri bildirimleriyle Slicer&apos;ın işlevselliğini, kullanılabilirliğini ve kullanıcı deneyimini sürekli olarak iyileştiren Slicer Kullanıcı Topluluğu üyelerine içten teşekkürlerimizi sunarız.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="45"/>
@@ -30675,9 +30675,9 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
-&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Hikayelerinizi &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forumunda&lt;/a&gt; hikayelerinizi bizimle paylaşın ve 3D Slicer'ın araştırmalarınızı nasıl kolaylaştırdığını bize bildirin.&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Hikayelerinizi &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forumunda&lt;/a&gt; hikayelerinizi bizimle paylaşın ve 3D Slicer&apos;ın araştırmalarınızı nasıl kolaylaştırdığını bize bildirin.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
-&lt;p&gt;3D Slicer'ı iyileştirmeye her zaman önem veriyoruz. Sorunlarınızı bildirmek veya bir hata raporu göndermek için &lt;b&gt;Yardım -&amp;gt; Hata Bildir&lt;/b&gt; bölümünü açın.&lt;/p&gt;</translation>
+&lt;p&gt;3D Slicer&apos;ı iyileştirmeye her zaman önem veriyoruz. Sorunlarınızı bildirmek veya bir hata raporu göndermek için &lt;b&gt;Yardım -&amp;gt; Hata Bildir&lt;/b&gt; bölümünü açın.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
@@ -30689,7 +30689,7 @@ This should only used by advanced users who understand the consequences of chang
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt;, tıbbi görüntü işleme ve görüntü verilerinin 3B görselleştirilmesi için geliştirilmiş ücretsiz bir açık kaynak yazılım platformudur. Bu modül, Slicer’ı kullanmaya başlamanıza yardımcı olacak bazı temel bilgiler ve faydalı bağlantılar içermektedir. Daha fazla bilgi için lütfen web sitemizi &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; adresini ziyaret edin.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; bir BSD tarzı lisans altında dağıtılmaktadır; katkı ve yazılım lisans sözleşmesi hakkında ayrıntılar için lütfen &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Yazılım Lisans Sözleşmesi&lt;/a&gt;'ne bakın. Bu yazılım yalnızca araştırma amaçlı tasarlanmıştır ve Gıda ve İlaç İdaresi (FDA) veya başka herhangi bir kurum tarafından incelenmemiş veya onaylanmamıştır.&lt;/p&gt;</translation>
+&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; bir BSD tarzı lisans altında dağıtılmaktadır; katkı ve yazılım lisans sözleşmesi hakkında ayrıntılar için lütfen &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Yazılım Lisans Sözleşmesi&lt;/a&gt;&apos;ne bakın. Bu yazılım yalnızca araştırma amaçlı tasarlanmıştır ve Gıda ve İlaç İdaresi (FDA) veya başka herhangi bir kurum tarafından incelenmemiş veya onaylanmamıştır.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
@@ -30741,7 +30741,7 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Öğreticilere Göz At&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;Bize Ulaşın&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Slicer Forumunu Ziyaret Edin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/feed/hashtag/?keywords=3dslicer&quot;&gt;LinkedIn'de Bize Katılın&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/feed/hashtag/?keywords=3dslicer&quot;&gt;LinkedIn&apos;de Bize Katılın&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Özellik İsteklerini Ara&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Hata Bildir&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer Hakkında&lt;/p&gt;
@@ -30845,8 +30845,8 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="376"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 eklenti güncellemesi mevcut</numerusform>
         </translation>
     </message>
     <message>
@@ -32140,7 +32140,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="415"/>
         <source>Fast method cannot clip with more than 6 planes.</source>
-        <translation type="unfinished">Hızlı yöntem, 6'dan fazla düzlemle kırpma işlemi yapamaz.</translation>
+        <translation type="unfinished">Hızlı yöntem, 6&apos;dan fazla düzlemle kırpma işlemi yapamaz.</translation>
     </message>
 </context>
 <context>
