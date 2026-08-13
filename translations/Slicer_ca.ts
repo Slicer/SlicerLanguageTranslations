@@ -9216,27 +9216,27 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="89"/>
         <source>Add selected module to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished">Afegeix el mòdul seleccionat a «Camins de mòduls addicionals»</translation>
+        <translation>Afegeix el mòdul seleccionat a «Camins de mòduls addicionals»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="91"/>
         <source>Add selected modules to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished">Afegeix els mòduls seleccionats a «Camins de mòduls addicionals»</translation>
+        <translation>Afegeix els mòduls seleccionats a «Camins de mòduls addicionals»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="116"/>
         <source>The following modules can be loaded. Would you like to load them now?</source>
-        <translation type="unfinished">Es poden carregar els següents mòduls. T&apos;agradaria carregar-les ara?</translation>
+        <translation>Es poden carregar els següents mòduls. Us agradaria carregar-los ara?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="119"/>
         <source>The following module can be loaded. Would you like to load it now?</source>
-        <translation type="unfinished">Es pot carregar el mòdul següent. T&apos;agradaria carregar-lo ara?</translation>
+        <translation>Es pot carregar el mòdul següent. Us agradaria carregar-lo ara?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="122"/>
         <source>At least one module must be provided</source>
-        <translation type="unfinished">S&apos;ha de proporcionar almenys un mòdul</translation>
+        <translation>S&apos;ha de proporcionar almenys un mòdul</translation>
     </message>
 </context>
 <context>
@@ -9244,22 +9244,22 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="25"/>
         <source>(Unavailable)</source>
-        <translation type="unfinished">(No disponible)</translation>
+        <translation>(No disponible)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="28"/>
         <source>Built-in template path:</source>
-        <translation type="unfinished">Camí de la plantilla incorporada:</translation>
+        <translation>Camí de la plantilla incorporada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="31"/>
         <source>Additional template paths:</source>
-        <translation type="unfinished">Camins de plantilla addicionals:</translation>
+        <translation>Camins de plantilla addicionals:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="37"/>
         <source>Additional template paths for {category}:</source>
-        <translation type="unfinished">Camins de plantilla addicionals per a {category}:</translation>
+        <translation>Camins de plantilla addicionals per a {category}:</translation>
     </message>
 </context>
 <context>
@@ -9275,32 +9275,32 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="17"/>
         <source>Import ITK-Snap label description</source>
-        <translation type="unfinished">Importa la descripció de l&apos;etiqueta ITK-Snap</translation>
+        <translation>Importa la descripció de l&apos;etiqueta ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="21"/>
         <source>Load ITK-Snap label description file (.label or .txt).</source>
-        <translation type="unfinished">Carrega el fitxer de descripció de l&apos;etiqueta ITK-Snap (.label o .txt).</translation>
+        <translation>Carrega el fitxer de descripció de l&apos;etiqueta ITK-Snap (.label o .txt).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="44"/>
         <source>ITK-Snap label description file</source>
-        <translation type="unfinished">Fitxer de descripció de l&apos;etiqueta ITK-Snap</translation>
+        <translation>Fitxer de descripció de l&apos;etiqueta ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentació</translation>
+        <translation>Segmentació</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
         <source>Failed to load file: </source>
-        <translation type="unfinished">Ha fallat en carregar el fitxer: </translation>
+        <translation>Ha fallat en carregar el fitxer: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="142"/>
         <source>Syntax error in line {line}</source>
-        <translation type="unfinished">Error de sintaxi a la línia {line}</translation>
+        <translation>Error de sintaxi a la línia {line}</translation>
     </message>
 </context>
 <context>
@@ -9308,7 +9308,7 @@ Podeu desar la posició de la càmera en qualsevol moment fent clic a &quot;Desa
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="30"/>
         <source>Line Profile</source>
-        <translation type="unfinished">Perfil de línia</translation>
+        <translation>Perfil de línia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="34"/>
@@ -9319,12 +9319,12 @@ Notes:
 2. Probed points within the image volume are linearly interpolated among adjacent voxel centers
 and then returned with the same data type as the probed image (e.g. rounded to integers if the image has integer data type).
     </source>
-        <translation type="unfinished">
+        <translation>
 Aquest mòdul calcula el perfil d&apos;intensitat d&apos;un volum al llarg d&apos;una línia de marques o corba.
 Notes:
-1. Les línies que es troben al límit de la imatge (fora del centre dels voxels de la vora) poden tenir un valor 0.
-2. Els punts estudiats dins del volum de la imatge s&apos;interpolen linealment entre els centres voxel adjacents
-i després va tornar amb el mateix tipus de dades que la imatge analitzada (per exemple, arrodonida a enters si la imatge té tipus de dades enter).
+1. Les línies que es troben al límit de la imatge (fora del centre dels vòxels de la vora) poden tenir un valor 0.
+2. Els punts estudiats dins del volum de la imatge s&apos;interpolen linealment entre els centres de vòxel adjacents
+i després es retornen amb el mateix tipus de dades que la imatge analitzada (per exemple, arrodonida a enters si la imatge té tipus de dades enter).
     </translation>
     </message>
     <message>
@@ -9332,186 +9332,186 @@ i després va tornar amb el mateix tipus de dades que la imatge analitzada (per 
         <source>
 This file was originally developed by Andras Lasso (PerkLab) and was partially funded by CCO ACRU.
 </source>
-        <translation type="unfinished">
+        <translation>
 Aquest fitxer va ser desenvolupat originalment per Andras Lasso (PerkLab) i va ser parcialment finançat per CCO ACRU.
 </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="509"/>
         <source>{name} intensity</source>
-        <translation type="unfinished">intensitat {name}</translation>
+        <translation>Intensitat de {name}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="510"/>
         <source>{name} intensity table</source>
-        <translation type="unfinished">Taula d&apos;intensitat {name}</translation>
+        <translation>Taula d&apos;intensitat de {name}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="14"/>
         <source>LineProfile</source>
-        <translation type="unfinished">Fitxerlínia</translation>
+        <translation>LineProfile</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="20"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="23"/>
         <source>Parameters</source>
-        <translation type="unfinished">Paràmetres</translation>
+        <translation>Paràmetres</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="29"/>
         <source>Input Volume:</source>
-        <translation type="unfinished">Volum d&apos;entrada:</translation>
+        <translation>Volum d&apos;entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="36"/>
         <source>Pick the input to the algorithm which will be sampled along the line.</source>
-        <translation type="unfinished">Trieu l&apos;entrada a l&apos;algorisme que es mostrejarà al llarg de la línia.</translation>
+        <translation>Trieu l&apos;entrada a l&apos;algorisme que es mostrejarà al llarg de la línia.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="72"/>
         <source>Input Line:</source>
-        <translation type="unfinished">Línia d&apos;entrada:</translation>
+        <translation>Línia d&apos;entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="79"/>
         <source>Line Resolution:</source>
-        <translation type="unfinished">Resolució de línia:</translation>
+        <translation>Resolució de línia:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="86"/>
         <source>Number of points to sample along the line.</source>
-        <translation type="unfinished">Nombre de punts a mostrar al llarg de la línia.</translation>
+        <translation>Nombre de punts a mostrar al llarg de la línia.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="114"/>
         <source>Pick line or curve to take image samples along.</source>
-        <translation type="unfinished">Trieu la línia o la corba per a prendre mostres d&apos;imatge.</translation>
+        <translation>Trieu la línia o la corba per a prendre mostres d&apos;imatge.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="134"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançat</translation>
+        <translation>Avançat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="140"/>
         <source>Plotting</source>
-        <translation type="unfinished">Dibuixar</translation>
+        <translation>S&apos;està dibuixant</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="146"/>
         <source>Output Intensities Table:</source>
-        <translation type="unfinished">Taula d&apos;intensitats de sortida:</translation>
+        <translation>Taula d&apos;intensitats de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="153"/>
         <source>Pick the table that will store the intensity and distance values.</source>
-        <translation type="unfinished">Trieu la taula que emmagatzemarà els valors d&apos;intensitat i distància.</translation>
+        <translation>Trieu la taula que emmagatzemarà els valors d&apos;intensitat i distància.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="176"/>
         <source>Create new table</source>
-        <translation type="unfinished">Crea una taula nova</translation>
+        <translation>Crea una taula nova</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="186"/>
         <source>Output Intensities Plot Series:</source>
-        <translation type="unfinished">Sèries del diagrama d&apos;intensitats de sortida:</translation>
+        <translation>Sèries d&apos;intensitats de sortida de gràfiques:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="193"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished">Trieu la sèrie de diagrames de sortida a l&apos;algorisme.</translation>
+        <translation>Trieu la sèrie de gràfic de sortida a l&apos;algorisme.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="216"/>
         <source>Create new plot</source>
-        <translation type="unfinished">Crea un diagrama nou</translation>
+        <translation>Crea un gràfic nou</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="226"/>
         <source>Plot Proportional Distance (%):</source>
-        <translation type="unfinished">Distància proporcional del diagrama (%):</translation>
+        <translation>Distància proporcional del gràfic (%):</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="233"/>
         <source>If checked, then distance along the line in plot is not absolute, but the percent distance from the start of the line.</source>
-        <translation type="unfinished">Si està marcada, llavors la distància al llarg de la línia en el diagrama no és absoluta, sinó la distància percentual des del començament de la línia.</translation>
+        <translation>Si està marcada, llavors la distància al llarg de la línia al gràfic no és absoluta, sinó la distància percentual des del començament de la línia.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="246"/>
         <source>Show plot:</source>
-        <translation type="unfinished">Mostra el diagrama:</translation>
+        <translation>Mostra el gràfic:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="253"/>
         <source>If checked, then the intensity profile plot is automatically shown when the intensity profile is updated.</source>
-        <translation type="unfinished">Si està marcada, es mostrarà automàticament el gràfic del perfil d&apos;intensitat quan s&apos;actualitzi el perfil d&apos;intensitat.</translation>
+        <translation>Si està marcada, es mostrarà automàticament el gràfic del perfil d&apos;intensitat quan s&apos;actualitzi el perfil d&apos;intensitat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="269"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="275"/>
         <source>Peak Detection</source>
-        <translation type="unfinished">Detecció de pic</translation>
+        <translation>Detecció de pic</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="281"/>
         <source>Peaks Output Table:</source>
-        <translation type="unfinished">Taula de sortida dels pics:</translation>
+        <translation>Taula de sortida dels pics:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="288"/>
         <source>Pick the output table that will store information about each detected peak.</source>
-        <translation type="unfinished">Trieu la taula de sortida que emmagatzemarà informació sobre cada pic detectat.</translation>
+        <translation>Trieu la taula de sortida que emmagatzemarà informació sobre cada pic detectat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="299"/>
         <source>Peaks</source>
-        <translation type="unfinished">Pics</translation>
+        <translation>Pics</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="321"/>
         <source>Minimum Peak Width:</source>
-        <translation type="unfinished">Amplada mínima del pic:</translation>
+        <translation>Amplada mínima del pic:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="328"/>
         <source>Minimum width of the peak. Use higher values to reject small peaks detected due to image noise.</source>
-        <translation type="unfinished">Amplada mínima del pic. Utilitzeu valors més alts per rebutjar pics petits detectats a causa del soroll de la imatge.</translation>
+        <translation>Amplada mínima del pic. Utilitzeu valors més alts per rebutjar pics petits detectats a causa del soroll de la imatge.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="347"/>
         <source>Height for Width Measurement:</source>
-        <translation type="unfinished">Alçada per a la mesura de l&apos;amplada:</translation>
+        <translation>Alçada per a la mesura de l&apos;amplada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="354"/>
         <source>Height at which the peak width is measured. 50% computes full width at half maximum. Larger value means that the height is measured near the top of the peak.</source>
-        <translation type="unfinished">Alçada a la qual es mesura l&apos;amplada del pic. El 50% calcula l&apos;amplada completa a la meitat del màxim. Un valor més gran significa que l&apos;alçada es mesura prop de la part superior del pic.</translation>
+        <translation>Alçada a la qual es mesura l&apos;amplada del pic. El 50% calcula l&apos;amplada completa a la meitat del màxim. Un valor més gran significa que l&apos;alçada es mesura prop de la part superior del pic.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="357"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="379"/>
         <source>Peak is Maximum:</source>
-        <translation type="unfinished">El pic és màxim:</translation>
+        <translation>El pic és màxim:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="386"/>
         <source>If checked then peaks are local maximum values. If unchecked then peaks are local minimum values.</source>
-        <translation type="unfinished">Si està marcada, els pics són valors màxims locals. Si no es marca, els pics són valors mínims locals.</translation>
+        <translation>Si està marcada, els pics són valors màxims locals. Si no es marca, els pics són valors mínims locals.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="405"/>
         <source>Compute intensity profile</source>
-        <translation type="unfinished">Perfil d&apos;intensitat de càlcul</translation>
+        <translation>Perfil d&apos;intensitat de càlcul</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="414"/>
         <source>autoUpdate</source>
-        <translation type="unfinished">Actualitza automàticament</translation>
+        <translation>Actualitza automàticament</translation>
     </message>
 </context>
 <context>
@@ -9529,7 +9529,7 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso (PerkLab) i va s
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.cxx" line="41"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished">Captura/Restaura</translation>
+        <translation>Captura/Restaura</translation>
     </message>
 </context>
 <context>
@@ -9537,14 +9537,14 @@ Aquest fitxer va ser desenvolupat originalment per Andras Lasso (PerkLab) i va s
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="76"/>
         <source>Sample Data</source>
-        <translation type="unfinished">Dades de mostra</translation>
+        <translation>Sample Data</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="80"/>
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished">
+        <translation>
 Aquest mòdul proporciona conjunts de dades que es poden utilitzar per provar 3D Slicer.
 </translation>
     </message>
@@ -9563,7 +9563,7 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished">
+        <translation>
 &lt;p&gt;Aquest treball va ser finançat en part per Cancer Care Ontario
 i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;Ontario (OCAIRO)&lt;/p&gt;
 
@@ -9580,123 +9580,123 @@ utilitzar-lo amb finalitats comercials.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Descarregar dades de mostreig</translation>
+        <translation>Descarrega dades mostrals</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="114"/>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished">Aneu al mòdul SampleData per a baixar dades de la xarxa</translation>
+        <translation>Aneu al mòdul SampleData per baixar dades de la xarxa</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="288"/>
         <source>Load data from URL</source>
-        <translation type="unfinished">Carrega les dades des de l&apos;URL</translation>
+        <translation>Carrega les dades des de l&apos;URL</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="291"/>
         <source>Download URLs:</source>
-        <translation type="unfinished">URL de baixada:</translation>
+        <translation>URLs de baixada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="294"/>
         <source>Enter one or more URLs (one per line) to download and load the corresponding data sets. Press Ctrl+Enter or click &apos;Load&apos; button to start loading.</source>
-        <translation type="unfinished">Introduïu un o més URL (un per línia) per descarregar i carregar els conjunts de dades corresponents. Premeu Ctrl+Retorn o feu clic al botó «Carrega» per a començar a carregar.</translation>
+        <translation>Introduïu un o més URL (un per línia) per descarregar i carregar els conjunts de dades corresponents. Premeu Ctrl+Retorn o feu clic al botó «Carrega» per a començar a carregar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="303"/>
         <source>Load</source>
-        <translation type="unfinished">Carrega</translation>
+        <translation>Carrega</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="304"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished">Baixeu el conjunt de dades de l&apos;URL donat i importeu-lo a l&apos;escena</translation>
+        <translation>Baixa el conjunt de dades de l&apos;URL donat i importa-lo a l&apos;escena</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="307"/>
         <source>Show folder</source>
-        <translation type="unfinished">Mostra la carpeta</translation>
+        <translation>Mostra la carpeta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="308"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation type="unfinished">Mostra la carpeta on es baixen els conjunts de dades personalitzades ({path}).</translation>
+        <translation>Mostra la carpeta on es baixen els conjunts de dades personalitzades ({path}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="355"/>
         <source>All {totalCount} data sets were loaded successfully.</source>
-        <translation type="unfinished">Tots els conjunts de dades {totalCount} s&apos;han carregat correctament.</translation>
+        <translation>Tots els conjunts de dades {totalCount} s&apos;han carregat correctament.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="357"/>
         <source>Failed to load {errorCount} out of {totalCount} data sets.</source>
-        <translation type="unfinished">No s&apos;ha pogut carregar {errorCount} de {totalCount} conjunts de dades.</translation>
+        <translation>No s&apos;ha pogut carregar {errorCount} de {totalCount} conjunts de dades.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="619"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="620"/>
         <source>Development</source>
-        <translation type="unfinished">Desenvolupament</translation>
+        <translation>Desenvolupament</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="790"/>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished">No s&apos;ha pogut crear la carpeta de memòria cau {path}</translation>
+        <translation>No s&apos;ha pogut crear la carpeta de memòria cau {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="792"/>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished">No es pot escriure a la carpeta de memòria cau {path}</translation>
+        <translation>No es pot escriure a la carpeta de memòria cau {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished">Ha fallat la baixada (intent {current} de {total}).</translation>
+        <translation>Ha fallat la baixada (intent {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="925"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished">Ha fallat la càrrega (intent {current} de {total}). No s&apos;ha pogut suprimir i torneu a intentar carregar {path}</translation>
+        <translation>Ha fallat la càrrega (intent {current} de {total}). No s&apos;ha pogut suprimir i torneu a intentar carregar {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="929"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished">Ha fallat la càrrega (intent {current} de {total}).</translation>
+        <translation>Ha fallat la càrrega (intent {current} de {total}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1069"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished">Baixada {sizeCompleted} ({percentCompleted}% de {sizeTotal})...</translation>
+        <translation>Baixada {sizeCompleted} ({percentCompleted}% de {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1104"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished">S&apos;està sol·licitant la baixada {name} de {uri} ...</translation>
+        <translation>S&apos;està sol·licitant la baixada {name} de {uri} ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1107"/>
         <source>Download finished</source>
-        <translation type="unfinished">Baixada finalitzada</translation>
+        <translation>Baixada finalitzada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1109"/>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished">Ha fallat la baixada: {errorMessage}</translation>
+        <translation>Ha fallat la baixada: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1110"/>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished">No s&apos;ha pogut baixar {uri} a {filePath}</translation>
+        <translation>No s&apos;ha pogut baixar {uri} a {filePath}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1113"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1125"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished">S&apos;està verificant la suma de verificació</translation>
+        <translation>S&apos;està verificant la suma de verificació</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1117"/>
@@ -11142,12 +11142,12 @@ Omple dins i fora de l&apos;operació crea un volum binari de mapa d&apos;etique
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
         <source>Fill inside</source>
-        <translation type="unfinished">Omple l'interior</translation>
+        <translation type="unfinished">Omple l&apos;interior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished">Omple a l'exterior</translation>
+        <translation type="unfinished">Omple a l&apos;exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
@@ -15885,7 +15885,7 @@ Per a més detalls, vegeu el mòdul Segmentacions.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="572"/>
         <source>Clip node:</source>
-        <translation type="unfinished">Nod d'enllaç:</translation>
+        <translation type="unfinished">Nod d&apos;enllaç:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="256"/>
@@ -16841,7 +16841,7 @@ Voleu continuar amb el canvi de la representació de la font?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="633"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished">Activa la Reconstrucció de Làmines Gruixudes (TSR). La TSR s'utilitza per fusionar làmines contigües dins d'un cert interval.</translation>
+        <translation type="unfinished">Activa la Reconstrucció de Làmines Gruixudes (TSR). La TSR s&apos;utilitza per fusionar làmines contigües dins d&apos;un cert interval.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="650"/>
@@ -19131,7 +19131,7 @@ p, li { espai blanc: predeformació; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="66"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished">Està disponible una nova versió de l'aplicació: %1</translation>
+        <translation type="unfinished">Està disponible una nova versió de l&apos;aplicació: %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="73"/>
@@ -21947,7 +21947,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished">Obre el lloc web del catàleg d'extensions en el navegador web per defecte. Útil per descarregar paquets d'extensions per a ús fora de línia.</translation>
+        <translation type="unfinished">Obre el lloc web del catàleg d&apos;extensions en el navegador web per defecte. Útil per descarregar paquets d&apos;extensions per a ús fora de línia.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
@@ -25756,7 +25756,7 @@ Nota: Això pot provocar una pèrdua de dades no desitjada en %5.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished">S'ha fallat la conversió de %1 a %2!</translation>
+        <translation type="unfinished">S&apos;ha fallat la conversió de %1 a %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="776"/>
@@ -25778,7 +25778,7 @@ Nota: Això pot provocar una pèrdua de dades no desitjada en %5.</translation>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation type="unfinished">La segmentació actual no s'ajusta completament a la nova geometria.
+        <translation type="unfinished">La segmentació actual no s&apos;ajusta completament a la nova geometria.
 Vols retallar la segmentació?
 </translation>
     </message>
@@ -25969,7 +25969,7 @@ Nota: Això s&apos;aplica a les taules de segments dels mòduls Editor de segmen
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="117"/>
         <source>Ask user</source>
-        <translation type="unfinished">Pregunta a l'usuari</translation>
+        <translation type="unfinished">Pregunta a l&apos;usuari</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="118"/>
@@ -26505,7 +26505,7 @@ Nota: Això s&apos;aplica a les taules de segments dels mòduls Editor de segmen
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="154"/>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished">Obre el lloc web del catàleg d'extensions...</translation>
+        <translation type="unfinished">Obre el lloc web del catàleg d&apos;extensions...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="157"/>
@@ -28166,7 +28166,7 @@ Nota: això pot provocar una pèrdua de dades no desitjada en %4.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished">S'ha fallat la conversió de %1 a %2</translation>
+        <translation type="unfinished">S&apos;ha fallat la conversió de %1 a %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
@@ -29200,7 +29200,7 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="214"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished">Feu clic per bloquejar aquesta taula i evitar la modificació dels valors a la interfície d'usuari.</translation>
+        <translation type="unfinished">Feu clic per bloquejar aquesta taula i evitar la modificació dels valors a la interfície d&apos;usuari.</translation>
     </message>
 </context>
 <context>
@@ -30130,7 +30130,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="347"/>
         <source>Clip node:</source>
-        <translation type="unfinished">Nod d'enllaç:</translation>
+        <translation type="unfinished">Nod d&apos;enllaç:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
