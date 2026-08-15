@@ -114,12 +114,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished"></translation>
+        <translation>តម្រូវការ៖ រូបភាពបញ្ចូលត្រូវតែជារូបភាព NRRD 4D។</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation type="unfinished"></translation>
+        <translation>ដែលបានផ្តល់នូវបញ្ជីនៃ </translation>
     </message>
 </context>
 <context>
@@ -127,62 +127,62 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>ការលុបអត្តសញ្ញាណមុខពីរូបភាព T1/T2 នៃខួរក្បាល (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>កម្មវិធីនេះ៖ ១) នឹងលុបអត្តសញ្ញាណមុខចេញពីរូបភាពក្នុងសំណុំរូបភាព។  រូបភាពបញ្ចូលត្រូវតែបានតម្រឹម ACPC និងមានផ្តល់នូវចំណុច AC, PC, LE, RE។</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation type="unfinished"></translation>
+        <translation>ការងារនេះត្រូវបានបង្កើតឡើងដោយ នាយកដ្ឋានវិស្វកម្មអគ្គិសនី និងកុំព្យូទ័រ នៃសាកលវិទ្យាល័យ Iowa។</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ចូលរូបភាព</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
         <source>First Image, Second Image and Mask Image</source>
-        <translation type="unfinished"></translation>
+        <translation>រូបភាព ទីមួយ, រូបភាព ទីពីរ និងរូបភាពរបាំង</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
         <source>Landmarks File</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំណុចសម្គាល់ ឯកសារ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
         <source>Source Reference Image</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រភពយោងរូបភាព</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រភពរូបភាពអកម្ម</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>របាំងជម្រើស</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំណុចសម្គាល់ បញ្ចូលឯកសារ ដែលមានចំណុច LE និង RE បានកំណត់នៅទីតាំងរូបវន្ត</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ចូលរូបភាព, រូបភាពទាំងអស់ ត្រូវតែស្ថិតក្នុងលំហរូបវន្តដូចគ្នាបេះបិទ បានតម្រឹម ACPC និងស៊ីគ្នានឹងចំណុចសម្គាល់។</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ចូលរូបភាព ដែលមិនត្រូវបាន ប្រើក្នុងការបង្កើតរបាំង (masks) រូបភាពទាំងអស់ត្រូវតែស្ថិតក្នុងលំហរូបវន្តដូចគ្នាបេះបិទនឹង inputVolumes បានតម្រឹម ACPC និងស៊ីគ្នានឹងចំណុចសម្គាល់។</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
