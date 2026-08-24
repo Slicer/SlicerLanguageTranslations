@@ -9701,47 +9701,47 @@ utilitzar-lo amb finalitats comercials.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1117"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation type="unfinished">Ha fallat la verificació de la suma de verificació. Suma de verificació calculada {currentChecksum} diferent de la suma de verificació esperada {expectedChecksum}</translation>
+        <translation>Ha fallat la verificació de la suma de verificació. La suma de verificació calculada {currentChecksum} és diferent de la suma de verificació esperada {expectedChecksum}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1122"/>
         <source>Checksum OK</source>
-        <translation type="unfinished">La suma de verificació està bé</translation>
+        <translation>La suma de verificació està bé</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1128"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
-        <translation type="unfinished">El fitxer ja existeix a la memòria cau, però la suma de verificació és diferent - es torna a baixar.</translation>
+        <translation>El fitxer ja existeix a la memòria cau, però la suma de verificació és diferent - es torna a baixar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1133"/>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation type="unfinished">El fitxer ja existeix i la suma de verificació està bé - s&apos;està reutilitzant.</translation>
+        <translation>El fitxer ja existeix i la suma de verificació està bé - s&apos;està reutilitzant.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1136"/>
         <source>File already exists in cache - reusing it.</source>
-        <translation type="unfinished">El fitxer ja existeix a la memòria cau - s&apos;està reutilitzant.</translation>
+        <translation>El fitxer ja existeix a la memòria cau - s&apos;està reutilitzant.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1161"/>
         <source>Load failed!</source>
-        <translation type="unfinished">Ha fallat la càrrega!</translation>
+        <translation>Ha fallat la càrrega!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1165"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished">S&apos;ha informat d&apos;un error en carregar {count} nodes de {path}</translation>
+        <translation>S&apos;ha informat d&apos;un error en carregar {count} nodes de {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1168"/>
         <source>Load finished</source>
-        <translation type="unfinished">Ha finalitzat la càrrega</translation>
+        <translation>Ha finalitzat la càrrega</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1149"/>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation type="unfinished">S&apos;està sol·licitant carregar {name} de {uri} ...</translation>
+        <translation>S&apos;està sol·licitant carregar {name} de {uri} ...</translation>
     </message>
 </context>
 <context>
@@ -9832,7 +9832,7 @@ utilitzar-lo amb finalitats comercials.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="26"/>
         <source>Screen Capture</source>
-        <translation type="unfinished">Captura de pantalla</translation>
+        <translation>Captura de pantalla</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="30"/>
@@ -9840,9 +9840,9 @@ utilitzar-lo amb finalitats comercials.&lt;/p&gt;
 This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
-        <translation type="unfinished">
+        <translation>
 Aquest mòdul captura seqüències d&apos;imatges i vídeos
-a partir de continguts dinàmics que es mostren en 3D i en làmines.
+a partir de continguts dinàmics que es mostren a visors 3D i en làmines.
 </translation>
     </message>
     <message>
@@ -9851,7 +9851,7 @@ a partir de continguts dinàmics que es mostren en 3D i en làmines.
 This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
-        <translation type="unfinished">
+        <translation>
 Aquest treball va ser finançat per Cancer Care Ontario
 i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;Ontario (OCAIRO)
 </translation>
@@ -9859,52 +9859,52 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="76"/>
         <source>Input</source>
-        <translation type="unfinished">Entrada</translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="91"/>
         <source>Main view: </source>
-        <translation type="unfinished">Vista principal: </translation>
+        <translation>Vista principal: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished">Si està marcada, es capturaran totes les vistes. Si no està marcada, només es capturarà la vista seleccionada.</translation>
+        <translation>Si està marcada, es capturaran totes les vistes. Si no està marcada, només es capturarà la vista seleccionada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="96"/>
         <source>Capture all views:</source>
-        <translation type="unfinished">Captura totes les vistes:</translation>
+        <translation>Captura totes les vistes:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="104"/>
         <source>Start sweep offset:</source>
-        <translation type="unfinished">Desplaçament d&apos;escombrat inicial:</translation>
+        <translation>Desplaçament d&apos;escombrat inicial:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="110"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished">Inicia el desplaçament de l&apos;escombrat del tall.</translation>
+        <translation>Inicia el desplaçament de l&apos;escombrat del tall.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="114"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished">Desplaçament d&apos;escombrat final:</translation>
+        <translation>Desplaçament d&apos;escombrat final:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="120"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished">Desplaçament d&apos;escombrat del final del tall.</translation>
+        <translation>Desplaçament d&apos;escombrat del final del tall.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="124"/>
         <source>Rotation range:</source>
-        <translation type="unfinished">Interval de gir:</translation>
+        <translation>Interval de gir:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="131"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished">Interval de rotació de la vista, relatiu a l&apos;orientació actual de la vista.</translation>
+        <translation>Interval de rotació de la vista, relatiu a l&apos;orientació actual de la vista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"/>
@@ -9914,12 +9914,12 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
         <source>Yaw</source>
-        <translation type="unfinished">Yaw</translation>
+        <translation>Yaw</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="139"/>
         <source>Pitch</source>
-        <translation type="unfinished">Pitch</translation>
+        <translation>To</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="143"/>
@@ -9929,103 +9929,103 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="151"/>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished">Es reproduiran els elements definits per aquest navegador de seqüències.</translation>
+        <translation>Es reproduiran els elements definits per aquest navegador de seqüències.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="155"/>
         <source>Start index:</source>
-        <translation type="unfinished">Inicia l&apos;índex:</translation>
+        <translation>Inicia l&apos;índex:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="159"/>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished">Primer element de la seqüència a capturar.</translation>
+        <translation>Primer element de la seqüència a capturar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="163"/>
         <source>End index:</source>
-        <translation type="unfinished">Índex final:</translation>
+        <translation>Índex final:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="167"/>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished">L&apos;últim element de la seqüència a capturar.</translation>
+        <translation>L&apos;últim element de la seqüència a capturar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="174"/>
         <source>Output</source>
-        <translation type="unfinished">Sortida</translation>
+        <translation>Sortida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished">Seleccioneu com es desaran les imatges capturades. El mode de vídeo requereix la configuració del camí executable «ffmpeg» a la secció Avançada.</translation>
+        <translation>Seleccioneu com es desaran les imatges capturades. El mode de vídeo requereix la configuració del camí executable del «ffmpeg» a la secció Avançat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <source>image series</source>
-        <translation type="unfinished">sèrie d&apos;imatges</translation>
+        <translation>sèrie d&apos;imatges</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
         <source>video</source>
-        <translation type="unfinished">vídeo</translation>
+        <translation>vídeo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="184"/>
         <source>lightbox image</source>
-        <translation type="unfinished">imatge de la caixa de llum</translation>
+        <translation>imatge lightbox</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="178"/>
         <source>Output type:</source>
-        <translation type="unfinished">Tipus de sortida:</translation>
+        <translation>Tipus de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished">Nombre d&apos;imatges extretes entre les posicions d&apos;inici i d&apos;aturada.</translation>
+        <translation>Nombre d&apos;imatges extretes entre les posicions d&apos;inici i d&apos;aturada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="189"/>
         <source>Number of images:</source>
-        <translation type="unfinished">Nombre d&apos;imatges:</translation>
+        <translation>Nombre d&apos;imatges:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Output directory:</source>
-        <translation type="unfinished">Directori de sortida:</translation>
+        <translation>Directori de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="217"/>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished">Cadena que defineix el nom i el tipus de fitxer.</translation>
+        <translation>Cadena que defineix el nom i el tipus de fitxer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="218"/>
         <source>SlicerCapture.mp4</source>
         <oldsource>SlicerCapture.avi</oldsource>
-        <translation type="unfinished">SlicerCapture.mp4</translation>
+        <translation>SlicerCapture.mp4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="221"/>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished">Cadena que defineix el nom i el tipus de fitxer de la caixa de llum de sortida.</translation>
+        <translation>Cadena que defineix el nom i el tipus de fitxer de la caixa de llum de sortida.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="222"/>
         <source>SlicerCaptureLightbox.png</source>
-        <translation type="unfinished">SlicerCaptureLightbox.png</translation>
+        <translation>SlicerCaptureLightbox.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="228"/>
         <source>Output file name:</source>
-        <translation type="unfinished">Nom del fitxer de sortida:</translation>
+        <translation>Nom del fitxer de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
         <source>Video format:</source>
-        <translation type="unfinished">Format de vídeo:</translation>
+        <translation>Format de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="247"/>
@@ -10035,197 +10035,197 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="238"/>
         <source>Video length:</source>
-        <translation type="unfinished">Longitud del vídeo:</translation>
+        <translation>Longitud del vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="259"/>
         <source>Frame rate in frames per second.</source>
-        <translation type="unfinished">Taxa de fotogrames en fotogrames per segon.</translation>
+        <translation>Taxa de fotogrames en fotogrames per segon.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="250"/>
         <source>Video frame rate:</source>
-        <translation type="unfinished">Velocitat del fotograma del vídeo:</translation>
+        <translation>Velocitat del fotograma del vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="89"/>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture all views&apos; option is enabled.</source>
-        <translation type="unfinished">Aquest tall o vista 3D s&apos;actualitzarà durant la captura.Només es capturarà aquesta vista tret que estigui activada l&apos;opció «Captura totes les vistes».</translation>
+        <translation>Aquest tall o vista 3D s&apos;actualitzarà durant la captura.Només es capturarà aquesta vista tret que estigui activada l&apos;opció «Captura totes les vistes».</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"/>
         <source>Specify how the main view will be modified during capture.</source>
-        <translation type="unfinished">Especifiqueu com es modificarà la vista principal durant la captura.</translation>
+        <translation>Especifiqueu com es modificarà la vista principal durant la captura.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="101"/>
         <source>Capture mode:</source>
-        <translation type="unfinished">Mode de captura:</translation>
+        <translation>Mode de captura:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="266"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançat</translation>
+        <translation>Avançat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>If checked, image series will be generated playing forward and then backward.</source>
-        <translation type="unfinished">Si està marcada, les sèries d&apos;imatges es generaran reproduint cap endavant i després cap enrere.</translation>
+        <translation>Si està marcada, les sèries d&apos;imatges es generaran reproduint cap endavant i després cap enrere.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="274"/>
         <source>Forward-backward:</source>
-        <translation type="unfinished">Endavant-enrere:</translation>
+        <translation>Endavant-enrere:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="282"/>
         <source>Number of times image series are repeated. Useful for making short videos longer for playback in software that does not support looped playback.</source>
-        <translation type="unfinished">Nombre de vegades que es repeteixen les sèries d&apos;imatges. Útil per a fer vídeos curts més llargs per a la reproducció en programari que no admet la reproducció en bucle.</translation>
+        <translation>Nombre de vegades que es repeteixen les sèries d&apos;imatges. Útil per a fer vídeos curts més llargs per a la reproducció en programari que no admet la reproducció en bucle.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="284"/>
         <source>Repeat:</source>
-        <translation type="unfinished">Repetició:</translation>
+        <translation>Repetició:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished">Estableix el camí a l&apos;executable «ffmpeg». Descarrega&apos;t des de: https://www.ffmpeg.org/</translation>
+        <translation>Estableix el camí a l&apos;executable «ffmpeg». Descarregueu-lo des de: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="293"/>
         <source>ffmpeg executable:</source>
-        <translation type="unfinished">Executable del «ffmpeg»:</translation>
+        <translation>Executable del «ffmpeg»:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="295"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished">&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Estableix un camí executable vàlid del «ffmpeg» &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/userguide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Estableix un camí executable vàlid del «ffmpeg» &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/userguide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Ajuda...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="303"/>
         <source>Additional video conversion options passed to ffmpeg. Parameters -i (input files), -y(overwrite without asking), -r (frame rate), -start_number are specified by the module and thereforeshould not be included in this list.</source>
-        <translation type="unfinished">S&apos;han passat opcions addicionals de conversió de vídeo al «ffmpeg». Els paràmetres -i (fitxers d&apos;entrada), -y(sobreescriu sense preguntar), -r (taxa de fotogrames), -startnumber són especificats pel mòdul i per tant no s&apos;han d&apos;incloure en aquesta llista.</translation>
+        <translation>S&apos;han passat opcions addicionals de conversió de vídeo al «ffmpeg». Els paràmetres -i (fitxers d&apos;entrada), -i(sobreescriu sense preguntar), -r (taxa de fotogrames), -start_number són especificats pel mòdul i per tant no s&apos;han d&apos;incloure en aquesta llista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="306"/>
         <source>Video extra options:</source>
-        <translation type="unfinished">Opcions extres del vídeo:</translation>
+        <translation>Opcions extres del vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="213"/>
         <source>String that defines file name, type, and numbering scheme. Default: image%05d.png.</source>
-        <translation type="unfinished">Cadena que defineix el nom del fitxer, el tipus i l&apos;esquema de numeració. Per defecte: imatge%05d.png.</translation>
+        <translation>Cadena que defineix el nom del fitxer, el tipus i l&apos;esquema de numeració. Per defecte: imatge%05d.png.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="214"/>
         <source>image_%05d.png</source>
-        <translation type="unfinished">image%05d.png</translation>
+        <translation>image_%05d.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="314"/>
         <source>Number of columns in lightbox image</source>
-        <translation type="unfinished">Nombre de columnes a la imatge de la caixa de llum</translation>
+        <translation>Nombre de columnes a la imatge lightbox</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="315"/>
         <source>Lightbox image columns:</source>
-        <translation type="unfinished">Columnes d&apos;imatge del quadre de llum:</translation>
+        <translation>Columnes d&apos;imatge lightbox:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="321"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation type="unfinished">Nombre màxim d&apos;imatges a capturar (sense passos enrere i repetint).</translation>
+        <translation>Nombre màxim d&apos;imatges a capturar (sense passos enrere i repetint).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="322"/>
         <source>Maximum number of images:</source>
-        <translation type="unfinished">Nombre màxim d&apos;imatges:</translation>
+        <translation>Nombre màxim d&apos;imatges:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="326"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Captura de pantalla</translation>
+        <translation>Captura de pantalla</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="330"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished">Seleccioneu un node de volum per a emmagatzemar la imatge capturada a l&apos;escena en lloc d&apos;escriure immediatament al disc. Requereix que la sortida «Nombre d&apos;imatges» s&apos;estableixi a 1.</translation>
+        <translation>Seleccioneu un node de volum per a emmagatzemar la imatge capturada a l&apos;escena en lloc d&apos;escriure immediatament al disc. Requereix que la sortida «Nombre d&apos;imatges» s&apos;estableixi a 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="333"/>
         <source>Output volume node:</source>
-        <translation type="unfinished">Node de volum de sortida:</translation>
+        <translation>Node de volum de sortida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="337"/>
         <source>If checked, images will be captured with view controllers visible.</source>
-        <translation type="unfinished">Si està marcada, les imatges es capturaran amb els controladors de visualització visibles.</translation>
+        <translation>Si està marcada, les imatges es capturaran amb els controladors de visualització visibles.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
         <source>View controllers:</source>
-        <translation type="unfinished">Mostra els controladors:</translation>
+        <translation>Mostra els controladors:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
         <source>If checked, images will be captured with transparent background.</source>
-        <translation type="unfinished">Si està marcada, les imatges es capturaran amb un fons transparent.</translation>
+        <translation>Si està marcada, les imatges es capturaran amb un fons transparent.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>Transparent background:</source>
-        <translation type="unfinished">Fons transparent:</translation>
+        <translation>Fons transparent:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="349"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished">Si està marcada, la imatge de marca d&apos;aigua seleccionada s&apos;afegirà a totes les imatges exportades.</translation>
+        <translation>Si està marcada, la imatge de marca d&apos;aigua seleccionada s&apos;afegirà a totes les imatges exportades.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation type="unfinished">Afegeix una imatge de marca d&apos;aigua a totes les imatges exportades.</translation>
+        <translation>Afegeix una imatge de marca d&apos;aigua a totes les imatges exportades.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="368"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation type="unfinished">Escalat de la mida aplicat a la imatge de marca d&apos;aigua. 100% és mida original</translation>
+        <translation>Escalat de la mida aplicat a la imatge de marca d&apos;aigua. 100% és mida original</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="382"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished">Opacitat de la imatge de marca d&apos;aigua. El 100% és totalment opac.</translation>
+        <translation>Opacitat de la imatge de marca d&apos;aigua. El 100% és totalment opac.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="394"/>
         <source>Watermark image file in png format</source>
-        <translation type="unfinished">Fitxer d&apos;imatge de marca d&apos;aigua en format png</translation>
+        <translation>Fitxer d&apos;imatge de marca d&apos;aigua en format png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="398"/>
         <source>Position:</source>
-        <translation type="unfinished">Posició:</translation>
+        <translation>Posició:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="400"/>
         <source>Size:</source>
-        <translation type="unfinished">Mida:</translation>
+        <translation>Mida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="402"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacitat:</translation>
+        <translation>Opacitat:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Watermark image:</source>
-        <translation type="unfinished">Imatge de marca d&apos;aigua:</translation>
+        <translation>Imatge de marca d&apos;aigua:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="412"/>
         <source>Capture</source>
-        <translation type="unfinished">Captura</translation>
+        <translation>Captura</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="413"/>
@@ -10235,58 +10235,58 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="415"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation type="unfinished">Captura l&apos;escombrat del tall a la seqüència d&apos;imatges.</translation>
+        <translation>Captura l&apos;escombrat del tall a la seqüència d&apos;imatges.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="420"/>
         <source>Show created output file.</source>
-        <translation type="unfinished">Mostra el fitxer de sortida creat.</translation>
+        <translation>Mostra el fitxer de sortida creat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="538"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="542"/>
         <source>single frame</source>
-        <translation type="unfinished">fotograma únic</translation>
+        <translation>fotograma únic</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="539"/>
         <source>slice sweep</source>
-        <translation type="unfinished">escombrat del tall</translation>
+        <translation>escombrat del tall</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="540"/>
         <source>slice fade</source>
-        <translation type="unfinished">esvaïment del tall</translation>
+        <translation>esvaïment del tall</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="543"/>
         <source>3D rotation</source>
-        <translation type="unfinished">Rotació 3D</translation>
+        <translation>rotació 3D</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="545"/>
         <source>sequence</source>
-        <translation type="unfinished">seqüència</translation>
+        <translation>seqüència</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="687"/>
         <source>Video encoder not detected on your system. Download ffmpeg video encoder?</source>
-        <translation type="unfinished">No s&apos;ha detectat el codificador de vídeo al sistema. Voleu baixar el codificador de vídeo ffmpeg?</translation>
+        <translation>No s&apos;ha detectat el codificador de vídeo al sistema. Voleu baixar el codificador de vídeo ffmpeg?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
         <source>Download confirmation</source>
-        <translation type="unfinished">Confirmació de baixada</translation>
+        <translation>Confirmació de baixada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="691"/>
         <source>ffmpeg download failed</source>
-        <translation type="unfinished">Ha fallat la baixada del «ffmpeg»</translation>
+        <translation>Ha fallat la baixada del «ffmpeg»</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="715"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation type="unfinished">Els controladors de visualització només estan disponibles per a mostrar-se en capturar totes les vistes.</translation>
+        <translation>Els controladors de visualització només estan disponibles per a mostrar-se en capturar totes les vistes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="728"/>
@@ -10295,28 +10295,28 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1323"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1367"/>
         <source>Write {filename}</source>
-        <translation type="unfinished">Escriu {filename}</translation>
+        <translation>Escriviu {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
         <source>Write to volume node &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">Escriu al node de volum &apos;{volumeName}&apos;</translation>
+        <translation>Escriviu al node de volum &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="766"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="773"/>
         <source>Copy to {filename}</source>
-        <translation type="unfinished">Copia a {filename}</translation>
+        <translation>Copia a {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="791"/>
         <source>Done.</source>
-        <translation type="unfinished">Fet.</translation>
+        <translation>Fet.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="795"/>
         <source>Error:</source>
-        <translation type="unfinished">Error:</translation>
+        <translation>Error:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
