@@ -188,11 +188,11 @@ Click on Choose Directory to Add and browse to the location of the Slicer datase
 
 Select the dataset3_ProstateMRI and click on Open</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation>Cliquez sur Add Data dans le module Welcome to Slicer
+        <translation>Cliquez sur Chargez des données dans le module Bienvenue dans Slicer
 
-Cliquez sur Choose Directory to Add et parcourez vos fichiers jusqu&apos;à l&apos;emplacement des jeux de données Slicer
+Cliquez sur Choisir le répertoire à ajouter et parcourez vos fichiers jusqu&apos;à l&apos;emplacement des jeux de données Slicer
 
-Sélectionnez le dossier dataset3_ProstateMRI et cliquez sur Open</translation>
+Sélectionnez le dossier dataset3_ProstateMRI et cliquez sur Ouvrir</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
@@ -206,7 +206,7 @@ Sélectionnez le dossier dataset3_ProstateMRI et cliquez sur Open</translation>
 
 Select the MONAIAuto3DSeg module</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation>Cliquez sur Welcome to Slicer dans le menu des modules et parcourez la liste jusqu&apos;à la catégorie Segmentation
+        <translation>Cliquez sur Bienvenue dans Slicer dans le menu des modules et parcourez la liste jusqu&apos;à la catégorie Segmentation
 
 Sélectionnez le module MONAIAuto3DSeg</translation>
     </message>
@@ -214,7 +214,7 @@ Sélectionnez le module MONAIAuto3DSeg</translation>
         <location filename="text_dict_default.json" line="52"/>
         <source>Enter the model&apos;s name Prostate in the Segmentation model menu</source>
         <extracomment>13_TextBox_0</extracomment>
-        <translation type="finished">Saisissez le nom du modèle Prostate dans le menu Segmentation model</translation>
+        <translation>Saisissez le nom du modèle Prostate dans le menu Modèle de segmentation</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -282,9 +282,9 @@ In the subdirectory dataset4_BrainMRI_Glioma, select the four datasets BraTS-GLI
 
 Click on Open</source>
         <extracomment>19_TextBox_1</extracomment>
-        <translation type="finished">Cliquez sur Ajouter données dans le module Bienvenue sur Slicer.
+        <translation>Cliquez sur Chargez des données dans le module Bienvenue dans Slicer.
 
-Cliquez sur Choisir Fichier(s) à Ajouter et naviguez jusqu’à l’emplacement des jeux de données Slicer.
+Cliquez sur Choisir le(s) fichier(s) à Ajouter et naviguez jusqu’à l’emplacement des jeux de données Slicer.
 
 Dans le sous-répertoire dataset4_BrainMRI_Glioma, sélectionnez les quatre jeux de données&#xa0;: BraTS-GLI-00006-t1c.nii.gz, BraTS-GLI-00006-t1n.nii.gz, BraTS-GLI-00006-t2f.nii.gz, BraTS-GLI-00006-t2w.nii.gz.
 
@@ -294,13 +294,13 @@ Cliquez sur Ouvrir</translation>
         <location filename="text_dict_default.json" line="70"/>
         <source>Select the module MONAIAuto3DSeg and enter the model&apos;s name Brain Tumor Segmentation in the Segmentation model menu</source>
         <extracomment>20_TextBox_0</extracomment>
-        <translation type="finished">Sélectionnez le module MONAIAuto3DSeg et saisissez le nom du modèle Brain Tumor Segmentation dans le menu Segmentation model</translation>
+        <translation>Sélectionnez le module MONAIAuto3DSeg et saisissez le nom du modèle Segmentation tumeur célébrale dans le menu Modèle de segmentation</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="72"/>
         <source>Select the model Brain Tumor Segmentation (BRATS) GLI</source>
         <extracomment>20_TextBox_1</extracomment>
-        <translation type="finished">Sélectionnez le modèle Brain Tumor Segmentation (BRATS) GLI</translation>
+        <translation>Sélectionnez le modèle Segmentation tumeur célébrale (BRATS) GLI</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="74"/>
@@ -342,7 +342,7 @@ Une fois la segmentation terminée, Processing finished apparaît dans l’inter
         <location filename="text_dict_default.json" line="78"/>
         <source>Click on Show 3D to display the 3D segments in the 3D Viewer</source>
         <extracomment>23_TextBox_1</extracomment>
-        <translation type="finished">Cliquez sur Affichage 3D pour afficher les segments 3D dans le visionneur 3D</translation>
+        <translation>Cliquez sur Afficher 3D pour afficher les segments 3D dans le visionneur 3D</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -368,19 +368,19 @@ CT_ThoraxAbdomen</translation>
         <location filename="text_dict_default.json" line="84"/>
         <source>In the Add DICOM Data module, select the Patient patient1 and double click onthe image CT_Thorax_Abdomen to load it in Slicer</source>
         <extracomment>26_TextBox_0</extracomment>
-        <translation type="finished">Dans le module Ajouter Données DICOM, sélectionnez le patient patient1 et double-cliquez sur l’image CT_Thorax_Abdomen pour la charger dans Slicer</translation>
+        <translation>Dans le module Chargez des données DICOM, sélectionnez le patient patient1 et double-cliquez sur l’image CT_Thorax_Abdomen pour la charger dans Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="86"/>
         <source>Select the module MONAIAuto3DSeg and enter the model&apos;s name Whole Body Segmentation in the Segmentation model menu</source>
         <extracomment>27_TextBox_0</extracomment>
-        <translation type="finished">Sélectionnez le module MONAIAuto3DSeg et saisissez le nom du modèle Whole Body Segmentation dans le menu Segmentation model</translation>
+        <translation>Sélectionnez le module MONAIAuto3DSeg et saisissez le nom du modèle Segmentation corps entier dans le menu Modèle de segmentation</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
         <source>Select the model Whole Body Segmentation TS1-quick</source>
         <extracomment>27_TextBox_1</extracomment>
-        <translation type="finished">Sélectionnez le modèle Whole Body Segmentation TS1-quick</translation>
+        <translation>Sélectionnez le modèle Segmentation corps entier TS1 -rapide</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="90"/>
@@ -400,7 +400,7 @@ Cliquez sur Appliquez pour lancer la segmentation</translation>
         <location filename="text_dict_default.json" line="92"/>
         <source>Slicer displays the results of the AI-based segmentation using the Whole Body Segmentation TS1-quick</source>
         <extracomment>29_TextBox_0</extracomment>
-        <translation type="finished">Slicer affiche les résultats de la segmentation assistée par IA en utilisant le modèle Whole Body Segmentation TS1-quick</translation>
+        <translation>Slicer affiche les résultats de la segmentation assistée par IA en utilisant le modèle Segmentation corps entier TS1 -rapide</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="94"/>
