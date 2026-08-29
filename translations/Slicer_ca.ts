@@ -10030,7 +10030,7 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="247"/>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation type="unfinished">Longitud del vídeo exportat en segons (sense passos enrere i repetint).</translation>
+        <translation>Longitud del vídeo exportat en segons (sense passos enrere i repetint).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="238"/>
@@ -10321,67 +10321,67 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
         <source>H.264</source>
-        <translation type="unfinished">H.264</translation>
+        <translation>H.264</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="831"/>
         <source>H.264 (high-quality)</source>
-        <translation type="unfinished">H.264 (alta qualitat)</translation>
+        <translation>H.264 (alta qualitat)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="832"/>
         <source>MPEG-4</source>
-        <translation type="unfinished">MPEG-4</translation>
+        <translation>MPEG-4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="833"/>
         <source>MPEG-4 (high-quality)</source>
-        <translation type="unfinished">MPEG-4 (alta qualitat)</translation>
+        <translation>MPEG-4 (alta qualitat)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="834"/>
         <source>Animated GIF</source>
-        <translation type="unfinished">GIF animat</translation>
+        <translation>GIF animat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="835"/>
         <source>Animated GIF (grayscale)</source>
-        <translation type="unfinished">GIF animat (escala de grisos)</translation>
+        <translation>GIF animat (escala de grisos)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1065"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1100"/>
         <source>Capture image from view failed</source>
-        <translation type="unfinished">Ha fallat la captura de la imatge des de la vista</translation>
+        <translation>Ha fallat la captura de la imatge des de la vista</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1129"/>
         <source>Invalid vector volume node.</source>
-        <translation type="unfinished">Node de volum vectorial no vàlid.</translation>
+        <translation>Node de volum vectorial no vàlid.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1143"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1152"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation type="unfinished">Format d&apos;imatge no suportat basat en el nom de fitxer {filename}</translation>
+        <translation>Format d&apos;imatge no suportat basat en el nom de fitxer {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1201"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1226"/>
         <source>Invalid view node.</source>
-        <translation type="unfinished">Node de visualització no vàlid.</translation>
+        <translation>Node de visualització no vàlid.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1213"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1223"/>
         <source>Selected 3D view is not visible in the current layout.</source>
-        <translation type="unfinished">La vista 3D seleccionada no és visible a la disposició actual.</translation>
+        <translation>La vista 3D seleccionada no és visible a la disposició actual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1234"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1264"/>
         <source>Selected slice view is not visible in the current layout.</source>
-        <translation type="unfinished">La vista de tall seleccionada no és visible a la disposició actual.</translation>
+        <translation>La vista de tall seleccionada no és visible a la disposició actual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1256"/>
@@ -10389,53 +10389,53 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1347"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>User requested cancel.</source>
-        <translation type="unfinished">L&apos;usuari ha sol·licitat la cancel·lació.</translation>
+        <translation>L&apos;usuari ha sol·licitat la cancel·lació.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1377"/>
         <source>Export to lightbox image...</source>
-        <translation type="unfinished">Exporta a la imatge de la caixa de llum...</translation>
+        <translation>Exporta a la imatge lightbox...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1420"/>
         <source>Lightbox image saved to file: {filename}</source>
         <oldsource>Lighbox image saved to file: {filename}</oldsource>
-        <translation type="unfinished">Imatge Lightbox desada al fitxer: {filename}</translation>
+        <translation>Imatge lightbox desada al fitxer: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1423"/>
         <source>Export to video...</source>
-        <translation type="unfinished">Exporta a vídeo...</translation>
+        <translation>Exporta a vídeo...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1430"/>
         <source>Video creation failed: ffmpeg executable path is not defined</source>
-        <translation type="unfinished">Ha fallat la creació de vídeo: el camí executable del «ffmpeg» no està definit</translation>
+        <translation>Ha fallat la creació de vídeo: el camí executable del «ffmpeg» no està definit</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1432"/>
         <source>Video creation failed: ffmpeg executable path is invalid: {path}</source>
-        <translation type="unfinished">Ha fallat la creació de vídeo: el camí executable del «ffmpeg» no és vàlid: {path}</translation>
+        <translation>Ha fallat la creació de vídeo: el camí executable del «ffmpeg» no és vàlid: {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
         <source>Start ffmpeg:</source>
-        <translation type="unfinished">Inicia el «ffmpeg»:</translation>
+        <translation>Inicia el «ffmpeg»:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1452"/>
         <source>ffmpeg error output: {error}</source>
-        <translation type="unfinished">Sortida d&apos;error del «ffmpeg»: {error}</translation>
+        <translation>Sortida d&apos;error del «ffmpeg»: {error}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1453"/>
         <source>ffmpeg returned with error</source>
-        <translation type="unfinished">ffmpeg ha retornat amb un error</translation>
+        <translation>ffmpeg ha retornat amb un error</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1455"/>
         <source>Video export succeeded to file: {path}</source>
-        <translation type="unfinished">S&apos;ha exportat el vídeo al fitxer: {path}</translation>
+        <translation>S&apos;ha exportat el vídeo al fitxer: {path}</translation>
     </message>
 </context>
 <context>
@@ -10443,7 +10443,7 @@ i el Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica d&apos;
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="14"/>
         <source>Segment Editor</source>
-        <translation type="unfinished">Editor de segments</translation>
+        <translation>Editor de segments</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="18"/>
@@ -10452,10 +10452,10 @@ This module allows editing segmentation objects by directly drawing and using se
 Representations other than the labelmap one (which is used for editing) are automatically updated real-time,
 so for example the closed surface can be visualized as edited in the 3D view.
 </source>
-        <translation type="unfinished">
+        <translation>
 Aquest mòdul permet editar objectes de segmentació dibuixant directament i utilitzant eines de segmentació en els segments continguts.
-Representacions diferents del mapa d&apos;etiquetes (que s&apos;utilitza per editar) s&apos;actualitzen automàticament en temps real,
-Així, per exemple, la superfície tancada es pot visualitzar com s&apos;edita en la vista 3D.
+Les representacions diferents del mapa d&apos;etiquetes (que s&apos;utilitza per editar) s&apos;actualitzen automàticament en temps real,
+Així, per exemple, la superfície tancada es pot visualitzar tal com s&apos;edita en la vista 3D.
 </translation>
     </message>
     <message>
@@ -10464,9 +10464,9 @@ Així, per exemple, la superfície tancada es pot visualitzar com s&apos;edita e
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished">
+        <translation>
 Aquest treball forma part del projecte SparKit, finançat pel programa ACRU de Cancer Care Ontario (CCO)
-i Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica (OCAIRO).
+i Consorci d&apos;Ontario d&apos;Intervencions Adaptatives en Oncologia Radiològica (OCAIRO).
 </translation>
     </message>
 </context>
@@ -10475,109 +10475,109 @@ i Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="102"/>
         <source>Auto-update</source>
-        <translation type="unfinished">Actualització automàtica</translation>
+        <translation>Actualització automàtica</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="103"/>
         <source>Auto-update results preview when input segments change.</source>
-        <translation type="unfinished">Actualitza automàticament la vista prèvia dels resultats quan canviïn els segments d&apos;entrada.</translation>
+        <translation>Actualitza automàticament la vista prèvia dels resultats quan canviïn els segments d&apos;entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="107"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="274"/>
         <source>Initialize</source>
-        <translation type="unfinished">Inicialitza</translation>
+        <translation>Inicialitza</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="109"/>
         <source>Preview complete segmentation</source>
-        <translation type="unfinished">Vista prèvia completa de la segmentació</translation>
+        <translation>Vista prèvia completa de la segmentació</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="119"/>
         <source>Preview:</source>
-        <translation type="unfinished">Vista prèvia:</translation>
+        <translation>Vista prèvia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="122"/>
         <source>Adjust visibility of results preview.</source>
-        <translation type="unfinished">Ajusta la visibilitat de la vista prèvia de resultats.</translation>
+        <translation>Ajusta la visibilitat de la vista prèvia de resultats.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="130"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Mostra el 3D</translation>
+        <translation>Mostra el 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="131"/>
         <source>Preview results in 3D.</source>
-        <translation type="unfinished">Vista prèvia dels resultats en 3D.</translation>
+        <translation>Vista prèvia dels resultats en 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="135"/>
         <source>inputs</source>
-        <translation type="unfinished">entrades</translation>
+        <translation>entrades</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="137"/>
         <source>results</source>
-        <translation type="unfinished">resultats</translation>
+        <translation>resultats</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="139"/>
         <source>Display:</source>
-        <translation type="unfinished">Mostra:</translation>
+        <translation>Pantalla:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="141"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·la</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="143"/>
         <source>Clear preview and cancel auto-complete</source>
-        <translation type="unfinished">Neteja la vista prèvia i cancel·la la compleció automàtica</translation>
+        <translation>Neteja la vista prèvia i cancel·la la compleció automàtica</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="145"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplica</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="147"/>
         <source>Replace segments by previewed result</source>
-        <translation type="unfinished">Substitueix els segments per un resultat previsualitzat</translation>
+        <translation>Substitueix els segments per un resultat previsualitzat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="186"/>
         <source>Segmentation operation is cancelled because an input segment was deleted.</source>
-        <translation type="unfinished">L&apos;operació de segmentació es cancel·la perquè s&apos;ha suprimit un segment d&apos;entrada.</translation>
+        <translation>L&apos;operació de segmentació es cancel·la perquè s&apos;ha suprimit un segment d&apos;entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="268"/>
         <source>Update</source>
-        <translation type="unfinished">Actualitzar</translation>
+        <translation>Actualitza</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="300"/>
         <source>Running {effectName} auto-complete...</source>
-        <translation type="unfinished">S&apos;està executant {effectName} compleció automàtica...</translation>
+        <translation>S&apos;està executant {effectName} de compleció automàtica...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="302"/>
         <source>Segmentation operation failed:</source>
-        <translation type="unfinished">Ha fallat l&apos;operació de segmentació:</translation>
+        <translation>Ha fallat l&apos;operació de segmentació:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="464"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="476"/>
         <source>Minimum {minimumNumberOfSegments} visible segments are required.</source>
-        <translation type="unfinished">Es requereixen {minimumNumberOfSegments} segments visibles.</translation>
+        <translation>Es requereixen {minimumNumberOfSegments} segments visibles.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="469"/>
         <source>Minimum {minimumNumberOfSegments} visible segments (or specification of editable area or intensity range) is required.</source>
-        <translation type="unfinished">Es requereix un mínim de {minimumNumberOfSegments} segments visibles (o especificació d&apos;àrea editable o interval d&apos;intensitat).</translation>
+        <translation>Es requereix un mínim de {minimumNumberOfSegments} segments visibles (o especificació d&apos;àrea editable o interval d&apos;intensitat).</translation>
     </message>
 </context>
 <context>
@@ -10585,7 +10585,7 @@ i Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="20"/>
         <source>Draw</source>
-        <translation type="unfinished">Dibuix</translation>
+        <translation>Dibuixa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="38"/>
@@ -10596,10 +10596,10 @@ i Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica (OCAIRO).
 &lt;li&gt;&lt;b&gt;x:&lt;/b&gt; delete last point.
 &lt;li&gt;&lt;b&gt;Double-left-click&lt;/b&gt; or &lt;b&gt;right-click&lt;/b&gt; or &lt;b&gt;a&lt;/b&gt; or &lt;b&gt;enter&lt;/b&gt;: apply outline.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished">Dibuixa el contorn del segment en els visors de tall&lt;br&gt;.
+        <translation>Dibuixa el contorn del segment en els visors de tall&lt;br&gt;.
 &lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
 &lt;li&gt;&lt;b&gt;Clic esquerre:&lt;/b&gt; afegeix un punt.
-&lt;li&gt;&lt;b&gt;Arrossega i deixa anar el botó esquerre:&lt;/b&gt; afegeix diversos punts.
+&lt;li&gt;&lt;b&gt;Arrossegament i deixar anar el botó esquerre:&lt;/b&gt; afegeix diversos punts.
 &lt;li&gt;&lt;b&gt;x:&lt;/b&gt; suprimeix el darrer punt.
 &lt;li&gt;&lt;b&gt;Feu doble clic esquerre&lt;/b&gt; o&lt;b&gt;feu clic dret&lt;/b&gt; o&lt;b&gt;a&lt;/b&gt; o&lt;b&gt;introduïu&lt;/b&gt;: aplica l&apos;esquema.
 &lt;/ul&gt;&lt;p&gt;</translation>
@@ -10610,7 +10610,7 @@ i Consorci d&apos;Intervencions Adaptatives en Oncologia Radiològica (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="20"/>
         <source>Fill between slices</source>
-        <translation type="unfinished">Emplena entre talls</translation>
+        <translation>Emplena entre talls</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="36"/>
@@ -10625,11 +10625,11 @@ do not use sphere brush with Paint effect and always leave at least one empty sl
 Masking settings are ignored. If segments overlap, segment higher in the segments table will have priority.
 The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;morphological contour interpolation method&lt;/a&gt;.
 &lt;p&gt;</source>
-        <translation type="unfinished">Interpola la segmentació entre talls&lt;br&gt;. Instruccions:
+        <translation>Interpolació de la segmentació entre talls&lt;br&gt;. Instruccions:
 &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;Crea una segmentació completa en les llesques seleccionades utilitzant qualsevol efecte d&apos;editor.
+&lt;li&gt;Creeu una segmentació completa en els talls seleccionats utilitzant qualsevol efecte d&apos;editor.
 La segmentació només s&apos;expandirà si es segmenta un tall però cap dels veïns directes està segmentat, per tant
-No utilitzeu el pinzell d&apos;esfera amb efecte Pintura i sempre deixeu almenys una roda buida entre les rodanxes segmentades.
+no utilitzeu el pinzell d&apos;esfera amb efecte Pintura i sempre deixeu almenys una roda buida entre les rodanxes segmentades.
 &lt;li&gt;Tots els segments visibles s&apos;interpolaran, no només el segment seleccionat.
 &lt;li&gt;La segmentació completa es crearà interpolant les segmentacions en rodanxes buides.
 &lt;/ul&gt;&lt;p&gt;
@@ -10643,7 +10643,7 @@ L&apos;efecte utilitza el mètode d&apos;interpolació morfològica de contorn &
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="23"/>
         <source>Grow from seeds</source>
-        <translation type="unfinished">Créixer des de llavors</translation>
+        <translation>Créix des de llavors</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="44"/>
@@ -10662,7 +10662,7 @@ L&apos;efecte utilitza el mètode d&apos;interpolació morfològica de contorn &
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished">Segments creixents per crear una segmentació completa&lt;br&gt;.
+        <translation>Segments creixents per crear una segmentació completa&lt;br&gt;.
         Es té en compte la ubicació, la mida i la forma dels segments inicials i el contingut del volum d&apos;origen.
         Els límits del segment final es col·locaran on la brillantor del volum d&apos;origen canvia abruptament. Instruccions:&lt;p&gt;
         &lt;ul style=&quot;margin: 0&quot;&gt;
@@ -10670,23 +10670,23 @@ L&apos;efecte utilitza el mètode d&apos;interpolació morfològica de contorn &
         Pinta cada llavor amb un segment diferent. Es requereixen dos segments mínims.
         &lt;li&gt;Feu clic a &lt;dfn&gt;Inicialitza&lt;/dfn&gt; per calcular la vista prèvia de la segmentació completa.
         &lt;li&gt;Navega a través de talls d&apos;imatge. Si el resultat de la segmentació previsualitzada no és correcte, llavors commuteu a
-        Pinta o altres efectes i afegeix més llavors a la regió mal classificada. La segmentació completa serà
-        s&apos;actualitza automàticament en pocs segons
+        Pinta o altres efectes i afegiu més llavors a la regió mal classificada. La segmentació completa
+        s&apos;actualitzarà automàticament en pocs segons
         &lt;li&gt;Feu clic a &lt;dfn&gt;Aplica&lt;/dfn&gt; per actualitzar la segmentació amb el resultat previsualitzat.
         &lt;/ul&gt;&lt;p&gt;
         Si els segments se superposen, el segment més alt de la taula de segments tindrà prioritat.
-        L&apos;efecte utilitza el mètode de cultiu ràpid &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;&lt;/a&gt;.
+        L&apos;efecte utilitza el mètode de tall ràpid &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;&lt;/a&gt;.
         &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
         <source>Increasing this value makes the effect of seeds more localized, thereby reducing leaks, but requires seed regions to be more evenly distributed in the image. The value is specified as an additional &quot;intensity level difference&quot; per &quot;unit distance.&quot;</source>
-        <translation type="unfinished">L&apos;augment d&apos;aquest valor fa que l&apos;efecte de les llavors sigui més localitzat, reduint així les fuites, però requereix que les regions de llavors es distribueixin de forma més uniforme en la imatge. El valor s&apos;especifica com una &quot;diferència de nivell d&apos;intensitat&quot; addicional per &quot;distància d&apos;unitat&quot;.</translation>
+        <translation>L&apos;augment d&apos;aquest valor fa que l&apos;efecte de les llavors sigui més localitzat, reduint així les fuites, però requereix que les regions de llavors es distribueixin de forma més uniforme en la imatge. El valor s&apos;especifica com una «diferència de nivell d&apos;intensitat» addicional per «distància d&apos;unitat».</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="80"/>
         <source>Seed locality:</source>
-        <translation type="unfinished">Localitat de la llavor:</translation>
+        <translation>Localitat de la llavor:</translation>
     </message>
 </context>
 <context>
@@ -10694,12 +10694,12 @@ L&apos;efecte utilitza el mètode d&apos;interpolació morfològica de contorn &
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="19"/>
         <source>Hollow</source>
-        <translation type="unfinished">Hollow</translation>
+        <translation>Buit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="36"/>
         <source>Make the selected segment hollow by replacing the segment with a uniform-thickness shell defined by the segment boundary.</source>
-        <translation type="unfinished">Fes que el segment seleccionat sigui buit reemplaçant el segment amb un intèrpret d&apos;ordres uniforme de gruix definit pel límit del segment.</translation>
+        <translation>Fes que el segment seleccionat sigui buit reemplaçant el segment amb un intèrpret d&apos;ordres uniforme de gruix definit pel límit del segment.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="41"/>
