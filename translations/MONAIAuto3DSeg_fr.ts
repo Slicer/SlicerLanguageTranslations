@@ -63,7 +63,7 @@ Le module utilise&lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blo
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="193"/>
         <source>Importing Results</source>
-        <translation>Importation results</translation>
+        <translation>Importation resultats</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="194"/>
@@ -656,7 +656,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="34"/>
         <source>MR</source>
-        <translation type="unfinished">M.</translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="35"/>
