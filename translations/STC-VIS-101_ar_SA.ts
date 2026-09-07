@@ -13,7 +13,7 @@
         <location filename="text_dict_default.json" line="10"/>
         <source>Author: Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation>المؤلف: دكتورة سونيا بوجول</translation>
+        <translation>المؤلف: سونيا بوجول، دكتوراه.</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -118,7 +118,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 • The software is not FDA approved or CE-Marked, and is for research use only.
 </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished">• 3D Slicer هو برنامج مجاني مفتوح المصدر يتم توزيعه بموجب ترخيص من نوع BSD.
+        <translation>• 3D Slicer هو برنامج مجاني مفتوح المصدر يتم توزيعه بموجب ترخيص من نوع BSD.
 
 
 • هذا البرنامج غير معتمد من إدارة الغذاء والدواء الأمريكية (FDA) ولا يحمل علامة CE، وهو مخصص للاستخدام في الأغراض البحثية فقط.
@@ -128,7 +128,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <location filename="text_dict_default.json" line="36"/>
         <source>Tutorial Outline</source>
         <extracomment>6_TextBox_0</extracomment>
-        <translation type="unfinished">مخطط الدرس</translation>
+        <translation>مخطط الدرس التعليمي</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -139,7 +139,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 
 • Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished">•  الجزء 1: تحميل وعرض بيانات DICOM
+        <translation>•  الجزء 1: تحميل وعرض بيانات DICOM
 
 •  الجزء 2: عرض الحجم
 
@@ -150,7 +150,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <location filename="text_dict_default.json" line="40"/>
         <source>Part 1: DICOM Data Loading</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished">الجزء الأول: تحميل بيانات DICOM</translation>
+        <translation>الجزء الأول: تحميل بيانات DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
@@ -159,26 +159,26 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <extracomment>8_LoadingaDICOMvolume_title
 ----------
 9_LoadingaDICOMvolume_title</extracomment>
-        <translation type="unfinished">تحميل ملف DICOM</translation>
+        <translation>تحميل ملف DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer displays the user interface of the DICOM module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished">يعرض برنامج Slicer واجهة المستخدم الخاصة بوحدة DICOM</translation>
+        <translation>يعرض برنامج Slicer واجهة المستخدم الخاصة بوحدة DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>The patient1 study contains a CT Thorax Abdomen dataset</source>
         <extracomment>8_TextBox_1</extracomment>
-        <translation type="unfinished">تحتوي دراسة المريض 1 على مجموعة بيانات التصوير المقطعي المحوسب للصدر والبطن</translation>
+        <translation>تحتوي دراسة المريض 1 على مجموعة بيانات التصوير المقطعي المحوسب للصدر والبطن</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
         <source>Select patient1 and click on Load 
 to load the dataset in Slicer</source>
         <extracomment>9_ArrowText_1</extracomment>
-        <translation type="unfinished">حدد المريض 1 وانقر على «تحميل»
+        <translation>حدد المريض 1 وانقر على تحميل
 لتحميل مجموعة البيانات في Slicer</translation>
     </message>
     <message>
@@ -209,7 +209,7 @@ to load the dataset in Slicer</source>
 17_VisualizingDICOMimages_title
 ----------
 18_VisualizingDICOMimages_title</extracomment>
-        <translation type="unfinished">عرض صور DICOM</translation>
+        <translation>عرض صور DICOM</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -217,7 +217,7 @@ to load the dataset in Slicer</source>
 and sagittal images of the CT 
 Thorax Abdomen dataset </source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished">يعرض برنامج Slicer الصور المحورية والتاجية 
+        <translation>يعرض برنامج Slicer الصور المحورية والتاجية 
 والسهمية لمجموعة بيانات التصوير المقطعي المحوسب 
 للصدر والبطن </translation>
     </message>
@@ -226,7 +226,7 @@ Thorax Abdomen dataset </source>
         <source>Left click on DICOM to display 
 the list of modules of Slicer</source>
         <extracomment>11_ArrowText_1</extracomment>
-        <translation type="unfinished">انقر بزر الماوس الأيسر على DICOM لعرض
+        <translation>انقر بزر الماوس الأيسر على DICOM لعرض
 قائمة وحدات Slicer</translation>
     </message>
     <message>
@@ -234,7 +234,7 @@ the list of modules of Slicer</source>
         <source>Select the module 
 Volumes</source>
         <extracomment>11_ArrowText_2</extracomment>
-        <translation type="unfinished">اختر الوحدة
+        <translation>اختر الوحدة
 الأحجام</translation>
     </message>
     <message>
@@ -244,7 +244,7 @@ preset to automatically adjust
 the window/level display of the 
 CT dataset</source>
         <extracomment>12_ArrowText_0</extracomment>
-        <translation type="unfinished">انقر على الإعداد المسبق «CT-abdomen» 
+        <translation>انقر على الإعداد المسبق CT-abdomen 
 لضبط 
 عرض النافذة/المستوى لمجموعة بيانات 
 التصوير المقطعي المحوسب تلقائيًا</translation>
@@ -549,7 +549,7 @@ viewing 3D models
         <location filename="text_dict_default.json" line="146"/>
         <source>Slicer Scene</source>
         <extracomment>34_TextBox_0</extracomment>
-        <translation>Slicer Scene</translation>
+        <translation>مشهد Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="148"/>
@@ -561,7 +561,7 @@ Each data set, such as an image volume, surface model, or point set, is represen
 
 All Slicer modules operate on the data stored in a Slicer scene.</source>
         <extracomment>34_TextBox_1</extracomment>
-        <translation type="unfinished">يخزن برنامج Slicer جميع البيانات التي تم تحميلها في مستودع يُسمى «مشهد»
+        <translation>يخزن برنامج Slicer جميع البيانات التي تم تحميلها في مستودع يُسمى «مشهد»
 
 
 يتم تمثيل كل مجموعة بيانات، مثل حجم الصورة أو نموذج السطح أو مجموعة النقاط، كعقدة في مشهد Slicer.
@@ -573,7 +573,7 @@ All Slicer modules operate on the data stored in a Slicer scene.</source>
         <location filename="text_dict_default.json" line="150"/>
         <source>Loading a Scene</source>
         <extracomment>35_LoadingaScene_title</extracomment>
-        <translation type="unfinished">تحميل مشهد</translation>
+        <translation>تحميل مشهد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="152"/>
@@ -581,7 +581,7 @@ All Slicer modules operate on the data stored in a Slicer scene.</source>
 surface model of the 
 head and 2D MRI slices</source>
         <extracomment>35_TextBox_0</extracomment>
-        <translation type="unfinished">يعرض برنامج Slicer نموذجًا ثلاثي الأبعاد 
+        <translation>يعرض برنامج Slicer نموذجًا ثلاثي الأبعاد 
 لسطح 
 الرأس وشرائح تصوير بالرنين المغناطيسي ثنائية الأبعاد</translation>
     </message>
@@ -601,7 +601,7 @@ head and 2D MRI slices</source>
 39_Viewing3Dmodels_title
 ----------
 40_Viewing3Dmodels_title</extracomment>
-        <translation type="unfinished">عرض النماذج ثلاثية الأبعاد</translation>
+        <translation>عرض النماذج ثلاثية الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="156"/>
@@ -611,7 +611,7 @@ slice menu and click on
 the eye icon to display the 
 axial slice in the 3D viewer</source>
         <extracomment>36_ArrowText_0</extracomment>
-        <translation type="unfinished">ضع المؤشر فوق 
+        <translation>ضع المؤشر فوق 
 رمز الدبوس لإظهار 
 قائمة الشرائح، وانقر على 
 رمز العين لعرض 
@@ -622,7 +622,7 @@ axial slice in the 3D viewer</source>
         <source>Select the Models module 
 in the list of models</source>
         <extracomment>37_ArrowText_1</extracomment>
-        <translation type="unfinished">حدد وحدة النماذج
+        <translation>حدد وحدة النماذج
 في قائمة النماذج</translation>
     </message>
     <message>
@@ -633,7 +633,7 @@ scene
 
 Select the model Skin.vtk</source>
         <extracomment>38_ArrowText_0</extracomment>
-        <translation type="unfinished">يعرض Slicer قائمة 
+        <translation>يعرض Slicer قائمة 
 النماذج ثلاثية الأبعاد التي تم تحميلها في 
 المشهد
 
@@ -645,7 +645,7 @@ Select the model Skin.vtk</source>
 the Skin model using 
 the visibility slider</source>
         <extracomment>39_ArrowText_0</extracomment>
-        <translation type="unfinished">قم بتخفيض شفافية 
+        <translation>قم بتخفيض شفافية 
 نموذج الجلد باستخدام 
 شريط التمرير الخاص بالرؤية</translation>
     </message>
@@ -655,7 +655,7 @@ the visibility slider</source>
 eyeballs models appear 
 through the skin</source>
         <extracomment>39_TextBox_1</extracomment>
-        <translation type="unfinished">تظهر نماذج عظام الجمجمة و
+        <translation>تظهر نماذج عظام الجمجمة و
 مقل العيون
 من خلال الجلد</translation>
     </message>
@@ -666,7 +666,7 @@ model and click on the
 eye icon to turn off its 
 visibility</source>
         <extracomment>40_ArrowText_1</extracomment>
-        <translation type="unfinished">حدد نموذج عظم الجمجمة
+        <translation>حدد نموذج عظم الجمجمة
 وانقر على
 رمز العين لإخفاء
 رؤيته</translation>
@@ -677,7 +677,7 @@ visibility</source>
 optic nerve models 
 appear through the skin</source>
         <extracomment>40_TextBox_2</extracomment>
-        <translation type="unfinished">تظهر نماذج المادة البيضاء و
+        <translation>تظهر نماذج المادة البيضاء و
 العصب البصري
 من خلال الجلد</translation>
     </message>
@@ -694,7 +694,7 @@ appear through the skin</source>
 43_Interactingwith3Dmodels_title
 ----------
 44_Interactingwith3Dmodels_title</extracomment>
-        <translation type="unfinished">التفاعل مع النماذج ثلاثية الأبعاد</translation>
+        <translation>التفاعل مع النماذج ثلاثية الأبعاد</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="180"/>
@@ -702,7 +702,7 @@ appear through the skin</source>
 display the coronal slice 
 in the 3D viewer</source>
         <extracomment>41_ArrowText_0</extracomment>
-        <translation type="unfinished">انقر على أيقونة العين 
+        <translation>انقر على أيقونة العين 
 لعرض المقطع التاجي 
 في عارض ثلاثي الأبعاد</translation>
     </message>
@@ -712,9 +712,9 @@ in the 3D viewer</source>
 white matter model and 
 select the option Clipping</source>
         <extracomment>42_ArrowText_2</extracomment>
-        <translation type="unfinished">حدد نموذج المادة البيضاء 
+        <translation>حدد نموذج المادة البيضاء 
 للنصفي الدماغ و
-حدد الخيار "القص"</translation>
+حدد الخيار &quot;القص&quot;</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="188"/>
@@ -722,7 +722,7 @@ select the option Clipping</source>
 posteriorily to display the 
 optic chiasm</source>
         <extracomment>43_TextBox_0</extracomment>
-        <translation type="unfinished">حرك الشريحة التاجية 
+        <translation>حرك الشريحة التاجية 
 نحو الخلف لإظهار 
 التقاطع البصري</translation>
     </message>
@@ -731,14 +731,14 @@ optic chiasm</source>
         <source>Slicer displays a 3D view of 
 the optic chiasm</source>
         <extracomment>44_TextBox_0</extracomment>
-        <translation type="unfinished">يعرض برنامج Slicer منظرًا ثلاثي الأبعاد 
+        <translation>يعرض برنامج Slicer منظرًا ثلاثي الأبعاد 
 للتقاطع البصري</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="194"/>
         <source>Conclusion</source>
         <extracomment>45_TextBox_0</extracomment>
-        <translation type="unfinished">خاتمة</translation>
+        <translation>الخلاصة</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="196"/>
@@ -749,7 +749,7 @@ the optic chiasm</source>
 
 Contact: spujol@bwh.harvard.edu</source>
         <extracomment>45_TextBox_1</extracomment>
-        <translation type="unfinished">• يوفر برنامج 3D Slicer وظائف متقدمة لتحميل وعرض بيانات التصوير الطبي ثلاثي الأبعاد
+        <translation>• يوفر برنامج 3D Slicer وظائف متقدمة لتحميل وعرض بيانات التصوير الطبي ثلاثي الأبعاد
 
 • يوضح البرنامج التعليمي كيفية استخدام تقنية عرض الحجم ونمذجة الأسطح ثلاثية الأبعاد من أجل التصور التفاعلي لبيانات التصوير المقطعي المحوسب (CT) والتصوير بالرنين المغناطيسي (MRI)
 
@@ -766,7 +766,7 @@ Contact: spujol@bwh.harvard.edu</source>
         <location filename="text_dict_default.json" line="200"/>
         <source>Neuroimage Analysis Center (NIBIB P41 EB015902)</source>
         <extracomment>46_TextBox_1</extracomment>
-        <translation type="unfinished">مركز تحليل الصور العصبية (NIBIB P41 EB015902)</translation>
+        <translation>مركز تحليل الصور العصبية (NIBIB P41 EB015902)</translation>
     </message>
 </context>
 </TS>
