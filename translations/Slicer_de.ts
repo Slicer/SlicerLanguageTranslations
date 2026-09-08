@@ -6815,7 +6815,7 @@ Warnung: Verwenden Sie diese Funktion nicht zum Resampling von Diffusionstensorb
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="55"/>
         <source>output</source>
-        <translation>Ausgaben</translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="56"/>
