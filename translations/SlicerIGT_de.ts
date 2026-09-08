@@ -70,12 +70,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="121"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algorithmus ausführen.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="129"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
@@ -85,7 +85,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="141"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
@@ -118,7 +118,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration auswählen: </translation>
     </message>
 </context>
 <context>
@@ -126,22 +126,22 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="164"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
         <source>Select connector node</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindungsknoten auswählen</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
         <source>OpenIGTLink connector: </source>
-        <translation type="unfinished"></translation>
+        <translation>OpenIGTLink-Verbinder: </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
         <source>Show 3D Slicer user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>3D Slicer-Benutzeroberfläche anzeigen</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
@@ -161,7 +161,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
 </context>
 <context>
@@ -169,12 +169,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultraschall</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="58"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzeichnung starten</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="61"/>
@@ -184,47 +184,47 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="63"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfrieren</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="73"/>
         <source>Brightness </source>
-        <translation type="unfinished"></translation>
+        <translation>Helligkeit </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
         <source>Brighter</source>
-        <translation type="unfinished"></translation>
+        <translation>Heller</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="245"/>
         <source>  Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  Aufzeichnung stoppen</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="247"/>
         <source>Recording is being started...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzeichnung wird gestartet ...</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
         <source>  Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  Aufzeichnung starten</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzeichnung wird gestoppt ...</translation>
     </message>
 </context>
 <context>
@@ -232,7 +232,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="17"/>
         <source>Model Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellregistrierung</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="21"/>
@@ -252,7 +252,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="43"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
@@ -287,17 +287,17 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algorithmus ausführen.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="111"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
@@ -307,7 +307,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="123"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
@@ -325,17 +325,17 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitserien</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgezeichnete Knoten</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="34"/>
@@ -364,7 +364,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="TextureModel/TextureModel.py" line="20"/>
         <source>Texture Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Texturmodell</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="24"/>
@@ -378,7 +378,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="49"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
@@ -388,7 +388,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="68"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="80"/>
@@ -398,17 +398,17 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
         <source>Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation>Textur:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="84"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>deaktiviert</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB-Vektor</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
