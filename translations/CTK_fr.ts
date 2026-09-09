@@ -2972,14 +2972,14 @@ p, li { white-space: pre-wrap; }
         <source>Query and retrieve. If filters are set, a patient query will be sent to the DICOM servers.
 If no filters are set, a study query for the currently selected patient in the local database
 (or the first patient if none is selected) will be sent to the DICOM servers.</source>
-        <translation type="unfinished">Rechercher et récupérer. Si des filtres sont définis, une requête concernant le patient sera envoyée aux serveurs DICOM.
-Si aucun filtre n'est défini, une requête concernant l'étude du patient actuellement sélectionné dans la base de données locale
-(ou du premier patient si aucun n'est sélectionné) sera envoyée aux serveurs DICOM.</translation>
+        <translation>Rechercher et récupérer. Si des filtres sont définis, une requête concernant le patient sera envoyée aux serveurs DICOM.
+Si aucun filtre n&apos;est défini, une requête concernant l&apos;étude du patient actuellement sélectionné dans la base de données locale
+(ou du premier patient si aucun n&apos;est sélectionné) sera envoyée aux serveurs DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="309"/>
         <source>Query </source>
-        <translation type="unfinished">Requête </translation>
+        <translation>Requête </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="332"/>
@@ -3063,72 +3063,72 @@ Si aucun filtre n'est défini, une requête concernant l'étude du patient actue
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="883"/>
         <source>No server is configured for query/retrieve operations. The server settings section is below.
 Check also the allowed servers at patient level.</source>
-        <translation type="unfinished">Aucun serveur n'est configuré pour les opérations de requête/récupération. Vous trouverez ci-dessous la section consacrée aux paramètres du serveur.
+        <translation>Aucun serveur n&apos;est configuré pour les opérations de requête/récupération. Vous trouverez ci-dessous la section consacrée aux paramètres du serveur.
 Vérifiez également les serveurs autorisés au niveau du patient.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2481"/>
         <source>No server is configured for query/retrieve operations.
 The server settings section is below.</source>
-        <translation type="unfinished">Aucun serveur n'est configuré pour les opérations de requête/récupération.
+        <translation>Aucun serveur n&apos;est configuré pour les opérations de requête/récupération.
 La section consacrée aux paramètres du serveur se trouve ci-dessous.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2494"/>
         <source>No filters are set and no patients are found in the local database.
 Please specify at least one filter to query the servers.</source>
-        <translation type="unfinished">Aucun filtre n'est défini et aucun patient n'a été trouvé dans la base de données locale.
+        <translation>Aucun filtre n&apos;est défini et aucun patient n&apos;a été trouvé dans la base de données locale.
 Veuillez définir au moins un filtre pour interroger les serveurs.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2622"/>
         <source>The patients query provided no results. Please refine your filters in the search section.</source>
-        <translation type="unfinished">La recherche effectuée par le patient n'a donné aucun résultat. Veuillez affiner vos critères dans la section de recherche.</translation>
+        <translation>La recherche effectuée par le patient n&apos;a donné aucun résultat. Veuillez affiner vos critères dans la section de recherche.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2996"/>
         <source>Load patient</source>
-        <translation type="unfinished">Charger le patient</translation>
+        <translation>Charger un patient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2997"/>
         <source>Load %1 patients</source>
-        <translation type="unfinished">Charger %1 patients</translation>
+        <translation>Charger %1 patients</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3003"/>
         <source>View %1 patients DICOM metadata</source>
-        <translation type="unfinished">Afficher les métadonnées DICOM de %1 patients</translation>
+        <translation>Afficher les métadonnées DICOM de %1 patients</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3009"/>
         <source>Delete %1 patients from local database</source>
-        <translation type="unfinished">Supprimer les patients %1 de la base de données locale</translation>
+        <translation>Supprimer %1 patients de la base de données locale</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3016"/>
         <source>Export %1 patients to file system</source>
-        <translation type="unfinished">Exporter les patients %1 vers le système de fichiers</translation>
+        <translation>Exporter %1 patients vers le système de fichiers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3022"/>
         <source>Send %1 patients to DICOM server</source>
-        <translation type="unfinished">Envoyer %1 patients au serveur DICOM</translation>
+        <translation>Envoyer %1 patients au serveur DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3114"/>
         <source>Force retrieve study</source>
-        <translation type="unfinished">Étude sur la récupération forcée</translation>
+        <translation>Forcer la récupération de l’étude</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3115"/>
         <source>Force retrieve %1 studies</source>
-        <translation type="unfinished">Forcer la récupération des études %1</translation>
+        <translation>Forcer la récupération de %1 études</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3229"/>
         <source>Force retrieve %1 series</source>
-        <translation type="unfinished">Forcer la récupération de la série %1</translation>
+        <translation>Forcer la récupération de %1 série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3658"/>
@@ -3145,12 +3145,12 @@ Veuillez définir au moins un filtre pour interroger les serveurs.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="386"/>
         <source>From:</source>
-        <translation type="unfinished">De :</translation>
+        <translation>De&#xa0;:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
         <source>To:</source>
-        <translation type="unfinished">À :</translation>
+        <translation>À&#xa0;:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1972"/>
