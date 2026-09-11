@@ -86,32 +86,32 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
         <source>Robust cropping:</source>
-        <translation type="unfinished"></translation>
+        <translation>Recadrage robuste&#xa0;:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="230"/>
         <source>Use 3mm model for cropping instead of default 6mm. More robust but slightly slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser le modèle de 3 mm pour le recadrage au lieu du modèle par défaut de 6 mm. Plus robuste, mais légèrement plus lent.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
         <source>Remove small blobs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les petits amas&#xa0;:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="247"/>
         <source>Remove small disconnected regions (less than 0.2 ml) from final segmentations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les petites régions déconnectées (moins de 0,2 ml) des segmentations finales.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="257"/>
         <source>Higher-order resampling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rééchantillonnage d’ordre supérieur&#xa0;:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="264"/>
         <source>Use higher order resampling for segmentations. Smoother results but more runtime and memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser un rééchantillonnage d’ordre supérieur pour les segmentations. Résultats plus lisses, mais temps d’exécution et utilisation de la mémoire accrus.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="274"/>
@@ -151,37 +151,37 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="65"/>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse&#xa0;:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="74"/>
         <source>Full resolution output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie en pleine résolution.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="77"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="84"/>
         <source>Enable fast option to get less accurate results, faster (3mm resolution).</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer l’option rapide pour obtenir des résultats moins précis, mais plus rapides (résolution de 3 mm).</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="87"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapide</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="94"/>
         <source>Enable faster option for very low resolution (6mm) but very fast results. Only available for total and total_mr tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer l’option plus rapide pour une très faible résolution (6 mm), mais avec des résultats très rapides. Disponible uniquement pour les tâches total et total_mr.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="97"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus rapide</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="301"/>
@@ -306,7 +306,7 @@ Appuyez sur OK pour redémarrer.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="373"/>
         <source>This TotalSegmentator update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette mise à jour de TotalSegmentator nécessite le redémarrage de 3D Slicer. Cliquez sur OK pour redémarrer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="374"/>
