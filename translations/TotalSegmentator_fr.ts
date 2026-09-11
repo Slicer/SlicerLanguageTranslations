@@ -415,7 +415,7 @@ Requis&#xa0;: {requiredUrl}</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1008"/>
         <source>This license update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette mise à jour de la licence nécessite le redémarrage de 3D Slicer. Cliquez sur OK pour redémarrer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1045"/>
