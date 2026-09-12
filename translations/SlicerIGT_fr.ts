@@ -28,7 +28,7 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
         <source>Note: Parent transforms of fiducials are not used. Fiducials should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished">Remarque : les transformations des repères de référence ne sont pas utilisées. Les repères de référence doivent être définis dans le système de coordonnées à aligner.</translation>
+        <translation>Remarque&#xa0;: les transformations des repères de référence ne sont pas utilisées. Les repères de référence doivent être définis dans le système de coordonnées à aligner.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
@@ -98,7 +98,7 @@ et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvent
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation>Nombre d&apos;itérations:</translation>
+        <translation>Nombre d&apos;itérations&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -325,7 +325,7 @@ Ce travail fait partie du projet SparKit, financé par le programme ACRU de Canc
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation>Le test n&apos;est pas implémenté pour ModelRegistration.</translation>
+        <translation>Le test n&apos;est pas implémenté pour ModelRegistration</translation>
     </message>
 </context>
 <context>
@@ -387,9 +387,9 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation>Ce module applique une texture (stockée dans un nœud de volume) à un nœud de modèle. 
-Il est généralement utilisé pour afficher des surfaces colorées, fournies par des scanners de surface, exportées au format OBJ.  
-Le modèle doit contenir des coordonnées de texture. Un seul fichier de texture par modèle est pris en charge.  
+        <translation>Ce module applique une texture (stockée dans un nœud de volume) à un nœud de modèle.
+Il est généralement utilisé pour afficher des surfaces colorées, fournies par des scanners de surface, exportées au format OBJ. 
+Le modèle doit contenir des coordonnées de texture. Un seul fichier de texture par modèle est pris en charge. 
 Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;site web du projet SlicerIGT&lt;/a&gt;.
 </translation>
     </message>
