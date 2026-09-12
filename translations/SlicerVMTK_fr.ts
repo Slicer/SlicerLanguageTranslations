@@ -38,12 +38,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="256"/>
         <source>Failed to probe the intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l’analyse de la plage d’intensité.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="264"/>
         <source>Failed to determine the intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la détermination de la plage d’intensité.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="308"/>
@@ -125,7 +125,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="102"/>
@@ -145,22 +145,22 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="200"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="212"/>
         <source>Intensity range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plage d’intensité&#xa0;:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="239"/>
         <source>Use this specified value as the lower bound of the calcification intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser cette valeur spécifiée comme limite inférieure de la plage d’intensité des calcifications.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="252"/>
         <source>Use this specified value as the upper bound of the calcification intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser cette valeur spécifiée comme limite supérieure de la plage d’intensité des calcifications.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="262"/>
@@ -170,22 +170,27 @@ It is calculated as:
  - lower: (medianSegmentIntensity + maxSegmentIntensity) / 2.0
  - upper: maxVolumeIntensity * 0.95
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Sonder la plage d’intensité définissant les calcifications.
+
+Elle est calculée comme suit&#xa0;:
+ - inférieure&#xa0;: (medianSegmentIntensity + maxSegmentIntensity) / 2.0
+ - supérieure&#xa0;: maxVolumeIntensity * 0.95 »
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="270"/>
         <source>Probe</source>
-        <translation type="unfinished"></translation>
+        <translation>Déterminer</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="277"/>
         <source>Reset the intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser la plage d’intensité.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="280"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="305"/>
@@ -351,7 +356,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="662"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline polydata first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appelez d’abord &apos;splitCenterlines()&apos; avec un polydata de lignes centrales en entrée.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="614"/>
@@ -521,22 +526,22 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="105"/>
         <source>Cap output surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiter la surface de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="112"/>
         <source>Cap clipped ends of model</source>
-        <translation type="unfinished"></translation>
+        <translation>Boucher les extrémités tronquées du modèle</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="125"/>
         <source>Centerlines:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes centrales&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="132"/>
         <source>Input centerlines of the tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes centrales d’entrée de l’arbre.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="152"/>
@@ -561,7 +566,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
         <source>ClipVessel</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipVessel</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="210"/>
@@ -571,7 +576,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="216"/>
         <source>Result of clipping input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat du découpage du modèle d’entrée</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="227"/>
@@ -760,37 +765,37 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="207"/>
         <source>Subtract the lumen</source>
-        <translation type="unfinished"></translation>
+        <translation>Soustraire la lumière</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="451"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du calcul des résultats.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="556"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/D</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="557"/>
         <source>Input lumen surface not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Surface de la lumière d’entrée non spécifiée.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="701"/>
         <source>Lumen cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Section transversale de la lumière</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="719"/>
         <source>Wall cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Section transversale de la paroi</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="829"/>
         <source>Failed to clip the lumen in the tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du découpage de la lumière dans le tube.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="954"/>
@@ -835,7 +840,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1333"/>
         <source>Unknown lumen node type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Type de nœud de lumière inconnu.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1472"/>
@@ -851,28 +856,28 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1559"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points.{hasEmptySections}</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement terminé en {duration} secondes - {countOfPoints} points.{hasEmptySections}</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1821"/>
         <source>Input centerline node node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de lignes centrales d’entrée est nul.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1823"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1895"/>
         <source>Input centerline node is not a Shape node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de lignes centrales d’entrée n’est pas un nœud de Forme.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1846"/>
         <source>Could not decimate the wall surface, continuing with the full surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de décimer la surface de la paroi, poursuite avec la surface complète.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1855"/>
         <source>Input surface node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de surface d’entrée est nul.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1887"/>
@@ -882,12 +887,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2183"/>
         <source>Lumen cross-section area</source>
-        <translation type="unfinished"></translation>
+        <translation>Aire de la section transversale de la lumière</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1085"/>
         <source>Maximum inscribed sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Sphère inscrite maximale</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1807"/>
@@ -897,27 +902,27 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1928"/>
         <source>Error creating a cross-section polydata of the wall at point index {indexOfPoint}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la création du polydata de la section transversale de la paroi au niveau de l’index de point {indexOfPoint}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2019"/>
         <source>Invalid centerline or lumen surface: cannot clip the lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes centrales ou surface de la lumière non valides&#xa0;: impossible de découper la lumière.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2027"/>
         <source>Invalid segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment non valide.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2059"/>
         <source>Empty lumen surface retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Surface de la lumière récupérée vide.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2066"/>
         <source>The input wall surface and the input lumen surfaces could not be intersected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d’intersecter la surface de la paroi d’entrée et les surfaces de la lumière d’entrée.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2074"/>
@@ -927,7 +932,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2143"/>
         <source>empty sections have been detected; consider improving the input surface {nameOfSurface}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Des sections vides ont été détectées&#x202f;; envisagez d’améliorer la surface d’entrée {nameOfSurface}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2180"/>
@@ -1143,7 +1148,7 @@ Le pinceau est placé en mode &apos;Sphère&apos;. L&apos;Éditeur de segments p
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="100"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="396"/>
@@ -1154,7 +1159,13 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again. A &apos;fast fix&apos; function is also provided.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir le nombre de régions connexes distinctes dans la surface de la lumière.
+
+Idéalement, il ne devrait y avoir qu’une seule région. Un nombre plus élevé peut indiquer la présence de trous dans la lumière et/ou de régions distinctes situées à l’extérieur de la lumière. Les trous dans la lumière entraînent une mesure imprécise de l’aire de la section transversale.
+
+Une fois les régions indésirables corrigées, généralement à l’aide de l’effet « Peindre » du « Segment Editor », cette fonction peut être exécutée à nouveau. Une fonction de « correction rapide » est également disponible.
+
+Après une réparation complète de la surface de la lumière, les lignes centrales doivent être extraites à nouveau afin de mettre à jour les tableaux de rayons des « sphères inscrites maximales ».</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="572"/>
@@ -1244,12 +1255,12 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="191"/>
         <source>Clip the lumen inside the tube. A new segment or a new model is generated. </source>
-        <translation type="unfinished"></translation>
+        <translation>Découper la lumière à l’intérieur du tube. Un nouveau segment ou un nouveau modèle est généré. </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="194"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="502"/>
@@ -1258,32 +1269,36 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
 This function cannot be undone, proceed with small increments.
 
 The result must be inspected before use. If it is not satisfactory, the source segment should be updated by any other means.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les trous dans un segment connexe. Idéalement, il ne devrait rester qu’une seule région. Les segments complexes ne peuvent pas toujours être réduits à une seule région.
+
+Cette fonction ne peut pas être annulée, procédez par petites étapes.
+
+Le résultat doit être inspecté avant utilisation. S’il n’est pas satisfaisant, le segment source doit être mis à jour par un autre moyen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="509"/>
         <source>Smoothing gap size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de l’intervalle de lissage&#xa0;:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="522"/>
         <source>This value is used to calculate the gap pixel size. High values mean longer processing time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette valeur est utilisée pour calculer la taille de l’intervalle en pixels. Les valeurs élevées entraînent un temps de traitement plus long.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="525"/>
         <source> mm</source>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="678"/>
         <source>Decimate the input Tube surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Décimer la surface du tube d’entrée.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="681"/>
         <source>⭭</source>
-        <translation type="unfinished"></translation>
+        <translation>⭭</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="817"/>
@@ -1372,7 +1387,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1463"/>
         <source>Show the cross-section of an input wall surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la section transversale d’une surface de paroi d’entrée.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="455"/>
@@ -1428,7 +1443,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1147"/>
         <source>Show the maximum inscribed sphere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la sphère inscrite maximale.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1171"/>
@@ -1468,7 +1483,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1210"/>
         <source>Show the cross-section of an input lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la section transversale d’une surface de lumière d’entrée.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1232"/>
@@ -1528,7 +1543,11 @@ Create a Shape::Tube markups node guided by an arbitrary markups curve, a center
 See more information in &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 Thanks to Andras Lasso for requiring import/export from/to a centerline model/curve.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Créer un nœud de repères Shape::Tube guidé par une courbe de repères quelconque, un modèle de lignes centrales ou une courbe de lignes centrales.
+Voir plus d’informations dans la &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;documentation du module&lt;/a&gt;.
+Merci à Andras Lasso d’avoir demandé l’importation/exportation depuis/vers un modèle ou une courbe de lignes centrales.
+</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="39"/>
@@ -1576,12 +1595,12 @@ et Steve Pieper, Isomics, Inc. et a été partiellement financé par la subventi
         <location filename="EditCenterline/EditCenterline.py" line="403"/>
         <location filename="EditCenterline/EditCenterline.py" line="453"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished">Le nœud de paramètres est None.</translation>
+        <translation>Le nœud de paramètres n’est pas défini.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="362"/>
         <source>Input centerline is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de lignes centrales d’entrée n’est pas défini.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="408"/>
@@ -1591,12 +1610,12 @@ et Steve Pieper, Isomics, Inc. et a été partiellement financé par la subventi
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="420"/>
         <source>Centerline model processing failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du traitement du modèle de lignes centrales.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="422"/>
         <source>Centerline is bifurcated, it must not be bifurcated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les lignes centrales sont bifurquées, elles ne doivent pas l’être.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="432"/>
@@ -1606,7 +1625,7 @@ et Steve Pieper, Isomics, Inc. et a été partiellement financé par la subventi
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="543"/>
         <source>Failed to get segment polydata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la récupération des données du segment.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="581"/>
@@ -1623,38 +1642,38 @@ et Steve Pieper, Isomics, Inc. et a été partiellement financé par la subventi
         <location filename="EditCenterline/EditCenterline.py" line="628"/>
         <location filename="EditCenterline/EditCenterline.py" line="674"/>
         <source>Tube is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tube n’est pas défini.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="610"/>
         <location filename="EditCenterline/EditCenterline.py" line="630"/>
         <location filename="EditCenterline/EditCenterline.py" line="676"/>
         <source>Shape is not a tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>La forme n’est pas un tube.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="612"/>
         <location filename="EditCenterline/EditCenterline.py" line="632"/>
         <location filename="EditCenterline/EditCenterline.py" line="678"/>
         <source>Tube must have at least 4 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le tube doit contenir au moins 4 points.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="616"/>
         <location filename="EditCenterline/EditCenterline.py" line="639"/>
         <source>The central spline of the tube is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>La spline centrale du tube n’est pas définie.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="621"/>
         <location filename="EditCenterline/EditCenterline.py" line="642"/>
         <source>The central spline of the tube does not have radius information.</source>
-        <translation type="unfinished"></translation>
+        <translation>La spline centrale du tube ne contient pas d’informations sur le rayon.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="635"/>
         <source>Centerline curve is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>La courbe de lignes centrales n’est pas définie.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="19"/>
@@ -1674,7 +1693,7 @@ et Steve Pieper, Isomics, Inc. et a été partiellement financé par la subventi
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="70"/>
         <source>Centerline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne centrale&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="77"/>
@@ -1684,7 +1703,12 @@ This can be:
  - an arbitrary curve representing the axis of an artery,
  - a centerline curve generated by the &apos;ExtractCenterline&apos; module,
  - a centerline model generated by the &apos;ExtractCenterline&apos; module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une ligne centrale d’entrée.
+
+Cela peut être&#xa0;:
+ - une courbe quelconque représentant l’axe d’une artère,
+ - une courbe de lignes centrales générée par le module &apos;ExtractCenterline&apos;,
+ - un modèle de lignes centrales généré par le module &apos;ExtractCenterline&apos;.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="113"/>
@@ -1722,12 +1746,12 @@ Exemples&#xa0;:
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="185"/>
         <source>Shape tube:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tube de forme&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="192"/>
         <source>Select a shape node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un nœud de forme.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="203"/>
@@ -1737,14 +1761,16 @@ Exemples&#xa0;:
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="225"/>
         <source>Number of pairs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de paires&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="238"/>
         <source>Select the number of control point pairs for the tube.
 
 The tortuosity of the tube and the diameter distribution determine this parameter. This concerns an input centerline model or curve generated by the &apos;ExtractCenterline&apos; module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le nombre de paires de points de contrôle pour le tube.
+
+La tortuosité du tube et la distribution des diamètres déterminent ce paramètre. Cela concerne un modèle ou une courbe de lignes centrales généré(e) par le module &apos;ExtractCenterline&apos;.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="261"/>
@@ -1764,28 +1790,28 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="306"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de lignes centrales&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="315"/>
         <source>Select an edited centerline model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un modèle de lignes centrales modifié.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="326"/>
         <source>EditedModel</source>
-        <translation type="unfinished"></translation>
+        <translation>EditedModel</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="345"/>
         <source>Update the edited centerline model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour le modèle de lignes centrales modifié.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="348"/>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="399"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="357"/>
@@ -1795,17 +1821,17 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="366"/>
         <source>Select an edited centerline curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une courbe de lignes centrales modifiée.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="377"/>
         <source>EditedCurve</source>
-        <translation type="unfinished"></translation>
+        <translation>EditedCurve</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="396"/>
         <source>Update the edited centerline curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour la courbe de lignes centrales modifiée.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="410"/>
@@ -1815,17 +1841,17 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="421"/>
         <source>Radius percent scaling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pourcentage de mise à l’échelle du rayon&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="430"/>
         <source>Decrease the Tube&apos;s radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réduire les rayons du tube.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="433"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="446"/>
@@ -1840,7 +1866,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="468"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="501"/>
@@ -2356,12 +2382,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="350"/>
         <source>Region count: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de régions&#xa0;: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="409"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished">Le nœud de paramètres est None.</translation>
+        <translation>Le nœud de paramètres n’est pas défini.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="413"/>
@@ -2376,7 +2402,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="433"/>
         <source>Background volume node in the selected slice node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de volume d’arrière-plan du nœud de vue sélectionné n’est pas défini.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="549"/>
@@ -2460,7 +2486,7 @@ Si un nœud Shape::Tube est spécifié ci-dessous, ce paramètre est ignoré.</t
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished">Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
+        <translation>Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="88"/>
@@ -2470,7 +2496,7 @@ Si un nœud Shape::Tube est spécifié ci-dessous, ce paramètre est ignoré.</t
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="162"/>
@@ -2481,17 +2507,17 @@ Si un nœud Shape::Tube est spécifié ci-dessous, ce paramètre est ignoré.</t
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="270"/>
         <source>Ideally, there should be only one region in the input segment.</source>
         <oldsource>Ideally, there should be only one region in the output segment.</oldsource>
-        <translation type="unfinished">Idéalement, il ne devrait y avoir qu’une seule région dans le segment de sortie.</translation>
+        <translation>Idéalement, il ne devrait y avoir qu’une seule région dans le segment de sortie.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="375"/>
         <source>Segment editor effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effets de l’éditeur de segments</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="389"/>
         <source>Flood filling</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissage par propagation</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="294"/>
@@ -2544,22 +2570,22 @@ Si spécifié, le diamètre régulier du tube ci-dessus est ignoré.</translatio
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="473"/>
         <source>Remove holes in a contiguous segment. There should remain 1 region ideally. Complex segments may not always be reduced to a single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les trous dans un segment connexe. Idéalement, il ne devrait rester qu’une seule région. Les segments complexes ne peuvent pas toujours être réduits à une seule région.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="476"/>
         <source>Smoothing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lissage&#xa0;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="492"/>
         <source>This value is used to calculate the gap pixel size. Large values also mean longer processing time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette valeur est utilisée pour calculer la taille de l’intervalle en pixels. Les valeurs élevées entraînent également un temps de traitement plus long.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="495"/>
         <source> mm</source>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="532"/>
@@ -2602,7 +2628,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="272"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished">Le nœud de paramètres est None.</translation>
+        <translation>Le nœud de paramètres est n’est pas défini.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="285"/>
@@ -2679,17 +2705,17 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished">Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
+        <translation>Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="88"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour l’éditeur de segments et les vues en coupe avec la segmentation et le volume d’entrée, le cas échéant.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="102"/>
@@ -2855,17 +2881,17 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="357"/>
         <source>Invalid segmentation or segmentID.</source>
-        <translation type="unfinished">Segmentation ou ID de segment invalide.</translation>
+        <translation>Segmentation ou ID de segment invalide.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="367"/>
         <source>Region count: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de régions&#xa0;: </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="424"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished">Le nœud de paramètres est None.</translation>
+        <translation>Le nœud de paramètres n’est pas défini.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="428"/>
@@ -2880,7 +2906,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="438"/>
         <source>Background volume node in the selected slice node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de volume d’arrière-plan du nœud de vue sélectionné n’est pas défini.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="506"/>
@@ -2906,17 +2932,17 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="46"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished">Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
+        <translation>Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="91"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour l’éditeur de segments et les vues en coupe avec la segmentation et le volume d’entrée, le cas échéant.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="94"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="105"/>
@@ -2940,7 +2966,7 @@ Les points de contrôle doivent être dans la lumière contrastée.</translation
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="217"/>
         <source>QuickROI</source>
-        <translation type="unfinished"></translation>
+        <translation>QuickROI</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="233"/>
@@ -2986,7 +3012,7 @@ Les points de contrôle doivent être dans la lumière contrastée.</translation
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="284"/>
         <source>Ideally, there should be only one region in the input segment.</source>
         <oldsource>Ideally, there should be only one region in the output segment.</oldsource>
-        <translation type="unfinished">Idéalement, il ne devrait y avoir qu’une seule région dans le segment de sortie.</translation>
+        <translation>Idéalement, il ne devrait y avoir qu’une seule région dans le segment de sortie.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="437"/>
@@ -3001,12 +3027,12 @@ Les points de contrôle doivent être dans la lumière contrastée.</translation
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="308"/>
         <source>Segment editor effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effets de l’éditeur de segments</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="322"/>
         <source>Flood filling</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissage par propagation</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="357"/>
@@ -3023,22 +3049,22 @@ Les points de contrôle doivent être dans la lumière contrastée.</translation
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="402"/>
         <source>This value is used to calculate the gap pixel size. Large values also mean longer processing time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette valeur est utilisée pour calculer la taille de l’intervalle en pixels. Les valeurs élevées entraînent également un temps de traitement plus long.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="405"/>
         <source> mm</source>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="421"/>
         <source>Remove holes in a contiguous segment. There should remain 1 region ideally. Complex segments may not always be reduced to a single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les trous dans un segment connexe. Idéalement, il ne devrait rester qu’une seule région. Les segments complexes ne peuvent pas toujours être réduits à une seule région.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="424"/>
         <source>Smoothing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lissage&#xa0;:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="462"/>
@@ -3364,17 +3390,17 @@ Le résultat est influencé par&#xa0;:
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished">Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
+        <translation>Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="88"/>
         <source>Update the segment editor with the input segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour l’éditeur de segments avec la segmentation d’entrée.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="102"/>
@@ -3526,7 +3552,7 @@ ligne centrale&#x202f;:</translation>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="153"/>
         <source>No segment found in the segmentation, aborting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun segment trouvé dans la segmentation, arrêt du processus</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="164"/>
@@ -3618,22 +3644,22 @@ ligne centrale&#x202f;:</translation>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="22"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Ensemble de paramètres&#xa0;:</translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="32"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished">Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
+        <translation>Un ensemble de paramètres regroupe des paramètres qui définissent distinctement une étude nommée.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="46"/>
         <source>StenosisMeasurement3D</source>
-        <translation type="unfinished"></translation>
+        <translation>StenosisMeasurement3D</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="70"/>
@@ -3645,7 +3671,9 @@ ligne centrale&#x202f;:</translation>
         <source>Select an input markups fiducial node.
 
 The first and second points are the boundaries between which the analysis will be performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un nœud de repères fiduciels d’entrée.
+
+Les premier et deuxième points définissent les limites entre lesquelles l’analyse sera effectuée.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="128"/>
@@ -3660,24 +3688,26 @@ The first and second points are the boundaries between which the analysis will b
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="158"/>
         <source>Decimate the tube&apos;s surface during processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Décimer la surface du tube pendant le traitement.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="161"/>
         <source>⭭</source>
-        <translation type="unfinished"></translation>
+        <translation>⭭</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="175"/>
         <source>Select a segment representing the vascular lumen.
 
 This should ideally exceed the wall surface a little.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un segment représentant la lumière vasculaire.
+
+Idéalement, celui-ci doit dépasser légèrement la surface de la paroi.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="197"/>
         <source>Ideally, there should be only one region in the input segment.</source>
-        <translation type="unfinished">Idéalement, il ne devrait y avoir qu’une seule région dans le segment de sortie.</translation>
+        <translation>Idéalement, il ne devrait y avoir qu’une seule région dans le segment d’entrée.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="207"/>
@@ -3686,59 +3716,65 @@ This should ideally exceed the wall surface a little.</source>
 This function cannot be undone, proceed with small increments.
 
 The result must be inspected before use. If it is not satisfactory, the source segment should be updated by any other means.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les trous dans un segment connexe. Idéalement, il ne devrait rester qu’une seule région. Les segments complexes ne peuvent pas toujours être réduits à une seule région.
+
+Cette fonction ne peut pas être annulée, procédez par petites étapes.
+
+Le résultat doit être inspecté avant utilisation. S’il n’est pas satisfaisant, le segment source doit être mis à jour par un autre moyen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="214"/>
         <source>Smoothing gap size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de l’intervalle de lissage&#xa0;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="227"/>
         <source>This value is used to calculate the gap pixel size. High values mean longer processing time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette valeur est utilisée pour calculer la taille de l’intervalle en pixels. Les valeurs élevées entraînent un temps de traitement plus long.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="230"/>
         <source> mm</source>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="254"/>
         <source>Outputs</source>
-        <translation type="unfinished">Sorties</translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="352"/>
         <source>Show the lesion between the boundary points as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la lésion entre les points limites sous forme de modèle.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="360"/>
         <source>Lesion</source>
-        <translation type="unfinished"></translation>
+        <translation>Lésion</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="376"/>
         <source>Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Table&#xa0;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="385"/>
         <source>Specify a table to store the result in append mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spécifiez une table pour stocker le résultat en mode ajout.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="396"/>
         <source>Result table</source>
-        <translation type="unfinished"></translation>
+        <translation>Table des résultats</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="415"/>
         <source>Move the boundary points to the positions referenced in this table row.
 
 Note: this is intended for processing again at known locations. The study and the results stored in the table are not taken into consideration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacez les points limites vers les positions référencées dans cette ligne du tableau.
+
+Remarque&#xa0;: cette fonction est destinée à effectuer à nouveau le traitement à des emplacements connus. L’étude et les résultats stockés dans le tableau ne sont pas pris en compte.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
@@ -3799,22 +3835,22 @@ Note: this is intended for processing again at known locations. The study and th
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="176"/>
         <source>Clear the enclosed lumen cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Vider le cache de la lumière contenue</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="182"/>
         <source>Dump aggregate volumes to database</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter les volumes agrégés vers la base de données</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="185"/>
         <source>Attempt to save a database containing aggregate volumes of the study in your document directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tenter d’enregistrer dans votre répertoire de documents une base de données contenant les volumes agrégés de l’étude.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="215"/>
         <source>Invalid parameter node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètre de nœud non valide.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="226"/>
@@ -3849,59 +3885,59 @@ Note: this is intended for processing again at known locations. The study and th
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="685"/>
         <source>Invalid or empty table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Table non valide ou vide.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="696"/>
         <source>The tube does not have a valid spline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le tube ne possède pas de spline valide.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="701"/>
         <source>Invalid tube or boundary node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud du tube ou de la limite non valide.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="803"/>
         <source>Error getting the enclosed lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la récupération de la lumière contenue.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="809"/>
         <source>Error: input tube and input lumen could not be intersected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur&#xa0;: le tube d’entrée et la lumière d’entrée ne peuvent pas être intersectés.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="941"/>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1015"/>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1045"/>
         <source>Parameter node is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de paramètre n’est pas valide.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="962"/>
         <source>Processing, this can be long running, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement en cours, cela peut prendre un certain temps, veuillez patienter...</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="965"/>
         <source>Error dumping aggregate volumes to database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de l’exportation des volumes agrégés vers la base de données.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="968"/>
         <source> is saved in your document directory.</source>
-        <translation type="unfinished"></translation>
+        <translation> est enregistré dans votre répertoire de documents.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1001"/>
         <source>Region count: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de régions&#xa0;: </translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1025"/>
         <source>Invalid segmentation or segmentID.</source>
-        <translation type="unfinished">Segmentation ou ID de segment invalide.</translation>
+        <translation>Segmentation ou ID de segment invalide.</translation>
     </message>
 </context>
 <context>
@@ -3922,57 +3958,57 @@ Note: this is intended for processing again at known locations. The study and th
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="499"/>
         <source>Study</source>
-        <translation type="unfinished"></translation>
+        <translation>Étude</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="500"/>
         <source>Wall volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de la paroi</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="501"/>
         <source>Lumen volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de la lumière</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="502"/>
         <source>Lesion</source>
-        <translation type="unfinished"></translation>
+        <translation>Lésion</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="503"/>
         <source>Stenosis</source>
-        <translation type="unfinished"></translation>
+        <translation>Sténose</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="504"/>
         <source>From spline id</source>
-        <translation type="unfinished"></translation>
+        <translation>À partir de l’identifiant de la spline</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="505"/>
         <source>To spline id</source>
-        <translation type="unfinished"></translation>
+        <translation>Vers l’identifiant de la spline</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="506"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="507"/>
         <source>Lesion volume per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de la lésion par cm</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="508"/>
         <source>Stenosis per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>Sténose par cm</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="509"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notes</translation>
     </message>
 </context>
 </TS>
