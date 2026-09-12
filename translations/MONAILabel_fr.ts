@@ -282,7 +282,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1123"/>
         <source>Please upgrade the monai server to latest version</source>
-        <translation>Veuillez mettre à jour le serveur MONAI vers la dernière version</translation>
+        <translation>Veuillez mettre à jour le serveur monai vers la dernière version</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1130"/>
@@ -394,7 +394,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <translation>Erreur du serveur&#xa0;: Échec de la création de la session. 
-Veuillez mettre à jour vers la dernière version de MONAI Label (&gt; 0.2.0)</translation>
+Veuillez mettre à jour vers la dernière version de monailabel (&gt; 0.2.0)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1504"/>
