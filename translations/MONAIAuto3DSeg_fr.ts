@@ -21,7 +21,7 @@
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="38"/>
         <source>MONAI Auto3DSeg</source>
-        <translation type="unfinished">MONAI Auto3DSeg</translation>
+        <translation>MONAI Auto3DSeg</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="42"/>
@@ -42,7 +42,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
 </source>
         <translation>
 Ce fichier a été à l’origine créé par Andras Lasso (PerkLab, Queen’s University).
-Le module utilise&lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
+Le module utilise &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
 </translation>
     </message>
     <message>
@@ -103,12 +103,12 @@ Le module utilise&lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blo
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="488"/>
         <source>Select {input_title}.</source>
-        <translation type="unfinished">Sélectionnez {input_title}.</translation>
+        <translation>Sélectionnez {input_title}.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="491"/>
         <source>&apos;{input_title}&apos; does not have a unique input (&apos;{already_in_input}&apos; is already used as another input).</source>
-        <translation type="unfinished">« {input_title} » ne dispose pas d&apos;un champ de saisie unique (« {already_in_input} » est déjà utilisé comme autre champ de saisie).</translation>
+        <translation>&apos;{input_title}&apos; ne dispose pas d&apos;un champ de saisie unique (&apos;{already_in_input}&apos; est déjà utilisé comme autre champ de saisie).</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="501"/>
@@ -336,7 +336,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="302"/>
         <source>Outputs</source>
-        <translation type="unfinished">Résultats</translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="311"/>
@@ -506,7 +506,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="4"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_organs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur la classe « class_map_part_organs » de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur la classe class_map_part_organs de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="5"/>
@@ -516,7 +516,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="6"/>
         <source>CT</source>
-        <translation type="unfinished">CT</translation>
+        <translation>scanner</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="7"/>
@@ -526,7 +526,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="8"/>
         <source>Trained on class_map_part_organs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Entraîné sur la classe « class_map_part_organs » de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Entraîné sur la classe class_map_part_organs de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="9"/>
@@ -536,7 +536,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="10"/>
         <source>Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Modèle entraîné sur l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Modèle entraîné sur l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="11"/>
@@ -546,7 +546,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="12"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="13"/>
@@ -556,7 +556,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur la classe « class_map_part_vertebrae » de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur la classe class_map_part_vertebrae de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="15"/>
@@ -566,7 +566,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="16"/>
         <source>Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Entraîné sur le sous-ensemble « class_map_part_vertebrae » de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Entraîné sur le sous-ensemble class_map_part_vertebrae de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="17"/>
@@ -661,7 +661,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="35"/>
         <source>Input T2 volume</source>
-        <translation type="unfinished">Volume d’entrée T2</translation>
+        <translation>Volume d’entrée T2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="36"/>
@@ -676,7 +676,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="38"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_ribs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur la classe « class_map_part_ribs » de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur la classe class_map_part_ribs de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="39"/>
@@ -686,7 +686,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="40"/>
         <source>class_map_part_ribs: Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">class_map_part_ribs : Modèle entraîné sur l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>class_map_part_ribs&#xa0;: Modèle entraîné sur l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="41"/>
@@ -696,7 +696,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="42"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur la classe « class_map_part_muscles » de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Basse résolution (3 mm) pour un aperçu rapide. Modèle entraîné sur la classe class_map_part_muscles de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="43"/>
@@ -706,7 +706,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="44"/>
         <source>Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished">Entraîné sur la classe « class_map_part_muscles » de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
+        <translation>Entraîné sur la classe class_map_part_muscles de l&apos;ensemble de données TotalSegmentatorV2. L&apos;image d&apos;entrée est un scanner abdominal, thoracique ou du corps entier.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="45"/>
@@ -716,7 +716,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="46"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_cardiac of TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished">Basse résolution (3 mm) pour un aperçu rapide. Entraînement effectué sur la classe « class_map_part_cardiac » de l&apos;ensemble de données TotalSegmentatorV2.</translation>
+        <translation>Basse résolution (3 mm) pour un aperçu rapide. Entraînement effectué sur la classe class_map_part_cardiac de l&apos;ensemble de données TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="47"/>
@@ -736,7 +736,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished">Basse résolution (3 mm) pour un aperçu rapide. Entraîné sur l&apos;ensemble de données TotalSegmentatorV2.</translation>
+        <translation>Basse résolution (3 mm) pour un aperçu rapide. Entraîné sur l&apos;ensemble de données TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="51"/>
@@ -791,12 +791,12 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
         <source>Brain Tumor Segmentation (BRATS) GLI</source>
-        <translation type="unfinished">Segmentation tumeurs cérébrales (BRATS) GLI</translation>
+        <translation>Segmentation tumeurs cérébrales (BRATS) GLI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="62"/>
         <source>Input T2F volume</source>
-        <translation type="unfinished">Volume d’entrée T2F</translation>
+        <translation>Volume d’entrée T2F</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="63"/>
@@ -806,7 +806,7 @@ Veuillez vérifier adresse, port et connexion.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="64"/>
         <source>Input T1N volume</source>
-        <translation type="unfinished">Volume d’entrée T1N</translation>
+        <translation>Volume d’entrée T1N</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="65"/>
