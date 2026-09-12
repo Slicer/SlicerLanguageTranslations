@@ -16,22 +16,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé API Webplate&#xa0;:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laisser vide pour utiliser la valeur par défaut. Clé API Weblate facultative. Fournissez-la si vous devez accéder à des projets privés ou éviter les limites de débit.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
         <source>Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laisser vide pour utiliser la valeur par défaut (les outils Qt lrelease fournis avec l’installeur de Slicer ou disponibles dans les chemins système). Spécifiez cette option pour utiliser un exécutable Qt lrelease personnalisé.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Direction du texte&#xa0;:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
@@ -128,7 +128,7 @@
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
         <oldsource>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</oldsource>
-        <translation type="unfinished">Chemin vers l&apos;exécutable Qt lrelease. Laissez vide pour utiliser le chemin par défaut (celui inclus avec l&apos;installateur Slicer ou disponible dans les chemins système).</translation>
+        <translation>Liste des dossiers où l&apos;application recherche des traductions. Ceci est à titre informatif, les chemins ne peuvent pas être modifiés.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="62"/>
@@ -191,7 +191,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module permet de créer des fichiers de traduction et de les installer localement. Il est utile pour créer et tester des traductions.
+Voir plus d’informations dans la &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;documentation de l’extension&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -202,9 +205,8 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </oldsource>
-        <translation type="unfinished">
-Ce module peut créer des fichiers de traduction et les installer localement. Il est utile pour créer et tester des traductions. 
-Pour plus d&apos;informations, consultez la &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;documentation de l&apos;extension&lt;/a&gt;.
+        <translation>
+Le développement de ce module a été partiellement financé par une &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;subvention CZI EOSS&lt;/a&gt;.
 </translation>
     </message>
     <message>
@@ -232,17 +234,17 @@ Pour plus d&apos;informations, consultez la &lt;a href=&quot;https://github.com/
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection automatique</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
         <source>Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation>De gauche à droite</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="269"/>
         <source>Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>De droite à gauche</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="332"/>
@@ -292,7 +294,7 @@ Pour plus d&apos;informations, consultez la &lt;a href=&quot;https://github.com/
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoré. Le fichier téléchargé n’est pas valide.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
