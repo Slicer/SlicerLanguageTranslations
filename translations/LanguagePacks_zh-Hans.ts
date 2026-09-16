@@ -21,7 +21,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
         <source>Leave empty to use deafult. Optional API key for Weblate. Provide this if you need to access private projects or avoid rate limits.</source>
-        <translation type="unfinished">留空即使用默认值。Weblate 的 API 密钥（可选）。若需访问私有项目或规避速率限制，请提供此密钥。</translation>
+        <translation>留空即使用默认值。Weblate API 密钥（可选）。若需访问私有项目或规避速率限制，请提供此密钥。</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
