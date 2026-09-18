@@ -8612,7 +8612,8 @@ The DataProbe module is used to get information about the current RAS position b
 indicated by the mouse position.
 </source>
         <translation>
-DataProbe-modulen används för att få information om den aktuella RAS-positionen som indikeras av musens position.
+DataProbe-modulen används för att få information om den aktuella RAS-positionen som
+indikeras av musens position.
 </translation>
     </message>
     <message>
