@@ -9308,7 +9308,7 @@ Du kan spara kamerans position när som helst genom att klicka på &quot;Save ca
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="30"/>
         <source>Line Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjeprofil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="34"/>
@@ -9347,12 +9347,12 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="20"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="23"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parametrar</translation>
+        <translation>Parametrar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="29"/>
         <source>Input Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatavolym:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="36"/>
@@ -9362,27 +9362,27 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="72"/>
         <source>Input Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatalinje:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="79"/>
         <source>Line Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjeupplösning:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="86"/>
         <source>Number of points to sample along the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal punkter att sampla längs linjen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="114"/>
         <source>Pick line or curve to take image samples along.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj den linje eller kurva längs vilken bildvärden ska samplas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="134"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="140"/>
@@ -9392,12 +9392,12 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="146"/>
         <source>Output Intensities Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatatabell för intensiteter:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="153"/>
         <source>Pick the table that will store the intensity and distance values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj tabellen som ska lagra intensitets- och avståndsvärden.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="176"/>
@@ -9407,78 +9407,78 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="186"/>
         <source>Output Intensities Plot Series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramserie för utdataintensiteter:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="193"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj vilken diagramserie algoritmen ska använda för utdata.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="216"/>
         <source>Create new plot</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nytt diagram</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="226"/>
         <source>Plot Proportional Distance (%):</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa proportionellt avstånd i diagram (%):</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="233"/>
         <source>If checked, then distance along the line in plot is not absolute, but the percent distance from the start of the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om detta är markerat visas avståndet längs linjen i diagrammet som procent av avståndet från linjens början, inte som ett absolut avstånd.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="246"/>
         <source>Show plot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa diagram:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="253"/>
         <source>If checked, then the intensity profile plot is automatically shown when the intensity profile is updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om detta är markerat visas intensitetsprofildiagrammet automatiskt när intensitetsprofilen uppdateras.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="269"/>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="275"/>
         <source>Peak Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Toppdetektering</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="281"/>
         <source>Peaks Output Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatatabell för toppar:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="288"/>
         <source>Pick the output table that will store information about each detected peak.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj utdatatabellen som ska lagra information om varje detekterad topp.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="299"/>
         <source>Peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Toppar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="321"/>
         <source>Minimum Peak Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta toppbredd:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="328"/>
         <source>Minimum width of the peak. Use higher values to reject small peaks detected due to image noise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toppens minsta bredd. Använd högre värden för att förkasta små toppar som detekterats på grund av bildbrus.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="347"/>
         <source>Height for Width Measurement:</source>
-        <translation type="unfinished"></translation>
+        <translation>Höjd för breddmätning:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="354"/>
         <source>Height at which the peak width is measured. 50% computes full width at half maximum. Larger value means that the height is measured near the top of the peak.</source>
-        <translation type="unfinished"></translation>
+        <translation>Höjden där toppens bredd mäts. 50 % beräknar full bredd vid halva maxvärdet. Ett större värde innebär att höjden mäts närmare toppens högsta punkt.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="357"/>
@@ -9488,17 +9488,17 @@ This file was originally developed by Andras Lasso (PerkLab) and was partially f
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="379"/>
         <source>Peak is Maximum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Toppen är ett maxvärde:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="386"/>
         <source>If checked then peaks are local maximum values. If unchecked then peaks are local minimum values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om detta är markerat är topparna lokala maxvärden. Annars är topparna lokala minvärden.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="405"/>
         <source>Compute intensity profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna intensitetsprofil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="414"/>
@@ -13651,12 +13651,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="424"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="491"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacitet:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Synlighet:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
@@ -13681,7 +13681,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avancerat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
@@ -13706,12 +13706,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
         <source>Font:</source>
-        <translation type="unfinished">Font:</translation>
+        <translation>Teckensnitt:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacitet</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
@@ -13721,7 +13721,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+        <translation>Välj de vyer där denna nod ska visas. Om ingen väljs visas den i alla 3D- och 2D-vyer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
@@ -13746,7 +13746,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vy:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
@@ -13786,7 +13786,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
         <source>3D Display</source>
-        <translation type="unfinished">3D Display</translation>
+        <translation>3D-visning</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
@@ -13811,18 +13811,18 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="550"/>
         <source>Direction Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Riktningsmarkörer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="568"/>
         <source>Show Direction Markers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa riktningsmarkörer:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="571"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="578"/>
         <source>Show or hide directional arrow markers along curve and line markups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa eller dölj pilmarkörer längs kurv- och linjemarkeringar.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="588"/>
@@ -13833,66 +13833,66 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="591"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="598"/>
         <source>Show direction markers in 3D views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa riktningsmarkörer i 3D-vyer. Kräver att ”Visa riktningsmarkörer” är aktiverat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="608"/>
         <source>2D Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>2D-synlighet:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="611"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="618"/>
         <source>Show direction markers in 2D slice views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa riktningsmarkörer i 2D-skivvyer. Kräver att ”Visa riktningsmarkörer” är aktiverat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="628"/>
         <source>Slice Intersection Points:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärningspunkter med skivor:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="631"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="638"/>
         <source>Show markers at positions where the curve/line crosses the current slice plane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa markörer där kurvan eller linjen korsar det aktuella skivplanet.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="648"/>
         <source>Reverse Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Omvänd riktning:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="651"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="658"/>
         <source>Reverse the direction of the arrow markers so they point in the opposite direction along the curve or line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd pilmarkörernas riktning så att de pekar åt motsatt håll längs kurvan eller linjen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="668"/>
         <source>Marker Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markörstorlek:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="671"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="678"/>
         <source>Size of each direction marker relative to the physical line thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation>Storleken på varje riktningsmarkör i förhållande till den fysiska linjetjockleken.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="703"/>
         <source>Marker Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Marköravstånd:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="706"/>
         <source>Distance between direction markers relative to the marker height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avståndet mellan riktningsmarkörer i förhållande till markörhöjden.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="713"/>
         <source>Distance between consecutive direction markers relative to the marker height. 100% = markers touch, 200% = one gap, 300% = two gaps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avståndet mellan efterföljande riktningsmarkörer i förhållande till markörhöjden. 100 % = markörerna vidrör varandra, 200 % = ett mellanrum, 300 % = två mellanrum.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="744"/>
@@ -16851,7 +16851,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="737"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="740"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">Rotate to volume plane</translation>
+        <translation>Rotera till volymplan</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="756"/>
@@ -16882,7 +16882,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="796"/>
         <source>Cube</source>
-        <translation type="unfinished">Cube</translation>
+        <translation>Kub</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="804"/>
@@ -16892,7 +16892,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="812"/>
         <source>Axes</source>
-        <translation type="unfinished">Axes</translation>
+        <translation>Axlar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="820"/>
@@ -16917,7 +16917,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="857"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automatiskt</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="865"/>
@@ -16997,7 +16997,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1015"/>
         <source>Show in 3D</source>
-        <translation type="unfinished">Show in 3D</translation>
+        <translation>Visa i 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
@@ -17012,12 +17012,12 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1029"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+        <translation>Lås omformateringswidgetens normal mot kamerans normal. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1037"/>
         <source>No orientation marker</source>
-        <translation type="unfinished">No orientation marker</translation>
+        <translation>Ingen orienteringsmarkör</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1040"/>
@@ -17062,22 +17062,22 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1084"/>
         <source>Hide ruler</source>
-        <translation type="unfinished">Hide ruler</translation>
+        <translation>Dölj linjal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1092"/>
         <source>Thin</source>
-        <translation type="unfinished">Thin</translation>
+        <translation>Tunn</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1095"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished">Show thin ruler</translation>
+        <translation>Visa tunn linjal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1103"/>
         <source>Thick</source>
-        <translation type="unfinished">Thick</translation>
+        <translation>Tjock</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1106"/>
@@ -17087,7 +17087,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1114"/>
         <source>White ruler</source>
-        <translation type="unfinished">White ruler</translation>
+        <translation>Vit linjal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1122"/>
@@ -17097,12 +17097,12 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1130"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished">Yellow ruler</translation>
+        <translation>Gul linjal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1138"/>
         <source>Max</source>
-        <translation type="unfinished">Max</translation>
+        <translation>Max</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1141"/>
@@ -30037,12 +30037,12 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished">Volume Rendering</translation>
+        <translation>Volymrendering</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="126"/>
@@ -30057,17 +30057,17 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="170"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vy:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="183"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Visning</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighet:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="235"/>
@@ -30087,7 +30087,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="278"/>
         <source>Fit to Volume</source>
-        <translation type="unfinished">Fit to Volume</translation>
+        <translation>Anpassa till volym</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="291"/>
@@ -30102,12 +30102,12 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="340"/>
         <source>Clipping:</source>
-        <translation type="unfinished">Clipping:</translation>
+        <translation>Klippning:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="347"/>
         <source>Clip node:</source>
-        <translation type="unfinished">Clip node:</translation>
+        <translation>Klippnod:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
@@ -30117,12 +30117,12 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="320"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Automatiskt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="357"/>
         <source>Blank value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomvärde:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="471"/>
@@ -30167,7 +30167,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="593"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished">Auto-release resources:</translation>
+        <translation>Frigör resurser automatiskt:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="600"/>
@@ -30202,18 +30202,19 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="511"/>
         <source>Clipping disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klippning är inaktiverad.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="515"/>
         <source>Using fast clipping method.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använder snabb klippmetod.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModuleWidget.cxx" line="520"/>
         <source>Using slow clipping method.
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Använder långsam klippmetod.
+%1</translation>
     </message>
 </context>
 <context>
