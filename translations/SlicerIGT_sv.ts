@@ -1083,108 +1083,108 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="99"/>
         <source>Tip radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spetsradie:</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="106"/>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Längd: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="113"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="403"/>
         <source>Radius: </source>
-        <translation type="unfinished"></translation>
+        <translation>Radie: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="120"/>
         <source>Depth markers: </source>
-        <translation type="unfinished"></translation>
+        <translation>Djupmarkörer: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="133"/>
         <source>Create needle</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nål</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="165"/>
         <source>Coordinate system model</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinatsystemmodell</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="177"/>
         <source>Create coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa koordinatsystem</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="184"/>
         <source>Axis length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Axellängd: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="191"/>
         <source>Thickness: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tjocklek: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="239"/>
         <source>Cube model</source>
-        <translation type="unfinished"></translation>
+        <translation>Kubmodell</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="264"/>
         <source>R-L length: </source>
-        <translation type="unfinished"></translation>
+        <translation>R–L-längd: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="277"/>
         <source>Create cube</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa kub</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="284"/>
         <source>S-I length: </source>
-        <translation type="unfinished"></translation>
+        <translation>S–I-längd: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="291"/>
         <source>A-P length: </source>
-        <translation type="unfinished"></translation>
+        <translation>A–P-längd: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="339"/>
         <source>Cylinder model</source>
-        <translation type="unfinished"></translation>
+        <translation>Cylindermodell</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="370"/>
         <source>Create cylinder</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa cylinder</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="377"/>
         <source>Height: </source>
-        <translation type="unfinished"></translation>
+        <translation>Höjd: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="413"/>
         <source>Sphere model</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfärmodell</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="425"/>
         <source>Create sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa sfär</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="454"/>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radie:</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="68"/>
         <source>Module for creating simple shapes, such as sphere, cylinder, prism, needle, and coordinate system axes.For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul för att skapa enkla former som sfärer, cylindrar, prismor, nålar och koordinatsystemaxlar. Hjälp om hur modulen används finns på &lt;a href=&quot;http://www.slicerigt.org&quot;&gt;SlicerIGT:s webbplats&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
@@ -1194,7 +1194,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
         <source>Create Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa modeller</translation>
     </message>
 </context>
 <context>
@@ -1202,102 +1202,102 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulmall</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="26"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visning</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
         <source>From fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Från fiducialpunkter</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="65"/>
         <source>To fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Till fiducialpunkter</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="77"/>
         <source>Place fiducials by using position component of transforms. Parent transforms are applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Placera fiducialpunkter med positionen från transformeringar. Överordnade transformeringar tillämpas.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="80"/>
         <source>Place fiducials using transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Placera fiducialpunkter med transformeringar</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="140"/>
         <source>Click when tracked device tip is placed at a fiducial point</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka när den spårade enhetens spets placeras vid en fiducialpunkt</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="143"/>
         <source>Place &apos;From&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Placera ”Från”</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="153"/>
         <source>Place &apos;To&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Placera ”Till”</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="169"/>
         <source>Registration result (From-&gt;To) transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Registreringsresultat: transformering från Från till Till</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="204"/>
         <source>Result transform type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ av resultattransformering:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="217"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="233"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Likhet</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="246"/>
         <source>Warping</source>
-        <translation type="unfinished"></translation>
+        <translation>Deformation</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="257"/>
         <source>Point Matching Method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metod för punktmatchning:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="269"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Beräkna utdatastransformering från fiducialpunkter. Markera kryssrutan för automatisk uppdatering.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="272"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="285"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="301"/>
         <source>Preview transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsgranska transformering</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="83"/>
         <source>Register images, models, or any other nodes to each other using manually placed landmark points. Rigid, affine, and warping transforms are supported. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrera bilder, modeller eller andra noder mot varandra med manuellt placerade landmärken. Stela, affina och deformerande transformeringar stöds. Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.org&quot;&gt;SlicerIGT:s webbplats&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
@@ -1307,7 +1307,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
         <source>Fiducial Registration Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Guide för fiducialregistrering</translation>
     </message>
 </context>
 <context>
@@ -1316,17 +1316,17 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="162"/>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="173"/>
         <source>Place fiducial corresponding to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Placera fiducialpunkt som motsvarar %1</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="208"/>
         <source>Point indices in the &quot;From&quot; list match those in the &quot;To&quot; list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktindex i listan ”Från” matchar dem i listan ”Till”.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="211"/>
         <source>EXPERIMENTAL. Point pairing between the two lists will be computed automatically. This feature is intended only for rigid and similarity transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>EXPERIMENTELLT. Punktparningen mellan de två listorna beräknas automatiskt. Funktionen är endast avsedd för stela och likhetstransformeringar.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="214"/>
