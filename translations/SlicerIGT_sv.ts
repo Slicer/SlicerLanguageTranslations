@@ -2262,22 +2262,22 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="536"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="546"/>
         <source>Input &apos;Changed&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata: nod för &apos;ändrad&apos;-transformering:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="553"/>
         <source>Input Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nod för indatatransformering:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="92"/>
         <source>This module allows combining, inverting, stabilizing, termporal smoothing of transforms in real-time. For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Med den här modulen kan transformeringar kombineras, inverteras, stabiliseras och tidsutjämnas i realtid. Mer information finns på &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT-projektets webbplats&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="99"/>
@@ -2287,7 +2287,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.h" line="48"/>
         <source>Transform Processor</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformeringsbearbetning</translation>
     </message>
 </context>
 <context>
@@ -2295,48 +2295,48 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="97"/>
         <source>Compute the quaternion average of all Source transforms provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna kvaternionmedelvärdet för alla angivna källtransformeringar.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="99"/>
         <source>Compute a copy of the rotation from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna en kopia av rotationen från källan till referensen.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="101"/>
         <source>Compute a copy of the translation from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna en kopia av förflyttningen från källan till referensen.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="103"/>
         <source>Compute a copy of the full transform from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna en kopia av den fullständiga transformeringen från källan till referensen.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="105"/>
         <source>Compute the inverse of transform to parent, and store it in another node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna inversen av transformeringen till överordnad nod och lagra den i en annan nod.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="107"/>
         <source>Compute a constrained version of an Source transform, the translation and z direction are preserved but the other axes resemble the Target coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna en begränsad version av en källtransformering; förflyttningen och z-riktningen bevaras, medan de andra axlarna liknar målkoordinatsystemet.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="109"/>
         <source>Compute a stabilized transform by low-pass filtering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna en stabiliserad transformering med lågpassfiltrering.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="398"/>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="415"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="406"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera automatiskt</translation>
     </message>
 </context>
 <context>
@@ -2344,47 +2344,47 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="26"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="32"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="40"/>
         <source>Ultrasound image: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ultraljudsbild: </translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Reglage</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="84"/>
         <source>Add snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ögonblicksbild</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="93"/>
         <source>Preserve image window and level attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevara bildens fönster- och nivåattribut</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="109"/>
         <source>Clear snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa ögonblicksbilder</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="68"/>
         <source>Module for taking a snapshot of a position tracked ultrasound image and display it as a model node. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul för att ta en ögonblicksbild av en positionsspårad ultraljudsbild och visa den som en modellnod. Hjälp om hur modulen används finns på &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT:s webbplats&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
@@ -2394,7 +2394,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
         <source>Ultrasound Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ögonblicksbilder från ultraljud</translation>
     </message>
 </context>
 <context>
@@ -2402,12 +2402,12 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="122"/>
         <source>This action will delete all snapshots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här åtgärden tar bort alla ögonblicksbilder.</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="123"/>
         <source>Continue with this action?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du fortsätta?</translation>
     </message>
 </context>
 <context>
@@ -2415,265 +2415,265 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="22"/>
         <source>Volume reconstruction node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volymrekonstruktionsnod:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="43"/>
         <source>Volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Volymrekonstruktion</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="60"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="376"/>
         <source>Input sequence browser containing the images and transforms used for volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatasekvensbläddrare med bilderna och transformeringarna som används för volymrekonstruktion</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="63"/>
         <source>Input sequence browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatasekvensbläddrare:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="70"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="80"/>
         <source>Output reconstructed volume node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nod för rekonstruerad utdatavolym</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="73"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nod för utdatavolym:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="98"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="116"/>
         <source>Region of interest in which the volume should be reconstructed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intresseområde där volymen ska rekonstrueras.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="101"/>
         <source>ROI node:</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI-nod:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="138"/>
         <source>ROI node visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighet för ROI-nod</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="161"/>
         <source>Output image spacing for each dimension of the reconstructed volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatabildens avstånd i varje dimension för den rekonstruerade volymen.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="164"/>
         <source>Output spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdataavstånd:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="173"/>
         <source>Output image spacing for &quot;I&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatabildens avstånd i dimensionen ”I” för den rekonstruerade volymen</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="189"/>
         <source>Output image spacing for &quot;J&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatabildens avstånd i dimensionen ”J” för den rekonstruerade volymen</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="205"/>
         <source>Output image spacing for &quot;K&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatabildens avstånd i dimensionen ”K” för den rekonstruerade volymen</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="223"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="233"/>
         <source>Interpolation mode used for performing the volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpoleringsläge för volymrekonstruktion</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="226"/>
         <source>Interpolation mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpoleringsläge:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="240"/>
         <source>Optimization mode (turn off optimization only if it is not stable on your architecture).</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimeringsläge (stäng av optimeringen endast om den inte är stabil på din arkitektur).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="243"/>
         <source>Optimization mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimeringsläge:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="253"/>
         <source>Optimization mode (turn off optimization only if it is not stable on your architecture)</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimeringsläge (stäng av optimeringen endast om den inte är stabil på din arkitektur)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="260"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="270"/>
         <source>Method for compounding overlapping input pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Metod för att sammanfoga överlappande indatapixlar</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="263"/>
         <source>Compounding mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanfogningsläge:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="277"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="287"/>
         <source>Indicates if hole filling should be applied on reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger om hålfyllning ska tillämpas på den rekonstruerade volymen</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="280"/>
         <source>Fill holes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll hål:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="297"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="307"/>
         <source>Number of threads used for processing the data (Choose 0 for maximum speed). The reconstruction result is slightly different if more than one thread is used because due to interpolation and rounding errors is influenced by the order the pixels are processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal trådar som används för att bearbeta data (välj 0 för högsta hastighet). Rekonstruktionsresultatet skiljer sig något om fler än en tråd används, eftersom interpolerings- och avrundningsfel påverkas av ordningen pixlarna bearbetas i.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="300"/>
         <source>Number of threads:</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal trådar:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="317"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="327"/>
         <source>Only every N images from the input will be used in the reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast var N:e bild från indata används i rekonstruktionen</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="320"/>
         <source>Skip interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa över intervall:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="334"/>
         <source>Live update interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervall för direktuppdatering:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="344"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="354"/>
         <source>Input volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nod för indatavolym:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="394"/>
         <source>Input method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatametod:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="403"/>
         <source>Recorded sequence reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekonstruktion av inspelad sekvens</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="413"/>
         <source>Live volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktvolymrekonstruktion</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="451"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskärning</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="460"/>
         <source> Crop rectangle origin (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> Ursprung för beskärningsrektangel (i pixlar).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="463"/>
         <source>Clip rectangle origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursprung för beskärningsrektangel:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="475"/>
         <source> Crop rectangle origin X component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> X-komponent för beskärningsrektangelns ursprung (i pixlar).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="491"/>
         <source> Crop rectangle origin Y component(in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> Y-komponent för beskärningsrektangelns ursprung (i pixlar).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="506"/>
         <source>Crop rectangle size (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek på beskärningsrektangel (i pixlar).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="509"/>
         <source>Clip rectangle size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek på beskärningsrektangel:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="521"/>
         <source>Crop rectangle size X component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>X-komponent för beskärningsrektangelns storlek (i pixlar).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="534"/>
         <source>Crop rectangle size Y component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-komponent för beskärningsrektangelns storlek (i pixlar).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="555"/>
         <source>Fan angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Solfjädervinklar</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="561"/>
         <source>Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast området inom de två solfjädervinklarna rekonstrueras</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="564"/>
         <source>Fan angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Solfjädervinkel:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="573"/>
         <source>First fan angle used for clipping. Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>Första solfjädervinkeln som används för beskärning. Endast området inom de två solfjädervinklarna rekonstrueras</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="580"/>
         <source>Second fan angle used for clipping. Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>Andra solfjädervinkeln som används för beskärning. Endast området inom de två solfjädervinklarna rekonstrueras</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="600"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="607"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="93"/>
         <source>This is a module for reconstructing image volumes from sequences. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här är en modul för att rekonstruera bildvolymer från sekvenser. Om du har frågor eller stöter på ett problem kan du rapportera det på &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub-sidan&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="109"/>
