@@ -840,91 +840,91 @@ på grund av:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
         <source>Remove selected series from database</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort vald serie från databasen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="271"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Reparera</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="274"/>
         <source>Check whether all the files associated with images in the local Database are available on the disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollera om alla filer som hör till bilder i den lokala databasen är tillgängliga på disken.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="213"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatering av DICOM-schema</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="216"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Initierar…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="307"/>
         <source>Add Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till länk</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="308"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="310"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange om filerna ska kopieras till den lokala databasens katalog eller om endast länkar ska skapas.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="312"/>
         <source>Import Directory Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Importläge för katalog:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="328"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera DICOM-filer från katalog …</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="333"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-filmetadata</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="526"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa en ny databas i mappen %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="582"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="610"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ingen giltig DICOM-databas hittades i mappen %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="630"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>En inkompatibel version av DICOM-databasen hittades i mappen %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="772"/>
         <source>Database Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Databasreparation</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="802"/>
         <source>All the files in the local database are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer i den lokala databasen är tillgängliga.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
@@ -934,17 +934,21 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Filerna för följande serie är inte tillgängliga på disken: 
+Patientnamn: %1
+Undersökningsbeskrivning: %2
+Seriebeskrivning: %3
+Vill du ta bort serien från DICOM-databasen?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1053"/>
         <source>Do you want to delete the following selected items?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du ta bort följande valda objekt?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1074"/>
         <source>(and %1 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>(och %1 till)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1106"/>
@@ -952,83 +956,83 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1220"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1298"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1138"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1212"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1290"/>
         <source>View DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa DICOM-metadata</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1141"/>
         <source>View DICOM metadata of %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa DICOM-metadata för %1 valda patienter</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1149"/>
         <source>Delete %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort %1 valda patienter</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1154"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1228"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1306"/>
         <source>Export to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera till filsystemet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1157"/>
         <source>Export %1 selected patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera %1 valda patienter till filsystemet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1162"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1236"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1314"/>
         <source>Send to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka till DICOM-server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1165"/>
         <source>Send %1 selected patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka %1 valda patienter till DICOM-server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1215"/>
         <source>View DICOM metadata of %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa DICOM-metadata för %1 valda undersökningar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1223"/>
         <source>Delete %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort %1 valda undersökningar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1231"/>
         <source>Export %1 selected studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera %1 valda undersökningar till filsystemet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1239"/>
         <source>Send %1 selected studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka %1 valda undersökningar till DICOM-server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1293"/>
         <source>View DICOM metadata of %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa DICOM-metadata för %1 valda serier</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1301"/>
         <source>Delete %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort %1 valda serier</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1309"/>
         <source>Export %1 selected series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera %1 valda serier till filsystemet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1317"/>
