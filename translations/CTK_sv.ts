@@ -1834,119 +1834,119 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="341"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="464"/>
         <source>completed</source>
-        <translation type="unfinished"></translation>
+        <translation>slutförd</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="507"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="591"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="511"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="593"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="515"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="595"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Förlopp</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="519"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="597"/>
         <source>Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum och tid</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="523"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="599"/>
         <source>Starting Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Startdatum och -tid</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="527"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="601"/>
         <source>Completion Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutdatum och -tid</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="531"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="603"/>
         <source>DICOM Level</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-nivå</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="535"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="605"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Patient-ID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="539"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="607"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientnamn</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="543"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="609"/>
         <source>Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Födelsedatum</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="547"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="611"/>
         <source>Study UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Undersöknings-UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="551"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="613"/>
         <source>Series UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Serie-UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="555"/>
         <source>SOPInstance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>SOP-instans-UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="559"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="617"/>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="563"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="619"/>
         <source>Job UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobb-UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="567"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="621"/>
         <source>Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Klass</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="571"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="623"/>
         <source>Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>Tråd</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="575"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="625"/>
         <source>Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="615"/>
         <source>SOP UID</source>
-        <translation type="unfinished"></translation>
+        <translation>SOP-UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="314"/>
@@ -1954,7 +1954,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1293"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>in-progress</source>
-        <translation type="unfinished"></translation>
+        <translation>pågår</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="305"/>
@@ -1963,7 +1963,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1294"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>köad</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="222"/>
@@ -1971,7 +1971,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1295"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
         <source>initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>initierad</translation>
     </message>
 </context>
 <context>
@@ -1979,7 +1979,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMListenerWidget.ui" line="14"/>
         <source>DICOM Listener</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-lyssnare</translation>
     </message>
 </context>
 <context>
@@ -1988,12 +1988,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="511"/>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="517"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="513"/>
         <source>No description</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen beskrivning</translation>
     </message>
 </context>
 <context>
@@ -2001,47 +2001,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="14"/>
         <source>DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-metadata</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
         <source>File path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filsökväg:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="44"/>
         <source>Copy the file full path to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera filens fullständiga sökväg till urklipp.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="47"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera sökväg</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filtrera visade metadata utifrån innehållet i kolumnerna Tagg, Attribut och Värde.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Enkel sökning: &lt;/span&gt;ange valfri text för att endast visa de objekt som innehåller texten. Använd jokertecknen ? och * för att representera &lt;span style=&quot; font-style:italic;&quot;&gt;valfritt &lt;/span&gt;enstaka tecken eller teckensekvenser.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sökning med reguljära uttryck (för avancerade användare):&lt;/span&gt; Ange &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; följt av ett reguljärt uttryck. Om du till exempel vill visa tre specifika taggar anger du: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandera alla</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="82"/>
         <source>Collapse all</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll ihop alla</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="89"/>
         <source>Copy to clipboard metadata of this file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera filens metadata till urklipp</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="92"/>
         <source>Copy metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera metadata</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="99"/>
