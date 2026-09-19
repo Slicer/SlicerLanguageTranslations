@@ -8714,9 +8714,9 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
         <translation>
-Detta arbete stöds av PAR-07-249: R01CA131718 NA-MIC Virtuell koloskopi
-(Se https://www.na-mic.org/Wiki/inde &lt;a&gt;x.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
-NA-MIC, NAC, BIRN, NCIGT och Slicer Community.
+Detta arbete stöds av PAR-07-249: R01CA131718 NA-MIC virtuell koloskopi
+(Se &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
+NA-MIC, NAC, BIRN, NCIGT och Slicer-communityn.
 </translation>
     </message>
     <message>
@@ -8959,7 +8959,7 @@ Du kan spara kamerans position när som helst genom att klicka på &quot;Save ca
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="141"/>
         <source>Extension Editor</source>
-        <translation>Redaktör för tillägg</translation>
+        <translation>Redigerare för tillägg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"/>
@@ -10443,7 +10443,7 @@ och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="14"/>
         <source>Segment Editor</source>
-        <translation>Segmentredaktör</translation>
+        <translation>Segmentredigerare</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="18"/>
@@ -20994,7 +20994,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Frågor och önskemål om funktioner:&lt;/span&gt; besök &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bugg rapporter: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;posta ett nytt ämne i Slicer-forumet&lt;/span&gt;&lt;/a&gt; för att berätta om ditt problem eller skicka in en felrapport till &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer buggspårare&lt;/span&gt;&lt;/a&gt;. Beskriv de steg som leder till felet och bifoga även loggmeddelanden.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Varning - om du arbetar med patientdata:&lt;/span&gt; Kontrollera att loggmeddelandena inte innehåller någon information som kan identifiera en patient. Skicka loggmeddelandena till specifika personer i stället för att dela dem offentligt på en e-postlista eller webbplats.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Frågor och funktionsönskemål:&lt;/span&gt; besök &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer-forumet&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Felrapporter: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;skapa ett nytt ämne i Slicer-forumet&lt;/span&gt;&lt;/a&gt; för att berätta om problemet eller lämna en felrapport i &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicers ärendehanterare&lt;/span&gt;&lt;/a&gt;. Beskriv stegen som ledde till felet och bifoga loggmeddelanden.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Varning – om du arbetar med patientdata:&lt;/span&gt; kontrollera att loggmeddelandena inte innehåller information som kan identifiera en patient. Skicka loggmeddelandena till specifika personer i stället för att dela dem offentligt på en e-postlista eller webbplats.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -21629,7 +21629,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2017"/>
         <source>The extension may not function properly.</source>
-        <translation>Det kan hända att anknytningen inte fungerar som den ska.</translation>
+        <translation>Tillägget kanske inte fungerar korrekt.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2018"/>
