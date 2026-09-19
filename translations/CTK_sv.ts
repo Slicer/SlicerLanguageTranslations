@@ -880,7 +880,7 @@ på grund av:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="310"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation>Ange om filerna ska kopieras till den lokala databasens katalog eller om endast länkar ska skapas.</translation>
+        <translation>Ange om filerna ska kopieras till den lokala databasens katalog eller om endast länkar ska skapas?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="312"/>
@@ -3032,7 +3032,7 @@ Om inga filter har angetts skickas en undersökningsfråga för den patient som 
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="483"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation>Ange om filerna ska kopieras till den lokala databasens katalog eller om endast länkar ska skapas.</translation>
+        <translation>Ange om filerna ska kopieras till den lokala databasens katalog eller om endast länkar ska skapas?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="485"/>
@@ -5195,7 +5195,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="193"/>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="216"/>
         <source> px</source>
-        <translation> bildpunkter</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="203"/>
@@ -5235,7 +5235,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="172"/>
         <source>Height of widget: %1 is invalid. Check widget dimensions. Using default aspect ratio (1.0).</source>
-        <translation>Widgetens höjd %1 är ogiltig. Kontrollera widgetens dimensioner. Standardbildförhållandet (1,0) används.</translation>
+        <translation>Widgetens höjd: %1 är ogiltig. Kontrollera widgetens dimensioner. Standardbildförhållandet (1,0) används.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="175"/>
@@ -5245,7 +5245,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="194"/>
         <source>Aspect ratio: %1 is invalid. Check widget dimensions.</source>
-        <translation>Bildförhållandet %1 är ogiltigt. Kontrollera widgetens dimensioner.</translation>
+        <translation>Bildförhållande: %1 är ogiltigt. Kontrollera widgetens dimensioner.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="196"/>
@@ -5268,7 +5268,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSearchBox.cpp" line="72"/>
         <source>Search...</source>
-        <translation>Sök...</translation>
+        <translation>Sök…</translation>
     </message>
 </context>
 <context>
@@ -5645,7 +5645,7 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKScalarsToColorsComboBox.cpp" line="65"/>
         <source>Select a color transfer function...</source>
-        <translation>Välj en färgöverföringsfunktion...</translation>
+        <translation>Välj en färgöverföringsfunktion…</translation>
     </message>
 </context>
 <context>
@@ -6026,7 +6026,7 @@ Vill du återställa inställningarna?</translation>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
         <source>Select a xnat file, resource, scan, or scan folder to download...</source>
-        <translation>Välj en XNAT-fil, resurs, skanning eller skanningsmapp att hämta...</translation>
+        <translation>Välj en XNAT-fil, resurs, skanning eller skanningsmapp att hämta…</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"/>
