@@ -2251,47 +2251,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="14"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="48"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="51"/>
         <source>Search by Person Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök efter personnamn</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="61"/>
         <source>Study</source>
-        <translation type="unfinished"></translation>
+        <translation>Undersökning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="64"/>
         <source>Search in Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök i undersökningsbeskrivning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="74"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="77"/>
         <source>Search in Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök i seriebeskrivning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="87"/>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="90"/>
         <source>Search by Person ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök efter person-ID</translation>
     </message>
 </context>
 <context>
@@ -2299,18 +2299,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="103"/>
         <source>Got move request</source>
-        <translation type="unfinished"></translation>
+        <translation>Tog emot flyttbegäran</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="134"/>
         <source>Got STORE request for %1</source>
         <extracomment>%1 is an instance UID</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tog emot STORE-begäran för %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
         <source>Got CGET response</source>
-        <translation type="unfinished"></translation>
+        <translation>Tog emot CGET-svar</translation>
     </message>
 </context>
 <context>
@@ -2318,7 +2318,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesDelegate.cpp" line="292"/>
         <source>Unknown Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd serie</translation>
     </message>
 </context>
 <context>
@@ -2326,62 +2326,62 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="14"/>
         <source>Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverlista</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="20"/>
         <source>Calling AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Anropande AE-titel</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="30"/>
         <source>Add Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="37"/>
         <source>Storage AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagrings-AE-titel</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="47"/>
         <source>Storage Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagringsport</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="57"/>
         <source>Remove Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="64"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servrar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="80"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="85"/>
         <source>AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>AE-titel</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="90"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adress</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="95"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="100"/>
         <source>CGET</source>
-        <translation type="unfinished"></translation>
+        <translation>CGET</translation>
     </message>
 </context>
 <context>
@@ -2389,54 +2389,54 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="14"/>
         <source>Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverlista</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="41"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="185"/>
         <source>Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagring</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="67"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="105"/>
         <source>11112</source>
-        <translation type="unfinished"></translation>
+        <translation>11112</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="81"/>
         <source>Enable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="98"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="53"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1283"/>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiv</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="74"/>
         <source>AETitle: </source>
-        <translation type="unfinished"></translation>
+        <translation>AE-titel: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="88"/>
         <source>CTKSTORE</source>
-        <translation type="unfinished"></translation>
+        <translation>CTKSTORE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="115"/>
         <source>Servers   </source>
-        <translation type="unfinished"></translation>
+        <translation>Servrar   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="170"/>
