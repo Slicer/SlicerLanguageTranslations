@@ -14337,7 +14337,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
         <source>Hide part of the model according to Clipping Planes settings.</source>
-        <translation>Dölj en del av modellen enligt inställningarna för klippplan.</translation>
+        <translation>Dölj en del av modellen enligt inställningarna för klippplanen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="129"/>
@@ -22634,7 +22634,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="660"/>
         <source>3D only</source>
-        <translation>endast 3D</translation>
+        <translation>Endast 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="672"/>
@@ -27352,7 +27352,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="146"/>
         <source>3D viewer defaults</source>
-        <translation>standardinställningar för 3D-visning</translation>
+        <translation>Standardinställningar för 3D-visning</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="155"/>
@@ -27480,7 +27480,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="135"/>
         <source>3D view axis label visibility</source>
-        <translation>synlighet för axeletikett i 3D-vy</translation>
+        <translation>Synlighet för axeletikett i 3D-vy</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="141"/>
@@ -27500,7 +27500,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="161"/>
         <source>3D depth peeling</source>
-        <translation>peeling med 3D-djup</translation>
+        <translation>Djupskalning i 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="166"/>
@@ -27783,7 +27783,7 @@ Klicka på Cancel om du vill skapa patient-/studiehierarkin manuellt och dra och
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="92"/>
         <source>2D outline visibility</source>
-        <translation>synlighet för 2D-kontur</translation>
+        <translation>Synlighet för 2D-kontur</translation>
     </message>
 </context>
 <context>
@@ -28134,7 +28134,7 @@ Välj plugin för att lägga till noden med namnet
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="137"/>
         <source>2D fill visibility</source>
-        <translation>synlighet för 2D-fyllning</translation>
+        <translation>Synlighet för 2D-fyllning</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="142"/>
