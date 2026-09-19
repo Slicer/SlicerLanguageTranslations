@@ -5544,42 +5544,42 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="208"/>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Belysning</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="217"/>
         <source>Lighting:</source>
-        <translation type="unfinished"></translation>
+        <translation>Belysning:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolering:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="239"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Platt</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="244"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="249"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"/>
         <source>Shading:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skuggning:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"/>
         <source>Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Material</translation>
     </message>
 </context>
 <context>
@@ -5587,7 +5587,7 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"/>
         <source>Size issue ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Storleksproblem …</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="69"/>
@@ -5595,7 +5595,10 @@ alla inställningar till standardvärdena?
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderingsvyns storlek är: bredd: %1 	 höjd: %2 
+Men storleken var:               bredd: %3 	 höjd: %4 
+vid inspelningen. 
+Vill du ersätta den?</translation>
     </message>
 </context>
 <context>
@@ -5604,37 +5607,37 @@ Do you want to replace it ?</source>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="14"/>
         <source>Scalar bar properties</source>
         <oldsource>vtkScalarBarWidget</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaper för skalärfält</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="23"/>
         <source>Display scalar bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa skalärfält</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="30"/>
         <source>Title properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titelegenskaper:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="45"/>
         <source>Labels properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikettegenskaper:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="54"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="64"/>
         <source>Maximum number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximalt antal färger:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="81"/>
         <source>Number of labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal etiketter:</translation>
     </message>
 </context>
 <context>
@@ -5642,7 +5645,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKScalarsToColorsComboBox.cpp" line="65"/>
         <source>Select a color transfer function...</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en färgöverföringsfunktion...</translation>
     </message>
 </context>
 <context>
@@ -5650,62 +5653,62 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="14"/>
         <source>ScalarsToColorsWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>ScalarsToColorsWidget</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="41"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="54"/>
         <source>Point ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt-ID</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="44"/>
         <source>Point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="83"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="96"/>
         <source>X coordinate of the current point</source>
-        <translation type="unfinished"></translation>
+        <translation>X-koordinat för aktuell punkt</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="86"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="103"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="116"/>
         <source>Opacity of the current point</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitet för aktuell punkt</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="106"/>
         <source>O:</source>
-        <translation type="unfinished"></translation>
+        <translation>O:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="129"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="142"/>
         <source>Position of the midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittpunktens position</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="132"/>
         <source>M:</source>
-        <translation type="unfinished"></translation>
+        <translation>M:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="155"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="168"/>
         <source>Sharpness of the midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittpunktens skärpa</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="158"/>
         <source>S:</source>
-        <translation type="unfinished"></translation>
+        <translation>S:</translation>
     </message>
 </context>
 <context>
@@ -5713,32 +5716,32 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="14"/>
         <source>vtkTextProperty</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkTextProperty</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="23"/>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="33"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="43"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitet:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="63"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Teckensnitt:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="71"/>
         <source>Arial</source>
-        <translation type="unfinished"></translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="76"/>
