@@ -3620,12 +3620,12 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="141"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="172"/>
         <source>Show Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa meddelanden</translation>
     </message>
 </context>
 <context>
@@ -3633,17 +3633,17 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="105"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
         <source>Choose</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj</translation>
     </message>
 </context>
 <context>
@@ -3652,7 +3652,7 @@ Data tas inte bort från PACS-servern.
         <location filename="Libs/Widgets/ctkFileDialogEventTranslator.cpp" line="108"/>
         <source>Loading %1 ... </source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Läser in %1 … </translation>
     </message>
 </context>
 <context>
@@ -3660,12 +3660,12 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="41"/>
         <source>Show details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa detaljer…</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="42"/>
         <source>Hide details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj detaljer.</translation>
     </message>
 </context>
 <context>
@@ -3673,12 +3673,12 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.ui" line="25"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.cpp" line="66"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj värdprogram</translation>
     </message>
 </context>
 <context>
@@ -3686,27 +3686,27 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="809"/>
         <source>started</source>
-        <translation type="unfinished"></translation>
+        <translation>startade</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="827"/>
         <source>user stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>stoppades av användaren</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="856"/>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation>slutförd</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="885"/>
         <source>attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>försöket misslyckades</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="914"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>misslyckades</translation>
     </message>
 </context>
 <context>
@@ -3714,102 +3714,102 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="29"/>
         <source>CTK Metatype Service - CommonTK Implementation</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK-metatyptjänst – CommonTK-implementation</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="31"/>
         <source>Unexpected element %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat element %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="32"/>
         <source>Unexpected text %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad text %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
         <source>Missing attribute %1 in tag %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 saknas i taggen %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="34"/>
         <source>Object Class Definition ID not found %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ID för objektklassdefinitionen hittades inte: %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="35"/>
         <source>Default value cannot be null when cardinality is zero.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardvärdet kan inte vara null när kardinaliteten är noll.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
         <source>Missing element %1 (Reference ID = %2.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 saknas (referens-ID = %2.)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="38"/>
         <source>Unexpected exception %1 with message %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat undantag %1 med meddelandet %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="39"/>
         <source>Cannot validate an empty value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det går inte att validera ett tomt värde.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="40"/>
         <source>Value %1 is out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet %1 ligger utanför intervallet.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="41"/>
         <source>Value %1 is out of Option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet %1 ligger utanför alternativet.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="42"/>
         <source>Found too many values in %1 when expecting %2 values.</source>
-        <translation type="unfinished"></translation>
+        <translation>För många värden hittades i %1; %2 värden förväntades.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="43"/>
         <source>Cannot set Option labels or values empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiketter eller värden för alternativ kan inte vara tomma.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="44"/>
         <source>Labels and Values of Option have different sizes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiketter och värden för alternativ har olika storlek.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="45"/>
         <source>Option value %1 is invalid because of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativvärdet %1 är ogiltigt på grund av %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="46"/>
         <source>Defaults value %1 is invalid because of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardvärdet %1 är ogiltigt på grund av %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="48"/>
         <source>Plugin(ID=&quot;%1&quot;, name=&quot;%2&quot;) has no MetaData file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen (ID=”%1”, namn=”%2”) saknar metadatafil.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="49"/>
         <source>OCD(ID=&quot;%1&quot;) cannot support this locale &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>OCD (ID=”%1”) kan inte stödja språkinställningen ”%2”.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="50"/>
         <source>The Tokenizer got invalid data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tokeniseraren fick ogiltiga data.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="51"/>
         <source>Plugin %1 with ID %2 provided a ctkMetaTypeProvider with an invalid property. Property %3 with value %4 was not of the expected type (QString or QStringList) and will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen %1 med ID %2 angav en ctkMetaTypeProvider med en ogiltig egenskap. Egenskapen %3 med värdet %4 hade inte den förväntade typen (QString eller QStringList) och ignoreras.</translation>
     </message>
 </context>
 <context>
