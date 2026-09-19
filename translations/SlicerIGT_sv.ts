@@ -2683,12 +2683,12 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="128"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekvenser</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.h" line="49"/>
         <source>Volume Reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Volymrekonstruktion</translation>
     </message>
 </context>
 <context>
@@ -2696,77 +2696,77 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="129"/>
         <source>Nearest neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Närmaste granne</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="130"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjär</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="132"/>
         <source>Full optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullständig optimering</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="133"/>
         <source>Partial optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Partiell optimering</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="134"/>
         <source>No optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen optimering</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="137"/>
         <source>GPU acceleration (OpenCL)</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU-acceleration (OpenCL)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="140"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Senaste</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="141"/>
         <source>Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Högsta</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="142"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Medelvärde</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="143"/>
         <source>Importance mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Viktmask</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="213"/>
         <source>Volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Volymrekonstruktion</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="215"/>
         <source>Reconstructing volume...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekonstruerar volym…</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="316"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="321"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="330"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -2774,27 +2774,27 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="20"/>
         <source>Reslicing Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Drivrutin för omskärning</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="31"/>
         <source>Advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerade alternativ</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="40"/>
         <source>Show advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa avancerade alternativ</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="75"/>
         <source>This module allows to set reslicing planes by using linear transforms nodes or positions/orientations in image nodes. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Med den här modulen kan omskärningsplan ställas in med noder för linjära transformeringar eller positioner/orienteringar i bildnoder. Hjälp om hur modulen används finns på &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT:s webbplats&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="84"/>
@@ -2804,7 +2804,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
         <source>Volume Reslice Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Drivrutin för volymsnitt</translation>
     </message>
 </context>
 <context>
@@ -2812,7 +2812,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="118"/>
         <source>Displays warning if selected transforms are not continuously updated. It is useful for detecting tracking errors, such as occluded marker or network connection error. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visar en varning om valda transformeringar inte uppdateras kontinuerligt. Funktionen är användbar för att upptäcka spårningsfel, till exempel skymd markör eller nätverksanslutningsfel. Hjälp om hur modulen används finns på &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT:s webbplats&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
@@ -2822,7 +2822,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
         <source>Watchdog</source>
-        <translation type="unfinished"></translation>
+        <translation>Övervakare</translation>
     </message>
 </context>
 <context>
@@ -2830,72 +2830,72 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="37"/>
         <source>Watchdog node: </source>
-        <translation type="unfinished"></translation>
+        <translation>Övervakningsnod: </translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="64"/>
         <source>Observed nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Övervakade noder</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>
         <source>Add the selected node to the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till den valda noden i listan över övervakade noder</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="112"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="141"/>
         <source>Remove the node selected in the table from the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort noden som valts i tabellen från listan över övervakade noder</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="163"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="180"/>
         <source>&amp;Visible:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Synlig:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="197"/>
         <source>View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vy:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="204"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj vyerna där noden ska visas. Om ingen markeras visas den i alla 3D- och 2D-vyer.</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="211"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitet:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="234"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakgrundsfärg</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="255"/>
         <source>Text Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfärg:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="273"/>
         <source>Font size</source>
-        <translation type="unfinished"></translation>
+        <translation>Teckenstorlek</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="283"/>
