@@ -1226,41 +1226,41 @@ Efter en fullständig reparation av lumenytan måste centrumlinjerna extraheras 
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="794"/>
         <source>orthogonal</source>
-        <translation type="unfinished"></translation>
+        <translation>vinkelrät</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="807"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="912"/>
         <source>Axial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Axial:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="922"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="957"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotera snittvyn kring dess Z-axel för att återställa anatomisk orientering</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="835"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="940"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="975"/>
         <source> deg</source>
-        <translation type="unfinished"></translation>
+        <translation> grader</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="191"/>
         <source>Clip the lumen inside the tube. A new segment or a new model is generated. </source>
-        <translation type="unfinished"></translation>
+        <translation>Klipp lumen inuti röret. Ett nytt segment eller en ny modell genereras. </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="194"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="502"/>
@@ -1269,155 +1269,163 @@ Efter en fullständig reparation av lumenytan måste centrumlinjerna extraheras 
 This function cannot be undone, proceed with small increments.
 
 The result must be inspected before use. If it is not satisfactory, the source segment should be updated by any other means.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort hål i ett sammanhängande segment. Helst ska en region återstå. Komplexa segment kan inte alltid reduceras till en enda region.
+
+Den här funktionen kan inte ångras, fortsätt med små steg.
+
+Resultatet måste granskas före användning. Om det inte är tillfredsställande bör källsegmentet uppdateras på annat sätt.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="509"/>
         <source>Smoothing gap size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utjämningsgapets storlek:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="522"/>
         <source>This value is used to calculate the gap pixel size. High values mean longer processing time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här värdet används för att beräkna gapets pixelstorlek. Höga värden innebär längre bearbetningstid.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="525"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="678"/>
         <source>Decimate the input Tube surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förenkla indataytan för röret.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="681"/>
         <source>⭭</source>
-        <translation type="unfinished"></translation>
+        <translation>⭭</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="817"/>
         <source>Rotation angle for longitudinal slice view</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotationsvinkel för längsgående snittvy</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="869"/>
         <source>Rotate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotera:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="876"/>
         <source>Longitudinal</source>
-        <translation type="unfinished"></translation>
+        <translation>Längsgående</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="879"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="947"/>
         <source>Long.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Längs.:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="888"/>
         <source>Spin / Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrid/vänd</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="982"/>
         <source>Flip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="991"/>
         <source>Flip the slice view horizontally.
 
 Concerns orthogonal reformat in axial navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd snittvyn vågrätt.
+
+Gäller vinkelrät omformatering vid axial navigering.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="996"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vågrätt</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1003"/>
         <source>Flip the slice view vertically.
 
 Concerns orthogonal reformat in axial navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd snittvyn lodrätt.
+
+Gäller vinkelrät omformatering vid axial navigering.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1008"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Lodrätt</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1023"/>
         <source>Distance from origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd från origo:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1032"/>
         <source>Cumulative distance from start of centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Ackumulerat avstånd från centrumlinjens början</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1045"/>
         <source>Set the current point as origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange aktuell punkt som origo</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1048"/>
         <source>set</source>
-        <translation type="unfinished"></translation>
+        <translation>ange</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1058"/>
         <source>Go to origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till origo</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1463"/>
         <source>Show the cross-section of an input wall surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa tvärsnittet för en indatayta för kärlvägg.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="455"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1061"/>
         <source>go to</source>
-        <translation type="unfinished"></translation>
+        <translation>gå till</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1076"/>
         <source>Coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinater:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1083"/>
         <source>RAS coordinate of selected point</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS-koordinat för vald punkt</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1114"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diameter för största inskrivna sfär (MIS) vid vald punkt.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1127"/>
         <source>Jump to the smallest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till punkten med minsta MIS-diameter.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1130"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1187"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1446"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1137"/>
         <source>Jump to the largest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till punkten med största MIS-diameter.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1140"/>
@@ -1425,57 +1433,57 @@ Concerns orthogonal reformat in axial navigation.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1415"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1453"/>
         <source>max</source>
-        <translation type="unfinished"></translation>
+        <translation>max</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1105"/>
         <source>Diameter (MIS):</source>
-        <translation type="unfinished"></translation>
+        <translation>Diameter (MIS):</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1147"/>
         <source>Show the maximum inscribed sphere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa den största inskrivna sfären.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1171"/>
         <source>Area of the cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvärsnittsarea</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1184"/>
         <source>Jump to the smallest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till punkten med minsta tvärsnittsarea.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1197"/>
         <source>Jump to the largest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till punkten med största tvärsnittsarea.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1162"/>
         <source>Cross-section area:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvärsnittsarea:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1225"/>
         <source>Diameter (CE):</source>
-        <translation type="unfinished"></translation>
+        <translation>Diameter (CE):</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1256"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>Vinklarna är i Slicers koordinatsystem</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1249"/>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1210"/>
         <source>Show the cross-section of an input lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa tvärsnittet för en indatayta för lumen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1232"/>
@@ -1484,37 +1492,41 @@ Concerns orthogonal reformat in axial navigation.</source>
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkulärekvivalent diameter (CE): diametern för en cirkel med samma yta som tvärsnittet.
+
+Den absoluta och procentuella skillnaden jämfört med diametern för största inskrivna sfär (MIS) visas också.
+
+Observera: värden vid förgreningar kan sakna klinisk betydelse.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1274"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkulärekvivalent diameter, härledd från ytarean.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1337"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytarea</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1297"/>
         <source>Lumen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1350"/>
         <source>Wall:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kärlvägg:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1313"/>
         <source>Stenosis:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stenos:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1412"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till punkten med maximal stenos efter ytarea.</translation>
     </message>
 </context>
 <context>
@@ -1522,7 +1534,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="30"/>
         <source>Edit centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera centrumlinje</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="34"/>
