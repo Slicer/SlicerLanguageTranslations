@@ -6078,7 +6078,7 @@ Vill du återställa inställningarna?</translation>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="206"/>
         <source>The session will time out in 1 minute.
 Do you want to renew the session?</source>
-        <translation>Sessionen tar slut om en minut.
+        <translation>Sessionen tar slut om 1 minut.
 Vill du förnya sessionen?</translation>
     </message>
 </context>
