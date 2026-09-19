@@ -9,7 +9,10 @@
 Segment calcifications around an arterial lumen within a margin.
 See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Segmentera förkalkningar kring ett artärlumen inom en marginal.
+Mer information finns i &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;moduldokumentationen&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="42"/>
@@ -46,118 +49,118 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="308"/>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="402"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameternoden är None.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="320"/>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="409"/>
         <source>Input segmentation, volume, segment ID or margin size is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatasegmentering, volym, segment-ID eller marginalstorlek är ogiltig.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="324"/>
         <source>Input segmentation or volume mismatch with the segment editor... fixing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatasegmenteringen eller volymen överensstämmer inte med segmentredigeraren … rättar till.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="331"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen startade</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="396"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen slutfördes på {duration} sekunder</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="447"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar testet</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="449"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Testet godkändes</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="115"/>
         <source>Select an input lumen segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett indatasegment för lumen.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="108"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentering:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="172"/>
         <source>Segment calcification around the lumen within this margin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentera förkalkningar kring lumen inom denna marginal.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="175"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="165"/>
         <source>Margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginal:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="88"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera segmentredigeraren och snittvyerna med indatasegmenteringen och volymen, om sådana finns.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="102"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="128"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volym:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="135"/>
         <source>Select the source volume node of the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj källvolymnoden för det valda segmentet.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="200"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="212"/>
         <source>Intensity range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitetsintervall:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="239"/>
         <source>Use this specified value as the lower bound of the calcification intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd det här angivna värdet som nedre gräns för förkalkningarnas intensitetsintervall.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="252"/>
         <source>Use this specified value as the upper bound of the calcification intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd det här angivna värdet som övre gräns för förkalkningarnas intensitetsintervall.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="262"/>
@@ -167,32 +170,37 @@ It is calculated as:
  - lower: (medianSegmentIntensity + maxSegmentIntensity) / 2.0
  - upper: maxVolumeIntensity * 0.95
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Undersök intensitetsintervallet som definierar förkalkningarna.
+
+Det beräknas så här:
+ - nedre: (medianSegmentIntensity + maxSegmentIntensity) / 2,0
+ - övre: maxVolumeIntensity * 0,95
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="270"/>
         <source>Probe</source>
-        <translation type="unfinished"></translation>
+        <translation>Undersök</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="277"/>
         <source>Reset the intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ intensitetsintervallet.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="280"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="305"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="308"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -200,7 +208,7 @@ It is calculated as:
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="32"/>
         <source>Centerline disassembly</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdelning av centrumlinje</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="36"/>
@@ -209,7 +217,11 @@ Break down a centerline model into parts.
 This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dela upp en centrumlinjemodell i delar.
+Modulen använder modulen ”ExtractCenterline” för att generera kurvor.
+Mer information finns i &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;moduldokumentationen&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="41"/>
@@ -217,96 +229,99 @@ See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExten
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="88"/>
         <source>Bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Förgreningar</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="89"/>
         <source>Branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Grenar</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="90"/>
         <source>Centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjer</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="95"/>
         <source>Show curve names</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa kurvnamn</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="204"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna resultaten.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="208"/>
         <source>Please select the components to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj komponenterna som ska skapas.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="212"/>
         <source>Please specify whether centerline &apos;Models&apos; and/or &apos;Curves&apos; should be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange om centrumlinjens ”modeller” och/eller ”kurvor” ska genereras.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="214"/>
         <source>Splitting centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Delar upp centrumlinje</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="230"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="248"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="266"/>
         <source> models</source>
-        <translation type="unfinished"></translation>
+        <translation> modeller</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="233"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="251"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="269"/>
         <source> curves</source>
-        <translation type="unfinished"></translation>
+        <translation> kurvor</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="235"/>
         <source>Creating bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar förgreningar</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="238"/>
         <source>Bifurcation_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Förgreningsmodell</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="241"/>
         <source>Bifurcation_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Förgreningskurva</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="253"/>
         <source>Creating branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar grenar</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="256"/>
         <source>Branch_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Grenmodell</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="259"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Grenkurva</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="271"/>
         <source>Creating centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar centrumlinjer</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="274"/>
