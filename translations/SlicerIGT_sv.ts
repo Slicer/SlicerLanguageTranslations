@@ -20,7 +20,10 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc.
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="52"/>
@@ -250,7 +253,9 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Det här arbetet ingår i SparKit-projektet och finansieras av Cancer Care Ontarios (CCO) ACRU-program och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="43"/>
@@ -351,7 +356,10 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Detta är ett exempel på en skriptbaserad laddningsbar modul som medföljer ett tillägg.
+Mer information finns i &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;moduldokumentationen&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
@@ -359,7 +367,10 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
 </context>
 <context>
@@ -471,7 +482,9 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <source>
     This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Det här arbetet ingår i projektet Breast NaviKnife inom Laboratory for Percutaneous Surgery vid Queen’s University i Kingston, Ontario. Thomas Vaughan finansieras av ett NSERC-stipendium för forskarutbildning. Gabor Fichtinger finansieras som Cancer Care Ontario-stolsprofessor (CCO).
+    </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="64"/>
@@ -883,7 +896,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="111"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet finansierades av Cancer Care Ontario och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
@@ -1022,7 +1035,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="80"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet finansierades av Cancer Care Ontario och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.h" line="44"/>
@@ -1189,7 +1202,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet finansierades av Cancer Care Ontario och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
@@ -1302,7 +1315,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet finansierades av Cancer Care Ontario och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
@@ -1377,7 +1390,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, Cancer Care Ontario, OpenAnatomy, and Brigham and Women&apos;s Hospital through NIH grant R01MH112748.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen utvecklades med stöd från CANARIE:s Research Software Program, Cancer Care Ontario, OpenAnatomy och Brigham and Women’s Hospital genom NIH-anslag R01MH112748.</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
@@ -1479,7 +1492,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
-        <translation type="unfinished"></translation>
+        <translation>Den stöds av anslagen 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886 och 8P41EB015898.</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
@@ -1885,17 +1898,17 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="77"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet finansierades av Cancer Care Ontario och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="84"/>
         <source>Franklin King (Queen&apos;s University)</source>
-        <translation type="unfinished"></translation>
+        <translation>Franklin King (Queen’s University)</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="85"/>
         <source>Tamas Ungi (Queen&apos;s University)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamas Ungi (Queen’s University)</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
@@ -2282,7 +2295,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="99"/>
         <source>This work was partially funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO), and by National Institute of Health (grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet finansierades delvis av Cancer Care Ontario och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO), samt av National Institute of Health (anslagen 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886 och 8P41EB015898).</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.h" line="48"/>
@@ -2389,7 +2402,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet finansierades av Cancer Care Ontario och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
@@ -2678,7 +2691,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="109"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, and Cancer Care Ontario.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen utvecklades med stöd från CANARIE:s Research Software Program och Cancer Care Ontario.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="128"/>
@@ -2799,7 +2812,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="84"/>
         <source>This work was supported by NIH National Center for Image Guided Therapy, and National Alliance for Medical Image Computing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet stöddes av NIH National Center for Image Guided Therapy och National Alliance for Medical Image Computing.</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
@@ -2817,7 +2830,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här arbetet finansierades av Cancer Care Ontario och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
@@ -2900,57 +2913,57 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="283"/>
         <source> pt</source>
-        <translation type="unfinished"></translation>
+        <translation> pt</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="307"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Händelser</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="316"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Watch transform modified event:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bevaka händelse för ändrad transformering:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelande</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="302"/>
         <source>Make list active</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör listan aktiv</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="303"/>
         <source>Delete highlighted row</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort markerad rad</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="463"/>
         <source>valid</source>
-        <translation type="unfinished"></translation>
+        <translation>giltig</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="468"/>
         <source>invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltig</translation>
     </message>
 </context>
 <context>
@@ -2958,17 +2971,17 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="390"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuell</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="391"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd</translation>
     </message>
 </context>
 <context>
@@ -2976,88 +2989,89 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="223"/>
         <source>&apos;From&apos; fiducial list is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiduciallista för ”från” är inte definierad.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="230"/>
         <source>&apos;To&apos; fiducial list is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiduciallista för ”till” är inte definierad.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="237"/>
         <source>Output transform is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatatransformering är inte definierad.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
         <source>&apos;From&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiduciallistan ”från” har för få fiducialpunkter (minst 3 krävs).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="248"/>
         <source>&apos;To&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiduciallistan ”till” har för få fiducialpunkter (minst 3 krävs).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
         <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiduciallistorna har olika antal fiducialpunkter (”från” har %1, ”till” har %2). Justera listorna eller använd automatisk punktmatchning. Registreringen avbryts.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
         <source>Automatic point matching is currently supported only for rigid registration. Currently %1 registration is being used. Unexpected results may occur.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk punktmatchning stöds för närvarande endast för rigid registrering. Registreringen %1 används för närvarande. Oväntade resultat kan uppstå.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="298"/>
         <source>Too many points to compute point pairing %1. To avoid long computation time, there should be at most %2 points. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>För många punkter för att beräkna punktparningen %1. För att undvika lång beräkningstid får det högst finnas %2 punkter. Registreringen avbryts.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="316"/>
         <source>Could not find a good mapping. Mean squared distance error was %1, but tolerance is %2. Results are not expected to be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att hitta en bra avbildning. Medelvärdet av kvadrerade avståndsfel var %1, men toleransen är %2. Resultaten förväntas inte vara korrekta.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="326"/>
         <source>The &apos;best&apos; point matching is reported as ambiguous and may be incorrect. This could happen because the point geometry is symmetric. Results are not necessarily expected to be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den ”bästa” punktmatchningen rapporteras som tvetydig och kan vara felaktig. Det kan bero på att punktgeometrin är symmetrisk. Resultaten förväntas inte nödvändigtvis vara korrekta.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="337"/>
         <source>Unrecognized point matching method: %1. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd metod för punktmatchning: %1. Registreringen avbryts.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="347"/>
         <source>&apos;From&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiduciallistan ”från” har strikt kollineära eller singulära punkter.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="354"/>
         <source>&apos;To&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiduciallistan ”till” har strikt kollineära eller singulära punkter.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="400"/>
         <source>Warping transform cannot be stored
 in linear transform node</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-linjär transformering kan inte lagras
+i en nod för linjär transformering</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="452"/>
         <source>Invalid transform type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig transformeringstyp.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="460"/>
         <source>Failed to retreive transform from node. RMS Error could not be evaluated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att hämta transformeringen från noden. RMS-felet kunde inte beräknas.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="466"/>
         <source>Registration Complete. RMS Error: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registreringen är klar. RMS-fel: %1.</translation>
     </message>
 </context>
 </TS>
