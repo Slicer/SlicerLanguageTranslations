@@ -439,7 +439,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation>Transform som ska tillämpas på den rörliga bilden för att initiera registreringen.  Detta kan endast användas om Initialize Transform Mode är avaktiverat.</translation>
+        <translation>Transformering som ska tillämpas på den rörliga bilden för att initiera registreringen. Detta kan endast användas om initieringsläget för transformering är avstängt.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
@@ -610,7 +610,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>Fixed Image binary mask volume, krävs om Masking Option är ROI. Bildområden där maskvolymen har värdet noll ignoreras under registreringen.</translation>
+        <translation>Binär maskvolym för fast bild; krävs om maskeringsalternativet är ROI. Bildområden där maskvolymen har värdet noll ignoreras vid registreringen.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
@@ -1826,7 +1826,7 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation>Transform Filnamn Att Spara KonverteradTransform</translation>
+        <translation>Filnamn för transformering för att spara ConvertedTransform</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
@@ -1886,7 +1886,7 @@ Detta program är användbart för att nedprova en bild med en konstant skalfakt
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation>Cast Scalar Volume</translation>
+        <translation>Konvertera skalär volym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
@@ -2783,7 +2783,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation>Konverterar diffusionsviktade MR-bilder i DICOM-serier till NRRD-format för analys i Slicer. Programmet har endast testats på en begränsad delmängd av de DTI DICOM-format som finns tillgängliga från Siemens, GE och Philips skannrar. Arbete pågår för att stödja DICOM multi-frame data. Programmet analyserar DICOM-headern för att extrahera nödvändig information om mätram, diffusionsviktningsriktningar, b-värden etc. och skriver ut en NRRD-bild. För icke-diffusionsviktade DICOM-bilder laddar programmet in en hel DICOM-serie och skriver ut en enda dicom-volym i ett .nhdr/.raw-par.</translation>
+        <translation>Konverterar diffusionsviktade MR-bilder i DICOM-serier till NRRD-format för analys i Slicer. Programmet har endast testats på en begränsad delmängd av DTI-DICOM-format från Siemens-, GE- och Philips-skannrar. Stöd för DICOM-data med flera bildrutor är under utveckling. Programmet tolkar DICOM-huvudet för att hämta nödvändig information om mätram, diffusionsviktningsriktningar, b-värden och så vidare, och skriver en NRRD-bild. För icke-diffusionsviktade DICOM-bilder läser det in en hel DICOM-serie och skriver en enskild DICOM-volym som ett .nhdr/.raw-par.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
@@ -4916,7 +4916,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation>Generate models for all labels in the input volume. välj det här alternativet om du vill skapa alla modeller som motsvarar alla värden i en labelmap-volym (alternativet Joint Smoothing nedan är användbart med det här alternativet). Ignorerar inställningarna för Etiketter, Startetikett, Slutetikett. Hoppar över etikett 0.</translation>
+        <translation>Generera modeller för alla etiketter i indatavolymen. Välj det här alternativet om du vill skapa alla modeller som motsvarar alla värden i en etikettkartsvolym (alternativet Gemensam utjämning nedan är användbart med det här alternativet). Inställningarna Etiketter, Startetikett och Slutetikett ignoreras. Etikett 0 hoppas över.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
@@ -6048,7 +6048,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation>Att omsampla en bild är en mycket viktig uppgift inom bildanalys. Det är särskilt viktigt inom ramen för bildregistrering. Denna modul implementerar DT-bildsampling genom användning av itk-transformationer. Resamplingen styrs av Output Spacing. &quot;Resampling&quot; utförs i rymdkoordinater, inte i pixel/grid-koordinater. Det är mycket viktigt att se till att bildavståndet är korrekt inställt på de berörda bilderna. Interpolatorn behövs eftersom mappningen från en rymd till en annan ofta kräver utvärdering av bildens intensitet vid positioner utanför rutnätet.</translation>
+        <translation>Att omsampla en bild är en mycket viktig uppgift inom bildanalys, särskilt vid bildregistrering. Den här modulen omsamplar DT-bilder med ITK-transformeringar. Omsamplingen styrs av Utdataavstånd. ”Omsampling” utförs i rymdkoordinater, inte i pixel-/rutnätskoordinater. Det är viktigt att kontrollera att bildavstånden är korrekt inställda för de berörda bilderna. Interpolatorn behövs eftersom mappningen från ett rum till ett annat ofta kräver att bildens intensitet utvärderas vid positioner utanför rutnätet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
@@ -20821,7 +20821,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="133"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation>Modulen Data utgör det centrala stället för organisering av all inläst data som är tillgängligt för åtkomst och modifiering. Den möjliggör organisering av data i mapp eller trädstruktur för patienter och studier (vilket automatiskt görs för DICOM), åskådlighet av all visualiserbar data, transformation av hela strukturer samt hantering av en mängd datatypspecifika egenskaper.</translation>
+        <translation>Datamodulen är den centrala platsen där alla inlästa data presenteras för åtkomst och hantering. Den gör det möjligt att organisera data i mappar eller patient-/studieträd (vilket görs automatiskt för DICOM), visualisera alla data som kan visas, transformera hela grenar och använda en mängd funktioner som är specifika för olika datatyper.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="152"/>
