@@ -5021,7 +5021,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation>Väljer målet för minskning av antalet polygoner som en decimalprocent (mellan 0 och 1) av antalet polygoner. Anger den procentandel av trianglarna som ska tas bort. Till exempel innebär 0,1 10% rreduktion och 0,9 innebär 90% rreduktion.</translation>
+        <translation>Välj minskningen av antalet polygoner som en decimalandel (mellan 0 och 1) av antalet polygoner. Anger andelen trianglar som ska tas bort. Till exempel innebär 0,1 en minskning med 10 % och 0,9 en minskning med 90 %.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
@@ -5036,7 +5036,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation>Fyller på indatavolymen med voxlar med nollvärde på alla 6 ytor för att säkerställa produktionen av slutna ytor. Ställer in ursprungstranslation och utsträckningstranslation så att modellerna fortfarande är i linje med den opaddade inmatningsvolymen.</translation>
+        <translation>Fyll indatavolymen med voxlar med nollvärde på alla sex ytor för att säkerställa att slutna ytor skapas. Anger ursprungsförskjutning och utsträckningsförskjutning så att modellerna fortfarande ligger i linje med den outfyllda indatavolymen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
@@ -17787,7 +17787,7 @@ Om du väljer Ja för alla visas frågan aldrig igen och alla underordnade objek
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="20"/>
         <source>3D View Controller</source>
-        <translation>controller för 3D-vy</translation>
+        <translation>Styrenhet för 3D-vy</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="59"/>
@@ -17889,7 +17889,7 @@ Om du väljer Ja för alla visas frågan aldrig igen och alla underordnade objek
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="353"/>
         <source>3D axis label</source>
-        <translation>etikett för 3D-axel</translation>
+        <translation>Etikett för 3D-axel</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="364"/>
@@ -18187,7 +18187,7 @@ Om du väljer Ja för alla visas frågan aldrig igen och alla underordnade objek
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
-        <translation>information om 3D-vy</translation>
+        <translation>Information om 3D-vy</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
@@ -18449,7 +18449,7 @@ Om du väljer Ja för alla visas frågan aldrig igen och alla underordnade objek
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="678"/>
         <source>3D glyph settings</source>
-        <translation>inställningar för 3D-glyfer</translation>
+        <translation>Inställningar för 3D-glyfer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="336"/>
@@ -29776,7 +29776,7 @@ Detta bör endast användas av avancerade användare som förstår konsekvensern
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="28"/>
         <source>3D View Controllers</source>
-        <translation>styrenheter för 3D-vyer</translation>
+        <translation>Styrenheter för 3D-vyer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="36"/>
