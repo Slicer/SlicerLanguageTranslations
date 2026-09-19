@@ -616,77 +616,77 @@ När kurvorna skapas kan namnsynligheten anges via menyn.</translation>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
         <source>Decimation aggressiveness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Förenklingsgrad:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="326"/>
         <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägre värden bevarar nätets integritet bättre, men det kanske inte går att minska antalet punkter till önskad nivå.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="348"/>
         <source>Subdivide:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela upp:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="358"/>
         <source>Subdivide the mesh to make computation more accurate (at the cost of increased computation time).</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela upp nätet för att göra beräkningen mer exakt (på bekostnad av längre beräkningstid).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="368"/>
         <source>Output preprocessed surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbearbetad utdatayta:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="378"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara resultatet av förbearbetningen. Användbart för kvalitetskontroller och för att göra upprepade beräkningar snabbare: den förbearbetade ytan kan användas som indatayta (och alternativet ”Förbearbeta indatayta” kan sedan inaktiveras).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="389"/>
         <source>Preprocessed model</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbearbetad modell</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="411"/>
         <source>Add Flow Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till flödesförlängningar:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="418"/>
         <source>Check if flow extensions are desired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera om flödesförlängningar önskas.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="431"/>
         <source>Extension length</source>
-        <translation type="unfinished"></translation>
+        <translation>Förlängningslängd</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="441"/>
         <source>Higher values increase .</source>
-        <translation type="unfinished"></translation>
+        <translation>Högre värden ökar .</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="463"/>
         <source>Extension mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Förlängningsläge</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="473"/>
         <source>Mode for adding flow extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Läge för att lägga till flödesförlängning</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="486"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="489"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -696,7 +696,9 @@ När kurvorna skapas kan namnsynligheten anges via menyn.</translation>
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här modulen beskriver tvärsnitt längs en VMTK-centrumlinjemodell, en VMTK-centrumlinjekurva med markeringar eller en godtycklig kurva med markeringar. Dokumentation finns &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;här&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="32"/>
@@ -704,200 +706,203 @@ This module describes cross-sections along a VMTK centerline model, a VMTK cente
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="117"/>
         <source>Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Regioner</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="118"/>
         <source>Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinater</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="453"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1293"/>
         <source>Input is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata är ogiltig.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="576"/>
         <source> (MIS diameter {sign}</source>
-        <translation type="unfinished"></translation>
+        <translation> (MIS-diameter {sign}</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="753"/>
         <source>Selected Shape node is not a Tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valda Shape-noden är inte ett rör.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="762"/>
         <source>Selected model node does not have radius information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valda modellnoden saknar radieinformation.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2184"/>
         <source>Wall diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kärlväggsdiameter</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2185"/>
         <source>Wall cross-section area</source>
-        <translation type="unfinished"></translation>
+        <translation>Kärlväggens tvärsnittsarea</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2187"/>
         <source>Stenosis by diameter (CE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Stenos efter diameter (CE)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2186"/>
         <source>Stenosis by surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Stenos efter ytarea</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="207"/>
         <source>Subtract the lumen</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtrahera lumen</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="451"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna resultaten.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="556"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>Ej tillämpligt</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="557"/>
         <source>Input lumen surface not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indataytan för lumen har inte angetts.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="701"/>
         <source>Lumen cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumens tvärsnitt</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="719"/>
         <source>Wall cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Kärlväggens tvärsnitt</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="829"/>
         <source>Failed to clip the lumen in the tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att klippa lumen i röret.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="954"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Samlingen med lumenregioner är oväntat None.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="959"/>
         <source>Requested region is beyond range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den begärda regionen ligger utanför intervallet.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="967"/>
         <source> points</source>
-        <translation type="unfinished"></translation>
+        <translation> punkter</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="967"/>
         <source> cells</source>
-        <translation type="unfinished"></translation>
+        <translation> celler</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="990"/>
         <source>Could not prepare the segment editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att förbereda segmentredigeraren.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1215"/>
         <source>Invalid surface polydata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig polydata för yta.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1297"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen startade</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1303"/>
         <source>Processing completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen slutfördes</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1333"/>
         <source>Unknown lumen node type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd nodtyp för lumen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1472"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1501"/>
         <source>Waiting for background jobs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Väntar på bakgrundsjobb…</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1514"/>
         <source>Updating table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdaterar tabell:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1559"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points.{hasEmptySections}</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen slutfördes på {duration} sekunder – {countOfPoints} punkter.{hasEmptySections}</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1928"/>
         <source>Error creating a cross-section polydata of the wall at point index {indexOfPoint}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när tvärsnitts-polydata för kärlväggen skapades vid punktindex {indexOfPoint}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2019"/>
         <source>Invalid centerline or lumen surface: cannot clip the lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig centrumlinje eller lumenyta: lumen kan inte klippas.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2027"/>
         <source>Invalid segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt segment.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2059"/>
         <source>Empty lumen surface retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom lumenyta hämtades.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2066"/>
         <source>The input wall surface and the input lumen surfaces could not be intersected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indataytan för kärlväggen och indataytorna för lumen kunde inte skäras med varandra.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2183"/>
         <source>Lumen cross-section area</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumens tvärsnittsarea</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1807"/>
         <source>Lumen surface node is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumens ytnod är inte inställd.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1821"/>
         <source>Input centerline node node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatacentrumlinjenoden är None.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1823"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1895"/>
         <source>Input centerline node is not a Shape node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatacentrumlinjenoden är inte en Shape-nod.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1846"/>
