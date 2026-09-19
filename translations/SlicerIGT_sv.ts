@@ -232,7 +232,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="17"/>
         <source>Model Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellregistrering</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="21"/>
@@ -240,7 +240,10 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här modulen tillämpar registrering med Iterative Closest Points mellan två ytmodeller.
+Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.org&quot;&gt;SlicerIGT:s webbplats&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
@@ -252,72 +255,72 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="43"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrar</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obs! Överordnade transformeringar för modeller används inte. Modeller ska definieras i det koordinatsystem som registreras.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
         <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj modellen som den andra ska transformeras till. Den här modellen måste innehålla en tät uppsättning punkter.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj modellen som ska transformeras. Den här modellen kan behöva en gles uppsättning punkter.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
         <source>Input moving (sparse) model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Indatarörlig (gles) modell: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
         <source>Pick the moving to fixed transform computed by the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj den rörlig-till-fast-transformering som beräknats av algoritmen.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatatransformering: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="102"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="103"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="111"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
         <source>Mean distance after registration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Medelavstånd efter registrering:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="123"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerat</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal iterationer:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation type="unfinished"></translation>
+        <translation>Test är inte implementerat för modellregistrering</translation>
     </message>
 </context>
 <context>
@@ -325,22 +328,22 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsserier</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspelade noder</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="34"/>
         <source>Sequence Replay</source>
-        <translation type="unfinished"></translation>
+        <translation>Återuppspelning av sekvens</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="40"/>
@@ -364,7 +367,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="TextureModel/TextureModel.py" line="20"/>
         <source>Texture Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Texturmodell</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="24"/>
@@ -373,72 +376,76 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen tillämpar en textur (lagrad i en volymnod) på en modellnod.
+Den används vanligen för att visa färgade ytor från ytskannrar, exporterade i OBJ-format.
+Modellen måste innehålla texturkoordinater. Endast en texturfil per modell stöds.
+Mer information finns på &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&quot;&gt;SlicerIGT-projektets webbplats&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="49"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrar</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
         <source>Model node containing geometry and texture coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellnod som innehåller geometri och texturkoordinater.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="68"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="80"/>
         <source>Color image containing texture image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgbild som innehåller texturbild.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
         <source>Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation>Textur:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="84"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>inaktiverad</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB-vektor</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB-flyttalsvektor</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB-flyttalskomponenter</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="89"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara färg i punktdata. ”RGB-vektor” rekommenderas för kompatibilitet med de flesta program. Punktdata kan användas för tröskling eller färgbaserad bearbetning.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="92"/>
         <source>Save color information as point data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara färginformation som punktdata:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="97"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="98"/>
         <source>Apply texture to selected model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa textur på den valda modellen.</translation>
     </message>
 </context>
 <context>
@@ -446,7 +453,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="12"/>
         <source>Viewpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Synvinkel</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="19"/>
@@ -454,7 +461,10 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modulen justerar kamerans synvinkel i en 3D-vy.
+Bullseye-vy: placera/orientera kameran med ett spårat verktyg.
+Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.org&quot;&gt;SlicerIGT:s webbplats&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="23"/>
@@ -466,67 +476,67 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="64"/>
         <source>Enable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Bullseye-vyläge</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Disable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera Bullseye-vyläge</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="93"/>
         <source>Enable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera läget Automatisk centrering</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
         <source>Disable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera läget Automatisk centrering</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="102"/>
         <source>View Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyval</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="109"/>
         <source>Scene Camera: </source>
-        <translation type="unfinished"></translation>
+        <translation>Scenkamera: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="116"/>
         <source>Pick the view which should be adjusted, e.g. &apos;View1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj vyn som ska justeras, till exempel ”View1”</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="121"/>
         <source>Parameters for Bullseye View</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrar för Bullseye-vy</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="129"/>
         <source>Camera positioning transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformering för kameraposition: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="136"/>
         <source>Pick the transform that the camera should follow, e.g. &apos;cauteryCameraToCauteryTransform&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj transformeringen som kameran ska följa, till exempel ”cauteryCameraToCauteryTransform”</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="141"/>
         <source>Camera Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamerastyrning</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="149"/>
         <source>Degrees of Freedom</source>
-        <translation type="unfinished"></translation>
+        <translation>Frihetsgrader</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
         <source>The camera will always look at the target model (or if unselected will act like 5DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran tittar alltid på målmodellen (eller fungerar som 5DOF om ingen är vald)</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="163"/>
