@@ -3817,112 +3817,112 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="14"/>
         <source>Material Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Materialegenskap</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitet:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
         <source>Ambient:</source>
-        <translation type="unfinished"></translation>
+        <translation>Omgivande:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diffus:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation type="unfinished"></translation>
+        <translation>Speglande:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
         <source>Specular power</source>
-        <translation type="unfinished"></translation>
+        <translation>Speglande styrka</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
         <source>Power:</source>
-        <translation type="unfinished"></translation>
+        <translation>Styrka:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
         <source>Backface Culling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bortsortering av baksidor:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisning:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Förinställningar:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metallisk:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
         <source>Roughness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grovhet:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Läge:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="308"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Platt</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="313"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="318"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="323"/>
         <source>PBR</source>
-        <translation type="unfinished"></translation>
+        <translation>PBR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="106"/>
         <source>Full ambient eliminating all directional shading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Full omgivande belysning som eliminerar all riktad skuggning.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="107"/>
         <source>Dull material properties (no specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Matta materialegenskaper (ingen speglande belysning).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="108"/>
         <source>Smooth material properties (moderate specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Släta materialegenskaper (måttlig speglande belysning).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="109"/>
         <source>Shiny material properties (high specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Blanka materialegenskaper (hög speglande belysning).</translation>
     </message>
 </context>
 <context>
@@ -3930,12 +3930,12 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="94"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="126"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök…</translation>
     </message>
 </context>
 <context>
@@ -3943,17 +3943,17 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="78"/>
         <source>Don&apos;t show this message again</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa inte det här meddelandet igen</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="221"/>
         <source>Don&apos;t show this message again and always %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa inte det här meddelandet igen och välj alltid %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="337"/>
         <source>Are you sure you want to exit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill avsluta?</translation>
     </message>
 </context>
 <context>
@@ -3961,42 +3961,42 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="14"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitet</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="23"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Valfri</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="30"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Dataradiografi</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="33"/>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>CR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="40"/>
         <source>Computed Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Datortomografi</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="43"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="50"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation>Magnetisk resonans</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="53"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="60"/>
