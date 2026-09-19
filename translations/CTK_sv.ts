@@ -5154,113 +5154,113 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="119"/>
         <source>Image name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildnamn:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="126"/>
         <source>Type in a base-name for the image file, or use the default provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange ett basnamn för bildfilen eller använd standardnamnet.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="129"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnlös</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="136"/>
         <source>Image version number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildens versionsnummer:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalfaktor:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"/>
         <source>Select an integer scale factor (between 0.5 and 5) for the image file, e.g. a value of &quot;2&quot; will save an image twice the size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en numerisk skalfaktor (mellan 0,5 och 5) för bildfilen. Till exempel sparar värdet ”2” en bild som är dubbelt så stor.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="183"/>
         <source>Output resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatas upplösning:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="190"/>
         <source>Width of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmbildens bredd</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="193"/>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="216"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation> bildpunkter</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="203"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="213"/>
         <source>Height of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmbildens höjd</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="229"/>
         <source>Lock/unlock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås/lås upp bildförhållande</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="249"/>
         <source>Overwrite:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv över:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="266"/>
         <source>Screenshot delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fördröjning före skärmbild:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="273"/>
         <source> s</source>
-        <translation type="unfinished"></translation>
+        <translation> s</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="67"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bild</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="172"/>
         <source>Height of widget: %1 is invalid. Check widget dimensions. Using default aspect ratio (1.0).</source>
-        <translation type="unfinished"></translation>
+        <translation>Widgetens höjd %1 är ogiltig. Kontrollera widgetens dimensioner. Standardbildförhållandet (1,0) används.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="175"/>
         <source>Invalid widget dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltiga widgetdimensioner</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="194"/>
         <source>Aspect ratio: %1 is invalid. Check widget dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildförhållandet %1 är ogiltigt. Kontrollera widgetens dimensioner.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="196"/>
         <source>Invalid aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt bildförhållande</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="395"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmbild</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="396"/>
         <source>File already exists. Overwrite ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen finns redan. Skriva över?</translation>
     </message>
 </context>
 <context>
@@ -5268,7 +5268,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSearchBox.cpp" line="72"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök...</translation>
     </message>
 </context>
 <context>
@@ -5276,61 +5276,65 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSettingsDialog.ui" line="14"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="78"/>
         <source>Apply settings and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa inställningarna och stäng dialogrutan.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="80"/>
         <source>Reject settings changes and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förkasta inställningsändringarna och stäng dialogrutan.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="82"/>
         <source>Reset settings to their values when the dialog opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ inställningarna till värdena när dialogrutan öppnades</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="84"/>
         <source>Restore settings to their default values.To cancel a &quot;Restore&quot;, you can &quot;Reset&quot; the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ inställningarna till standardvärdena. Du kan återställa inställningarna igen för att ångra en återställning.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
         <source>Restart required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Omstart krävs!</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="172"/>
         <source>The application must be restarted to take into account the new values of the following properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmet måste startas om för att de nya värdena för följande egenskaper ska börja gälla:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="301"/>
         <source>Restart required</source>
-        <translation type="unfinished"></translation>
+        <translation>Omstart krävs</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="302"/>
         <source>For settings to be taken into account, the application
 must be restarted. Restart the application now ?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Programmet måste startas om för att inställningarna ska börja gälla.
+Starta om programmet nu?
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="410"/>
         <source>Restore all settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ alla inställningar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="411"/>
         <source>Are you sure you want to reset
 all settings to their default values?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du verkligen återställa
+alla inställningar till standardvärdena?
+</translation>
     </message>
 </context>
 <context>
@@ -5338,7 +5342,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSliderWidget.ui" line="20"/>
         <source>Set value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange värde</translation>
     </message>
 </context>
 <context>
