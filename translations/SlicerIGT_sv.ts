@@ -541,233 +541,233 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="163"/>
         <source>5DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation>5DOF: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="165"/>
         <source>The camera will always be oriented with the selected &apos;up direction&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran orienteras alltid med den valda ”uppåt-riktningen”</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="169"/>
         <source>6DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation>6DOF: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="171"/>
         <source>The camera will be virtually attached to the tool, and rotate together with it</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran fästs virtuellt vid verktyget och roterar tillsammans med det</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="177"/>
         <source>Up Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppåt-riktning</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="186"/>
         <source>Anterior: </source>
-        <translation type="unfinished"></translation>
+        <translation>Främre: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="192"/>
         <source>Posterior: </source>
-        <translation type="unfinished"></translation>
+        <translation>Bakre: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="197"/>
         <source>Right: </source>
-        <translation type="unfinished"></translation>
+        <translation>Höger: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="202"/>
         <source>Left: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vänster: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="207"/>
         <source>Superior: </source>
-        <translation type="unfinished"></translation>
+        <translation>Övre: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="212"/>
         <source>Inferior: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nedre: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="218"/>
         <source>Target Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Målmodell</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="227"/>
         <source>Target model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Målmodell: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="234"/>
         <source>This model be the center of rotation using 3DOF Viewpoint (e.g. tumour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här modellen blir rotationscentrum vid 3DOF-synvinkel (till exempel tumör)</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="239"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="247"/>
         <source>View angle (degrees): </source>
-        <translation type="unfinished"></translation>
+        <translation>Visningsvinkel (grader): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="254"/>
         <location filename="Viewpoint/Viewpoint.py" line="267"/>
         <source>Make the current viewing target look larger/smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör det aktuella visningsmålet större/mindre.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="259"/>
         <source>View scale: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vyskala: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="273"/>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Förskjutning</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="280"/>
         <source>Left/Right (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>Vänster/höger (mm): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="290"/>
         <source>Down/Up (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>Ned/upp (mm): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="300"/>
         <source>Front/Back (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>Fram/bak (mm): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="311"/>
         <source>Parallel Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Parallellprojektion</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="314"/>
         <source>If checked, render with parallel projection (box-shaped view). Otherwise render with perspective projection (cone-shaped view).</source>
-        <translation type="unfinished"></translation>
+        <translation>Om markerat renderas bilden med parallellprojektion (lådlik vy). Annars renderas den med perspektivprojektion (konformad vy).</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="319"/>
         <source>The camera will continuously update its position so that it follows the tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran uppdaterar kontinuerligt sin position för att följa verktyget.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="327"/>
         <source>Parameters for Auto-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrar för automatisk centrering</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="335"/>
         <source>Followed model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Följd modell: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="342"/>
         <source>Pick the model that the camera should follow, e.g. &apos;tumorModel&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj modellen som kameran ska följa, till exempel ”tumorModel”</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="346"/>
         <source>Safe Zone (Viewport X percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>Säker zon (visningsyta X i procent): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="355"/>
         <source>Safe Zone (Viewport Y percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>Säker zon (visningsyta Y i procent): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="364"/>
         <source>Safe Zone (Viewport Z percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>Säker zon (visningsyta Z i procent): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="373"/>
         <source>Adjust Along Camera X</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera längs kamera-X</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="376"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the x axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om markerat justeras kameran så att den riktas in mot målmodellen längs x-axeln.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="380"/>
         <source>Adjust Along Camera Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera längs kamera-Y</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="383"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the y axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om markerat justeras kameran så att den riktas in mot målmodellen längs y-axeln.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="387"/>
         <source>Adjust Along Camera Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera längs kamera-Z</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="390"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the z axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om markerat justeras kameran så att den riktas in mot målmodellen längs z-axeln.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="394"/>
         <source>Update rate (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdateringsfrekvens (sekunder): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="401"/>
         <source>The rate at which the view will be checked and updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Frekvensen som vyn kontrolleras och uppdateras med.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="405"/>
         <source>Time Unsafe to Adjust (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Tid som osäker före justering (sekunder): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="412"/>
         <source>The length of time in which the model must be in the unsafe zone before the camera is adjusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslängden som modellen måste vara i den osäkra zonen innan kameran justeras.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="416"/>
         <source>Time Adjust to Rest (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Tid för justering till vila (sekunder): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="423"/>
         <source>The length of time an adjustment takes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslängden som en justering tar.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="427"/>
         <source>Time Rest to Safe (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Tid från vila till säker (sekunder): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="434"/>
         <source>The length of time after an adjustment that the camera remains motionless.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslängden efter en justering som kameran förblir stilla.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="438"/>
         <source>The camera will continuously update its position so that it follows the model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran uppdaterar kontinuerligt sin position för att följa modellen.</translation>
     </message>
 </context>
 <context>
@@ -790,17 +790,17 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="63"/>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="148"/>
         <source>IGT</source>
-        <translation type="unfinished"></translation>
+        <translation>IGT</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation>Guidelet</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="21"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytmodeller</translation>
     </message>
 </context>
 <context>
@@ -808,7 +808,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="17"/>
         <source>Breach warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Genombrottsvarning</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="25"/>
