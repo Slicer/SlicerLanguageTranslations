@@ -615,12 +615,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>Moving Image binär maskvolym, krävs om Masking Option är ROI. Bildområden där maskvolymen har värdet noll ignoreras under registreringen.</translation>
+        <translation>Binär maskvolym för rörlig bild; krävs om maskeringsalternativet är ROI. Bildområden där maskvolymen har värdet noll ignoreras vid registreringen.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>ROI som automatiskt beräknas från den fasta bilden. Endast tillgängligt om Masking Option är ROIAUTO. Bildområden där maskvolymen har nollvärde ignoreras under registreringen.</translation>
+        <translation>ROI som beräknas automatiskt från den fasta bilden. Endast tillgänglig om maskeringsalternativet är ROIAUTO. Bildområden där maskvolymen har värdet noll ignoreras vid registreringen.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
@@ -2861,7 +2861,7 @@ MCDE uppvisar inte de kantförstärkande egenskaperna hos klassisk anisotropisk 
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation>Ingång Dicom Data Directory</translation>
+        <translation>Indatakatalog för DICOM-data</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
@@ -6043,7 +6043,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="5"/>
         <source>Resample DTI Volume</source>
-        <translation>Resampling av DTI-volym</translation>
+        <translation>Omsampla DTI-volym</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
@@ -6577,11 +6577,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation>Den här modulen implementerar resampling av bilder och vektorbilder med hjälp av itk-transformationer. Den kan också hantera omsampling av diffusionsviktade MRI-bilder. &quot;Resampling&quot; utförs i rymdkoordinater, inte pixel/grid-koordinater. Det är mycket viktigt att se till att bildavståndet är korrekt inställt på de berörda bilderna. Interpolatorn behövs eftersom mappningen från ett utrymme till ett annat ofta kräver utvärdering av bildens intensitet vid positioner utanför rutnätet.
+        <translation>Den här modulen omsamplar bilder och vektorbilder med ITK-transformeringar. Den kan även omsampla diffusionsviktade MR-bilder. ”Omsampling” utförs i rymdkoordinater, inte pixel-/rutnätskoordinater. Det är viktigt att kontrollera att bildavstånden är korrekt inställda för de berörda bilderna. Interpolatorn behövs eftersom mappningen från ett rum till ett annat ofta kräver att bildens intensitet utvärderas vid positioner utanför rutnätet.
 
-Varning för detta: För att omsampla DWMR-bilder, använd nrrd in- och utdatafiler.
+Varning: använd NRRD-filer för in- och utdata vid omsampling av DWMR-bilder.
 
-Varning: Använd inte Använd inte för att omsampla Diffusion Tensor Images, tensorer skulle inte omorienteras</translation>
+Varning: använd inte modulen för omsampling av diffusionstensorbilder eftersom tensorerna då inte omorienteras.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
@@ -11410,8 +11410,8 @@ Om segmenten överlappar varandra prioriteras det segment som ligger högre upp 
 &lt;/ul&gt;&lt;p&gt;</source>
         <translation>Fyll segmentet baserat på källvolymens intensitetsintervall&lt;br&gt;. Alternativ:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
-&lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; Ställ in det valda intensitetsområdet som &lt;dfn&gt;Editable&lt;/dfn&gt; intensity range och växla till Paint-effekt.
-&lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; Ställ in den förhandsgranskade segmenteringen i det valda segmentet. Tidigare innehåll i segmentet skrivs över.
+&lt;li&gt;&lt;b&gt;Använd för maskering:&lt;/b&gt; ange det valda intensitetsintervallet som &lt;dfn&gt;redigerbart intensitetsintervall&lt;/dfn&gt; och växla till effekten Måla.
+&lt;li&gt;&lt;b&gt;Tillämpa:&lt;/b&gt; ange den förhandsgranskade segmenteringen i det valda segmentet. Segmentets tidigare innehåll skrivs över.
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
@@ -17622,10 +17622,10 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-        <translation>Det borttagna objektet i ämneshierarkin har barn. Vill du ta bort dem också?
+        <translation>Det borttagna objektet i ämneshierarkin har underordnade objekt. Vill du ta bort dem också?
 
-Om du väljer Ja kommer hela grenen att raderas, inklusive alla underordnade objekt.
-Om du väljer Yes to All visas aldrig denna fråga igen och alla barn i ämneshierarkin raderas automatiskt. Detta kan senare ändras i Application Settings.</translation>
+Om du väljer Ja tas hela grenen bort, inklusive alla underordnade objekt.
+Om du väljer Ja för alla visas frågan aldrig igen och alla underordnade objekt i ämneshierarkin tas bort automatiskt. Detta kan ändras senare i programinställningarna.</translation>
     </message>
 </context>
 <context>
@@ -20210,7 +20210,7 @@ Den här datorns grafiska kapacitet:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="893"/>
         <source>Failed to create %1 directory</source>
-        <translation>Misslyckades med att skapa %1 directory</translation>
+        <translation>Kunde inte skapa katalogen %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1911"/>
@@ -21085,7 +21085,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
         <source>Directory:</source>
-        <translation>Directory:</translation>
+        <translation>Katalog:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="75"/>
@@ -22324,7 +22324,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="328"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="367"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
-        <translation>Visa en &quot;Add Data&quot;-widget som gör det möjligt att välja enskilda dataset att lägga till i den befintliga scenen. Detta laddningsalternativ är mest användbart när du vill ladda många olika datatyper på en gång (volymer, modeller etc.) som kanske ännu inte beskrivs av en scenfil.</translation>
+        <translation>Visa dialogrutan ”Lägg till data”, där du kan välja enskilda datamängder att lägga till i den befintliga scenen. Det här laddningsalternativet är särskilt användbart när du vill läsa in många olika datatyper samtidigt (volymer, modeller och så vidare) som ännu inte beskrivs av en scenfil.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="337"/>
@@ -22364,7 +22364,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="382"/>
         <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
-        <translation>Visa en &quot;Add Volume&quot;-widget där du kan välja en volymetrisk dataset som ska läggas till i den befintliga scenen. Panelen &quot;Volume Options&quot; kan användas för att klargöra hur en vald dataset ska laddas och visas.</translation>
+        <translation>Visa dialogrutan ”Lägg till volym”, där du kan välja en volymetrisk datamängd att lägga till i den befintliga scenen. Panelen ”Volymalternativ” kan användas för att ange hur en vald datamängd ska läsas in och visas.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="391"/>
@@ -23973,7 +23973,7 @@ Tabellens kolumnnamn: etikett, r, a, s, (eller l, p, s), definierad, vald, synli
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation>Modulen Models laddar och justerar visningsparametrar för modeller, t.ex. färg, transparens och klippning.&lt;br&gt;Spara modeller via File-menyn, knappen Save.&lt;br&gt;Med knappen Add 3D model eller a model directory kan du ladda alla modeller som Slicer kan läsa, samt alla VTK-modeller i en katalog. Add Scalar Overlay laddar en skalärfil och kopplar den till den aktiva modellen.&lt;br&gt;Du kan justera modellernas visningsegenskaper i fönstret Display. Välj den modell som du vill arbeta med i rullgardinsmenyn Model Selector. Skalära överlägg laddas med en standardfärguppslagstabell, men kan omfördelas manuellt. När ett nytt skalärt överlägg väl har valts används fortfarande den gamla färgkartan, så den måste justeras i samband med överlägget.&lt;br&gt;Clipping är aktiverat för en modell i Display-fönstret och de snittplan som ska klippa modellen väljs i Clipping-fönstret.&lt;br&gt;I Model Hierarchy-fönstret kan du gruppera modeller och ställa in gruppens egenskaper.</translation>
+        <translation>Modulen Modeller läser in och justerar modellernas visningsparametrar, till exempel färg, genomskinlighet och klippning.&lt;br&gt;Spara modeller via menyn Arkiv eller knappen Spara.&lt;br&gt;Med knappen Lägg till 3D-modell eller Lägg till modellkatalog kan du läsa in alla modeller som Slicer kan läsa och alla VTK-modeller i en katalog. Lägg till skalärt överlägg läser in en skalärfil och kopplar den till den aktuella modellen.&lt;br&gt;Du kan justera modellernas visningsegenskaper i panelen Visning. Välj modellen du vill arbeta med i rullgardinsmenyn för modellval. Skalära överlägg läses in med en standardfärguppslagstabell men kan tilldelas på nytt manuellt. När ett nytt skalärt överlägg väljs används fortfarande den gamla färgkartan, så den måste justeras tillsammans med överlägget.&lt;br&gt;Klippning aktiveras för en modell i panelen Visning, och snittplanen som ska klippa modellen väljs i panelen Klippning.&lt;br&gt;I panelen Modellhierarki kan du gruppera modeller och ange gruppens egenskaper.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"/>
