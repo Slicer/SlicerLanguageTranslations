@@ -907,58 +907,58 @@ och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR01
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1846"/>
         <source>Could not decimate the wall surface, continuing with the full surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att förenkla kärlväggsytan, fortsätter med hela ytan.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1855"/>
         <source>Input surface node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indataytnoden är None.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1887"/>
         <source>Error creating a cross-section polydata of the lumen at point index {indexOfPoint}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när tvärsnitts-polydata för lumen skapades vid punktindex {indexOfPoint}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1085"/>
         <source>Maximum inscribed sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Största inskrivna sfär</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2074"/>
         <source>Maximum inscribed sphere radius is not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Radien för största inskrivna sfär är inte tillgänglig</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2143"/>
         <source>empty sections have been detected; consider improving the input surface {nameOfSurface}.</source>
-        <translation type="unfinished"></translation>
+        <translation>tomma avsnitt har upptäckts; överväg att förbättra indataytan {nameOfSurface}.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2180"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2181"/>
         <source>Diameter (MIS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Diameter (MIS)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="2182"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1277"/>
         <source>Diameter (CE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Diameter (CE)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="120"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrar</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="126"/>
         <source>Centerline source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Källa för centrumlinje:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="641"/>
@@ -974,38 +974,44 @@ och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR01
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Källan för centrumlinjen kan vara:
+
+– en centrumlinjekurva skapad av modulen ”Extract centerline”,
+– en centrumlinjemodell skapad av modulen ”Extract centerline”,
+– en godtycklig öppen kurva med markeringar,
+– en osynlig centrumlinje från en Shape-markörnod som används som rör.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="136"/>
         <source>Input lumen surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatayta för lumen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="153"/>
         <source>Input segmentation or model node, required for computing cross-sectional area.
 The input centerline is expected to be inside the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatasegmenterings- eller modellnod som krävs för att beräkna tvärsnittsarea.
+Indatacentrumlinjen förväntas ligga inuti lumenytan.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="203"/>
         <source>Select an input segment node</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en indatasegmentnod</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="221"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatatabell:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="230"/>
         <source>Pick the output table to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj utdatatabellen för algoritmen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="260"/>
         <source>Toggle between the table layout and the previous one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla mellan tabellayouten och den föregående.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="263"/>
@@ -1014,62 +1020,62 @@ The input centerline is expected to be inside the lumen surface.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1213"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1466"/>
         <source>show</source>
-        <translation type="unfinished"></translation>
+        <translation>visa</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="272"/>
         <source>Output plot series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdataserier för diagram:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="281"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj utdataserier för diagram för algoritmen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="320"/>
         <source>Select the plot&apos;s Y axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj diagrammets Y-axel</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="302"/>
         <source>Toggle between the plot layout and the previous one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla mellan diagramlayouten och den föregående.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="339"/>
         <source>Tools / Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktyg/alternativ</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="379"/>
         <source>Manage connected regions of the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hantera sammanhängande regioner på lumenytan.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="382"/>
         <source>Tab 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Flik 1</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="405"/>
         <source>Get:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="420"/>
         <source>Cycle through the identified distinct regions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddra genom de identifierade åtskilda regionerna.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="442"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger storleken på den valda regionen. Låga värden tyder på en oönskad region.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="452"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om markerat centreras den valda regionen i alla snittvyer, utom i idealfallet med endast en region.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="465"/>
@@ -1078,67 +1084,71 @@ The input centerline is expected to be inside the lumen surface.</source>
 This is available if the lumen surface is a segmentation.
 
 The &apos;Sphere&apos; brush is enforced. Further customisation can be performed in the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera effekten ”Måla” i ”Segmentredigeraren”.
+
+Den är tillgänglig om lumenytan är en segmentering.
+
+Penseln ”Sfär” används. Ytterligare anpassning kan göras i ”Segmentredigeraren”.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="472"/>
         <source>paint</source>
-        <translation type="unfinished"></translation>
+        <translation>måla</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="546"/>
         <source>Specify how to output point coordinates of the centerline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange hur centrumlinjens punktkoordinater ska skrivas ut.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="549"/>
         <source>Tab 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Flik 2</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="629"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="632"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="560"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinatsystem:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="600"/>
         <source>Split coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela koordinater:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="607"/>
         <source>Split coordinate system values into three separate table columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela koordinatsystemvärden i tre separata tabellkolumner.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="569"/>
         <source>Right-Anterior-Superior coordinate system. Used in the Slicer scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinatsystemet höger–anterior–superior. Används i Slicer-scenen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="52"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="97"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera segmentredigeraren och snittvyerna med indatasegmenteringen och volymen, om sådana finns.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="100"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="396"/>
@@ -1149,63 +1159,69 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again. A &apos;fast fix&apos; function is also provided.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta antalet åtskilda sammanhängande regioner på lumenytan.
+
+Helst ska det finnas endast en region. Fler regioner kan tyda på hål i lumen och/eller åtskilda regioner utanför lumen. Hål i lumen ger felaktiga mätningar av tvärsnittsarea.
+
+När oönskade regioner har åtgärdats, vanligtvis med effekten ”Måla” i ”Segmentredigeraren”, kan den här funktionen köras igen. En funktion för snabb korrigering finns också.
+
+Efter en fullständig reparation av lumenytan måste centrumlinjerna extraheras på nytt, så att radiearrayerna för ”Största inskrivna sfär” uppdateras.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="572"/>
         <source>RAS (Slicer convention)</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS (Slicer-konvention)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="582"/>
         <source>Left-Posterior-Superior coordinate system. Used commonly in files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinatsystemet vänster–posterior–superior. Används ofta i filer.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="585"/>
         <source>LPS (DICOM convention)</source>
-        <translation type="unfinished"></translation>
+        <translation>LPS (DICOM-konvention)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="702"/>
         <source>Browse cross-sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddra bland tvärsnitt</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="719"/>
         <source>Point index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktindex:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="726"/>
         <source>Point of the centerline where the selected slice view should be moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt på centrumlinjen dit den valda snittvyn ska flyttas</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="742"/>
         <source>Move slice view:</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta snittvy:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="751"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="842"/>
         <source>Move this slice view to a point along the centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta denna snittvy till en punkt längs centrumlinjen</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="775"/>
         <source>Center the selected point in the slice view</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrera den valda punkten i snittvyn</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="778"/>
         <source>centered</source>
-        <translation type="unfinished"></translation>
+        <translation>centrerad</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="791"/>
         <source>Orient the slice view orthogonal to the centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientera snittvyn vinkelrätt mot centrumlinjen</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="794"/>
