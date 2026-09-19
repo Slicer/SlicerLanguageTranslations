@@ -4746,93 +4746,93 @@ Kontrollera dina behörigheter.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="39"/>
         <source>Symbolic name</source>
-        <translation type="unfinished"></translation>
+        <translation>Symboliskt namn</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="66"/>
         <source>Activation policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiveringsprincip</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"/>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Lat</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ivrig</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerat</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="105"/>
         <source>Export directive</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportdirektiv</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="115"/>
         <source>Activator class name</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverarklassens namn</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="125"/>
         <source>Activator header file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverarklassens huvudfil</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="135"/>
         <source>Activator source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverarklassens källfil</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="35"/>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="47"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Huvud</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="94"/>
         <source>Advanced (activator class: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerat (aktiverarklass: %1)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="102"/>
         <source>The symbolic name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Det symboliska namnet kan inte vara tomt</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="108"/>
         <source>The export directive cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportdirektivet kan inte vara tomt</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="114"/>
         <source>The activator class name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverarklassens namn kan inte vara tomt</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="120"/>
         <source>The activator header filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverarklassens huvudfilnamn kan inte vara tomt</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="126"/>
         <source>The activator source filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverarklassens källfilnamn kan inte vara tomt</translation>
     </message>
 </context>
 <context>
@@ -4840,7 +4840,7 @@ Kontrollera dina behörigheter.</translation>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="14"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK-generator för insticksmoduler</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="74"/>
@@ -4853,7 +4853,15 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Insticksmodul&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="278"/>
@@ -4866,48 +4874,56 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Insticksmodul &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Förhandsvisning&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="370"/>
         <source>Output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatakatalog</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="383"/>
         <source>Choose output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj utdatakatalog</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="431"/>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisning &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="451"/>
         <source>Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="458"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="489"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Avsluta</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="478"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkiv</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="492"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="497"/>
         <source>Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ…</translation>
     </message>
 </context>
 <context>
@@ -4915,77 +4931,77 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
         <source>Manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"/>
         <source>Symbolic Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Symboliskt namn</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"/>
         <source>Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>Leverantör</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licens</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Upphovsrätt</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"/>
         <source>Activation Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiveringsprincip</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategori</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="107"/>
         <source>Contact Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktadress</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskrivning</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
         <source>Doc URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentations-URL</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Lat</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Direkt</translation>
     </message>
 </context>
 <context>
@@ -4993,12 +5009,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="14"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="20"/>
         <source>License template</source>
-        <translation type="unfinished"></translation>
+        <translation>Licensmall</translation>
     </message>
 </context>
 <context>
@@ -5006,37 +5022,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="100"/>
         <source>UNINSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>EJ INSTALLERAD</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="101"/>
         <source>INSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>INSTALLERAD</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="102"/>
         <source>RESOLVED</source>
-        <translation type="unfinished"></translation>
+        <translation>LÖST</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="103"/>
         <source>STARTING</source>
-        <translation type="unfinished"></translation>
+        <translation>STARTAR</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="104"/>
         <source>STOPPING</source>
-        <translation type="unfinished"></translation>
+        <translation>STOPPAR</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="105"/>
         <source>ACTIVE</source>
-        <translation type="unfinished"></translation>
+        <translation>AKTIV</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="115"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>okänd</translation>
     </message>
 </context>
 <context>
@@ -5044,47 +5060,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;CTK-widget för enkel bildvisning&lt;/h1&gt;Bidrag från: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Tangentbordskommandon:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: avsluta  &lt;em&gt;h&lt;/em&gt;: visa denna hjälp  &lt;em&gt;i&lt;/em&gt;: invertera intensiteter  &lt;em&gt;[ ]&lt;/em&gt;: öka/minska zoomningen  &lt;em&gt;x y&lt;/em&gt;: spegelvänd längs x-/y-axeln  &lt;em&gt;r&lt;/em&gt;: återställ ursprungliga inställningar  &lt;em&gt;blanksteg&lt;/em&gt;: växla kontinuerlig markörföljning  &lt;em&gt;upppil nedpil&lt;/em&gt;: byt till nästa/föregående snitt&lt;h3&gt;Muskommandon:&lt;/h3&gt;  &lt;em&gt;vänsterknapp&lt;/em&gt;: fönster och nivå  &lt;em&gt;mittknapp&lt;/em&gt;: zooma  &lt;em&gt;högerknapp&lt;/em&gt;: centrera</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1073"/>
         <source>Intensity Range = %1 .. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitetsintervall = %1 .. %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1085"/>
         <source>W / L = %1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>W / L = %1 / %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1097"/>
         <source>Spacing = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1108"/>
         <source>Size = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1118"/>
         <source>RAS = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1129"/>
         <source>IJK = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>IJK = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1141"/>
         <source>Value = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Värde = %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1183"/>
         <source>No Image Loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen bild har lästs in.</translation>
     </message>
 </context>
 <context>
@@ -5092,17 +5108,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="14"/>
         <source>Qt Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-testning</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="105"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela in</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="115"/>
         <source>PlayBack</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppspelning</translation>
     </message>
 </context>
 <context>
@@ -5110,7 +5126,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkRangeWidget.ui" line="20"/>
         <source>Select range</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj intervall</translation>
     </message>
 </context>
 <context>
@@ -5118,22 +5134,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="20"/>
         <source>Screen Capture Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ för skärmbildstagning</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="99"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="105"/>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapp:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="112"/>
         <source>Select a directory in which screen captures will be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en katalog där skärmbilder ska sparas.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="119"/>
