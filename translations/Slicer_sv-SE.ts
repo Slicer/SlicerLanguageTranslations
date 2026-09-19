@@ -21448,7 +21448,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="737"/>
         <source>Failed to open extensions settings file: %1</source>
-        <translation>Kunde inte öppna inställningsfilen för tillägg: %</translation>
+        <translation>Kunde inte öppna inställningsfilen för tillägg: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="769"/>
