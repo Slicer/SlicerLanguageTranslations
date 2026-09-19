@@ -5746,37 +5746,37 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="76"/>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation>Courier</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="81"/>
         <source>Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="89"/>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="96"/>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation>fet</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="103"/>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>kursiv</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="110"/>
         <source>shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>skugga</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="117"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek:</translation>
     </message>
 </context>
 <context>
@@ -5784,17 +5784,17 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="14"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärde</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="26"/>
         <source>Threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärde:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitet:</translation>
     </message>
 </context>
 <context>
@@ -5802,52 +5802,52 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="14"/>
         <source>Volume property</source>
-        <translation type="unfinished"></translation>
+        <translation>Volymegenskap</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="23"/>
         <source>Scalar Opacity Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappning av skaläropacitet</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="51"/>
         <source>Scalar Color Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappning av skalärfärg</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="73"/>
         <source>Gradient Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientopacitet</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerat</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolering:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="109"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Närmaste granne</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="114"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjär</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="122"/>
         <source>Shade:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skuggning:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="132"/>
         <source>Material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Material:</translation>
     </message>
 </context>
 <context>
@@ -5855,17 +5855,17 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="87"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakåt</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="89"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="90"/>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutför</translation>
     </message>
 </context>
 <context>
@@ -5873,12 +5873,12 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="20"/>
         <source>Workflow</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetsflöde</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="35"/>
         <source>Step title</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegrubrik</translation>
     </message>
 </context>
 <context>
@@ -5886,13 +5886,14 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="200"/>
         <source>Playback ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppspelning …</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="201"/>
         <source>The settings are different from the record Settings.
 Do you want to restore the settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningarna skiljer sig från inspelningsinställningarna.
+Vill du återställa inställningarna?</translation>
     </message>
 </context>
 <context>
@@ -5900,42 +5901,42 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="14"/>
         <source>Login Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggningsprofiler</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="26"/>
         <source>Profiles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="52"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"/>
         <source>Login information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggningsuppgifter:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="106"/>
         <source>Profile name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilnamn:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="119"/>
         <source>Server URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server-URI:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="132"/>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarnamn:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="145"/>
