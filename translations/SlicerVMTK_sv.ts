@@ -2453,144 +2453,150 @@ Styrpunkterna förutsätts ligga på den kontrastförstärkta lumen.</translatio
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="237"/>
         <source>Tube diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rördiameter:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="244"/>
         <source>Specify a value slightly above the maximum estimated diameter of the target artery.
 
 If a Shape::Tube node is specified below, this parameter is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange ett värde som ligger något över den uppskattade största diametern för målartären.
+
+Om en Shape::Tube-nod anges nedan ignoreras den här parametern.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="200"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentering:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="207"/>
         <source>Select an output segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en utdatasetegmentering</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="171"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en snittvy. Bakgrundsvolymnoden används. Kontrollera noga att rätt volymnod används.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="88"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera segmentredigeraren och snittvyerna med indatasegmenteringen och volymen, om sådana finns.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="162"/>
         <source>Slice node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Snittnod:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="270"/>
         <source>Ideally, there should be only one region in the input segment.</source>
         <oldsource>Ideally, there should be only one region in the output segment.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Helst ska det bara finnas en region i indatasegmentet.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="375"/>
         <source>Segment editor effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentredigerareffekter</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="389"/>
         <source>Flood filling</source>
-        <translation type="unfinished"></translation>
+        <translation>Flödesfyllning</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="294"/>
         <source>Alternative extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ omfattning</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="309"/>
         <source>Use a Shape::Tube node to limit the circumferential
 extent, instead of a fixed diameter tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd en Shape::Tube-nod för att begränsa den perifera
+omfattningen i stället för ett rör med fast diameter.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
         <source>Tube node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rörnod:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="326"/>
         <source>Limit the region of interest to this Shape::Tube node.
 
 If specified, the regular tube diameter above is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa intresseområdet till denna Shape::Tube-nod.
+
+Om den anges ignoreras den vanliga rördiametern ovan.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="399"/>
         <source>Intensity tolerance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitetstolerans:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="412"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj sammanhängande voxlar med ett intensitetsintervall mellan värdet vid en styrpunkts position ± denna tolerans.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="434"/>
         <source>Neighbourhood size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek på grannskap:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="447"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Regioner läggs till endast om alla voxlar i grannskapet har liknande intensiteter. Använd högre värden för att förhindra läckage. Använd lägre värden för att fånga finare detaljer.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="473"/>
         <source>Remove holes in a contiguous segment. There should remain 1 region ideally. Complex segments may not always be reduced to a single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort hål i ett sammanhängande segment. Helst ska en region återstå. Komplexa segment kan inte alltid reduceras till en enda region.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="476"/>
         <source>Smoothing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utjämning:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="492"/>
         <source>This value is used to calculate the gap pixel size. Large values also mean longer processing time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här värdet används för att beräkna gapets pixelstorlek. Stora värden innebär också längre bearbetningstid.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="495"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="532"/>
         <source>Extract centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrahera centrumlinjer</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="545"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -2600,7 +2606,9 @@ If specified, the regular tube diameter above is ignored.</source>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;modulen&lt;/a&gt; försöker segmentera stora vener med hjälp av effekter i ”Segmentredigeraren”.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="38"/>
@@ -2608,123 +2616,127 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="175"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna resultaten.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="272"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameternoden är None.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="285"/>
         <source>Input curve or volume or segmentation is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatakurva, volym eller segmentering är ogiltig.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="292"/>
         <source>Extrusion kernel size or Gaussian standard deviation
                 or seed radius or shell margin or shell thickness is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Extruderingskärnans storlek, Gaussisk standardavvikelse
+                eller fröradie eller skalets marginal eller skaltjocklek är ogiltig.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="297"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen startade</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="320"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="412"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen slutfördes på {duration} sekunder</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="438"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar testet</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="440"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Testet godkändes</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="108"/>
         <source>Open curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppen kurva:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="115"/>
         <source>Select an open markups curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en öppen kurva med markeringar.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="145"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volym:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="152"/>
         <source>Select a volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en volym.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="189"/>
         <source>Select a segmentation to contain the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en segmentering som ska innehålla utdata.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="182"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentering:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="88"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera segmentredigeraren och snittvyerna med indatasegmenteringen och volymen, om sådana finns.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="102"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="235"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrar</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="246"/>
         <source>Shell margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalmarginal:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="259"/>
         <source>Margin of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginal för ett tillfälligt skal runt indatakurvan.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="262"/>
@@ -2733,18 +2745,19 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="375"/>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="410"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="287"/>
         <source>For the &apos;Smoothing::RemoveExtrusion&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>För effekten ”Smoothing::RemoveExtrusion” i ”Segmentredigeraren”.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="309"/>
         <source>Gaussian standard
 deviation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaussisk standard
+avvikelse:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="323"/>
