@@ -326,27 +326,27 @@ och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR01
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="274"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjemodell</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="277"/>
         <source>Centerline_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjekurva</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="281"/>
         <source>Invalid component</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig komponent</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="286"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutförd</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="406"/>
         <source>Input centerline is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatacentrumlinjen är ogiltig</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="423"/>
@@ -356,114 +356,116 @@ och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR01
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="662"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline polydata first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anropa först ”splitCenterlines()” med en centrumlinje-polydata som indata.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="614"/>
         <source>Processing curve creation started</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetning för kurvskapande startade</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="626"/>
         <source>Processing curve creation completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetning för kurvskapande slutfördes på {duration} sekunder</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="635"/>
         <source>Processing centerline ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetning av centrumlinje-ID:n startade</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="656"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetning av centrumlinje-ID:n slutfördes på {duration} sekunder</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="666"/>
         <source>Processing group ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetning av grupp-ID:n startade</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="699"/>
         <source>Processing group ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetning av grupp-ID:n slutfördes på {duration} sekunder</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="715"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar testet</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="717"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Testet godkändes</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="29"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="70"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjemodell:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="80"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj indata till algoritmen.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="113"/>
         <source>Component:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponent:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="120"/>
         <source>Select the output components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj utdata-komponenter.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="151"/>
         <source>Create centerline models</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa centrumlinjemodeller</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="154"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa modeller</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="164"/>
         <source>Create centerline curves.
 
 Upon curve creation, the visibility of the names can be specified via the menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa centrumlinjekurvor.
+
+När kurvorna skapas kan namnsynligheten anges via menyn.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="169"/>
         <source>Create curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa kurvor</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="184"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="187"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -471,17 +473,17 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="23"/>
         <source>Surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yta:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="30"/>
         <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trädets indataytmodell. Om beräkningen är långsam kan du justera förbearbetningsparametrarna i avsnittet Avancerat.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
@@ -489,127 +491,127 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="219"/>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="381"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="51"/>
         <source>Select a model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en modell- eller segmenteringsnod</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="58"/>
         <source>Clip points:</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipppunkter:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="67"/>
         <source>Branch clippoints. The first point is interpreted as the model inlet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grenklipppunkter. Den första punkten tolkas som modellens inlopp.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="70"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="78"/>
         <source>Clippoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipppunkter</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="105"/>
         <source>Cap output surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Förslut utdatayta:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="112"/>
         <source>Cap clipped ends of model</source>
-        <translation type="unfinished"></translation>
+        <translation>Förslut modellens beskurna ändar</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="125"/>
         <source>Centerlines:</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjer:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="132"/>
         <source>Input centerlines of the tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trädets indatacentrumlinjer.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="152"/>
         <source>Select a model node</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en modellnod</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="169"/>
         <source>Paremeter set: </source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning: </translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="176"/>
         <source>Pick node to store parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj nod för lagring av parameteruppsättningen</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
         <source>ClipVessel</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipp kärl</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="210"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="216"/>
         <source>Result of clipping input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultat av beskärning av indatamodell</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="227"/>
         <source>Output surface model</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdataytmodell</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="252"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerat</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="261"/>
         <source>Preprocess input surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbearbeta indatayta:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="268"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
-        <translation type="unfinished"></translation>
+        <translation>Indataytmodellen reduceras till det begärda antalet målpunkter (vilket gör beräkningen snabbare) eller delas upp (vilket gör beräkningarna mer exakta).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="281"/>
         <source>Target point count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal målpunkter:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="291"/>
         <source>Preferred number of points in the preprocessed surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Önskat antal punkter i den förbearbetade ytan.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="309"/>
         <source>k</source>
-        <translation type="unfinished"></translation>
+        <translation>k</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
