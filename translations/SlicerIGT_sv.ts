@@ -1583,139 +1583,139 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="41"/>
         <source>Input (ToolToReference):</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata (ToolToReference):</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="57"/>
         <source>Output (ToolTipToTool):</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata (ToolTipToTool):</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="79"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroller</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="101"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuell</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="121"/>
         <source>Startup delay (seconds):  </source>
-        <translation type="unfinished"></translation>
+        <translation>Startfördröjning (sekunder):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="148"/>
         <source>Delay and duration (seconds):  </source>
-        <translation type="unfinished"></translation>
+        <translation>Fördröjning och varaktighet (sekunder):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="176"/>
         <source>Data collection will start and end after specified time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datainsamlingen startar och avslutas efter angiven tid.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="183"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start collecting data for pivot calibration. The calibration will be computed and orientation will be appropriately flipped on completion.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Börja samla data för pivotkalibrering. Kalibreringen beräknas och orienteringen vänds lämpligt när den är klar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="186"/>
         <source>Start Pivot Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta pivotkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="196"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start collecting data for spin calibration. The calibration will be computed and orientation will be appropriately flipped on completion.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Börja samla data för spinnkalibrering. Kalibreringen beräknas och orienteringen vänds lämpligt när den är klar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="199"/>
         <source>Start Spin Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta spinnkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="212"/>
         <source>Countdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedräkning</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="239"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="257"/>
         <source>Spin auto-calibrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk spinnkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="267"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="280"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="306"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="313"/>
         <source>Stop when complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa när klar</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="333"/>
         <source>Pivot auto-calibrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk pivotkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="374"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="382"/>
         <source>Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultat</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="391"/>
         <source>Root-mean-square error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotmedelkvadratfel:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="408"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="417"/>
         <source>Force snap the tool&apos;s orientation to be along the closest coordinate axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvinga verktygets orientering att fästa längs närmaste koordinataxel.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="420"/>
         <source>Snap rotation to right-angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäst rotation vid rät vinkel</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="427"/>
         <source>If the tool points in the wrong direction, flip it to point in the opposite direction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om verktyget pekar åt fel håll, vänd det så att det pekar i motsatt riktning.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="430"/>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="437"/>
         <source>Pivot input validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validering av pivotindata</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="446"/>
         <source>Minimum required orientation difference from previous pose during pivot calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta nödvändiga orienteringsskillnad från föregående position under pivotkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="449"/>
@@ -1723,12 +1723,12 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="611"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="764"/>
         <source>°</source>
-        <translation type="unfinished"></translation>
+        <translation>°</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="459"/>
         <source>Minimum required position difference from previous pose during pivot calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta nödvändiga positionsskillnad från föregående position under pivotkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="462"/>
@@ -1738,12 +1738,12 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="734"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="814"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="472"/>
         <source>Minimum position difference:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta positionsskillnad:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="479"/>
@@ -1751,71 +1751,71 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="621"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="774"/>
         <source>Minimum orientation difference:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta orienteringsskillnad:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="489"/>
         <source>Spin input validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validering av spinnindata</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="498"/>
         <source>Minimum required position difference from previous pose during spin calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta nödvändiga positionsskillnad från föregående position under spinnkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="511"/>
         <source>Minimum required orientation difference from previous pose during spin calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta nödvändiga orienteringsskillnad från föregående position under spinnkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="531"/>
         <source>Maximum position difference:</source>
-        <translation type="unfinished"></translation>
+        <translation>Största positionsskillnad:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="541"/>
         <source>Pivot auto-calibration settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar för automatisk pivotkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="562"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="718"/>
         <source>Completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutförande</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="571"/>
         <source>Number of collected poses for pivot auto-calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal insamlade positioner för automatisk pivotkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="581"/>
         <source>Minimum error for pivot auto-calibration to be successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta fel för att automatisk pivotkalibrering ska lyckas</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="594"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="724"/>
         <source>Target error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Målfel:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="601"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="744"/>
         <source>Target number of points:</source>
-        <translation type="unfinished"></translation>
+        <translation>Målantal punkter:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="608"/>
         <source>Minimum orientation difference in collected poses for pivot auto-calibration to be successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta orienteringsskillnad i insamlade positioner för att automatisk pivotkalibrering ska lyckas</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="631"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="784"/>
         <source>Buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>Buffert</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="640"/>
