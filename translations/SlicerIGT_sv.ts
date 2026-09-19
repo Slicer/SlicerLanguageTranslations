@@ -9,9 +9,9 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished">
-This module registers fiducial list to a model surface using iterative closest points (ICP) method.
-For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+        <translation>
+Den här modulen registrerar en fiduciallista mot en modellyta med metoden Iterative Closest Points (ICP).
+Hjälp om hur modulen används finns på &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT:s webbplats&lt;/a&gt;.
     </translation>
     </message>
     <message>
@@ -2099,7 +2099,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="67"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="74"/>
@@ -2109,7 +2109,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="77"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="97"/>
