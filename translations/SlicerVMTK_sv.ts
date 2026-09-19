@@ -1861,22 +1861,22 @@ Rörets slingrighet och diameterfördelningen avgör den här parametern. Detta 
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="465"/>
         <source>Increase the Tube&apos;s radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öka rörets radier.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="468"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="501"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="504"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -1889,262 +1889,267 @@ Rörets slingrighet och diameterfördelningen avgör den här parametern. Detta 
     This module replaces the old &quot;Centerline Computation&quot; module. Documentation is available
     &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;here&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Beräkna och kvantifiera centrumlinjenätverk för kärl eller luftvägar från en ytmodell.
+    Ytmodellen kan skapas från bildvolymen med modulen Segmentredigeraren.
+    Den här modulen ersätter den gamla modulen ”Centerline Computation”. Dokumentation finns
+    &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;här&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="223"/>
         <source>Valid input surface is required</source>
-        <translation type="unfinished"></translation>
+        <translation>Giltig indatayta krävs</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="241"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="334"/>
         <source>Preprocessing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbearbetar…</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="257"/>
         <source>Get manifold edges...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtar icke-manifoldkanter…</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="265"/>
         <source>Found {0} non-manifold edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittade {0} icke-manifoldkanter.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="266"/>
         <source> Centerline computation may fail. Try to increase target point count or reduce decimation aggressiveness</source>
-        <translation type="unfinished"></translation>
+        <translation> Centrumlinjeberäkningen kan misslyckas. Försök öka antalet målpunkter eller minska förenklingsgraden</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="277"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="347"/>
         <source>Extract network...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraherar nätverk…</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="298"/>
         <source>Extract centerline...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraherar centrumlinje…</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="317"/>
         <source>Generate curves and quantification results table...</source>
-        <translation type="unfinished"></translation>
+        <translation>Genererar kurvor och resultatstabell för kvantifiering…</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="322"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna resultaten: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="326"/>
         <source>Centerline analysis complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjeanalysen är klar.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="372"/>
         <source>Failed to detect end points: </source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att hitta ändpunkter: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="377"/>
         <source>Automatic endpoint computation complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk ändpunktsberäkning klar.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="429"/>
         <source>Invalid input surface node</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig indataytnod</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="440"/>
         <source>Surface can only be loaded from model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytan kan endast läsas in från en modell- eller segmenteringsnod</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="449"/>
         <source>VMTK library is not found</source>
-        <translation type="unfinished"></translation>
+        <translation>VMTK-biblioteket hittades inte</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="453"/>
         <source>Input surface model is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Indataytmodellen är tom</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="489"/>
         <source>Mesh subdivision failed. Skip subdivision step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdelning av nät misslyckades. Hoppar över uppdelningssteget.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="541"/>
         <source>Failed to get non-manifold edges (neighborhood filter output was empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att hämta icke-manifoldkanter (utdata från grannskapsfilter var tom)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="659"/>
         <source>At least two endpoints are needed for centerline extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst två ändpunkter behövs för centrumlinjeextraktion</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="720"/>
         <source>Failed to compute centerline (no output was generated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna centrumlinje (ingen utdata genererades)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="725"/>
         <source>Failed to compute centerline (no Voronoi diagram was generated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna centrumlinje (inget Voronoi-diagram genererades)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="729"/>
         <source>End of Centerline Computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjeberäkningen är slut.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="746"/>
         <source>openSurfaceAtPoint failed: empty input polydata</source>
-        <translation type="unfinished"></translation>
+        <translation>openSurfaceAtPoint misslyckades: tom indatapolydata</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="775"/>
         <source>Unable to import the SlicerVmtk libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Det går inte att importera SlicerVmtk-biblioteken</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1035"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1053"/>
         <source>Network polydata does not contain length cell array</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverkets polydata innehåller inte längdcellarrayen</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1047"/>
         <source>Failed to compute array </source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna arrayen </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="14"/>
         <source>Sampling distance used for generating centerline curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Samplingsavstånd som används för att generera centrumlinjekurva</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="26"/>
         <source>Surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yta:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="33"/>
         <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trädets indataytmodell. Om beräkningen är långsam kan du justera förbearbetningsparametrarna i avsnittet Avancerat.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="54"/>
         <source>Select a model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en modell- eller segmenteringsnod</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="61"/>
         <source>Endpoints:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändpunkter:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="70"/>
         <source>Branch endpoints. &quot;Unselected&quot; control points are used as sources, &quot;selected&quot; control points are used as targets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grenändpunkter. ”Omarkerade” styrpunkter används som källor, ”markerade” styrpunkter används som mål.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="81"/>
         <source>Endpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändpunkter</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="106"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiera automatiskt</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="125"/>
         <source>Paremeter set: </source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="132"/>
         <source>Pick node to store parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj nod för lagring av parameteruppsättningen</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="143"/>
         <source>ExtractCenterline</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrahera centrumlinje</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="166"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="172"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverk</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="178"/>
         <source>Network model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverksmodell:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="185"/>
         <source>Result of quick centerline network extraction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultat av snabb extraktion av centrumlinjenätverk.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="196"/>
         <source>Network model</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverksmodell</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="218"/>
         <source>Network properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverksegenskaper:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="225"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="394"/>
         <source>Table containing quantitative analysis of centerline (radius, length, curvature, torsion, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabell med kvantitativ analys av centrumlinjen (radie, längd, krökning, torsion osv.)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="236"/>
         <source>Network properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverksegenskaper</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="258"/>
         <source>Network curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverkskurva:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="265"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="354"/>
         <source>Centerline extraction result as a hierarchy of markups curves.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultat av centrumlinjeextraktion som en hierarki av kurvor med markeringar.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="276"/>
         <source>Network curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverkskurva</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
         <source>Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Träd</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
