@@ -3064,24 +3064,26 @@ Fiducialpunkterna förutsätts ligga på den kontrastförstärkta lumen.</transl
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="424"/>
         <source>Smoothing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utjämning:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="462"/>
         <source>Use &apos;Extract centerline&apos; module to generate a centerline model and a centerline curve.
 
 It is recommended to generate centerlines on accurate segmentations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd modulen ”Extract centerline” för att generera en centrumlinjemodell och en centrumlinjekurva.
+
+Vi rekommenderar att centrumlinjer genereras på noggranna segmenteringar.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="470"/>
         <source>Extract centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrahera centrumlinjer</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="489"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -3091,7 +3093,9 @@ It is recommended to generate centerlines on accurate segmentations.</source>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; straightens an open input markups curve and displays cumulative and individual lengths between control points. It is intended for quick one dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;modulen&lt;/a&gt; rätar ut en öppen indatakurva med markeringar och visar sammanlagda och enskilda längder mellan styrpunkter. Den är avsedd för snabb endimensionell utvärdering av arteriell stenos, men är i praktiken ändamålsoberoende.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="38"/>
@@ -3099,63 +3103,66 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="197"/>
         <source>Cumulative</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanlagd</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="197"/>
         <source>Cumulative %</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanlagd %</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="197"/>
         <source>Partial</source>
-        <translation type="unfinished"></translation>
+        <translation>Delvis</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="197"/>
         <source>Partial %</source>
-        <translation type="unfinished"></translation>
+        <translation>Delvis %</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="274"/>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="288"/>
         <source>No curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen kurva.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="401"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar testet</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="403"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Testet godkändes</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
         <source>Input curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatakurva:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="30"/>
         <source>Pick the input markups curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj indatakurvan med markeringar.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultattabell.</translation>
     </message>
 </context>
 <context>
@@ -3165,7 +3172,9 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;modulen&lt;/a&gt; beräknar ytarean för segment som skärs av ett snittplan i dess orientering. Den är avsedd för snabb tvådimensionell utvärdering av arteriell stenos, men är i praktiken ändamålsoberoende.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="38"/>
@@ -3173,32 +3182,35 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="107"/>
         <source>More options</source>
-        <translation type="unfinished"></translation>
+        <translation>Fler alternativ</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="109"/>
         <source>Apply to all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa på alla segment</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="111"/>
         <source>If unchecked, only the selected segment will be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om rutan inte markeras bearbetas endast det valda segmentet.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="115"/>
         <source>Calculate the surface area of the closest island to the ficucial control point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna ytarean för den ö som ligger närmast fiducialstyrpunkten.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="118"/>
         <source>Create an output model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa en utdatamodell.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="121"/>
@@ -3216,158 +3228,164 @@ The result is influenced by :
  - holes in the segments
  - point placement, if &apos;Closest island&apos; option is selected,
  - smoothing level in the &apos;Segment editor&apos;.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skapa en modell för varje beskuret segment.
+Det gör det möjligt att visa modellen som ytarean beräknas från.
+
+Resultatet påverkas av:
+ – hål i segmenten
+ – punktplacering, om alternativet ”Närmaste ö” är valt
+ – utjämningsnivån i ”Segmentredigeraren”.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="122"/>
         <source>Reset control point orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ styrpunktens orientering</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="124"/>
         <source>Click on a control point to reset its recorded slice orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka på en styrpunkt för att återställa dess registrerade snittorientering.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="126"/>
         <source>Restore orientation of all slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ orienteringen för alla snittvyer</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="127"/>
         <source>... to their default orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>… till deras standardorientering.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Styrpunkt</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytarea</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Model visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellsynlighet</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Segment visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentsynlighet</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="181"/>
         <source>Remove row</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort rad</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="186"/>
         <source>Empty table</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm tabell</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="192"/>
         <source>Dismiss menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng meny</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="241"/>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="631"/>
         <source>Input segmentation is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatasegmenteringen är ogiltig</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="348"/>
         <source>Select a slice node</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en snittnod</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="351"/>
         <source>Select a fiducial node</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en fiducialnod</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="354"/>
         <source>Select a segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en segmenteringsnod</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="357"/>
         <source>Click on a fiducial control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka på en fiducialstyrpunkt</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="359"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna resultaten.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="544"/>
         <source>Fiducial node is no longer observed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiducialnoden observeras inte längre</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="550"/>
         <source>Fiducial node is being observed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiducialnoden observeras</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="563"/>
         <source>Slice node not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Snittnod saknas</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="580"/>
         <source>Slice orientation recorded</source>
-        <translation type="unfinished"></translation>
+        <translation>Snittorientering registrerad</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="590"/>
         <source>Slice orientation restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Snittorientering återställd</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="597"/>
         <source>Reset orientation at point</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ orientering vid punkt</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="633"/>
         <source>Input segment ID is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatasegment-ID är ogiltigt</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="637"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen startade</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="682"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen slutfördes på {duration} sekunder</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="734"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar testet</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="736"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Testet godkändes</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
