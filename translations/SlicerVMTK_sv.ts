@@ -1543,7 +1543,11 @@ Create a Shape::Tube markups node guided by an arbitrary markups curve, a center
 See more information in &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 Thanks to Andras Lasso for requiring import/export from/to a centerline model/curve.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Skapa en Shape::Tube-markörnod styrd av en godtycklig kurva med markeringar, en centrumlinjemodell eller en centrumlinjekurva.
+Mer information finns i &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;moduldokumentationen&lt;/a&gt;.
+Tack till Andras Lasso för kravet på import/export från/till en centrumlinjemodell/-kurva.
+</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="39"/>
@@ -1551,142 +1555,145 @@ Thanks to Andras Lasso for requiring import/export from/to a centerline model/cu
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="134"/>
         <source>Tiny</source>
-        <translation type="unfinished"></translation>
+        <translation>Mycket liten</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="135"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Liten</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="136"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Medelstor</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="137"/>
         <source>Big</source>
-        <translation type="unfinished"></translation>
+        <translation>Stor</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="138"/>
         <source>Huge</source>
-        <translation type="unfinished"></translation>
+        <translation>Mycket stor</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="224"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna resultaten.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="358"/>
         <location filename="EditCenterline/EditCenterline.py" line="403"/>
         <location filename="EditCenterline/EditCenterline.py" line="453"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameternoden är None.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="362"/>
         <source>Input centerline is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatacentrumlinjen är None.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="408"/>
         <source>Processing started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen startade.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="420"/>
         <source>Centerline model processing failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetning av centrumlinjemodell misslyckades.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="422"/>
         <source>Centerline is bifurcated, it must not be bifurcated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjen har förgreningar, men får inte ha förgreningar.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="432"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen slutfördes på {duration} sekunder</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="543"/>
         <source>Failed to get segment polydata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att hämta segmentets polydata.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="581"/>
         <source>Skipping empty section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppar över tomt avsnitt.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="592"/>
         <source>Skipping empty closest section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppar över närmaste tomma avsnitt.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="608"/>
         <location filename="EditCenterline/EditCenterline.py" line="628"/>
         <location filename="EditCenterline/EditCenterline.py" line="674"/>
         <source>Tube is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Röret är None.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="610"/>
         <location filename="EditCenterline/EditCenterline.py" line="630"/>
         <location filename="EditCenterline/EditCenterline.py" line="676"/>
         <source>Shape is not a tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shape är inte ett rör.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="612"/>
         <location filename="EditCenterline/EditCenterline.py" line="632"/>
         <location filename="EditCenterline/EditCenterline.py" line="678"/>
         <source>Tube must have at least 4 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Röret måste ha minst 4 punkter.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="616"/>
         <location filename="EditCenterline/EditCenterline.py" line="639"/>
         <source>The central spline of the tube is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rörets centrala spline är None.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="621"/>
         <location filename="EditCenterline/EditCenterline.py" line="642"/>
         <source>The central spline of the tube does not have radius information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rörets centrala spline saknar radieinformation.</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="635"/>
         <source>Centerline curve is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjekurvan är None.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="29"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="70"/>
         <source>Centerline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinje:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="77"/>
@@ -1696,22 +1703,27 @@ This can be:
  - an arbitrary curve representing the axis of an artery,
  - a centerline curve generated by the &apos;ExtractCenterline&apos; module,
  - a centerline model generated by the &apos;ExtractCenterline&apos; module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en indatacentrumlinje.
+
+Den kan vara:
+ – en godtycklig kurva som representerar en artärs axel,
+ – en centrumlinjekurva som genererats av modulen ”ExtractCenterline”,
+ – en centrumlinjemodell som genererats av modulen ”ExtractCenterline”.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="113"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volym:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="120"/>
         <source>Select a volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en volym.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="150"/>
         <source>Target dimension:</source>
-        <translation type="unfinished"></translation>
+        <translation>Måldimension:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="163"/>
@@ -1720,125 +1732,131 @@ This can be:
 Examples:
  - Tiny: leg arteries, coronaries,
  - Huge: thoracic aorta.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en målprofil för artärdimension.
+
+Exempel:
+ – mycket liten: benartärer, kranskärl,
+ – mycket stor: bröstaorta.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="177"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="185"/>
         <source>Shape tube:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shape-rör:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="192"/>
         <source>Select a shape node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en Shape-nod.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="203"/>
         <source>Tube</source>
-        <translation type="unfinished"></translation>
+        <translation>Rör</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="225"/>
         <source>Number of pairs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal par:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="238"/>
         <source>Select the number of control point pairs for the tube.
 
 The tortuosity of the tube and the diameter distribution determine this parameter. This concerns an input centerline model or curve generated by the &apos;ExtractCenterline&apos; module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj antalet styrpunktspar för röret.
+
+Rörets slingrighet och diameterfördelningen avgör den här parametern. Detta gäller en indatacentrumlinjemodell eller -kurva som genererats av modulen ”ExtractCenterline”.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="261"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="272"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentering:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="279"/>
         <source>Select an optional segmentation node to keep the segment mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en valfri segmenteringsnod för att behålla segmentmasken.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="306"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjemodell:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="315"/>
         <source>Select an edited centerline model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en redigerad centrumlinjemodell.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="326"/>
         <source>EditedModel</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerad modell</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="345"/>
         <source>Update the edited centerline model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera den redigerade centrumlinjemodellen.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="348"/>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="399"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="357"/>
         <source>Centerline curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjekurva:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="366"/>
         <source>Select an edited centerline curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en redigerad centrumlinjekurva.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="377"/>
         <source>EditedCurve</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerad kurva</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="396"/>
         <source>Update the edited centerline curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera den redigerade centrumlinjekurvan.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="410"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerat</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="421"/>
         <source>Radius percent scaling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Procentuell radieskalning:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="430"/>
         <source>Decrease the Tube&apos;s radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minska rörets radier.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="433"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="446"/>
         <source>This scale factor difference is applied to the current radii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här skillnaden i skalfaktor tillämpas på aktuella radier.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="465"/>
