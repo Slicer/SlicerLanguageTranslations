@@ -3425,17 +3425,17 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="50"/>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Senaste veckan</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="57"/>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Senaste månaden</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="64"/>
         <source>Select Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj intervall</translation>
     </message>
 </context>
 <context>
@@ -3443,37 +3443,37 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="14"/>
         <source>Log messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggmeddelanden</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="37"/>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alla</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="47"/>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fel</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="57"/>
         <source>&amp;Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Varningar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="67"/>
         <source>&amp;Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meddelanden</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="84"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rensa</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
         <source>Select messages in the list to see details here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj meddelanden i listan för att se detaljer här.</translation>
     </message>
 </context>
 <context>
@@ -3481,12 +3481,12 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="161"/>
         <source>Event notification for TOPIC: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Händelseavisering för ÄMNE: %1</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
         <source>Server can not start. Create it first, then call startListen again!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Servern kan inte starta. Skapa den först och anropa sedan startListen igen!</translation>
     </message>
 </context>
 <context>
@@ -3495,28 +3495,28 @@ Data tas inte bort från PACS-servern.
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="32"/>
         <source>EventBus Demo</source>
         <oldsource>EventBus Demo App</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>EventBus-demo</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="64"/>
         <source>Connect</source>
         <oldsource>connect</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anslut</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="73"/>
         <source>Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chatt:</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="115"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
         <source>Me: </source>
-        <translation type="unfinished"></translation>
+        <translation>Jag: </translation>
     </message>
 </context>
 <context>
@@ -3524,22 +3524,22 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="14"/>
         <source>Event Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Händelsespelare</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="23"/>
         <source>TestCase :</source>
-        <translation type="unfinished"></translation>
+        <translation>Testfall:</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="49"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela in</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="56"/>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppspelning</translation>
     </message>
 </context>
 <context>
@@ -3547,22 +3547,22 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="14"/>
         <source>DICOM Part 19 Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Part 19-värdapp</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="23"/>
         <source>Load Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in data</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="36"/>
         <source>No data received</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga data mottogs</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="59"/>
         <source>Create Secondary Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa sekundär avbildning</translation>
     </message>
 </context>
 <context>
@@ -3570,52 +3570,52 @@ Data tas inte bort från PACS-servern.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="25"/>
         <source>Application Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Programsökväg:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="32"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="56"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="63"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="70"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="77"/>
         <source>Plugin Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulens status:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="90"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="97"/>
         <source>Process Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Processstatus:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="110"/>
         <source>Not running</source>
-        <translation type="unfinished"></translation>
+        <translation>Körs inte</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="134"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="141"/>
