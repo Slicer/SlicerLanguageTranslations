@@ -1287,177 +1287,177 @@ Exporten avbryts.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="874"/>
         <source>Feet First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>Fötter först – bukläge</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="875"/>
         <source>Head First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Huvud först – ryggläge</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="876"/>
         <source>Head First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Huvud först – vänster sidoläge</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="877"/>
         <source>Feet First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Fötter först – vänster sidoläge</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="878"/>
         <source>Feet First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Fötter först – ryggläge</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Dataradiografi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="900"/>
         <source>Computed Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Datortomografi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="901"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation>Magnetisk resonans</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuklearmedicin</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultraljud</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Annat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
         <source>Biomagnetic imaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Biomagnetisk avbildning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgdoppler</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
         <source>Duplex Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplexdoppler</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Endoskopi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="909"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Laserytskanning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
         <source>Positron emission tomography (PET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Positronemissionstomografi (PET)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Konventionell röntgenbildtagning (film/skärm)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>Single-photon emission computed tomograpy (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkelfotonemissionstomografi (SPECT)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
         <source>Thermography</source>
-        <translation type="unfinished"></translation>
+        <translation>Termografi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>X-Ray Aniography</source>
-        <translation type="unfinished"></translation>
+        <translation>Röntgenangiografi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Röntgengenomlysning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Strålbehandlingsbild</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
         <source>Radiotherapy Dose</source>
-        <translation type="unfinished"></translation>
+        <translation>Strålbehandlingsdos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Strålbehandlingens strukturuppsättning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
         <source>Radiotherapy Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Strålbehandlingsplan</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation>RT-behandlingsjournal</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Papperskopia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
         <source>Digital Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital röntgen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
         <source>Mammography</source>
-        <translation type="unfinished"></translation>
+        <translation>Mammografi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
         <source>Intra-oral Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Intraoral röntgen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramaröntgen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän mikroskopi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparatmikroskopi</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografering med extern kamera</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="929"/>
