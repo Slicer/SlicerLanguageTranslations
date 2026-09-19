@@ -6581,7 +6581,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 
 Varning: använd NRRD-filer för in- och utdata vid omsampling av DWMR-bilder.
 
-Varning: använd inte modulen för omsampling av diffusionstensorbilder eftersom tensorerna då inte omorienteras.</translation>
+Varning: använd inte modulen för omsampling av diffusionstensorbilder eftersom tensorerna då inte omorienteras</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
@@ -27013,7 +27013,7 @@ Standard: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Python editor.</source>
-        <translation>Python-redaktör.</translation>
+        <translation>Python-redigerare.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="105"/>
