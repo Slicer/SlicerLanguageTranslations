@@ -20,30 +20,30 @@ Mer information finns i &lt;a href=&quot;href=&quot;https://github.com/vmtk/Slic
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
-This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
-and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
 </translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="114"/>
         <source>Show 3D on success</source>
-        <translation type="unfinished">Show 3D on success</translation>
+        <translation>Visa 3D vid lyckat resultat</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="190"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">Failed to compute results.</translation>
+        <translation>Det gick inte att beräkna resultaten.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="256"/>
         <source>Failed to probe the intensity range.</source>
-        <translation type="unfinished">Failed to probe the intensity range.</translation>
+        <translation>Det gick inte att undersöka intensitetsintervallet.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="264"/>
         <source>Failed to determine the intensity range.</source>
-        <translation type="unfinished">Failed to determine the intensity range.</translation>
+        <translation>Det gick inte att fastställa intensitetsintervallet.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="308"/>
@@ -3390,66 +3390,70 @@ Resultatet påverkas av:
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="88"/>
         <source>Update the segment editor with the input segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera segmentredigeraren med indatasegmenteringen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="102"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="121"/>
         <source>Slice node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Snittnod:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="128"/>
         <source>Select an input slice view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en indatasnittvy.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="155"/>
         <source>Fiducial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiducial:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="162"/>
         <source>Select an input markups fiducial list.
 
 Clicking at a control point allows to track the slice orientation in the selected slice node, on top of the usual jump behaviour. This tracking is scene-wide only, it is not saved with the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en indatalista med fiducialmarkeringar.
+
+Genom att klicka på en styrpunkt kan snittorienteringen i den valda snittnoden spåras utöver det vanliga hoppbeteendet. Spårningen gäller bara scenen och sparas inte med den.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="197"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentering:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="204"/>
         <source>Select an input segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en indatasegmentering.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="227"/>
         <source>Result table.
 
 Right click for more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultattabell.
+
+Högerklicka för mer.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="252"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -3458,7 +3462,7 @@ Right click for more.</source>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="33"/>
         <location filename="EditCenterline/EditCenterline.py" line="31"/>
         <source>Vascular Modeling Toolkit</source>
-        <translation type="unfinished"></translation>
+        <translation>Vascular Modeling Toolkit</translation>
     </message>
 </context>
 <context>
@@ -3466,154 +3470,154 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrumlinjemodell:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="36"/>
         <source>Pick the input centerline model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj indatacentrumlinjemodellen.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Tube tree:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rörträd:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Pick an input segmentation or model node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en indatasegmenterings- eller modellnod.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="109"/>
         <source>Select an input segment.</source>
         <oldsource>Select an input segment in the selected segmentation.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett indatasegment.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
         <source>Create a segment for each branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ett segment för varje gren.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="157"/>
         <source>Create branch segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa grensegment</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
         <source>Create a model of each bifurcation splitting line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa en modell av varje delningslinje vid förgrening.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="176"/>
         <source>Create bifurcation profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa förgreningsprofiler</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="191"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="194"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="113"/>
         <source>No centerline selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen centrumlinje har valts.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="123"/>
         <source>No surface selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen yta har valts.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="129"/>
         <source>No output selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen utdata har valts.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="146"/>
         <source>Segmentation is NULL in MRML node, aborting</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenteringen är NULL i MRML-noden, avbryter</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="153"/>
         <source>No segment found in the segmentation, aborting</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget segment hittades i segmenteringen, avbryter</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="164"/>
         <source>No segment selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget segment har valts.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="175"/>
         <source>Could not create closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa en representation av sluten yta.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="191"/>
         <source>Unknown surface node</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd ytnod</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="201"/>
         <source>Splitting, please wait...</source>
         <oldsource>Debranching, please wait...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Delar upp, vänta…</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="209"/>
         <source>Could not create a valid surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa en giltig yta.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="229"/>
         <source>No branches could be retrieved; the centerline may be invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga grenar kunde hämtas; centrumlinjen kan vara ogiltig.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="238"/>
         <source>Branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Grenar</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="244"/>
         <source>Processing branch </source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetar gren </translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="257"/>
         <source>Could not retrieve branch surface </source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att hämta grenyta </translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="311"/>
         <source>Could not get a valid collection of bifurcation profiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att hämta en giltig samling förgreningsprofiler.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="319"/>
         <source>Could not get a valid subject hierarchy node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att hämta en giltig nod för ämneshierarki.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="329"/>
         <source>Bifurcation profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Förgreningsprofiler</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="353"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutförd</translation>
     </message>
 </context>
 <context>
@@ -3621,12 +3625,12 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
@@ -3634,71 +3638,75 @@ Right click for more.</source>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="22"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="32"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="46"/>
         <source>StenosisMeasurement3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Stenosmätning 3D</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="70"/>
         <source>Wall surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kärlväggsyta:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="84"/>
         <source>Select an input markups fiducial node.
 
 The first and second points are the boundaries between which the analysis will be performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en indatanod med fiducialmarkeringar.
+
+Den första och andra punkten är gränserna som analysen utförs mellan.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="128"/>
         <source>Select an input shape (tube) node, drawn to represent the vascular wall.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en Shape-nod (rör) som ritats för att representera kärlväggen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="136"/>
         <source>Tube</source>
-        <translation type="unfinished"></translation>
+        <translation>Rör</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="158"/>
         <source>Decimate the tube&apos;s surface during processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förenkla rörets yta under bearbetningen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="161"/>
         <source>⭭</source>
-        <translation type="unfinished"></translation>
+        <translation>⭭</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="175"/>
         <source>Select a segment representing the vascular lumen.
 
 This should ideally exceed the wall surface a little.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett segment som representerar kärlets lumen.
+
+Det bör helst sträcka sig något utanför kärlväggsytan.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="197"/>
         <source>Ideally, there should be only one region in the input segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Helst ska det bara finnas en region i indatasegmentet.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="207"/>
@@ -3707,222 +3715,228 @@ This should ideally exceed the wall surface a little.</source>
 This function cannot be undone, proceed with small increments.
 
 The result must be inspected before use. If it is not satisfactory, the source segment should be updated by any other means.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort hål i ett sammanhängande segment. Helst ska en region återstå. Komplexa segment kan inte alltid reduceras till en enda region.
+
+Den här funktionen kan inte ångras, fortsätt med små steg.
+
+Resultatet måste granskas före användning. Om det inte är tillfredsställande bör källsegmentet uppdateras på annat sätt.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="214"/>
         <source>Smoothing gap size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utjämningsgapets storlek:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="227"/>
         <source>This value is used to calculate the gap pixel size. High values mean longer processing time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här värdet används för att beräkna gapets pixelstorlek. Höga värden innebär längre bearbetningstid.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="230"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="254"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="352"/>
         <source>Show the lesion between the boundary points as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa lesionen mellan gränspunkterna som en modell.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="360"/>
         <source>Lesion</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesion</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="376"/>
         <source>Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabell:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="385"/>
         <source>Specify a table to store the result in append mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en tabell där resultatet ska lagras i tilläggsläge.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="396"/>
         <source>Result table</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultattabell</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="415"/>
         <source>Move the boundary points to the positions referenced in this table row.
 
 Note: this is intended for processing again at known locations. The study and the results stored in the table are not taken into consideration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta gränspunkterna till positionerna som refereras i den här tabellraden.
+
+Observera: detta är avsett för att bearbeta igen på kända platser. Studien och resultaten som lagras i tabellen tas inte med i beräkningen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="77"/>
         <source>Boundary node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gränsnod:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="119"/>
         <source>Lumen surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumenyta:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="447"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="450"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="262"/>
         <source>Wall:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kärlvägg:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="276"/>
         <source>Lumen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumen:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="290"/>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="345"/>
         <source>Lesion:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesion:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="304"/>
         <source>Stenosis:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stenos:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="318"/>
         <source>Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Längd:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="334"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="176"/>
         <source>Clear the enclosed lumen cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa cachen för innesluten lumen</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="182"/>
         <source>Dump aggregate volumes to database</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv aggregerade volymer till databas</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="185"/>
         <source>Attempt to save a database containing aggregate volumes of the study in your document directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försök spara en databas med studiens aggregerade volymer i dokumentkatalogen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="215"/>
         <source>Invalid parameter node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig parameternod.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="226"/>
         <source>Insufficient input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otillräcklig indata.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="232"/>
         <source>Wrong shape node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel Shape-nod.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="238"/>
         <source>Inconsistent fiducial input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkonsekvent fiducialindata.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="243"/>
         <source>Two fiducial input points are mandatory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Två fiducialindatapunkter krävs.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="249"/>
         <source>Inconsistent segmentation input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkonsekvent segmenteringsindata.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="273"/>
         <source>Processing failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen misslyckades.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="685"/>
         <source>Invalid or empty table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig eller tom tabell.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="696"/>
         <source>The tube does not have a valid spline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Röret har ingen giltig spline.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="701"/>
         <source>Invalid tube or boundary node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig rör- eller gränsnod.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="803"/>
         <source>Error getting the enclosed lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när innesluten lumen hämtades.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="809"/>
         <source>Error: input tube and input lumen could not be intersected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: indatarör och indatalumen kunde inte skäras med varandra.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="941"/>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1015"/>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1045"/>
         <source>Parameter node is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameternoden är ogiltig.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="962"/>
         <source>Processing, this can be long running, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetar, det här kan ta lång tid, vänta…</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="965"/>
         <source>Error dumping aggregate volumes to database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när aggregerade volymer skrevs till databasen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="968"/>
         <source> is saved in your document directory.</source>
-        <translation type="unfinished"></translation>
+        <translation> sparas i dokumentkatalogen.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1001"/>
         <source>Region count: </source>
-        <translation type="unfinished"></translation>
+        <translation>Antal regioner: </translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="1025"/>
         <source>Invalid segmentation or segmentID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig segmentering eller segment-ID.</translation>
     </message>
 </context>
 <context>
@@ -3930,12 +3944,12 @@ Note: this is intended for processing again at known locations. The study and th
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
@@ -3943,57 +3957,57 @@ Note: this is intended for processing again at known locations. The study and th
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="499"/>
         <source>Study</source>
-        <translation type="unfinished"></translation>
+        <translation>Studie</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="500"/>
         <source>Wall volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Kärlväggsvolym</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="501"/>
         <source>Lumen volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumenvolym</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="502"/>
         <source>Lesion</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesion</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="503"/>
         <source>Stenosis</source>
-        <translation type="unfinished"></translation>
+        <translation>Stenos</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="504"/>
         <source>From spline id</source>
-        <translation type="unfinished"></translation>
+        <translation>Från spline-ID</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="505"/>
         <source>To spline id</source>
-        <translation type="unfinished"></translation>
+        <translation>Till spline-ID</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="506"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Längd</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="507"/>
         <source>Lesion volume per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesionsvolym per cm</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="508"/>
         <source>Stenosis per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>Stenos per cm</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Logic/vtkSlicerStenosisMeasurement3DLogic.cxx" line="509"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckningar</translation>
     </message>
 </context>
 </TS>
