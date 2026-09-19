@@ -4552,7 +4552,7 @@ Kontrollera dina behörigheter.</translation>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="323"/>
         <source>Adding paths failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att lägga till sökvägar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="324"/>
@@ -4560,7 +4560,10 @@ Kontrollera dina behörigheter.</translation>
 
 %1
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att lägga till följande sökvägar:
+
+%1
+Kontrollera dina behörigheter.</translation>
     </message>
 </context>
 <context>
@@ -4568,67 +4571,67 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="52"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerad</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
         <source>Lazy Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Lat aktivering</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"/>
         <source>Resolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Löst</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="55"/>
         <source>Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Startad</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="56"/>
         <source>Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppad</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="58"/>
         <source>Stopping</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppar</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="59"/>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Avinstallerad</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="60"/>
         <source>Unresolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Olöst</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="61"/>
         <source>Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdaterad</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="115"/>
         <source>Start Plugin (ignore activation policy)</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta insticksmodul (ignorera aktiveringsprincip)</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="116"/>
         <source>Start Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta insticksmodul</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="117"/>
         <source>Stop Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa insticksmodul</translation>
     </message>
 </context>
 <context>
@@ -4636,52 +4639,52 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="14"/>
         <source>Plugin Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddrare för insticksmoduler</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkiv</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="58"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmoduler</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="122"/>
         <source>Qt Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-resurser</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="159"/>
         <source>Plugin Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurser för insticksmoduler</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="193"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjänster</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="260"/>
         <source>Link services</source>
-        <translation type="unfinished"></translation>
+        <translation>Länktjänster</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="304"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Händelser</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>toolBar</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Avsluta</translation>
     </message>
 </context>
 <context>
@@ -4690,47 +4693,47 @@ Please check your permissions.</source>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="162"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="182"/>
         <source>&lt;&lt; Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; Tillbaka</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="194"/>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisning &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="209"/>
         <source>Successfully create plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen skapades</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="217"/>
         <source>Creating the plugin failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa insticksmodulen.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="246"/>
         <source>Creating directory &quot;%1&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa katalogen ”%1”.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="279"/>
         <source>Creating the preview failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa förhandsvisningen.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK-generator för insticksmoduler</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
         <source>Enter the name of your organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange namnet på din organisation:</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
         <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;din-organisation&gt;</translation>
     </message>
 </context>
 <context>
@@ -4738,7 +4741,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="14"/>
         <source>Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generator för insticksmoduler</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"/>
