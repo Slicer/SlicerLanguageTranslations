@@ -3194,112 +3194,112 @@ Ange minst ett filter för att fråga servrarna.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3021"/>
         <source>Send patient to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka patient till DICOM-server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3102"/>
         <source>Load study</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in undersökning</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3103"/>
         <source>Load %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in %1 undersökningar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3108"/>
         <source>View study DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa undersökningens DICOM-metadata</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3109"/>
         <source>View %1 studies DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa DICOM-metadata för %1 undersökningar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3228"/>
         <source>Force retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvinga hämtning av serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3120"/>
         <source>Delete study from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort undersökning från den lokala databasen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3121"/>
         <source>Delete %1 studies from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort %1 undersökningar från den lokala databasen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3127"/>
         <source>Export study to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera undersökning till filsystemet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3128"/>
         <source>Export %1 studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera %1 undersökningar till filsystemet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3133"/>
         <source>Send study to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka undersökning till DICOM-server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3134"/>
         <source>Send %1 studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka %1 undersökningar till DICOM-server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3216"/>
         <source>Load series</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3217"/>
         <source>Load %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in %1 serier</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3222"/>
         <source>View series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa seriens DICOM-metadata</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3223"/>
         <source>View %1 series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa DICOM-metadata för %1 serier</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3234"/>
         <source>Delete series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort serie från den lokala databasen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3235"/>
         <source>Delete %1 series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort %1 serier från den lokala databasen</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3241"/>
         <source>Export series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera serie till filsystemet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3242"/>
         <source>Export %1 series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera %1 serier till filsystemet</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3247"/>
         <source>Send series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka serie till DICOM-server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3248"/>
         <source>Send %1 series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka %1 serier till DICOM-server</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4018"/>
@@ -3309,23 +3309,27 @@ Ange minst ett filter för att fråga servrarna.</translation>
 
 Halting export.</source>
         <extracomment>%1 is the destination directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa målkatalogen för export:
+
+%1
+
+Exporten avbryts.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4032"/>
         <source>DICOM Export</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-export</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4032"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4038"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Exporterar serie %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4055"/>
@@ -3337,7 +3341,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kälfilen för export hittades inte:
+
+%1
+
+Exporten avbryts.
+
+Felet kan kanske åtgärdas med Reparera.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4068"/>
@@ -3347,7 +3357,11 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Målfilen för export finns redan:
+
+%1
+
+Exporten avbryts.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4083"/>
@@ -3361,19 +3375,29 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att kopiera
+
+%1
+
+till
+
+%2
+
+Exporten avbryts.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4278"/>
         <source>Do you want to delete the following selected items from the LOCAL database? 
 The data will not be deleted from the PACs server. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du ta bort följande valda objekt från den LOKALA databasen? 
+Data tas inte bort från PACS-servern. 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4313"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
 </context>
 <context>
@@ -3381,22 +3405,22 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="20"/>
         <source>Date Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Datumintervall</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="29"/>
         <source>Any Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Valfritt datum</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="36"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>I dag</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="43"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>I går</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="50"/>
