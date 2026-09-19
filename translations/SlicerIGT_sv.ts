@@ -1821,66 +1821,66 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="640"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="797"/>
         <source>Maximum number of buckets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Största antal behållare:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="647"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="804"/>
         <source>Bucket size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Behållarstorlek:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="654"/>
         <source>Maximum number of buckets to create for pivot auto-calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Största antal behållare att skapa för automatisk pivotkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="661"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="790"/>
         <source>Maximum bucket error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Största behållarfel:</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="668"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="811"/>
         <source>Maximum error allowed within a bucket. All buckets are discarded if this threshold is exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Största tillåtna fel inom en behållare. Alla behållare kasseras om tröskeln överskrids</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="681"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="824"/>
         <source>Number of poses to hold in each pivot auto-calibration bucket</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal positioner att behålla i varje behållare för automatisk pivotkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="697"/>
         <source>Spin auto-calibration settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar för automatisk spinnkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="731"/>
         <source>Minimum error for spin auto-calibration to be successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta fel för att automatisk spinnkalibrering ska lyckas</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="751"/>
         <source>Number of collected poses for spin auto-calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal insamlade positioner för automatisk spinnkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="761"/>
         <source>Minimum orientation difference in collected poses for spin auto-calibration to be successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta orienteringsskillnad i insamlade positioner för att automatisk spinnkalibrering ska lyckas</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="834"/>
         <source>Maximum number of buckets to create for spin auto-calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Största antal behållare att skapa för automatisk spinnkalibrering</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="68"/>
         <source>Perform pivot calibration to determine the tool tip&apos;s position, by pivoting the tip of the tool about some fixed point. Perform spin calibration to determine the tool&apos;s orientation, by spinning the tool about its axis. The pivot and spin calibrations can be performed in any order. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utför pivotkalibrering för att fastställa verktygsspetsens position genom att vrida verktygsspetsen kring en fast punkt. Utför spinnkalibrering för att fastställa verktygets orientering genom att vrida det kring dess axel. Pivot- och spinnkalibrering kan utföras i valfri ordning. Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.org&quot;&gt;SlicerIGT:s webbplats&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="77"/>
@@ -1900,7 +1900,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
         <source>Pivot Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Pivotkalibrering</translation>
     </message>
 </context>
 <context>
@@ -1911,7 +1911,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="221"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="261"/>
         <source>%1 seconds until start</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 sekunder till start</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="225"/>
@@ -1919,18 +1919,18 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="266"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="284"/>
         <source>Sampling time left: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Återstående samplingstid: %1</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="247"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="288"/>
         <source>Sampling complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Sampling klar</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="405"/>
         <source>Flipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd.</translation>
     </message>
 </context>
 <context>
@@ -1941,78 +1941,78 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="26"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="29"/>
         <source>GroupBox</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppruta</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="51"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="51"/>
         <source>Driver:</source>
-        <translation type="unfinished"></translation>
+        <translation>Drivrutin:</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="87"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Läge:</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="104"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="104"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Av</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="109"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="109"/>
         <source>Axial</source>
-        <translation type="unfinished"></translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="114"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="114"/>
         <source>Sagittal</source>
-        <translation type="unfinished"></translation>
+        <translation>Sagittal</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="119"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="119"/>
         <source>Coronal</source>
-        <translation type="unfinished"></translation>
+        <translation>Koronal</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="124"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="124"/>
         <source>Inplane</source>
-        <translation type="unfinished"></translation>
+        <translation>I plan</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="129"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="129"/>
         <source>Inplane 90</source>
-        <translation type="unfinished"></translation>
+        <translation>I plan 90</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="134"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="134"/>
         <source>Transverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvärgående</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="155"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="155"/>
         <source>Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotation:</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="199"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="199"/>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Widgets/qSlicerReslicePropertyWidget.cxx" line="111"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
 </context>
 <context>
@@ -2020,7 +2020,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="PathExplorer/SubjectHierarchyPlugins/qSlicerSubjectHierarchyPathExplorerPlugin.cxx" line="144"/>
         <source>Path Explorer trajectories</source>
-        <translation type="unfinished"></translation>
+        <translation>Path Explorer-trajektorier</translation>
     </message>
 </context>
 <context>
@@ -2028,32 +2028,32 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="48"/>
         <source>Select nodes to preview transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj noder för att förhandsgranska transformering</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="68"/>
         <source>Apply transform to selected nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa transformering på valda noder.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="71"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="84"/>
         <source>Harden transform to selected nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås transformering till valda noder.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="87"/>
         <source>Harden</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås</translation>
     </message>
 </context>
 <context>
@@ -2061,27 +2061,27 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulmall</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="20"/>
         <source>Select what kind of operation to perform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj vilken typ av åtgärd som ska utföras.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="37"/>
         <source>Source Transform Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Källtransformeringsnoder</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="46"/>
         <source>Select which transform you want to add below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj vilken transformering du vill lägga till nedan.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
         <source>Remove the transform selected below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort transformeringen som valts nedan.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="67"/>
@@ -2091,7 +2091,7 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="74"/>
         <source>Add the transform to the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till transformeringen i listan nedan.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="77"/>
@@ -2101,163 +2101,163 @@ Hjälp om hur modulen används finns på &lt;a href=&quot;https://www.slicerigt.
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="97"/>
         <source>The node in which to store the result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noden där resultatet ska lagras.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="115"/>
         <source>The changed state of the input</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatans ändrade tillstånd</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="133"/>
         <source>Input &apos;Forward&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata: nod för &apos;framåt&apos;-transformering:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="140"/>
         <source>The transform node *from* which the output is based (e.g. Source in SourceToTarget)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformeringsnoden som utdata baseras på (till exempel Källa i KällaTillMål).</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="165"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="560"/>
         <source>The forward transform; what should be inverted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Framåttransformeringen som ska inverteras.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="186"/>
         <source>This stores all parameters for transform processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Här lagras alla parametrar för transformeringsbearbetning.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="204"/>
         <source>Filtering Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtreringsalternativ</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="210"/>
         <source>Stabilize:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stabilisera:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="217"/>
         <source>Check to enable filtering. If unchecked then the input transform is copied to the output without filtering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera för att aktivera filtrering. Om den inte markeras kopieras indatatransformeringen till utdata utan filtrering.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="227"/>
         <source>Cut-off frequency:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gränsfrekvens:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="255"/>
         <source>Smoother</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjukare</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="262"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation>Snabbare</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="296"/>
         <source>Parameter Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameternod</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="303"/>
         <source>The transform node *to* which the output is based (e.g. Target in SourceToTarget)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformeringsnoden som utdata baseras på (till exempel Mål i KällaTillMål).</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="334"/>
         <source>Input &apos;To&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata: nod för &apos;till&apos;-transformering:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="341"/>
         <source>Output Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nod för utdatatransformering:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="348"/>
         <source>Advanced Translation Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerade alternativ för förflyttning</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="364"/>
         <source>Copy X</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera X</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="374"/>
         <source>Copy Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera Y</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="394"/>
         <source>Copy Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera Z</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="417"/>
         <source>Input &apos;Anchor&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata: nod för &apos;ankare&apos;-transformering:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="424"/>
         <source>The output will be expressed relative to this anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata uttrycks i förhållande till detta ankare.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="442"/>
         <source>Input &apos;From&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata: nod för &apos;från&apos;-transformering:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="449"/>
         <source>The initial state for the transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformeringsstartläget</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="470"/>
         <source>Advanced Rotation Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerade rotationsalternativ</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="476"/>
         <source>Dependent Axes Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Läge för beroende axlar</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="492"/>
         <source>Primary Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Primär axel</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="502"/>
         <source>Secondary Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekundär axel</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="509"/>
         <source>Rotation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotationsläge</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="519"/>
         <source>Input &apos;Initial&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata: nod för &apos;initial&apos;-transformering:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="526"/>
         <source>Processing Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningsläge:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="533"/>
         <source>Click to manually update, click the checkbox to enable automatic updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att uppdatera manuellt, markera kryssrutan för att aktivera automatiska uppdateringar.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="536"/>
