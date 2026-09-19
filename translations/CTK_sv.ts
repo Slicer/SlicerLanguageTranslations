@@ -5350,7 +5350,7 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkTemplateWidget.ui" line="14"/>
         <source>Template Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Mallwidget</translation>
     </message>
 </context>
 <context>
@@ -5358,12 +5358,12 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"/>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="32"/>
         <source>My object class definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Min objektklassdefinition</translation>
     </message>
 </context>
 <context>
@@ -5371,7 +5371,7 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailLabel.ui" line="14"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatyrbild</translation>
     </message>
 </context>
 <context>
@@ -5380,7 +5380,7 @@ alla inställningar till standardvärdena?
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailListWidget.ui" line="14"/>
         <source>Thumbnails</source>
         <oldsource>ThumbnailList</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Miniatyrbilder</translation>
     </message>
 </context>
 <context>
@@ -5388,7 +5388,7 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="520"/>
         <source>FPS: %1(%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS: %1 (%2 s)</translation>
     </message>
 </context>
 <context>
@@ -5396,67 +5396,67 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="14"/>
         <source>Color Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgöverföringsfunktion</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="32"/>
         <source>Undo last change of range</source>
-        <translation type="unfinished"></translation>
+        <translation>Ångra senaste intervalländringen</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="43"/>
         <source>Reset ranges to data range</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ intervall till dataintervall</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="54"/>
         <source>Shrink display range to current range</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa visningsintervallet till aktuellt intervall</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="65"/>
         <source>Expand current range to display range</source>
-        <translation type="unfinished"></translation>
+        <translation>Utöka aktuellt intervall till visningsintervallet</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="76"/>
         <source>Invert color map</source>
-        <translation type="unfinished"></translation>
+        <translation>Invertera färgkarta</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="93"/>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Andra alternativ</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="183"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="231"/>
         <source>NaN values</source>
-        <translation type="unfinished"></translation>
+        <translation>NaN-värden</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="233"/>
         <source>NaN color</source>
-        <translation type="unfinished"></translation>
+        <translation>NaN-färg</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="238"/>
         <source>Discretize</source>
-        <translation type="unfinished"></translation>
+        <translation>Diskretisera</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="239"/>
         <source>Discretize color transfer function</source>
-        <translation type="unfinished"></translation>
+        <translation>Diskretisera färgöverföringsfunktionen</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="243"/>
         <source>Number of discrete values</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal diskreta värden</translation>
     </message>
 </context>
 <context>
@@ -5464,82 +5464,82 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="14"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskap</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="32"/>
         <source>Representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Representation</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Representation:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkter</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="57"/>
         <source>Wireframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Trådram</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>Yta</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="70"/>
         <source>Point Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktstorlek:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"/>
         <source>Line Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjebredd:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="110"/>
         <source>Culling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bortgallring:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="119"/>
         <source>Frontface</source>
-        <translation type="unfinished"></translation>
+        <translation>Framsida</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="126"/>
         <source>Backface</source>
-        <translation type="unfinished"></translation>
+        <translation>Baksida</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="138"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="147"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitet:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"/>
         <source>Edge Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantvisning:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="195"/>
         <source>Edge Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantfärg:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="208"/>
