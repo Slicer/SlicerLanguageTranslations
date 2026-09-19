@@ -625,7 +625,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>ROI som automatiskt beräknas från den rörliga bilden. Endast tillgängligt om Masking Option är ROIAUTO. Bildområden där maskvolymen har nollvärde ignoreras under registreringen.</translation>
+        <translation>ROI som beräknas automatiskt från den rörliga bilden. Endast tillgänglig om maskeringsalternativet är ROIAUTO. Bildområden där maskvolymen har värdet noll ignoreras vid registreringen.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
@@ -5810,7 +5810,7 @@ Filtret förutsätter att både källan och referensen är av samma typ och att 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation>Output-filen samlar in informationen på disken från output-etiketten, suv max/mean/min output-strängar i guiden, plus lite extra information från DICOM-headern.</translation>
+        <translation>Utdatafilen samlar information på disken från utdataetiketten, SUV max-/medel-/min-strängar i användargränssnittet samt ytterligare information från DICOM-huvudet.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
@@ -10286,7 +10286,7 @@ och Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="715"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation>View controllers är endast tillgängliga för att visas när alla vyer fångas.</translation>
+        <translation>Vystyrenheter kan endast visas när alla vyer fångas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="728"/>
@@ -12735,12 +12735,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="255"/>
         <source>Please select Input Vector Volume</source>
-        <translation>Vänligen välj Input Vector Volume</translation>
+        <translation>Välj indatavektorvolym</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="257"/>
         <source>Please select Output Scalar Volume</source>
-        <translation>Vänligen välj Output Scalar Volume</translation>
+        <translation>Välj utdataskalärvolym</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="259"/>
@@ -14337,7 +14337,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
         <source>Hide part of the model according to Clipping Planes settings.</source>
-        <translation>Dölj en del av modellen enligt inställningarna för Clipping Planes.</translation>
+        <translation>Dölj en del av modellen enligt inställningarna för klippplan.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="129"/>
@@ -19841,7 +19841,7 @@ Den här datorns grafiska kapacitet:
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="169"/>
         <source>Failed to retrieve Module Entry Point</source>
-        <translation>Misslyckades med att hämta Module Entry Point</translation>
+        <translation>Kunde inte hämta modulens startpunkt</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="226"/>
@@ -21443,12 +21443,12 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="704"/>
         <source>Failed to open extensions settings file %1</source>
-        <translation>Misslyckades med att öppna filen Extensions Settings %1</translation>
+        <translation>Kunde inte öppna inställningsfilen för tillägg %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="737"/>
         <source>Failed to open extensions settings file: %1</source>
-        <translation>Misslyckades med att öppna filen extensions settings: %1</translation>
+        <translation>Kunde inte öppna inställningsfilen för tillägg: %</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="769"/>
