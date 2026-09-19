@@ -2762,57 +2762,57 @@ avvikelse:</translation>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="323"/>
         <source>For the &apos;Smoothing::Gaussian&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>För effekten ”Smoothing::Gaussian” i ”Segmentredigeraren”.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="345"/>
         <source>Extrusion kernel size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek på extruderingskärna:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="354"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="372"/>
         <source>Dimension of the primary seed around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimension för det primära fröet runt indatakurvan.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="394"/>
         <source>Seed radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fröradie:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="407"/>
         <source>Thickness of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjocklek för ett tillfälligt skal runt indatakurvan.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="429"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaltjocklek:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="436"/>
         <source>Subtract overlapping parts of other segments from the resulting vein segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtrahera överlappande delar av andra segment från det resulterande vensegmentet.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="449"/>
         <source>Remove overlaps:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort överlappningar:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="465"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör algoritmen.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="468"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -2825,7 +2825,12 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 &lt;br&gt;&lt;br&gt;The &apos;Flood filling&apos; effect of the &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segment editor extra effects&lt;/a&gt;&apos; is used for segmentation.
 &lt;br&gt;&lt;br&gt;The &apos;&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/&quot;&gt;SlicerExtension-VMTK Extract centerline&lt;/a&gt;&apos; module is required.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;modulen&lt;/a&gt; är avsedd för att skapa en segmentering från en kontrastförstärkt CT-angiografi och sedan extrahera centrumlinjer från ytmodellen.
+&lt;br&gt;&lt;br&gt;Den förutsätter att datainsamlingen för indatavolymen är näst intill perfekt och att fiducialpunkter placeras i kontrastförstärkt lumen.
+&lt;br&gt;&lt;br&gt;Effekten ”Flood filling” från ”&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segmentredigerarens extraeffekter&lt;/a&gt;” används för segmentering.
+&lt;br&gt;&lt;br&gt;Modulen ”&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/&quot;&gt;SlicerExtension-VMTK Extract centerline&lt;/a&gt;” krävs.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="41"/>
@@ -2833,222 +2838,228 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här filen utvecklades ursprungligen av Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+och Steve Pieper, Isomics, Inc., och finansierades delvis av NIH-anslag 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="129"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att installera tillägget {nameOfExtension}</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="143"/>
         <source>Fiducial node must have at least 2 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiducialnoden måste ha minst 2 punkter.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="244"/>
         <source>No input fiducial node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen indatamarkörnod angavs.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="247"/>
         <source>No input slice node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen indatasnittnod angavs.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="253"/>
         <source>No volume node selected in input slice node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen volymnod är vald i indatasnittnoden.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="257"/>
         <source>No input ROI node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen indatanod för ROI angavs.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="268"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att beräkna resultaten: </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="357"/>
         <source>Invalid segmentation or segmentID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig segmentering eller segment-ID.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="367"/>
         <source>Region count: </source>
-        <translation type="unfinished"></translation>
+        <translation>Antal regioner: </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="424"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameternoden är None.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="428"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen startade</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="430"/>
         <source>Segment editor setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration av segmentredigerare</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="438"/>
         <source>Background volume node in the selected slice node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakgrundsvolymnoden i den valda snittnoden är None.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="506"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>Flödesfyllning: {duration} sekunder – </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="541"/>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="599"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbetningen slutfördes på {duration} sekunder</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="547"/>
         <source>Extract centerline setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration av centrumlinjeextraktion</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="22"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameteruppsättning:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="46"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>En parameteruppsättning grupperar parametrar som tydligt definierar en namngiven studie.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="91"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera segmentredigeraren och snittvyerna med indatasegmenteringen och volymen, om sådana finns.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="94"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="105"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="121"/>
         <source>Pick an input markups fiducial node.
 
 The fiducial points are assumed to be on the contrasted lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en indatamarkörnod.
+
+Fiducialpunkterna förutsätts ligga på den kontrastförstärkta lumen.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="206"/>
         <source>Pick an optional ROI node. This may speed up segmentation and centerline extraction. The ROI will be forcibly hidden after completion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en valfri ROI-nod. Den kan snabba upp segmentering och centrumlinjeextraktion. ROI:n döljs tvingande när bearbetningen är klar.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="217"/>
         <source>QuickROI</source>
-        <translation type="unfinished"></translation>
+        <translation>Snabb-ROI</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="233"/>
         <source>Set the bounds of the ROI accounting for that of the fiducial node. It must  further be manually adjusted to enclose the target region of interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange ROI:ns gränser med hänsyn till markörnodens gränser. Den måste dessutom justeras manuellt så att målområdet omsluts.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="239"/>
         <source>Pre-fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Föranpassa</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="197"/>
         <source>ROI node:</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI-nod:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="114"/>
         <source>Fiducial node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiducialnod:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="248"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentering:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="255"/>
         <source>Select an output segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en utdatasetegmentering</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="165"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en snittvy. Bakgrundsvolymnoden används. Kontrollera noga att rätt volymnod används.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="156"/>
         <source>Slice node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Snittnod:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="284"/>
         <source>Ideally, there should be only one region in the input segment.</source>
         <oldsource>Ideally, there should be only one region in the output segment.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Helst ska det bara finnas en region i indatasegmentet.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="437"/>
         <source>Intensity tolerance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitetstolerans:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="335"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj sammanhängande voxlar med ett intensitetsintervall mellan värdet vid en styrpunkts position ± denna tolerans.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="308"/>
         <source>Segment editor effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentredigerareffekter</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="322"/>
         <source>Flood filling</source>
-        <translation type="unfinished"></translation>
+        <translation>Flödesfyllning</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="357"/>
         <source>Neighbourhood size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek på grannskap:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="370"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Regioner läggs till endast om alla voxlar i grannskapet har liknande intensiteter. Använd högre värden för att förhindra läckage. Använd lägre värden för att fånga finare detaljer.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="402"/>
         <source>This value is used to calculate the gap pixel size. Large values also mean longer processing time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det här värdet används för att beräkna gapets pixelstorlek. Stora värden innebär också längre bearbetningstid.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="405"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="421"/>
         <source>Remove holes in a contiguous segment. There should remain 1 region ideally. Complex segments may not always be reduced to a single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort hål i ett sammanhängande segment. Helst ska en region återstå. Komplexa segment kan inte alltid reduceras till en enda region.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="424"/>
