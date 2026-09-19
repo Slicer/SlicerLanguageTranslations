@@ -8292,7 +8292,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="77"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation>Generera patientnamn och ID från den första filen i en katalog och tvinga alla andra filer i samma katalog att ha samma patientnamn och ID. Aktivera det här alternativet om en separat patientkatalog ska skapas för varje patchad fil.</translation>
+        <translation>Generera patientnamn och ID från den första filen i en katalog och tvinga alla andra filer i samma katalog att ha samma patientnamn och ID. Aktivera det här alternativet om en separat patientkatalog ska skapas för varje bearbetad fil.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="81"/>
@@ -8342,7 +8342,7 @@ Den här filen utvecklades ursprungligen av Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="145"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation>Om detta alternativ är markerat kommer viss information som kan identifiera patienten att tas bort från de patchade DICOM-filerna. Det finns många fält som kan identifiera en patient, och den här funktionen tar inte bort alla.</translation>
+        <translation>Om detta alternativ är markerat tas viss patientidentifierande information bort från de bearbetade DICOM-filerna. Många fält kan identifiera en patient, och den här funktionen tar inte bort alla.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"/>
@@ -13383,12 +13383,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visibility:</source>
         <oldsource>Slice &amp;Intersections Visible:</oldsource>
-        <translation>Skivor och korsningar Synlighet:</translation>
+        <translation>Synlighet för &amp;skivskärningar:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation>Skivans skärningspunkter och tjocklek:</translation>
+        <translation>&amp;Tjocklek för skivskärningar:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
@@ -14156,7 +14156,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="270"/>
         <source>Reverse direction of the plane normal</source>
-        <translation>Vänd riktningen för planets normal.</translation>
+        <translation>Vänd riktningen för planets normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="102"/>
@@ -15128,7 +15128,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"/>
         <source>Fit_to_window</source>
-        <translation>Passar till fönster</translation>
+        <translation>Passa_till_fönster</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
@@ -22178,7 +22178,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
         <source>Label Outline &amp;Thickness:</source>
-        <translation>Etikettens kontur och tjocklek:</translation>
+        <translation>Etikettkonturens &amp;tjocklek:</translation>
     </message>
 </context>
 <context>
