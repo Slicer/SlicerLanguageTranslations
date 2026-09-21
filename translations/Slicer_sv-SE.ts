@@ -14048,7 +14048,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="153"/>
         <source>More options...</source>
-        <translation>Fler alternativ...</translation>
+        <translation>Fler alternativ…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="209"/>
@@ -14337,7 +14337,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
         <source>Hide part of the model according to Clipping Planes settings.</source>
-        <translation>Dölj en del av modellen enligt inställningarna för klippplanen.</translation>
+        <translation>Dölj en del av modellen enligt inställningarna för klippningsplan.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="129"/>
@@ -17574,7 +17574,7 @@ Vill du gå vidare med att ändra källrepresentationen?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="228"/>
         <source>Edit properties...</source>
-        <translation>Redigera egenskaper...</translation>
+        <translation>Redigera egenskaper…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="232"/>
@@ -21372,7 +21372,7 @@ Om den inte är markerad kommer den exporterade datauppsättningen att läggas t
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="344"/>
         <source>More...</source>
-        <translation>Mer...</translation>
+        <translation>Mer…</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="380"/>
@@ -21943,12 +21943,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="157"/>
         <source>Open Extensions Catalog website...</source>
-        <translation>Öppna webbplats med Katalog för Tillägg…</translation>
+        <translation>Öppna tilläggskatalogens webbplats…</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation>Öppna webbplatsen Extensions Catalog i standardwebbläsaren. Användbart för att hämta tilläggspaket för användning utan nätanslutning.</translation>
+        <translation>Öppna tilläggskatalogens webbplats i standardwebbläsaren. Användbart för att hämta tilläggspaket för användning utan nätanslutning.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
@@ -26506,12 +26506,12 @@ Observera: Detta gäller för segmenttabeller i modulerna Segment Editor och Seg
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="154"/>
         <source>Open Extensions Catalog website...</source>
-        <translation>Öppna webbplats med Katalog för Tillägg...</translation>
+        <translation>Öppna tilläggskatalogens webbplats…</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="157"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation>Öppna webbplatsen med Katalog för Tillägg i standardwebbläsaren. Användbart för att ladda ner tilläggspaket till offline-användning.</translation>
+        <translation>Öppna tilläggskatalogens webbplats i standardwebbläsaren. Användbart för att hämta tilläggspaket för användning utan nätanslutning.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="164"/>
@@ -28965,7 +28965,7 @@ Taggar: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="113"/>
         <source>long long</source>
-        <translation>lång lång</translation>
+        <translation>long long</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
