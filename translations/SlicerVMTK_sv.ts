@@ -506,12 +506,12 @@ När kurvorna skapas kan namnsynligheten anges via menyn.</translation>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="58"/>
         <source>Clip points:</source>
-        <translation>Klipppunkter:</translation>
+        <translation>Klippunkter:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="67"/>
         <source>Branch clippoints. The first point is interpreted as the model inlet.</source>
-        <translation>Grenklipppunkter. Den första punkten tolkas som modellens inlopp.</translation>
+        <translation>Grenklippunkter. Den första punkten tolkas som modellens inlopp.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="70"/>
@@ -521,7 +521,7 @@ När kurvorna skapas kan namnsynligheten anges via menyn.</translation>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="78"/>
         <source>Clippoints</source>
-        <translation>Klipppunkter</translation>
+        <translation>Klippunkter</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="105"/>
