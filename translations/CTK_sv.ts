@@ -5388,7 +5388,7 @@ alla inställningar till standardvärdena?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="520"/>
         <source>FPS: %1(%2s)</source>
-        <translation>FPS: %1 (%2 s)</translation>
+        <translation>FPS: %1 (%2s)</translation>
     </message>
 </context>
 <context>
