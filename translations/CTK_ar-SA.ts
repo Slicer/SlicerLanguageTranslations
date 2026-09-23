@@ -438,9 +438,11 @@ due to xml validation error:
 
 </source>
         <translation>فشل تسجيل الوحدة:
+
 %1
 
-بسبب خطأ في التحقق من صحة XML:
+بسبب خطأ في التحقق من صحة xml:
+
 %2
 
 </translation>
@@ -2021,7 +2023,15 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; تصفية البيانات الوصفية المعروضة استنادا إلى المحتوى في أعمدة العلامة والسمة والقيمة. &lt;/p&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; بحث بسيط: &lt;/span&gt; أدخل أي نص لإظهار العناصر التي تحتوي على النص فقط. استخدام؟ و * أحرف البدل لتمثيل &lt;span style=&quot; font-style:italic;&quot;&gt; أي حرف واحد &lt;/span&gt; أو تسلسل من الأحرف. &lt;/p&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; البحث عن التعبير العادي (للمستخدمين المتقدمين): &lt;/span&gt; أدخل &lt;span style=&quot; font-style:italic;&quot;&gt; regexp: &lt;/span&gt; متبوعا بتعبير عادي. على سبيل المثال، اعرض 3 علامات محددة، أدخل: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;تصفية البيانات الوصفية المعروضة بناءً على المحتوى في أعمدة العلامة والسمة والقيمة.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;بحث بسيط: &lt;/span&gt;أدخل أي نص لإظهار العناصر التي تحتوي على هذا النص فقط. استخدم أحرف البدل ? و * لتمثيل حرف واحد &lt;span style=&quot;font-style:italic;&quot;&gt;أو &lt;/span&gt;تسلسل من الأحرف.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;بحث باستخدام التعبيرات العادية (للمستخدمين المتقدمين):&lt;/span&gt; أدخل &lt;span style=&quot;font-style:italic;&quot;&gt;regexp:&lt;/span&gt; متبوعًا بتعبير عادي. على سبيل المثال، لإظهار 3 علامات محددة، أدخل: &lt;span style=&quot;font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
@@ -3123,12 +3133,12 @@ Please specify at least one filter to query the servers.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3115"/>
         <source>Force retrieve %1 studies</source>
-        <translation type="unfinished">استرداد دراسات %1 قسريًّا</translation>
+        <translation>استرجاع الدراسات %1 بالقوة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3229"/>
         <source>Force retrieve %1 series</source>
-        <translation type="unfinished">إجبار الاسترداد لسلسلة %1</translation>
+        <translation>استرجاع سلسلة %1 بالقوة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3658"/>
@@ -3145,12 +3155,12 @@ Please specify at least one filter to query the servers.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="386"/>
         <source>From:</source>
-        <translation type="unfinished">من:</translation>
+        <translation>من:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
         <source>To:</source>
-        <translation type="unfinished">إلى:</translation>
+        <translation>إلى:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1972"/>
