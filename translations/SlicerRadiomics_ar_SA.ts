@@ -6,7 +6,7 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="29"/>
         <source>Radiomics</source>
-        <translation type="unfinished">الراديوميات</translation>
+        <translation>ريديوميكس</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="38"/>
