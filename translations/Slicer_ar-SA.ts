@@ -12488,7 +12488,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="40"/>
         <source> Import DICOM files</source>
-        <translation type="unfinished"> استيراد ملفات DICOM</translation>
+        <translation> استيراد ملفات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="57"/>
@@ -12509,7 +12509,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="103"/>
         <source>Show the dicom database in vertical mode allowing to use the Slicer views.</source>
-        <translation type="unfinished">اعرض قاعدة بيانات DICOM في الوضع الرأسي، مما يتيح استخدام طرق العرض في برنامج Slicer.</translation>
+        <translation>اعرض قاعدة بيانات DICOM في الوضع الرأسي، مما يتيح استخدام طرق العرض في برنامج Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="106"/>
