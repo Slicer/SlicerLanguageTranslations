@@ -732,7 +732,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation>schwimmen</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
@@ -1324,7 +1324,7 @@ BEACHTEN SIE, dass empfohlen wird, anstelle dieser Option samplingPercentage zu 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation>Schwimmer</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
@@ -1428,7 +1428,7 @@ BEACHTEN SIE, dass empfohlen wird, anstelle dieser Option samplingPercentage zu 
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation>Schwimmer</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
@@ -1513,7 +1513,7 @@ BEACHTEN SIE, dass empfohlen wird, anstelle dieser Option samplingPercentage zu 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation>Art der Interpolation, die bei der Anwendung der Transformation auf ein sich bewegendes Volumen verwendet werden soll.  Die Optionen sind „Linear“, „ResampleInPlace“, „NearestNeighbor“, „BSpline“ oder „WindowedSinc“.</translation>
+        <translation>Art der Interpolation, die bei der Anwendung der Transformation auf ein sich bewegendes Volumen verwendet werden soll. Die Optionen sind „Linear“, „ResampleInPlace“, „NearestNeighbor“, „BSpline“ oder „WindowedSinc“.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
@@ -1682,7 +1682,7 @@ Dieses Programm ist nützlich, um ein Bild mit einem konstanten Skalierungsfakto
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation>Schwimmer</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
@@ -1878,7 +1878,7 @@ Dieses Programm ist nützlich, um ein Bild mit einem konstanten Skalierungsfakto
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation>float</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
 </context>
 <context>
@@ -1981,7 +1981,7 @@ Ermöglicht die Umwandlung in denselben Typ wie das Eingabevolumen.</translation
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation>Schwimmer</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
@@ -2082,7 +2082,7 @@ Ermöglicht die Umwandlung in denselben Typ wie das Eingabevolumen.</translation
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation>Dieses Befehlsmodul wurde aus Insight/Examples (Copyright) Insight Software Consortium abgeleitet.</translation>
+        <translation>Dieses Befehlsmodul wurde aus Insight/Examples (Copyright) Insight Software Consortium abgeleitet</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
@@ -2698,7 +2698,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation>Dieses Befehlsmodul wurde aus Insight/Examples (Copyright) Insight Software Consortium abgeleitet.</translation>
+        <translation>Dieses Befehlsmodul wurde aus Insight/Examples (Copyright) Insight Software Consortium abgeleitet</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
@@ -3047,7 +3047,7 @@ MCDE weist nicht die kantenschärfenden Eigenschaften der klassischen anisotrope
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation>VERALTET:  Keine Unterstützung oder Tests.  Gibt eine NRRD-Datei aus, jedoch ohne Gradienten.</translation>
+        <translation>VERALTET: Keine Unterstützung oder Tests. Gibt eine NRRD-Datei aus, jedoch ohne Gradienten.</translation>
     </message>
 </context>
 <context>
@@ -5883,13 +5883,13 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation>Registrierungs Metrik Test (BRAINS)</translation>
+        <translation type="unfinished">Registrierungs Metrik Test (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation>
+        <translation type="unfinished">
 </translation>
     </message>
     <message>
@@ -6718,7 +6718,7 @@ Warnung: Verwenden Sie diese Funktion nicht zum Resampling von Diffusionstensorb
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="34"/>
         <source>Those parameters should normally not be modified</source>
-        <translation>Diese Parameter sollten normalerweise nicht geändert werden.</translation>
+        <translation>Diese Parameter sollten normalerweise nicht geändert werden</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"/>
@@ -8477,7 +8477,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="648"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation>Erstellt eine Reihe von DICOM-Dateien aus skalaren Volumen.</translation>
+        <translation>Erstellt eine Reihe von DICOM-Dateien aus skalaren Volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="676"/>
@@ -8535,7 +8535,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="169"/>
         <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
-        <translation>Erstellt eine Serie, die die gesamte Slicer-Szene in einen privaten DICOM-Tag einbettet</translation>
+        <translation>Erstellt eine Serie, welche die gesamte Slicer-Szene in einen privaten DICOM-Tag einbettet</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="181"/>
@@ -19158,7 +19158,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
         <source>IGT</source>
-        <translation>IGT</translation>
+        <translation type="unfinished">IGT</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="33"/>
@@ -23025,7 +23025,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display properties to defaults. These properties will be used even after application restart.</source>
         <oldsource>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</oldsource>
-        <translation type="unfinished">Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -23979,7 +23979,7 @@ Tabellenspaltennamen: Bezeichnung, r, a, s, (oder l, p, s), definiert, ausgewäh
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation>Aktiviert die Sichtbarkeit für alle Modelle (ohne Hierarchien).</translation>
+        <translation>Aktiviert die Sichtbarkeit für alle Modelle (ohne Hierarchien)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
@@ -25061,7 +25061,7 @@ This option does not affect saving of view layout and window arrangement.</sourc
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="176"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-        <translation>Die Szene konnte nicht als %1 gespeichert werden (der Pfad %2 ist nicht beschreibbar).</translation>
+        <translation>Die Szene konnte nicht als %1 gespeichert werden (der Pfad %2 ist nicht beschreibbar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="148"/>
@@ -25175,7 +25175,7 @@ Bitte wählen Sie ein leeres Verzeichnis aus.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1412"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
-        <translation>Wählen Sie das Segment aus, indem Sie die Pixelposition auswählen, an  dem der Pinselstrich beginnt. Beginnt der Pinselstrich in einem leeren Bereich, löscht der Pinsel den markierten Bereich aus dem ausgewählten Segment.</translation>
+        <translation>Wählen Sie das Segment aus, indem Sie die Pixelposition auswählen, an dem der Pinselstrich beginnt. Beginnt der Pinselstrich in einem leeren Bereich, löscht der Pinsel den markierten Bereich aus dem ausgewählten Segment.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1419"/>
@@ -28916,7 +28916,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
@@ -29578,7 +29578,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="349"/>
         <source>Coordinates:</source>
-        <translation>Zentrum der Transformationen</translation>
+        <translation>Zentrum der Transformationen:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="356"/>
@@ -30401,7 +30401,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="73"/>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
-        <translation>Das Volumes-Modul ist die Schnittstelle zum Anpassen von Fenster, Pegel, Schwellenwert, Farbtabelle und anderen Parametern, die die Anzeige von Volumenbilddaten in der Szene steuern.</translation>
+        <translation>Das Volumes-Modul ist die Schnittstelle zum Anpassen von Fenster, Pegel, Schwellenwert, Farbtabelle und anderen Parametern, welche die Anzeige von Volumenbilddaten in der Szene steuern.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="91"/>
