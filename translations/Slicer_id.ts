@@ -10098,7 +10098,7 @@ dan Konsorsium Ontario untuk Intervensi Adaptif dalam Onkologi Radiasi (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="295"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished">&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Tentukan jalur eksekusi ffmpeg yang valid! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Bantuan...&&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
+        <translation type="unfinished">&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Tentukan jalur eksekusi ffmpeg yang valid! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Bantuan...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="303"/>
@@ -20233,7 +20233,7 @@ Kemampuan grafis komputer ini:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1938"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Slicer BUKAN perangkat medis yang disetujui oleh FDA.&lt;br&gt;&lt;br&gt;Didukung oleh: NA-MIC, NAC, BIRN, NCIGT, dan Komunitas Slicer.&lt;br&gt;&lt;br&gt;Terima kasih khusus kepada NIH dan para pendukung kami yang lain.&lt;br&gt;&lt;br&gt;Karya ini merupakan bagian dari National Alliance for Medical Image Computing (NA-MIC), yang didanai oleh National Institutes of Health melalui NIH Roadmap for Medical Research, Hibah U54 EB005149. Informasi mengenai National Centers for Biomedical Computing dapat diperoleh dari&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="unfinished">Slicer BUKAN perangkat medis yang disetujui oleh FDA.&lt;br&gt;&lt;br&gt;Didukung oleh: NA-MIC, NAC, BIRN, NCIGT, dan Komunitas Slicer.&lt;br&gt;&lt;br&gt;Terima kasih khusus kepada NIH dan para pendukung kami yang lain.&lt;br&gt;&lt;br&gt;Karya ini merupakan bagian dari National Alliance for Medical Image Computing (NA-MIC), yang didanai oleh National Institutes of Health melalui NIH Roadmap for Medical Research, Hibah U54 EB005149. Informasi mengenai National Centers for Biomedical Computing dapat diperoleh dari&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -27256,7 +27256,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="14"/>
         <source>ViewsSettings</source>
-        <translation type="unfinished">Tampilan & Pengaturan</translation>
+        <translation type="unfinished">Pengaturan Tampilan</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="41"/>

@@ -68,8 +68,9 @@ ENTITY_PAIRS = [
 def preserve_entities(source_raw, translated):
     if not source_raw:
         return translated
-    if "&amp;" in source_raw:
-        translated = re.sub(r'&(?![A-Za-z]+;)', "&amp;", translated)
+    # Always escape bare "&" (DeepL may insert one even if the source has none),
+    # otherwise the .ts file becomes invalid XML
+    translated = re.sub(r'&(?![A-Za-z]+;|#\d+;|#x[0-9A-Fa-f]+;)', "&amp;", translated)
     for entity, char in ENTITY_PAIRS:
         if entity in source_raw:
             translated = translated.replace(char, entity)
