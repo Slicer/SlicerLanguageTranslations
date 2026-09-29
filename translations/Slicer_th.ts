@@ -6,77 +6,77 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มปริมาตรสเกลาร์</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มภาพสองภาพ แม้ว่าจะรองรับภาพทุกประเภทเป็นอินพุต แต่จะสร้างผลลัพธ์เฉพาะประเภทที่มีเครื่องหมายเท่านั้น ภาพทั้งสองภาพไม่จำเป็นต้องมีขนาดเท่ากัน</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>งานนี้เป็นส่วนหนึ่งของโครงการ National Alliance for Medical Image Computing (NAMIC) ซึ่งได้รับทุนสนับสนุนจากสถาบันสุขภาพแห่งชาติสหรัฐอเมริกา (National Institutes of Health: NIH) ผ่านโครงการ NIH Roadmap for Medical Research ภายใต้ทุนสนับสนุนหมายเลข U54 EB005149</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>พารามิเตอร์อินพุต/เอาต์พุต</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Input Volume 1</translation>
+        <translation>ปริมาตรอินพุต 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Input Volume 2</translation>
+        <translation>ปริมาตรอินพุต 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>ปริมาตรเอาต์พุต</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Input volume 1</translation>
+        <translation>ปริมาตรอินพุต 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Input volume 2</translation>
+        <translation>ปริมาตรอินพุต 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
         <source>Volume1 + Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>ปริมาตร 1 + ปริมาตร 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>ขั้นสูง</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>พารามิเตอร์ขั้นสูงสำหรับปรับแต่งการคำนวณอย่างละเอียด</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>อันดับของการอินเตอร์โพเลชันพหุนามที่ใช้เมื่อภาพสองภาพมีเรขาคณิตแตกต่างกัน (จุดกำเนิด ระยะห่าง ทิศทางของแกน หรือขอบเขต): 0 = เพื่อนบ้านใกล้สุด, 1 = เชิงเส้น, 2 = กำลังสอง, 3 = ลูกบาศก์</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Interpolation order</translation>
+        <translation>อันดับการอินเตอร์โพเลชัน</translation>
     </message>
 </context>
 <context>
@@ -84,17 +84,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>การทำความสะอาด DWI (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบเกรเดียนต์/วอลุ่มที่มีปัญหาออกจากไฟล์ DWI NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">Input Parameters</translation>
+        <translation>พารามิเตอร์อินพุต</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
