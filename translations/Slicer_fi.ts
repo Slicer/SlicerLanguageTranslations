@@ -26,7 +26,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulo-/lähtöparametrit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Edistyneet parametrit laskennan hienosäätöön.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuloparametrit</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellisiä värisiirtymiä sisältävä NRRD-tiedosto poistettu.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaatimus: lähdekuva on 4D NRRD -kuva.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
@@ -137,17 +137,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä työ on tehty Iowan yliopiston sähkö- ja tietotekniikan laitoksella.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähtökuvat</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
         <source>First Image, Second Image and Mask Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensimmäinen kuva, toinen kuva ja maskikuva</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
@@ -157,7 +157,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
         <source>Source Reference Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähdeviitekuva</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Valinnainen maski</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
@@ -187,23 +187,23 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
         <source>Optional pre-generated mask to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valinnaisesti käytettävä valmiiksi luotu maski.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation type="unfinished"></translation>
+        <translation>sumenna</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>nolla</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
         <source>Output Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohdetiedosto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
@@ -218,7 +218,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohdehakemisto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Suoritustila</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
@@ -243,12 +243,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei maskin käyttöä</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Älä käytä maskia sen luomiseen käytettyihin lähtökuviin</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
@@ -263,12 +263,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylempi prosenttiosuus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>Alempi prosenttiosuus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
@@ -286,12 +286,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Suhteellinen skaalaus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
         <source>Debug Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheidenkorjaustaso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
@@ -316,7 +316,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheidenkorjaustaso (0 = ei mitään)</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yleinen rekisteröinti (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
@@ -339,12 +339,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähdekuvat</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiinteä kuvamäärä</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
@@ -354,7 +354,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
         <source>Percentage Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytteiden prosenttiiosuus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
@@ -419,12 +419,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Muunna alustusasetukset</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuntoparametrien alustusasetukset.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
@@ -555,12 +555,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvan maski ja esikäsittely</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskausasetus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
@@ -595,7 +595,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskimääräinen suodatinkoko</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Taustantäyttöarvo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
@@ -696,7 +696,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolointitila</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
@@ -738,12 +738,12 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Lineaarinen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>lyhyt</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
@@ -768,7 +768,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähin naapuri</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
@@ -793,7 +793,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Kosini</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
@@ -899,7 +899,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
         <source>Expert-only Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain asiantuntijoille tarkoitetut parametrit</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
@@ -924,7 +924,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
         <source>Cost Metric</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustannusmittarit</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
@@ -944,7 +944,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytemäärä</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
@@ -954,7 +954,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Muunnostyyppi</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
@@ -1066,7 +1066,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
         <source>Debugging Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheidenkorjausparametrit</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
@@ -1086,17 +1086,17 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
         <source>Debug option</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheidenkorjausasetus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
         <source>Set Sampling Strategy</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta näytteenottostrategia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokitiedostoraportti</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
@@ -1164,7 +1164,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Sattumanvarainen</translation>
     </message>
 </context>
 <context>
@@ -1172,7 +1172,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Etualan maskaus (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
@@ -1188,12 +1188,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>I/O</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulo-/lähtöparametrit</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
@@ -1248,7 +1248,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
         <source>Configuration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurointiparametrit</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
