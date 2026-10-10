@@ -6,7 +6,7 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="29"/>
         <source>Radiomics</source>
-        <translation type="unfinished">Radiomik</translation>
+        <translation>Radiomik</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="38"/>
@@ -63,52 +63,52 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="171"/>
         <source>Extraction Customization</source>
-        <translation type="unfinished">Anpassung der Extraktion</translation>
+        <translation>Anpassung der Extraktion</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="182"/>
         <source>Manual Customization</source>
-        <translation type="unfinished">Manuelle Anpassung</translation>
+        <translation>Manuelle Anpassung</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="187"/>
         <source>Parameter File Customization</source>
-        <translation type="unfinished">Anpassung der Parameterdatei</translation>
+        <translation>Anpassung der Parameterdatei</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="203"/>
         <source>Feature Classes</source>
-        <translation type="unfinished">Feature-Klassen</translation>
+        <translation>Funktionsklassen</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="209"/>
         <source>Features:</source>
-        <translation type="unfinished">Merkmale:</translation>
+        <translation>Funktionen:</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="232"/>
         <source>Toggle Features:</source>
-        <translation type="unfinished">Funktionen umschalten:</translation>
+        <translation>Funktionen umschalten:</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="234"/>
         <source>All Features</source>
-        <translation type="unfinished">Alle Funktionen</translation>
+        <translation>Alle Funktionen</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="236"/>
         <source>Calculate all feature classes.</source>
-        <translation type="unfinished">Alle Objektklassen berechnen.</translation>
+        <translation>Alle Funktionsklassen berechnen.</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="238"/>
         <source>No Features</source>
-        <translation type="unfinished">Keine Funktionen</translation>
+        <translation>Keine Funktionen</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="240"/>
         <source>Calculate no feature classes.</source>
-        <translation type="unfinished">Es werden keine Feature-Klassen berechnet.</translation>
+        <translation>Keine Funktionsklassen berechnen.</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="246"/>
@@ -143,12 +143,12 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="268"/>
         <source>Wavelet-based features</source>
-        <translation type="unfinished">Wavelet-basierte Merkmale</translation>
+        <translation>Wavelet-basierte Funktionen</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="275"/>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="289"/>
@@ -168,17 +168,17 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="295"/>
         <source>Enforce Symmetrical GLCM</source>
-        <translation type="unfinished">Symmetrisches GLCM erzwingen</translation>
+        <translation>Symmetrisches GLCM erzwingen</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="310"/>
         <source>Parameter File</source>
-        <translation type="unfinished">Parameterdatei</translation>
+        <translation>Parameterdatei</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="315"/>
         <source>Output</source>
-        <translation type="unfinished">Ausgabe</translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="324"/>
@@ -188,7 +188,7 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="324"/>
         <source>Verbose Output</source>
-        <translation type="unfinished">Ausführliche Ausgabe</translation>
+        <translation>Ausführliche Ausgabe</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="337"/>
@@ -198,17 +198,17 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="337"/>
         <source>Output table:</source>
-        <translation type="unfinished">Ausgabetabelle:</translation>
+        <translation>Ausgabetabelle:</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="386"/>
         <source>Working...</source>
-        <translation type="unfinished">Wird bearbeitet...</translation>
+        <translation>Wird bearbeitet ...</translation>
     </message>
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="472"/>
         <source>Apply</source>
-        <translation type="unfinished">Bewerben</translation>
+        <translation>Anwenden</translation>
     </message>
 </context>
 <context>
@@ -216,7 +216,7 @@
     <message>
         <location filename="SlicerRadiomics/SlicerRadiomics.py" line="30"/>
         <source>Informatics</source>
-        <translation type="unfinished">Informationstechnologie</translation>
+        <translation>Informatik</translation>
     </message>
 </context>
 </TS>
