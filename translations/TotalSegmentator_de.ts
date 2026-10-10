@@ -6,7 +6,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Eingaben</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="23"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="109"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgaben</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="115"/>
@@ -56,12 +56,12 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="177"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="186"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="291"/>
         <source>TotalSegmentator license: </source>
-        <translation type="unfinished"></translation>
+        <translation>TotalSegmentator-Lizenz: </translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="308"/>
@@ -151,17 +151,17 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="65"/>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschwindigkeit:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="74"/>
         <source>Full resolution output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe in voller Auflösung.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="77"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="84"/>
@@ -171,7 +171,7 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="87"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Schnell</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="94"/>
@@ -181,12 +181,12 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="97"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation>Schneller</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="301"/>
         <source>Set license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenzschlüssel festlegen</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="26"/>
@@ -216,7 +216,7 @@ https://arxiv.org/abs/2208.05868
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="94"/>
         <source>{task_title} [license required]</source>
-        <translation type="unfinished"></translation>
+        <translation>{task_title} [Lizenz erforderlich]</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="247"/>
@@ -248,7 +248,7 @@ https://arxiv.org/abs/2208.05868
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="326"/>
         <source>Application restart required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungsneustart erforderlich.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="328"/>
@@ -259,7 +259,7 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="329"/>
         <source>Confirm application restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungsneustart bestätigen</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="336"/>
@@ -276,7 +276,7 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="362"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung abgeschlossen.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="366"/>
@@ -296,17 +296,17 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="374"/>
         <source>Restart was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neustart wurde abgebrochen.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="380"/>
         <source>Set TotalSegmentator license key</source>
-        <translation type="unfinished"></translation>
+        <translation>TotalSegmentator-Lizenzschlüssel festlegen</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="380"/>
         <source>License key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenzschlüssel:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="383"/>
@@ -316,7 +316,7 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="385"/>
         <source>License is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz ist nicht angegeben.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="391"/>
@@ -331,12 +331,12 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="796"/>
         <source>- Skip {requirement}</source>
-        <translation type="unfinished"></translation>
+        <translation>- Überspringen {requirement}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="798"/>
         <source>- Installing {requirement}...</source>
-        <translation type="unfinished"></translation>
+        <translation>- {requirement} wird installiert ...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="859"/>
@@ -346,12 +346,12 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="860"/>
         <source>Confirm Python package installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation des Python-Pakets bestätigen</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="861"/>
         <source>Python packages that will be installed: {package_list}</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-Pakete, die installiert werden: {package_list}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="867"/>
@@ -373,7 +373,9 @@ Press OK to restart.</source>
         <source>Currently installed: {downloadUrl}
 
 Required: {requiredUrl}</source>
-        <translation type="unfinished"></translation>
+        <translation>Derzeit installiert: {downloadUrl}
+
+Erforderlich: {requiredUrl}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="911"/>
@@ -388,12 +390,12 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="986"/>
         <source>Setting license...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz wird festgelegt ...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1006"/>
         <source>License has been successfully set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz wurde erfolgreich festgelegt.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1008"/>
@@ -403,7 +405,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1045"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung gestartet</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1072"/>
@@ -413,12 +415,12 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1073"/>
         <source>Fast (~2 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Schnell (~2 Minuten)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1074"/>
         <source>Full-resolution (~5 to 50 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volle Auflösung (~5 bis 50 Minuten)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1083"/>
@@ -428,12 +430,12 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1131"/>
         <source>Processing completed in {time_elapsed:.2f} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung in {time_elapsed:.2f} Sekunden abgeschlossen</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1134"/>
         <source>Cleaning up temporary folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Temporärer Ordner wird bereinigt ...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1139"/>
@@ -468,7 +470,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1260"/>
         <source>Path {segment_name} not exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad {segment_name} existiert nicht.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1270"/>
@@ -478,7 +480,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1277"/>
         <source>{segment_name} not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>{segment_name} nicht gefunden.</translation>
     </message>
 </context>
 <context>
