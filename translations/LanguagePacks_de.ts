@@ -128,7 +128,7 @@
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
         <oldsource>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</oldsource>
-        <translation type="unfinished">Pfad zur ausführbaren Qt-Datei lrelease. Lassen Sie das Feld leer, um den Standardwert zu verwenden (der im Lieferumfang des Slicer-Installationsprogramms enthalten ist oder in den Systempfaden verfügbar ist).</translation>
+        <translation>Liste von Ordnern, in denen die Anwendung nach Übersetzungen sucht. Dies ist nur zur Information, die Pfade können nicht geändert werden.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="62"/>
