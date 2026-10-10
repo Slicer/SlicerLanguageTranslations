@@ -7,17 +7,17 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwort:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>BenutzerName:</translation>
     </message>
 </context>
 <context>
@@ -40,7 +40,9 @@ See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAIL
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Entwickelt von NVIDIA, KCL
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="73"/>
@@ -50,7 +52,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="77"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveradresse:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="81"/>
@@ -65,7 +67,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="89"/>
         <source>File Extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateierweiterung:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
