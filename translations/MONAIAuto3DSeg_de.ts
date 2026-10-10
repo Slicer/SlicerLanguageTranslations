@@ -6,7 +6,7 @@
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingaben</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="23"/>
@@ -16,12 +16,12 @@
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="76"/>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="38"/>
         <source>MONAI Auto3DSeg</source>
-        <translation type="unfinished"></translation>
+        <translation>MONAI Auto3DSeg</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="42"/>
@@ -42,7 +42,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="190"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Leerlauf</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="191"/>
@@ -62,7 +62,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="194"/>
         <source>Processing Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung abgeschlossen</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="195"/>
@@ -72,7 +72,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="196"/>
         <source>Processing Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="465"/>
@@ -82,12 +82,12 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="473"/>
         <source>Select a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell auswählen.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="481"/>
         <source>{input_title}:</source>
-        <translation type="unfinished"></translation>
+        <translation>{input_title}:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="486"/>
@@ -97,7 +97,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="488"/>
         <source>Select {input_title}.</source>
-        <translation type="unfinished"></translation>
+        <translation>{input_title} auswählen.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="491"/>
@@ -117,7 +117,7 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="508"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="509"/>
@@ -137,12 +137,12 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="539"/>
         <source>Running ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Läuft ...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="581"/>
         <source>Log cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokoll geleert</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="649"/>
@@ -162,12 +162,12 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="706"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung abgeschlossen.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="709"/>
         <source>Processing was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung wurde abgebrochen.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="715"/>
@@ -212,12 +212,12 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="778"/>
         <source>Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum Neustart auf OK drücken.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="789"/>
         <source>There are no downloaded models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es gibt keine heruntergeladenen Modelle.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="791"/>
@@ -227,12 +227,12 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="794"/>
         <source>Downloaded models are deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heruntergeladene Modelle werden gelöscht.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="798"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbunden</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="803"/>
@@ -249,7 +249,7 @@ Please check address, port, and connection.</source>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="813"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="112"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinden</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="819"/>
@@ -259,12 +259,12 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="842"/>
         <source>Server started</source>
-        <translation type="unfinished"></translation>
+        <translation>Server gestartet</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="852"/>
         <source>Server was stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server wurde gestoppt.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="855"/>
@@ -294,7 +294,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="146"/>
         <source>Full text</source>
-        <translation type="unfinished"></translation>
+        <translation>Vollständiger Text</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="155"/>
@@ -304,7 +304,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="158"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="187"/>
@@ -329,7 +329,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="302"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgaben</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="311"/>
@@ -344,7 +344,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="329"/>
         <source>Brain</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehirn</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="347"/>
@@ -360,12 +360,12 @@ Please check address, port, and connection.</source>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="462"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="363"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="376"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="385"/>
@@ -415,7 +415,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="462"/>
         <source>Show all models:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Modelle anzeigen:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="469"/>
@@ -425,7 +425,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="479"/>
         <source>Manage models:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelle verwalten:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="488"/>
@@ -450,7 +450,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="510"/>
         <source>Auto show 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>3D automatisch anzeigen:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="517"/>
@@ -465,7 +465,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="542"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="562"/>
@@ -481,12 +481,12 @@ Please check address, port, and connection.</source>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="539"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="597"/>
         <source>Start server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server starten</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="607"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveradresse:</translation>
     </message>
 </context>
 <context>
@@ -504,7 +504,7 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="5"/>
         <source>human</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensch</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="6"/>
