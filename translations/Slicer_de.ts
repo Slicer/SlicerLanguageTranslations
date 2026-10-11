@@ -19232,7 +19232,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentierung</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
