@@ -281,7 +281,7 @@
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
         <source>Lower Output Intensity</source>
-        <translation type="unfinished">Niższa intensywność wsparcia</translation>
+        <translation>Dolna intensywność wyjściowa</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
@@ -3666,7 +3666,7 @@ MCDE nie wykazuje właściwości wzmacniających krawędzie, charakterystycznych
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
         <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
-        <translation type="unfinished">Pierwotną wersję tej metody opracowało Laboratorium Analizy Obrazu przy ETH w Zurychu pod kierownictwem profesorów Olafa Kueblera, Gabor Szekely'ego i Guido Geriga. Ulepszenia wprowadził Martin Styner z Uniwersytetu Karoliny Północnej w Chapel Hill. Adaptację do programu Slicer przygotowali Pierre Seroul i Stephen Aylward z firmy Kitware, Inc.</translation>
+        <translation type="unfinished">Pierwotną wersję tej metody opracowało Laboratorium Analizy Obrazu przy ETH w Zurychu pod kierownictwem profesorów Olafa Kueblera, Gabor Szekely&apos;ego i Guido Geriga. Ulepszenia wprowadził Martin Styner z Uniwersytetu Karoliny Północnej w Chapel Hill. Adaptację do programu Slicer przygotowali Pierre Seroul i Stephen Aylward z firmy Kitware, Inc.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
@@ -12695,7 +12695,7 @@ partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the Nationa
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <translation type="unfinished">
-Opracowany przez Steve'a Piepera z firmy Isomics, Inc.,
+Opracowany przez Steve&apos;a Piepera z firmy Isomics, Inc.,
 częściowo sfinansowany z grantu NIH nr 3P41RR013218-12S1 (NAC) i stanowiący część Narodowego Sojuszu
 na rzecz Przetwarzania Obrazów Medycznych (NA-MIC), finansowanego przez Narodowy Instytut Zdrowia w ramach
 programu NIH Roadmap for Medical Research, grant nr U54 EB005149.</translation>
@@ -21163,10 +21163,10 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="734"/>
         <source>Export %n node(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Eksportuj %n węzeł</numerusform>
+            <numerusform>Eksportuj %n węzły</numerusform>
+            <numerusform>Eksportuj %n węzłów</numerusform>
         </translation>
     </message>
     <message>
@@ -30849,10 +30849,10 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="376"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 aktualizacja rozszerzenia jest dostępna</numerusform>
+            <numerusform>%1 aktualizacje rozszerzenia są dostepne</numerusform>
+            <numerusform>%1 aktualizacji rozszerzenia jest dostępnych</numerusform>
         </translation>
     </message>
     <message>
