@@ -6,12 +6,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>افزودن حجم‌های اسکالر</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>دو تصویر را جمع می‌کند. اگرچه همه انواع تصویر در ورودی پشتیبانی می‌شوند، فقط انواع علامت‌دار تولید می‌شوند. لازم نیست دو تصویر ابعاد یکسانی داشته باشند.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
