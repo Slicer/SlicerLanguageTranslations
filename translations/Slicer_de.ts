@@ -5889,8 +5889,8 @@ Der Filter geht davon aus, dass sowohl das Quell- als auch das Referenzbild vom 
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished">
-</translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -7928,7 +7928,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="910"/>
         <source>Side panel</source>
-        <translation type="unfinished">Seitenleiste</translation>
+        <translation>Seitenleiste</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="604"/>
@@ -8019,7 +8019,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1295"/>
         <source>running at port %s with TLS</source>
-        <translation type="unfinished">läuft auf Port %s mit TLS</translation>
+        <translation>läuft auf Port %s mit TLS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1311"/>
@@ -8352,7 +8352,7 @@ Diese Datei wurde ursprünglich von Andras Lasso entwickelt.
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="152"/>
         <source>Patch</source>
-        <translation type="unfinished">Patch</translation>
+        <translation>Patch</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="153"/>
@@ -9290,7 +9290,7 @@ Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposit
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentation</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
@@ -9308,7 +9308,7 @@ Sie können die Kameraposition jederzeit speichern, indem Sie auf „Kameraposit
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="30"/>
         <source>Line Profile</source>
-        <translation type="unfinished">Linienprofil</translation>
+        <translation>Linienprofil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="34"/>
@@ -9339,7 +9339,7 @@ Diese Datei wurde ursprünglich von Andras Lasso (PerkLab) entwickelt und teilwe
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="509"/>
         <source>{name} intensity</source>
-        <translation type="unfinished">{name} Intensität</translation>
+        <translation>{name} Intensität</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/LineProfile.py" line="510"/>
