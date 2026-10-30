@@ -3,6 +3,7 @@ import json
 import re
 import requests
 import subprocess
+import xml.etree.ElementTree as ET
 
 DEEPL_API_KEY = os.environ["DEEPL_API_KEY"]
 DEEPL_URL = "https://api-free.deepl.com/v2/translate"
@@ -14,6 +15,10 @@ DEEPL_MAX_SIZE_KB = 128  # 128 KiB max per request
 DEEPL_MAX_TEXTS = 50     # 50 texts max per request
 
 CACHE_FILE = "scripts/translation_cache.json"
+# Cache entries map plain (unescaped) source text to plain translated text.
+# Entries without this prefix are from older versions, which stored XML-escaped
+# text that DeepL could have corrupted, and are discarded.
+CACHE_KEY_PREFIX = "plain:"
 
 PLACEHOLDER_PATTERN = r"%\d+|%L\d+|%n"
 
@@ -29,8 +34,13 @@ TRANSLATION_BLOCK = re.compile(
 def load_cache():
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf8") as f:
-            return json.load(f)
+            cache = json.load(f)
+        return {k: v for k, v in cache.items() if k.startswith(CACHE_KEY_PREFIX)}
     return {}
+
+
+def cache_key(plain_source, lang):
+    return f"{CACHE_KEY_PREFIX}{lang}:{plain_source}"
 
 
 def save_cache(cache):
@@ -57,24 +67,32 @@ def restore_placeholders(text, mapping):
     return restored
 
 
-ENTITY_PAIRS = [
-    ("&lt;", "<"),
-    ("&gt;", ">"),
-    ("&apos;", "'"),
-    ("&quot;", '"'),
-]
+XML_ENTITIES = {"lt": "<", "gt": ">", "amp": "&", "quot": '"', "apos": "'"}
+
+XML_REFERENCE = re.compile(r"&(?:#x([0-9A-Fa-f]+)|#(\d+)|(lt|gt|amp|quot|apos));")
 
 
-def preserve_entities(source_raw, translated):
-    if not source_raw:
-        return translated
-    # Always escape bare "&" (DeepL may insert one even if the source has none),
-    # otherwise the .ts file becomes invalid XML
-    translated = re.sub(r'&(?![A-Za-z]+;|#\d+;|#x[0-9A-Fa-f]+;)', "&amp;", translated)
-    for entity, char in ENTITY_PAIRS:
-        if entity in source_raw:
-            translated = translated.replace(char, entity)
-    return translated
+def xml_unescape(text):
+    """Convert XML-escaped .ts content to plain text."""
+    def replace(m):
+        if m.group(1):
+            return chr(int(m.group(1), 16))
+        if m.group(2):
+            return chr(int(m.group(2)))
+        return XML_ENTITIES[m.group(3)]
+    return XML_REFERENCE.sub(replace, text)
+
+
+def xml_escape(text, source_raw):
+    """Escape plain text for a .ts file, quoting like the source does."""
+    # DeepL only ever sees plain text, so any "&" or "<" in the result is literal text
+    # and must be escaped, otherwise the .ts file becomes invalid XML.
+    text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    if "&quot;" in source_raw:
+        text = text.replace('"', "&quot;")
+    if "&apos;" in source_raw:
+        text = text.replace("'", "&apos;")
+    return text
 
 
 def build_new_block(message_prefix, middle_section, translation_tag,
@@ -214,10 +232,13 @@ def process_file(path, cache):
         if translation_text and translation_text.strip() != "":
             continue
 
-        key = f"{source_text}:{lang}"
+        # Translate the plain text: DeepL does not preserve XML entities reliably
+        # (e.g., it turned "&lt;/a&gt;.&lt;br&gt;" into "&ltlt;br&gt;")
+        plain_source = xml_unescape(source_text)
+        key = cache_key(plain_source, lang)
 
         if key in cache:
-            translated = preserve_entities(source_text, cache[key])
+            translated = xml_escape(cache[key], source_text)
             new_block = build_new_block(
                 message_prefix, middle_section,
                 translation_tag, translation_attrs, translation_gt,
@@ -227,7 +248,7 @@ def process_file(path, cache):
             print(source_text, "→", translated, "(cached)")
             continue
 
-        protected, mapping = protect_placeholders(source_text)
+        protected, mapping = protect_placeholders(plain_source)
         texts_to_translate.append((
             source_text, protected, mapping,
             full, message_prefix, middle_section,
@@ -244,17 +265,16 @@ def process_file(path, cache):
              translation_tag, translation_attrs, translation_gt, translation_close) = item
 
             restored = restore_placeholders(translated, mapping)
-            restored = preserve_entities(source_text, restored)
-
-            cache[f"{source_text}:{lang}"] = restored
+            cache[cache_key(xml_unescape(source_text), lang)] = restored
+            escaped = xml_escape(restored, source_text)
 
             new_block = build_new_block(
                 message_prefix, middle_section,
                 translation_tag, translation_attrs, translation_gt,
-                restored, translation_close
+                escaped, translation_close
             )
             replacements.append((full, new_block))
-            print(source_text, "→", restored)
+            print(source_text, "→", escaped)
 
     if not replacements:
         return False
@@ -262,6 +282,12 @@ def process_file(path, cache):
     updated = content
     for old, new in replacements:
         updated = updated.replace(old, new, 1)
+
+    # Never write a file that Weblate cannot parse
+    try:
+        ET.fromstring(updated.encode("utf-8"))
+    except ET.ParseError as e:
+        raise RuntimeError(f"Translated file would be invalid XML ({e}), not writing {path}")
 
     with open(path, "w", encoding="utf-8") as f:
         f.write(updated)
