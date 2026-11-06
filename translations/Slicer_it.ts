@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
@@ -339,7 +339,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation type="unfinished">Inserisci immagini</translation>
+        <translation>Inserisci immagini</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
@@ -661,7 +661,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
@@ -732,13 +732,13 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>galleggiante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Lineare</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
@@ -788,7 +788,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation type="unfinished">Hamming</translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
@@ -1193,17 +1193,17 @@ NOTA che si consiglia di utilizzare samplingPercentage invece di questa opzione.
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parametri di ingresso/uscita</translation>
+        <translation>Parametri di ingresso/uscita</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">Immettere il volume dell&apos;immagine</translation>
+        <translation>Volume delle immagini in ingresso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
@@ -1324,7 +1324,7 @@ NOTA che si consiglia di utilizzare samplingPercentage invece di questa opzione.
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>galleggiante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
@@ -1334,7 +1334,7 @@ NOTA che si consiglia di utilizzare samplingPercentage invece di questa opzione.
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
@@ -1428,7 +1428,7 @@ NOTA che si consiglia di utilizzare samplingPercentage invece di questa opzione.
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>galleggiante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
@@ -1443,7 +1443,7 @@ NOTA che si consiglia di utilizzare samplingPercentage invece di questa opzione.
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
@@ -1483,7 +1483,7 @@ NOTA che si consiglia di utilizzare samplingPercentage invece di questa opzione.
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation type="unfinished">Trasforma il file</translation>
+        <translation>Trasforma il file</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
@@ -1554,7 +1554,7 @@ NOTA che si consiglia di utilizzare samplingPercentage invece di questa opzione.
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
         <source>Hamming</source>
-        <translation type="unfinished">Hamming</translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
@@ -1707,7 +1707,7 @@ Questo programma è utile per sotto campionare un&apos;immagine con un fattore d
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation type="unfinished">uchar</translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
@@ -1795,12 +1795,13 @@ Questo programma è utile per sotto campionare un&apos;immagine con un fattore d
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
@@ -1877,7 +1878,7 @@ Questo programma è utile per sotto campionare un&apos;immagine con un fattore d
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>galleggiante</translation>
     </message>
 </context>
 <context>
@@ -4304,7 +4305,7 @@ Un filtro complementare, Grayscale Fill Hole, riempie i fori nelle immagini in s
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="29"/>
         <source>Turn this flag on to log more details during execution.</source>
-        <translation type="unfinished">Attiva questa opzione per registrare maggiori dettagli durante l'esecuzione.</translation>
+        <translation type="unfinished">Attiva questa opzione per registrare maggiori dettagli durante l&apos;esecuzione.</translation>
     </message>
 </context>
 <context>
@@ -4323,13 +4324,13 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished">Normalizza i valori in scala di grigi di un'immagine sorgente in base ai valori in scala di grigi di un'immagine di riferimento. Questo filtro utilizza una tecnica di corrispondenza degli istogrammi in cui gli istogrammi delle due immagini vengono allineati solo in corrispondenza di un numero specificato di valori quantili.
+        <translation type="unfinished">Normalizza i valori in scala di grigi di un&apos;immagine sorgente in base ai valori in scala di grigi di un&apos;immagine di riferimento. Questo filtro utilizza una tecnica di corrispondenza degli istogrammi in cui gli istogrammi delle due immagini vengono allineati solo in corrispondenza di un numero specificato di valori quantili.
 
-Il filtro è stato originariamente progettato per normalizzare immagini RM relative allo stesso protocollo RM e alla stessa parte del corpo. L'algoritmo funziona al meglio se i pixel di sfondo vengono esclusi sia dall'istogramma sorgente che da quello di riferimento.  Un metodo semplice di esclusione dello sfondo consiste nell'escludere tutti i pixel i cui valori in scala di grigi sono inferiori al valore medio in scala di grigi. L'opzione ThresholdAtMeanIntensity attiva questo semplice metodo di esclusione dello sfondo.
+Il filtro è stato originariamente progettato per normalizzare immagini RM relative allo stesso protocollo RM e alla stessa parte del corpo. L&apos;algoritmo funziona al meglio se i pixel di sfondo vengono esclusi sia dall&apos;istogramma sorgente che da quello di riferimento.  Un metodo semplice di esclusione dello sfondo consiste nell&apos;escludere tutti i pixel i cui valori in scala di grigi sono inferiori al valore medio in scala di grigi. L&apos;opzione ThresholdAtMeanIntensity attiva questo semplice metodo di esclusione dello sfondo.
 
 Il numero di punti di corrispondenza determina il numero di valori quantili da allineare.
 
-Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano dello stesso tipo e che il tipo di immagine in ingresso e in uscita abbiano lo stesso numero di dimensioni e tipi di pixel scalari.</translation>
+Il filtro presuppone che sia l&apos;immagine sorgente che quella di riferimento siano dello stesso tipo e che il tipo di immagine in ingresso e in uscita abbiano lo stesso numero di dimensioni e tipi di pixel scalari.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
@@ -4344,12 +4345,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
         <source>Parameters for Histogram Matching</source>
-        <translation type="unfinished">Parametri per l'allineamento dell'istogramma</translation>
+        <translation type="unfinished">Parametri per l&apos;allineamento dell&apos;istogramma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"/>
         <source>Number of Histogram Levels</source>
-        <translation type="unfinished">Numero di livelli dell'istogramma</translation>
+        <translation type="unfinished">Numero di livelli dell&apos;istogramma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"/>
@@ -4374,7 +4375,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"/>
         <source>If on, only pixels above the mean in each volume are thresholded.</source>
-        <translation type="unfinished">Se l'opzione è attiva, vengono sottoposti alla soglia solo i pixel che superano la media in ciascun volume.</translation>
+        <translation type="unfinished">Se l&apos;opzione è attiva, vengono sottoposti alla soglia solo i pixel che superano la media in ciascun volume.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
@@ -4496,12 +4497,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
         <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
-        <translation type="unfinished">Questo filtro smussa una mappa di etichette binaria.  Con una mappa di etichette come input, questo filtro applica un algoritmo anti-aliasing seguito da un algoritmo di smussamento gaussiano.  L'output è una mappa di etichette smussata.</translation>
+        <translation type="unfinished">Questo filtro smussa una mappa di etichette binaria.  Con una mappa di etichette come input, questo filtro applica un algoritmo anti-aliasing seguito da un algoritmo di smussamento gaussiano.  L&apos;output è una mappa di etichette smussata.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
-        <translation type="unfinished">Questo lavoro fa parte dell'iniziativa National Alliance for Medical Image Computing (NAMIC), finanziata dal National Institutes of Health attraverso il programma NIH Roadmap for Medical Research, con la sovvenzione U54 EB005149. Questo filtro si basa su ricerche condotte presso l'Università dello Utah e implementate presso GE Research.</translation>
+        <translation type="unfinished">Questo lavoro fa parte dell&apos;iniziativa National Alliance for Medical Image Computing (NAMIC), finanziata dal National Institutes of Health attraverso il programma NIH Roadmap for Medical Research, con la sovvenzione U54 EB005149. Questo filtro si basa su ricerche condotte presso l&apos;Università dello Utah e implementate presso GE Research.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
@@ -4511,7 +4512,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"/>
         <source>Parameters for selecting the label to smooth</source>
-        <translation type="unfinished">Parametri per la selezione dell'etichetta da livellare</translation>
+        <translation type="unfinished">Parametri per la selezione dell&apos;etichetta da livellare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
@@ -4521,7 +4522,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished">L'etichetta da livellare.  Tutte le altre saranno ignorate.  Se l'utente non seleziona alcuna etichetta, verrà scelta per impostazione predefinita l'etichetta con il valore massimo presente nell'immagine.</translation>
+        <translation type="unfinished">L&apos;etichetta da livellare.  Tutte le altre saranno ignorate.  Se l&apos;utente non seleziona alcuna etichetta, verrà scelta per impostazione predefinita l&apos;etichetta con il valore massimo presente nell&apos;immagine.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
@@ -4531,7 +4532,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"/>
         <source>Parameters for the AntiAliasing algorithm</source>
-        <translation type="unfinished">Parametri dell'algoritmo di anti-aliasing</translation>
+        <translation type="unfinished">Parametri dell&apos;algoritmo di anti-aliasing</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"/>
@@ -4546,12 +4547,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation type="unfinished">Il numero di iterazioni dell'algoritmo di anti-aliasing a set di livelli</translation>
+        <translation type="unfinished">Il numero di iterazioni dell&apos;algoritmo di anti-aliasing a set di livelli</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
         <source>The maximum RMS error.</source>
-        <translation type="unfinished">L'errore RMS massimo.</translation>
+        <translation type="unfinished">L&apos;errore RMS massimo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"/>
@@ -4659,7 +4660,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation type="unfinished">Volume di output: il volume di input viene mascherato dal valore dell'etichetta proveniente dal volume di mascheramento</translation>
+        <translation type="unfinished">Volume di output: il volume di input viene mascherato dal valore dell&apos;etichetta proveniente dal volume di mascheramento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
@@ -4674,7 +4675,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
         <source>Label value</source>
-        <translation type="unfinished">Valore dell'etichetta</translation>
+        <translation type="unfinished">Valore dell&apos;etichetta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
@@ -4684,7 +4685,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation type="unfinished">Valore dell'etichetta nel campo "Volume maschera" da utilizzare come maschera</translation>
+        <translation type="unfinished">Valore dell&apos;etichetta nel campo &quot;Volume maschera&quot; da utilizzare come maschera</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
@@ -4829,7 +4830,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
         <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
-        <translation type="unfinished">Crea modelli di superfici 3D a partire da dati segmentati.&lt;p&gt;I modelli vengono importati in Slicer all'interno di un nodo della gerarchia dei modelli in una scena MRML. I colori del modello sono definiti dalla tabella dei colori associata al volume di input (questi colori saranno visibili solo se si carica il file della scena del modello).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specificare un &lt;i&gt;Volume di input&lt;/i&gt; che sia un volume di mappa delle etichette segmentato. Creare una nuova gerarchia &lt;i&gt;Modelli&lt;/i&gt; per fornire una struttura in cui contenere i modelli di ritorno creati dal volume di input.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Crea multipli:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Se si specifica un elenco di &lt;i&gt;Etichette&lt;/i&gt;, questo sovrascriverà qualsiasi impostazione di etichetta di inizio/fine.&lt;/p&gt;&lt;p&gt;Se si fa clic su &lt;i&gt;Genera tutto&lt;/i&gt;, l'operazione avrà la precedenza sull'elenco delle etichette e su qualsiasi impostazione relativa alle etichette di inizio/fine.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Parametri Model Maker:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;È possibile impostare il numero di iterazioni di smussatura e la riduzione desiderata del numero di poligoni (percentuale decimale). Utilizzare 0 e 0 se non si desidera né smussatura né decimazione.&lt;br&gt;In questo riquadro è anche possibile impostare i flag per dividere le normali o generare normali puntiformi.&lt;br&gt;È possibile salvare una copia dei modelli dopo le fasi intermedie (marching cubes, smussatura e decimazione se non si esegue la smussatura congiunta, altrimenti subito dopo la decimazione); questi modelli non vengono salvati nel file mrml, disattiva prima l'eliminazione dei file temporanei nella finestra Python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
+        <translation type="unfinished">Crea modelli di superfici 3D a partire da dati segmentati.&lt;p&gt;I modelli vengono importati in Slicer all&apos;interno di un nodo della gerarchia dei modelli in una scena MRML. I colori del modello sono definiti dalla tabella dei colori associata al volume di input (questi colori saranno visibili solo se si carica il file della scena del modello).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specificare un &lt;i&gt;Volume di input&lt;/i&gt; che sia un volume di mappa delle etichette segmentato. Creare una nuova gerarchia &lt;i&gt;Modelli&lt;/i&gt; per fornire una struttura in cui contenere i modelli di ritorno creati dal volume di input.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Crea multipli:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Se si specifica un elenco di &lt;i&gt;Etichette&lt;/i&gt;, questo sovrascriverà qualsiasi impostazione di etichetta di inizio/fine.&lt;/p&gt;&lt;p&gt;Se si fa clic su &lt;i&gt;Genera tutto&lt;/i&gt;, l&apos;operazione avrà la precedenza sull&apos;elenco delle etichette e su qualsiasi impostazione relativa alle etichette di inizio/fine.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Parametri Model Maker:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;È possibile impostare il numero di iterazioni di smussatura e la riduzione desiderata del numero di poligoni (percentuale decimale). Utilizzare 0 e 0 se non si desidera né smussatura né decimazione.&lt;br&gt;In questo riquadro è anche possibile impostare i flag per dividere le normali o generare normali puntiformi.&lt;br&gt;È possibile salvare una copia dei modelli dopo le fasi intermedie (marching cubes, smussatura e decimazione se non si esegue la smussatura congiunta, altrimenti subito dopo la decimazione); questi modelli non vengono salvati nel file mrml, disattiva prima l&apos;eliminazione dei file temporanei nella finestra Python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -4859,7 +4860,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished">Mappa delle etichette di ingresso. Il menu a tendina "Volume di ingresso" contiene i volumi della mappa delle etichette presenti nella scena; selezionarne uno da cui generare i modelli.</translation>
+        <translation type="unfinished">Mappa delle etichette di ingresso. Il menu a tendina &quot;Volume di ingresso&quot; contiene i volumi della mappa delle etichette presenti nella scena; selezionarne uno da cui generare i modelli.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
@@ -4869,7 +4870,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished">I modelli generati vengono inseriti in un nodo della gerarchia dei modelli. I modelli vengono importati in Slicer all&apos;interno di un nodo della gerarchia dei modelli e i loro colori vengono definiti dalla tabella dei colori associata al volume della mappa delle etichette di input. Il nodo della gerarchia dei modelli deve essere creato prima di eseguire il Model Maker, selezionando "Crea nuova gerarchia dei modelli" dal menu a tendina "Modelli". Se si esegue l&apos;operazione dalla riga di comando, verrà creato automaticamente un nodo della gerarchia dei modelli in una nuova scena MRML.</translation>
+        <translation type="unfinished">I modelli generati vengono inseriti in un nodo della gerarchia dei modelli. I modelli vengono importati in Slicer all&apos;interno di un nodo della gerarchia dei modelli e i loro colori vengono definiti dalla tabella dei colori associata al volume della mappa delle etichette di input. Il nodo della gerarchia dei modelli deve essere creato prima di eseguire il Model Maker, selezionando &quot;Crea nuova gerarchia dei modelli&quot; dal menu a tendina &quot;Modelli&quot;. Se si esegue l&apos;operazione dalla riga di comando, verrà creato automaticamente un nodo della gerarchia dei modelli in una nuova scena MRML.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
@@ -4894,12 +4895,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished">Nome da utilizzare per questo modello. Il testo inserito nella casella di immissione costituirà la stringa iniziale dei nomi dei file dei modelli creati. Anche il numero dell'etichetta e il nome del colore faranno parte del nome del file. Se si creano più modelli, utilizzare questa stringa come prefisso al numero dell'etichetta e al nome del colore.</translation>
+        <translation type="unfinished">Nome da utilizzare per questo modello. Il testo inserito nella casella di immissione costituirà la stringa iniziale dei nomi dei file dei modelli creati. Anche il numero dell&apos;etichetta e il nome del colore faranno parte del nome del file. Se si creano più modelli, utilizzare questa stringa come prefisso al numero dell&apos;etichetta e al nome del colore.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished">Genera modelli per tutte le etichette nel volume di input. Seleziona questa opzione se desideri creare tutti i modelli corrispondenti a tutti i valori presenti in un volume con mappa di etichette (in questo caso è utile utilizzare l'opzione "Joint Smoothing" riportata di seguito). Ignora le impostazioni relative a "Etichette", "Etichetta iniziale" ed "Etichetta finale". Salta l'etichetta 0.</translation>
+        <translation type="unfinished">Genera modelli per tutte le etichette nel volume di input. Seleziona questa opzione se desideri creare tutti i modelli corrispondenti a tutti i valori presenti in un volume con mappa di etichette (in questo caso è utile utilizzare l&apos;opzione &quot;Joint Smoothing&quot; riportata di seguito). Ignora le impostazioni relative a &quot;Etichette&quot;, &quot;Etichetta iniziale&quot; ed &quot;Etichetta finale&quot;. Salta l&apos;etichetta 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
@@ -4969,22 +4970,22 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation type="unfinished">Un elenco di valori di etichetta separati da virgole da cui ricavare i modelli. Se si specifica un elenco di etichette, questo avrà la precedenza su qualsiasi impostazione relativa alle etichette di inizio/fine. Se si fa clic su "Genera tutti i modelli", ciò avrà la precedenza sull'elenco di etichette e su qualsiasi impostazione relativa alle etichette di inizio/fine.</translation>
+        <translation type="unfinished">Un elenco di valori di etichetta separati da virgole da cui ricavare i modelli. Se si specifica un elenco di etichette, questo avrà la precedenza su qualsiasi impostazione relativa alle etichette di inizio/fine. Se si fa clic su &quot;Genera tutti i modelli&quot;, ciò avrà la precedenza sull&apos;elenco di etichette e su qualsiasi impostazione relativa alle etichette di inizio/fine.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished">Se desideri specificare un intervallo continuo di etichette da cui generare i modelli, inserisci qui l'etichetta iniziale. Valore del voxel da cui iniziare a creare i modelli. Si utilizza al posto dell'elenco delle etichette per specificare un intervallo (assicurati che l'elenco delle etichette sia vuoto, altrimenti questa impostazione verrà ignorata).</translation>
+        <translation type="unfinished">Se desideri specificare un intervallo continuo di etichette da cui generare i modelli, inserisci qui l&apos;etichetta iniziale. Valore del voxel da cui iniziare a creare i modelli. Si utilizza al posto dell&apos;elenco delle etichette per specificare un intervallo (assicurati che l&apos;elenco delle etichette sia vuoto, altrimenti questa impostazione verrà ignorata).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation type="unfinished">Se desideri specificare un intervallo continuo di etichette da cui generare i modelli, inserisci qui l'etichetta più alta. Valore del voxel fino al quale continuare a generare i modelli. Ignora eventuali valori con zero voxel.</translation>
+        <translation type="unfinished">Se desideri specificare un intervallo continuo di etichette da cui generare i modelli, inserisci qui l&apos;etichetta più alta. Valore del voxel fino al quale continuare a generare i modelli. Ignora eventuali valori con zero voxel.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation type="unfinished">Selezionare questa opzione per non generare modelli a partire da etichette che non dispongono di nomi definiti nella tabella di riferimento dei colori associata alla mappa delle etichette di input. Se impostato su "true", verranno generati solo i modelli che presentano una voce nella tabella dei colori. Se impostato su "false", verranno generati tutti i modelli presenti nell'intervallo delle etichette.</translation>
+        <translation type="unfinished">Selezionare questa opzione per non generare modelli a partire da etichette che non dispongono di nomi definiti nella tabella di riferimento dei colori associata alla mappa delle etichette di input. Se impostato su &quot;true&quot;, verranno generati solo i modelli che presentano una voce nella tabella dei colori. Se impostato su &quot;false&quot;, verranno generati tutti i modelli presenti nell&apos;intervallo delle etichette.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
@@ -4999,7 +5000,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished">È possibile controllare il tipo di smussatura applicata ai modelli selezionando un tipo di filtro "Sinc" o "Laplaciano".</translation>
+        <translation type="unfinished">È possibile controllare il tipo di smussatura applicata ai modelli selezionando un tipo di filtro &quot;Sinc&quot; o &quot;Laplaciano&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
@@ -5019,7 +5020,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation type="unfinished">Riempire il volume di input con voxel di valore zero su tutte e 6 le facce per garantire la creazione di superfici chiuse. Imposta la traslazione dell'origine e la traslazione dell'estensione in modo che i modelli rimangano allineati con il volume di input non riempito.</translation>
+        <translation type="unfinished">Riempire il volume di input con voxel di valore zero su tutte e 6 le facce per garantire la creazione di superfici chiuse. Imposta la traslazione dell&apos;origine e la traslazione dell&apos;estensione in modo che i modelli rimangano allineati con il volume di input non riempito.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
@@ -5056,12 +5057,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished">È possibile salvare una copia dei modelli dopo ciascuna delle fasi intermedie (marching cubes, livellamento e decimazione, se non si esegue il livellamento congiunto; in caso contrario, subito dopo la decimazione). Questi modelli intermedi non vengono salvati nel file mrml; è necessario caricarli manualmente dopo aver disattivato l'eliminazione dei file temporanei nella console Python (View -&gt; Python Interactor) utilizzando il seguente comando: slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
+        <translation type="unfinished">È possibile salvare una copia dei modelli dopo ciascuna delle fasi intermedie (marching cubes, livellamento e decimazione, se non si esegue il livellamento congiunto; in caso contrario, subito dopo la decimazione). Questi modelli intermedi non vengono salvati nel file mrml; è necessario caricarli manualmente dopo aver disattivato l&apos;eliminazione dei file temporanei nella console Python (View -&gt; Python Interactor) utilizzando il seguente comando: slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation type="unfinished">Attiva questa opzione per visualizzare i messaggi di debug (controlla la finestra "Registro errori", accessibile dal menu "Visualizza")</translation>
+        <translation type="unfinished">Attiva questa opzione per visualizzare i messaggi di debug (controlla la finestra &quot;Registro errori&quot;, accessibile dal menu &quot;Visualizza&quot;)</translation>
     </message>
 </context>
 <context>
@@ -5074,7 +5075,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation type="unfinished">Intersezione tra un modello di input e un volume di riferimento, con la generazione di una mappa di etichette in output, riempiendo i voxel all'interno del modello con il valore di etichetta specificato.</translation>
+        <translation type="unfinished">Intersezione tra un modello di input e un volume di riferimento, con la generazione di una mappa di etichette in output, riempiendo i voxel all&apos;interno del modello con il valore di etichetta specificato.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
@@ -5094,12 +5095,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
         <source>Label value</source>
-        <translation type="unfinished">Valore dell'etichetta</translation>
+        <translation type="unfinished">Valore dell&apos;etichetta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished">Il valore dell'etichetta di tipo `unsigned char` da utilizzare nella mappa delle etichette di output.</translation>
+        <translation type="unfinished">Il valore dell&apos;etichetta di tipo `unsigned char` da utilizzare nella mappa delle etichette di output.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
@@ -5270,7 +5271,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"/>
         <source>Input image where you observe signal inhomegeneity</source>
-        <translation type="unfinished">Immagine di input in cui si osserva l'eterogeneità del segnale</translation>
+        <translation type="unfinished">Immagine di input in cui si osserva l&apos;eterogeneità del segnale</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
@@ -5310,17 +5311,17 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation type="unfinished">Risoluzione della griglia B-spline iniziale definita come una sequenza di tre numeri. La risoluzione effettiva verrà determinata sommando l'ordine della B-spline (il valore predefinito è 3) alla risoluzione specificata qui per ciascuna dimensione. Ad esempio, 1,1,1 darà come risultato una griglia di punti di controllo 4x4x4. Potrebbe essere necessario regolare questo parametro in base all'immagine di input. Nel framework multirisoluzione N4, la risoluzione della griglia B-spline nelle iterazioni successive verrà raddoppiata. Il numero di risoluzioni è implicitamente definito dal parametro Numero di iterazioni (la dimensione di questo elenco corrisponde al numero di risoluzioni)</translation>
+        <translation type="unfinished">Risoluzione della griglia B-spline iniziale definita come una sequenza di tre numeri. La risoluzione effettiva verrà determinata sommando l&apos;ordine della B-spline (il valore predefinito è 3) alla risoluzione specificata qui per ciascuna dimensione. Ad esempio, 1,1,1 darà come risultato una griglia di punti di controllo 4x4x4. Potrebbe essere necessario regolare questo parametro in base all&apos;immagine di input. Nel framework multirisoluzione N4, la risoluzione della griglia B-spline nelle iterazioni successive verrà raddoppiata. Il numero di risoluzioni è implicitamente definito dal parametro Numero di iterazioni (la dimensione di questo elenco corrisponde al numero di risoluzioni)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
         <source>An alternative means to define the spline grid, by setting the distance between the control points. This parameter is used only if the grid resolution is not specified.</source>
-        <translation type="unfinished">Un altro modo per definire la griglia spline consiste nell'impostare la distanza tra i punti di controllo. Questo parametro viene utilizzato solo se non è stata specificata la risoluzione della griglia.</translation>
+        <translation type="unfinished">Un altro modo per definire la griglia spline consiste nell&apos;impostare la distanza tra i punti di controllo. Questo parametro viene utilizzato solo se non è stata specificata la risoluzione della griglia.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
         <source>Bias field Full Width at Half Maximum. Zero implies use of the default value.</source>
-        <translation type="unfinished">Campo di polarizzazione: larghezza a metà altezza. Il valore zero indica l'utilizzo del valore predefinito.</translation>
+        <translation type="unfinished">Campo di polarizzazione: larghezza a metà altezza. Il valore zero indica l&apos;utilizzo del valore predefinito.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"/>
@@ -5330,7 +5331,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"/>
         <source>Advanced parameters of the algorithm</source>
-        <translation type="unfinished">Parametri avanzati dell'algoritmo</translation>
+        <translation type="unfinished">Parametri avanzati dell&apos;algoritmo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"/>
@@ -5366,7 +5367,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
         <source>Number of histogram bins</source>
-        <translation type="unfinished">Numero di intervalli dell'istogramma</translation>
+        <translation type="unfinished">Numero di intervalli dell&apos;istogramma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
@@ -5381,22 +5382,22 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
         <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
-        <translation type="unfinished">Ordine della B-spline utilizzata nell'approssimazione. Valori più elevati comportano tempi di esecuzione più lunghi e possono causare un sovradattamento e risultati di scarsa qualità.</translation>
+        <translation type="unfinished">Ordine della B-spline utilizzata nell&apos;approssimazione. Valori più elevati comportano tempi di esecuzione più lunghi e possono causare un sovradattamento e risultati di scarsa qualità.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation type="unfinished">Definisce di quanto l'immagine deve essere sovracampionata prima di stimare il campo di disomogeneità. Aumentare questo valore se si desidera ridurre il tempo di esecuzione. Il valore 1 corrisponde alla risoluzione originale. Valori più elevati ridurranno significativamente il tempo di calcolo.</translation>
+        <translation type="unfinished">Definisce di quanto l&apos;immagine deve essere sovracampionata prima di stimare il campo di disomogeneità. Aumentare questo valore se si desidera ridurre il tempo di esecuzione. Il valore 1 corrisponde alla risoluzione originale. Valori più elevati ridurranno significativamente il tempo di calcolo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
         <source>Wiener filter noise. Zero implies use of the default value.</source>
-        <translation type="unfinished">Rumore del filtro di Wiener. Il valore zero indica l'utilizzo del valore predefinito.</translation>
+        <translation type="unfinished">Rumore del filtro di Wiener. Il valore zero indica l&apos;utilizzo del valore predefinito.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"/>
         <source>Number of histogram bins. Zero implies use of the default value.</source>
-        <translation type="unfinished">Numero di intervalli dell'istogramma. Il valore zero indica l'utilizzo del valore predefinito.</translation>
+        <translation type="unfinished">Numero di intervalli dell&apos;istogramma. Il valore zero indica l&apos;utilizzo del valore predefinito.</translation>
     </message>
 </context>
 <context>
@@ -5404,12 +5405,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="4"/>
         <source>Orient Scalar Volume</source>
-        <translation type="unfinished">Volume scalare dell'Orient</translation>
+        <translation type="unfinished">Volume scalare dell&apos;Orient</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation type="unfinished">Orienta un volume di output. Riorganizza le sezioni di un volume in base all'orientamento selezionato. Le sezioni non vengono interpolate, ma semplicemente riordinate e/o permutate. Il volume risultante coprirà quello originale. NOTA: poiché Slicer tiene conto dell'orientamento di un volume, il volume riorientato non mostrerà alcuna differenza rispetto al volume originale. Per vedere la differenza, salvare il volume e visualizzarlo con un sistema che ignori l'orientamento dell'immagine (ad es. Paraview) o che visualizzi le singole immagini.</translation>
+        <translation type="unfinished">Orienta un volume di output. Riorganizza le sezioni di un volume in base all&apos;orientamento selezionato. Le sezioni non vengono interpolate, ma semplicemente riordinate e/o permutate. Il volume risultante coprirà quello originale. NOTA: poiché Slicer tiene conto dell&apos;orientamento di un volume, il volume riorientato non mostrerà alcuna differenza rispetto al volume originale. Per vedere la differenza, salvare il volume e visualizzarlo con un sistema che ignori l&apos;orientamento dell&apos;immagine (ad es. Paraview) o che visualizzi le singole immagini.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
@@ -5454,7 +5455,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished">Orientamento dell'output. Si noti che questi codici di orientamento seguono la convenzione ITK: ogni lettera indica la direzione da cui proviene ciascun asse. Ciò è in contrasto con le convenzioni di orientamento comunemente utilizzate; ad esempio, per ottenere un'immagine con assi corrispondenti alle direzioni degli assi del sistema di coordinate LPS, questo parametro deve essere impostato su RAI.</translation>
+        <translation type="unfinished">Orientamento dell&apos;output. Si noti che questi codici di orientamento seguono la convenzione ITK: ogni lettera indica la direzione da cui proviene ciascun asse. Ciò è in contrasto con le convenzioni di orientamento comunemente utilizzate; ad esempio, per ottenere un&apos;immagine con assi corrispondenti alle direzioni degli assi del sistema di coordinate LPS, questo parametro deve essere impostato su RAI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -5510,7 +5511,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="25"/>
         <source>RIA</source>
-        <translation type="unfinished">Ritorno sull'investimento</translation>
+        <translation type="unfinished">Ritorno sull&apos;investimento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="26"/>
@@ -5635,7 +5636,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="51"/>
         <source>ARS</source>
-        <translation type="unfinished">L'arte della guarigione</translation>
+        <translation type="unfinished">L&apos;arte della guarigione</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="52"/>
@@ -5700,7 +5701,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="64"/>
         <source>ASR</source>
-        <translation type="unfinished">così com'è</translation>
+        <translation type="unfinished">così com&apos;è</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="65"/>
@@ -5733,12 +5734,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation type="unfinished">Calcola il valore di assorbimento standardizzato in base al peso corporeo. Accetta come input un'immagine PET in formato DICOM e NRRD (l'intestazione DICOM deve contenere i parametri del radiofarmaco). Genera un file CSV contenente ID paziente, data dello studio, dose, ID marcatore, suvmin, suvmax, suvmean e nome del marcatore per ciascun volume di interesse. Visualizza inoltre alcune di queste informazioni come stringhe di output nell'interfaccia grafica; in tal caso, il file CSV è facoltativo. Il file CSV viene aggiornato ad ogni esecuzione della CLI.</translation>
+        <translation type="unfinished">Calcola il valore di assorbimento standardizzato in base al peso corporeo. Accetta come input un&apos;immagine PET in formato DICOM e NRRD (l&apos;intestazione DICOM deve contenere i parametri del radiofarmaco). Genera un file CSV contenente ID paziente, data dello studio, dose, ID marcatore, suvmin, suvmax, suvmean e nome del marcatore per ciascun volume di interesse. Visualizza inoltre alcune di queste informazioni come stringhe di output nell&apos;interfaccia grafica; in tal caso, il file CSV è facoltativo. Il file CSV viene aggiornato ad ogni esecuzione della CLI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Questo lavoro è finanziato dall'Harvard Catalyst e dalla National Alliance for Medical Image Computing (NAMIC), a sua volta finanziata dal National Institutes of Health attraverso la NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
+        <translation type="unfinished">Questo lavoro è finanziato dall&apos;Harvard Catalyst e dalla National Alliance for Medical Image Computing (NAMIC), a sua volta finanziata dal National Institutes of Health attraverso la NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
@@ -5778,7 +5779,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="14"/>
         <source>Input label volume containing the volumes of interest</source>
-        <translation type="unfinished">Inserire un'etichetta "volume" contenente i volumi di interesse</translation>
+        <translation type="unfinished">Inserire un&apos;etichetta &quot;volume&quot; contenente i volumi di interesse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="15"/>
@@ -5793,7 +5794,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation type="unfinished">Il file di output raccoglie le informazioni presenti sul disco dall'etichetta di output, le stringhe di output relative a max/media/min nella GUI, oltre ad alcune informazioni aggiuntive dall'intestazione DICOM.</translation>
+        <translation type="unfinished">Il file di output raccoglie le informazioni presenti sul disco dall&apos;etichetta di output, le stringhe di output relative a max/media/min nella GUI, oltre ad alcune informazioni aggiuntive dall&apos;intestazione DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
@@ -5902,7 +5903,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation type="unfinished">Trasformazione di input utilizzata per distorcere l'immagine in movimento prima del confronto metrico.</translation>
+        <translation type="unfinished">Trasformazione di input utilizzata per distorcere l&apos;immagine in movimento prima del confronto metrico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
@@ -5927,7 +5928,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
         <source>Number Of Histogram Bins</source>
-        <translation type="unfinished">Numero di intervalli dell'istogramma</translation>
+        <translation type="unfinished">Numero di intervalli dell&apos;istogramma</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"/>
@@ -5942,7 +5943,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"/>
         <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
-        <translation type="unfinished">Il numero di intervalli dell'istogramma quando MMI (Mattes) è di tipo metrico.</translation>
+        <translation type="unfinished">Il numero di intervalli dell&apos;istogramma quando MMI (Mattes) è di tipo metrico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"/>
@@ -6002,7 +6003,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"/>
         <source>Output array name</source>
-        <translation type="unfinished">Nome dell'array di output</translation>
+        <translation type="unfinished">Nome dell&apos;array di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
@@ -6017,7 +6018,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"/>
         <source>Name of the array that will contain the voxel values.</source>
-        <translation type="unfinished">Nome dell'array che conterrà i valori dei voxel.</translation>
+        <translation type="unfinished">Nome dell&apos;array che conterrà i valori dei voxel.</translation>
     </message>
 </context>
 <context>
@@ -6030,12 +6031,12 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation type="unfinished">Il ricampionamento di un'immagine è un'operazione fondamentale nell'analisi delle immagini. È particolarmente importante nel contesto della registrazione delle immagini. Questo modulo implementa il ricampionamento delle immagini DT tramite l'uso delle trasformazioni ITK. Il ricampionamento è controllato dalla parametro &quot;Output Spacing&quot;. &quot;Il &quot;ricampionamento&quot; viene eseguito nelle coordinate spaziali, non nelle coordinate pixel/griglia. È molto importante assicurarsi che la spaziatura delle immagini sia impostata correttamente sulle immagini coinvolte. L'interpolatore è necessario poiché la mappatura da uno spazio all'altro richiederà spesso la valutazione dell'intensità dell'immagine in posizioni non appartenenti alla griglia.</translation>
+        <translation type="unfinished">Il ricampionamento di un&apos;immagine è un&apos;operazione fondamentale nell&apos;analisi delle immagini. È particolarmente importante nel contesto della registrazione delle immagini. Questo modulo implementa il ricampionamento delle immagini DT tramite l&apos;uso delle trasformazioni ITK. Il ricampionamento è controllato dalla parametro &quot;Output Spacing&quot;. &quot;Il &quot;ricampionamento&quot; viene eseguito nelle coordinate spaziali, non nelle coordinate pixel/griglia. È molto importante assicurarsi che la spaziatura delle immagini sia impostata correttamente sulle immagini coinvolte. L&apos;interpolatore è necessario poiché la mappatura da uno spazio all&apos;altro richiederà spesso la valutazione dell&apos;intensità dell&apos;immagine in posizioni non appartenenti alla griglia.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Questo lavoro fa parte dell'iniziativa National Alliance for Medical Image Computing (NAMIC), finanziata dal National Institutes of Health attraverso il programma NIH Roadmap for Medical Research, con la sovvenzione U54 EB005149. Per ulteriori informazioni sui National Centers for Biomedical Computing, visitare il sito http://nihroadmap.nih.gov/bioinformatics</translation>
+        <translation type="unfinished">Questo lavoro fa parte dell&apos;iniziativa National Alliance for Medical Image Computing (NAMIC), finanziata dal National Institutes of Health attraverso il programma NIH Roadmap for Medical Research, con la sovvenzione U54 EB005149. Per ulteriori informazioni sui National Centers for Biomedical Computing, visitare il sito http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
@@ -6085,7 +6086,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished">Parametri utilizzati per trasformare l'immagine di input nell'immagine di output</translation>
+        <translation type="unfinished">Parametri utilizzati per trasformare l&apos;immagine di input nell&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"/>
@@ -6151,7 +6152,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation type="unfinished">Non utilizzare il riquadro di misurazione presente nell'immagine di input per trasformare i tensori. Utilizza invece l'orientamento dell'immagine</translation>
+        <translation type="unfinished">Non utilizzare il riquadro di misurazione presente nell&apos;immagine di input per trasformare i tensori. Utilizza invece l&apos;orientamento dell&apos;immagine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
@@ -6183,7 +6184,7 @@ Il filtro presuppone che sia l'immagine sorgente che quella di riferimento siano
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
         <source>bs</source>
-        <translation type="unfinished">Prima dell'alba</translation>
+        <translation type="unfinished">Prima dell&apos;alba</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
@@ -6215,7 +6216,7 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished">Consente di scegliere tra due metodi per la trasformazione dei tensori: "Finite Strain" (FS), più veloce ma meno preciso, oppure "Preservation of the Principal Direction" (PPD)</translation>
+        <translation type="unfinished">Consente di scegliere tra due metodi per la trasformazione dei tensori: &quot;Finite Strain&quot; (FS), più veloce ma meno preciso, oppure &quot;Preservation of the Principal Direction&quot; (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
@@ -6241,7 +6242,7 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
         <source>Transforms Order</source>
-        <translation type="unfinished">Trasforma l'ordine</translation>
+        <translation type="unfinished">Trasforma l&apos;ordine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
@@ -6251,12 +6252,12 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished">Incoerenza nell'orientamento spaziale (tra la trasformazione e l'immagine)</translation>
+        <translation type="unfinished">Incoerenza nell&apos;orientamento spaziale (tra la trasformazione e l&apos;immagine)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished">Seleziona l'ordine in cui vengono lette le trasformazioni</translation>
+        <translation type="unfinished">Seleziona l&apos;ordine in cui vengono lette le trasformazioni</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
@@ -6266,7 +6267,7 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished">L'orientamento spaziale tra la trasformazione e l'immagine è diverso (RAS/LPS) (attenzione: se la trasformazione è un nodo di trasformazione in Slicer3, non selezionarla)</translation>
+        <translation type="unfinished">L&apos;orientamento spaziale tra la trasformazione e l&apos;immagine è diverso (RAS/LPS) (attenzione: se la trasformazione è un nodo di trasformazione in Slicer3, non selezionarla)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
@@ -6277,7 +6278,7 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
         <source>input-to-output</source>
-        <translation type="unfinished">dall'input all'output</translation>
+        <translation type="unfinished">dall&apos;input all&apos;output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
@@ -6312,17 +6313,17 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Imposta il centro della trasformazione sul centro dell'immagine di input (solo per trasformazioni rigide e affini)</translation>
+        <translation type="unfinished">Imposta il centro della trasformazione sul centro dell&apos;immagine di input (solo per trasformazioni rigide e affini)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished">Immagine da utilizzare per centrare la trasformazione (utilizzata solo se è selezionata l'opzione &quot;Trasformazione centrata&quot;)</translation>
+        <translation type="unfinished">Immagine da utilizzare per centrare la trasformazione (utilizzata solo se è selezionata l&apos;opzione &quot;Trasformazione centrata&quot;)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Invertire la trasformazione prima di applicarla dall'immagine di output a quella di input (solo per trasformazioni rigide e affini)</translation>
+        <translation type="unfinished">Invertire la trasformazione prima di applicarla dall&apos;immagine di output a quella di input (solo per trasformazioni rigide e affini)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
@@ -6343,7 +6344,7 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished">Parametri dell'immagine di output</translation>
+        <translation type="unfinished">Parametri dell&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
@@ -6368,7 +6369,7 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Spaziatura lungo ciascuna dimensione (0 indica di utilizzare la spaziatura specificata dall'utente)</translation>
+        <translation type="unfinished">Spaziatura lungo ciascuna dimensione (0 indica di utilizzare la spaziatura specificata dall&apos;utente)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
@@ -6378,7 +6379,7 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished">Origine dell'immagine di output</translation>
+        <translation type="unfinished">Origine dell&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
@@ -6408,12 +6409,12 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished">Numero di thread utilizzati per elaborare l'immagine di output</translation>
+        <translation type="unfinished">Numero di thread utilizzati per elaborare l&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished">Valore predefinito in pixel per i campioni che non rientrano nell'area di input</translation>
+        <translation type="unfinished">Valore predefinito in pixel per i campioni che non rientrano nell&apos;area di input</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
@@ -6423,7 +6424,7 @@ Conservazione della direzione principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished">Parametri utilizzati per l'interpolazione Sinc con finestra</translation>
+        <translation type="unfinished">Parametri utilizzati per l&apos;interpolazione Sinc con finestra</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
@@ -6479,7 +6480,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished">Parametri utilizzati per l'interpolazione BSpline</translation>
+        <translation type="unfinished">Parametri utilizzati per l&apos;interpolazione BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
@@ -6489,7 +6490,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
         <source>Spline Order (Spline order may be from 0 to 5)</source>
-        <translation type="unfinished">Ordine della spline (l'ordine della spline può variare da 0 a 5)</translation>
+        <translation type="unfinished">Ordine della spline (l&apos;ordine della spline può variare da 0 a 5)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
@@ -6546,7 +6547,7 @@ a = Trasformazione affine</translation>
 Warning: To resample DWMR Images, use nrrd input and output files. 
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
-        <translation type="unfinished">Questo modulo implementa il ricampionamento di immagini e immagini vettoriali tramite l'uso delle trasformazioni ITK. È inoltre in grado di gestire il ricampionamento di immagini MRI pesate in diffusione. Il &quot;ricampionamento&quot; viene eseguito nelle coordinate spaziali, non nelle coordinate pixel/griglia. È molto importante assicurarsi che la spaziatura delle immagini sia impostata correttamente sulle immagini coinvolte. L'interpolatore è necessario poiché la mappatura da uno spazio all'altro richiederà spesso la valutazione dell'intensità dell'immagine in posizioni non corrispondenti alla griglia. 
+        <translation type="unfinished">Questo modulo implementa il ricampionamento di immagini e immagini vettoriali tramite l&apos;uso delle trasformazioni ITK. È inoltre in grado di gestire il ricampionamento di immagini MRI pesate in diffusione. Il &quot;ricampionamento&quot; viene eseguito nelle coordinate spaziali, non nelle coordinate pixel/griglia. È molto importante assicurarsi che la spaziatura delle immagini sia impostata correttamente sulle immagini coinvolte. L&apos;interpolatore è necessario poiché la mappatura da uno spazio all&apos;altro richiederà spesso la valutazione dell&apos;intensità dell&apos;immagine in posizioni non corrispondenti alla griglia. 
 
 Avviso: per ricampionare immagini DWMR, utilizzare file di input e output nrrd. 
 
@@ -6555,7 +6556,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Questo lavoro fa parte dell'iniziativa National Alliance for Medical Image Computing (NAMIC), finanziata dal National Institutes of Health attraverso il programma NIH Roadmap for Medical Research, sovvenzione U54 EB005149. Per ulteriori informazioni sui National Centers for Biomedical Computing, visitare il sito http://nihroadmap.nih.gov/bioinformatics</translation>
+        <translation type="unfinished">Questo lavoro fa parte dell&apos;iniziativa National Alliance for Medical Image Computing (NAMIC), finanziata dal National Institutes of Health attraverso il programma NIH Roadmap for Medical Research, sovvenzione U54 EB005149. Per ulteriori informazioni sui National Centers for Biomedical Computing, visitare il sito http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -6605,7 +6606,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="16"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished">Parametri utilizzati per trasformare l'immagine di input nell'immagine di output</translation>
+        <translation type="unfinished">Parametri utilizzati per trasformare l&apos;immagine di input nell&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"/>
@@ -6677,7 +6678,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="32"/>
         <source>bs</source>
-        <translation type="unfinished">Prima dell'alba</translation>
+        <translation type="unfinished">Prima dell&apos;alba</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="33"/>
@@ -6692,7 +6693,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"/>
         <source>Transforms Order</source>
-        <translation type="unfinished">Trasforma l'ordine</translation>
+        <translation type="unfinished">Trasforma l&apos;ordine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"/>
@@ -6702,12 +6703,12 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished">Incoerenza nell'orientamento spaziale (tra la trasformazione e l'immagine)</translation>
+        <translation type="unfinished">Incoerenza nell&apos;orientamento spaziale (tra la trasformazione e l&apos;immagine)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished">Seleziona l'ordine in cui vengono lette le trasformazioni</translation>
+        <translation type="unfinished">Seleziona l&apos;ordine in cui vengono lette le trasformazioni</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
@@ -6717,7 +6718,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished">L'orientamento spaziale tra la trasformazione e l'immagine è diverso (RAS/LPS) (attenzione: se la trasformazione è un nodo di trasformazione in Slicer3, non selezionarla)</translation>
+        <translation type="unfinished">L&apos;orientamento spaziale tra la trasformazione e l&apos;immagine è diverso (RAS/LPS) (attenzione: se la trasformazione è un nodo di trasformazione in Slicer3, non selezionarla)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
@@ -6728,7 +6729,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="42"/>
         <source>input-to-output</source>
-        <translation type="unfinished">dall'input all'output</translation>
+        <translation type="unfinished">dall&apos;input all&apos;output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="44"/>
@@ -6763,17 +6764,17 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"/>
         <source>Set the center of the transformation to the center of the input image</source>
-        <translation type="unfinished">Imposta il centro della trasformazione in corrispondenza del centro dell'immagine di input</translation>
+        <translation type="unfinished">Imposta il centro della trasformazione in corrispondenza del centro dell&apos;immagine di input</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished">Immagine da utilizzare per centrare la trasformazione (utilizzata solo se è selezionata l'opzione &quot;Trasformazione centrata&quot;)</translation>
+        <translation type="unfinished">Immagine da utilizzare per centrare la trasformazione (utilizzata solo se è selezionata l&apos;opzione &quot;Trasformazione centrata&quot;)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
         <source>Inverse the transformation before applying it from output image to input image</source>
-        <translation type="unfinished">Inverti la trasformazione prima di applicarla dall'immagine di output a quella di input</translation>
+        <translation type="unfinished">Inverti la trasformazione prima di applicarla dall&apos;immagine di output a quella di input</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
@@ -6794,7 +6795,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="57"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished">Parametri dell'immagine di output</translation>
+        <translation type="unfinished">Parametri dell&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"/>
@@ -6819,7 +6820,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="62"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Spaziatura lungo ciascuna dimensione (0 indica di utilizzare la spaziatura dell'input)</translation>
+        <translation type="unfinished">Spaziatura lungo ciascuna dimensione (0 indica di utilizzare la spaziatura dell&apos;input)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="63"/>
@@ -6829,7 +6830,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished">Origine dell'immagine di output</translation>
+        <translation type="unfinished">Origine dell&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
@@ -6859,12 +6860,12 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished">Numero di thread utilizzati per elaborare l'immagine di output</translation>
+        <translation type="unfinished">Numero di thread utilizzati per elaborare l&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished">Valore predefinito in pixel per i campioni che non rientrano nell'area di input</translation>
+        <translation type="unfinished">Valore predefinito in pixel per i campioni che non rientrano nell&apos;area di input</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
@@ -6874,7 +6875,7 @@ Avviso: non utilizzare per ricampionare immagini del tensore di diffusione, i te
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished">Parametri utilizzati per l'interpolazione Sinc con finestra</translation>
+        <translation type="unfinished">Parametri utilizzati per l&apos;interpolazione Sinc con finestra</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
@@ -6930,7 +6931,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished">Parametri utilizzati per l'interpolazione BSpline</translation>
+        <translation type="unfinished">Parametri utilizzati per l&apos;interpolazione BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
@@ -6989,7 +6990,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation type="unfinished">Il ricampionamento di un'immagine è un'operazione fondamentale nell'analisi delle immagini. È particolarmente importante nel contesto della registrazione delle immagini. Questo modulo implementa il ricampionamento delle immagini tramite l'uso delle trasformazioni ITK. Il modulo utilizza una trasformazione identitaria. Il ricampionamento è controllato dalla distanza tra i punti di output. Il &quot;ricampionamento&quot; viene eseguito nelle coordinate spaziali, non in quelle dei pixel o della griglia. È fondamentale assicurarsi che la distanza tra i punti sia impostata correttamente sulle immagini coinvolte. L'interpolatore è necessario poiché la mappatura da uno spazio all'altro richiederà spesso la valutazione dell'intensità dell'immagine in posizioni non appartenenti alla griglia. Sono disponibili diversi interpolatori: lineare, del vicino più prossimo, bspline e cinque varianti di sinc. Gli interpolatori sinc, sebbene più precisi, sono molto più lenti rispetto all'interpolatore lineare e a quello del vicino più prossimo. Per ricampionare i volumi delle etichette, si dovrebbe utilizzare esclusivamente l'interpolazione del vicino più prossimo.</translation>
+        <translation type="unfinished">Il ricampionamento di un&apos;immagine è un&apos;operazione fondamentale nell&apos;analisi delle immagini. È particolarmente importante nel contesto della registrazione delle immagini. Questo modulo implementa il ricampionamento delle immagini tramite l&apos;uso delle trasformazioni ITK. Il modulo utilizza una trasformazione identitaria. Il ricampionamento è controllato dalla distanza tra i punti di output. Il &quot;ricampionamento&quot; viene eseguito nelle coordinate spaziali, non in quelle dei pixel o della griglia. È fondamentale assicurarsi che la distanza tra i punti sia impostata correttamente sulle immagini coinvolte. L&apos;interpolatore è necessario poiché la mappatura da uno spazio all&apos;altro richiederà spesso la valutazione dell&apos;intensità dell&apos;immagine in posizioni non appartenenti alla griglia. Sono disponibili diversi interpolatori: lineare, del vicino più prossimo, bspline e cinque varianti di sinc. Gli interpolatori sinc, sebbene più precisi, sono molto più lenti rispetto all&apos;interpolatore lineare e a quello del vicino più prossimo. Per ricampionare i volumi delle etichette, si dovrebbe utilizzare esclusivamente l&apos;interpolazione del vicino più prossimo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -7019,7 +7020,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="12"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Spaziatura lungo ciascuna dimensione (0 indica di utilizzare la spaziatura dell'input)</translation>
+        <translation type="unfinished">Spaziatura lungo ciascuna dimensione (0 indica di utilizzare la spaziatura dell&apos;input)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
@@ -7113,7 +7114,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation type="unfinished">Questo lavoro fa parte dell'iniziativa National Alliance for Medical Image Computing (NAMIC), finanziata dal National Institutes of Health</translation>
+        <translation type="unfinished">Questo lavoro fa parte dell&apos;iniziativa National Alliance for Medical Image Computing (NAMIC), finanziata dal National Institutes of Health</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
@@ -7133,7 +7134,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"/>
         <source>The approximate volume of the object, in mL.</source>
-        <translation type="unfinished">Il volume approssimativo dell'oggetto, in ml.</translation>
+        <translation type="unfinished">Il volume approssimativo dell&apos;oggetto, in ml.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
@@ -7148,7 +7149,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="14"/>
         <source>Intensity Homogeneity[0-1.0]</source>
-        <translation type="unfinished">Omogeneità dell'intensità [0-1,0]</translation>
+        <translation type="unfinished">Omogeneità dell&apos;intensità [0-1,0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="15"/>
@@ -7168,17 +7169,17 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
         <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
-        <translation type="unfinished">Qual è l'omogeneità dell'intensità all'interno dell'oggetto? Si assegna un punteggio di 1,0 a un'intensità costante e uno di 0 a un'intensità estremamente variabile.</translation>
+        <translation type="unfinished">Qual è l&apos;omogeneità dell&apos;intensità all&apos;interno dell&apos;oggetto? Si assegna un punteggio di 1,0 a un&apos;intensità costante e uno di 0 a un&apos;intensità estremamente variabile.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"/>
         <source>Given sphere 1.0 score and extreme rough boundary/surface 0 score, what is the expected smoothness of the object?</source>
-        <translation type="unfinished">Considerando un punteggio di 1,0 per la sfera e un punteggio di 0 per i bordi/la superficie estremamente irregolari, qual è la levigatezza prevista dell'oggetto?</translation>
+        <translation type="unfinished">Considerando un punteggio di 1,0 per la sfera e un punteggio di 0 per i bordi/la superficie estremamente irregolari, qual è la levigatezza prevista dell&apos;oggetto?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
         <source>Label value of the output image</source>
-        <translation type="unfinished">Valore dell'etichetta dell'immagine di output</translation>
+        <translation type="unfinished">Valore dell&apos;etichetta dell&apos;immagine di output</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"/>
@@ -7203,7 +7204,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
         <source>Label Image</source>
-        <translation type="unfinished">Immagine dell'etichetta</translation>
+        <translation type="unfinished">Immagine dell&apos;etichetta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
@@ -7218,7 +7219,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
         <source>Label image for initialization</source>
-        <translation type="unfinished">Immagine dell'etichetta per l'inizializzazione</translation>
+        <translation type="unfinished">Immagine dell&apos;etichetta per l&apos;inizializzazione</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
@@ -7236,7 +7237,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
         <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
-        <translation type="unfinished">Un semplice algoritmo di segmentazione con crescita regionale basato sulle statistiche di intensità. Per creare un elenco di fiduciali (Seeds) per questo algoritmo, fare clic sull&apos;icona della barra degli strumenti raffigurante una freccia che punta a un fiduciale sferico per accedere alla "modalità inserimento di un nuovo oggetto", quindi utilizzare il modulo Markups. Questo modulo utilizza l&apos;interfaccia a riga di comando (CLI) di Slicer e i filtri ITK CurvatureFlowImageFilter e ConfidenceConnectedImageFilter.</translation>
+        <translation type="unfinished">Un semplice algoritmo di segmentazione con crescita regionale basato sulle statistiche di intensità. Per creare un elenco di fiduciali (Seeds) per questo algoritmo, fare clic sull&apos;icona della barra degli strumenti raffigurante una freccia che punta a un fiduciale sferico per accedere alla &quot;modalità inserimento di un nuovo oggetto&quot;, quindi utilizzare il modulo Markups. Questo modulo utilizza l&apos;interfaccia a riga di comando (CLI) di Slicer e i filtri ITK CurvatureFlowImageFilter e ConfidenceConnectedImageFilter.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
@@ -7251,7 +7252,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
         <source>Parameters to denoise the image prior to segmenting</source>
-        <translation type="unfinished">Parametri per la riduzione del rumore dell'immagine prima della segmentazione</translation>
+        <translation type="unfinished">Parametri per la riduzione del rumore dell&apos;immagine prima della segmentazione</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
@@ -7321,12 +7322,12 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
         <source>The radius of the neighborhood over which to calculate intensity model</source>
-        <translation type="unfinished">Il raggio dell'area su cui calcolare il modello di intensità</translation>
+        <translation type="unfinished">Il raggio dell&apos;area su cui calcolare il modello di intensità</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation type="unfinished">Il valore intero (0-255) da utilizzare per i risultati della segmentazione. Questo determinerà il colore della segmentazione che verrà generata dall'algoritmo di Region Growing</translation>
+        <translation type="unfinished">Il valore intero (0-255) da utilizzare per i risultati della segmentazione. Questo determinerà il colore della segmentazione che verrà generata dall&apos;algoritmo di Region Growing</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
@@ -7452,7 +7453,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Soglia di un'immagine.&lt;/p&gt;&lt;p&gt;Imposta i valori dell'immagine su un valore esterno specificato dall'utente se sono inferiori, superiori o compresi tra valori di soglia semplici.&lt;/p&gt;&lt;p&gt;SogliaSuperiore: I valori maggiori o uguali al valore di soglia vengono impostati su ValoreEsterno.&lt;/p&gt;&lt;p&gt;SogliaSotto: I valori minori o uguali al valore di soglia vengono impostati su ValoreEsterno.&lt;/p&gt;&lt;p&gt;SogliaEsterna: I valori al di fuori dell'intervallo Inferiore-Superiore vengono impostati su ValoreEsterno.&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;Soglia di un&apos;immagine.&lt;/p&gt;&lt;p&gt;Imposta i valori dell&apos;immagine su un valore esterno specificato dall&apos;utente se sono inferiori, superiori o compresi tra valori di soglia semplici.&lt;/p&gt;&lt;p&gt;SogliaSuperiore: I valori maggiori o uguali al valore di soglia vengono impostati su ValoreEsterno.&lt;/p&gt;&lt;p&gt;SogliaSotto: I valori minori o uguali al valore di soglia vengono impostati su ValoreEsterno.&lt;/p&gt;&lt;p&gt;SogliaEsterna: I valori al di fuori dell&apos;intervallo Inferiore-Superiore vengono impostati su ValoreEsterno.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
@@ -7487,7 +7488,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
         <source>Thresholded input volume</source>
-        <translation type="unfinished">Volume d'ingresso con soglia</translation>
+        <translation type="unfinished">Volume d&apos;ingresso con soglia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
@@ -7527,7 +7528,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished">Che tipo di soglia applicare. Se si seleziona "Esterno", vengono utilizzati i valori "Superiore" e "Inferiore". Se si seleziona "Inferiore", viene utilizzato il valore "Soglia"; se si seleziona "Superiore", viene utilizzato il valore "Soglia".</translation>
+        <translation type="unfinished">Che tipo di soglia applicare. Se si seleziona &quot;Esterno&quot;, vengono utilizzati i valori &quot;Superiore&quot; e &quot;Inferiore&quot;. Se si seleziona &quot;Inferiore&quot;, viene utilizzato il valore &quot;Soglia&quot;; se si seleziona &quot;Superiore&quot;, viene utilizzato il valore &quot;Soglia&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
@@ -7547,7 +7548,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished">Imposta i voxel su questo valore se si trovano al di fuori dell'intervallo di soglia</translation>
+        <translation type="unfinished">Imposta i voxel su questo valore se si trovano al di fuori dell&apos;intervallo di soglia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
@@ -7558,7 +7559,7 @@ a = Trasformazione affine</translation>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"/>
         <source>Outside</source>
-        <translation type="unfinished">All'esterno</translation>
+        <translation type="unfinished">All&apos;esterno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"/>
@@ -7581,7 +7582,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished">Applica un'operazione di voto per riempire le cavità. Questa tecnica può essere utilizzata per smussare i contorni e per riempire i vuoti nelle immagini binarie. Viene impiegata frequentemente nella segmentazione di organi interi che possono presentare dotti o vascolarizzazione non inclusi nella segmentazione iniziale, ad esempio polmoni, reni e fegato.</translation>
+        <translation type="unfinished">Applica un&apos;operazione di voto per riempire le cavità. Questa tecnica può essere utilizzata per smussare i contorni e per riempire i vuoti nelle immagini binarie. Viene impiegata frequentemente nella segmentazione di organi interi che possono presentare dotti o vascolarizzazione non inclusi nella segmentazione iniziale, ad esempio polmoni, reni e fegato.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
@@ -7631,7 +7632,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished">Il valore associato allo sfondo (non all'oggetto)</translation>
+        <translation type="unfinished">Il valore associato allo sfondo (non all&apos;oggetto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
@@ -7679,7 +7680,7 @@ a = Trasformazione affine</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished">Questo modulo è in grado di ritagliare e ricampionare una sequenza volumetrica per ridurne le dimensioni e velocizzare il rendering e l'elaborazione.</translation>
+        <translation type="unfinished">Questo modulo è in grado di ritagliare e ricampionare una sequenza volumetrica per ridurne le dimensioni e velocizzare il rendering e l&apos;elaborazione.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="31"/>
@@ -7738,7 +7739,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="115"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished">Vai al modulo "Volume di ritaglio" per modificare i parametri di ritaglio.</translation>
+        <translation type="unfinished">Vai al modulo &quot;Volume di ritaglio&quot; per modificare i parametri di ritaglio.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
@@ -7822,12 +7823,12 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished">Stabilisce se le serie DICOM a cui si fa riferimento vengono proposte durante il caricamento dei file DICOM, oppure definisce il comportamento automatico nel caso in cui l'interazione sia disabilitata. La selezione interattiva delle serie a cui si fa riferimento è l'impostazione predefinita</translation>
+        <translation type="unfinished">Stabilisce se le serie DICOM a cui si fa riferimento vengono proposte durante il caricamento dei file DICOM, oppure definisce il comportamento automatico nel caso in cui l&apos;interazione sia disabilitata. La selezione interattiva delle serie a cui si fa riferimento è l&apos;impostazione predefinita</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="581"/>
         <source>Ask user</source>
-        <translation type="unfinished">Chiedi all'utente</translation>
+        <translation type="unfinished">Chiedi all&apos;utente</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="582"/>
@@ -7941,7 +7942,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="818"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished">L'importazione di file i cui nomi contengono caratteri speciali (non ASCII) non è supportata. Si consiglia di spostare i file in un'altra cartella e riprovare. Vuoi comunque provare a importarli dalla posizione corrente?</translation>
+        <translation type="unfinished">L&apos;importazione di file i cui nomi contengono caratteri speciali (non ASCII) non è supportata. Si consiglia di spostare i file in un&apos;altra cartella e riprovare. Vuoi comunque provare a importarli dalla posizione corrente?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="884"/>
@@ -7966,7 +7967,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1286"/>
         <source>starting</source>
-        <translation type="unfinished">all'inizio</translation>
+        <translation type="unfinished">all&apos;inizio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1291"/>
@@ -7997,7 +7998,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1399"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished">Cancella l'intero database DICOM</translation>
+        <translation type="unfinished">Cancella l&apos;intero database DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="1400"/>
@@ -8015,12 +8016,12 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished">Il caricamento di questo tipo di immagine è in fase sperimentale. Si prega di verificare la geometria dell'immagine e di segnalare eventuali problemi riscontrati.</translation>
+        <translation type="unfinished">Il caricamento di questo tipo di immagine è in fase sperimentale. Si prega di verificare la geometria dell&apos;immagine e di segnalare eventuali problemi riscontrati.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished">Volume dell'ecografia</translation>
+        <translation type="unfinished">Volume dell&apos;ecografia</translation>
     </message>
 </context>
 <context>
@@ -8038,7 +8039,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished">Il caricamento di questo tipo di immagine è in fase sperimentale. Si prega di verificare le dimensioni e l'orientamento dell'immagine e di segnalare eventuali problemi riscontrati.</translation>
+        <translation type="unfinished">Il caricamento di questo tipo di immagine è in fase sperimentale. Si prega di verificare le dimensioni e l&apos;orientamento dell&apos;immagine e di segnalare eventuali problemi riscontrati.</translation>
     </message>
 </context>
 <context>
@@ -8110,7 +8111,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="351"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished">L'estensione seguente non è installata, ma potrebbe aiutarti a gestire questi dati:</translation>
+        <translation type="unfinished">L&apos;estensione seguente non è installata, ma potrebbe aiutarti a gestire questi dati:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="353"/>
@@ -8120,7 +8121,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="357"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished">È possibile installare le estensioni utilizzando l'opzione "Gestione estensioni" dal menu "Visualizza".</translation>
+        <translation type="unfinished">È possibile installare le estensioni utilizzando l&apos;opzione &quot;Gestione estensioni&quot; dal menu &quot;Visualizza&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="358"/>
@@ -8162,7 +8163,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="682"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished">Avviso nel plugin DICOM {load_type} durante l'analisi del file caricabile {name}: {message}</translation>
+        <translation type="unfinished">Avviso nel plugin DICOM {load_type} durante l&apos;analisi del file caricabile {name}: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="686"/>
@@ -8255,7 +8256,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="77"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished">Genera il nome e l'ID del paziente dal primo file presente in una directory e imposta lo stesso nome e ID per tutti gli altri file presenti nella stessa directory. Attiva questa opzione se per ogni file modificato viene creata una directory paziente separata.</translation>
+        <translation type="unfinished">Genera il nome e l&apos;ID del paziente dal primo file presente in una directory e imposta lo stesso nome e ID per tutti gli altri file presenti nella stessa directory. Attiva questa opzione se per ogni file modificato viene creata una directory paziente separata.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="81"/>
@@ -8265,17 +8266,17 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="85"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished">Genera un nuovo UID di istanza della serie per ogni directory e inseriscilo in tutti i file presenti in quella stessa directory. Abilita questa opzione per forzare l'inserimento di tutti i fotogrammi di una cartella in un unico volume.</translation>
+        <translation type="unfinished">Genera un nuovo UID di istanza della serie per ogni directory e inseriscilo in tutti i file presenti in quella stessa directory. Abilita questa opzione per forzare l&apos;inserimento di tutti i fotogrammi di una cartella in un unico volume.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="89"/>
         <source>Force same series instance UID in each directory</source>
-        <translation type="unfinished">Imposta lo stesso UID dell'istanza della serie in ogni directory</translation>
+        <translation type="unfinished">Imposta lo stesso UID dell&apos;istanza della serie in ogni directory</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="93"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished">Genera gli ID mancanti relativi a pazienti, studi e serie. Si presume che tutti i file presenti in una directory appartengano alla stessa serie. Risolve l'errore causato da un'anonimizzazione troppo aggressiva o da convertitori di immagini DICOM non corretti.</translation>
+        <translation type="unfinished">Genera gli ID mancanti relativi a pazienti, studi e serie. Si presume che tutti i file presenti in una directory appartengano alla stessa serie. Risolve l&apos;errore causato da un&apos;anonimizzazione troppo aggressiva o da convertitori di immagini DICOM non corretti.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="96"/>
@@ -8285,7 +8286,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished">Genera una "sequenza di posizioni delle immagini" per i file multi-frame che dispongono solo del campo "SliceThickness". Risolve un errore negli scanner CBCT Dolphin 3D.</translation>
+        <translation type="unfinished">Genera una &quot;sequenza di posizioni delle immagini&quot; per i file multi-frame che dispongono solo del campo &quot;SliceThickness&quot;. Risolve un errore negli scanner CBCT Dolphin 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="102"/>
@@ -8300,12 +8301,12 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="118"/>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation type="unfinished">Se selezionato, l'interpretazione fotometrica delle immagini ecografiche compresse in formato JPEG verrà impostata su YBR_FULL_422. Ciò è utile per correggere le incongruenze nelle immagini compresse in formato JPEG che utilizzavano l'interpretazione fotometrica RGB a causa dell'ambiguità presente nello standard DICOM prima della versione CP156. Per ulteriori dettagli, consultare https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE e https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf.</translation>
+        <translation type="unfinished">Se selezionato, l&apos;interpretazione fotometrica delle immagini ecografiche compresse in formato JPEG verrà impostata su YBR_FULL_422. Ciò è utile per correggere le incongruenze nelle immagini compresse in formato JPEG che utilizzavano l&apos;interpretazione fotometrica RGB a causa dell&apos;ambiguità presente nello standard DICOM prima della versione CP156. Per ulteriori dettagli, consultare https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE e https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="145"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished">Se questa opzione è selezionata, alcune informazioni che consentono l'identificazione del paziente verranno rimosse dai file DICOM modificati. Esistono molti campi che consentono l'identificazione di un paziente, ma questa funzione non li rimuove tutti.</translation>
+        <translation type="unfinished">Se questa opzione è selezionata, alcune informazioni che consentono l&apos;identificazione del paziente verranno rimosse dai file DICOM modificati. Esistono molti campi che consentono l&apos;identificazione di un paziente, ma questa funzione non li rimuove tutti.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"/>
@@ -8369,7 +8370,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="92"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation type="unfinished">Consente di applicare una trasformazione non lineare per regolarizzare le immagini acquisite con geometria irregolare: griglia non rettilinea (come nel caso delle acquisizioni TC con gantry inclinato) e spaziatura non uniforme tra le sezioni. Se non viene applicata alcuna regolarizzazione, l'immagine potrebbe apparire distorta se è stata acquisita con una geometria irregolare.</translation>
+        <translation type="unfinished">Consente di applicare una trasformazione non lineare per regolarizzare le immagini acquisite con geometria irregolare: griglia non rettilinea (come nel caso delle acquisizioni TC con gantry inclinato) e spaziatura non uniforme tra le sezioni. Se non viene applicata alcuna regolarizzazione, l&apos;immagine potrebbe apparire distorta se è stata acquisita con una geometria irregolare.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
@@ -8400,17 +8401,17 @@ Questo file è stato originariamente creato da Andras Lasso
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="106"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="119"/>
         <source>DICOM examination settings</source>
-        <translation type="unfinished">Impostazioni dell'esame DICOM</translation>
+        <translation type="unfinished">Impostazioni dell&apos;esame DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="110"/>
         <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
-        <translation type="unfinished">Consente di caricare singole sezioni o gruppi di sezioni acquisite in un determinato momento (ora di acquisizione o di trigger). Se questa opzione è abilitata, nella sezione "Avanzate" del browser DICOM potrebbe essere visualizzato un numero elevato di elementi caricabili.</translation>
+        <translation type="unfinished">Consente di caricare singole sezioni o gruppi di sezioni acquisite in un determinato momento (ora di acquisizione o di trigger). Se questa opzione è abilitata, nella sezione &quot;Avanzate&quot; del browser DICOM potrebbe essere visualizzato un numero elevato di elementi caricabili.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"/>
         <source>Allow loading subseries by time:</source>
-        <translation type="unfinished">Consenti il caricamento delle sottoserie in base all'ora:</translation>
+        <translation type="unfinished">Consenti il caricamento delle sottoserie in base all&apos;ora:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="135"/>
@@ -8470,12 +8471,12 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="766"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation type="unfinished">Nel database esiste già una serie con l'ID {seriesInstanceUID}.</translation>
+        <translation type="unfinished">Nel database esiste già una serie con l&apos;ID {seriesInstanceUID}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="775"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation type="unfinished">Impossibile creare file DICOM dal volume scalare. Per ulteriori dettagli, consultare il registro dell'applicazione.</translation>
+        <translation type="unfinished">Impossibile creare file DICOM dal volume scalare. Per ulteriori dettagli, consultare il registro dell&apos;applicazione.</translation>
     </message>
 </context>
 <context>
@@ -8498,7 +8499,7 @@ Questo file è stato originariamente creato da Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="169"/>
         <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
-        <translation type="unfinished">Crea una serie che incorpora l'intera scena di Slicer in un tag DICOM privato</translation>
+        <translation type="unfinished">Crea una serie che incorpora l&apos;intera scena di Slicer in un tag DICOM privato</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="181"/>
@@ -8713,9 +8714,9 @@ Seleziona la telecamera da utilizzare per la riproduzione del flythrough.
 Cliccando su &quot;Usa questa curva&quot; si creerà una curva di flythrough e si attiverà il pannello del flythrough.
 È possibile scorrere manualmente il percorso utilizzando il cursore dei fotogrammi.
 Il pulsante Riproduci/Pausa attiva o disattiva il flythrough animato.
-Il cursore Salta fotogramma accelera l'animazione saltando alcuni punti del percorso.
-Il cursore Ritardo fotogramma rallenta l'animazione aggiungendo più tempo tra i fotogrammi.
-L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sistema endoscopico.
+Il cursore Salta fotogramma accelera l&apos;animazione saltando alcuni punti del percorso.
+Il cursore Ritardo fotogramma rallenta l&apos;animazione aggiungendo più tempo tra i fotogrammi.
+L&apos;Angolo di visione fornito viene utilizzato per approssimare l&apos;ottica di un sistema endoscopico.
 È possibile salvare la posizione della telecamera in qualsiasi momento facendo clic su &quot;Salva posizione telecamera&quot;.
 </translation>
     </message>
@@ -8748,7 +8749,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="149"/>
         <source>Start or stop the flythrough animation.</source>
-        <translation type="unfinished">Avvia o interrompi l'animazione panoramica.</translation>
+        <translation type="unfinished">Avvia o interrompi l&apos;animazione panoramica.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="157"/>
@@ -8773,7 +8774,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="174"/>
         <source>Time delay between animation frames.</source>
-        <translation type="unfinished">Intervallo di tempo tra i fotogrammi dell'animazione.</translation>
+        <translation type="unfinished">Intervallo di tempo tra i fotogrammi dell&apos;animazione.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="181"/>
@@ -8799,7 +8800,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="198"/>
         <source>Save the camera orientation for this frame.</source>
-        <translation type="unfinished">Salva l'orientamento della telecamera per questo fotogramma.</translation>
+        <translation type="unfinished">Salva l&apos;orientamento della telecamera per questo fotogramma.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="205"/>
@@ -8809,7 +8810,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="206"/>
         <source>Delete the saved camera orientation for this frame.</source>
-        <translation type="unfinished">Elimina l'orientamento della telecamera salvato per questo fotogramma.</translation>
+        <translation type="unfinished">Elimina l&apos;orientamento della telecamera salvato per questo fotogramma.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="216"/>
@@ -8819,7 +8820,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="217"/>
         <source>Go to the first user-supplied keyframe.</source>
-        <translation type="unfinished">Vai al primo fotogramma chiave specificato dall'utente.</translation>
+        <translation type="unfinished">Vai al primo fotogramma chiave specificato dall&apos;utente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="223"/>
@@ -8829,7 +8830,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="224"/>
         <source>Go to the previous user-supplied keyframe.</source>
-        <translation type="unfinished">Vai al fotogramma chiave precedente specificato dall'utente.</translation>
+        <translation type="unfinished">Vai al fotogramma chiave precedente specificato dall&apos;utente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
@@ -8839,7 +8840,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="231"/>
         <source>Go to the next user-supplied keyframe.</source>
-        <translation type="unfinished">Passa al fotogramma chiave successivo specificato dall'utente.</translation>
+        <translation type="unfinished">Passa al fotogramma chiave successivo specificato dall&apos;utente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="237"/>
@@ -8849,7 +8850,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="238"/>
         <source>Go to the last user-supplied keyframe.</source>
-        <translation type="unfinished">Vai all'ultimo fotogramma chiave specificato dall'utente.</translation>
+        <translation type="unfinished">Vai all&apos;ultimo fotogramma chiave specificato dall&apos;utente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="249"/>
@@ -8879,7 +8880,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="356"/>
         <source>Update Keyframe Orientation</source>
-        <translation type="unfinished">Aggiorna l'orientamento dei fotogrammi chiave</translation>
+        <translation type="unfinished">Aggiorna l&apos;orientamento dei fotogrammi chiave</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="409"/>
@@ -8927,12 +8928,12 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"/>
         <source>Add Module to Extension</source>
-        <translation type="unfinished">Aggiungi modulo all'estensione</translation>
+        <translation type="unfinished">Aggiungi modulo all&apos;estensione</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="160"/>
         <source>Edit Extension Metadata</source>
-        <translation type="unfinished">Modifica metadati dell'estensione</translation>
+        <translation type="unfinished">Modifica metadati dell&apos;estensione</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="165"/>
@@ -8957,7 +8958,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="247"/>
         <source>An error occurred while trying to create the extension.</source>
-        <translation type="unfinished">Si è verificato un errore durante il tentativo di creare l'estensione.</translation>
+        <translation type="unfinished">Si è verificato un errore durante il tentativo di creare l&apos;estensione.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"/>
@@ -8967,7 +8968,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"/>
         <source>Failed to open extension {path}.</source>
-        <translation type="unfinished">Impossibile aprire l'estensione {path}.</translation>
+        <translation type="unfinished">Impossibile aprire l&apos;estensione {path}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="302"/>
@@ -9017,12 +9018,12 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="439"/>
         <source>An error occurred while adding the module to the extension.</source>
-        <translation type="unfinished">Si è verificato un errore durante l'aggiunta del modulo all'estensione.</translation>
+        <translation type="unfinished">Si è verificato un errore durante l&apos;aggiunta del modulo all&apos;estensione.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="440"/>
         <source>The module has been created, but the extension CMakeLists.txt could not be updated. In order to include the module in the extension build, you will need to update the extension CMakeLists.txt by hand.</source>
-        <translation type="unfinished">Il modulo è stato creato, ma non è stato possibile aggiornare il file CMakeLists.txt dell'estensione. Per includere il modulo nella compilazione dell'estensione, dovrai aggiornare manualmente il file CMakeLists.txt dell'estensione.</translation>
+        <translation type="unfinished">Il modulo è stato creato, ma non è stato possibile aggiornare il file CMakeLists.txt dell&apos;estensione. Per includere il modulo nella compilazione dell&apos;estensione, dovrai aggiornare manualmente il file CMakeLists.txt dell&apos;estensione.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="491"/>
@@ -9032,7 +9033,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="492"/>
         <source>Add Python scripted modules to the application</source>
-        <translation type="unfinished">Aggiungere moduli basati su script Python all'applicazione</translation>
+        <translation type="unfinished">Aggiungere moduli basati su script Python all&apos;applicazione</translation>
     </message>
 </context>
 <context>
@@ -9122,7 +9123,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
         <source>Extension name may not be empty.</source>
-        <translation type="unfinished">Il nome dell'estensione non può essere vuoto.</translation>
+        <translation type="unfinished">Il nome dell&apos;estensione non può essere vuoto.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
@@ -9133,7 +9134,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="77"/>
         <source>Extension description may not be empty.</source>
-        <translation type="unfinished">La descrizione dell'estensione non può essere vuota.</translation>
+        <translation type="unfinished">La descrizione dell&apos;estensione non può essere vuota.</translation>
     </message>
 </context>
 <context>
@@ -9174,17 +9175,17 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="45"/>
         <source>Sets the &apos;Developer mode&apos; application option to enabled. Enabling developer mode is recommended while developing scripted modules, as it makes the Reload and Testing section displayed in the module user interface.</source>
-        <translation type="unfinished">Imposta l&apos;opzione dell&apos;applicazione "Modalità sviluppatore" su "Abilitato". Si consiglia di abilitare la modalità sviluppatore durante lo sviluppo di moduli basati su script, poiché in questo modo nella interfaccia utente del modulo vengono visualizzate le sezioni "Aggiorna" e "Test".</translation>
+        <translation type="unfinished">Imposta l&apos;opzione dell&apos;applicazione &quot;Modalità sviluppatore&quot; su &quot;Abilitato&quot;. Si consiglia di abilitare la modalità sviluppatore durante lo sviluppo di moduli basati su script, poiché in questo modo nella interfaccia utente del modulo vengono visualizzate le sezioni &quot;Aggiorna&quot; e &quot;Test&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="89"/>
         <source>Add selected module to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished">Aggiungi il modulo selezionato a "Percorsi moduli aggiuntivi"</translation>
+        <translation type="unfinished">Aggiungi il modulo selezionato a &quot;Percorsi moduli aggiuntivi&quot;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="91"/>
         <source>Add selected modules to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished">Aggiungi i moduli selezionati a "Percorsi moduli aggiuntivi"</translation>
+        <translation type="unfinished">Aggiungi i moduli selezionati a &quot;Percorsi moduli aggiuntivi&quot;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="116"/>
@@ -9238,7 +9239,7 @@ L'Angolo di visione fornito viene utilizzato per approssimare l'ottica di un sis
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="17"/>
         <source>Import ITK-Snap label description</source>
-        <translation type="unfinished">Importa la descrizione dell'etichetta ITK-Snap</translation>
+        <translation type="unfinished">Importa la descrizione dell&apos;etichetta ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="21"/>
@@ -9285,9 +9286,9 @@ and then returned with the same data type as the probed image (e.g. rounded to i
         <translation type="unfinished">
 Questo modulo calcola il profilo di intensità di un volume lungo una linea o una curva di marcatura.
 Note:
-1. Alle linee che si trovano sul bordo dell'immagine (al di fuori del centro dei voxel di bordo) può essere assegnato il valore 0.
-2. I punti sondati all'interno del volume dell'immagine vengono interpolati linearmente tra i centri dei voxel adiacenti
-e quindi restituiti con lo stesso tipo di dati dell'immagine sondata (ad esempio arrotondati a numeri interi se l'immagine ha un tipo di dati intero).
+1. Alle linee che si trovano sul bordo dell&apos;immagine (al di fuori del centro dei voxel di bordo) può essere assegnato il valore 0.
+2. I punti sondati all&apos;interno del volume dell&apos;immagine vengono interpolati linearmente tra i centri dei voxel adiacenti
+e quindi restituiti con lo stesso tipo di dati dell&apos;immagine sondata (ad esempio arrotondati a numeri interi se l&apos;immagine ha un tipo di dati intero).
     </translation>
     </message>
     <message>
@@ -9328,7 +9329,7 @@ Questo file è stato originariamente sviluppato da Andras Lasso (PerkLab) ed è 
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="36"/>
         <source>Pick the input to the algorithm which will be sampled along the line.</source>
-        <translation type="unfinished">Scegliere l'input dell'algoritmo che verrà campionato lungo la linea.</translation>
+        <translation type="unfinished">Scegliere l&apos;input dell&apos;algoritmo che verrà campionato lungo la linea.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="72"/>
@@ -9348,7 +9349,7 @@ Questo file è stato originariamente sviluppato da Andras Lasso (PerkLab) ed è 
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="114"/>
         <source>Pick line or curve to take image samples along.</source>
-        <translation type="unfinished">Seleziona una linea o una curva lungo la quale acquisire i campioni dell'immagine.</translation>
+        <translation type="unfinished">Seleziona una linea o una curva lungo la quale acquisire i campioni dell&apos;immagine.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="134"/>
@@ -9383,7 +9384,7 @@ Questo file è stato originariamente sviluppato da Andras Lasso (PerkLab) ed è 
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="193"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished">Selezionare la serie di grafici di output per l'algoritmo.</translation>
+        <translation type="unfinished">Selezionare la serie di grafici di output per l&apos;algoritmo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="216"/>
@@ -9398,7 +9399,7 @@ Questo file è stato originariamente sviluppato da Andras Lasso (PerkLab) ed è 
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="233"/>
         <source>If checked, then distance along the line in plot is not absolute, but the percent distance from the start of the line.</source>
-        <translation type="unfinished">Se questa opzione è selezionata, la distanza lungo la linea nel grafico non è assoluta, ma rappresenta la percentuale di distanza dall'inizio della linea.</translation>
+        <translation type="unfinished">Se questa opzione è selezionata, la distanza lungo la linea nel grafico non è assoluta, ma rappresenta la percentuale di distanza dall&apos;inizio della linea.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="246"/>
@@ -9408,7 +9409,7 @@ Questo file è stato originariamente sviluppato da Andras Lasso (PerkLab) ed è 
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="253"/>
         <source>If checked, then the intensity profile plot is automatically shown when the intensity profile is updated.</source>
-        <translation type="unfinished">Se questa opzione è selezionata, il grafico del profilo di intensità viene visualizzato automaticamente all'aggiornamento del profilo stesso.</translation>
+        <translation type="unfinished">Se questa opzione è selezionata, il grafico del profilo di intensità viene visualizzato automaticamente all&apos;aggiornamento del profilo stesso.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="269"/>
@@ -9439,17 +9440,17 @@ Questo file è stato originariamente sviluppato da Andras Lasso (PerkLab) ed è 
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="328"/>
         <source>Minimum width of the peak. Use higher values to reject small peaks detected due to image noise.</source>
-        <translation type="unfinished">Larghezza minima del picco. Utilizzare valori più elevati per scartare i picchi di piccole dimensioni rilevati a causa del rumore dell'immagine.</translation>
+        <translation type="unfinished">Larghezza minima del picco. Utilizzare valori più elevati per scartare i picchi di piccole dimensioni rilevati a causa del rumore dell&apos;immagine.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="347"/>
         <source>Height for Width Measurement:</source>
-        <translation type="unfinished">Misura dell'altezza rispetto alla larghezza:</translation>
+        <translation type="unfinished">Misura dell&apos;altezza rispetto alla larghezza:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="354"/>
         <source>Height at which the peak width is measured. 50% computes full width at half maximum. Larger value means that the height is measured near the top of the peak.</source>
-        <translation type="unfinished">Altezza alla quale viene misurata l'ampiezza del picco. Il valore 50% corrisponde all'ampiezza a metà altezza. Un valore più elevato indica che l'altezza viene misurata in prossimità della sommità del picco.</translation>
+        <translation type="unfinished">Altezza alla quale viene misurata l&apos;ampiezza del picco. Il valore 50% corrisponde all&apos;ampiezza a metà altezza. Un valore più elevato indica che l&apos;altezza viene misurata in prossimità della sommità del picco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="357"/>
@@ -9464,7 +9465,7 @@ Questo file è stato originariamente sviluppato da Andras Lasso (PerkLab) ed è 
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="386"/>
         <source>If checked then peaks are local maximum values. If unchecked then peaks are local minimum values.</source>
-        <translation type="unfinished">Se l'opzione è selezionata, i picchi corrispondono ai valori massimi locali. Se l'opzione non è selezionata, i picchi corrispondono ai valori minimi locali.</translation>
+        <translation type="unfinished">Se l&apos;opzione è selezionata, i picchi corrispondono ai valori massimi locali. Se l&apos;opzione non è selezionata, i picchi corrispondono ai valori minimi locali.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/LineProfile/Resources/UI/LineProfile.ui" line="405"/>
@@ -9528,15 +9529,15 @@ use it for commercial purposes.&lt;/p&gt;
 </source>
         <translation type="unfinished">
 &lt;p&gt;Questo lavoro è stato finanziato in parte da Cancer Care Ontario
-e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)&lt;/p&gt;
+e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)&lt;/p&gt;
 
 &lt;p&gt;I set di dati MRHead, CBCT-MR Head e CT-MR Brain sono stati donati al progetto 3D Slicer dalle persone visibili nelle immagini, per essere utilizzati senza alcuna restrizione.&lt;/p&gt;
 
 &lt;p&gt;Il set di dati CTLiver proviene dal &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;progetto Medical Decathlon&lt;/a&gt; (imagesTr/liver_100.nii.gz nella raccolta Task03_Liver)
 con una licenza di copyright permissiva (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), che consente la condivisione, la distribuzione e il miglioramento dei dati.&lt;/p&gt;
 
-&lt;p&gt;Il set di dati dell'addome CTA (Panoramix) proviene dalla &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;libreria di immagini DICOM di Osirix&lt;/a&gt;
-ed è disponibile esclusivamente per la ricerca e l'insegnamento. Non è consentito ridistribuirlo, venderlo o
+&lt;p&gt;Il set di dati dell&apos;addome CTA (Panoramix) proviene dalla &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;libreria di immagini DICOM di Osirix&lt;/a&gt;
+ed è disponibile esclusivamente per la ricerca e l&apos;insegnamento. Non è consentito ridistribuirlo, venderlo o
 utilizzarlo per scopi commerciali.&lt;/p&gt;
 </translation>
     </message>
@@ -9553,7 +9554,7 @@ utilizzarlo per scopi commerciali.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="288"/>
         <source>Load data from URL</source>
-        <translation type="unfinished">Carica i dati dall'URL</translation>
+        <translation type="unfinished">Carica i dati dall&apos;URL</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="291"/>
@@ -9563,7 +9564,7 @@ utilizzarlo per scopi commerciali.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="294"/>
         <source>Enter one or more URLs (one per line) to download and load the corresponding data sets. Press Ctrl+Enter or click &apos;Load&apos; button to start loading.</source>
-        <translation type="unfinished">Inserisci uno o più URL (uno per riga) per scaricare e caricare i set di dati corrispondenti. Premi Ctrl+Invio o clicca sul pulsante "Carica" per avviare il caricamento.</translation>
+        <translation type="unfinished">Inserisci uno o più URL (uno per riga) per scaricare e caricare i set di dati corrispondenti. Premi Ctrl+Invio o clicca sul pulsante &quot;Carica&quot; per avviare il caricamento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="303"/>
@@ -9573,7 +9574,7 @@ utilizzarlo per scopi commerciali.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="304"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished">Scarica il set di dati dall'URL indicato e importalo nella scena</translation>
+        <translation type="unfinished">Scarica il set di dati dall&apos;URL indicato e importalo nella scena</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="307"/>
@@ -9816,7 +9817,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
 </source>
         <translation type="unfinished">
 Questo lavoro è stato finanziato da Cancer Care Ontario
-e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
+e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </translation>
     </message>
     <message>
@@ -9832,7 +9833,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished">Se l'opzione è selezionata, verranno acquisite tutte le viste. Se non è selezionata, verrà acquisita solo la vista selezionata.</translation>
+        <translation type="unfinished">Se l&apos;opzione è selezionata, verranno acquisite tutte le viste. Se non è selezionata, verrà acquisita solo la vista selezionata.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="96"/>
@@ -9867,7 +9868,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="131"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished">Visualizza l'intervallo di rotazione rispetto all'orientamento corrente della vista.</translation>
+        <translation type="unfinished">Visualizza l&apos;intervallo di rotazione rispetto all&apos;orientamento corrente della vista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"/>
@@ -9922,7 +9923,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished">Scegli come salvare le immagini acquisite. La modalità video richiede l'impostazione del percorso dell'eseguibile ffmpeg nella sezione "Avanzate".</translation>
+        <translation type="unfinished">Scegli come salvare le immagini acquisite. La modalità video richiede l&apos;impostazione del percorso dell&apos;eseguibile ffmpeg nella sezione &quot;Avanzate&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
@@ -10013,12 +10014,12 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="89"/>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture all views&apos; option is enabled.</source>
-        <translation type="unfinished">Questa sezione o vista 3D verrà aggiornata durante l&apos;acquisizione. Verrà acquisita solo questa vista, a meno che non sia attivata l&apos;opzione "Acquisisci tutte le viste".</translation>
+        <translation type="unfinished">Questa sezione o vista 3D verrà aggiornata durante l&apos;acquisizione. Verrà acquisita solo questa vista, a meno che non sia attivata l&apos;opzione &quot;Acquisisci tutte le viste&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"/>
         <source>Specify how the main view will be modified during capture.</source>
-        <translation type="unfinished">Specificare in che modo la vista principale verrà modificata durante l'acquisizione.</translation>
+        <translation type="unfinished">Specificare in che modo la vista principale verrà modificata durante l&apos;acquisizione.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="101"/>
@@ -10033,7 +10034,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>If checked, image series will be generated playing forward and then backward.</source>
-        <translation type="unfinished">Se questa opzione è selezionata, la serie di immagini verrà riprodotta in avanti e poi all'indietro.</translation>
+        <translation type="unfinished">Se questa opzione è selezionata, la serie di immagini verrà riprodotta in avanti e poi all&apos;indietro.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="274"/>
@@ -10053,7 +10054,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished">Imposta il percorso dell'eseguibile ffmpeg. Scaricalo da: https://www.ffmpeg.org/</translation>
+        <translation type="unfinished">Imposta il percorso dell&apos;eseguibile ffmpeg. Scaricalo da: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="293"/>
@@ -10063,7 +10064,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="295"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished">&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Imposta un percorso valido per l'eseguibile ffmpeg! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Aiuto...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
+        <translation type="unfinished">&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Imposta un percorso valido per l&apos;eseguibile ffmpeg! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Aiuto...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="303"/>
@@ -10088,7 +10089,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="314"/>
         <source>Number of columns in lightbox image</source>
-        <translation type="unfinished">Numero di colonne nell'immagine della lightbox</translation>
+        <translation type="unfinished">Numero di colonne nell&apos;immagine della lightbox</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="315"/>
@@ -10113,7 +10114,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="330"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished">Seleziona un nodo volume per salvare l&apos;immagine acquisita nella scena, anziché scriverla immediatamente su disco. Richiede che il parametro di output "Numero di immagini" sia impostato su 1.</translation>
+        <translation type="unfinished">Seleziona un nodo volume per salvare l&apos;immagine acquisita nella scena, anziché scriverla immediatamente su disco. Richiede che il parametro di output &quot;Numero di immagini&quot; sia impostato su 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="333"/>
@@ -10143,7 +10144,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="349"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished">Se questa opzione è selezionata, l'immagine della filigrana scelta verrà aggiunta a tutte le immagini esportate.</translation>
+        <translation type="unfinished">Se questa opzione è selezionata, l&apos;immagine della filigrana scelta verrà aggiunta a tutte le immagini esportate.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
@@ -10153,12 +10154,12 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="368"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation type="unfinished">Ridimensionamento applicato all'immagine della filigrana. Il 100% corrisponde alle dimensioni originali</translation>
+        <translation type="unfinished">Ridimensionamento applicato all&apos;immagine della filigrana. Il 100% corrisponde alle dimensioni originali</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="382"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished">Opacità dell'immagine della filigrana. Il 100% corrisponde alla massima opacità.</translation>
+        <translation type="unfinished">Opacità dell&apos;immagine della filigrana. Il 100% corrisponde alla massima opacità.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="394"/>
@@ -10315,7 +10316,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1065"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1100"/>
         <source>Capture image from view failed</source>
-        <translation type="unfinished">Impossibile acquisire l'immagine dalla vista</translation>
+        <translation type="unfinished">Impossibile acquisire l&apos;immagine dalla vista</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1129"/>
@@ -10352,7 +10353,7 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1347"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>User requested cancel.</source>
-        <translation type="unfinished">L'utente ha richiesto l'annullamento.</translation>
+        <translation type="unfinished">L&apos;utente ha richiesto l&apos;annullamento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1377"/>
@@ -10373,12 +10374,12 @@ e dall'Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1430"/>
         <source>Video creation failed: ffmpeg executable path is not defined</source>
-        <translation type="unfinished">Impossibile creare il video: il percorso dell'eseguibile ffmpeg non è definito</translation>
+        <translation type="unfinished">Impossibile creare il video: il percorso dell&apos;eseguibile ffmpeg non è definito</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1432"/>
         <source>Video creation failed: ffmpeg executable path is invalid: {path}</source>
-        <translation type="unfinished">Impossibile creare il video: il percorso dell'eseguibile ffmpeg non è valido: {path}</translation>
+        <translation type="unfinished">Impossibile creare il video: il percorso dell&apos;eseguibile ffmpeg non è valido: {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
@@ -10443,7 +10444,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="103"/>
         <source>Auto-update results preview when input segments change.</source>
-        <translation type="unfinished">Aggiornamento automatico dell'anteprima dei risultati quando cambiano i segmenti di input.</translation>
+        <translation type="unfinished">Aggiornamento automatico dell&apos;anteprima dei risultati quando cambiano i segmenti di input.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="107"/>
@@ -10464,7 +10465,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="122"/>
         <source>Adjust visibility of results preview.</source>
-        <translation type="unfinished">Modifica la visibilità dell'anteprima dei risultati.</translation>
+        <translation type="unfinished">Modifica la visibilità dell&apos;anteprima dei risultati.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="130"/>
@@ -10474,7 +10475,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="131"/>
         <source>Preview results in 3D.</source>
-        <translation type="unfinished">Visualizza l'anteprima in 3D.</translation>
+        <translation type="unfinished">Visualizza l&apos;anteprima in 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="135"/>
@@ -10499,7 +10500,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="143"/>
         <source>Clear preview and cancel auto-complete</source>
-        <translation type="unfinished">Cancella l'anteprima e annulla il completamento automatico</translation>
+        <translation type="unfinished">Cancella l&apos;anteprima e annulla il completamento automatico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="145"/>
@@ -10514,7 +10515,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="186"/>
         <source>Segmentation operation is cancelled because an input segment was deleted.</source>
-        <translation type="unfinished">L'operazione di segmentazione è stata annullata perché è stato eliminato un segmento di input.</translation>
+        <translation type="unfinished">L&apos;operazione di segmentazione è stata annullata perché è stato eliminato un segmento di input.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="268"/>
@@ -10540,7 +10541,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="469"/>
         <source>Minimum {minimumNumberOfSegments} visible segments (or specification of editable area or intensity range) is required.</source>
-        <translation type="unfinished">È richiesto un numero minimo di {minimumNumberOfSegments} segmenti visibili (oppure la specificazione dell'area modificabile o dell'intervallo di intensità).</translation>
+        <translation type="unfinished">È richiesto un numero minimo di {minimumNumberOfSegments} segmenti visibili (oppure la specificazione dell&apos;area modificabile o dell&apos;intervallo di intensità).</translation>
     </message>
 </context>
 <context>
@@ -10563,7 +10564,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
 &lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
 &lt;li&gt;&lt;b&gt;Clic sinistro:&lt;/b&gt; aggiungi un punto.
 &lt;li&gt;&lt;b&gt;Trascinamento con il tasto sinistro:&lt;/b&gt; aggiungi più punti.
-&lt;li&gt;&lt;b&gt;x:&lt;/b&gt; elimina l'ultimo punto.
+&lt;li&gt;&lt;b&gt;x:&lt;/b&gt; elimina l&apos;ultimo punto.
 &lt;li&gt;&lt;b&gt;Doppio clic sinistro&lt;/b&gt; oppure &lt;b&gt;clic destro&lt;/b&gt; oppure &lt;b&gt;a&lt;/b&gt; oppure &lt;b&gt;Invio&lt;/b&gt;: applica contorno.
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
@@ -10590,14 +10591,14 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
 &lt;p&gt;</source>
         <translation type="unfinished">Interpolare la segmentazione tra le sezioni&lt;br&gt;. Istruzioni:
 &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;Crea una segmentazione completa sulle sezioni selezionate utilizzando qualsiasi effetto dell'editor.
+&lt;li&gt;Crea una segmentazione completa sulle sezioni selezionate utilizzando qualsiasi effetto dell&apos;editor.
 La segmentazione verrà estesa solo se una sezione è segmentata ma nessuna delle sezioni adiacenti lo è; pertanto,
-non utilizzare il pennello sferico con l'effetto Dipingi e lascia sempre almeno una sezione vuota tra le sezioni segmentate.
+non utilizzare il pennello sferico con l&apos;effetto Dipingi e lascia sempre almeno una sezione vuota tra le sezioni segmentate.
 &lt;li&gt;Verranno interpolati tutti i segmenti visibili, non solo il segmento selezionato.
 &lt;li&gt;La segmentazione completa verrà creata interpolando le segmentazioni nelle sezioni vuote.
 &lt;/ul&gt;&lt;p&gt;
 Le impostazioni di mascheramento vengono ignorate. Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nella tabella dei segmenti.
-L'effetto utilizza  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;il metodo di interpolazione morfologica dei contorni&lt;/a&gt;.
+L&apos;effetto utilizza  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;il metodo di interpolazione morfologica dei contorni&lt;/a&gt;.
 &lt;p&gt;</translation>
     </message>
 </context>
@@ -10631,20 +10632,20 @@ L'effetto utilizza  &lt;a href=&quot;https://insight-journal.org/browse/publicat
  &lt;ul style=&quot;margin: 0&quot;&gt;
         &lt;li&gt;Utilizza Paint o altri effetti per disegnare dei semi in ciascuna regione che dovrebbe appartenere a un segmento separato.
  Colora ogni seme con un segmento diverso. Sono richiesti almeno due segmenti.
- &lt;li&gt;Clicca su &lt;dfn&gt;Inizializza&lt;/dfn&gt; per calcolare l'anteprima della segmentazione completa.
- &lt;li&gt;Sfoglia le sezioni dell'immagine. Se il risultato della segmentazione in anteprima non è corretto, passare a
+ &lt;li&gt;Clicca su &lt;dfn&gt;Inizializza&lt;/dfn&gt; per calcolare l&apos;anteprima della segmentazione completa.
+ &lt;li&gt;Sfoglia le sezioni dell&apos;immagine. Se il risultato della segmentazione in anteprima non è corretto, passare a
  Paint o altri effetti e aggiungere altri semi nella regione classificata erroneamente. La segmentazione completa verrà
  aggiornata automaticamente entro pochi secondi
  &lt;li&gt;Fare clic su &lt;dfn&gt;Applica&lt;/dfn&gt; per aggiornare la segmentazione con il risultato visualizzato in anteprima.
  &lt;/ul&gt;&lt;p&gt;
         Se i segmenti si sovrappongono, avrà la priorità il segmento posizionato più in alto nella tabella dei segmenti.
- L'effetto utilizza il &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;metodo fast grow-cut&lt;/a&gt;.
+ L&apos;effetto utilizza il &lt;a href=&quot;https://www.nature.com/articles/s41598-024-80206-7&quot;&gt;metodo fast grow-cut&lt;/a&gt;.
  &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
         <source>Increasing this value makes the effect of seeds more localized, thereby reducing leaks, but requires seed regions to be more evenly distributed in the image. The value is specified as an additional &quot;intensity level difference&quot; per &quot;unit distance.&quot;</source>
-        <translation type="unfinished">Aumentando questo valore, l'effetto dei semi risulta più localizzato, riducendo così le perdite, ma richiede una distribuzione più uniforme delle aree dei semi nell'immagine. Il valore viene specificato come una «differenza di livello di intensità» aggiuntiva per «unità di distanza».</translation>
+        <translation type="unfinished">Aumentando questo valore, l&apos;effetto dei semi risulta più localizzato, riducendo così le perdite, ma richiede una distribuzione più uniforme delle aree dei semi nell&apos;immagine. Il valore viene specificato come una «differenza di livello di intensità» aggiuntiva per «unità di distanza».</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="80"/>
@@ -10702,7 +10703,7 @@ L'effetto utilizza  &lt;a href=&quot;https://insight-journal.org/browse/publicat
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="69"/>
         <source>Apply hollow effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished">Applica l'effetto "hollow" a tutti i segmenti visibili in questo nodo di segmentazione. Questa operazione potrebbe richiedere un po' di tempo.</translation>
+        <translation type="unfinished">Applica l&apos;effetto &quot;hollow&quot; a tutti i segmenti visibili in questo nodo di segmentazione. Questa operazione potrebbe richiedere un po&apos; di tempo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
@@ -10752,27 +10753,27 @@ L'effetto utilizza  &lt;a href=&quot;https://insight-journal.org/browse/publicat
         <source>Edit islands (connected components) in a segment&lt;br&gt;. To get more information
 about each operation, hover the mouse over the option and wait for the tooltip to appear.</source>
         <translation type="unfinished">Modifica le isole (componenti connessi) in un segmento&lt;br&gt;. Per ulteriori informazioni
-su ciascuna operazione, passa il mouse sull'opzione e attendi che compaia il suggerimento.</translation>
+su ciascuna operazione, passa il mouse sull&apos;opzione e attendi che compaia il suggerimento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="43"/>
         <source>Keep largest island</source>
-        <translation type="unfinished">Conserva l'isola più grande</translation>
+        <translation type="unfinished">Conserva l&apos;isola più grande</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="45"/>
         <source>Keep only the largest island in selected segment, remove all other islands in the segment.</source>
-        <translation type="unfinished">Conserva solo l'isola più grande nel segmento selezionato, rimuovi tutte le altre isole presenti nel segmento.</translation>
+        <translation type="unfinished">Conserva solo l&apos;isola più grande nel segmento selezionato, rimuovi tutte le altre isole presenti nel segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="49"/>
         <source>Keep selected island</source>
-        <translation type="unfinished">Mantieni l'isola selezionata</translation>
+        <translation type="unfinished">Mantieni l&apos;isola selezionata</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="51"/>
         <source>Click on an island in a slice view to keep that island and remove all other islands in selected segment.</source>
-        <translation type="unfinished">Clicca su un'isola nella vista a sezione per mantenerla e rimuovere tutte le altre isole nel segmento selezionato.</translation>
+        <translation type="unfinished">Clicca su un&apos;isola nella vista a sezione per mantenerla e rimuovere tutte le altre isole nel segmento selezionato.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="55"/>
@@ -10787,17 +10788,17 @@ su ciascuna operazione, passa il mouse sull'opzione e attendi che compaia il sug
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="61"/>
         <source>Remove selected island</source>
-        <translation type="unfinished">Rimuovi l'isola selezionata</translation>
+        <translation type="unfinished">Rimuovi l&apos;isola selezionata</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="63"/>
         <source>Click on an island in a slice view to remove it from selected segment.</source>
-        <translation type="unfinished">Clicca su un'isola nella vista a sezione per rimuoverla dal segmento selezionato.</translation>
+        <translation type="unfinished">Clicca su un&apos;isola nella vista a sezione per rimuoverla dal segmento selezionato.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="67"/>
         <source>Add selected island</source>
-        <translation type="unfinished">Aggiungi l'isola selezionata</translation>
+        <translation type="unfinished">Aggiungi l&apos;isola selezionata</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="69"/>
@@ -10837,7 +10838,7 @@ su ciascuna operazione, passa il mouse sull'opzione e attendi che compaia il sug
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="399"/>
         <source>Click in a slice view to select an island.</source>
-        <translation type="unfinished">Clicca su una sezione per selezionare un'isola.</translation>
+        <translation type="unfinished">Clicca su una sezione per selezionare un&apos;isola.</translation>
     </message>
 </context>
 <context>
@@ -10858,14 +10859,14 @@ su ciascuna operazione, passa il mouse sull'opzione e attendi che compaia il sug
         <translation type="unfinished">Aggiungi una regione di intensità uniforme al segmento selezionato&lt;br&gt;.
  &lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
  &lt;li&gt;&lt;b&gt;Spostamento del mouse:&lt;/b&gt; il voxel di sfondo corrente viene utilizzato per trovare un percorso chiuso che
- segua lo stesso valore di intensità fino al punto di partenza all'interno della sezione corrente.
+ segua lo stesso valore di intensità fino al punto di partenza all&apos;interno della sezione corrente.
         &lt;li&gt;&lt;b&gt;Clic sinistro:&lt;/b&gt; aggiungi la regione visualizzata in anteprima al segmento corrente.
  &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="107"/>
         <source>Slice view is not aligned with segmentation axis.&lt;br&gt;To use this effect, click the &apos;Slice views orientation&apos; warning button.</source>
-        <translation type="unfinished">La vista a fette non è allineata con l&apos;asse di segmentazione.&lt;br&gt;Per utilizzare questo effetto, fare clic sul pulsante di avviso "Orientamento delle viste a fette".</translation>
+        <translation type="unfinished">La vista a fette non è allineata con l&apos;asse di segmentazione.&lt;br&gt;Per utilizzare questo effetto, fare clic sul pulsante di avviso &quot;Orientamento delle viste a fette&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10900,7 +10901,7 @@ segment list in effect options - below.
 &lt;li&gt;&lt;b&gt;Cancella:&lt;/b&gt; cancella il segmento selezionato.
 &lt;li&gt;&lt;b&gt;Riempi:&lt;/b&gt; riempie completamente il segmento selezionato.
 &lt;/ul&gt;&lt;p&gt;
-&lt;b&gt;Segmento selezionato:&lt;/b&gt; segmento selezionato nell'elenco dei segmenti - sopra. &lt;b&gt;Segmento modificatore:&lt;/b&gt; segmento scelto nell'
+&lt;b&gt;Segmento selezionato:&lt;/b&gt; segmento selezionato nell&apos;elenco dei segmenti - sopra. &lt;b&gt;Segmento modificatore:&lt;/b&gt; segmento scelto nell&apos;
 elenco dei segmenti nelle opzioni di effetto - sotto.
 &lt;p&gt;</translation>
     </message>
@@ -10998,7 +10999,7 @@ elenco dei segmenti nelle opzioni di effetto - sotto.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="144"/>
         <source>Please select a modifier segment in the list below.</source>
-        <translation type="unfinished">Seleziona un segmento modificatore dall'elenco sottostante.</translation>
+        <translation type="unfinished">Seleziona un segmento modificatore dall&apos;elenco sottostante.</translation>
     </message>
 </context>
 <context>
@@ -11046,7 +11047,7 @@ elenco dei segmenti nelle opzioni di effetto - sotto.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="67"/>
         <source>Grow or shrink all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished">Ingrandisci o rimpicciolisci tutti i segmenti visibili in questo nodo di segmentazione. Questa operazione potrebbe richiedere un po' di tempo.</translation>
+        <translation type="unfinished">Ingrandisci o rimpicciolisci tutti i segmenti visibili in questo nodo di segmentazione. Questa operazione potrebbe richiedere un po&apos; di tempo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="69"/>
@@ -11099,23 +11100,23 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
 </source>
         <translation type="unfinished">Utilizza il segmento attualmente selezionato come maschera per oscurare alcune aree di un volume&lt;br&gt;.
 Per impostazione predefinita, la maschera viene applicata al volume di origine.&lt;p&gt;
-L'operazione "Riempi interno ed esterno" genera in uscita un volume di mappe di etichette binario, in cui i valori di riempimento interno ed esterno sono modificabili.
+L&apos;operazione &quot;Riempi interno ed esterno&quot; genera in uscita un volume di mappe di etichette binario, in cui i valori di riempimento interno ed esterno sono modificabili.
 </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
         <source>Fill inside</source>
-        <translation type="unfinished">Compilare all'interno</translation>
+        <translation type="unfinished">Compilare all&apos;interno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished">Riempire all'esterno</translation>
+        <translation type="unfinished">Riempire all&apos;esterno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
         <source>Fill inside and outside</source>
-        <translation type="unfinished">Riempire all'interno e all'esterno</translation>
+        <translation type="unfinished">Riempire all&apos;interno e all&apos;esterno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="58"/>
@@ -11130,7 +11131,7 @@ L'operazione "Riempi interno ed esterno" genera in uscita un volume di mappe di 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="71"/>
         <source>Choose the voxel intensity that will be used to fill the masked region.</source>
-        <translation type="unfinished">Scegli l'intensità dei voxel da utilizzare per riempire l'area mascherata.</translation>
+        <translation type="unfinished">Scegli l&apos;intensità dei voxel da utilizzare per riempire l&apos;area mascherata.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="72"/>
@@ -11140,7 +11141,7 @@ L'operazione "Riempi interno ed esterno" genera in uscita un volume di mappe di 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="76"/>
         <source>Choose the voxel intensity that will be used to fill outside the mask.</source>
-        <translation type="unfinished">Scegli l'intensità dei voxel da utilizzare per riempire l'area al di fuori della maschera.</translation>
+        <translation type="unfinished">Scegli l&apos;intensità dei voxel da utilizzare per riempire l&apos;area al di fuori della maschera.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="77"/>
@@ -11150,7 +11151,7 @@ L'operazione "Riempi interno ed esterno" genera in uscita un volume di mappe di 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="81"/>
         <source>Choose the voxel intensity that will be used to fill inside the mask.</source>
-        <translation type="unfinished">Scegli l'intensità dei voxel da utilizzare per riempire l'interno della maschera.</translation>
+        <translation type="unfinished">Scegli l&apos;intensità dei voxel da utilizzare per riempire l&apos;interno della maschera.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="82"/>
@@ -11207,7 +11208,7 @@ L'operazione "Riempi interno ed esterno" genera in uscita un volume di mappe di 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="166"/>
         <source>Apply segment as volume mask. No undo operation available once applied.</source>
-        <translation type="unfinished">Applica il segmento come maschera di volume. Una volta applicata, l'operazione non può essere annullata.</translation>
+        <translation type="unfinished">Applica il segmento come maschera di volume. Una volta applicata, l&apos;operazione non può essere annullata.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="236"/>
@@ -11240,14 +11241,14 @@ L'operazione "Riempi interno ed esterno" genera in uscita un volume di mappe di 
 &lt;li&gt;&lt;b&gt;Joint smoothing:&lt;/b&gt; smoothes multiple segments at once, preserving watertight interface between them. Masking settings are bypassed.
 If segments overlap, segment higher in the segments table will have priority. &lt;b&gt;Applied to all visible segments.&lt;/b&gt;
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished">Rendi più uniformi i contorni dei segmenti&lt;br&gt; rimuovendo le sporgenze e riempiendo i piccoli fori. L'effetto può essere applicato localmente
-(dipingendo nei visualizzatori) o all'intero segmento (facendo clic sul pulsante Applica). Metodi disponibili:&lt;p&gt;
+        <translation type="unfinished">Rendi più uniformi i contorni dei segmenti&lt;br&gt; rimuovendo le sporgenze e riempiendo i piccoli fori. L&apos;effetto può essere applicato localmente
+(dipingendo nei visualizzatori) o all&apos;intero segmento (facendo clic sul pulsante Applica). Metodi disponibili:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
 &lt;li&gt;&lt;b&gt;Mediana:&lt;/b&gt; rimuove i piccoli dettagli mantenendo i contorni lisci sostanzialmente invariati. Applicato solo al segmento selezionato.
 &lt;li&gt;&lt;b&gt;Apertura:&lt;/b&gt; rimuove le sporgenze più piccole della dimensione del kernel specificata. Applicato solo al segmento selezionato.
 &lt;li&gt;&lt;b&gt;Chiusura:&lt;/b&gt; riempie gli angoli acuti e i fori più piccoli della dimensione del kernel specificata. Applicato solo al segmento selezionato.
 &lt;li&gt;&lt;b&gt;Gaussiano:&lt;/b&gt; smussa tutti i contorni, tende a restringere il segmento. Applicato solo al segmento selezionato.
-&lt;li&gt;&lt;b&gt;Smussatura dei giunti:&lt;/b&gt; smussa più segmenti contemporaneamente, preservando l'interfaccia a tenuta stagna tra di essi. Le impostazioni di mascheramento vengono ignorate.
+&lt;li&gt;&lt;b&gt;Smussatura dei giunti:&lt;/b&gt; smussa più segmenti contemporaneamente, preservando l&apos;interfaccia a tenuta stagna tra di essi. Le impostazioni di mascheramento vengono ignorate.
 Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nella tabella dei segmenti. &lt;b&gt;Applicato a tutti i segmenti visibili.&lt;/b&gt;
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
@@ -11284,7 +11285,7 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="58"/>
         <source>Diameter of the neighborhood that will be considered around each voxel. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished">Diametro dell'area circostante che verrà presa in considerazione attorno a ciascun voxel. Un valore più alto aumenta l'effetto di smussatura (vengono soppressi più dettagli).</translation>
+        <translation type="unfinished">Diametro dell&apos;area circostante che verrà presa in considerazione attorno a ciascun voxel. Un valore più alto aumenta l&apos;effetto di smussatura (vengono soppressi più dettagli).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="66"/>
@@ -11299,7 +11300,7 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="75"/>
         <source>Standard deviation of the Gaussian smoothing filter coefficients. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished">Deviazione standard dei coefficienti del filtro di livellamento gaussiano. Un valore più elevato aumenta l'intensità del livellamento (i dettagli sono stati omessi).</translation>
+        <translation type="unfinished">Deviazione standard dei coefficienti del filtro di livellamento gaussiano. Un valore più elevato aumenta l&apos;intensità del livellamento (i dettagli sono stati omessi).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="80"/>
@@ -11319,7 +11320,7 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="93"/>
         <source>Apply smoothing effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished">Applica l'effetto di smussatura a tutti i segmenti visibili in questo nodo di segmentazione. Questa operazione potrebbe richiedere un po' di tempo.</translation>
+        <translation type="unfinished">Applica l&apos;effetto di smussatura a tutti i segmenti visibili in questo nodo di segmentazione. Questa operazione potrebbe richiedere un po&apos; di tempo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="95"/>
@@ -11354,7 +11355,7 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="478"/>
         <source>Smoothing brush is not available for &apos;joint smoothing&apos; method.</source>
-        <translation type="unfinished">Il pennello di livellamento non è disponibile per il metodo "livellamento giunture".</translation>
+        <translation type="unfinished">Il pennello di livellamento non è disponibile per il metodo &quot;livellamento giunture&quot;.</translation>
     </message>
 </context>
 <context>
@@ -11371,9 +11372,9 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished">Riempi il segmento in base all'intervallo di intensità del volume sorgente&lt;br&gt;. Opzioni:&lt;p&gt;
+        <translation type="unfinished">Riempi il segmento in base all&apos;intervallo di intensità del volume sorgente&lt;br&gt;. Opzioni:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
-&lt;li&gt;&lt;b&gt;Usa per mascheratura:&lt;/b&gt; imposta l'intervallo di intensità selezionato come &lt;dfn&gt;Intervallo di intensità modificabile&lt;/dfn&gt; e passa all'effetto Dipingi.
+&lt;li&gt;&lt;b&gt;Usa per mascheratura:&lt;/b&gt; imposta l&apos;intervallo di intensità selezionato come &lt;dfn&gt;Intervallo di intensità modificabile&lt;/dfn&gt; e passa all&apos;effetto Dipingi.
 &lt;li&gt;&lt;b&gt;Applica:&lt;/b&gt; imposta la segmentazione visualizzata in anteprima nel segmento selezionato. Il contenuto precedente del segmento viene sovrascritto.
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
@@ -11385,7 +11386,7 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="158"/>
         <source>Set the range of the background values that should be labeled.</source>
-        <translation type="unfinished">Imposta l'intervallo dei valori di fondo che devono essere etichettati.</translation>
+        <translation type="unfinished">Imposta l&apos;intervallo dei valori di fondo che devono essere etichettati.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="167"/>
@@ -11410,7 +11411,7 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="171"/>
         <source>How to set lower and upper values of the threshold range. Threshold above/below: sets the range from the computed value to maximum/minimum. Set as lower/upper value: only modifies one side of the threshold range.</source>
-        <translation type="unfinished">Come impostare i valori minimo e massimo dell'intervallo di soglia. Soglia superiore/inferiore: imposta l'intervallo tra il valore calcolato e il massimo/minimo. Imposta come valore minimo/massimo: modifica solo un lato dell'intervallo di soglia.</translation>
+        <translation type="unfinished">Come impostare i valori minimo e massimo dell&apos;intervallo di soglia. Soglia superiore/inferiore: imposta l&apos;intervallo tra il valore calcolato e il massimo/minimo. Imposta come valore minimo/massimo: modifica solo un lato dell&apos;intervallo di soglia.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="176"/>
@@ -11568,7 +11569,7 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="389"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation type="unfinished">Utilizza l'intervallo di intensità specificato per il mascheramento e passa all'effetto "Pittura".</translation>
+        <translation type="unfinished">Utilizza l&apos;intervallo di intensità specificato per il mascheramento e passa all&apos;effetto &quot;Pittura&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="392"/>
@@ -11578,7 +11579,7 @@ Se i segmenti si sovrappongono, avrà la priorità il segmento più in alto nell
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="394"/>
         <source>Fill selected segment in regions that are in the specified intensity range.</source>
-        <translation type="unfinished">Riempi il segmento selezionato nelle aree che rientrano nell'intervallo di intensità specificato.</translation>
+        <translation type="unfinished">Riempi il segmento selezionato nelle aree che rientrano nell&apos;intervallo di intensità specificato.</translation>
     </message>
 </context>
 <context>
@@ -11883,7 +11884,7 @@ Con il sostegno di NA-MIC, NAC, BIRN, NCIGT e della comunità Slicer. Per ulteri
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="448"/>
         <source>Segment roundness. Calculated from ratio of the area of the hypersphere by the actual area. Value of 1 represents a spherical structure. Computed from binary labelmap representation.</source>
-        <translation type="unfinished">Rotondità del segmento. Calcolata dal rapporto tra l'area dell'ipersfera e l'area effettiva. Un valore pari a 1 indica una struttura sferica. Calcolata sulla base della rappresentazione binaria della mappa di etichette.</translation>
+        <translation type="unfinished">Rotondità del segmento. Calcolata dal rapporto tra l&apos;area dell&apos;ipersfera e l&apos;area effettiva. Un valore pari a 1 indica una struttura sferica. Calcolata sulla base della rappresentazione binaria della mappa di etichette.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="454"/>
@@ -12027,7 +12028,7 @@ Con il sostegno di NA-MIC, NAC, BIRN, NCIGT e della comunità Slicer. Per ulteri
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="170"/>
         <source>Number of voxels. Computed from region of the binary labelmap representation of the segment that overlaps with the input scalar volume.</source>
-        <translation type="unfinished">Numero di voxel. Calcolato in base all'area della rappresentazione binaria della mappa di etichette del segmento che si sovrappone al volume scalare di input.</translation>
+        <translation type="unfinished">Numero di voxel. Calcolato in base all&apos;area della rappresentazione binaria della mappa di etichette del segmento che si sovrappone al volume scalare di input.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="179"/>
@@ -12048,17 +12049,17 @@ Con il sostegno di NA-MIC, NAC, BIRN, NCIGT e della comunità Slicer. Per ulteri
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="194"/>
         <source>Minimum input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished">Valore scalare minimo del volume di un voxel all'interno del segmento.</translation>
+        <translation type="unfinished">Valore scalare minimo del volume di un voxel all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="201"/>
         <source>Maximum input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished">Valore scalare massimo del volume di un voxel all'interno del segmento.</translation>
+        <translation type="unfinished">Valore scalare massimo del volume di un voxel all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="208"/>
         <source>Mean input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished">Valore scalare medio del volume dei voxel all'interno del segmento.</translation>
+        <translation type="unfinished">Valore scalare medio del volume dei voxel all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="225"/>
@@ -12068,7 +12069,7 @@ Con il sostegno di NA-MIC, NAC, BIRN, NCIGT e della comunità Slicer. Per ulteri
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="226"/>
         <source>5th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished">5° percentile dei valori scalari dei voxel di volume all'interno del segmento.</translation>
+        <translation type="unfinished">5° percentile dei valori scalari dei voxel di volume all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="233"/>
@@ -12078,7 +12079,7 @@ Con il sostegno di NA-MIC, NAC, BIRN, NCIGT e della comunità Slicer. Per ulteri
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="234"/>
         <source>10th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished">10° percentile dei valori scalari dei voxel di volume all'interno del segmento.</translation>
+        <translation type="unfinished">10° percentile dei valori scalari dei voxel di volume all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="241"/>
@@ -12088,7 +12089,7 @@ Con il sostegno di NA-MIC, NAC, BIRN, NCIGT e della comunità Slicer. Per ulteri
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="242"/>
         <source>90th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished">90° percentile dei valori scalari dei voxel di volume all'interno del segmento.</translation>
+        <translation type="unfinished">90° percentile dei valori scalari dei voxel di volume all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="249"/>
@@ -12098,17 +12099,17 @@ Con il sostegno di NA-MIC, NAC, BIRN, NCIGT e della comunità Slicer. Per ulteri
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="250"/>
         <source>95th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished">95° percentile dei valori scalari dei voxel di volume all'interno del segmento.</translation>
+        <translation type="unfinished">95° percentile dei valori scalari dei voxel di volume all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="259"/>
         <source>Median input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished">Valore mediano del voxel scalare di volume all'interno del segmento.</translation>
+        <translation type="unfinished">Valore mediano del voxel scalare di volume all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="217"/>
         <source>Standard deviation of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished">Deviazione standard dei valori scalari dei voxel di volume all'interno del segmento.</translation>
+        <translation type="unfinished">Deviazione standard dei valori scalari dei voxel di volume all&apos;interno del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="178"/>
@@ -12373,7 +12374,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
         <source>imageThreshold</source>
-        <translation type="unfinished">soglia dell'immagine</translation>
+        <translation type="unfinished">soglia dell&apos;immagine</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
@@ -12472,7 +12473,7 @@ e dall&apos;Ontario Consortium for Adaptive Interventions in Radiation Oncology 
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="103"/>
         <source>Show the dicom database in vertical mode allowing to use the Slicer views.</source>
-        <translation type="unfinished">Visualizza il database DICOM in modalità verticale, consentendo l'utilizzo delle viste di Slicer.</translation>
+        <translation type="unfinished">Visualizza il database DICOM in modalità verticale, consentendo l&apos;utilizzo delle viste di Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="106"/>
@@ -12728,17 +12729,17 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="327"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
-        <translation type="unfinished">Il volume di ingresso e quello di uscita sono uguali. Crea un nuovo volume per l'uscita per evitare questo errore.</translation>
+        <translation type="unfinished">Il volume di ingresso e quello di uscita sono uguali. Crea un nuovo volume per l&apos;uscita per evitare questo errore.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="347"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
-        <translation type="unfinished">Il componente da estrarre ({componentSelected}) non è valido. L'immagine contiene solo {componentsTotal} componenti.</translation>
+        <translation type="unfinished">Il componente da estrarre ({componentSelected}) non è valido. L&apos;immagine contiene solo {componentsTotal} componenti.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="355"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
-        <translation type="unfinished">L'input contiene solo {componentsTotal} componenti, ma ne richiede almeno 3 per la conversione della luminanza.</translation>
+        <translation type="unfinished">L&apos;input contiene solo {componentsTotal} componenti, ma ne richiede almeno 3 per la conversione della luminanza.</translation>
     </message>
 </context>
 <context>
@@ -12751,7 +12752,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="4"/>
         <source>Emphasize bone in a CT volume.</source>
-        <translation type="unfinished">Evidenziare l'osso in un volume TC.</translation>
+        <translation type="unfinished">Evidenziare l&apos;osso in un volume TC.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="5"/>
@@ -12761,7 +12762,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="6"/>
         <source>Emphasize air in a CT volume.</source>
-        <translation type="unfinished">Evidenziare l'aria in un volume TC.</translation>
+        <translation type="unfinished">Evidenziare l&apos;aria in un volume TC.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="7"/>
@@ -12801,12 +12802,12 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="14"/>
         <source>Preset for PET volume (uses rainbow color table).</source>
-        <translation type="unfinished">Impostazione predefinita per il volume PET (utilizza la tabella dei colori dell'arcobaleno).</translation>
+        <translation type="unfinished">Impostazione predefinita per il volume PET (utilizza la tabella dei colori dell&apos;arcobaleno).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="15"/>
         <source>DTI</source>
-        <translation type="unfinished">Ministero del Commercio e dell'Industria</translation>
+        <translation type="unfinished">Ministero del Commercio e dell&apos;Industria</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="16"/>
@@ -12824,7 +12825,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="35"/>
         <source>Provides an embedded web server in Slicer that allows control of the application via web services API (HTTP requests).</source>
-        <translation type="unfinished">Fornisce un server web integrato in Slicer che consente di controllare l'applicazione tramite l'API dei servizi web (richieste HTTP).</translation>
+        <translation type="unfinished">Fornisce un server web integrato in Slicer che consente di controllare l&apos;applicazione tramite l&apos;API dei servizi web (richieste HTTP).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="36"/>
@@ -12889,7 +12890,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="112"/>
         <source>Enable Cross Origin Resource Sharing (stop server to change option). Warning: this option allows any web page to access the server.</source>
-        <translation type="unfinished">Abilita la condivisione delle risorse tra domini diversi (arrestare il server per modificare l'opzione). Attenzione: questa opzione consente a qualsiasi pagina web di accedere al server.</translation>
+        <translation type="unfinished">Abilita la condivisione delle risorse tra domini diversi (arrestare il server per modificare l&apos;opzione). Attenzione: questa opzione consente a qualsiasi pagina web di accedere al server.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
@@ -12899,7 +12900,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
         <source>Enable remote control of Slicer application (stop server to change option)</source>
-        <translation type="unfinished">Abilita il controllo remoto dell'applicazione Slicer (arresta il server per modificare l'opzione)</translation>
+        <translation type="unfinished">Abilita il controllo remoto dell&apos;applicazione Slicer (arresta il server per modificare l&apos;opzione)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
@@ -12909,7 +12910,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="121"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
-        <translation type="unfinished">Abilita l'esecuzione di comandi Python arbitrari tramite l'API di Slicer. Questa opzione ha effetto solo se è abilitata anche l'API di Slicer (arrestare il server per modificare l'opzione).</translation>
+        <translation type="unfinished">Abilita l&apos;esecuzione di comandi Python arbitrari tramite l&apos;API di Slicer. Questa opzione ha effetto solo se è abilitata anche l&apos;API di Slicer (arrestare il server per modificare l&apos;opzione).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
@@ -12919,7 +12920,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="126"/>
         <source>Enable serving Slicer DICOM database content via DICOMweb (stop server to change option)</source>
-        <translation type="unfinished">Abilita la pubblicazione dei contenuti del database DICOM di Slicer tramite DICOMweb (arrestare il server per modificare l'opzione)</translation>
+        <translation type="unfinished">Abilita la pubblicazione dei contenuti del database DICOM di Slicer tramite DICOMweb (arrestare il server per modificare l&apos;opzione)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="128"/>
@@ -12929,7 +12930,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
         <source>Enable serving static pages (stop server to change option)</source>
-        <translation type="unfinished">Abilita la visualizzazione delle pagine statiche (arresta il server per modificare l'opzione)</translation>
+        <translation type="unfinished">Abilita la visualizzazione delle pagine statiche (arresta il server per modificare l&apos;opzione)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
@@ -12954,7 +12955,7 @@ NIH Roadmap for Medical Research, sovvenzione U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished">Accedi all'interfaccia grafica: </translation>
+        <translation type="unfinished">Accedi all&apos;interfaccia grafica: </translation>
     </message>
 </context>
 <context>
@@ -13583,7 +13584,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="127"/>
         <source>Shortest distance on surface</source>
-        <translation type="unfinished">La distanza più breve in linea d'aria</translation>
+        <translation type="unfinished">La distanza più breve in linea d&apos;aria</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="132"/>
@@ -13818,7 +13819,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="591"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="598"/>
         <source>Show direction markers in 3D views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished">Mostra gli indicatori di direzione nelle viste 3D. È necessario che l'opzione &quot;Mostra indicatori di direzione&quot; sia abilitata.</translation>
+        <translation type="unfinished">Mostra gli indicatori di direzione nelle viste 3D. È necessario che l&apos;opzione &quot;Mostra indicatori di direzione&quot; sia abilitata.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="608"/>
@@ -13829,7 +13830,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="611"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="618"/>
         <source>Show direction markers in 2D slice views. Requires &quot;Show Direction Markers&quot; to be enabled.</source>
-        <translation type="unfinished">Mostra gli indicatori di direzione nelle viste in sezione 2D. Richiede che l'opzione &quot;Mostra indicatori di direzione&quot; sia abilitata.</translation>
+        <translation type="unfinished">Mostra gli indicatori di direzione nelle viste in sezione 2D. Richiede che l&apos;opzione &quot;Mostra indicatori di direzione&quot; sia abilitata.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="628"/>
@@ -13872,12 +13873,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="706"/>
         <source>Distance between direction markers relative to the marker height.</source>
-        <translation type="unfinished">Distanza tra gli indicatori di direzione rispetto all'altezza degli stessi.</translation>
+        <translation type="unfinished">Distanza tra gli indicatori di direzione rispetto all&apos;altezza degli stessi.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="713"/>
         <source>Distance between consecutive direction markers relative to the marker height. 100% = markers touch, 200% = one gap, 300% = two gaps.</source>
-        <translation type="unfinished">Distanza tra indicatori di direzione consecutivi rispetto all'altezza dell'indicatore. 100% = indicatori a contatto, 200% = uno spazio, 300% = due spazi.</translation>
+        <translation type="unfinished">Distanza tra indicatori di direzione consecutivi rispetto all&apos;altezza dell&apos;indicatore. 100% = indicatori a contatto, 200% = uno spazio, 300% = due spazi.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="744"/>
@@ -14579,12 +14580,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute name</source>
-        <translation type="unfinished">Nome dell'attributo</translation>
+        <translation type="unfinished">Nome dell&apos;attributo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute value</source>
-        <translation type="unfinished">Valore dell'attributo</translation>
+        <translation type="unfinished">Valore dell&apos;attributo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="194"/>
@@ -14647,7 +14648,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="292"/>
         <source>Rename current %1</source>
         <extracomment>%1 refers to the node type label</extracomment>
-        <translation type="unfinished">Rinomina l'attuale %1</translation>
+        <translation type="unfinished">Rinomina l&apos;attuale %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="298"/>
@@ -15491,7 +15492,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="397"/>
         <source>Only those regions are allowed to be changed where the source volume intensity is in the specified range</source>
-        <translation type="unfinished">È possibile modificare solo quelle regioni in cui l'intensità del volume sorgente rientra nell'intervallo specificato</translation>
+        <translation type="unfinished">È possibile modificare solo quelle regioni in cui l&apos;intensità del volume sorgente rientra nell&apos;intervallo specificato</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="414"/>
@@ -15992,7 +15993,7 @@ Per ulteriori dettagli, consultare il modulo Segmentazioni.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="288"/>
         <source>Exporting may erase data</source>
-        <translation type="unfinished">L'esportazione potrebbe causare la cancellazione dei dati</translation>
+        <translation type="unfinished">L&apos;esportazione potrebbe causare la cancellazione dei dati</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="294"/>
@@ -16024,12 +16025,12 @@ Vuoi ritagliare la segmentazione?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="164"/>
         <source>Set reference image geometry and resample all segment labelmaps</source>
-        <translation type="unfinished">Imposta la geometria dell'immagine di riferimento e ricampiona tutte le mappe di etichette dei segmenti</translation>
+        <translation type="unfinished">Imposta la geometria dell&apos;immagine di riferimento e ricampiona tutte le mappe di etichette dei segmenti</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="168"/>
         <source>Set reference image geometry (do not resample)</source>
-        <translation type="unfinished">Imposta la geometria dell'immagine di riferimento (senza ricampionamento)</translation>
+        <translation type="unfinished">Imposta la geometria dell&apos;immagine di riferimento (senza ricampionamento)</translation>
     </message>
 </context>
 <context>
@@ -16114,7 +16115,7 @@ Vuoi ritagliare la segmentazione?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="169"/>
         <source>The current segmentation may not fit into the new geometry.</source>
-        <translation type="unfinished">L'attuale segmentazione potrebbe non adattarsi alla nuova geometria.</translation>
+        <translation type="unfinished">L&apos;attuale segmentazione potrebbe non adattarsi alla nuova geometria.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="399"/>
@@ -16237,7 +16238,7 @@ This may mean losing important data that cannot be created again from the new so
 (Reminder: Source representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing source representation?</source>
-        <translation type="unfinished">La modifica della rappresentazione di origine renderà la rappresentazione "gold standard" quella selezionata e comporterà la cancellazione di tutte le altre rappresentazioni.
+        <translation type="unfinished">La modifica della rappresentazione di origine renderà la rappresentazione &quot;gold standard&quot; quella selezionata e comporterà la cancellazione di tutte le altre rappresentazioni.
 Ciò potrebbe comportare la perdita di dati importanti che non potranno essere ricreati a partire dalla nuova rappresentazione di origine.
 
 (Promemoria: la rappresentazione di origine è il tipo di dati salvato su disco e utilizzato come input per la creazione di altre rappresentazioni)
@@ -16291,7 +16292,7 @@ Desideri procedere con la modifica della rappresentazione di origine?</translati
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="99"/>
         <source>Create closed surface using surface nets. By default, flying edges is used. Surface nets are more performant.</source>
-        <translation type="unfinished">Crea una superficie chiusa utilizzando le reti di superfici. Per impostazione predefinita, viene utilizzata l'opzione "bordi volanti". Le reti di superfici offrono prestazioni migliori.</translation>
+        <translation type="unfinished">Crea una superficie chiusa utilizzando le reti di superfici. Per impostazione predefinita, viene utilizzata l&apos;opzione &quot;bordi volanti&quot;. Le reti di superfici offrono prestazioni migliori.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="105"/>
@@ -16477,7 +16478,7 @@ Desideri procedere con la modifica della rappresentazione di origine?</translati
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1204"/>
         <source>Move selected segments up</source>
-        <translation type="unfinished">Sposta i segmenti selezionati verso l'alto</translation>
+        <translation type="unfinished">Sposta i segmenti selezionati verso l&apos;alto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1208"/>
@@ -16662,13 +16663,13 @@ Desideri procedere con la modifica della rappresentazione di origine?</translati
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="174"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="223"/>
         <source>Increment index by this much after adding a data node</source>
-        <translation type="unfinished">Aumentare l'indice di questo valore dopo l'aggiunta di un nodo dati</translation>
+        <translation type="unfinished">Aumentare l&apos;indice di questo valore dopo l&apos;aggiunta di un nodo dati</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="190"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="240"/>
         <source>Use node name as index value</source>
-        <translation type="unfinished">Utilizza il nome del nodo come valore dell'indice</translation>
+        <translation type="unfinished">Utilizza il nome del nodo come valore dell&apos;indice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="193"/>
@@ -16805,7 +16806,7 @@ Desideri procedere con la modifica della rappresentazione di origine?</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="633"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished">Abilita la ricostruzione a sezione spessa (TSR). La TSR viene utilizzata per unire sezioni contigue all'interno di un determinato intervallo.</translation>
+        <translation type="unfinished">Abilita la ricostruzione a sezione spessa (TSR). La TSR viene utilizzata per unire sezioni contigue all&apos;interno di un determinato intervallo.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="650"/>
@@ -17092,7 +17093,7 @@ Desideri procedere con la modifica della rappresentazione di origine?</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1141"/>
         <source>Set slab reconstruction type to Max</source>
-        <translation type="unfinished">Imposta il tipo di ricostruzione della lastra su "Max"</translation>
+        <translation type="unfinished">Imposta il tipo di ricostruzione della lastra su &quot;Max&quot;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1149"/>
@@ -17112,7 +17113,7 @@ Desideri procedere con la modifica della rappresentazione di origine?</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1163"/>
         <source>Set slab reconstruction type to Mean</source>
-        <translation type="unfinished">Impostare il tipo di ricostruzione della lastra su "Media"</translation>
+        <translation type="unfinished">Impostare il tipo di ricostruzione della lastra su &quot;Media&quot;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1171"/>
@@ -17122,7 +17123,7 @@ Desideri procedere con la modifica della rappresentazione di origine?</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1174"/>
         <source>Set slab reconstruction type to Sum</source>
-        <translation type="unfinished">Imposta il tipo di ricostruzione della tabella su "Somma"</translation>
+        <translation type="unfinished">Imposta il tipo di ricostruzione della tabella su &quot;Somma&quot;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1183"/>
@@ -17567,7 +17568,7 @@ Desideri procedere con la modifica della rappresentazione di origine?</translati
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="68"/>
         <source>Expand tree to level...</source>
-        <translation type="unfinished">Espandi l'albero fino al livello...</translation>
+        <translation type="unfinished">Espandi l&apos;albero fino al livello...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="394"/>
@@ -17621,17 +17622,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="484"/>
         <source>Type of column %1 is &apos;bit&apos;. Plotting of these types are currently not supported. Please convert the data type of this column to numeric using Table module&apos;s Column properties section, or select different columns for plotting.</source>
-        <translation type="unfinished">Il tipo di colonna %1 è "bit". Attualmente la rappresentazione grafica di questi tipi non è supportata. Si prega di convertire il tipo di dati di questa colonna in numerico utilizzando la sezione "Proprietà colonna" del modulo Tabella, oppure di selezionare colonne diverse per la rappresentazione grafica.</translation>
+        <translation type="unfinished">Il tipo di colonna %1 è &quot;bit&quot;. Attualmente la rappresentazione grafica di questi tipi non è supportata. Si prega di convertire il tipo di dati di questa colonna in numerico utilizzando la sezione &quot;Proprietà colonna&quot; del modulo Tabella, oppure di selezionare colonne diverse per la rappresentazione grafica.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="501"/>
         <source>Multiple &apos;string&apos; type of columns are selected for plotting (%1, %2) but only one is allowed. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation type="unfinished">Per la creazione del grafico sono state selezionate più colonne di tipo "stringa" (%1, %2), ma ne è consentita solo una. Modificare la selezione oppure convertire il tipo di dati di questa colonna in numerico utilizzando la sezione "Proprietà colonna" del modulo Tabella.</translation>
+        <translation type="unfinished">Per la creazione del grafico sono state selezionate più colonne di tipo &quot;stringa&quot; (%1, %2), ma ne è consentita solo una. Modificare la selezione oppure convertire il tipo di dati di questa colonna in numerico utilizzando la sezione &quot;Proprietà colonna&quot; del modulo Tabella.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="517"/>
         <source>A single &apos;string&apos; type column is selected. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation type="unfinished">È stata selezionata una colonna di tipo "stringa". Modifica la selezione oppure converti il tipo di dati di questa colonna in numerico utilizzando la sezione "Proprietà colonna" del modulo Tabella.</translation>
+        <translation type="unfinished">È stata selezionata una colonna di tipo &quot;stringa&quot;. Modifica la selezione oppure converti il tipo di dati di questa colonna in numerico utilizzando la sezione &quot;Proprietà colonna&quot; del modulo Tabella.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="520"/>
@@ -17719,7 +17720,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="374"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished">Clicca qui per bloccare questa tabella ed impedire la modifica dei valori nell'interfaccia utente</translation>
+        <translation type="unfinished">Clicca qui per bloccare questa tabella ed impedire la modifica dei valori nell&apos;interfaccia utente</translation>
     </message>
 </context>
 <context>
@@ -18102,7 +18103,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="259"/>
         <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
-        <translation type="unfinished">Dimensione degli elementi da mettere in risalto tramite le ombre. La scala è logaritmica; il valore predefinito (0,0) corrisponde a un'altezza dell'oggetto di circa 100 mm.</translation>
+        <translation type="unfinished">Dimensione degli elementi da mettere in risalto tramite le ombre. La scala è logaritmica; il valore predefinito (0,0) corrisponde a un&apos;altezza dell&apos;oggetto di circa 100 mm.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="274"/>
@@ -18112,7 +18113,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="277"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
-        <translation type="unfinished">Se l'opacità del rendering volumetrico supera questo valore, si formeranno delle ombre.</translation>
+        <translation type="unfinished">Se l&apos;opacità del rendering volumetrico supera questo valore, si formeranno delle ombre.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="291"/>
@@ -18122,7 +18123,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="294"/>
         <source>Intensity of darkening by shadows. Larger value means more darkening. Default is 1.</source>
-        <translation type="unfinished">Intensità dell'oscuramento causato dalle ombre. Un valore più alto indica un maggiore oscuramento. Il valore predefinito è 1.</translation>
+        <translation type="unfinished">Intensità dell&apos;oscuramento causato dalle ombre. Un valore più alto indica un maggiore oscuramento. Il valore predefinito è 1.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="309"/>
@@ -18132,7 +18133,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="312"/>
         <source>Minimum amount of occlusion required for visible darkening by shadows. Larger value means more occlusion is needed to darkening. Default is 0.</source>
-        <translation type="unfinished">Livello minimo di occlusione necessario per ottenere un oscuramento visibile causato dalle ombre. Un valore più alto indica che è necessaria una maggiore occlusione per ottenere l'oscuramento. Il valore predefinito è 0.</translation>
+        <translation type="unfinished">Livello minimo di occlusione necessario per ottenere un oscuramento visibile causato dalle ombre. Un valore più alto indica che è necessaria una maggiore occlusione per ottenere l&apos;oscuramento. Il valore predefinito è 0.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="328"/>
@@ -19095,7 +19096,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="66"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished">È disponibile una nuova versione dell'applicazione: %1</translation>
+        <translation type="unfinished">È disponibile una nuova versione dell&apos;applicazione: %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="73"/>
@@ -19133,7 +19134,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="64"/>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="94"/>
         <source>Informatics</source>
-        <translation type="unfinished">Tecnologia dell'informazione</translation>
+        <translation type="unfinished">Tecnologia dell&apos;informazione</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
@@ -19625,7 +19626,7 @@ p, li { white-space: pre-wrap; }
 
 
 </source>
-        <translation type="unfinished">Ti preghiamo di segnalare il problema seguendo le istruzioni disponibili all'indirizzo https://slicer.org
+        <translation type="unfinished">Ti preghiamo di segnalare il problema seguendo le istruzioni disponibili all&apos;indirizzo https://slicer.org
 
 
 </translation>
@@ -19680,7 +19681,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.hxx" line="284"/>
         <source>Initializing user interface...</source>
-        <translation type="unfinished">Inizializzazione dell'interfaccia utente...</translation>
+        <translation type="unfinished">Inizializzazione dell&apos;interfaccia utente...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.hxx" line="307"/>
@@ -19731,7 +19732,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="85"/>
         <source>Failed to find python interpreter for CLI: %1</source>
-        <translation type="unfinished">Impossibile trovare l'interprete Python per la CLI: %1</translation>
+        <translation type="unfinished">Impossibile trovare l&apos;interprete Python per la CLI: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="110"/>
@@ -19809,7 +19810,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="226"/>
         <source>Failed to resolve expected symbol &apos;%1&apos;</source>
-        <translation type="unfinished">Impossibile risolvere il simbolo previsto "%1"</translation>
+        <translation type="unfinished">Impossibile risolvere il simbolo previsto &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -20034,7 +20035,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="159"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation type="unfinished">Il &lt;b&gt;Modulo Colori&lt;/b&gt; gestisce le tabelle di corrispondenza dei colori, memorizzate nei nodi Colore.&lt;br&gt;Queste tabelle effettuano la conversione tra un valore numerico e un colore per la visualizzazione di vari tipi di dati, come volumi e modelli.&lt;br&gt;Sono disponibili due tipi di tabelle di ricerca:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Tabella discreta: viene specificato un elenco di colori denominati (esempio: GenericAnatomyColors). Le tabelle discrete possono essere utilizzate anche per la mappatura continua; in questo caso i colori vengono utilizzati come campioni a distanza uguale all&apos;interno dell&apos;intervallo specificato, con un&apos;interpolazione graduale tra di essi (esempio: Grey).&lt;/li&gt;&lt;li&gt;Scala continua: il colore è specificato per valori numerici scelti arbitrariamente e il valore del colore può essere calcolato tramite un&apos;interpolazione graduale tra questi valori (esempio: PET-DICOM). Non vengono specificati nomi per i colori.&lt;/li&gt;Tutte le tabelle di colori integrate sono di sola lettura. Per modificare i colori, creare una copia della tabella dei colori facendo clic sull&apos;icona della cartella "copia".&lt;br&gt;</translation>
+        <translation type="unfinished">Il &lt;b&gt;Modulo Colori&lt;/b&gt; gestisce le tabelle di corrispondenza dei colori, memorizzate nei nodi Colore.&lt;br&gt;Queste tabelle effettuano la conversione tra un valore numerico e un colore per la visualizzazione di vari tipi di dati, come volumi e modelli.&lt;br&gt;Sono disponibili due tipi di tabelle di ricerca:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Tabella discreta: viene specificato un elenco di colori denominati (esempio: GenericAnatomyColors). Le tabelle discrete possono essere utilizzate anche per la mappatura continua; in questo caso i colori vengono utilizzati come campioni a distanza uguale all&apos;interno dell&apos;intervallo specificato, con un&apos;interpolazione graduale tra di essi (esempio: Grey).&lt;/li&gt;&lt;li&gt;Scala continua: il colore è specificato per valori numerici scelti arbitrariamente e il valore del colore può essere calcolato tramite un&apos;interpolazione graduale tra questi valori (esempio: PET-DICOM). Non vengono specificati nomi per i colori.&lt;/li&gt;Tutte le tabelle di colori integrate sono di sola lettura. Per modificare i colori, creare una copia della tabella dei colori facendo clic sull&apos;icona della cartella &quot;copia&quot;.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="180"/>
@@ -20198,7 +20199,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1938"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Slicer NON è un dispositivo medico approvato dalla FDA.&lt;br&gt;&lt;br&gt;Con il sostegno di: NA-MIC, NAC, BIRN, NCIGT e la comunità Slicer.&lt;br&gt;&lt;br&gt;Un ringraziamento speciale al NIH e agli altri nostri sostenitori.&lt;br&gt;&lt;br&gt;Questo lavoro fa parte della National Alliance for Medical Image Computing (NA-MIC), finanziata dal National Institutes of Health attraverso la NIH Roadmap for Medical Research, sovvenzione U54 EB005149. Informazioni sui National Centers for Biomedical Computing sono disponibili all'indirizzo&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="unfinished">Slicer NON è un dispositivo medico approvato dalla FDA.&lt;br&gt;&lt;br&gt;Con il sostegno di: NA-MIC, NAC, BIRN, NCIGT e la comunità Slicer.&lt;br&gt;&lt;br&gt;Un ringraziamento speciale al NIH e agli altri nostri sostenitori.&lt;br&gt;&lt;br&gt;Questo lavoro fa parte della National Alliance for Medical Image Computing (NA-MIC), finanziata dal National Institutes of Health attraverso la NIH Roadmap for Medical Research, sovvenzione U54 EB005149. Informazioni sui National Centers for Biomedical Computing sono disponibili all&apos;indirizzo&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -20222,12 +20223,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="871"/>
         <source>Unable to create directory &apos;%1&apos;</source>
-        <translation type="unfinished">Impossibile creare la directory "%1"</translation>
+        <translation type="unfinished">Impossibile creare la directory &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="903"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
-        <translation type="unfinished">Impossibile salvare il file "%1" di tipo "%2" con tutti gli scrittori individuati.</translation>
+        <translation type="unfinished">Impossibile salvare il file &quot;%1&quot; di tipo &quot;%2&quot; con tutti gli scrittori individuati.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="916"/>
@@ -20408,7 +20409,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="781"/>
         <source>Do not change ROI box orientation</source>
-        <translation type="unfinished">Non modificare l'orientamento della casella ROI</translation>
+        <translation type="unfinished">Non modificare l&apos;orientamento della casella ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="458"/>
@@ -20537,7 +20538,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="159"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
-        <translation type="unfinished">L'interpolazione è disattivata e il volume in ingresso è sottoposto a una trasformazione non lineare</translation>
+        <translation type="unfinished">L&apos;interpolazione è disattivata e il volume in ingresso è sottoposto a una trasformazione non lineare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="246"/>
@@ -20784,7 +20785,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="133"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation type="unfinished">Il modulo Dati costituisce il punto centrale di organizzazione dei dati, dove tutti i dati caricati vengono presentati per consentirne l'accesso e la manipolazione. Consente di organizzare i dati in cartelle o in alberi di pazienti/studi (operazione eseguita automaticamente per i dati DICOM), di visualizzare tutti i dati visualizzabili, di trasformare interi rami e di utilizzare una vasta gamma di funzionalità specifiche per ciascun tipo di dati.</translation>
+        <translation type="unfinished">Il modulo Dati costituisce il punto centrale di organizzazione dei dati, dove tutti i dati caricati vengono presentati per consentirne l&apos;accesso e la manipolazione. Consente di organizzare i dati in cartelle o in alberi di pazienti/studi (operazione eseguita automaticamente per i dati DICOM), di visualizzare tutti i dati visualizzabili, di trasformare interi rami e di utilizzare una vasta gamma di funzionalità specifiche per ciascun tipo di dati.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="152"/>
@@ -21068,7 +21069,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="114"/>
         <source>Include nodes directly under the selected item in the hierarchy.</source>
-        <translation type="unfinished">Includi i nodi che si trovano direttamente sotto l'elemento selezionato nella gerarchia.</translation>
+        <translation type="unfinished">Includi i nodi che si trovano direttamente sotto l&apos;elemento selezionato nella gerarchia.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="117"/>
@@ -21078,7 +21079,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="124"/>
         <source>Include all nodes in the selected item in the hierarchy, including in subfolders.</source>
-        <translation type="unfinished">Includi tutti i nodi presenti nell'elemento selezionato nella gerarchia, comprese le sottocartelle.</translation>
+        <translation type="unfinished">Includi tutti i nodi presenti nell&apos;elemento selezionato nella gerarchia, comprese le sottocartelle.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="127"/>
@@ -21098,7 +21099,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="144"/>
         <source>Temporarily harden any transforms for export</source>
-        <translation type="unfinished">Rendi temporaneamente definitive tutte le trasformazioni per l'esportazione</translation>
+        <translation type="unfinished">Rendi temporaneamente definitive tutte le trasformazioni per l&apos;esportazione</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
@@ -21194,7 +21195,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1011"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1064"/>
         <source>Export Information</source>
-        <translation type="unfinished">Informazioni sull'esportazione</translation>
+        <translation type="unfinished">Informazioni sull&apos;esportazione</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1011"/>
@@ -21204,12 +21205,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1038"/>
         <source>Error encountered while exporting.</source>
-        <translation type="unfinished">Si è verificato un errore durante l'esportazione.</translation>
+        <translation type="unfinished">Si è verificato un errore durante l&apos;esportazione.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1059"/>
         <source>Export Warning</source>
-        <translation type="unfinished">Avviso relativo all'esportazione</translation>
+        <translation type="unfinished">Avviso relativo all&apos;esportazione</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1224"/>
@@ -21224,7 +21225,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1246"/>
         <source>There is nothing to export.</source>
-        <translation type="unfinished">Non c'è nulla da esportare.</translation>
+        <translation type="unfinished">Non c&apos;è nulla da esportare.</translation>
     </message>
 </context>
 <context>
@@ -21242,7 +21243,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="52"/>
         <source>Click this button to add bookmark this extension. Bookmarked extension will appear in all application versions for easy reinstallation.</source>
-        <translation type="unfinished">Clicca su questo pulsante per aggiungere questa estensione ai preferiti. L'estensione aggiunta ai preferiti apparirà in tutte le versioni dell'applicazione, per poterla reinstallare facilmente.</translation>
+        <translation type="unfinished">Clicca su questo pulsante per aggiungere questa estensione ai preferiti. L&apos;estensione aggiunta ai preferiti apparirà in tutte le versioni dell&apos;applicazione, per poterla reinstallare facilmente.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
@@ -21345,7 +21346,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="417"/>
         <source>Not found for this version of the application (r%1)</source>
-        <translation type="unfinished">Non trovato per questa versione dell'applicazione (r%1)</translation>
+        <translation type="unfinished">Non trovato per questa versione dell&apos;applicazione (r%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="424"/>
@@ -21469,17 +21470,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1379"/>
         <source>Failed to add bookmark extension: %1</source>
-        <translation type="unfinished">Impossibile aggiungere l'estensione dei segnalibri: %1</translation>
+        <translation type="unfinished">Impossibile aggiungere l&apos;estensione dei segnalibri: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1542"/>
         <source>Retrieving extension metadata for %1 extension</source>
-        <translation type="unfinished">Recupero dei metadati dell'estensione per l'estensione %1</translation>
+        <translation type="unfinished">Recupero dei metadati dell&apos;estensione per l&apos;estensione %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1554"/>
         <source>Failed to get metadata from server for extension: %1</source>
-        <translation type="unfinished">Impossibile recuperare i metadati dal server per l'estensione: %1</translation>
+        <translation type="unfinished">Impossibile recuperare i metadati dal server per l&apos;estensione: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1571"/>
@@ -21489,24 +21490,24 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1602"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
-        <translation type="unfinished">Scaricamento dell'estensione %1 (ID elemento: %2, ID file: %3)</translation>
+        <translation type="unfinished">Scaricamento dell&apos;estensione %1 (ID elemento: %2, ID file: %3)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1633"/>
         <source>Download of extension failed, id is invalid.</source>
-        <translation type="unfinished">Il download dell'estensione non è andato a buon fine; l'ID non è valido.</translation>
+        <translation type="unfinished">Il download dell&apos;estensione non è andato a buon fine; l&apos;ID non è valido.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1654"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
-        <translation type="unfinished">Download dell'estensione non riuscito: impossibile trovare un'estensione con ID = %1</translation>
+        <translation type="unfinished">Download dell&apos;estensione non riuscito: impossibile trovare un&apos;estensione con ID = %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1671"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2412"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Impossibile recuperare i metadati per l'estensione %1</translation>
+        <translation type="unfinished">Impossibile recuperare i metadati per l&apos;estensione %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1733"/>
@@ -21516,17 +21517,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1734"/>
         <source>Install extension ?</source>
-        <translation type="unfinished">Installare l'estensione?</translation>
+        <translation type="unfinished">Installare l&apos;estensione?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1751"/>
         <source>Failed to install %1 extension</source>
-        <translation type="unfinished">Impossibile installare l'estensione %1</translation>
+        <translation type="unfinished">Impossibile installare l&apos;estensione %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1774"/>
         <source>Extension %1 has been installed from server.</source>
-        <translation type="unfinished">L'estensione %1 è stata installata dal server.</translation>
+        <translation type="unfinished">L&apos;estensione %1 è stata installata dal server.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1776"/>
@@ -21561,27 +21562,27 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1873"/>
         <source>InstallExtension failed: extensionName is not set</source>
-        <translation type="unfinished">Installazione dell'estensione non riuscita: extensionName non è impostato</translation>
+        <translation type="unfinished">Installazione dell&apos;estensione non riuscita: extensionName non è impostato</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1878"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
-        <translation type="unfinished">Salta l'installazione dell'estensione %1. È già installata.</translation>
+        <translation type="unfinished">Salta l&apos;installazione dell&apos;estensione %1. È già installata.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1884"/>
         <source>Extensions/InstallPath setting is not set</source>
-        <translation type="unfinished">L'impostazione "Extensions/InstallPath" non è stata configurata</translation>
+        <translation type="unfinished">L&apos;impostazione &quot;Extensions/InstallPath&quot; non è stata configurata</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1890"/>
         <source>Failed to create extension installation directory %1</source>
-        <translation type="unfinished">Impossibile creare la directory di installazione dell'estensione %1</translation>
+        <translation type="unfinished">Impossibile creare la directory di installazione dell&apos;estensione %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1993"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
-        <translation type="unfinished">Errore durante l'installazione delle estensioni dipendenti:&lt;ul&gt;%1&lt;ul&gt;</translation>
+        <translation type="unfinished">Errore durante l&apos;installazione delle estensioni dipendenti:&lt;ul&gt;%1&lt;ul&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2012"/>
@@ -21592,7 +21593,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2017"/>
         <source>The extension may not function properly.</source>
-        <translation type="unfinished">L'estensione potrebbe non funzionare correttamente.</translation>
+        <translation type="unfinished">L&apos;estensione potrebbe non funzionare correttamente.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2018"/>
@@ -21602,7 +21603,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2908"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
-        <translation type="unfinished">Il parametro "extensionName" non è stato specificato</translation>
+        <translation type="unfinished">Il parametro &quot;extensionName&quot; non è stato specificato</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2040"/>
@@ -21612,22 +21613,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2118"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
-        <translation type="unfinished">Impossibile aggiornare le informazioni sull'estensione dal server: tempo di attesa superato durante l'attesa della risposta del server da %1</translation>
+        <translation type="unfinished">Impossibile aggiornare le informazioni sull&apos;estensione dal server: tempo di attesa superato durante l&apos;attesa della risposta del server da %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2171"/>
         <source>Failed to download extension metadata from server</source>
-        <translation type="unfinished">Impossibile scaricare i metadati dell'estensione dal server</translation>
+        <translation type="unfinished">Impossibile scaricare i metadati dell&apos;estensione dal server</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2189"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
-        <translation type="unfinished">Nella risposta dei metadati dell&apos;estensione manca il campo obbligatorio "extensionname"</translation>
+        <translation type="unfinished">Nella risposta dei metadati dell&apos;estensione manca il campo obbligatorio &quot;extensionname&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2221"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
-        <translation type="unfinished">Risposta al controllo degli aggiornamenti per l&apos;estensione %1: manca il campo obbligatorio "extension_id" o "revision"</translation>
+        <translation type="unfinished">Risposta al controllo degli aggiornamenti per l&apos;estensione %1: manca il campo obbligatorio &quot;extension_id&quot; o &quot;revision&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2232"/>
@@ -21637,12 +21638,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2303"/>
         <source>Failed downloading %1 extension from %2</source>
-        <translation type="unfinished">Impossibile scaricare l'estensione %1 da %2</translation>
+        <translation type="unfinished">Impossibile scaricare l&apos;estensione %1 da %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2318"/>
         <source>Could not create .updates directory for update archive in %1</source>
-        <translation type="unfinished">Impossibile creare la directory .updates per l'archivio degli aggiornamenti in %1</translation>
+        <translation type="unfinished">Impossibile creare la directory .updates per l&apos;archivio degli aggiornamenti in %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2336"/>
@@ -21654,43 +21655,43 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2398"/>
         <source>Missing download information for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Mancano le informazioni sul download per l'estensione %1</translation>
+        <translation type="unfinished">Mancano le informazioni sul download per l&apos;estensione %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2428"/>
         <source>%1 extension scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Aggiornamento previsto per l'estensione %1</translation>
+        <translation type="unfinished">Aggiornamento previsto per l&apos;estensione %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2472"/>
         <source>Failed to update %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Impossibile aggiornare l'estensione %1</translation>
+        <translation type="unfinished">Impossibile aggiornare l&apos;estensione %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2479"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Impossibile aggiornare l'estensione %1: non è previsto alcun aggiornamento</translation>
+        <translation type="unfinished">Impossibile aggiornare l&apos;estensione %1: non è previsto alcun aggiornamento</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2599"/>
         <source>Failed to uninstall %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Impossibile disinstallare l'estensione %1</translation>
+        <translation type="unfinished">Impossibile disinstallare l&apos;estensione %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2606"/>
         <source>Failed to uninstall %1 extension: extension is already loaded</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">Impossibile disinstallare l'estensione %1: l'estensione è già caricata</translation>
+        <translation type="unfinished">Impossibile disinstallare l&apos;estensione %1: l&apos;estensione è già caricata</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2877"/>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished">L'estensione %1 è incompatibile</translation>
+        <translation type="unfinished">L&apos;estensione %1 è incompatibile</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3094"/>
@@ -21702,7 +21703,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3102"/>
         <source>Failed to extract %1 extension archive %2 into directory %3</source>
         <extracomment>%1 is extension name, %2 is extension package file path, %3 is destination path</extracomment>
-        <translation type="unfinished">Impossibile estrarre l'archivio con estensione %1 nella directory %2</translation>
+        <translation type="unfinished">Impossibile estrarre l&apos;archivio con estensione %1 nella directory %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3144"/>
@@ -21811,7 +21812,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="112"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
-        <translation type="unfinished">Il gestore delle estensioni richiede l'installazione di &lt;em&gt;3D Slicer&lt;/em&gt;. Aprire il file immagine disco (.dmg), trascinare &lt;em&gt;Slicer.app&lt;/em&gt; nella cartella &lt;em&gt;Applicazioni&lt;/em&gt; e avviare &lt;em&gt;3D Slicer&lt;/em&gt; dalla cartella &lt;em&gt;Applicazioni&lt;/em&gt;.</translation>
+        <translation type="unfinished">Il gestore delle estensioni richiede l&apos;installazione di &lt;em&gt;3D Slicer&lt;/em&gt;. Aprire il file immagine disco (.dmg), trascinare &lt;em&gt;Slicer.app&lt;/em&gt; nella cartella &lt;em&gt;Applicazioni&lt;/em&gt; e avviare &lt;em&gt;3D Slicer&lt;/em&gt; dalla cartella &lt;em&gt;Applicazioni&lt;/em&gt;.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="118"/>
@@ -21901,7 +21902,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="152"/>
         <source>Edit list of bookmarks in a text field</source>
-        <translation type="unfinished">Modifica l'elenco dei segnalibri in un campo di testo</translation>
+        <translation type="unfinished">Modifica l&apos;elenco dei segnalibri in un campo di testo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="157"/>
@@ -22858,7 +22859,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="155"/>
         <source>Show &amp;Module Panel</source>
-        <translation type="unfinished">Pannello "Mostra e moduli"</translation>
+        <translation type="unfinished">Pannello &quot;Mostra e moduli&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="179"/>
@@ -23369,7 +23370,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="269"/>
         <source>Set visibility flag to on for all control points in the active markup</source>
-        <translation type="unfinished">Imposta il flag di visibilità su "On" per tutti i punti di controllo nell'annotazione attiva</translation>
+        <translation type="unfinished">Imposta il flag di visibilità su &quot;On&quot; per tutti i punti di controllo nell&apos;annotazione attiva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="274"/>
@@ -23384,7 +23385,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="292"/>
         <source>Set lock flag to on for all control points in the active markup</source>
-        <translation type="unfinished">Impostare il flag di blocco su "On" per tutti i punti di controllo nel markup attivo</translation>
+        <translation type="unfinished">Impostare il flag di blocco su &quot;On&quot; per tutti i punti di controllo nel markup attivo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="297"/>
@@ -23404,7 +23405,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="315"/>
         <source>Set selected flag to on for all control points in the active markup</source>
-        <translation type="unfinished">Imposta il flag selezionato su "On" per tutti i punti di controllo nell'annotazione attiva</translation>
+        <translation type="unfinished">Imposta il flag selezionato su &quot;On&quot; per tutti i punti di controllo nell&apos;annotazione attiva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="320"/>
@@ -23460,7 +23461,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished">Fare clic in questa colonna per modificare lo stato della posizione del punto di controllo.
 
 - Modifica: passa alla modalità di inserimento per modificare la posizione del punto di controllo nelle viste di sezione
-- Salta: la modalità "Inserisci più punti di controllo" salta l&apos;inserimento del punto di controllo
+- Salta: la modalità &quot;Inserisci più punti di controllo&quot; salta l&apos;inserimento del punto di controllo
 - Ripristina: riporta la posizione del punto di controllo all&apos;ultima posizione nota
 - Cancella: cancella la posizione definita del punto di controllo, senza però eliminarlo</translation>
     </message>
@@ -23472,12 +23473,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="933"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation type="unfinished">Clicca qui per sbloccare l'elenco dei punti di controllo in modo da poterli spostare con il mouse</translation>
+        <translation type="unfinished">Clicca qui per sbloccare l&apos;elenco dei punti di controllo in modo da poterli spostare con il mouse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="938"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation type="unfinished">Clicca qui per bloccare l'elenco dei punti di controllo in modo che non possano essere spostati con il mouse</translation>
+        <translation type="unfinished">Clicca qui per bloccare l&apos;elenco dei punti di controllo in modo che non possano essere spostati con il mouse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="944"/>
@@ -23493,7 +23494,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1544"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1751"/>
         <source>Confirm control point deletion</source>
-        <translation type="unfinished">Conferma l'eliminazione del punto di controllo</translation>
+        <translation type="unfinished">Conferma l&apos;eliminazione del punto di controllo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1545"/>
@@ -23538,7 +23539,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2244"/>
         <source>Skip placement of highlighted control point(s)</source>
-        <translation type="unfinished">Salta l'inserimento dei punti di controllo evidenziati</translation>
+        <translation type="unfinished">Salta l&apos;inserimento dei punti di controllo evidenziati</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2248"/>
@@ -23720,7 +23721,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="544"/>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished">Posizione non definita dell'ultimo punto di controllo inserito (il punto di controllo non verrà eliminato).</translation>
+        <translation type="unfinished">Posizione non definita dell&apos;ultimo punto di controllo inserito (il punto di controllo non verrà eliminato).</translation>
     </message>
 </context>
 <context>
@@ -23936,7 +23937,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished">Il modulo Modelli carica e regola i parametri di visualizzazione dei modelli, quali Colore, Trasparenza e Ritaglio.&lt;br&gt;È possibile salvare i modelli tramite il menu File, pulsante Salva.&lt;br&gt;Il pulsante Aggiungi modello 3D o directory di modelli consente di caricare qualsiasi modello leggibile da Slicer, nonché tutti i modelli VTK presenti in una directory. "Aggiungi sovrapposizione scalare" caricherà un file scalare e lo assocerà al modello attualmente attivo.&lt;br&gt;È possibile regolare le proprietà di visualizzazione dei modelli nel riquadro "Visualizza". Selezionare il modello su cui si desidera lavorare dal menu a tendina del selettore di modelli. Le sovrapposizioni scalari vengono caricate con una tabella di ricerca dei colori predefinita, ma possono essere riassegnate manualmente. Una volta scelta una nuova sovrapposizione scalare, attualmente viene ancora utilizzata la vecchia mappa dei colori, che deve quindi essere regolata insieme alla sovrapposizione.&lt;br&gt;Il ritaglio è attivato per un modello nel pannello Visualizza, e i piani di sezione che ritaglieranno il modello vengono selezionati nel pannello Ritaglio.&lt;br&gt;Il pannello Gerarchia del modello consente di raggruppare i modelli e di impostare le proprietà del gruppo.</translation>
+        <translation type="unfinished">Il modulo Modelli carica e regola i parametri di visualizzazione dei modelli, quali Colore, Trasparenza e Ritaglio.&lt;br&gt;È possibile salvare i modelli tramite il menu File, pulsante Salva.&lt;br&gt;Il pulsante Aggiungi modello 3D o directory di modelli consente di caricare qualsiasi modello leggibile da Slicer, nonché tutti i modelli VTK presenti in una directory. &quot;Aggiungi sovrapposizione scalare&quot; caricherà un file scalare e lo assocerà al modello attualmente attivo.&lt;br&gt;È possibile regolare le proprietà di visualizzazione dei modelli nel riquadro &quot;Visualizza&quot;. Selezionare il modello su cui si desidera lavorare dal menu a tendina del selettore di modelli. Le sovrapposizioni scalari vengono caricate con una tabella di ricerca dei colori predefinita, ma possono essere riassegnate manualmente. Una volta scelta una nuova sovrapposizione scalare, attualmente viene ancora utilizzata la vecchia mappa dei colori, che deve quindi essere regolata insieme alla sovrapposizione.&lt;br&gt;Il ritaglio è attivato per un modello nel pannello Visualizza, e i piani di sezione che ritaglieranno il modello vengono selezionati nel pannello Ritaglio.&lt;br&gt;Il pannello Gerarchia del modello consente di raggruppare i modelli e di impostare le proprietà del gruppo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="95"/>
@@ -24373,7 +24374,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="78"/>
         <source>This module was originally developed by Davide Punzo, Kapteyn Astronomical Institute, and was supported through the European Research Council grant nr. 291531.</source>
-        <translation type="unfinished">Questo modulo è stato originariamente sviluppato da Davide Punzo, dell'Istituto Astronomico Kapteyn, ed è stato finanziato dalla sovvenzione n. 291531 del Consiglio europeo della ricerca.</translation>
+        <translation type="unfinished">Questo modulo è stato originariamente sviluppato da Davide Punzo, dell&apos;Istituto Astronomico Kapteyn, ed è stato finanziato dalla sovvenzione n. 291531 del Consiglio europeo della ricerca.</translation>
     </message>
 </context>
 <context>
@@ -24437,7 +24438,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="60"/>
         <source>The Transforms Reformat Widget Module creates and edits the Slice Node transforms.</source>
-        <translation type="unfinished">Il modulo "Transforms Reformat Widget" crea e modifica le trasformazioni del nodo Slice.</translation>
+        <translation type="unfinished">Il modulo &quot;Transforms Reformat Widget&quot; crea e modifica le trasformazioni del nodo Slice.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="70"/>
@@ -24558,12 +24559,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="383"/>
         <source>Rotate around the slice vertical axis</source>
-        <translation type="unfinished">Ruota attorno all'asse verticale della sezione</translation>
+        <translation type="unfinished">Ruota attorno all&apos;asse verticale della sezione</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="405"/>
         <source>Rotate around the slice horizontal axis</source>
-        <translation type="unfinished">Ruota attorno all'asse orizzontale della sezione</translation>
+        <translation type="unfinished">Ruota attorno all&apos;asse orizzontale della sezione</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="421"/>
@@ -24837,7 +24838,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
         <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
-        <translation type="unfinished">Se l'opzione è selezionata, le viste a sezioni mostreranno sezioni interpolate linearmente attraverso i volumi di input. Se deselezionata, indica il ricampionamento del vicino più prossimo.</translation>
+        <translation type="unfinished">Se l&apos;opzione è selezionata, le viste a sezioni mostreranno sezioni interpolate linearmente attraverso i volumi di input. Se deselezionata, indica il ricampionamento del vicino più prossimo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="96"/>
@@ -24847,12 +24848,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="103"/>
         <source>Reverse the order of colors in the lookup table to display this volume.</source>
-        <translation type="unfinished">Invertire l'ordine dei colori nella tabella di riferimento per visualizzare questo volume.</translation>
+        <translation type="unfinished">Invertire l&apos;ordine dei colori nella tabella di riferimento per visualizzare questo volume.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="149"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
-        <translation type="unfinished">Mostra il numero di pixel (asse y) in funzione dell'intensità dell'immagine (asse x) su uno sfondo che rappresenta la finestra/il livello corrente e la mappatura delle soglie.</translation>
+        <translation type="unfinished">Mostra il numero di pixel (asse y) in funzione dell&apos;intensità dell&apos;immagine (asse x) su uno sfondo che rappresenta la finestra/il livello corrente e la mappatura delle soglie.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="152"/>
@@ -24877,7 +24878,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="123"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished">Pacchetto "Realtà medica"</translation>
+        <translation type="unfinished">Pacchetto &quot;Realtà medica&quot;</translation>
     </message>
 </context>
 <context>
@@ -25036,7 +25037,7 @@ Questa opzione non influisce sul salvataggio del layout della vista e della disp
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished">Pacchetto "Realtà medica"</translation>
+        <translation type="unfinished">Pacchetto &quot;Realtà medica&quot;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="85"/>
@@ -25131,7 +25132,7 @@ Please choose an empty directory.</translation>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1391"/>
         <source>Set the paint brush size as a percentage of screen height or physical size</source>
         <oldsource>Set the paint brush size as percentage of screen size or as fixed length</oldsource>
-        <translation type="unfinished">Imposta la dimensione del pennello come percentuale dell'altezza dello schermo o come dimensione fisica</translation>
+        <translation type="unfinished">Imposta la dimensione del pennello come percentuale dell&apos;altezza dello schermo o come dimensione fisica</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1401"/>
@@ -25151,7 +25152,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1406"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
-        <translation type="unfinished">Consenti la selezione nell'area di visualizzazione 3D. Se questa opzione è abilitata, cliccando e trascinando in una vista 3D si seleziona l'area di visualizzazione anziché ruotarla.</translation>
+        <translation type="unfinished">Consenti la selezione nell&apos;area di visualizzazione 3D. Se questa opzione è abilitata, cliccando e trascinando in una vista 3D si seleziona l&apos;area di visualizzazione anziché ruotarla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1410"/>
@@ -25161,7 +25162,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1412"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
-        <translation type="unfinished">Seleziona il segmento rilevando la posizione del pixel in cui inizia la pennellata. Se la pennellata inizia in un'area vuota, il pennello cancella la regione evidenziata dal segmento selezionato.</translation>
+        <translation type="unfinished">Seleziona il segmento rilevando la posizione del pixel in cui inizia la pennellata. Se la pennellata inizia in un&apos;area vuota, il pennello cancella la regione evidenziata dal segmento selezionato.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1419"/>
@@ -25171,7 +25172,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1420"/>
         <source>If not checked then highlighted area is erased from all segments. If unchecked then only area is only erased from selected segment.</source>
-        <translation type="unfinished">Se l'opzione non è selezionata, l'area evidenziata viene cancellata da tutti i segmenti. Se l'opzione è deselezionata, l'area viene cancellata solo dal segmento selezionato.</translation>
+        <translation type="unfinished">Se l&apos;opzione non è selezionata, l&apos;area evidenziata viene cancellata da tutti i segmenti. Se l&apos;opzione è deselezionata, l&apos;area viene cancellata solo dal segmento selezionato.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1427"/>
@@ -25181,7 +25182,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1428"/>
         <source>Paint exactly the pixel under the cursor, ignoring the diameter, threshold, and paint over.</source>
-        <translation type="unfinished">Disegna esattamente il pixel sotto il cursore, ignorando il diametro, la soglia e l'opzione "disegna sopra".</translation>
+        <translation type="unfinished">Disegna esattamente il pixel sotto il cursore, ignorando il diametro, la soglia e l&apos;opzione &quot;disegna sopra&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1531"/>
@@ -25199,27 +25200,27 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1177"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
-        <translation type="unfinished">Taglia l'intero segmento dal punto di vista corrente&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Trascinamento con il tasto sinistro del mouse:&lt;/b&gt; traccia un contorno.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; annulla.&lt;/ul&gt;&lt;p&gt;La modifica è disponibile sia nella vista a fette che in quella 3D. Nella vista a fette il taglio verrà applicato a tutte le fette.&lt;p&gt;</translation>
+        <translation type="unfinished">Taglia l&apos;intero segmento dal punto di vista corrente&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Trascinamento con il tasto sinistro del mouse:&lt;/b&gt; traccia un contorno.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; annulla.&lt;/ul&gt;&lt;p&gt;La modifica è disponibile sia nella vista a fette che in quella 3D. Nella vista a fette il taglio verrà applicato a tutte le fette.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1199"/>
         <source>Erase inside</source>
-        <translation type="unfinished">Cancella all'interno</translation>
+        <translation type="unfinished">Cancella all&apos;interno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1200"/>
         <source>Erase outside</source>
-        <translation type="unfinished">Cancella all'esterno</translation>
+        <translation type="unfinished">Cancella all&apos;esterno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1201"/>
         <source>Fill inside</source>
-        <translation type="unfinished">Compilare all'interno</translation>
+        <translation type="unfinished">Compilare all&apos;interno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
         <source>Fill outside</source>
-        <translation type="unfinished">Riempire all'esterno</translation>
+        <translation type="unfinished">Riempire all&apos;esterno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
@@ -25249,7 +25250,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
-        <translation type="unfinished">Se l'opzione è selezionata, il punto di clic definisce il centro del cerchio o del rettangolo; in caso contrario, il punto di clic si trova sul bordo della figura.</translation>
+        <translation type="unfinished">Se l&apos;opzione è selezionata, il punto di clic definisce il centro del cerchio o del rettangolo; in caso contrario, il punto di clic si trova sul bordo della figura.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
@@ -25397,7 +25398,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="191"/>
         <source>Go to Segment Editor module</source>
-        <translation type="unfinished">Vai al modulo "Editor dei segmenti"</translation>
+        <translation type="unfinished">Vai al modulo &quot;Editor dei segmenti&quot;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
@@ -25629,7 +25630,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="99"/>
         <source>Segmentations module manages segmentations. Each segmentation can contain multiple segments, which correspond to one structure or ROI. Each segment can contain multiple data representations for the same structure, and the module supports automatic conversion between these representations as well as advanced display settings and import/export features.</source>
-        <translation type="unfinished">Il modulo "Segmentazioni" gestisce le segmentazioni. Ogni segmentazione può contenere più segmenti, che corrispondono a una struttura o a un'area di interesse (ROI). Ogni segmento può contenere più rappresentazioni dei dati relative alla stessa struttura; il modulo supporta la conversione automatica tra queste rappresentazioni, oltre a impostazioni di visualizzazione avanzate e funzioni di importazione/esportazione.</translation>
+        <translation type="unfinished">Il modulo &quot;Segmentazioni&quot; gestisce le segmentazioni. Ogni segmentazione può contenere più segmenti, che corrispondono a una struttura o a un&apos;area di interesse (ROI). Ogni segmento può contenere più rappresentazioni dei dati relative alla stessa struttura; il modulo supporta la conversione automatica tra queste rappresentazioni, oltre a impostazioni di visualizzazione avanzate e funzioni di importazione/esportazione.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="111"/>
@@ -25706,7 +25707,7 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation type="unfinished">Impossibile convertire la rappresentazione di origine "%1" nella rappresentazione di destinazione "%2"; pertanto, non è possibile copiare il segmento "%3" dalla segmentazione "%4" a "%5".
+        <translation type="unfinished">Impossibile convertire la rappresentazione di origine &quot;%1&quot; nella rappresentazione di destinazione &quot;%2&quot;; pertanto, non è possibile copiare il segmento &quot;%3&quot; dalla segmentazione &quot;%4&quot; a &quot;%5&quot;.
 
 Vuoi cambiare la rappresentazione sorgente di &apos;%5&apos; in &apos;%1&apos;?
 
@@ -25730,12 +25731,12 @@ Nota: questo potrebbe causare una perdita di dati indesiderata in %5.</translati
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="895"/>
         <source>Export may erase data</source>
-        <translation type="unfinished">L'esportazione potrebbe cancellare i dati</translation>
+        <translation type="unfinished">L&apos;esportazione potrebbe cancellare i dati</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="900"/>
         <source>Segmentations/AlwaysCropDuringSegmentationNodeExport</source>
-        <translation type="unfinished">Segmentazioni/Ritaglia sempre durante l'esportazione dei nodi di segmentazione</translation>
+        <translation type="unfinished">Segmentazioni/Ritaglia sempre durante l&apos;esportazione dei nodi di segmentazione</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="901"/>
@@ -25875,7 +25876,7 @@ Probabilmente il segmento non può essere convertito in una rappresentazione a s
 Note: This applies to segment tables in Segment Editor and Segmentations modules, but other modules may choose to use custom setting that is not controlled by this checkbox.</source>
         <translation type="unfinished">Se questa opzione è abilitata, facendo doppio clic sul nome o sul colore di un segmento nelle tabelle dei segmenti si apre il selettore di terminologia. In caso contrario, è possibile modificare semplicemente il nome e il colore. Impostazione predefinita: True.
 
-Nota: questa impostazione si applica alle tabelle dei segmenti nei moduli "Segment Editor" e "Segmentations", ma altri moduli potrebbero utilizzare impostazioni personalizzate non controllate da questa casella di controllo.</translation>
+Nota: questa impostazione si applica alle tabelle dei segmenti nei moduli &quot;Segment Editor&quot; e &quot;Segmentations&quot;, ma altri moduli potrebbero utilizzare impostazioni personalizzate non controllate da questa casella di controllo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="71"/>
@@ -25933,7 +25934,7 @@ Nota: questa impostazione si applica alle tabelle dei segmenti nei moduli "Segme
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="117"/>
         <source>Ask user</source>
-        <translation type="unfinished">Chiedi all'utente</translation>
+        <translation type="unfinished">Chiedi all&apos;utente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="118"/>
@@ -26424,7 +26425,7 @@ Nota: questa impostazione si applica alle tabelle dei segmenti nei moduli "Segme
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="44"/>
         <source>Hide Extensions Manager from the application user interface. Automatic updates are performed even if the Extensions Manager is disabled.</source>
-        <translation type="unfinished">Nascondi Gestione estensioni dall'interfaccia utente dell'applicazione. Gli aggiornamenti automatici vengono eseguiti anche se Gestione estensioni è disattivata.</translation>
+        <translation type="unfinished">Nascondi Gestione estensioni dall&apos;interfaccia utente dell&apos;applicazione. Gli aggiornamenti automatici vengono eseguiti anche se Gestione estensioni è disattivata.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
@@ -26606,17 +26607,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="204"/>
         <source>Periodically check for available application updates</source>
-        <translation type="unfinished">Controlla periodicamente se sono disponibili aggiornamenti per l'applicazione</translation>
+        <translation type="unfinished">Controlla periodicamente se sono disponibili aggiornamenti per l&apos;applicazione</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="217"/>
         <source>Update server URL:</source>
-        <translation type="unfinished">Aggiornamento dell'URL del server:</translation>
+        <translation type="unfinished">Aggiornamento dell&apos;URL del server:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="224"/>
         <source>Address of the server that provides information on latest available application version.</source>
-        <translation type="unfinished">Indirizzo del server che fornisce informazioni sull'ultima versione disponibile dell'applicazione.</translation>
+        <translation type="unfinished">Indirizzo del server che fornisce informazioni sull&apos;ultima versione disponibile dell&apos;applicazione.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="231"/>
@@ -26626,7 +26627,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="238"/>
         <source>Limit the maximum length of filenames. For compatibility with Windows systems, a low value such as 50 is recommended. Set a higher value to allow using longer filenames that match long node names.</source>
-        <translation type="unfinished">Limitare la lunghezza massima dei nomi dei file. Per garantire la compatibilità con i sistemi Windows, si consiglia di impostare un valore basso, ad esempio 50. Impostare un valore più alto per consentire l'uso di nomi di file più lunghi che corrispondano a nomi di nodi estesi.</translation>
+        <translation type="unfinished">Limitare la lunghezza massima dei nomi dei file. Per garantire la compatibilità con i sistemi Windows, si consiglia di impostare un valore basso, ad esempio 50. Impostare un valore più alto per consentire l&apos;uso di nomi di file più lunghi che corrispondano a nomi di nodi estesi.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="110"/>
@@ -26652,7 +26653,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="199"/>
         <source>Max. number of &apos;Recent&apos; menu items</source>
-        <translation type="unfinished">Numero massimo di voci nel menu "Recenti"</translation>
+        <translation type="unfinished">Numero massimo di voci nel menu &quot;Recenti&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="212"/>
@@ -26675,7 +26676,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="69"/>
         <source>Enable/Disable Internationalization</source>
-        <translation type="unfinished">Abilita/Disabilita l'internazionalizzazione</translation>
+        <translation type="unfinished">Abilita/Disabilita l&apos;internazionalizzazione</translation>
     </message>
 </context>
 <context>
@@ -26981,7 +26982,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="105"/>
         <source>Display Python console in a window that can be placed inside the main window.</source>
-        <translation type="unfinished">Visualizza la console Python in una finestra che può essere posizionata all'interno della finestra principale.</translation>
+        <translation type="unfinished">Visualizza la console Python in una finestra che può essere posizionata all&apos;interno della finestra principale.</translation>
     </message>
 </context>
 <context>
@@ -27375,7 +27376,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="412"/>
         <source>Intensity offset:</source>
-        <translation type="unfinished">Compensazione dell'intensità:</translation>
+        <translation type="unfinished">Compensazione dell&apos;intensità:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="449"/>
@@ -27403,12 +27404,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="92"/>
         <source>Slice view orientation marker type</source>
-        <translation type="unfinished">Tipo di indicatore dell'orientamento della vista in sezione</translation>
+        <translation type="unfinished">Tipo di indicatore dell&apos;orientamento della vista in sezione</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="99"/>
         <source>Slice view orientation marker size</source>
-        <translation type="unfinished">Dimensione dell'indicatore di orientamento della vista in sezione</translation>
+        <translation type="unfinished">Dimensione dell&apos;indicatore di orientamento della vista in sezione</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
@@ -27453,7 +27454,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="148"/>
         <source>3D view orientation marker size</source>
-        <translation type="unfinished">Dimensione dell'indicatore di orientamento nella vista 3D</translation>
+        <translation type="unfinished">Dimensione dell&apos;indicatore di orientamento nella vista 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="155"/>
@@ -27493,7 +27494,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="191"/>
         <source>Ambient shadows intensity shift</source>
-        <translation type="unfinished">Variazione dell'intensità delle ombre ambientali</translation>
+        <translation type="unfinished">Variazione dell&apos;intensità delle ombre ambientali</translation>
     </message>
 </context>
 <context>
@@ -27544,7 +27545,7 @@ p, li { white-space: pre-wrap; }
         <source>Click to cycle through position states:
 Defined -&gt; Undefined (by clearing position) -&gt; Preview (by entering into place mode) -&gt; Missing (by marking as skip from placement) -&gt; Defined (by restoring last position)</source>
         <translation type="unfinished">Clicca per scorrere le diverse condizioni della posizione:
-Definita -&gt; Non definita (azzerando la posizione) -&gt; Anteprima (passando alla modalità di posizionamento) -&gt; Mancante (contrassegnandola come da saltare durante il posizionamento) -&gt; Definita (ripristinando l'ultima posizione)</translation>
+Definita -&gt; Non definita (azzerando la posizione) -&gt; Anteprima (passando alla modalità di posizionamento) -&gt; Mancante (contrassegnandola come da saltare durante il posizionamento) -&gt; Definita (ripristinando l&apos;ultima posizione)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="487"/>
@@ -27554,7 +27555,7 @@ Definita -&gt; Non definita (azzerando la posizione) -&gt; Anteprima (passando a
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="488"/>
         <source>Move current control point up</source>
-        <translation type="unfinished">Sposta il punto di controllo corrente verso l'alto</translation>
+        <translation type="unfinished">Sposta il punto di controllo corrente verso l&apos;alto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="489"/>
@@ -27633,8 +27634,8 @@ Click Cancel, to create the patient/study hierarchy manually and drag-and-drop t
 Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
 
 If you&apos;d like to create the hierarchy manually, please click Cancel, then create a patient by right-clicking the empty area in Subject hierarchy in the Data module and choosing &apos;Create new subject&apos;. Study can be similarly created under the patient. The data to export can be drag&amp;dropped under the study.</oldsource>
-        <translation type="unfinished">I dati da esportare devono trovarsi all'interno di una voce di studio, a sua volta inserita in una voce paziente nella gerarchia dei soggetti.
-Verranno creati automaticamente un paziente e uno studio predefiniti, e i dati selezionati e i relativi set di dati verranno spostati al loro interno per l'esportazione.
+        <translation type="unfinished">I dati da esportare devono trovarsi all&apos;interno di una voce di studio, a sua volta inserita in una voce paziente nella gerarchia dei soggetti.
+Verranno creati automaticamente un paziente e uno studio predefiniti, e i dati selezionati e i relativi set di dati verranno spostati al loro interno per l&apos;esportazione.
 
 Fare clic su Annulla per creare manualmente la gerarchia paziente/studio e trascinare i dati esportabili sotto lo studio.</translation>
     </message>
@@ -27728,7 +27729,7 @@ Fare clic su Annulla per creare manualmente la gerarchia paziente/studio e trasc
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="110"/>
         <source>If on, then children items will inherit the display properties (e.g. color or opacity) set to the folder</source>
-        <translation type="unfinished">Se questa opzione è attiva, gli elementi secondari erediteranno le proprietà di visualizzazione (ad esempio il colore o l'opacità) impostate per la cartella</translation>
+        <translation type="unfinished">Se questa opzione è attiva, gli elementi secondari erediteranno le proprietà di visualizzazione (ad esempio il colore o l&apos;opacità) impostate per la cartella</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="115"/>
@@ -27738,7 +27739,7 @@ Fare clic su Annulla per creare manualmente la gerarchia paziente/studio e trasc
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation type="unfinished">Se l'opzione è attiva, vengono visualizzate le cartelle che non contengono nodi (ammesse da qualsiasi filtro); in caso contrario, non vengono visualizzate</translation>
+        <translation type="unfinished">Se l&apos;opzione è attiva, vengono visualizzate le cartelle che non contengono nodi (ammesse da qualsiasi filtro); in caso contrario, non vengono visualizzate</translation>
     </message>
 </context>
 <context>
@@ -27951,7 +27952,7 @@ Fare clic su Annulla per creare manualmente la gerarchia paziente/studio e trasc
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="95"/>
         <source>Set item opacity in the sub-menu</source>
-        <translation type="unfinished">Imposta l'opacità dell'elemento nel sottomenu</translation>
+        <translation type="unfinished">Imposta l&apos;opacità dell&apos;elemento nel sottomenu</translation>
     </message>
 </context>
 <context>
@@ -28116,7 +28117,7 @@ Note: This may result in unwanted data loss in %4.</source>
 Would you like to change the master representation of &apos;%4&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %4.</oldsource>
-        <translation type="unfinished">Impossibile convertire la rappresentazione di origine "%1" nella rappresentazione di destinazione "%2"; pertanto, non è possibile importare il nodo "%3" nella segmentazione "%4".
+        <translation type="unfinished">Impossibile convertire la rappresentazione di origine &quot;%1&quot; nella rappresentazione di destinazione &quot;%2&quot;; pertanto, non è possibile importare il nodo &quot;%3&quot; nella segmentazione &quot;%4&quot;.
 
 Vuoi cambiare la rappresentazione sorgente di &apos;%4&apos; in &apos;%1&apos;?
 
@@ -28269,13 +28270,13 @@ Si prega di visitare il modulo Segmentazione e provare la funzione avanzata di c
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="133"/>
         <source>Set segment opacity in the sub-menu</source>
-        <translation type="unfinished">Imposta l'opacità del segmento nel sottomenu</translation>
+        <translation type="unfinished">Imposta l&apos;opacità del segmento nel sottomenu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="240"/>
         <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
 Please check the error window for details.</source>
-        <translation type="unfinished">L'ID del segmento spostato (%1) potrebbe essere già presente nella segmentazione di destinazione.
+        <translation type="unfinished">L&apos;ID del segmento spostato (%1) potrebbe essere già presente nella segmentazione di destinazione.
 Per ulteriori dettagli, consultare la finestra degli errori.</translation>
     </message>
     <message>
@@ -28296,7 +28297,7 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation type="unfinished">Impossibile convertire la rappresentazione di origine "%1" nella rappresentazione di destinazione "%2"; pertanto, non è possibile spostare il segmento "%3" dalla segmentazione "%4" a "%5".
+        <translation type="unfinished">Impossibile convertire la rappresentazione di origine &quot;%1&quot; nella rappresentazione di destinazione &quot;%2&quot;; pertanto, non è possibile spostare il segmento &quot;%3&quot; dalla segmentazione &quot;%4&quot; a &quot;%5&quot;.
 
 Vuoi cambiare la rappresentazione sorgente di &apos;%5&apos; in &apos;%1&apos;?
 
@@ -28405,7 +28406,7 @@ Tag: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="77"/>
         <source>Enable/disable automatic subject hierarchy children deletion</source>
-        <translation type="unfinished">Attiva/disattiva l'eliminazione automatica dei figli nella gerarchia degli argomenti</translation>
+        <translation type="unfinished">Attiva/disattiva l&apos;eliminazione automatica dei figli nella gerarchia degli argomenti</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="84"/>
@@ -28420,7 +28421,7 @@ Tag: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="96"/>
         <source>Include study ID in the name of the study item</source>
-        <translation type="unfinished">Includere l'ID dello studio nel nome dell'elemento dello studio</translation>
+        <translation type="unfinished">Includere l&apos;ID dello studio nel nome dell&apos;elemento dello studio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="102"/>
@@ -28443,7 +28444,7 @@ Tag: %6</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="176"/>
         <source>Reset transform to identity</source>
-        <translation type="unfinished">Ripristina la trasformazione all'identità</translation>
+        <translation type="unfinished">Ripristina la trasformazione all&apos;identità</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="181"/>
@@ -28681,7 +28682,7 @@ Tag: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="231"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished">Abilita la ricostruzione a sezione spessa (TSR). La TSR viene utilizzata per unire sezioni contigue all'interno di un determinato intervallo.</translation>
+        <translation type="unfinished">Abilita la ricostruzione a sezione spessa (TSR). La TSR viene utilizzata per unire sezioni contigue all&apos;interno di un determinato intervallo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="238"/>
@@ -28771,7 +28772,7 @@ Tag: %6</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="149"/>
         <source>Reset view orientation on show</source>
-        <translation type="unfinished">Ripristina l'orientamento della visualizzazione alla visualizzazione</translation>
+        <translation type="unfinished">Ripristina l&apos;orientamento della visualizzazione alla visualizzazione</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="156"/>
@@ -29164,7 +29165,7 @@ Tag: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="214"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished">Clicca qui per bloccare questa tabella ed impedire la modifica dei valori nell'interfaccia utente</translation>
+        <translation type="unfinished">Clicca qui per bloccare questa tabella ed impedire la modifica dei valori nell&apos;interfaccia utente</translation>
     </message>
 </context>
 <context>
@@ -29298,7 +29299,7 @@ Tag: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
         <source>Use automatically generated label and color from selected terminology:</source>
-        <translation type="unfinished">Utilizza l'etichetta e il colore generati automaticamente dalla terminologia selezionata:</translation>
+        <translation type="unfinished">Utilizza l&apos;etichetta e il colore generati automaticamente dalla terminologia selezionata:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
@@ -29895,7 +29896,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
         <source>Full slice intersection lines extending across the field of view.</source>
-        <translation type="unfinished">Linee di intersezione a sezione intera che attraversano l'intero campo visivo.</translation>
+        <translation type="unfinished">Linee di intersezione a sezione intera che attraversano l&apos;intero campo visivo.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="200"/>
@@ -29983,7 +29984,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="294"/>
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
-        <translation type="unfinished">Attiva/disattiva la visibilità dell'intersezione della sezione. Tieni premuto il tasto Maiusc e sposta il mouse in una vista per impostare la posizione dell'intersezione della sezione.</translation>
+        <translation type="unfinished">Attiva/disattiva la visibilità dell&apos;intersezione della sezione. Tieni premuto il tasto Maiusc e sposta il mouse in una vista per impostare la posizione dell&apos;intersezione della sezione.</translation>
     </message>
 </context>
 <context>
@@ -29996,7 +29997,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="80"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation type="unfinished">Il modulo di rendering volumetrico offre strumenti avanzati per attivare o disattivare il rendering volumetrico interattivo dei set di dati.&lt;br/&gt;Se supportato, è disponibile il rendering volumetrico con accelerazione hardware. Il modulo consente di selezionare funzioni di trasferimento predefinite per colorare e impostare l'opacità dei dati in modo adeguato all'attività, oltre a strumenti per personalizzare le funzioni di trasferimento che specificano tali parametri.&lt;br/&gt;</translation>
+        <translation type="unfinished">Il modulo di rendering volumetrico offre strumenti avanzati per attivare o disattivare il rendering volumetrico interattivo dei set di dati.&lt;br/&gt;Se supportato, è disponibile il rendering volumetrico con accelerazione hardware. Il modulo consente di selezionare funzioni di trasferimento predefinite per colorare e impostare l&apos;opacità dei dati in modo adeguato all&apos;attività, oltre a strumenti per personalizzare le funzioni di trasferimento che specificano tali parametri.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="100"/>
@@ -30388,7 +30389,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="73"/>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
-        <translation type="unfinished">Il modulo Volumi è l'interfaccia che consente di regolare i parametri Finestra, Livello, Soglia, LUT colore e altri parametri che controllano la visualizzazione dei dati delle immagini di volume nella scena.</translation>
+        <translation type="unfinished">Il modulo Volumi è l&apos;interfaccia che consente di regolare i parametri Finestra, Livello, Soglia, LUT colore e altri parametri che controllano la visualizzazione dei dati delle immagini di volume nella scena.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="91"/>
@@ -30569,7 +30570,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="62"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation type="unfinished">Questo lavoro è stato sostenuto da NA-MIC, NAC, BIRN, NCIGT, CTSC e dalla comunità Slicer. Per ulteriori dettagli, consultare &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;. Desideriamo inoltre esprimere i nostri sinceri ringraziamenti ai membri della Slicer User Community che ci hanno aiutato a progettare i contenuti di questo Modulo di Benvenuto e il cui feedback continua a migliorare la funzionalità, l'usabilità e l'esperienza utente di Slicer.</translation>
+        <translation type="unfinished">Questo lavoro è stato sostenuto da NA-MIC, NAC, BIRN, NCIGT, CTSC e dalla comunità Slicer. Per ulteriori dettagli, consultare &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;. Desideriamo inoltre esprimere i nostri sinceri ringraziamenti ai membri della Slicer User Community che ci hanno aiutato a progettare i contenuti di questo Modulo di Benvenuto e il cui feedback continua a migliorare la funzionalità, l&apos;usabilità e l&apos;esperienza utente di Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="45"/>
@@ -30628,7 +30629,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation type="unfinished">È disponibile una nuova versione dell'applicazione. Clicca sul pulsante per andare alla pagina di download.</translation>
+        <translation type="unfinished">È disponibile una nuova versione dell&apos;applicazione. Clicca sul pulsante per andare alla pagina di download.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
@@ -30657,7 +30658,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; è una piattaforma software gratuita e open source per l'elaborazione di immagini mediche e la visualizzazione 3D dei dati di immagine. Questo modulo contiene alcune informazioni di base e link utili per iniziare a utilizzare Slicer. Per ulteriori informazioni, visita il nostro sito web &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
+        <translation type="unfinished">&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; è una piattaforma software gratuita e open source per l&apos;elaborazione di immagini mediche e la visualizzazione 3D dei dati di immagine. Questo modulo contiene alcune informazioni di base e link utili per iniziare a utilizzare Slicer. Per ulteriori informazioni, visita il nostro sito web &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; è distribuito con una licenza di tipo BSD; per i dettagli sul contributo e sul contratto di licenza del software, consultare il &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Contratto di licenza del software 3D Slicer&lt;/a&gt;. Questo software è stato progettato esclusivamente a fini di ricerca e non è stato esaminato né approvato dalla Food and Drug Administration, né da qualsiasi altra agenzia.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -30738,7 +30739,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation type="unfinished">Controlla periodicamente la disponibilità di aggiornamenti. Si noti che verranno registrate statistiche di utilizzo in forma anonima. Se la casella appare parzialmente selezionata, significa che gli aggiornamenti automatici sono abilitati solo per l'applicazione o solo per le estensioni, ma non per entrambi: clicca sulla casella di controllo per abilitare o disabilitare tutti i controlli automatici degli aggiornamenti.</translation>
+        <translation type="unfinished">Controlla periodicamente la disponibilità di aggiornamenti. Si noti che verranno registrate statistiche di utilizzo in forma anonima. Se la casella appare parzialmente selezionata, significa che gli aggiornamenti automatici sono abilitati solo per l&apos;applicazione o solo per le estensioni, ma non per entrambi: clicca sulla casella di controllo per abilitare o disabilitare tutti i controlli automatici degli aggiornamenti.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
@@ -30753,7 +30754,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="419"/>
         <source>Application update: </source>
-        <translation type="unfinished">Aggiornamento dell'applicazione: </translation>
+        <translation type="unfinished">Aggiornamento dell&apos;applicazione: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="438"/>
@@ -30827,7 +30828,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="410"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished">È disponibile una nuova versione dell'applicazione: %1</translation>
+        <translation type="unfinished">È disponibile una nuova versione dell&apos;applicazione: %1</translation>
     </message>
 </context>
 <context>
@@ -30932,7 +30933,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="264"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
-        <translation type="unfinished">Il valore dell'etichetta non è specificato nel file dei colori alla riga %1. Si salta questa riga.</translation>
+        <translation type="unfinished">Il valore dell&apos;etichetta non è specificato nel file dei colori alla riga %1. Si salta questa riga.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="273"/>
@@ -31034,7 +31035,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLDiffusionImageVolumeNode.cxx" line="31"/>
         <source>Diffusion Image Volume</source>
-        <translation type="unfinished">Diffusione dell'immagine volumetrica</translation>
+        <translation type="unfinished">Diffusione dell&apos;immagine volumetrica</translation>
     </message>
 </context>
 <context>
@@ -31240,7 +31241,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="80"/>
         <source>OC</source>
-        <translation type="unfinished">Sono d'accordo</translation>
+        <translation type="unfinished">Sono d&apos;accordo</translation>
     </message>
 </context>
 <context>
@@ -31290,7 +31291,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="792"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">File CSV con punti di riferimento per l'annotazione</translation>
+        <translation type="unfinished">File CSV con punti di riferimento per l&apos;annotazione</translation>
     </message>
 </context>
 <context>
@@ -31504,7 +31505,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="824"/>
         <source>Wavefront Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">Rete a fronte d'onda</translation>
+        <translation type="unfinished">Rete a fronte d&apos;onda</translation>
     </message>
 </context>
 <context>
@@ -31536,7 +31537,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLPlotChartNode.cxx" line="50"/>
         <source>Plot Chart</source>
-        <translation type="unfinished">Grafico dell'andamento</translation>
+        <translation type="unfinished">Grafico dell&apos;andamento</translation>
     </message>
 </context>
 <context>
@@ -31980,27 +31981,27 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="645"/>
         <source>Error renaming file to &apos;%1&apos;, rename returned code %2</source>
-        <translation type="unfinished">Errore durante la ridenominazione del file in "%1"; il codice restituito dalla ridenominazione è %2</translation>
+        <translation type="unfinished">Errore durante la ridenominazione del file in &quot;%1&quot;; il codice restituito dalla ridenominazione è %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="718"/>
         <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished">Il formato di file VTK può memorizzare solo immagini orientate secondo l'asse LPS. L'orientamento dell'immagine salvata potrebbe non essere corretto. Per la memorizzazione di questa immagine si consiglia il formato di file NRRD.</translation>
+        <translation type="unfinished">Il formato di file VTK può memorizzare solo immagini orientate secondo l&apos;asse LPS. L&apos;orientamento dell&apos;immagine salvata potrebbe non essere corretto. Per la memorizzazione di questa immagine si consiglia il formato di file NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="749"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished">Il salvataggio di questa immagine in formato TIFF comporterà una perdita di informazioni (posizione, orientamento o spaziatura lungo il terzo asse dell'immagine). Per l'archiviazione di questa immagine si consiglia il formato di file NRRD.</translation>
+        <translation type="unfinished">Il salvataggio di questa immagine in formato TIFF comporterà una perdita di informazioni (posizione, orientamento o spaziatura lungo il terzo asse dell&apos;immagine). Per l&apos;archiviazione di questa immagine si consiglia il formato di file NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="762"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished">Si sconsiglia di utilizzare il formato di file Analyze, poiché le specifiche relative all'orientamento dell'immagine sono ambigue. Per l'archiviazione di questa immagine si consiglia il formato di file NRRD.</translation>
+        <translation type="unfinished">Si sconsiglia di utilizzare il formato di file Analyze, poiché le specifiche relative all&apos;orientamento dell&apos;immagine sono ambigue. Per l&apos;archiviazione di questa immagine si consiglia il formato di file NRRD.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="801"/>
         <source>Cannot write volume, image data is empty</source>
-        <translation type="unfinished">Impossibile scrivere sul volume, i dati dell'immagine sono vuoti</translation>
+        <translation type="unfinished">Impossibile scrivere sul volume, i dati dell&apos;immagine sono vuoti</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="850"/>
@@ -32010,7 +32011,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="858"/>
         <source>Failed to create directory &apos;%1&apos;</source>
-        <translation type="unfinished">Impossibile creare la directory "%1"</translation>
+        <translation type="unfinished">Impossibile creare la directory &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="902"/>
@@ -32025,7 +32026,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1027"/>
         <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
-        <translation type="unfinished">Il file archetipo "%1" non è stato scritto durante la scrittura di "%2" in "%3". Sono stati scritti solo i seguenti file "%4": "%5". Il nome precedente era "%6".</translation>
+        <translation type="unfinished">Il file archetipo &quot;%1&quot; non è stato scritto durante la scrittura di &quot;%2&quot; in &quot;%3&quot;. Sono stati scritti solo i seguenti file &quot;%4&quot;: &quot;%5&quot;. Il nome precedente era &quot;%6&quot;.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1055"/>
@@ -32085,7 +32086,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="337"/>
         <source>Fast clipping cannot be used with cropping enabled.</source>
-        <translation type="unfinished">La funzione di ritaglio rapido non può essere utilizzata se è attivata l'opzione di ritaglio.</translation>
+        <translation type="unfinished">La funzione di ritaglio rapido non può essere utilizzata se è attivata l&apos;opzione di ritaglio.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="346"/>
@@ -32095,7 +32096,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="372"/>
         <source>Fast clipping cannot use intersection clip type.</source>
-        <translation type="unfinished">Il ritaglio rapido non può utilizzare il tipo di ritaglio "Intersezione".</translation>
+        <translation type="unfinished">Il ritaglio rapido non può utilizzare il tipo di ritaglio &quot;Intersezione&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumeRenderingDisplayNode.cxx" line="390"/>
