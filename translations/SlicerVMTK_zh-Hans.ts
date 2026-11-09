@@ -988,62 +988,62 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="468"/>
         <source>paint</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="493"/>
         <source>Specify how to output point coordinates of the centerline.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定中心线各点坐标的输出方式。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="496"/>
         <source>Tab 2</source>
-        <translation type="unfinished"></translation>
+        <translation>页签 2</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="576"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行算法。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="579"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="507"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished"></translation>
+        <translation>坐标系：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="547"/>
         <source>Split coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>拆分坐标：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="554"/>
         <source>Split coordinate system values into three separate table columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>将三个坐标分量分别写入表格的三列。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="516"/>
         <source>Right-Anterior-Superior coordinate system. Used in the Slicer scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>右－前－上坐标系，Slicer 场景使用此坐标系。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="52"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>参数集将一项命名分析所需的参数保存在一起。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="97"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果指定了输入分割和体数据，则用这些数据更新分割编辑器和切片视图。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="100"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="392"/>
@@ -1054,52 +1054,58 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again. A &apos;fast fix&apos; function is also provided.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>统计管腔表面中互不连通的区域数。
+
+理想情况下只有一个连通域。多个连通域可能表示管腔有孔洞，或管腔之外存在孤立区域。孔洞会使截面积测量不准确。
+
+修补不需要的区域后，可再次运行此检查。通常可用「分割编辑器」的「绘制」工具修补，也可使用「快速修复」。
+
+完整修复管腔表面后，必须重新提取中心线，以更新最大内切球半径数组。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="478"/>
         <source>Replace the segment by the largest region.</source>
-        <translation type="unfinished"></translation>
+        <translation>仅保留该分段中最大的连通域。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="481"/>
         <source>fast fix</source>
-        <translation type="unfinished"></translation>
+        <translation>快速修复</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="519"/>
         <source>RAS (Slicer convention)</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS（Slicer 约定）</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="529"/>
         <source>Left-Posterior-Superior coordinate system. Used commonly in files.</source>
-        <translation type="unfinished"></translation>
+        <translation>左－后－上坐标系，常见于文件中。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="532"/>
         <source>LPS (DICOM convention)</source>
-        <translation type="unfinished"></translation>
+        <translation>LPS（DICOM 约定）</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="595"/>
         <source>Browse cross-sections</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览横截面</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="612"/>
         <source>Point index:</source>
-        <translation type="unfinished"></translation>
+        <translation>点索引：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="619"/>
         <source>Point of the centerline where the selected slice view should be moved</source>
-        <translation type="unfinished"></translation>
+        <translation>指定要将所选切片视图移到的中心线点</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="635"/>
         <source>Move slice view:</source>
-        <translation type="unfinished"></translation>
+        <translation>移动切片视图：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="644"/>
@@ -1125,149 +1131,153 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="687"/>
         <source>orthogonal</source>
-        <translation type="unfinished"></translation>
+        <translation>正交</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="700"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="805"/>
         <source>Axial:</source>
-        <translation type="unfinished"></translation>
+        <translation>轴位：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="815"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="850"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>绕切片视图的 Z 轴旋转，以恢复解剖方向</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="728"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="833"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="868"/>
         <source> deg</source>
-        <translation type="unfinished"></translation>
+        <translation> °</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>参数集：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
         <source>Rotation angle for longitudinal slice view</source>
-        <translation type="unfinished"></translation>
+        <translation>纵向切片视图的旋转角度</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="762"/>
         <source>Rotate:</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="769"/>
         <source>Longitudinal</source>
-        <translation type="unfinished"></translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="772"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="840"/>
         <source>Long.:</source>
-        <translation type="unfinished"></translation>
+        <translation>纵向：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="781"/>
         <source>Spin / Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转／翻转</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="875"/>
         <source>Flip:</source>
-        <translation type="unfinished"></translation>
+        <translation>翻转：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="884"/>
         <source>Flip the slice view horizontally.
 
 Concerns orthogonal reformat in axial navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>水平翻转切片视图。
+
+适用于轴位导航中的正交重建。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="889"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="896"/>
         <source>Flip the slice view vertically.
 
 Concerns orthogonal reformat in axial navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直翻转切片视图。
+
+适用于轴位导航中的正交重建。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="901"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="916"/>
         <source>Distance from origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>距原点距离：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="925"/>
         <source>Cumulative distance from start of centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>从中心线起点沿线累计的距离</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="938"/>
         <source>Set the current point as origin</source>
-        <translation type="unfinished"></translation>
+        <translation>将当前点设为原点</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="941"/>
         <source>set</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="951"/>
         <source>Go to origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到原点</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="451"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="954"/>
         <source>go to</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="969"/>
         <source>Coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>坐标：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="976"/>
         <source>RAS coordinate of selected point</source>
-        <translation type="unfinished"></translation>
+        <translation>所选点的 RAS 坐标</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1007"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
-        <translation type="unfinished"></translation>
+        <translation>所选点处的最大内切球（MIS）直径。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1020"/>
         <source>Jump to the smallest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到 MIS 直径最小的点。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1023"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1080"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1339"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>最小</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1030"/>
         <source>Jump to the largest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到 MIS 直径最大的点。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1033"/>
@@ -1275,57 +1285,57 @@ Concerns orthogonal reformat in axial navigation.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1308"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1346"/>
         <source>max</source>
-        <translation type="unfinished"></translation>
+        <translation>最大</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1040"/>
         <source>Show the maximum inscribed sphere diameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示最大内切球直径。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="998"/>
         <source>Diameter (MIS):</source>
-        <translation type="unfinished"></translation>
+        <translation>直径（MIS）：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1064"/>
         <source>Area of the cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>横截面的面积</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1077"/>
         <source>Jump to the smallest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到横截面积最小的点。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1090"/>
         <source>Jump to the largest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到横截面积最大的点。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1103"/>
         <source>Show cross-section at current point. Requires input lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示当前点处的横截面。需要输入管腔表面。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1055"/>
         <source>Cross-section area:</source>
-        <translation type="unfinished"></translation>
+        <translation>横截面积：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1118"/>
         <source>Diameter (CE):</source>
-        <translation type="unfinished"></translation>
+        <translation>直径（CE）：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1149"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>角度采用 Slicer 坐标系</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1142"/>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>方向：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1125"/>
@@ -1334,37 +1344,41 @@ Concerns orthogonal reformat in axial navigation.</source>
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>等效圆（CE）直径是面积与该横截面相同的圆的直径。
+
+同时给出它与最大内切球（MIS）直径之间的绝对差值和百分比差值。
+
+注意：分叉处的数值可能没有临床意义。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1167"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>由横截面积推算的等效圆直径。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1230"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>横截面积</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1190"/>
         <source>Lumen:</source>
-        <translation type="unfinished"></translation>
+        <translation>管腔：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1243"/>
         <source>Wall:</source>
-        <translation type="unfinished"></translation>
+        <translation>管壁：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1206"/>
         <source>Stenosis:</source>
-        <translation type="unfinished"></translation>
+        <translation>狭窄：</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到按横截面积计算的狭窄程度最大处。</translation>
     </message>
 </context>
 <context>
