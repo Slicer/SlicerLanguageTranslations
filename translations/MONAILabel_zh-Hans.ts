@@ -35,7 +35,7 @@ See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAIL
 </source>
         <translation>
 主动学习解决方案。
-更多信息请参阅&lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;模块文档&lt;/a&gt;。
+更多信息请参阅 &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;模块文档&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -170,12 +170,12 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="197"/>
         <source>Enable this option to include dicom files in server-client data exchange</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，客户端与服务器交换数据时会包含 DICOM 文件</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="200"/>
         <source>Include DICOM files:</source>
-        <translation type="unfinished"></translation>
+        <translation>包含 DICOM 文件：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="215"/>
@@ -959,7 +959,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="682"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="603"/>
         <source>Image Id: </source>
-        <translation>影像ID： </translation>
+        <translation>影像 ID： </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="683"/>
