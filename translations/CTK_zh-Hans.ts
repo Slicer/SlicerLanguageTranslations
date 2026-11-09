@@ -2026,7 +2026,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;根据标签、属性和值列中的内容过滤显示的元数据。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; 简单搜索：&lt;/span&gt;输入任何文本，只显示包含该文本的项目。使用 ? 和 * 通配符表示&lt;span style=&quot; font-style:italic;&quot;&gt;任何&lt;/span&gt;单个字符或字符序列。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; 正则表达式搜索（供高级用户使用）：&lt;/span&gt; 输入&lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; ，后面是一个正则表达式。例如，显示3个特定标签，输入：&lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;根据标签、属性和值列中的内容过滤显示的元数据。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;简单搜索： &lt;/span&gt;输入文字后，仅显示包含该文字的条目。使用 ? 和 * 通配符匹配 &lt;span style=&quot; font-style:italic;&quot;&gt;任意 &lt;/span&gt;单个字符或字符序列。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;正则表达式搜索（供高级用户使用）：&lt;/span&gt; 输入 &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; 后接正则表达式。例如，要显示 3 个指定标签，请输入 &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
@@ -2108,24 +2108,24 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="326"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="507"/>
         <source>MRN: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>患者编号：%1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="330"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="511"/>
         <source>Birth Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>出生日期：%1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="365"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="543"/>
         <source>Date added: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>入库时间：%1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientDelegate.cpp" line="515"/>
         <source>Sex: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>性别：%1</translation>
     </message>
 </context>
 <context>
@@ -2133,7 +2133,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMPatientModel.cpp" line="862"/>
         <source>Patients</source>
-        <translation type="unfinished"></translation>
+        <translation>患者</translation>
     </message>
 </context>
 <context>
@@ -2141,34 +2141,34 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="894"/>
         <source>Toggle between Tab Mode and List Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>在标签页模式与列表模式间切换</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="927"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1198"/>
         <source>Show all patients</source>
-        <translation type="unfinished"></translation>
+        <translation>显示所有患者</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="934"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1205"/>
         <source>Switch to Tab Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>切换到标签页模式</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="945"/>
         <source>Allowed servers:</source>
-        <translation type="unfinished"></translation>
+        <translation>允许的服务器：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1622"/>
         <source>Query in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在查询…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientView.cpp" line="1626"/>
         <source>No results found in the database</source>
-        <translation type="unfinished"></translation>
+        <translation>数据库中未找到结果</translation>
     </message>
 </context>
 <context>
@@ -2304,7 +2304,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="103"/>
         <source>Got move request</source>
-        <translation>收到 MOVE 请求</translation>
+        <translation>收到 C-MOVE 响应</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="134"/>
@@ -2323,7 +2323,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesDelegate.cpp" line="292"/>
         <source>Unknown Series</source>
-        <translation type="unfinished"></translation>
+        <translation>未知序列</translation>
     </message>
 </context>
 <context>
@@ -2521,12 +2521,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="384"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="387"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>放弃更改</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="598"/>
@@ -2580,17 +2580,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="361"/>
         <source>Anonomyzed study</source>
-        <translation type="unfinished"></translation>
+        <translation>匿名化检查</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="447"/>
         <source>%1/%2 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/%2 个序列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyDelegate.cpp" line="451"/>
         <source>%1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 个序列</translation>
     </message>
 </context>
 <context>
@@ -2599,22 +2599,22 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="404"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="409"/>
         <source>Load (%1k)</source>
-        <translation type="unfinished"></translation>
+        <translation>加载（%1 千个序列）</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="413"/>
         <source>Load (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>加载（%1 个序列）</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="526"/>
         <source>Load selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>加载所选序列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyListView.cpp" line="555"/>
         <source>Load</source>
-        <translation type="unfinished">加载</translation>
+        <translation>加载</translation>
     </message>
 </context>
 <context>
@@ -2890,17 +2890,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="87"/>
         <source>Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>筛选</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="117"/>
         <source> MRN...</source>
-        <translation type="unfinished"></translation>
+        <translation> 患者编号…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="130"/>
         <source> Name...</source>
-        <translation type="unfinished"></translation>
+        <translation> 姓名…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="189"/>
@@ -2920,12 +2920,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="163"/>
         <source> Study Description...</source>
-        <translation type="unfinished"></translation>
+        <translation> 检查描述…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="176"/>
         <source> Series Description ...</source>
-        <translation type="unfinished"></translation>
+        <translation> 序列描述…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="217"/>
@@ -2960,12 +2960,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="251"/>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="355"/>
         <source> Import </source>
-        <translation type="unfinished"></translation>
+        <translation> 导入 </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="268"/>
@@ -2977,12 +2977,14 @@ p, li { white-space: pre-wrap; }
         <source>Query and retrieve. If filters are set, a patient query will be sent to the DICOM servers.
 If no filters are set, a study query for the currently selected patient in the local database
 (or the first patient if none is selected) will be sent to the DICOM servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>查询并检索数据。如果已设置筛选条件，将向 DICOM 服务器发送患者查询。
+如果未设置筛选条件，将向 DICOM 服务器查询本地数据库中当前所选患者的检查
+（若未选择患者，则查询第一位患者的检查）。</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="309"/>
         <source>Query </source>
-        <translation type="unfinished"></translation>
+        <translation>查询 </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="332"/>
@@ -3066,69 +3068,72 @@ If no filters are set, a study query for the currently selected patient in the l
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="883"/>
         <source>No server is configured for query/retrieve operations. The server settings section is below.
 Check also the allowed servers at patient level.</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未配置用于查询或检索的服务器。服务器设置位于下方。
+请同时检查该患者允许使用的服务器。</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2481"/>
         <source>No server is configured for query/retrieve operations.
 The server settings section is below.</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未配置用于查询或检索的服务器。
+服务器设置位于下方。</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2494"/>
         <source>No filters are set and no patients are found in the local database.
 Please specify at least one filter to query the servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未设置筛选条件，本地数据库中也没有患者。
+请至少指定一个筛选条件，再查询服务器。</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2622"/>
         <source>The patients query provided no results. Please refine your filters in the search section.</source>
-        <translation type="unfinished"></translation>
+        <translation>未查询到患者。请在搜索区调整筛选条件。</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2996"/>
         <source>Load patient</source>
-        <translation type="unfinished"></translation>
+        <translation>加载患者数据</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2997"/>
         <source>Load %1 patients</source>
-        <translation type="unfinished"></translation>
+        <translation>加载 %1 位患者的数据</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3003"/>
         <source>View %1 patients DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>查看 %1 位患者的 DICOM 元数据</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3009"/>
         <source>Delete %1 patients from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>从本地数据库删除 %1 位患者的数据</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3016"/>
         <source>Export %1 patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>将 %1 位患者的数据导出到文件系统</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3022"/>
         <source>Send %1 patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>将 %1 位患者的数据发送到 DICOM 服务器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3114"/>
         <source>Force retrieve study</source>
-        <translation type="unfinished"></translation>
+        <translation>强制检索检查</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3115"/>
         <source>Force retrieve %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>强制检索 %1 项检查</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3229"/>
         <source>Force retrieve %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>强制检索 %1 个序列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3658"/>
@@ -3145,12 +3150,12 @@ Please specify at least one filter to query the servers.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="386"/>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>起始日期：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>结束日期：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1972"/>
