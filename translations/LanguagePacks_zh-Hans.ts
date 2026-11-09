@@ -16,7 +16,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="96"/>
         <source>Weblate API key:</source>
-        <translation type="unfinished">Weblate API 密钥：</translation>
+        <translation>Weblate API 密钥：</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="103"/>
@@ -26,12 +26,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="123"/>
         <source>Leave empty to use default (Qt lrelease tools that is bundled with the Slicer installer or available in system paths). Specify to use custom Qt lrelease executable.</source>
-        <translation type="unfinished">留空即使用默认设置（即随 Slicer 安装程序捆绑提供的 Qt lrelease 工具，或系统路径中可用的工具）。指定此选项以使用自定义的 Qt lrelease 可执行文件。</translation>
+        <translation>留空时，使用 Slicer 随附或系统路径中可用的 Qt lrelease 工具。若要使用自定义版本，请指定 lrelease 可执行文件的路径。</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="136"/>
         <source>Text Direction:</source>
-        <translation type="unfinished">文本方向：</translation>
+        <translation>文本方向：</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="210"/>
@@ -191,9 +191,9 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished">
-该模块可生成翻译文件并在本地安装。它非常适合用于创建和测试翻译。
-更多信息请参阅 &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;扩展程序文档&lt;/a&gt;。
+        <translation>
+此模块可生成翻译文件并在本地安装，便于创建和测试译文。
+详情请参阅 &lt;a href=&quot;https://github.com/SoniaPujolLab/SlicerLanguagePacks&quot;&gt;扩展文档&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -205,9 +205,8 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </oldsource>
-        <translation type="unfinished">
-该模块可以构建翻译文件并在本地安装。它对于创建和测试翻译非常有用。
-更多信息请参见 &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;扩展的文档&lt;/a&gt;。
+        <translation>
+本模块的开发获得部分资助，资助方为 &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS 项目&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -235,17 +234,17 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="267"/>
         <source>Auto-detect</source>
-        <translation type="unfinished">自动检测</translation>
+        <translation>自动检测</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="268"/>
         <source>Left to Right</source>
-        <translation type="unfinished">从左到右</translation>
+        <translation>从左到右</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="269"/>
         <source>Right to Left</source>
-        <translation type="unfinished">从右到左</translation>
+        <translation>从右到左</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="332"/>
@@ -295,7 +294,7 @@ See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLan
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="691"/>
         <source>Skipped. The downloaded file is invalid.</source>
-        <translation type="unfinished">跳过。下载的文件无效。</translation>
+        <translation>已跳过。下载的文件无效。</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="717"/>
