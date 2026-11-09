@@ -189,11 +189,11 @@ Click on Choose Directory to Add and browse to the location of the Slicer datase
 
 Select the dataset3_ProstateMRI and click on Open</source>
         <extracomment>10_TextBox_1</extracomment>
-        <translation>在「欢迎使用 Slicer」模块点击「添加数据」。
+        <translation>在「欢迎使用 Slicer」模块中点击「添加数据」。
 
-点击「选择要添加的目录」，找到 Slicer 示例数据所在位置。
+点击「选择要添加的目录」，找到 Slicer 示例数据所在目录。
 
-选择 dataset3_ProstateMRI 并点击「打开」。</translation>
+选中 dataset3_ProstateMRI，然后点击「打开」</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="48"/>
@@ -207,9 +207,9 @@ Select the dataset3_ProstateMRI and click on Open</source>
 
 Select the MONAIAuto3DSeg module</source>
         <extracomment>12_TextBox_0</extracomment>
-        <translation>在模块菜单中点击「欢迎使用 Slicer」，找到「分割」分类。
+        <translation>打开当前显示「欢迎使用 Slicer」的模块下拉菜单，进入「分割」分类。
 
-选择 MONAIAuto3DSeg 模块。</translation>
+选择 MONAIAuto3DSeg 模块</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="52"/>
@@ -283,13 +283,13 @@ In the subdirectory dataset4_BrainMRI_Glioma, select the four datasets BraTS-GLI
 
 Click on Open</source>
         <extracomment>19_TextBox_1</extracomment>
-        <translation>在「欢迎使用 Slicer」模块点击「添加数据」。
+        <translation>在「欢迎使用 Slicer」模块中点击「添加数据」。
 
-点击「选择要添加的文件」，找到 Slicer 数据集的位置。
+点击「选择要添加的文件」，找到 Slicer 示例数据所在目录。
 
-在子目录 dataset4_BrainMRI_Glioma 中选择四个文件：BraTS-GLI-00006-t1c.nii.gz、BraTS-GLI-00006-t1n.nii.gz、BraTS-GLI-00006-t2f.nii.gz、BraTS-GLI-00006-t2w.nii.gz。
+在子目录 dataset4_BrainMRI_Glioma 中选择四个文件：BraTS-GLI-00006-000-t1c.nii.gz、BraTS-GLI-00006-000-t1n.nii.gz、BraTS-GLI-00006-000-t2f.nii.gz、BraTS-GLI-00006-000-t2w.nii.gz。
 
-点击「打开」。</translation>
+点击「打开」</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="70"/>
@@ -319,15 +319,15 @@ Click on Apply to start the segmentation</source>
         <extracomment>21_TextBox_0</extracomment>
         <translation>按以下对应关系选择输入体数据：
 
-T2F：BraTS-GLI_00005-000-t2f
-T1C：BraTS-GLI_00005-000-t1c
-T1N：BraTS-GLI_00005-000-t1n
-T2W：BraTS-GLI_00005-000-t2w
+T2-FLAIR（T2F）：BraTS-GLI-00006-000-t2f
+增强 T1（T1C）：BraTS-GLI-00006-000-t1c
+平扫 T1（T1N）：BraTS-GLI-00006-000-t1n
+T2 加权（T2W）：BraTS-GLI-00006-000-t2w
 
 
 选择「应用时创建新分割」。
 
-点击「应用」开始分割。</translation>
+点击「应用」开始分割</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -337,7 +337,7 @@ Once the segmentation is done, &apos;Processing finished&apos; appears in the Sl
         <extracomment>22_TextBox_1</extracomment>
         <translation>Slicer 开始执行推理任务。
 
-分割完成后，Slicer 界面会显示「处理完成」。</translation>
+分割结束后，在 Slicer 界面查看「处理完成」提示</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="78"/>
@@ -391,11 +391,11 @@ Click on Create new Segmentation on Apply
 
 Click on Apply to start the segmentation</source>
         <extracomment>28_TextBox_0</extracomment>
-        <translation>选择输入体数据 6:CT_Thorax_Abdomen。
+        <translation>将 6:CT_Thorax_Abdomen 设为输入体数据。
 
 选择「应用时创建新分割」。
 
-点击「应用」开始分割。</translation>
+点击「应用」开始分割</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
@@ -431,7 +431,7 @@ The module can run on standard laptop and desktop computers with no GPU.</source
         <location filename="text_dict_default.json" line="100"/>
         <source>The 3D Slicer internationalization project and the 3D Slicer for Latin America project have been made possible through funding by the Chan Zuckerberg Initiative.</source>
         <extracomment>31_TextBox_1</extracomment>
-        <translation>3D Slicer 国际化项目和 3D Slicer 拉丁美洲项目得到了陈－扎克伯格倡议（CZI）的资助。</translation>
+        <translation>3D Slicer 国际化项目和 3D Slicer 拉丁美洲项目均获得陈－扎克伯格倡议（Chan Zuckerberg Initiative）的资助。</translation>
     </message>
 </context>
 </TS>
