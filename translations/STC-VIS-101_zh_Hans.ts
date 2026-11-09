@@ -59,7 +59,7 @@
 
 • 在 Slicer 中加载并显示 DICOM 图像
 
-• 对 CT 数据进行体积渲染
+• 对 CT 数据进行体渲染
 
 • 加载并显示由 MRI 数据重建的 3D 模型</translation>
     </message>
@@ -141,7 +141,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <extracomment>6_TextBox_1</extracomment>
         <translation>•  第 1 部分：加载和查看 DICOM 数据
 
-•  第 2 部分：体积渲染
+•  第 2 部分：体渲染
 
 
 • 第 3 部分：加载和查看 3D 模型</translation>
