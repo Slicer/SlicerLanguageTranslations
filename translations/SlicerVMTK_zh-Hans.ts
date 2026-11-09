@@ -2492,7 +2492,8 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="288"/>
         <source>Extrusion kernel size or Gaussian standard deviation
                 or seed radius or shell margin or shell thickness is invalid.</source>
-        <translation>去凸起核大小、高斯标准差、种子半径、壳层边距或壳层厚度无效。</translation>
+        <translation>至少有一项参数无效。
+请检查去凸起核大小、高斯标准差、种子半径、壳层边距和壳层厚度。</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="292"/>
