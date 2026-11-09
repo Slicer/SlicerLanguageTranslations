@@ -419,7 +419,8 @@ of DICOM images</source>
         <source>Click on Preset in the Display tab 
 and select the preset CT-Cardiac3 </source>
         <extracomment>23_ArrowText_0</extracomment>
-        <translation>点击「显示」组的「渲染预设」，选择 CT-Cardiac3 </translation>
+        <translation>点击「显示」组的「渲染预设」
+选择 CT-Cardiac3 </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="110"/>
@@ -427,8 +428,9 @@ and select the preset CT-Cardiac3 </source>
 Click on the eye icon in the Volume tab to display 
 the volume rendered image in the 3D viewer</source>
         <extracomment>24_TextBox_2</extracomment>
-        <translation>选择「VTK GPU 光线投射」。
-点击体数据旁的眼睛图标，在三维视图中显示体渲染结果</translation>
+        <translation>选择「VTK GPU 光线投射」
+点击体数据旁的眼睛图标
+在三维视图中查看体渲染结果</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="114"/>
@@ -446,7 +448,10 @@ display a region of interest
 (ROI) in the 3D viewer and 
 check the option Enable</source>
         <extracomment>26_ArrowText_0</extracomment>
-        <translation>点击「显示 ROI」，在三维视图中显示感兴趣区域，并勾选「区域裁剪」旁的「启用」</translation>
+        <translation>点击「显示 ROI」
+在三维视图中查看感兴趣区域
+找到「区域裁剪」选项
+勾选「启用」</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="122"/>
@@ -497,7 +502,8 @@ the right kidney</source>
         <source>Click on File, then Close Scene
 in the main menu</source>
         <extracomment>31_ArrowText_1</extracomment>
-        <translation>在主菜单中，点击“文件”，然后点击“关闭场景”</translation>
+        <translation>在主菜单中点击「文件」
+再选择「关闭场景」</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="140"/>
