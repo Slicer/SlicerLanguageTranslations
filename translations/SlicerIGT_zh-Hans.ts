@@ -387,10 +387,10 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation>本模块将纹理（存储于体积节点）应用于模型节点，
-通常用于显示表面扫描仪提供的彩色表面（需导出为 OBJ 格式）。
-模型必须包含纹理坐标，且仅支持单纹理文件。
-更多信息请访问&lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;Slicer影像引导治疗项目官网&lt;/a&gt;。
+        <translation>本模块将存储在体数据节点中的纹理应用到模型节点。
+通常用于显示由表面扫描仪采集并导出为 OBJ 格式的彩色表面。
+模型必须包含纹理坐标，每个模型只支持一个纹理文件。
+详情请参阅&lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT 项目主页&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -1385,7 +1385,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="62"/>
         <source>This is a module for detecting landmarks by pivoting a tracked stylus. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation>通过摆动受跟踪的探针检测标志点。如有疑问或遇到问题，请在 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub 页面&lt;/a&gt;提交问题。</translation>
+        <translation>本模块通过保持跟踪探针的尖端基本不动、绕尖端摆动探针来检测标志点。如有疑问或遇到问题，请在 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub 页面&lt;/a&gt;提交问题。</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
