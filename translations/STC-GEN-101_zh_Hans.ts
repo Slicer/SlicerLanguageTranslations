@@ -249,7 +249,8 @@ in the 2D viewers.</source>
         <source>Click on the link icon to link all three 2D viewers, and on the eye icon next to it
 to display the slices in the 3D viewer</source>
         <extracomment>14_TextBox_1</extracomment>
-        <translation>点击链接图标关联三个二维视图，再点击旁边的眼睛图标，将切片显示在三维视图中</translation>
+        <translation>点击链接图标，联动三个二维视图
+再点击旁边的眼睛图标，在三维视图中显示切片</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="88"/>
