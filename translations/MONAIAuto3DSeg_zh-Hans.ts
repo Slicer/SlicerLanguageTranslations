@@ -30,8 +30,8 @@
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
         <translation>
-用于通过 MONAI Auto3DSeg AI 模型进行分割的 3D Slicer 扩展。 
-更多详情请参见&lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;扩展文档&lt;/a&gt;。
+本扩展使用 MONAI Auto3DSeg 模型在 3D Slicer 中进行分割。
+详情请参阅 &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;扩展文档&lt;/a&gt;。
 </translation>
     </message>
     <message>
