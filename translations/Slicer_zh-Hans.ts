@@ -4886,7 +4886,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation>生成的模型存放于模型层次节点下。导入 Slicer 的模型存放于模型层次节点下，其颜色由输入标签图关联的色表设定。运行前需通过模型下拉菜单创建新模型层级；命令行运行时将自动在新 MRML 场景创建层级节点。</translation>
+        <translation>生成的模型归入模型层次结构节点。模型导入 Slicer 后，其颜色由输入标签图体数据关联的色表决定。运行模型生成器前，请在「模型」下拉菜单中选择「新建模型层次结构」来创建该节点。通过命令行运行时，程序会在新的 MRML 场景中自动创建模型层次结构节点。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
