@@ -86,32 +86,32 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
         <source>Robust cropping:</source>
-        <translation type="unfinished"></translation>
+        <translation>稳健裁剪：</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="230"/>
         <source>Use 3mm model for cropping instead of default 6mm. More robust but slightly slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪时使用 3 mm 模型替代默认的 6 mm 模型。裁剪更稳健，但耗时略长。</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
         <source>Remove small blobs:</source>
-        <translation type="unfinished"></translation>
+        <translation>移除小连通域：</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="247"/>
         <source>Remove small disconnected regions (less than 0.2 ml) from final segmentations.</source>
-        <translation type="unfinished"></translation>
+        <translation>从最终分割结果中移除体积小于 0.2 mL 的孤立区域。</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="257"/>
         <source>Higher-order resampling:</source>
-        <translation type="unfinished"></translation>
+        <translation>高阶重采样：</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="264"/>
         <source>Use higher order resampling for segmentations. Smoother results but more runtime and memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>对分割结果使用高阶重采样。结果更平滑，但耗时更长、占用内存更多。</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="274"/>
@@ -151,37 +151,37 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="65"/>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>处理速度：</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="74"/>
         <source>Full resolution output.</source>
-        <translation type="unfinished"></translation>
+        <translation>以完整分辨率输出。</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="77"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>标准</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="84"/>
         <source>Enable fast option to get less accurate results, faster (3mm resolution).</source>
-        <translation type="unfinished"></translation>
+        <translation>启用快速模式，以 3 mm 分辨率更快地完成分割，准确度会有所降低。</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="87"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>快速</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="94"/>
         <source>Enable faster option for very low resolution (6mm) but very fast results. Only available for total and total_mr tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>启用极速模式，以较低的 6 mm 分辨率快速完成分割。仅适用于 total 和 total_mr 任务。</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="97"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation>极速</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="301"/>
@@ -201,7 +201,7 @@ See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerTo
 </source>
         <translation>
 3D Slicer 扩展，使用“TotalSegmentator” AI 模型实现全自动全身 CT 分割。
-详情请参阅&lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;扩展文档&lt;/a&gt;。
+详情请参阅 &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;扩展文档&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -216,7 +216,7 @@ https://arxiv.org/abs/2208.05868
 </source>
         <translation>
 该文件原由 Andras Lasso（PerkLab，皇后大学）开发。
-本模块使用&lt;a href=&quot;https://github.com/wasserth/TotalSegmentator&quot;&gt;TotalSegmentator&lt;/a&gt;。
+本模块使用 &lt;a href=&quot;https://github.com/wasserth/TotalSegmentator&quot;&gt;TotalSegmentator&lt;/a&gt;。
 如果您在研究中使用本软件的 TotalSegmentator nn-Unet 功能，请引用：
 Wasserthal J., Meyer M., Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.：
 TotalSegmentator：CT 图像中 104 个解剖结构的鲁棒分割。
@@ -306,7 +306,7 @@ Press OK to restart.</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="373"/>
         <source>This TotalSegmentator update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>此次 TotalSegmentator 更新需要重启 3D Slicer。点击「确定」重启。</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="374"/>
@@ -415,7 +415,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1008"/>
         <source>This license update requires a 3D Slicer restart. Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>此次许可证更新需要重启 3D Slicer。点击「确定」重启。</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1045"/>
