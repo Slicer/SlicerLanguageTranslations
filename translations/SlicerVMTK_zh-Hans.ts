@@ -635,7 +635,7 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
         <translation>
-本模块用于描述沿VMTK中心线模型、VMTK中心线标注曲线或任意标注曲线的截面。文档可在&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;此处&lt;/a&gt;获取。
+本模块用于分析沿 VMTK 中心线模型、VMTK 中心线标记曲线或任意标记曲线的截面。详情请参阅&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块文档&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -960,12 +960,12 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="416"/>
         <source>Cycle through the identified distinct regions.</source>
-        <translation>在确定的不同区域中循环</translation>
+        <translation>在已识别的各个区域之间循环切换。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="438"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
-        <translation>表示所选区域的大小。低值则暗示有寄生区</translation>
+        <translation>显示所选区域的网格点数和单元数。数值较低时，可能是杂散连通区域。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="448"/>
@@ -3035,7 +3035,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
         <translation>
-此 &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块&lt;/a&gt;按当前切片平面的方向计算分段的截面积，可用于快速评估二维动脉狭窄，也可用于其他截面积测量。
+此&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块&lt;/a&gt;沿当前切片平面切取分割区域，并计算截面积。可用于快速评估二维动脉狭窄，也可用于其他截面积测量。
 </translation>
     </message>
     <message>
