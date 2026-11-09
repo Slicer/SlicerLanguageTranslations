@@ -156,9 +156,9 @@ This module makes use of the &apos;ExtractCenterline&apos; module to generate cu
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
         <translation>
-将中心线模型分解为多个部分。
-本模块利用 ExtractCenterline 模块生成曲线。
-更多信息请参阅&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块文档&lt;/a&gt;。
+将中心线模型拆分为多个部分。
+本模块调用 ExtractCenterline 模块生成曲线。
+详情请参阅 &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块文档&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -635,7 +635,7 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
         <translation>
-本模块用于分析沿 VMTK 中心线模型、VMTK 中心线标记曲线或任意标记曲线的截面。详情请参阅&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块文档&lt;/a&gt;。
+本模块分析沿 VMTK 中心线模型、VMTK 中心线标记曲线或任意标记曲线的截面。详情请参阅 &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块文档&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -1408,7 +1408,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 及 Isomics 的 Steve Pieper 开发，并得到 NIH 项目 3P41RR013218-12S1 的部分资助。
+本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 和 Isomics 的 Steve Pieper 共同开发。
+本工作得到美国国立卫生研究院（NIH）项目 3P41RR013218-12S1 的部分资助。
 </translation>
     </message>
     <message>
@@ -2177,7 +2178,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 及 Isomics 的 Steve Pieper 开发，并得到 NIH 项目 3P41RR013218-12S1 的部分资助。
+本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 和 Isomics 的 Steve Pieper 共同开发。
+本工作得到美国国立卫生研究院（NIH）项目 3P41RR013218-12S1 的部分资助。
 </translation>
     </message>
     <message>
@@ -2457,7 +2459,7 @@ If centerlines are extracted, optionally replace the segment by its largest regi
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
         <translation>
-此 &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块&lt;/a&gt;使用「分割编辑器」的工具尝试分割主要静脉。
+此 &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块&lt;/a&gt; 使用「分割编辑器」中的效果辅助分割主要静脉。
 </translation>
     </message>
     <message>
@@ -2467,7 +2469,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 及 Isomics 的 Steve Pieper 开发，并得到 NIH 项目 3P41RR013218-12S1 的部分资助。
+本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 和 Isomics 的 Steve Pieper 共同开发。
+本工作得到美国国立卫生研究院（NIH）项目 3P41RR013218-12S1 的部分资助。
 </translation>
     </message>
     <message>
@@ -2686,7 +2689,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 及 Isomics 的 Steve Pieper 开发，并得到 NIH 项目 3P41RR013218-12S1 的部分资助。
+本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 和 Isomics 的 Steve Pieper 共同开发。
+本工作得到美国国立卫生研究院（NIH）项目 3P41RR013218-12S1 的部分资助。
 </translation>
     </message>
     <message>
@@ -2957,7 +2961,7 @@ It is recommended to generate centerlines on accurate segmentations.</source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; straightens an open input markups curve and displays cumulative and individual lengths between control points. It is intended for quick one dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
         <translation>
-此 &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块&lt;/a&gt;将输入的开放标记曲线拉直，并显示控制点之间的累计长度和分段长度。它可用于快速评估一维动脉狭窄，也可用于其他长度测量。
+此 &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块&lt;/a&gt; 会将输入的开放标记曲线拉直，并显示控制点之间的累计长度和各段长度。可用于快速评估一维动脉狭窄，也可用于其他长度测量。
 </translation>
     </message>
     <message>
@@ -2967,7 +2971,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 及 Isomics 的 Steve Pieper 开发，并得到 NIH 项目 3P41RR013218-12S1 的部分资助。
+本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 和 Isomics 的 Steve Pieper 共同开发。
+本工作得到美国国立卫生研究院（NIH）项目 3P41RR013218-12S1 的部分资助。
 </translation>
     </message>
     <message>
@@ -3035,7 +3040,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
         <translation>
-此&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块&lt;/a&gt;沿当前切片平面切取分割区域，并计算截面积。可用于快速评估二维动脉狭窄，也可用于其他截面积测量。
+此 &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块&lt;/a&gt; 按当前切片平面截取分割区域，并计算截面积。可用于快速评估二维动脉狭窄，也可用于其他截面积测量。
 </translation>
     </message>
     <message>
@@ -3045,7 +3050,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 及 Isomics 的 Steve Pieper 开发，并得到 NIH 项目 3P41RR013218-12S1 的部分资助。
+本文件最初由 Kitware 的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso 和 Isomics 的 Steve Pieper 共同开发。
+本工作得到美国国立卫生研究院（NIH）项目 3P41RR013218-12S1 的部分资助。
 </translation>
     </message>
     <message>
