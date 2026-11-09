@@ -132,6 +132,7 @@ Multiple pathologies (tumor, hemorrhage, edema).</source>
 
 覆盖多个解剖部位（头部、胸部、腹部、盆腔等）。
 
+
 支持多种病变（肿瘤、出血、水肿）。</translation>
     </message>
     <message>
