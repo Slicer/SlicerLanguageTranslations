@@ -606,12 +606,9 @@ scene
 
 Select the model Skin.vtk</source>
         <extracomment>38_ArrowText_0</extracomment>
-        <translation>Slicer 显示了
-场景中
-加载的
-3D 模型列表
+        <translation>Slicer 会列出场景中已加载的三维模型。
 
-选择模型 Skin.vtk</translation>
+选择 Skin.vtk 模型</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="168"/>
