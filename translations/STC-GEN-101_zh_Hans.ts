@@ -7,13 +7,13 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Slicer Welcome</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished">Slicer 欢迎</translation>
+        <translation>欢迎使用 Slicer</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished">索尼娅·普约尔，博士</translation>
+        <translation>Sonia Pujol 博士</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
@@ -24,7 +24,7 @@ Brigham and Women’s Hospital
 Harvard Medical School
 </source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished">放射科助理教授
+        <translation>放射科助理教授
 
 布里格姆妇女医院
 
@@ -35,13 +35,13 @@ Harvard Medical School
         <location filename="text_dict_default.json" line="14"/>
         <source>Goal</source>
         <extracomment>1_Goal_title</extracomment>
-        <translation type="unfinished">目标</translation>
+        <translation>目标</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>This tutorial is a short introduction to the Welcome module of the Slicer open-source software.</source>
         <extracomment>1_Goal_body</extracomment>
-        <translation type="unfinished">本教程简要介绍了开源软件 Slicer 的“欢迎”模块。</translation>
+        <translation>本教程简要介绍了开源软件 Slicer 的“欢迎”模块。</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
