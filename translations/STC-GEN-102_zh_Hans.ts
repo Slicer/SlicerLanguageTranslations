@@ -15,7 +15,7 @@
         <location filename="text_dict_default.json" line="10"/>
         <source>Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished">索尼娅·普约尔，博士</translation>
+        <translation>Sonia Pujol 博士</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
