@@ -357,8 +357,8 @@ This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
         <translation>
-这是扩展包中捆绑的脚本化可加载模块示例。
-更多信息请参见&lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;模块文档&lt;/a&gt;。
+这是扩展自带的可加载脚本模块示例。
+详情请参阅 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/blob/master/SequenceReplay/SequenceReplay.py&quot;&gt;SequenceReplay 模块源码&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -390,7 +390,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <translation>本模块将存储在体数据节点中的纹理应用到模型节点。
 通常用于显示由表面扫描仪采集并导出为 OBJ 格式的彩色表面。
 模型必须包含纹理坐标，每个模型只支持一个纹理文件。
-详情请参阅&lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT 项目主页&lt;/a&gt;。
+详情请参阅 &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT 项目主页&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -1385,7 +1385,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="62"/>
         <source>This is a module for detecting landmarks by pivoting a tracked stylus. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation>本模块通过保持跟踪探针的尖端基本不动、绕尖端摆动探针来检测标志点。如有疑问或遇到问题，请在 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub 页面&lt;/a&gt;提交问题。</translation>
+        <translation>本模块通过保持跟踪探针尖端基本不动、绕尖端摆动探针来检测标志点。如有疑问或遇到问题，请反馈至 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub 页面&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
@@ -1492,7 +1492,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
-        <translation>本模块得到以下项目资助：5P01CA067165、5R01CA124377、5R01CA138586、2R44DE019322、7R01CA124377、5R42CA137886、8P41EB015898。</translation>
+        <translation>本模块的资助项目编号：5P01CA067165、5R01CA124377、5R01CA138586、2R44DE019322、7R01CA124377、5R42CA137886、8P41EB015898</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
@@ -2129,7 +2129,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="140"/>
         <source>The transform node *from* which the output is based (e.g. Source in SourceToTarget)</source>
-        <translation>输出变换的起始坐标系所对应的节点，例如 SourceToTarget 中的 Source。</translation>
+        <translation>用于定义输出变换起始坐标系的变换节点（例如 SourceToTarget 中的 Source）</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="165"/>
@@ -2180,7 +2180,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="303"/>
         <source>The transform node *to* which the output is based (e.g. Target in SourceToTarget)</source>
-        <translation>输出变换的目标坐标系所对应的节点，例如 SourceToTarget 中的 Target。</translation>
+        <translation>用于定义输出变换目标坐标系的变换节点（例如 SourceToTarget 中的 Target）</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="334"/>
@@ -2220,7 +2220,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="424"/>
         <source>The output will be expressed relative to this anchor</source>
-        <translation>输出以此锚点为参考。</translation>
+        <translation>输出变换以此锚点为参考</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="442"/>
@@ -2686,7 +2686,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="93"/>
         <source>This is a module for reconstructing image volumes from sequences. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation>此模块用于从序列重建影像体数据。如有疑问或遇到问题，请在 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub 页面&lt;/a&gt;提交问题。</translation>
+        <translation>本模块用于从图像序列重建影像体数据。如有疑问或遇到问题，请反馈至 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub 页面&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="109"/>
