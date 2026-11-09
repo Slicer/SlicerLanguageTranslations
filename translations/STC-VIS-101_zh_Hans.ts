@@ -7,43 +7,43 @@
         <location filename="text_dict_default.json" line="8"/>
         <source>Basics of Data Loading and 3D Visualization in 3D Slicer</source>
         <extracomment>0_TextBox_0</extracomment>
-        <translation type="unfinished">3D Slicer 中数据加载与 3D 可视化的基础知识</translation>
+        <translation>3D Slicer 中数据加载与 3D 可视化的基础知识</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="10"/>
         <source>Author: Sonia Pujol, Ph.D.</source>
         <extracomment>0_TextBox_1</extracomment>
-        <translation type="unfinished">作者：索尼娅·普霍尔 博士</translation>
+        <translation>作者：Sonia Pujol 博士</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="12"/>
         <source>24/11/2024</source>
         <extracomment>0_TextBox_2</extracomment>
-        <translation type="unfinished">2024年11月24日</translation>
+        <translation>2024年11月24日</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="14"/>
         <source>Assistant Professor of Radiology Brigham and Women’s Hospital Harvard Medical School</source>
         <extracomment>0_TextBox_3</extracomment>
-        <translation type="unfinished">哈佛医学院布里格姆妇女医院放射科助理教授</translation>
+        <translation>哈佛医学院布里格姆妇女医院放射科助理教授</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="16"/>
         <source>Overall Goal</source>
         <extracomment>1_TextBox_0</extracomment>
-        <translation type="unfinished">总体目标</translation>
+        <translation>总体目标</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="18"/>
         <source>This tutorial is an introduction to the basics of loading and viewing DICOM images and 3D models in 3D Slicer.</source>
         <extracomment>1_TextBox_1</extracomment>
-        <translation type="unfinished">本教程介绍了在 3D Slicer 中加载和查看 DICOM 图像及 3D 模型的基础知识。</translation>
+        <translation>本教程介绍了在 3D Slicer 中加载和查看 DICOM 图像及 3D 模型的基础知识。</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="20"/>
         <source>Learning Objectives</source>
         <extracomment>2_TextBox_0</extracomment>
-        <translation type="unfinished">学习目标</translation>
+        <translation>学习目标</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="22"/>
@@ -55,7 +55,7 @@
 
 • to load and visualize 3D models reconstructed from MRI data</source>
         <extracomment>2_TextBox_1</extracomment>
-        <translation type="unfinished"> • 按照本教程操作，您将能够
+        <translation> • 按照本教程操作，您将能够
 
 • 在 Slicer 中加载并显示 DICOM 图像
 
@@ -67,7 +67,7 @@
         <location filename="text_dict_default.json" line="24"/>
         <source>Tutorial materials</source>
         <extracomment>3_TextBox_0</extracomment>
-        <translation type="unfinished">教程资料</translation>
+        <translation>教程资料</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="26"/>
@@ -75,7 +75,7 @@
 
 •  3D VisualizationDataSet.zip</source>
         <extracomment>3_TextBox_1</extracomment>
-        <translation type="unfinished">• 3D Slicer 5.10 版
+        <translation>• 3D Slicer 5.10 版
 
 •  3D VisualizationDataSet.zip</translation>
     </message>
@@ -86,7 +86,7 @@
         <extracomment>4_TextBox_0
 ----------
 33_TextBox_0</extracomment>
-        <translation type="unfinished">数据集教程</translation>
+        <translation>教程数据集</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="30"/>
@@ -97,7 +97,7 @@
 
 Unzip the file 3DVisualizationDataset.zip on your computer to access the datasets</source>
         <extracomment>4_TextBox_1</extracomment>
-        <translation type="unfinished">文件 3DVisualizationDataset.zip 包含两个目录：
+        <translation>文件 3DVisualizationDataset.zip 包含两个目录：
 
 - dataset1_Thorax_Abdomen 
 - dataset2_Head
@@ -108,7 +108,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <location filename="text_dict_default.json" line="32"/>
         <source>Disclaimer</source>
         <extracomment>5_TextBox_0</extracomment>
-        <translation type="unfinished">免责声明</translation>
+        <translation>免责声明</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="34"/>
@@ -118,7 +118,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 • The software is not FDA approved or CE-Marked, and is for research use only.
 </source>
         <extracomment>5_TextBox_1</extracomment>
-        <translation type="unfinished">• 3D Slicer 是一款基于 BSD 风格许可证发布的免费开源软件。
+        <translation>• 3D Slicer 是一款基于 BSD 风格许可证发布的免费开源软件。
 
 
 • 该软件未获得 FDA 批准，也未获得 CE 认证，仅供研究使用。
@@ -128,7 +128,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <location filename="text_dict_default.json" line="36"/>
         <source>Tutorial Outline</source>
         <extracomment>6_TextBox_0</extracomment>
-        <translation type="unfinished">教程大纲</translation>
+        <translation>教程大纲</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="38"/>
@@ -139,7 +139,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
 
 • Part 3: Loading and Viewing 3D models</source>
         <extracomment>6_TextBox_1</extracomment>
-        <translation type="unfinished">•  第 1 部分：加载和查看 DICOM 数据
+        <translation>•  第 1 部分：加载和查看 DICOM 数据
 
 •  第 2 部分：体积渲染
 
@@ -150,7 +150,7 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <location filename="text_dict_default.json" line="40"/>
         <source>Part 1: DICOM Data Loading</source>
         <extracomment>7_TextBox_0</extracomment>
-        <translation type="unfinished">第 1 部分：DICOM 数据加载</translation>
+        <translation>第 1 部分：DICOM 数据加载</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="42"/>
@@ -159,26 +159,26 @@ Unzip the file 3DVisualizationDataset.zip on your computer to access the dataset
         <extracomment>8_LoadingaDICOMvolume_title
 ----------
 9_LoadingaDICOMvolume_title</extracomment>
-        <translation type="unfinished">加载 DICOM 体积数据</translation>
+        <translation>加载 DICOM 体数据</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="44"/>
         <source>Slicer displays the user interface of the DICOM module</source>
         <extracomment>8_TextBox_0</extracomment>
-        <translation type="unfinished">Slicer 显示了 DICOM 模块的用户界面</translation>
+        <translation>Slicer 显示了 DICOM 模块的用户界面</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="46"/>
         <source>The patient1 study contains a CT Thorax Abdomen dataset</source>
         <extracomment>8_TextBox_1</extracomment>
-        <translation type="unfinished">患者1的研究包含一个胸部和腹部CT数据集</translation>
+        <translation>patient1 的检查包含一套胸腹部 CT 数据</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="50"/>
         <source>Select patient1 and click on Load 
 to load the dataset in Slicer</source>
         <extracomment>9_ArrowText_1</extracomment>
-        <translation type="unfinished">选择“patient1”，然后点击“加载”
+        <translation>选择“patient1”，然后点击“加载”
 将数据集加载到 Slicer 中</translation>
     </message>
     <message>
@@ -209,7 +209,7 @@ to load the dataset in Slicer</source>
 17_VisualizingDICOMimages_title
 ----------
 18_VisualizingDICOMimages_title</extracomment>
-        <translation type="unfinished">DICOM 图像的可视化</translation>
+        <translation>DICOM 图像的可视化</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="54"/>
@@ -217,16 +217,16 @@ to load the dataset in Slicer</source>
 and sagittal images of the CT 
 Thorax Abdomen dataset </source>
         <extracomment>10_TextBox_0</extracomment>
-        <translation type="unfinished">Slicer 显示了 CT 
+        <translation>Slicer 显示了 CT 
 胸腹部数据集的轴位、冠状位
-和矢状位图像</translation>
+和矢状位图像 </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="58"/>
         <source>Left click on DICOM to display 
 the list of modules of Slicer</source>
         <extracomment>11_ArrowText_1</extracomment>
-        <translation type="unfinished">左键单击“DICOM”以显示
+        <translation>左键单击“DICOM”以显示
 Slicer 的模块列表</translation>
     </message>
     <message>
@@ -234,8 +234,7 @@ Slicer 的模块列表</translation>
         <source>Select the module 
 Volumes</source>
         <extracomment>11_ArrowText_2</extracomment>
-        <translation type="unfinished">选择模块
-卷</translation>
+        <translation>选择「体数据」模块</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="64"/>
@@ -244,7 +243,7 @@ preset to automatically adjust
 the window/level display of the 
 CT dataset</source>
         <extracomment>12_ArrowText_0</extracomment>
-        <translation type="unfinished">点击“腹部CT”
+        <translation>点击“腹部CT”
 预设，以自动调整
 该CT数据集的
 窗宽/窗位显示</translation>
@@ -266,7 +265,7 @@ Click on the Eye icon to
 display the three anatomical 
 slices in the 3D Viewer</source>
         <extracomment>13_TextBox_1</extracomment>
-        <translation type="unfinished">将鼠标光标
+        <translation>将鼠标光标
 悬停在“红色查看器”中的
 红色横幅上，以显示切片
 菜单。
@@ -286,8 +285,7 @@ slices in the 3D Viewer</source>
         <source>The three anatomical slices 
 appear in the 3D viewer.</source>
         <extracomment>14_TextBox_0</extracomment>
-        <translation type="unfinished">这三个解剖切面
-出现在3D查看器中。</translation>
+        <translation>三维视图中会显示三个解剖方向的切片。</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="76"/>
@@ -295,9 +293,7 @@ appear in the 3D viewer.</source>
 icon, and select the 
 Conventional Widescreen layout</source>
         <extracomment>15_ArrowText_0</extracomment>
-        <translation type="unfinished">点击“切片器布局”菜单
-图标，然后选择
-“常规宽屏”布局</translation>
+        <translation>点击 Slicer 的布局菜单图标，选择「常规宽屏」</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="80"/>
@@ -305,7 +301,7 @@ Conventional Widescreen layout</source>
 to Conventional 
 Widescreen layout</source>
         <extracomment>16_TextBox_0</extracomment>
-        <translation type="unfinished">Slicer 将布局切换为
+        <translation>Slicer 将布局切换为
 常规
 宽屏布局</translation>
     </message>
@@ -314,7 +310,7 @@ Widescreen layout</source>
         <source>Use the right mouse button in the 
 3D Viewer to zoom in and out</source>
         <extracomment>17_TextBox_0</extracomment>
-        <translation type="unfinished">在
+        <translation>在
 3D 查看器中使用鼠标右键进行放大或缩小</translation>
     </message>
     <message>
@@ -322,7 +318,7 @@ Widescreen layout</source>
         <source>Use the left mouse button in the 
 3D Viewer to rotate the images</source>
         <extracomment>18_TextBox_0</extracomment>
-        <translation type="unfinished">在
+        <translation>在
 3D 查看器中使用鼠标左键旋转图像</translation>
     </message>
     <message>
@@ -332,7 +328,7 @@ Widescreen layout</source>
         <extracomment>19_3DViewerController_title
 ----------
 20_3DViewerController_title</extracomment>
-        <translation type="unfinished">3D 查看器控制器</translation>
+        <translation>3D 查看器控制器</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="92"/>
@@ -346,7 +342,7 @@ top row of the 3DView
 controller to center the 3D view 
 on the scene</source>
         <extracomment>19_TextBox_1</extracomment>
-        <translation type="unfinished">将鼠标光标悬停在
+        <translation>将鼠标光标悬停在
 3D 查看器窗口蓝色横幅中的
 图钉图标上，以
 显示 3DView 控制器
@@ -361,14 +357,13 @@ on the scene</source>
         <source>Select the Volume Rendering 
 module in the list of modules </source>
         <extracomment>20_ArrowText_1</extracomment>
-        <translation type="unfinished">在模块列表中选择“体积渲染”
-模块</translation>
+        <translation>在模块列表中选择「体渲染」 </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="98"/>
         <source>Part 2: Volume Rendering</source>
         <extracomment>21_TextBox_0</extracomment>
-        <translation type="unfinished">第2部分：体积渲染</translation>
+        <translation>第 2 部分：体渲染</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="100"/>
@@ -401,7 +396,7 @@ module in the list of modules </source>
 30_VolumeRendering_title
 ----------
 31_VolumeRendering_title</extracomment>
-        <translation type="unfinished">体积渲染</translation>
+        <translation>体渲染</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="102"/>
@@ -415,23 +410,16 @@ module in Slicer enables
 interactive 3D visualization 
 of DICOM images</source>
         <extracomment>22_TextBox_1</extracomment>
-        <translation type="unfinished">• 体积渲染
-技术可实现对三维
-数据集的
-三维可视化
+        <translation>• 体渲染可将三维数据集直观地显示出来。
 
-• Slicer 中的体积渲染
-模块支持
-对 DICOM 图像进行
-交互式三维可视化</translation>
+• Slicer 的「体渲染」模块支持 DICOM 图像的交互式三维显示。</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="106"/>
         <source>Click on Preset in the Display tab 
 and select the preset CT-Cardiac3 </source>
         <extracomment>23_ArrowText_0</extracomment>
-        <translation type="unfinished">在“显示”选项卡中点击“预设”
-并选择预设“CT-Cardiac3”</translation>
+        <translation>点击「显示」组的「渲染预设」，选择 CT-Cardiac3 </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="110"/>
@@ -439,9 +427,8 @@ and select the preset CT-Cardiac3 </source>
 Click on the eye icon in the Volume tab to display 
 the volume rendered image in the 3D viewer</source>
         <extracomment>24_TextBox_2</extracomment>
-        <translation type="unfinished">选择 VTK GPU 光线投射渲染
-点击“体积”选项卡中的眼睛图标，以在 3D 查看器中显示
-体积渲染图像</translation>
+        <translation>选择「VTK GPU 光线投射」。
+点击体数据旁的眼睛图标，在三维视图中显示体渲染结果</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="114"/>
@@ -450,10 +437,7 @@ change the transfer
 function and display the
 aorta</source>
         <extracomment>25_ArrowText_0</extracomment>
-        <translation type="unfinished">使用平移滑块来
-改变传输
-函数并显示
-主动脉</translation>
+        <translation>拖动「强度偏移」滑块，调整传递函数以显示主动脉</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="118"/>
@@ -462,11 +446,7 @@ display a region of interest
 (ROI) in the 3D viewer and 
 check the option Enable</source>
         <extracomment>26_ArrowText_0</extracomment>
-        <translation type="unfinished">点击“显示ROI”以
-在3D查看器中显示
-感兴趣区域
-(ROI)，并
-勾选“启用”选项</translation>
+        <translation>点击「显示 ROI」，在三维视图中显示感兴趣区域，并勾选「区域裁剪」旁的「启用」</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="122"/>
@@ -479,7 +459,7 @@ Position the ROI around the
 left kidney using the color 
 handles</source>
         <extracomment>27_TextBox_0</extracomment>
-        <translation type="unfinished">在 2D 查看器中关闭 
+        <translation>在 2D 查看器中关闭 
 轴向、矢状和冠状 
 切面的显示 
 
@@ -494,9 +474,7 @@ handles</source>
 display the volume rendered 
 image</source>
         <extracomment>28_ArrowText_0</extracomment>
-        <translation type="unfinished">点击眼睛图标以
-显示体积渲染
-图像</translation>
+        <translation>点击眼睛图标，显示体渲染结果</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="130"/>
@@ -504,10 +482,7 @@ image</source>
 volume rendered 
 image of the left kidney </source>
         <extracomment>29_TextBox_0</extracomment>
-        <translation type="unfinished">Slicer 显示了
-左肾的
-体积渲染
-图像</translation>
+        <translation>Slicer 显示左肾的体渲染结果 </translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="134"/>
@@ -515,16 +490,14 @@ image of the left kidney </source>
 a volume rendered image of 
 the right kidney</source>
         <extracomment>30_TextBox_0</extracomment>
-        <translation type="unfinished">将ROI范围扩展，以生成
-右肾的
-体积渲染图像</translation>
+        <translation>扩大 ROI 范围，使体渲染也显示右肾</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="138"/>
         <source>Click on File, then Close Scene
 in the main menu</source>
         <extracomment>31_ArrowText_1</extracomment>
-        <translation type="unfinished">在主菜单中，点击“文件”，然后点击“关闭场景”</translation>
+        <translation>在主菜单中，点击“文件”，然后点击“关闭场景”</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="140"/>
@@ -532,7 +505,7 @@ in the main menu</source>
 viewing 3D models
 </source>
         <extracomment>32_TextBox_0</extracomment>
-        <translation type="unfinished">第3部分：加载和
+        <translation>第3部分：加载和
 查看3D模型
 </translation>
     </message>
@@ -542,7 +515,7 @@ viewing 3D models
 
 • The scene contains 3D models from the SPL brain atlas developed by the department of Radiology at Brigham and Women’s Hospital, Harvard Medical School (NIH P41 RR013218, NIH R01 MH05074)</source>
         <extracomment>33_TextBox_1</extracomment>
-        <translation type="unfinished">• 目录 dataset2_Head 中包含一个名为 Head_scene.mrb 的 Slicer 场景
+        <translation>• 目录 dataset2_Head 中包含一个名为 Head_scene.mrb 的 Slicer 场景
 
 • 该场景包含由哈佛医学院布里格姆妇女医院放射科开发的 SPL 大脑图谱中的 3D 模型（NIH P41 RR013218，NIH R01 MH05074）</translation>
     </message>
@@ -550,7 +523,7 @@ viewing 3D models
         <location filename="text_dict_default.json" line="146"/>
         <source>Slicer Scene</source>
         <extracomment>34_TextBox_0</extracomment>
-        <translation type="unfinished">切片场景</translation>
+        <translation>Slicer 场景</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="148"/>
@@ -562,19 +535,19 @@ Each data set, such as an image volume, surface model, or point set, is represen
 
 All Slicer modules operate on the data stored in a Slicer scene.</source>
         <extracomment>34_TextBox_1</extracomment>
-        <translation type="unfinished">Slicer 将所有加载的数据存储在一个称为“场景”的存储库中
+        <translation>Slicer 将加载的数据存放在场景中。
 
 
-每个数据集（例如图像体积、曲面模型或点集）在 Slicer 场景中都以节点的形式表示。
+每个体数据、表面模型或点集等数据对象，都对应场景中的一个节点。
 
 
-所有 Slicer 模块都是基于存储在 Slicer 场景中的数据进行操作的。</translation>
+Slicer 的各个模块都对场景中的数据进行操作。</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="150"/>
         <source>Loading a Scene</source>
         <extracomment>35_LoadingaScene_title</extracomment>
-        <translation type="unfinished">加载场景</translation>
+        <translation>加载场景</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="152"/>
@@ -582,7 +555,7 @@ All Slicer modules operate on the data stored in a Slicer scene.</source>
 surface model of the 
 head and 2D MRI slices</source>
         <extracomment>35_TextBox_0</extracomment>
-        <translation type="unfinished">Slicer 显示了
+        <translation>Slicer 显示了
 头部的 3D
 表面模型和 2D MRI 切片</translation>
     </message>
@@ -602,7 +575,7 @@ head and 2D MRI slices</source>
 39_Viewing3Dmodels_title
 ----------
 40_Viewing3Dmodels_title</extracomment>
-        <translation type="unfinished">查看3D模型</translation>
+        <translation>查看3D模型</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="156"/>
@@ -612,7 +585,7 @@ slice menu and click on
 the eye icon to display the 
 axial slice in the 3D viewer</source>
         <extracomment>36_ArrowText_0</extracomment>
-        <translation type="unfinished">将光标悬停在
+        <translation>将光标悬停在
 图钉图标上以显示
 切片菜单，然后点击
 眼睛图标，在3D查看器中显示
@@ -623,8 +596,7 @@ axial slice in the 3D viewer</source>
         <source>Select the Models module 
 in the list of models</source>
         <extracomment>37_ArrowText_1</extracomment>
-        <translation type="unfinished">在模型列表中
-选择“模型”模块</translation>
+        <translation>在模块列表中选择「模型」模块</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="164"/>
@@ -634,7 +606,7 @@ scene
 
 Select the model Skin.vtk</source>
         <extracomment>38_ArrowText_0</extracomment>
-        <translation type="unfinished">Slicer 显示了
+        <translation>Slicer 显示了
 场景中
 加载的
 3D 模型列表
@@ -647,10 +619,7 @@ Select the model Skin.vtk</source>
 the Skin model using 
 the visibility slider</source>
         <extracomment>39_ArrowText_0</extracomment>
-        <translation type="unfinished">使用
-可见性滑块
-降低
-皮肤模型的不透明度</translation>
+        <translation>拖动不透明度滑块，降低皮肤模型的不透明度</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="170"/>
@@ -658,7 +627,7 @@ the visibility slider</source>
 eyeballs models appear 
 through the skin</source>
         <extracomment>39_TextBox_1</extracomment>
-        <translation type="unfinished">颅骨和
+        <translation>颅骨和
 眼球模型透过
 皮肤显现出来</translation>
     </message>
@@ -669,7 +638,7 @@ model and click on the
 eye icon to turn off its 
 visibility</source>
         <extracomment>40_ArrowText_1</extracomment>
-        <translation type="unfinished">选中颅骨
+        <translation>选中颅骨
 模型，然后点击
 眼睛图标以关闭其
 可见性</translation>
@@ -680,7 +649,7 @@ visibility</source>
 optic nerve models 
 appear through the skin</source>
         <extracomment>40_TextBox_2</extracomment>
-        <translation type="unfinished">白质和
+        <translation>白质和
 视神经模型
 透过皮肤显现出来</translation>
     </message>
@@ -697,7 +666,7 @@ appear through the skin</source>
 43_Interactingwith3Dmodels_title
 ----------
 44_Interactingwith3Dmodels_title</extracomment>
-        <translation type="unfinished">与3D模型进行交互</translation>
+        <translation>与3D模型进行交互</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="180"/>
@@ -705,7 +674,7 @@ appear through the skin</source>
 display the coronal slice 
 in the 3D viewer</source>
         <extracomment>41_ArrowText_0</extracomment>
-        <translation type="unfinished">点击眼睛图标，
+        <translation>点击眼睛图标，
 在3D查看器中
 显示冠状切面</translation>
     </message>
@@ -715,7 +684,7 @@ in the 3D viewer</source>
 white matter model and 
 select the option Clipping</source>
         <extracomment>42_ArrowText_2</extracomment>
-        <translation type="unfinished">选择半球
+        <translation>选择半球
 白质模型，并
 选中“裁剪”选项</translation>
     </message>
@@ -725,7 +694,7 @@ select the option Clipping</source>
 posteriorily to display the 
 optic chiasm</source>
         <extracomment>43_TextBox_0</extracomment>
-        <translation type="unfinished">将冠状切面
+        <translation>将冠状切面
 向后移动，以显示
 视神经交叉</translation>
     </message>
@@ -734,14 +703,14 @@ optic chiasm</source>
         <source>Slicer displays a 3D view of 
 the optic chiasm</source>
         <extracomment>44_TextBox_0</extracomment>
-        <translation type="unfinished">Slicer 显示了
+        <translation>Slicer 显示了
 视神经交叉的 3D 视图</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="194"/>
         <source>Conclusion</source>
         <extracomment>45_TextBox_0</extracomment>
-        <translation type="unfinished">结论</translation>
+        <translation>结论</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="196"/>
@@ -752,9 +721,9 @@ the optic chiasm</source>
 
 Contact: spujol@bwh.harvard.edu</source>
         <extracomment>45_TextBox_1</extracomment>
-        <translation type="unfinished">• 3D Slicer 提供了用于加载和查看 3D 医学影像数据的高级功能
+        <translation>• 3D Slicer 支持加载和查看三维医学影像数据。
 
-• 本教程演示了如何利用体积渲染和 3D 表面建模技术，对 CT 和 MRI 数据进行交互式可视化
+• 本教程演示了如何通过体渲染和三维表面模型交互查看 CT 和 MRI 数据。
 
 
 联系方式：spujol@bwh.harvard.edu</translation>
@@ -763,13 +732,13 @@ Contact: spujol@bwh.harvard.edu</source>
         <location filename="text_dict_default.json" line="198"/>
         <source>Acknowledgements</source>
         <extracomment>46_TextBox_0</extracomment>
-        <translation type="unfinished">致谢</translation>
+        <translation>致谢</translation>
     </message>
     <message>
         <location filename="text_dict_default.json" line="200"/>
         <source>Neuroimage Analysis Center (NIBIB P41 EB015902)</source>
         <extracomment>46_TextBox_1</extracomment>
-        <translation type="unfinished">神经影像分析中心（NIBIB P41 EB015902）</translation>
+        <translation>神经影像分析中心（NIBIB P41 EB015902）</translation>
     </message>
 </context>
 </TS>
