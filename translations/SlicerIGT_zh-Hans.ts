@@ -358,7 +358,7 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 </source>
         <translation>
 这是扩展自带的可加载脚本模块示例。
-详情请参阅 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/blob/master/SequenceReplay/SequenceReplay.py&quot;&gt;SequenceReplay 模块源码&lt;/a&gt;。
+详情请参阅 &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/blob/master/SequenceReplay/SequenceReplay.py&quot;&gt;模块源码&lt;/a&gt;。
 </translation>
     </message>
     <message>
