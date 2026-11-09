@@ -18149,7 +18149,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="277"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
-        <translation>体积渲染不透明度超过此值时投射阴影。</translation>
+        <translation>体渲染不透明度超过此值时会投射阴影。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="291"/>
@@ -28784,7 +28784,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="103"/>
         <source>Switch to Volume Rendering module to manage display options</source>
-        <translation>切换到容积渲染模块以管理显示选项</translation>
+        <translation>切换到体渲染模块以管理显示选项</translation>
     </message>
 </context>
 <context>
@@ -29790,7 +29790,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-        <translation>从当前场景中选择视图，每个元素对应一个特定的小部件。查看节点与3D渲染部件连接，绘图视图使用绘图小部件。切片(Red, Green, Yellow) 使用2D渲染小部件。</translation>
+        <translation>从当前场景中选择视图。每个条目对应一个控件。三维视图节点对应三维渲染控件，绘图视图对应绘图控件，红、绿、黄切片视图使用二维渲染控件。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
@@ -30032,7 +30032,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="80"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation>体积渲染模块提供了用于切换数据集交互式体积渲染的高级工具。&lt;br/&gt;若支持，硬件加速体积渲染将被启用。该模块允许选择预设的传输函数，以任务适配的方式为数据着色并设置不透明度，同时提供自定义这些参数传输函数的工具。&lt;br/&gt;</translation>
+        <translation>体渲染模块提供交互式体渲染工具，可开启或关闭体数据的体渲染显示。&lt;br/&gt;如果硬件支持，可使用硬件加速体渲染。可以选择预设的传递函数为体数据着色并设置不透明度，也可以自定义传递函数以满足当前任务需要。&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="100"/>
@@ -30060,7 +30060,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
-        <translation>容积渲染</translation>
+        <translation>体渲染</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
@@ -30165,7 +30165,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="512"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
-        <translation>为图形卡上的数据渲染分配的内存数量。 &quot;默认&quot; 可以在设置中修改。</translation>
+        <translation>为体渲染分配的显存容量。可在应用设置中修改「默认」值。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="522"/>
@@ -30245,7 +30245,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="14"/>
         <source>Volume Rendering Presets</source>
-        <translation>容积渲染预设</translation>
+        <translation>体渲染预设</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
@@ -30288,7 +30288,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="14"/>
         <source>Volume Rendering Settings</source>
-        <translation>容积渲染设置</translation>
+        <translation>体渲染设置</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="23"/>
@@ -30313,7 +30313,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="51"/>
         <source>Amount of memory allocated for volume rendering on the graphic card</source>
-        <translation>为图形卡上的容积渲染分配的内存量</translation>
+        <translation>为体渲染分配的显存容量</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="61"/>
@@ -31547,7 +31547,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLMultiVolumeRenderingDisplayNode.cxx" line="37"/>
         <source>Multi Volume Rendering</source>
-        <translation>多体积渲染</translation>
+        <translation>多体数据渲染</translation>
     </message>
 </context>
 <context>
