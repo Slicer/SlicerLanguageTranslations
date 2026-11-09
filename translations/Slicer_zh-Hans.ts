@@ -30090,12 +30090,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
         <source>Visibility:</source>
-        <translation>可见性：</translation>
+        <translation>可见状态：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="235"/>
         <source>Crop:</source>
-        <translation>ROI裁剪：</translation>
+        <translation>区域裁剪：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="247"/>
@@ -30115,7 +30115,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="291"/>
         <source>Rendering:</source>
-        <translation>渲染：</translation>
+        <translation>渲染方式：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="305"/>
@@ -30250,7 +30250,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
         <source>Preset:</source>
-        <translation>预设：</translation>
+        <translation>渲染预设：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
@@ -30261,7 +30261,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="48"/>
         <source>Shift:</source>
-        <translation>偏移：</translation>
+        <translation>强度偏移：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="73"/>
