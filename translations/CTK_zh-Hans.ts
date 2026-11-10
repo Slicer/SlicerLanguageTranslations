@@ -2501,7 +2501,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="247"/>
         <source> Add host</source>
-        <translation> </translation>
+        <translation type="unfinished"> 添加主机</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="264"/>
