@@ -93,12 +93,12 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="481"/>
         <source>{input_title}:</source>
-        <translation type="unfinished"></translation>
+        <translation>{input_title}:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="486"/>
         <source>{image_name} segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>تجزئة {image_name}</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="488"/>
@@ -113,224 +113,225 @@ The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="501"/>
         <source>Start segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء عملية التجزئة</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="505"/>
         <source>Please wait while the segmentation is being initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>يرجى الانتظار بينما تتم تهيئة التجزئة</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="508"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="509"/>
         <source>Cancel in-progress segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء عملية التجزئة الجارية</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="512"/>
         <source>Please wait while the segmentation result is being imported</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء الانتظار بينما يتم استيراد نتيجة التجزئة</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="515"/>
         <source>Please wait for the segmentation to be cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء الانتظار حتى يتم إلغاء التجزئة</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="539"/>
         <source>Running ...</source>
-        <translation type="unfinished"></translation>
+        <translation>جارٍ...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="581"/>
         <source>Log cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>تم مسح السجل</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="649"/>
         <source>The first input volume you provided are part of a sequence. Do you want to segment all frames of that sequence?</source>
-        <translation type="unfinished"></translation>
+        <translation>تُعد مقاطع الفيديو الأولى التي قدمتها جزءًا من تسلسل. هل تريد تقسيم جميع الإطارات في هذا التسلسل؟</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="654"/>
         <source>Processing Failed. Check logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت عملية المعالجة. يرجى مراجعة السجلات للحصول على مزيد من المعلومات.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="684"/>
         <source>Failed to cancel processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إلغاء المعالجة.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="706"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتملت المعالجة.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="709"/>
         <source>Processing was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إلغاء المعالجة.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="715"/>
         <source>Processing failed with error code [{error_codes_string}]. Please check logs for further information.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت عملية المعالجة مع رمز الخطأ [{error_codes_string}]. يرجى مراجعة السجلات للحصول على مزيد من المعلومات.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="741"/>
         <source>Failed to retrieve model information</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل استرداد معلومات النموذج</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="746"/>
         <source>No sample data is available for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد بيانات عينة متاحة لهذا النموذج.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="753"/>
         <source>Failed to download sample data</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنزيل البيانات النموذجية</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="759"/>
         <source>Failed to load sample data set &apos;{sample_data_name}&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحميل مجموعة البيانات النموذجية ’{sample_data_name}‘.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="769"/>
         <source>Failed to get MONAI package version information</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في الحصول على معلومات إصدار حزمة MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="774"/>
         <source>Failed to upgrade MONAI</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحديث MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="778"/>
         <source>This MONAI update requires a 3D Slicer restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتطلب تحديث MONAI هذا إعادة تشغيل برنامج 3D Slicer.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="778"/>
         <source>Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط على موافق لإعادة التشغيل.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="789"/>
         <source>There are no downloaded models.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد نماذج تم تنزيلها.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="791"/>
         <source>All downloaded model files will be deleted. The files will be automatically downloaded again as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم حذف جميع ملفات النماذج التي تم تنزيلها. وسيتم تنزيل الملفات تلقائيًّا مرة أخرى عند الحاجة.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="794"/>
         <source>Downloaded models are deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم حذف النماذج التي تم تنزيلها.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="798"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>متصل</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="803"/>
         <source>Remote Server Connected {server_address}. {models_len} models are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الاتصال بالخادم البعيد {server_address}. يتوفر {models_len} نموذجًا.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="806"/>
         <source>Connection to remote server &apos;{server_address}&apos; failed. 
 Please check address, port, and connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل الاتصال بالخادم البعيد &apos;{server_address}&apos;.
+يرجى التحقق من العنوان والمنفذ والاتصال.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="813"/>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="112"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>اتصل</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="819"/>
         <source>Failed to start server.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تشغيل الخادم.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="842"/>
         <source>Server started</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تشغيل الخادم</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="852"/>
         <source>Server was stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إيقاف الخادم.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="855"/>
         <source>Processing failed with error code {return_code}. Try again with `Log to GUI` for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت المعالجة مع رمز الخطأ {return_code}. حاول مرة أخرى باستخدام `Log to GUI` للحصول على مزيد من التفاصيل.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="1428"/>
         <source>Segmenting sequence item {number_of_processed_items}/{number_of_items}</source>
-        <translation type="unfinished"></translation>
+        <translation>عنصر تسلسل التجزئة {number_of_processed_items}/{number_of_items}</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="127"/>
         <source>Segmentation model:</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج التجزئة:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="136"/>
         <source>List models that contain all the specified words</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة النماذج التي تحتوي على جميع الكلمات المحددة</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="143"/>
         <source>Search in full text of the segmentation model description. Uncheck to search only in the model names.</source>
-        <translation type="unfinished"></translation>
+        <translation>البحث في النص الكامل لوصف نموذج التجزئة. قم بإلغاء التحديد للبحث في أسماء النماذج فقط.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="146"/>
         <source>Full text</source>
-        <translation type="unfinished"></translation>
+        <translation>النص الكامل</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="155"/>
         <source>Download sample data set for the current segmentation model</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل مجموعة بيانات عينة لنموذج التجزئة الحالي</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="158"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="187"/>
         <source>Input volume 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال 1:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="215"/>
         <source>Input volume 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال 2:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="243"/>
         <source>Input volume 3:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال 3:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="271"/>
         <source>Input volume 4:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال 4:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="302"/>
